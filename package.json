@@ -1,0 +1,12 @@
+{
+  "name": "lifemap-city-places",
+  "private": true,
+  "type": "module",
+  "description": "Public LifeMap city-place packs (JSON + badge art) served via jsDelivr",
+  "scripts": {
+    "city-places:catalog": "node scripts/generate-city-entry-catalog.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.2"
+  }
+}

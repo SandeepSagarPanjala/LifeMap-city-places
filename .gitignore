@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+# Working scenes (framed badges under data/.../badges/ are committed)
+data/city-places/**/scenes/
+data/city-places/**/.frame-tmp/

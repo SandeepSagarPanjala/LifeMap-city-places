@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-10T06:13:07.594Z",
+  "cellDeg": 0.5,
+  "cityCount": 3,
+  "cities": {
+    "us/alabama/birmingham": {
+      "name": "Birmingham",
+      "bbox": {
+        "minLat": 33.45,
+        "minLng": -86.9,
+        "maxLat": 33.56,
+        "maxLng": -86.74
+      }
+    },
+    "us/california/san-francisco": {
+      "name": "San Francisco",
+      "bbox": {
+        "minLat": 37.708,
+        "minLng": -122.515,
+        "maxLat": 37.833,
+        "maxLng": -122.357
+      }
+    },
+    "us/texas/denton": {
+      "name": "Denton",
+      "bbox": {
+        "minLat": 33.17,
+        "minLng": -97.2,
+        "maxLat": 33.28,
+        "maxLng": -97.05
+      }
+    }
+  },
+  "cells": {
+    "66,-174": [
+      "us/alabama/birmingham"
+    ],
+    "67,-174": [
+      "us/alabama/birmingham"
+    ],
+    "75,-246": [
+      "us/california/san-francisco"
+    ],
+    "75,-245": [
+      "us/california/san-francisco"
+    ],
+    "66,-195": [
+      "us/texas/denton"
+    ]
+  }
+}

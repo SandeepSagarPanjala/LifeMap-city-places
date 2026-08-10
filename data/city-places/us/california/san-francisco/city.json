@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/san-francisco",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "San Francisco",
+  "bbox": {
+    "minLat": 37.708,
+    "minLng": -122.515,
+    "maxLat": 37.833,
+    "maxLng": -122.357
+  },
+  "updatedAt": "2026-08-09T05:56:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golden-gate-bridge",
+      "name": "Golden Gate Bridge",
+      "lat": 37.81972,
+      "lng": -122.47861,
+      "radiusM": 200,
+      "address": "Golden Gate Bridge, San Francisco, CA",
+      "howTo": "Visit the Golden Gate Bridge.",
+      "badge": "badges/golden-gate-bridge.png"
+    },
+    {
+      "id": "alcatraz-island",
+      "name": "Alcatraz Island",
+      "lat": 37.82667,
+      "lng": -122.42278,
+      "radiusM": 200,
+      "address": "Alcatraz Island, San Francisco, CA",
+      "howTo": "Visit Alcatraz Island.",
+      "badge": "badges/alcatraz-island.png"
+    },
+    {
+      "id": "coit-tower",
+      "name": "Coit Tower",
+      "lat": 37.8024,
+      "lng": -122.4058,
+      "radiusM": 150,
+      "address": "1 Telegraph Hill Blvd, San Francisco, CA",
+      "howTo": "Visit Coit Tower on Telegraph Hill.",
+      "badge": "badges/coit-tower.png"
+    },
+    {
+      "id": "palace-of-fine-arts",
+      "name": "Palace of Fine Arts",
+      "lat": 37.8029,
+      "lng": -122.4484,
+      "radiusM": 150,
+      "address": "3601 Lyon St, San Francisco, CA",
+      "howTo": "Visit the Palace of Fine Arts.",
+      "badge": "badges/palace-of-fine-arts.png"
+    },
+    {
+      "id": "painted-ladies",
+      "name": "Painted Ladies",
+      "lat": 37.7763,
+      "lng": -122.4329,
+      "radiusM": 150,
+      "address": "Alamo Square, San Francisco, CA",
+      "howTo": "Visit the Painted Ladies at Alamo Square.",
+      "badge": "badges/painted-ladies.png"
+    },
+    {
+      "id": "lombard-street",
+      "name": "Lombard Street",
+      "lat": 37.8021,
+      "lng": -122.4187,
+      "radiusM": 120,
+      "address": "Lombard St, San Francisco, CA",
+      "howTo": "Visit the crooked block of Lombard Street.",
+      "badge": "badges/lombard-street.png"
+    },
+    {
+      "id": "pier-39",
+      "name": "Pier 39",
+      "lat": 37.8087,
+      "lng": -122.4098,
+      "radiusM": 150,
+      "address": "Pier 39, San Francisco, CA",
+      "howTo": "Visit Pier 39 at Fisherman's Wharf.",
+      "badge": "badges/pier-39.png"
+    },
+    {
+      "id": "golden-gate-park",
+      "name": "Golden Gate Park",
+      "lat": 37.7694,
+      "lng": -122.4862,
+      "radiusM": 400,
+      "address": "Golden Gate Park, San Francisco, CA",
+      "howTo": "Visit Golden Gate Park.",
+      "badge": "badges/golden-gate-park.png"
+    },
+    {
+      "id": "twin-peaks",
+      "name": "Twin Peaks",
+      "lat": 37.7544,
+      "lng": -122.4477,
+      "radiusM": 200,
+      "address": "Twin Peaks Blvd, San Francisco, CA",
+      "howTo": "Visit the Twin Peaks viewpoint.",
+      "badge": "badges/twin-peaks.png"
+    },
+    {
+      "id": "chinatown-dragon-gate",
+      "name": "Chinatown Dragon Gate",
+      "lat": 37.7906,
+      "lng": -122.4056,
+      "radiusM": 120,
+      "address": "Grant Ave & Bush St, San Francisco, CA",
+      "howTo": "Visit the Dragon Gate at the entrance to Chinatown.",
+      "badge": "badges/chinatown-dragon-gate.png"
+    },
+    {
+      "id": "cable-car",
+      "name": "Cable Car",
+      "lat": 37.7847,
+      "lng": -122.4078,
+      "radiusM": 150,
+      "address": "Powell St & Market St, San Francisco, CA",
+      "howTo": "Ride or visit a San Francisco cable car (Powell turnaround).",
+      "badge": "badges/cable-car.png"
+    },
+    {
+      "id": "ferry-building",
+      "name": "Ferry Building",
+      "lat": 37.7955,
+      "lng": -122.3937,
+      "radiusM": 150,
+      "address": "1 Ferry Building, San Francisco, CA",
+      "howTo": "Visit the Ferry Building on the Embarcadero.",
+      "badge": "badges/ferry-building.png"
+    }
+  ]
+}

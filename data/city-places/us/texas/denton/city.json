@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/denton",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Denton",
+  "bbox": {
+    "minLat": 33.17,
+    "minLng": -97.2,
+    "maxLat": 33.28,
+    "maxLng": -97.05
+  },
+  "updatedAt": "2026-08-10T06:07:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "courthouse-on-the-square",
+      "name": "Courthouse-on-the-Square",
+      "lat": 33.215,
+      "lng": -97.13278,
+      "radiusM": 150,
+      "address": "110 W Hickory St, Denton, TX",
+      "howTo": "Visit the Denton County Courthouse-on-the-Square.",
+      "badge": "badges/courthouse-on-the-square.png"
+    },
+    {
+      "id": "bayless-selby-house",
+      "name": "Bayless-Selby House Museum",
+      "lat": 33.2169,
+      "lng": -97.1354,
+      "radiusM": 120,
+      "address": "317 W Mulberry St, Denton, TX",
+      "howTo": "Visit the Bayless-Selby House Museum.",
+      "badge": "badges/bayless-selby-house.png"
+    },
+    {
+      "id": "quakertown-park",
+      "name": "Quakertown Park",
+      "lat": 33.2176,
+      "lng": -97.1291,
+      "radiusM": 200,
+      "address": "321 E McKinney St, Denton, TX",
+      "howTo": "Visit Quakertown Park in downtown Denton.",
+      "badge": "badges/quakertown-park.png"
+    },
+    {
+      "id": "unt-willis-library",
+      "name": "UNT Willis Library",
+      "lat": 33.2106,
+      "lng": -97.1487,
+      "radiusM": 150,
+      "address": "1506 W Highland St, Denton, TX",
+      "howTo": "Visit Willis Library on the UNT campus.",
+      "badge": "badges/unt-willis-library.png"
+    },
+    {
+      "id": "texas-womans-university",
+      "name": "Texas Woman's University",
+      "lat": 33.2267,
+      "lng": -97.1295,
+      "radiusM": 200,
+      "address": "304 Administration Dr, Denton, TX",
+      "howTo": "Visit the Texas Woman's University campus.",
+      "badge": "badges/texas-womans-university.png"
+    },
+    {
+      "id": "north-lakes-park",
+      "name": "North Lakes Park",
+      "lat": 33.23956,
+      "lng": -97.15362,
+      "radiusM": 300,
+      "address": "2001 W Windsor Dr, Denton, TX",
+      "howTo": "Visit North Lakes Park.",
+      "badge": "badges/north-lakes-park.png"
+    },
+    {
+      "id": "clear-creek-natural-heritage-center",
+      "name": "Clear Creek Natural Heritage Center",
+      "lat": 33.26,
+      "lng": -97.064,
+      "radiusM": 250,
+      "address": "3310 Collins Rd, Denton, TX",
+      "howTo": "Visit Clear Creek Natural Heritage Center.",
+      "badge": "badges/clear-creek-natural-heritage-center.png"
+    },
+    {
+      "id": "unt-discovery-park",
+      "name": "UNT Discovery Park",
+      "lat": 33.2535,
+      "lng": -97.1528,
+      "radiusM": 250,
+      "address": "3940 N Elm St, Denton, TX",
+      "howTo": "Visit UNT Discovery Park.",
+      "badge": "badges/unt-discovery-park.png"
+    }
+  ]
+}

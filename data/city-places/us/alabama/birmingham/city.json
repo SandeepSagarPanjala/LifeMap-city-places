@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alabama/birmingham",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AL",
+  "stateName": "Alabama",
+  "cityName": "Birmingham",
+  "bbox": {
+    "minLat": 33.45,
+    "minLng": -86.9,
+    "maxLat": 33.56,
+    "maxLng": -86.74
+  },
+  "updatedAt": "2026-08-09T16:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vulcan-park",
+      "name": "Vulcan Park and Museum",
+      "lat": 33.49126,
+      "lng": -86.79504,
+      "radiusM": 200,
+      "address": "1701 Valley View Dr, Birmingham, AL",
+      "howTo": "Visit Vulcan Park and Museum on Red Mountain.",
+      "badge": "badges/vulcan-park.png"
+    },
+    {
+      "id": "sloss-furnaces",
+      "name": "Sloss Furnaces",
+      "lat": 33.52217,
+      "lng": -86.79075,
+      "radiusM": 250,
+      "address": "20 32nd St N, Birmingham, AL",
+      "howTo": "Visit Sloss Furnaces National Historic Landmark.",
+      "badge": "badges/sloss-furnaces.png"
+    },
+    {
+      "id": "sixteenth-street-baptist-church",
+      "name": "16th Street Baptist Church",
+      "lat": 33.51678,
+      "lng": -86.81498,
+      "radiusM": 150,
+      "address": "1530 6th Ave N, Birmingham, AL",
+      "howTo": "Visit the 16th Street Baptist Church.",
+      "badge": "badges/sixteenth-street-baptist-church.png"
+    },
+    {
+      "id": "birmingham-civil-rights-institute",
+      "name": "Birmingham Civil Rights Institute",
+      "lat": 33.516,
+      "lng": -86.81461,
+      "radiusM": 150,
+      "address": "520 16th St N, Birmingham, AL",
+      "howTo": "Visit the Birmingham Civil Rights Institute.",
+      "badge": "badges/birmingham-civil-rights-institute.png"
+    },
+    {
+      "id": "kelly-ingram-park",
+      "name": "Kelly Ingram Park",
+      "lat": 33.51633,
+      "lng": -86.81346,
+      "radiusM": 150,
+      "address": "5th Ave N & 16th St, Birmingham, AL",
+      "howTo": "Visit Kelly Ingram Park in the Civil Rights District.",
+      "badge": "badges/kelly-ingram-park.png"
+    },
+    {
+      "id": "a-g-gaston-motel",
+      "name": "A.G. Gaston Motel",
+      "lat": 33.51539,
+      "lng": -86.8145,
+      "radiusM": 120,
+      "address": "1510 5th Ave N, Birmingham, AL",
+      "howTo": "Visit the A.G. Gaston Motel at the Birmingham Civil Rights National Monument.",
+      "badge": "badges/a-g-gaston-motel.png"
+    },
+    {
+      "id": "railroad-park",
+      "name": "Railroad Park",
+      "lat": 33.50968,
+      "lng": -86.80989,
+      "radiusM": 300,
+      "address": "1600 1st Ave S, Birmingham, AL",
+      "howTo": "Visit Railroad Park downtown.",
+      "badge": "badges/railroad-park.png"
+    },
+    {
+      "id": "birmingham-museum-of-art",
+      "name": "Birmingham Museum of Art",
+      "lat": 33.5222,
+      "lng": -86.80995,
+      "radiusM": 150,
+      "address": "2000 Rev Abraham Woods Jr Blvd, Birmingham, AL",
+      "howTo": "Visit the Birmingham Museum of Art.",
+      "badge": "badges/birmingham-museum-of-art.png"
+    },
+    {
+      "id": "birmingham-zoo",
+      "name": "Birmingham Zoo",
+      "lat": 33.48705,
+      "lng": -86.77953,
+      "radiusM": 300,
+      "address": "2630 Cahaba Rd, Birmingham, AL",
+      "howTo": "Visit the Birmingham Zoo.",
+      "badge": "badges/birmingham-zoo.png"
+    },
+    {
+      "id": "arlington-antebellum-home",
+      "name": "Arlington Antebellum Home",
+      "lat": 33.5002,
+      "lng": -86.83878,
+      "radiusM": 150,
+      "address": "331 Cotton Ave SW, Birmingham, AL",
+      "howTo": "Visit Arlington Antebellum Home and Gardens.",
+      "badge": "badges/arlington-antebellum-home.png"
+    }
+  ]
+}

@@ -1,0 +1,1814 @@
+{
+  "schemaVersion": 1,
+  "cursor": "us/alabama/mobile",
+  "updatedAt": "2026-08-10T03:15:00.000Z",
+  "notes": "USA curated popular cities only — not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
+  "countries": [
+    {
+      "id": "us",
+      "countryCode": "US",
+      "name": "United States",
+      "states": [
+        {
+          "id": "alabama",
+          "stateCode": "AL",
+          "name": "Alabama",
+          "cities": [
+            {
+              "id": "birmingham",
+              "name": "Birmingham",
+              "status": "complete",
+              "packPath": "us/alabama/birmingham/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-09T16:46:00.000Z",
+              "bbox": {
+                "minLat": 33.45,
+                "minLng": -86.9,
+                "maxLat": 33.56,
+                "maxLng": -86.74
+              }
+            },
+            {
+              "id": "mobile",
+              "name": "Mobile",
+              "status": "pending",
+              "packPath": "us/alabama/mobile/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "huntsville",
+              "name": "Huntsville",
+              "status": "pending",
+              "packPath": "us/alabama/huntsville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "montgomery",
+              "name": "Montgomery",
+              "status": "pending",
+              "packPath": "us/alabama/montgomery/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "alaska",
+          "stateCode": "AK",
+          "name": "Alaska",
+          "cities": [
+            {
+              "id": "anchorage",
+              "name": "Anchorage",
+              "status": "pending",
+              "packPath": "us/alaska/anchorage/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "juneau",
+              "name": "Juneau",
+              "status": "pending",
+              "packPath": "us/alaska/juneau/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "fairbanks",
+              "name": "Fairbanks",
+              "status": "pending",
+              "packPath": "us/alaska/fairbanks/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "arizona",
+          "stateCode": "AZ",
+          "name": "Arizona",
+          "cities": [
+            {
+              "id": "phoenix",
+              "name": "Phoenix",
+              "status": "pending",
+              "packPath": "us/arizona/phoenix/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "tucson",
+              "name": "Tucson",
+              "status": "pending",
+              "packPath": "us/arizona/tucson/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "sedona",
+              "name": "Sedona",
+              "status": "pending",
+              "packPath": "us/arizona/sedona/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "flagstaff",
+              "name": "Flagstaff",
+              "status": "pending",
+              "packPath": "us/arizona/flagstaff/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "scottsdale",
+              "name": "Scottsdale",
+              "status": "pending",
+              "packPath": "us/arizona/scottsdale/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "arkansas",
+          "stateCode": "AR",
+          "name": "Arkansas",
+          "cities": [
+            {
+              "id": "little-rock",
+              "name": "Little Rock",
+              "status": "pending",
+              "packPath": "us/arkansas/little-rock/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "hot-springs",
+              "name": "Hot Springs",
+              "status": "pending",
+              "packPath": "us/arkansas/hot-springs/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "california",
+          "stateCode": "CA",
+          "name": "California",
+          "cities": [
+            {
+              "id": "san-francisco",
+              "name": "San Francisco",
+              "status": "complete",
+              "packPath": "us/california/san-francisco/city.json",
+              "placeCount": 12,
+              "completedAt": "2026-08-09T05:56:00.000Z",
+              "bbox": {
+                "minLat": 37.708,
+                "minLng": -122.515,
+                "maxLat": 37.833,
+                "maxLng": -122.357
+              }
+            },
+            {
+              "id": "los-angeles",
+              "name": "Los Angeles",
+              "status": "pending",
+              "packPath": "us/california/los-angeles/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "san-diego",
+              "name": "San Diego",
+              "status": "pending",
+              "packPath": "us/california/san-diego/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "sacramento",
+              "name": "Sacramento",
+              "status": "pending",
+              "packPath": "us/california/sacramento/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "monterey",
+              "name": "Monterey",
+              "status": "pending",
+              "packPath": "us/california/monterey/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "santa-barbara",
+              "name": "Santa Barbara",
+              "status": "pending",
+              "packPath": "us/california/santa-barbara/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "palm-springs",
+              "name": "Palm Springs",
+              "status": "pending",
+              "packPath": "us/california/palm-springs/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "anaheim",
+              "name": "Anaheim",
+              "status": "pending",
+              "packPath": "us/california/anaheim/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "napa",
+              "name": "Napa",
+              "status": "pending",
+              "packPath": "us/california/napa/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "south-lake-tahoe",
+              "name": "South Lake Tahoe",
+              "status": "pending",
+              "packPath": "us/california/south-lake-tahoe/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "colorado",
+          "stateCode": "CO",
+          "name": "Colorado",
+          "cities": [
+            {
+              "id": "denver",
+              "name": "Denver",
+              "status": "pending",
+              "packPath": "us/colorado/denver/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "boulder",
+              "name": "Boulder",
+              "status": "pending",
+              "packPath": "us/colorado/boulder/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "colorado-springs",
+              "name": "Colorado Springs",
+              "status": "pending",
+              "packPath": "us/colorado/colorado-springs/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "aspen",
+              "name": "Aspen",
+              "status": "pending",
+              "packPath": "us/colorado/aspen/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "telluride",
+              "name": "Telluride",
+              "status": "pending",
+              "packPath": "us/colorado/telluride/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "connecticut",
+          "stateCode": "CT",
+          "name": "Connecticut",
+          "cities": [
+            {
+              "id": "hartford",
+              "name": "Hartford",
+              "status": "pending",
+              "packPath": "us/connecticut/hartford/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "new-haven",
+              "name": "New Haven",
+              "status": "pending",
+              "packPath": "us/connecticut/new-haven/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mystic",
+              "name": "Mystic",
+              "status": "pending",
+              "packPath": "us/connecticut/mystic/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "delaware",
+          "stateCode": "DE",
+          "name": "Delaware",
+          "cities": [
+            {
+              "id": "wilmington",
+              "name": "Wilmington",
+              "status": "pending",
+              "packPath": "us/delaware/wilmington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "rehoboth-beach",
+              "name": "Rehoboth Beach",
+              "status": "pending",
+              "packPath": "us/delaware/rehoboth-beach/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "florida",
+          "stateCode": "FL",
+          "name": "Florida",
+          "cities": [
+            {
+              "id": "miami",
+              "name": "Miami",
+              "status": "pending",
+              "packPath": "us/florida/miami/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "orlando",
+              "name": "Orlando",
+              "status": "pending",
+              "packPath": "us/florida/orlando/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "tampa",
+              "name": "Tampa",
+              "status": "pending",
+              "packPath": "us/florida/tampa/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "st-augustine",
+              "name": "St. Augustine",
+              "status": "pending",
+              "packPath": "us/florida/st-augustine/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "key-west",
+              "name": "Key West",
+              "status": "pending",
+              "packPath": "us/florida/key-west/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "jacksonville",
+              "name": "Jacksonville",
+              "status": "pending",
+              "packPath": "us/florida/jacksonville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "fort-lauderdale",
+              "name": "Fort Lauderdale",
+              "status": "pending",
+              "packPath": "us/florida/fort-lauderdale/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "naples",
+              "name": "Naples",
+              "status": "pending",
+              "packPath": "us/florida/naples/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "georgia",
+          "stateCode": "GA",
+          "name": "Georgia",
+          "cities": [
+            {
+              "id": "atlanta",
+              "name": "Atlanta",
+              "status": "pending",
+              "packPath": "us/georgia/atlanta/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "savannah",
+              "name": "Savannah",
+              "status": "pending",
+              "packPath": "us/georgia/savannah/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "athens",
+              "name": "Athens",
+              "status": "pending",
+              "packPath": "us/georgia/athens/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "hawaii",
+          "stateCode": "HI",
+          "name": "Hawaii",
+          "cities": [
+            {
+              "id": "honolulu",
+              "name": "Honolulu",
+              "status": "pending",
+              "packPath": "us/hawaii/honolulu/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "hilo",
+              "name": "Hilo",
+              "status": "pending",
+              "packPath": "us/hawaii/hilo/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "kailua-kona",
+              "name": "Kailua-Kona",
+              "status": "pending",
+              "packPath": "us/hawaii/kailua-kona/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "lahaina",
+              "name": "Lahaina",
+              "status": "pending",
+              "packPath": "us/hawaii/lahaina/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "idaho",
+          "stateCode": "ID",
+          "name": "Idaho",
+          "cities": [
+            {
+              "id": "boise",
+              "name": "Boise",
+              "status": "pending",
+              "packPath": "us/idaho/boise/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "sun-valley",
+              "name": "Sun Valley",
+              "status": "pending",
+              "packPath": "us/idaho/sun-valley/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "illinois",
+          "stateCode": "IL",
+          "name": "Illinois",
+          "cities": [
+            {
+              "id": "chicago",
+              "name": "Chicago",
+              "status": "pending",
+              "packPath": "us/illinois/chicago/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "springfield",
+              "name": "Springfield",
+              "status": "pending",
+              "packPath": "us/illinois/springfield/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "galena",
+              "name": "Galena",
+              "status": "pending",
+              "packPath": "us/illinois/galena/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "indiana",
+          "stateCode": "IN",
+          "name": "Indiana",
+          "cities": [
+            {
+              "id": "indianapolis",
+              "name": "Indianapolis",
+              "status": "pending",
+              "packPath": "us/indiana/indianapolis/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bloomington",
+              "name": "Bloomington",
+              "status": "pending",
+              "packPath": "us/indiana/bloomington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "iowa",
+          "stateCode": "IA",
+          "name": "Iowa",
+          "cities": [
+            {
+              "id": "des-moines",
+              "name": "Des Moines",
+              "status": "pending",
+              "packPath": "us/iowa/des-moines/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "iowa-city",
+              "name": "Iowa City",
+              "status": "pending",
+              "packPath": "us/iowa/iowa-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "kansas",
+          "stateCode": "KS",
+          "name": "Kansas",
+          "cities": [
+            {
+              "id": "wichita",
+              "name": "Wichita",
+              "status": "pending",
+              "packPath": "us/kansas/wichita/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "lawrence",
+              "name": "Lawrence",
+              "status": "pending",
+              "packPath": "us/kansas/lawrence/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "kentucky",
+          "stateCode": "KY",
+          "name": "Kentucky",
+          "cities": [
+            {
+              "id": "louisville",
+              "name": "Louisville",
+              "status": "pending",
+              "packPath": "us/kentucky/louisville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "lexington",
+              "name": "Lexington",
+              "status": "pending",
+              "packPath": "us/kentucky/lexington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "louisiana",
+          "stateCode": "LA",
+          "name": "Louisiana",
+          "cities": [
+            {
+              "id": "new-orleans",
+              "name": "New Orleans",
+              "status": "pending",
+              "packPath": "us/louisiana/new-orleans/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "baton-rouge",
+              "name": "Baton Rouge",
+              "status": "pending",
+              "packPath": "us/louisiana/baton-rouge/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "maine",
+          "stateCode": "ME",
+          "name": "Maine",
+          "cities": [
+            {
+              "id": "portland",
+              "name": "Portland",
+              "status": "pending",
+              "packPath": "us/maine/portland/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bar-harbor",
+              "name": "Bar Harbor",
+              "status": "pending",
+              "packPath": "us/maine/bar-harbor/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "maryland",
+          "stateCode": "MD",
+          "name": "Maryland",
+          "cities": [
+            {
+              "id": "baltimore",
+              "name": "Baltimore",
+              "status": "pending",
+              "packPath": "us/maryland/baltimore/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "annapolis",
+              "name": "Annapolis",
+              "status": "pending",
+              "packPath": "us/maryland/annapolis/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ocean-city",
+              "name": "Ocean City",
+              "status": "pending",
+              "packPath": "us/maryland/ocean-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "massachusetts",
+          "stateCode": "MA",
+          "name": "Massachusetts",
+          "cities": [
+            {
+              "id": "boston",
+              "name": "Boston",
+              "status": "pending",
+              "packPath": "us/massachusetts/boston/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cambridge",
+              "name": "Cambridge",
+              "status": "pending",
+              "packPath": "us/massachusetts/cambridge/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "salem",
+              "name": "Salem",
+              "status": "pending",
+              "packPath": "us/massachusetts/salem/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "provincetown",
+              "name": "Provincetown",
+              "status": "pending",
+              "packPath": "us/massachusetts/provincetown/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "michigan",
+          "stateCode": "MI",
+          "name": "Michigan",
+          "cities": [
+            {
+              "id": "detroit",
+              "name": "Detroit",
+              "status": "pending",
+              "packPath": "us/michigan/detroit/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ann-arbor",
+              "name": "Ann Arbor",
+              "status": "pending",
+              "packPath": "us/michigan/ann-arbor/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "grand-rapids",
+              "name": "Grand Rapids",
+              "status": "pending",
+              "packPath": "us/michigan/grand-rapids/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "traverse-city",
+              "name": "Traverse City",
+              "status": "pending",
+              "packPath": "us/michigan/traverse-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mackinac-island",
+              "name": "Mackinac Island",
+              "status": "pending",
+              "packPath": "us/michigan/mackinac-island/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "minnesota",
+          "stateCode": "MN",
+          "name": "Minnesota",
+          "cities": [
+            {
+              "id": "minneapolis",
+              "name": "Minneapolis",
+              "status": "pending",
+              "packPath": "us/minnesota/minneapolis/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "saint-paul",
+              "name": "Saint Paul",
+              "status": "pending",
+              "packPath": "us/minnesota/saint-paul/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "duluth",
+              "name": "Duluth",
+              "status": "pending",
+              "packPath": "us/minnesota/duluth/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "mississippi",
+          "stateCode": "MS",
+          "name": "Mississippi",
+          "cities": [
+            {
+              "id": "jackson",
+              "name": "Jackson",
+              "status": "pending",
+              "packPath": "us/mississippi/jackson/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "biloxi",
+              "name": "Biloxi",
+              "status": "pending",
+              "packPath": "us/mississippi/biloxi/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "missouri",
+          "stateCode": "MO",
+          "name": "Missouri",
+          "cities": [
+            {
+              "id": "st-louis",
+              "name": "St. Louis",
+              "status": "pending",
+              "packPath": "us/missouri/st-louis/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "kansas-city",
+              "name": "Kansas City",
+              "status": "pending",
+              "packPath": "us/missouri/kansas-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "branson",
+              "name": "Branson",
+              "status": "pending",
+              "packPath": "us/missouri/branson/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "montana",
+          "stateCode": "MT",
+          "name": "Montana",
+          "cities": [
+            {
+              "id": "billings",
+              "name": "Billings",
+              "status": "pending",
+              "packPath": "us/montana/billings/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bozeman",
+              "name": "Bozeman",
+              "status": "pending",
+              "packPath": "us/montana/bozeman/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "missoula",
+              "name": "Missoula",
+              "status": "pending",
+              "packPath": "us/montana/missoula/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "whitefish",
+              "name": "Whitefish",
+              "status": "pending",
+              "packPath": "us/montana/whitefish/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "nebraska",
+          "stateCode": "NE",
+          "name": "Nebraska",
+          "cities": [
+            {
+              "id": "omaha",
+              "name": "Omaha",
+              "status": "pending",
+              "packPath": "us/nebraska/omaha/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "lincoln",
+              "name": "Lincoln",
+              "status": "pending",
+              "packPath": "us/nebraska/lincoln/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "nevada",
+          "stateCode": "NV",
+          "name": "Nevada",
+          "cities": [
+            {
+              "id": "las-vegas",
+              "name": "Las Vegas",
+              "status": "pending",
+              "packPath": "us/nevada/las-vegas/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "reno",
+              "name": "Reno",
+              "status": "pending",
+              "packPath": "us/nevada/reno/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "new-hampshire",
+          "stateCode": "NH",
+          "name": "New Hampshire",
+          "cities": [
+            {
+              "id": "portsmouth",
+              "name": "Portsmouth",
+              "status": "pending",
+              "packPath": "us/new-hampshire/portsmouth/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "concord",
+              "name": "Concord",
+              "status": "pending",
+              "packPath": "us/new-hampshire/concord/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "north-conway",
+              "name": "North Conway",
+              "status": "pending",
+              "packPath": "us/new-hampshire/north-conway/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "new-jersey",
+          "stateCode": "NJ",
+          "name": "New Jersey",
+          "cities": [
+            {
+              "id": "atlantic-city",
+              "name": "Atlantic City",
+              "status": "pending",
+              "packPath": "us/new-jersey/atlantic-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cape-may",
+              "name": "Cape May",
+              "status": "pending",
+              "packPath": "us/new-jersey/cape-may/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "princeton",
+              "name": "Princeton",
+              "status": "pending",
+              "packPath": "us/new-jersey/princeton/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "new-mexico",
+          "stateCode": "NM",
+          "name": "New Mexico",
+          "cities": [
+            {
+              "id": "albuquerque",
+              "name": "Albuquerque",
+              "status": "pending",
+              "packPath": "us/new-mexico/albuquerque/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "santa-fe",
+              "name": "Santa Fe",
+              "status": "pending",
+              "packPath": "us/new-mexico/santa-fe/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "taos",
+              "name": "Taos",
+              "status": "pending",
+              "packPath": "us/new-mexico/taos/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "new-york",
+          "stateCode": "NY",
+          "name": "New York",
+          "cities": [
+            {
+              "id": "new-york-city",
+              "name": "New York City",
+              "status": "pending",
+              "packPath": "us/new-york/new-york-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "buffalo",
+              "name": "Buffalo",
+              "status": "pending",
+              "packPath": "us/new-york/buffalo/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "niagara-falls",
+              "name": "Niagara Falls",
+              "status": "pending",
+              "packPath": "us/new-york/niagara-falls/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "albany",
+              "name": "Albany",
+              "status": "pending",
+              "packPath": "us/new-york/albany/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ithaca",
+              "name": "Ithaca",
+              "status": "pending",
+              "packPath": "us/new-york/ithaca/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "saratoga-springs",
+              "name": "Saratoga Springs",
+              "status": "pending",
+              "packPath": "us/new-york/saratoga-springs/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "north-carolina",
+          "stateCode": "NC",
+          "name": "North Carolina",
+          "cities": [
+            {
+              "id": "charlotte",
+              "name": "Charlotte",
+              "status": "pending",
+              "packPath": "us/north-carolina/charlotte/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "raleigh",
+              "name": "Raleigh",
+              "status": "pending",
+              "packPath": "us/north-carolina/raleigh/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "asheville",
+              "name": "Asheville",
+              "status": "pending",
+              "packPath": "us/north-carolina/asheville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "wilmington",
+              "name": "Wilmington",
+              "status": "pending",
+              "packPath": "us/north-carolina/wilmington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "nags-head",
+              "name": "Nags Head",
+              "status": "pending",
+              "packPath": "us/north-carolina/nags-head/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "north-dakota",
+          "stateCode": "ND",
+          "name": "North Dakota",
+          "cities": [
+            {
+              "id": "fargo",
+              "name": "Fargo",
+              "status": "pending",
+              "packPath": "us/north-dakota/fargo/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bismarck",
+              "name": "Bismarck",
+              "status": "pending",
+              "packPath": "us/north-dakota/bismarck/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "ohio",
+          "stateCode": "OH",
+          "name": "Ohio",
+          "cities": [
+            {
+              "id": "cleveland",
+              "name": "Cleveland",
+              "status": "pending",
+              "packPath": "us/ohio/cleveland/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cincinnati",
+              "name": "Cincinnati",
+              "status": "pending",
+              "packPath": "us/ohio/cincinnati/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "columbus",
+              "name": "Columbus",
+              "status": "pending",
+              "packPath": "us/ohio/columbus/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "oklahoma",
+          "stateCode": "OK",
+          "name": "Oklahoma",
+          "cities": [
+            {
+              "id": "oklahoma-city",
+              "name": "Oklahoma City",
+              "status": "pending",
+              "packPath": "us/oklahoma/oklahoma-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "tulsa",
+              "name": "Tulsa",
+              "status": "pending",
+              "packPath": "us/oklahoma/tulsa/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "oregon",
+          "stateCode": "OR",
+          "name": "Oregon",
+          "cities": [
+            {
+              "id": "portland",
+              "name": "Portland",
+              "status": "pending",
+              "packPath": "us/oregon/portland/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bend",
+              "name": "Bend",
+              "status": "pending",
+              "packPath": "us/oregon/bend/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "eugene",
+              "name": "Eugene",
+              "status": "pending",
+              "packPath": "us/oregon/eugene/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cannon-beach",
+              "name": "Cannon Beach",
+              "status": "pending",
+              "packPath": "us/oregon/cannon-beach/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ashland",
+              "name": "Ashland",
+              "status": "pending",
+              "packPath": "us/oregon/ashland/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "pennsylvania",
+          "stateCode": "PA",
+          "name": "Pennsylvania",
+          "cities": [
+            {
+              "id": "philadelphia",
+              "name": "Philadelphia",
+              "status": "pending",
+              "packPath": "us/pennsylvania/philadelphia/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "pittsburgh",
+              "name": "Pittsburgh",
+              "status": "pending",
+              "packPath": "us/pennsylvania/pittsburgh/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "gettysburg",
+              "name": "Gettysburg",
+              "status": "pending",
+              "packPath": "us/pennsylvania/gettysburg/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "lancaster",
+              "name": "Lancaster",
+              "status": "pending",
+              "packPath": "us/pennsylvania/lancaster/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "rhode-island",
+          "stateCode": "RI",
+          "name": "Rhode Island",
+          "cities": [
+            {
+              "id": "providence",
+              "name": "Providence",
+              "status": "pending",
+              "packPath": "us/rhode-island/providence/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "newport",
+              "name": "Newport",
+              "status": "pending",
+              "packPath": "us/rhode-island/newport/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "south-carolina",
+          "stateCode": "SC",
+          "name": "South Carolina",
+          "cities": [
+            {
+              "id": "charleston",
+              "name": "Charleston",
+              "status": "pending",
+              "packPath": "us/south-carolina/charleston/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "myrtle-beach",
+              "name": "Myrtle Beach",
+              "status": "pending",
+              "packPath": "us/south-carolina/myrtle-beach/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "columbia",
+              "name": "Columbia",
+              "status": "pending",
+              "packPath": "us/south-carolina/columbia/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "greenville",
+              "name": "Greenville",
+              "status": "pending",
+              "packPath": "us/south-carolina/greenville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "south-dakota",
+          "stateCode": "SD",
+          "name": "South Dakota",
+          "cities": [
+            {
+              "id": "rapid-city",
+              "name": "Rapid City",
+              "status": "pending",
+              "packPath": "us/south-dakota/rapid-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "sioux-falls",
+              "name": "Sioux Falls",
+              "status": "pending",
+              "packPath": "us/south-dakota/sioux-falls/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "tennessee",
+          "stateCode": "TN",
+          "name": "Tennessee",
+          "cities": [
+            {
+              "id": "nashville",
+              "name": "Nashville",
+              "status": "pending",
+              "packPath": "us/tennessee/nashville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "memphis",
+              "name": "Memphis",
+              "status": "pending",
+              "packPath": "us/tennessee/memphis/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "knoxville",
+              "name": "Knoxville",
+              "status": "pending",
+              "packPath": "us/tennessee/knoxville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "chattanooga",
+              "name": "Chattanooga",
+              "status": "pending",
+              "packPath": "us/tennessee/chattanooga/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "gatlinburg",
+              "name": "Gatlinburg",
+              "status": "pending",
+              "packPath": "us/tennessee/gatlinburg/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "texas",
+          "stateCode": "TX",
+          "name": "Texas",
+          "cities": [
+            {
+              "id": "austin",
+              "name": "Austin",
+              "status": "pending",
+              "packPath": "us/texas/austin/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "dallas",
+              "name": "Dallas",
+              "status": "pending",
+              "packPath": "us/texas/dallas/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "houston",
+              "name": "Houston",
+              "status": "pending",
+              "packPath": "us/texas/houston/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "san-antonio",
+              "name": "San Antonio",
+              "status": "pending",
+              "packPath": "us/texas/san-antonio/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "fort-worth",
+              "name": "Fort Worth",
+              "status": "pending",
+              "packPath": "us/texas/fort-worth/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "el-paso",
+              "name": "El Paso",
+              "status": "pending",
+              "packPath": "us/texas/el-paso/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "galveston",
+              "name": "Galveston",
+              "status": "pending",
+              "packPath": "us/texas/galveston/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "denton",
+              "name": "Denton",
+              "status": "complete",
+              "packPath": "us/texas/denton/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-10T06:10:00.000Z",
+              "bbox": {
+                "minLat": 33.17,
+                "minLng": -97.2,
+                "maxLat": 33.28,
+                "maxLng": -97.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "utah",
+          "stateCode": "UT",
+          "name": "Utah",
+          "cities": [
+            {
+              "id": "salt-lake-city",
+              "name": "Salt Lake City",
+              "status": "pending",
+              "packPath": "us/utah/salt-lake-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "moab",
+              "name": "Moab",
+              "status": "pending",
+              "packPath": "us/utah/moab/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "park-city",
+              "name": "Park City",
+              "status": "pending",
+              "packPath": "us/utah/park-city/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "springdale",
+              "name": "Springdale",
+              "status": "pending",
+              "packPath": "us/utah/springdale/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "st-george",
+              "name": "St. George",
+              "status": "pending",
+              "packPath": "us/utah/st-george/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "vermont",
+          "stateCode": "VT",
+          "name": "Vermont",
+          "cities": [
+            {
+              "id": "burlington",
+              "name": "Burlington",
+              "status": "pending",
+              "packPath": "us/vermont/burlington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "stowe",
+              "name": "Stowe",
+              "status": "pending",
+              "packPath": "us/vermont/stowe/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "montpelier",
+              "name": "Montpelier",
+              "status": "pending",
+              "packPath": "us/vermont/montpelier/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "virginia",
+          "stateCode": "VA",
+          "name": "Virginia",
+          "cities": [
+            {
+              "id": "richmond",
+              "name": "Richmond",
+              "status": "pending",
+              "packPath": "us/virginia/richmond/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "virginia-beach",
+              "name": "Virginia Beach",
+              "status": "pending",
+              "packPath": "us/virginia/virginia-beach/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "charlottesville",
+              "name": "Charlottesville",
+              "status": "pending",
+              "packPath": "us/virginia/charlottesville/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "alexandria",
+              "name": "Alexandria",
+              "status": "pending",
+              "packPath": "us/virginia/alexandria/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "williamsburg",
+              "name": "Williamsburg",
+              "status": "pending",
+              "packPath": "us/virginia/williamsburg/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "washington",
+          "stateCode": "WA",
+          "name": "Washington",
+          "cities": [
+            {
+              "id": "seattle",
+              "name": "Seattle",
+              "status": "pending",
+              "packPath": "us/washington/seattle/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "spokane",
+              "name": "Spokane",
+              "status": "pending",
+              "packPath": "us/washington/spokane/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "tacoma",
+              "name": "Tacoma",
+              "status": "pending",
+              "packPath": "us/washington/tacoma/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "bellingham",
+              "name": "Bellingham",
+              "status": "pending",
+              "packPath": "us/washington/bellingham/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "port-angeles",
+              "name": "Port Angeles",
+              "status": "pending",
+              "packPath": "us/washington/port-angeles/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "west-virginia",
+          "stateCode": "WV",
+          "name": "West Virginia",
+          "cities": [
+            {
+              "id": "charleston",
+              "name": "Charleston",
+              "status": "pending",
+              "packPath": "us/west-virginia/charleston/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "morgantown",
+              "name": "Morgantown",
+              "status": "pending",
+              "packPath": "us/west-virginia/morgantown/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "wisconsin",
+          "stateCode": "WI",
+          "name": "Wisconsin",
+          "cities": [
+            {
+              "id": "milwaukee",
+              "name": "Milwaukee",
+              "status": "pending",
+              "packPath": "us/wisconsin/milwaukee/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "madison",
+              "name": "Madison",
+              "status": "pending",
+              "packPath": "us/wisconsin/madison/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "sturgeon-bay",
+              "name": "Sturgeon Bay",
+              "status": "pending",
+              "packPath": "us/wisconsin/sturgeon-bay/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "wyoming",
+          "stateCode": "WY",
+          "name": "Wyoming",
+          "cities": [
+            {
+              "id": "jackson",
+              "name": "Jackson",
+              "status": "pending",
+              "packPath": "us/wyoming/jackson/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cheyenne",
+              "name": "Cheyenne",
+              "status": "pending",
+              "packPath": "us/wyoming/cheyenne/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cody",
+              "name": "Cody",
+              "status": "pending",
+              "packPath": "us/wyoming/cody/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "district-of-columbia",
+          "stateCode": "DC",
+          "name": "District of Columbia",
+          "cities": [
+            {
+              "id": "washington",
+              "name": "Washington",
+              "status": "pending",
+              "packPath": "us/district-of-columbia/washington/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
