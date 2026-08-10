@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": "us/alabama/mobile",
-  "updatedAt": "2026-08-10T03:15:00.000Z",
-  "notes": "USA curated popular cities only — not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-10T09:14:14.000Z",
+  "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -1467,58 +1467,100 @@
             {
               "id": "austin",
               "name": "Austin",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/austin/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 30.2,
+                "minLng": -97.85,
+                "maxLat": 30.4,
+                "maxLng": -97.65
+              }
             },
             {
               "id": "dallas",
               "name": "Dallas",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/dallas/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 11,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 32.7,
+                "minLng": -96.9,
+                "maxLat": 32.9,
+                "maxLng": -96.65
+              }
             },
             {
               "id": "houston",
               "name": "Houston",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/houston/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 10,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 29.52,
+                "minLng": -95.65,
+                "maxLat": 29.9,
+                "maxLng": -95.05
+              }
             },
             {
               "id": "san-antonio",
               "name": "San Antonio",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/san-antonio/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 10,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 29.3,
+                "minLng": -98.6,
+                "maxLat": 29.55,
+                "maxLng": -98.4
+              }
             },
             {
               "id": "fort-worth",
               "name": "Fort Worth",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/fort-worth/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 32.68,
+                "minLng": -97.45,
+                "maxLat": 32.85,
+                "maxLng": -97.25
+              }
             },
             {
               "id": "el-paso",
               "name": "El Paso",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/el-paso/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 31.65,
+                "minLng": -106.6,
+                "maxLat": 31.98,
+                "maxLng": -106.3
+              }
             },
             {
               "id": "galveston",
               "name": "Galveston",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/texas/galveston/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-10T09:14:14.000Z",
+              "bbox": {
+                "minLat": 29.24,
+                "minLng": -94.9,
+                "maxLat": 29.34,
+                "maxLng": -94.75
+              }
             },
             {
               "id": "denton",

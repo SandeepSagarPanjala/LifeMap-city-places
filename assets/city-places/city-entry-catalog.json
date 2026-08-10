@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T06:13:07.594Z",
+  "generatedAt": "2026-08-10T09:14:14.638Z",
   "cellDeg": 0.5,
-  "cityCount": 3,
+  "cityCount": 10,
   "cities": {
     "us/alabama/birmingham": {
       "name": "Birmingham",
@@ -22,6 +22,24 @@
         "maxLng": -122.357
       }
     },
+    "us/texas/austin": {
+      "name": "Austin",
+      "bbox": {
+        "minLat": 30.2,
+        "minLng": -97.85,
+        "maxLat": 30.4,
+        "maxLng": -97.65
+      }
+    },
+    "us/texas/dallas": {
+      "name": "Dallas",
+      "bbox": {
+        "minLat": 32.7,
+        "minLng": -96.9,
+        "maxLat": 32.9,
+        "maxLng": -96.65
+      }
+    },
     "us/texas/denton": {
       "name": "Denton",
       "bbox": {
@@ -29,6 +47,51 @@
         "minLng": -97.2,
         "maxLat": 33.28,
         "maxLng": -97.05
+      }
+    },
+    "us/texas/el-paso": {
+      "name": "El Paso",
+      "bbox": {
+        "minLat": 31.65,
+        "minLng": -106.6,
+        "maxLat": 31.98,
+        "maxLng": -106.3
+      }
+    },
+    "us/texas/fort-worth": {
+      "name": "Fort Worth",
+      "bbox": {
+        "minLat": 32.68,
+        "minLng": -97.45,
+        "maxLat": 32.85,
+        "maxLng": -97.25
+      }
+    },
+    "us/texas/galveston": {
+      "name": "Galveston",
+      "bbox": {
+        "minLat": 29.24,
+        "minLng": -94.9,
+        "maxLat": 29.34,
+        "maxLng": -94.75
+      }
+    },
+    "us/texas/houston": {
+      "name": "Houston",
+      "bbox": {
+        "minLat": 29.52,
+        "minLng": -95.65,
+        "maxLat": 29.9,
+        "maxLng": -95.05
+      }
+    },
+    "us/texas/san-antonio": {
+      "name": "San Antonio",
+      "bbox": {
+        "minLat": 29.3,
+        "minLng": -98.6,
+        "maxLat": 29.55,
+        "maxLng": -98.4
       }
     }
   },
@@ -44,6 +107,42 @@
     ],
     "75,-245": [
       "us/california/san-francisco"
+    ],
+    "60,-196": [
+      "us/texas/austin"
+    ],
+    "65,-194": [
+      "us/texas/dallas"
+    ],
+    "59,-192": [
+      "us/texas/houston"
+    ],
+    "59,-191": [
+      "us/texas/houston"
+    ],
+    "58,-198": [
+      "us/texas/san-antonio"
+    ],
+    "58,-197": [
+      "us/texas/san-antonio"
+    ],
+    "59,-198": [
+      "us/texas/san-antonio"
+    ],
+    "59,-197": [
+      "us/texas/san-antonio"
+    ],
+    "65,-195": [
+      "us/texas/fort-worth"
+    ],
+    "63,-214": [
+      "us/texas/el-paso"
+    ],
+    "63,-213": [
+      "us/texas/el-paso"
+    ],
+    "58,-190": [
+      "us/texas/galveston"
     ],
     "66,-195": [
       "us/texas/denton"

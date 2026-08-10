@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/san-antonio",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "San Antonio",
+  "bbox": {
+    "minLat": 29.3,
+    "minLng": -98.6,
+    "maxLat": 29.55,
+    "maxLng": -98.4
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "the-alamo",
+      "name": "The Alamo",
+      "lat": 29.42602,
+      "lng": -98.48589,
+      "radiusM": 150,
+      "address": "300 Alamo Plaza, San Antonio, TX",
+      "howTo": "Visit The Alamo.",
+      "badge": "badges/the-alamo.png"
+    },
+    {
+      "id": "river-walk",
+      "name": "San Antonio River Walk",
+      "lat": 29.42478,
+      "lng": -98.48869,
+      "radiusM": 250,
+      "address": "River Walk, San Antonio, TX",
+      "howTo": "Visit the San Antonio River Walk.",
+      "badge": "badges/river-walk.png"
+    },
+    {
+      "id": "mission-san-jose",
+      "name": "Mission San Jos\u00e9",
+      "lat": 29.36235,
+      "lng": -98.47981,
+      "radiusM": 200,
+      "address": "6701 San Jose Dr, San Antonio, TX",
+      "howTo": "Visit Mission San Jos\u00e9.",
+      "badge": "badges/mission-san-jose.png"
+    },
+    {
+      "id": "tower-of-the-americas",
+      "name": "Tower of the Americas",
+      "lat": 29.41908,
+      "lng": -98.48357,
+      "radiusM": 150,
+      "address": "739 E Cesar E. Chavez Blvd, San Antonio, TX",
+      "howTo": "Visit the Tower of the Americas.",
+      "badge": "badges/tower-of-the-americas.png"
+    },
+    {
+      "id": "market-square",
+      "name": "Market Square",
+      "lat": 29.42518,
+      "lng": -98.49964,
+      "radiusM": 150,
+      "address": "514 W Commerce St, San Antonio, TX",
+      "howTo": "Visit Market Square (El Mercado).",
+      "badge": "badges/market-square.png"
+    },
+    {
+      "id": "san-fernando-cathedral",
+      "name": "San Fernando Cathedral",
+      "lat": 29.42456,
+      "lng": -98.4942,
+      "radiusM": 120,
+      "address": "115 Main Plaza, San Antonio, TX",
+      "howTo": "Visit San Fernando Cathedral.",
+      "badge": "badges/san-fernando-cathedral.png"
+    },
+    {
+      "id": "spanish-governors-palace",
+      "name": "Spanish Governor's Palace",
+      "lat": 29.42482,
+      "lng": -98.49599,
+      "radiusM": 120,
+      "address": "105 Plaza De Armas, San Antonio, TX",
+      "howTo": "Visit the Spanish Governor's Palace.",
+      "badge": "badges/spanish-governors-palace.png"
+    },
+    {
+      "id": "japanese-tea-garden",
+      "name": "Japanese Tea Garden",
+      "lat": 29.46133,
+      "lng": -98.47694,
+      "radiusM": 200,
+      "address": "3853 N St Mary's St, San Antonio, TX",
+      "howTo": "Visit the Japanese Tea Garden.",
+      "badge": "badges/japanese-tea-garden.png"
+    },
+    {
+      "id": "san-antonio-museum-of-art",
+      "name": "San Antonio Museum of Art",
+      "lat": 29.43728,
+      "lng": -98.48214,
+      "radiusM": 150,
+      "address": "200 W Jones Ave, San Antonio, TX",
+      "howTo": "Visit the San Antonio Museum of Art.",
+      "badge": "badges/san-antonio-museum-of-art.png"
+    },
+    {
+      "id": "brackenridge-park",
+      "name": "Brackenridge Park",
+      "lat": 29.45545,
+      "lng": -98.47483,
+      "radiusM": 400,
+      "address": "3700 N St Mary's St, San Antonio, TX",
+      "howTo": "Visit Brackenridge Park.",
+      "badge": "badges/brackenridge-park.png"
+    }
+  ]
+}

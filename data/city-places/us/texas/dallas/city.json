@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/dallas",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Dallas",
+  "bbox": {
+    "minLat": 32.7,
+    "minLng": -96.9,
+    "maxLat": 32.9,
+    "maxLng": -96.65
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "reunion-tower",
+      "name": "Reunion Tower",
+      "lat": 32.77535,
+      "lng": -96.80894,
+      "radiusM": 150,
+      "address": "300 Reunion Blvd E, Dallas, TX",
+      "howTo": "Visit Reunion Tower.",
+      "badge": "badges/reunion-tower.png"
+    },
+    {
+      "id": "dealey-plaza",
+      "name": "Dealey Plaza",
+      "lat": 32.77852,
+      "lng": -96.80857,
+      "radiusM": 150,
+      "address": "Dealey Plaza, Dallas, TX",
+      "howTo": "Visit Dealey Plaza.",
+      "badge": "badges/dealey-plaza.png"
+    },
+    {
+      "id": "sixth-floor-museum",
+      "name": "The Sixth Floor Museum",
+      "lat": 32.77976,
+      "lng": -96.80845,
+      "radiusM": 150,
+      "address": "411 Elm St, Dallas, TX",
+      "howTo": "Visit The Sixth Floor Museum at Dealey Plaza.",
+      "badge": "badges/sixth-floor-museum.png"
+    },
+    {
+      "id": "dallas-museum-of-art",
+      "name": "Dallas Museum of Art",
+      "lat": 32.78729,
+      "lng": -96.8005,
+      "radiusM": 150,
+      "address": "1717 N Harwood St, Dallas, TX",
+      "howTo": "Visit the Dallas Museum of Art.",
+      "badge": "badges/dallas-museum-of-art.png"
+    },
+    {
+      "id": "nasher-sculpture-center",
+      "name": "Nasher Sculpture Center",
+      "lat": 32.78824,
+      "lng": -96.80015,
+      "radiusM": 150,
+      "address": "2001 Flora St, Dallas, TX",
+      "howTo": "Visit the Nasher Sculpture Center.",
+      "badge": "badges/nasher-sculpture-center.png"
+    },
+    {
+      "id": "klyde-warren-park",
+      "name": "Klyde Warren Park",
+      "lat": 32.78979,
+      "lng": -96.80117,
+      "radiusM": 200,
+      "address": "2012 Woodall Rodgers Fwy, Dallas, TX",
+      "howTo": "Visit Klyde Warren Park.",
+      "badge": "badges/klyde-warren-park.png"
+    },
+    {
+      "id": "perot-museum",
+      "name": "Perot Museum of Nature and Science",
+      "lat": 32.78693,
+      "lng": -96.80641,
+      "radiusM": 150,
+      "address": "2201 N Field St, Dallas, TX",
+      "howTo": "Visit the Perot Museum of Nature and Science.",
+      "badge": "badges/perot-museum.png"
+    },
+    {
+      "id": "dallas-arboretum",
+      "name": "Dallas Arboretum",
+      "lat": 32.82325,
+      "lng": -96.71687,
+      "radiusM": 400,
+      "address": "8525 Garland Rd, Dallas, TX",
+      "howTo": "Visit the Dallas Arboretum and Botanical Garden.",
+      "badge": "badges/dallas-arboretum.png"
+    },
+    {
+      "id": "george-w-bush-presidential-library",
+      "name": "George W. Bush Presidential Library",
+      "lat": 32.84124,
+      "lng": -96.7782,
+      "radiusM": 200,
+      "address": "2943 SMU Blvd, Dallas, TX",
+      "howTo": "Visit the George W. Bush Presidential Library and Museum.",
+      "badge": "badges/george-w-bush-presidential-library.png"
+    },
+    {
+      "id": "dallas-zoo",
+      "name": "Dallas Zoo",
+      "lat": 32.73697,
+      "lng": -96.8145,
+      "radiusM": 400,
+      "address": "650 S R.L. Thornton Fwy, Dallas, TX",
+      "howTo": "Visit the Dallas Zoo.",
+      "badge": "badges/dallas-zoo.png"
+    },
+    {
+      "id": "pioneer-plaza",
+      "name": "Pioneer Plaza",
+      "lat": 32.7745,
+      "lng": -96.8014,
+      "radiusM": 150,
+      "address": "1400 Young St, Dallas, TX",
+      "howTo": "Visit Pioneer Plaza and the cattle-drive sculptures.",
+      "badge": "badges/pioneer-plaza.png"
+    }
+  ]
+}

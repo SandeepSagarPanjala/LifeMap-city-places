@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/austin",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Austin",
+  "bbox": {
+    "minLat": 30.2,
+    "minLng": -97.85,
+    "maxLat": 30.4,
+    "maxLng": -97.65
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "texas-state-capitol",
+      "name": "Texas State Capitol",
+      "lat": 30.27469,
+      "lng": -97.74052,
+      "radiusM": 200,
+      "address": "1100 Congress Ave, Austin, TX",
+      "howTo": "Visit the Texas State Capitol.",
+      "badge": "badges/texas-state-capitol.png"
+    },
+    {
+      "id": "zilker-park",
+      "name": "Zilker Metropolitan Park",
+      "lat": 30.26941,
+      "lng": -97.77358,
+      "radiusM": 400,
+      "address": "2100 Barton Springs Rd, Austin, TX",
+      "howTo": "Visit Zilker Metropolitan Park.",
+      "badge": "badges/zilker-park.png"
+    },
+    {
+      "id": "barton-springs-pool",
+      "name": "Barton Springs Pool",
+      "lat": 30.26384,
+      "lng": -97.77014,
+      "radiusM": 150,
+      "address": "2201 William Barton Dr, Austin, TX",
+      "howTo": "Visit Barton Springs Pool.",
+      "badge": "badges/barton-springs-pool.png"
+    },
+    {
+      "id": "mount-bonnell",
+      "name": "Mount Bonnell",
+      "lat": 30.32077,
+      "lng": -97.77335,
+      "radiusM": 150,
+      "address": "3800 Mount Bonnell Rd, Austin, TX",
+      "howTo": "Visit Mount Bonnell for the overlook.",
+      "badge": "badges/mount-bonnell.png"
+    },
+    {
+      "id": "congress-avenue-bridge",
+      "name": "Congress Avenue Bridge",
+      "lat": 30.26139,
+      "lng": -97.74529,
+      "radiusM": 150,
+      "address": "Congress Ave Bridge, Austin, TX",
+      "howTo": "Visit the Congress Avenue Bridge.",
+      "badge": "badges/congress-avenue-bridge.png"
+    },
+    {
+      "id": "lady-bird-lake",
+      "name": "Lady Bird Lake",
+      "lat": 30.26881,
+      "lng": -97.76338,
+      "radiusM": 300,
+      "address": "Lady Bird Lake, Austin, TX",
+      "howTo": "Visit Lady Bird Lake and the hike-and-bike trail.",
+      "badge": "badges/lady-bird-lake.png"
+    },
+    {
+      "id": "bullock-texas-state-history-museum",
+      "name": "Bullock Texas State History Museum",
+      "lat": 30.28029,
+      "lng": -97.73915,
+      "radiusM": 150,
+      "address": "1800 Congress Ave, Austin, TX",
+      "howTo": "Visit the Bullock Texas State History Museum.",
+      "badge": "badges/bullock-texas-state-history-museum.png"
+    },
+    {
+      "id": "blanton-museum-of-art",
+      "name": "Blanton Museum of Art",
+      "lat": 30.28096,
+      "lng": -97.73746,
+      "radiusM": 150,
+      "address": "200 E Martin Luther King Jr Blvd, Austin, TX",
+      "howTo": "Visit the Blanton Museum of Art.",
+      "badge": "badges/blanton-museum-of-art.png"
+    },
+    {
+      "id": "umlauf-sculpture-garden",
+      "name": "Umlauf Sculpture Garden",
+      "lat": 30.26292,
+      "lng": -97.76618,
+      "radiusM": 150,
+      "address": "605 Azie Morton Rd, Austin, TX",
+      "howTo": "Visit the Umlauf Sculpture Garden.",
+      "badge": "badges/umlauf-sculpture-garden.png"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/galveston",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Galveston",
+  "bbox": {
+    "minLat": 29.24,
+    "minLng": -94.9,
+    "maxLat": 29.34,
+    "maxLng": -94.75
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "moody-gardens",
+      "name": "Moody Gardens",
+      "lat": 29.27464,
+      "lng": -94.85241,
+      "radiusM": 300,
+      "address": "1 Hope Blvd, Galveston, TX",
+      "howTo": "Visit Moody Gardens.",
+      "badge": "badges/moody-gardens.png"
+    },
+    {
+      "id": "bishops-palace",
+      "name": "Bishop's Palace",
+      "lat": 29.30308,
+      "lng": -94.78214,
+      "radiusM": 120,
+      "address": "1402 Broadway Ave J, Galveston, TX",
+      "howTo": "Visit the 1892 Bishop's Palace.",
+      "badge": "badges/bishops-palace.png"
+    },
+    {
+      "id": "moody-mansion",
+      "name": "Moody Mansion",
+      "lat": 29.29939,
+      "lng": -94.79622,
+      "radiusM": 120,
+      "address": "2618 Broadway Ave J, Galveston, TX",
+      "howTo": "Visit the Moody Mansion.",
+      "badge": "badges/moody-mansion.png"
+    },
+    {
+      "id": "tall-ship-elissa",
+      "name": "Tall Ship Elissa",
+      "lat": 29.30933,
+      "lng": -94.79323,
+      "radiusM": 150,
+      "address": "2200 Harborside Dr, Galveston, TX",
+      "howTo": "Visit the 1877 Tall Ship Elissa.",
+      "badge": "badges/tall-ship-elissa.png"
+    },
+    {
+      "id": "galveston-historic-seaport",
+      "name": "Galveston Historic Seaport",
+      "lat": 29.30874,
+      "lng": -94.78184,
+      "radiusM": 150,
+      "address": "2200 Harborside Dr, Galveston, TX",
+      "howTo": "Visit the Galveston Historic Seaport.",
+      "badge": "badges/galveston-historic-seaport.png"
+    },
+    {
+      "id": "the-strand",
+      "name": "The Strand Historic District",
+      "lat": 29.30949,
+      "lng": -94.78553,
+      "radiusM": 200,
+      "address": "The Strand, Galveston, TX",
+      "howTo": "Visit The Strand Historic District.",
+      "badge": "badges/the-strand.png"
+    },
+    {
+      "id": "galveston-seawall",
+      "name": "Galveston Seawall",
+      "lat": 29.28649,
+      "lng": -94.79312,
+      "radiusM": 300,
+      "address": "Seawall Blvd, Galveston, TX",
+      "howTo": "Visit the Galveston Seawall.",
+      "badge": "badges/galveston-seawall.png"
+    },
+    {
+      "id": "pleasure-pier",
+      "name": "Pleasure Pier",
+      "lat": 29.28663,
+      "lng": -94.78994,
+      "radiusM": 150,
+      "address": "2501 Seawall Blvd, Galveston, TX",
+      "howTo": "Visit Galveston Island Historic Pleasure Pier.",
+      "badge": "badges/pleasure-pier.png"
+    }
+  ]
+}

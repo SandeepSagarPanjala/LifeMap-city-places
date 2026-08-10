@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/houston",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Houston",
+  "bbox": {
+    "minLat": 29.52,
+    "minLng": -95.65,
+    "maxLat": 29.9,
+    "maxLng": -95.05
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "space-center-houston",
+      "name": "Space Center Houston",
+      "lat": 29.55131,
+      "lng": -95.0974,
+      "radiusM": 300,
+      "address": "1601 E NASA Pkwy, Houston, TX",
+      "howTo": "Visit Space Center Houston.",
+      "badge": "badges/space-center-houston.png"
+    },
+    {
+      "id": "museum-of-fine-arts-houston",
+      "name": "Museum of Fine Arts, Houston",
+      "lat": 29.72513,
+      "lng": -95.38945,
+      "radiusM": 150,
+      "address": "1001 Bissonnet St, Houston, TX",
+      "howTo": "Visit the Museum of Fine Arts, Houston.",
+      "badge": "badges/museum-of-fine-arts-houston.png"
+    },
+    {
+      "id": "houston-museum-of-natural-science",
+      "name": "Houston Museum of Natural Science",
+      "lat": 29.7221,
+      "lng": -95.3899,
+      "radiusM": 150,
+      "address": "5555 Hermann Park Dr, Houston, TX",
+      "howTo": "Visit the Houston Museum of Natural Science.",
+      "badge": "badges/houston-museum-of-natural-science.png"
+    },
+    {
+      "id": "discovery-green",
+      "name": "Discovery Green",
+      "lat": 29.75294,
+      "lng": -95.35961,
+      "radiusM": 200,
+      "address": "1500 McKinney St, Houston, TX",
+      "howTo": "Visit Discovery Green downtown.",
+      "badge": "badges/discovery-green.png"
+    },
+    {
+      "id": "hermann-park",
+      "name": "Hermann Park",
+      "lat": 29.71482,
+      "lng": -95.38492,
+      "radiusM": 400,
+      "address": "6001 Fannin St, Houston, TX",
+      "howTo": "Visit Hermann Park.",
+      "badge": "badges/hermann-park.png"
+    },
+    {
+      "id": "buffalo-bayou-park",
+      "name": "Buffalo Bayou Park",
+      "lat": 29.76177,
+      "lng": -95.38333,
+      "radiusM": 400,
+      "address": "105 Sabine St, Houston, TX",
+      "howTo": "Visit Buffalo Bayou Park.",
+      "badge": "badges/buffalo-bayou-park.png"
+    },
+    {
+      "id": "houston-zoo",
+      "name": "Houston Zoo",
+      "lat": 29.71333,
+      "lng": -95.39159,
+      "radiusM": 300,
+      "address": "6200 Hermann Park Dr, Houston, TX",
+      "howTo": "Visit the Houston Zoo.",
+      "badge": "badges/houston-zoo.png"
+    },
+    {
+      "id": "williams-tower-waterwall",
+      "name": "Williams Tower Waterwall",
+      "lat": 29.73619,
+      "lng": -95.46128,
+      "radiusM": 150,
+      "address": "2800 Post Oak Blvd, Houston, TX",
+      "howTo": "Visit the Williams Tower Waterwall.",
+      "badge": "badges/williams-tower-waterwall.png"
+    },
+    {
+      "id": "rothko-chapel",
+      "name": "Rothko Chapel",
+      "lat": 29.73762,
+      "lng": -95.3962,
+      "radiusM": 120,
+      "address": "3900 Yupon St, Houston, TX",
+      "howTo": "Visit the Rothko Chapel.",
+      "badge": "badges/rothko-chapel.png"
+    },
+    {
+      "id": "sam-houston-park",
+      "name": "Sam Houston Park",
+      "lat": 29.75993,
+      "lng": -95.37179,
+      "radiusM": 200,
+      "address": "1000 Bagby St, Houston, TX",
+      "howTo": "Visit Sam Houston Park.",
+      "badge": "badges/sam-houston-park.png"
+    }
+  ]
+}

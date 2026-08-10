@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/fort-worth",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "Fort Worth",
+  "bbox": {
+    "minLat": 32.68,
+    "minLng": -97.45,
+    "maxLat": 32.85,
+    "maxLng": -97.25
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fort-worth-stockyards",
+      "name": "Fort Worth Stockyards",
+      "lat": 32.78867,
+      "lng": -97.34647,
+      "radiusM": 250,
+      "address": "131 E Exchange Ave, Fort Worth, TX",
+      "howTo": "Visit the Fort Worth Stockyards National Historic District.",
+      "badge": "badges/fort-worth-stockyards.png"
+    },
+    {
+      "id": "cowtown-coliseum",
+      "name": "Cowtown Coliseum",
+      "lat": 32.78963,
+      "lng": -97.34769,
+      "radiusM": 150,
+      "address": "123 E Exchange Ave, Fort Worth, TX",
+      "howTo": "Visit Cowtown Coliseum in the Stockyards.",
+      "badge": "badges/cowtown-coliseum.png"
+    },
+    {
+      "id": "kimbell-art-museum",
+      "name": "Kimbell Art Museum",
+      "lat": 32.74859,
+      "lng": -97.36508,
+      "radiusM": 150,
+      "address": "3333 Camp Bowie Blvd, Fort Worth, TX",
+      "howTo": "Visit the Kimbell Art Museum.",
+      "badge": "badges/kimbell-art-museum.png"
+    },
+    {
+      "id": "modern-art-museum-of-fort-worth",
+      "name": "Modern Art Museum of Fort Worth",
+      "lat": 32.74956,
+      "lng": -97.3633,
+      "radiusM": 150,
+      "address": "3200 Darnell St, Fort Worth, TX",
+      "howTo": "Visit the Modern Art Museum of Fort Worth.",
+      "badge": "badges/modern-art-museum-of-fort-worth.png"
+    },
+    {
+      "id": "amon-carter-museum",
+      "name": "Amon Carter Museum",
+      "lat": 32.74783,
+      "lng": -97.36886,
+      "radiusM": 150,
+      "address": "3501 Camp Bowie Blvd, Fort Worth, TX",
+      "howTo": "Visit the Amon Carter Museum of American Art.",
+      "badge": "badges/amon-carter-museum.png"
+    },
+    {
+      "id": "fort-worth-zoo",
+      "name": "Fort Worth Zoo",
+      "lat": 32.72043,
+      "lng": -97.35554,
+      "radiusM": 300,
+      "address": "1989 Colonial Pkwy, Fort Worth, TX",
+      "howTo": "Visit the Fort Worth Zoo.",
+      "badge": "badges/fort-worth-zoo.png"
+    },
+    {
+      "id": "sundance-square",
+      "name": "Sundance Square",
+      "lat": 32.75481,
+      "lng": -97.33142,
+      "radiusM": 200,
+      "address": "Sundance Square, Fort Worth, TX",
+      "howTo": "Visit Sundance Square downtown.",
+      "badge": "badges/sundance-square.png"
+    },
+    {
+      "id": "fort-worth-botanic-garden",
+      "name": "Fort Worth Botanic Garden",
+      "lat": 32.73828,
+      "lng": -97.36369,
+      "radiusM": 300,
+      "address": "3220 Botanic Garden Blvd, Fort Worth, TX",
+      "howTo": "Visit the Fort Worth Botanic Garden.",
+      "badge": "badges/fort-worth-botanic-garden.png"
+    },
+    {
+      "id": "fort-worth-water-gardens",
+      "name": "Fort Worth Water Gardens",
+      "lat": 32.74789,
+      "lng": -97.32669,
+      "radiusM": 150,
+      "address": "1502 Commerce St, Fort Worth, TX",
+      "howTo": "Visit the Fort Worth Water Gardens.",
+      "badge": "badges/fort-worth-water-gardens.png"
+    }
+  ]
+}

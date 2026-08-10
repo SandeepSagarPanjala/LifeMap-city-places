@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/texas/el-paso",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TX",
+  "stateName": "Texas",
+  "cityName": "El Paso",
+  "bbox": {
+    "minLat": 31.65,
+    "minLng": -106.6,
+    "maxLat": 31.98,
+    "maxLng": -106.3
+  },
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "franklin-mountains-state-park",
+      "name": "Franklin Mountains State Park",
+      "lat": 31.939,
+      "lng": -106.49511,
+      "radiusM": 500,
+      "address": "1331 McKelligon Canyon Rd, El Paso, TX",
+      "howTo": "Visit Franklin Mountains State Park.",
+      "badge": "badges/franklin-mountains-state-park.png"
+    },
+    {
+      "id": "scenic-drive-overlook",
+      "name": "Scenic Drive Overlook",
+      "lat": 31.78233,
+      "lng": -106.47962,
+      "radiusM": 150,
+      "address": "Scenic Dr, El Paso, TX",
+      "howTo": "Visit the Scenic Drive overlook.",
+      "badge": "badges/scenic-drive-overlook.png"
+    },
+    {
+      "id": "ysleta-mission",
+      "name": "Ysleta Mission",
+      "lat": 31.6886,
+      "lng": -106.33211,
+      "radiusM": 150,
+      "address": "131 S Zaragoza Rd, El Paso, TX",
+      "howTo": "Visit Ysleta Mission on the Mission Trail.",
+      "badge": "badges/ysleta-mission.png"
+    },
+    {
+      "id": "chamizal-national-memorial",
+      "name": "Chamizal National Memorial",
+      "lat": 31.76726,
+      "lng": -106.45476,
+      "radiusM": 250,
+      "address": "800 S San Marcial St, El Paso, TX",
+      "howTo": "Visit Chamizal National Memorial.",
+      "badge": "badges/chamizal-national-memorial.png"
+    },
+    {
+      "id": "el-paso-museum-of-art",
+      "name": "El Paso Museum of Art",
+      "lat": 31.75852,
+      "lng": -106.49031,
+      "radiusM": 150,
+      "address": "1 Arts Festival Plaza, El Paso, TX",
+      "howTo": "Visit the El Paso Museum of Art.",
+      "badge": "badges/el-paso-museum-of-art.png"
+    },
+    {
+      "id": "plaza-theatre",
+      "name": "Plaza Theatre",
+      "lat": 31.75899,
+      "lng": -106.48968,
+      "radiusM": 120,
+      "address": "125 Pioneer Plaza, El Paso, TX",
+      "howTo": "Visit the historic Plaza Theatre.",
+      "badge": "badges/plaza-theatre.png"
+    },
+    {
+      "id": "wyler-aerial-tramway",
+      "name": "Wyler Aerial Tramway",
+      "lat": 31.80942,
+      "lng": -106.47845,
+      "radiusM": 150,
+      "address": "1700 McKinley Ave, El Paso, TX",
+      "howTo": "Visit the Wyler Aerial Tramway.",
+      "badge": "badges/wyler-aerial-tramway.png"
+    },
+    {
+      "id": "el-paso-zoo",
+      "name": "El Paso Zoo",
+      "lat": 31.76889,
+      "lng": -106.44225,
+      "radiusM": 250,
+      "address": "4001 E Paisano Dr, El Paso, TX",
+      "howTo": "Visit the El Paso Zoo.",
+      "badge": "badges/el-paso-zoo.png"
+    },
+    {
+      "id": "magoffin-home",
+      "name": "Magoffin Home",
+      "lat": 31.76237,
+      "lng": -106.47707,
+      "radiusM": 120,
+      "address": "1120 Magoffin Ave, El Paso, TX",
+      "howTo": "Visit Magoffin Home State Historic Site.",
+      "badge": "badges/magoffin-home.png"
+    }
+  ]
+}
