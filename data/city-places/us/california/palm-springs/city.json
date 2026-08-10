@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/palm-springs",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Palm Springs",
+  "bbox": {
+    "minLat": 33.75,
+    "minLng": -116.65,
+    "maxLat": 33.85,
+    "maxLng": -116.5
+  },
+  "updatedAt": "2026-08-10T20:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palm-springs-aerial-tramway",
+      "name": "Palm Springs Aerial Tramway",
+      "lat": 33.82507,
+      "lng": -116.62624,
+      "radiusM": 200,
+      "address": "1 Tram Way, Palm Springs, CA",
+      "howTo": "Visit the Palm Springs Aerial Tramway.",
+      "badge": "badges/palm-springs-aerial-tramway.png"
+    },
+    {
+      "id": "palm-springs-art-museum",
+      "name": "Palm Springs Art Museum",
+      "lat": 33.82419,
+      "lng": -116.54999,
+      "radiusM": 150,
+      "address": "101 N Museum Dr, Palm Springs, CA",
+      "howTo": "Visit the Palm Springs Art Museum.",
+      "badge": "badges/palm-springs-art-museum.png"
+    },
+    {
+      "id": "moorten-botanical-garden",
+      "name": "Moorten Botanical Garden",
+      "lat": 33.8002,
+      "lng": -116.54619,
+      "radiusM": 150,
+      "address": "1701 S Palm Canyon Dr, Palm Springs, CA",
+      "howTo": "Visit Moorten Botanical Garden.",
+      "badge": "badges/moorten-botanical-garden.png"
+    },
+    {
+      "id": "indian-canyons",
+      "name": "Indian Canyons",
+      "lat": 33.78726,
+      "lng": -116.53956,
+      "radiusM": 300,
+      "address": "38520 S Palm Canyon Dr, Palm Springs, CA",
+      "howTo": "Visit Indian Canyons.",
+      "badge": "badges/indian-canyons.png"
+    },
+    {
+      "id": "downtown-palm-springs",
+      "name": "Downtown Palm Springs",
+      "lat": 33.8245,
+      "lng": -116.546,
+      "radiusM": 200,
+      "address": "Downtown Palm Springs, CA",
+      "howTo": "Visit downtown Palm Springs.",
+      "badge": "badges/downtown-palm-springs.png"
+    }
+  ]
+}

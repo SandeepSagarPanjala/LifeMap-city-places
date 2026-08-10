@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arizona/scottsdale",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AZ",
+  "stateName": "Arizona",
+  "cityName": "Scottsdale",
+  "bbox": {
+    "minLat": 33.45,
+    "minLng": -111.95,
+    "maxLat": 33.8,
+    "maxLng": -111.8
+  },
+  "updatedAt": "2026-08-10T20:12:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "taliesin-west",
+      "name": "Taliesin West",
+      "lat": 33.60658,
+      "lng": -111.84499,
+      "radiusM": 200,
+      "address": "12621 N Frank Lloyd Wright Blvd, Scottsdale, AZ",
+      "howTo": "Visit Taliesin West.",
+      "badge": "badges/taliesin-west.png"
+    },
+    {
+      "id": "western-spirit-museum",
+      "name": "Western Spirit: Museum of the West",
+      "lat": 33.4925,
+      "lng": -111.9235,
+      "radiusM": 150,
+      "address": "3830 N Marshall Way, Scottsdale, AZ",
+      "howTo": "Visit Western Spirit: Scottsdale's Museum of the West.",
+      "badge": "badges/western-spirit-museum.png"
+    },
+    {
+      "id": "mcdowell-sonoran-preserve",
+      "name": "McDowell Sonoran Preserve",
+      "lat": 33.6493,
+      "lng": -111.85849,
+      "radiusM": 400,
+      "address": "18333 N Thompson Peak Pkwy, Scottsdale, AZ",
+      "howTo": "Visit the McDowell Sonoran Preserve at Gateway Trailhead.",
+      "badge": "badges/mcdowell-sonoran-preserve.png"
+    },
+    {
+      "id": "old-town-scottsdale",
+      "name": "Old Town Scottsdale",
+      "lat": 33.49953,
+      "lng": -111.91169,
+      "radiusM": 200,
+      "address": "Old Town Scottsdale, Scottsdale, AZ",
+      "howTo": "Visit Old Town Scottsdale.",
+      "badge": "badges/old-town-scottsdale.png"
+    },
+    {
+      "id": "odysea-aquarium",
+      "name": "OdySea Aquarium",
+      "lat": 33.55469,
+      "lng": -111.87741,
+      "radiusM": 150,
+      "address": "9500 E Via de Ventura, Scottsdale, AZ",
+      "howTo": "Visit OdySea Aquarium.",
+      "badge": "badges/odysea-aquarium.png"
+    },
+    {
+      "id": "butterfly-wonderland",
+      "name": "Butterfly Wonderland",
+      "lat": 33.55456,
+      "lng": -111.87599,
+      "radiusM": 120,
+      "address": "9500 E Via de Ventura, Scottsdale, AZ",
+      "howTo": "Visit Butterfly Wonderland.",
+      "badge": "badges/butterfly-wonderland.png"
+    },
+    {
+      "id": "mccormick-stillman-railroad-park",
+      "name": "McCormick-Stillman Railroad Park",
+      "lat": 33.53596,
+      "lng": -111.92255,
+      "radiusM": 200,
+      "address": "7301 E Indian Bend Rd, Scottsdale, AZ",
+      "howTo": "Visit McCormick-Stillman Railroad Park.",
+      "badge": "badges/mccormick-stillman-railroad-park.png"
+    },
+    {
+      "id": "pinnacle-peak-park",
+      "name": "Pinnacle Peak Park",
+      "lat": 33.73163,
+      "lng": -111.86466,
+      "radiusM": 300,
+      "address": "26821 N 102nd Way, Scottsdale, AZ",
+      "howTo": "Visit Pinnacle Peak Park.",
+      "badge": "badges/pinnacle-peak-park.png"
+    },
+    {
+      "id": "scottsdale-museum-of-contemporary-art",
+      "name": "Scottsdale Museum of Contemporary Art",
+      "lat": 33.49169,
+      "lng": -111.92302,
+      "radiusM": 120,
+      "address": "7374 E 2nd St, Scottsdale, AZ",
+      "howTo": "Visit the Scottsdale Museum of Contemporary Art.",
+      "badge": "badges/scottsdale-museum-of-contemporary-art.png"
+    }
+  ]
+}

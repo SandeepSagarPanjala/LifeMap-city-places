@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/monterey",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Monterey",
+  "bbox": {
+    "minLat": 36.55,
+    "minLng": -121.98,
+    "maxLat": 36.65,
+    "maxLng": -121.85
+  },
+  "updatedAt": "2026-08-10T20:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "monterey-bay-aquarium",
+      "name": "Monterey Bay Aquarium",
+      "lat": 36.61809,
+      "lng": -121.90167,
+      "radiusM": 200,
+      "address": "886 Cannery Row, Monterey, CA",
+      "howTo": "Visit the Monterey Bay Aquarium.",
+      "badge": "badges/monterey-bay-aquarium.png"
+    },
+    {
+      "id": "cannery-row",
+      "name": "Cannery Row",
+      "lat": 36.61349,
+      "lng": -121.89794,
+      "radiusM": 200,
+      "address": "Cannery Row, Monterey, CA",
+      "howTo": "Visit Cannery Row.",
+      "badge": "badges/cannery-row.png"
+    },
+    {
+      "id": "fishermans-wharf-monterey",
+      "name": "Fisherman's Wharf",
+      "lat": 36.60363,
+      "lng": -121.89381,
+      "radiusM": 150,
+      "address": "1 Old Fisherman's Wharf, Monterey, CA",
+      "howTo": "Visit Fisherman's Wharf.",
+      "badge": "badges/fishermans-wharf-monterey.png"
+    },
+    {
+      "id": "custom-house-monterey",
+      "name": "Custom House",
+      "lat": 36.60341,
+      "lng": -121.89348,
+      "radiusM": 120,
+      "address": "Custom House Plaza, Monterey, CA",
+      "howTo": "Visit the Custom House.",
+      "badge": "badges/custom-house-monterey.png"
+    },
+    {
+      "id": "path-of-history",
+      "name": "Colton Hall",
+      "lat": 36.59775,
+      "lng": -121.89753,
+      "radiusM": 120,
+      "address": "570 Pacific St, Monterey, CA",
+      "howTo": "Visit Colton Hall on the Path of History.",
+      "badge": "badges/path-of-history.png"
+    },
+    {
+      "id": "lovers-point",
+      "name": "Lovers Point",
+      "lat": 36.6265,
+      "lng": -121.9165,
+      "radiusM": 200,
+      "address": "Lovers Point Park, Pacific Grove, CA",
+      "howTo": "Visit Lovers Point.",
+      "badge": "badges/lovers-point.png"
+    },
+    {
+      "id": "17-mile-drive",
+      "name": "Lone Cypress",
+      "lat": 36.569,
+      "lng": -121.968,
+      "radiusM": 150,
+      "address": "17-Mile Drive, Pebble Beach, CA",
+      "howTo": "Visit the Lone Cypress on 17-Mile Drive.",
+      "badge": "badges/17-mile-drive.png"
+    }
+  ]
+}

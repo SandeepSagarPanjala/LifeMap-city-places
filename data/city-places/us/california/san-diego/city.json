@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/san-diego",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "San Diego",
+  "bbox": {
+    "minLat": 32.65,
+    "minLng": -117.3,
+    "maxLat": 32.95,
+    "maxLng": -117.1
+  },
+  "updatedAt": "2026-08-10T20:18:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "balboa-park",
+      "name": "Balboa Park",
+      "lat": 32.73168,
+      "lng": -117.14653,
+      "radiusM": 400,
+      "address": "1549 El Prado, San Diego, CA",
+      "howTo": "Visit Balboa Park.",
+      "badge": "badges/balboa-park.png"
+    },
+    {
+      "id": "san-diego-zoo",
+      "name": "San Diego Zoo",
+      "lat": 32.73599,
+      "lng": -117.15065,
+      "radiusM": 300,
+      "address": "2920 Zoo Dr, San Diego, CA",
+      "howTo": "Visit the San Diego Zoo.",
+      "badge": "badges/san-diego-zoo.png"
+    },
+    {
+      "id": "uss-midway",
+      "name": "USS Midway Museum",
+      "lat": 32.7138,
+      "lng": -117.1752,
+      "radiusM": 200,
+      "address": "910 N Harbor Dr, San Diego, CA",
+      "howTo": "Visit the USS Midway Museum.",
+      "badge": "badges/uss-midway.png"
+    },
+    {
+      "id": "la-jolla-cove",
+      "name": "La Jolla Cove",
+      "lat": 32.8505,
+      "lng": -117.27304,
+      "radiusM": 200,
+      "address": "1100 Coast Blvd, La Jolla, CA",
+      "howTo": "Visit La Jolla Cove.",
+      "badge": "badges/la-jolla-cove.png"
+    },
+    {
+      "id": "torrey-pines",
+      "name": "Torrey Pines State Natural Reserve",
+      "lat": 32.91607,
+      "lng": -117.24819,
+      "radiusM": 400,
+      "address": "12600 N Torrey Pines Rd, San Diego, CA",
+      "howTo": "Visit Torrey Pines State Natural Reserve.",
+      "badge": "badges/torrey-pines.png"
+    },
+    {
+      "id": "gaslamp-quarter",
+      "name": "Gaslamp Quarter",
+      "lat": 32.7115,
+      "lng": -117.16014,
+      "radiusM": 200,
+      "address": "Gaslamp Quarter, San Diego, CA",
+      "howTo": "Visit the Gaslamp Quarter.",
+      "badge": "badges/gaslamp-quarter.png"
+    },
+    {
+      "id": "hotel-del-coronado",
+      "name": "Hotel del Coronado",
+      "lat": 32.67998,
+      "lng": -117.17843,
+      "radiusM": 150,
+      "address": "1500 Orange Ave, Coronado, CA",
+      "howTo": "Visit the Hotel del Coronado.",
+      "badge": "badges/hotel-del-coronado.png"
+    },
+    {
+      "id": "old-town-san-diego",
+      "name": "Old Town San Diego",
+      "lat": 32.75431,
+      "lng": -117.19689,
+      "radiusM": 250,
+      "address": "4002 Wallace St, San Diego, CA",
+      "howTo": "Visit Old Town San Diego State Historic Park.",
+      "badge": "badges/old-town-san-diego.png"
+    },
+    {
+      "id": "cabrillo-national-monument",
+      "name": "Cabrillo National Monument",
+      "lat": 32.67223,
+      "lng": -117.24094,
+      "radiusM": 250,
+      "address": "1800 Cabrillo Memorial Dr, San Diego, CA",
+      "howTo": "Visit Cabrillo National Monument.",
+      "badge": "badges/cabrillo-national-monument.png"
+    },
+    {
+      "id": "maritime-museum-san-diego",
+      "name": "Maritime Museum of San Diego",
+      "lat": 32.72057,
+      "lng": -117.17355,
+      "radiusM": 150,
+      "address": "1492 N Harbor Dr, San Diego, CA",
+      "howTo": "Visit the Maritime Museum of San Diego.",
+      "badge": "badges/maritime-museum-san-diego.png"
+    }
+  ]
+}

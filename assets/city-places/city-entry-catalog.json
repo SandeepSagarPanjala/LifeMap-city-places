@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T09:59:54.804Z",
+  "generatedAt": "2026-08-10T20:26:33.914Z",
   "cellDeg": 0.5,
-  "cityCount": 20,
+  "cityCount": 30,
   "cities": {
     "us/alabama/birmingham": {
       "name": "Birmingham",
@@ -85,6 +85,15 @@
         "maxLng": -111.9
       }
     },
+    "us/arizona/scottsdale": {
+      "name": "Scottsdale",
+      "bbox": {
+        "minLat": 33.45,
+        "minLng": -111.95,
+        "maxLat": 33.8,
+        "maxLng": -111.8
+      }
+    },
     "us/arizona/sedona": {
       "name": "Sedona",
       "bbox": {
@@ -103,6 +112,78 @@
         "maxLng": -110.8
       }
     },
+    "us/arkansas/hot-springs": {
+      "name": "Hot Springs",
+      "bbox": {
+        "minLat": 34.42,
+        "minLng": -93.15,
+        "maxLat": 34.55,
+        "maxLng": -93
+      }
+    },
+    "us/arkansas/little-rock": {
+      "name": "Little Rock",
+      "bbox": {
+        "minLat": 34.7,
+        "minLng": -92.52,
+        "maxLat": 34.85,
+        "maxLng": -92.22
+      }
+    },
+    "us/california/anaheim": {
+      "name": "Anaheim",
+      "bbox": {
+        "minLat": 33.78,
+        "minLng": -117.95,
+        "maxLat": 33.86,
+        "maxLng": -117.85
+      }
+    },
+    "us/california/los-angeles": {
+      "name": "Los Angeles",
+      "bbox": {
+        "minLat": 33.95,
+        "minLng": -118.55,
+        "maxLat": 34.2,
+        "maxLng": -118.15
+      }
+    },
+    "us/california/monterey": {
+      "name": "Monterey",
+      "bbox": {
+        "minLat": 36.55,
+        "minLng": -121.98,
+        "maxLat": 36.65,
+        "maxLng": -121.85
+      }
+    },
+    "us/california/palm-springs": {
+      "name": "Palm Springs",
+      "bbox": {
+        "minLat": 33.75,
+        "minLng": -116.65,
+        "maxLat": 33.85,
+        "maxLng": -116.5
+      }
+    },
+    "us/california/sacramento": {
+      "name": "Sacramento",
+      "bbox": {
+        "minLat": 38.54,
+        "minLng": -121.55,
+        "maxLat": 38.62,
+        "maxLng": -121.45
+      }
+    },
+    "us/california/san-diego": {
+      "name": "San Diego",
+      "bbox": {
+        "minLat": 32.65,
+        "minLng": -117.3,
+        "maxLat": 32.95,
+        "maxLng": -117.1
+      }
+    },
     "us/california/san-francisco": {
       "name": "San Francisco",
       "bbox": {
@@ -110,6 +191,15 @@
         "minLng": -122.515,
         "maxLat": 37.833,
         "maxLng": -122.357
+      }
+    },
+    "us/california/santa-barbara": {
+      "name": "Santa Barbara",
+      "bbox": {
+        "minLat": 34.38,
+        "minLng": -119.75,
+        "maxLat": 34.48,
+        "maxLng": -119.65
       }
     },
     "us/texas/austin": {
@@ -226,13 +316,15 @@
       "us/arizona/phoenix"
     ],
     "66,-224": [
-      "us/arizona/phoenix"
+      "us/arizona/phoenix",
+      "us/arizona/scottsdale"
     ],
     "67,-225": [
       "us/arizona/phoenix"
     ],
     "67,-224": [
-      "us/arizona/phoenix"
+      "us/arizona/phoenix",
+      "us/arizona/scottsdale"
     ],
     "64,-223": [
       "us/arizona/tucson"
@@ -249,11 +341,63 @@
     "70,-223": [
       "us/arizona/flagstaff"
     ],
+    "69,-186": [
+      "us/arkansas/hot-springs",
+      "us/arkansas/little-rock"
+    ],
+    "69,-185": [
+      "us/arkansas/little-rock"
+    ],
+    "68,-187": [
+      "us/arkansas/hot-springs"
+    ],
+    "68,-186": [
+      "us/arkansas/hot-springs"
+    ],
+    "69,-187": [
+      "us/arkansas/hot-springs"
+    ],
     "75,-246": [
       "us/california/san-francisco"
     ],
     "75,-245": [
       "us/california/san-francisco"
+    ],
+    "67,-238": [
+      "us/california/los-angeles"
+    ],
+    "67,-237": [
+      "us/california/los-angeles"
+    ],
+    "68,-238": [
+      "us/california/los-angeles"
+    ],
+    "68,-237": [
+      "us/california/los-angeles"
+    ],
+    "65,-235": [
+      "us/california/san-diego"
+    ],
+    "77,-244": [
+      "us/california/sacramento"
+    ],
+    "77,-243": [
+      "us/california/sacramento"
+    ],
+    "73,-244": [
+      "us/california/monterey"
+    ],
+    "68,-240": [
+      "us/california/santa-barbara"
+    ],
+    "67,-234": [
+      "us/california/palm-springs"
+    ],
+    "67,-233": [
+      "us/california/palm-springs"
+    ],
+    "67,-236": [
+      "us/california/anaheim"
     ],
     "60,-196": [
       "us/texas/austin"

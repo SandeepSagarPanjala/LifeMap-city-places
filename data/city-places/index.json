@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "cursor": "us/arizona/scottsdale",
-  "updatedAt": "2026-08-10T09:59:54.000Z",
+  "cursor": "us/california/napa",
+  "updatedAt": "2026-08-10T20:26:33.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -185,10 +185,16 @@
             {
               "id": "scottsdale",
               "name": "Scottsdale",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arizona/scottsdale/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 33.45,
+                "minLng": -111.95,
+                "maxLat": 33.8,
+                "maxLng": -111.8
+              }
             }
           ]
         },
@@ -200,18 +206,30 @@
             {
               "id": "little-rock",
               "name": "Little Rock",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arkansas/little-rock/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 34.7,
+                "minLng": -92.52,
+                "maxLat": 34.85,
+                "maxLng": -92.22
+              }
             },
             {
               "id": "hot-springs",
               "name": "Hot Springs",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arkansas/hot-springs/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 34.42,
+                "minLng": -93.15,
+                "maxLat": 34.55,
+                "maxLng": -93.0
+              }
             }
           ]
         },
@@ -237,58 +255,100 @@
             {
               "id": "los-angeles",
               "name": "Los Angeles",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/los-angeles/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 12,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 33.95,
+                "minLng": -118.55,
+                "maxLat": 34.2,
+                "maxLng": -118.15
+              }
             },
             {
               "id": "san-diego",
               "name": "San Diego",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/san-diego/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 10,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 32.65,
+                "minLng": -117.3,
+                "maxLat": 32.95,
+                "maxLng": -117.1
+              }
             },
             {
               "id": "sacramento",
               "name": "Sacramento",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/sacramento/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 38.54,
+                "minLng": -121.55,
+                "maxLat": 38.62,
+                "maxLng": -121.45
+              }
             },
             {
               "id": "monterey",
               "name": "Monterey",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/monterey/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 36.55,
+                "minLng": -121.98,
+                "maxLat": 36.65,
+                "maxLng": -121.85
+              }
             },
             {
               "id": "santa-barbara",
               "name": "Santa Barbara",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/santa-barbara/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 34.38,
+                "minLng": -119.75,
+                "maxLat": 34.48,
+                "maxLng": -119.65
+              }
             },
             {
               "id": "palm-springs",
               "name": "Palm Springs",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/palm-springs/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 33.75,
+                "minLng": -116.65,
+                "maxLat": 33.85,
+                "maxLng": -116.5
+              }
             },
             {
               "id": "anaheim",
               "name": "Anaheim",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/california/anaheim/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-10T20:26:33.000Z",
+              "bbox": {
+                "minLat": 33.78,
+                "minLng": -117.95,
+                "maxLat": 33.86,
+                "maxLng": -117.85
+              }
             },
             {
               "id": "napa",

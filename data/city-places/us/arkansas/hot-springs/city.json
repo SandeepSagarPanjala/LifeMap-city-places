@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arkansas/hot-springs",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AR",
+  "stateName": "Arkansas",
+  "cityName": "Hot Springs",
+  "bbox": {
+    "minLat": 34.42,
+    "minLng": -93.15,
+    "maxLat": 34.55,
+    "maxLng": -93.0
+  },
+  "updatedAt": "2026-08-10T20:15:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bathhouse-row",
+      "name": "Bathhouse Row",
+      "lat": 34.51345,
+      "lng": -93.05357,
+      "radiusM": 200,
+      "address": "Central Ave, Hot Springs, AR",
+      "howTo": "Visit Bathhouse Row in Hot Springs National Park.",
+      "badge": "badges/bathhouse-row.png"
+    },
+    {
+      "id": "fordyce-bathhouse",
+      "name": "Fordyce Bathhouse",
+      "lat": 34.51372,
+      "lng": -93.05347,
+      "radiusM": 120,
+      "address": "369 Central Ave, Hot Springs, AR",
+      "howTo": "Visit the Fordyce Bathhouse visitor center.",
+      "badge": "badges/fordyce-bathhouse.png"
+    },
+    {
+      "id": "grand-promenade",
+      "name": "Grand Promenade",
+      "lat": 34.51434,
+      "lng": -93.05306,
+      "radiusM": 150,
+      "address": "Grand Promenade, Hot Springs, AR",
+      "howTo": "Walk the Grand Promenade behind Bathhouse Row.",
+      "badge": "badges/grand-promenade.png"
+    },
+    {
+      "id": "hot-springs-mountain-tower",
+      "name": "Hot Springs Mountain Tower",
+      "lat": 34.51728,
+      "lng": -93.04622,
+      "radiusM": 150,
+      "address": "401 Hot Springs Mountain Dr, Hot Springs, AR",
+      "howTo": "Visit the Hot Springs Mountain Tower.",
+      "badge": "badges/hot-springs-mountain-tower.png"
+    },
+    {
+      "id": "garvan-woodland-gardens",
+      "name": "Garvan Woodland Gardens",
+      "lat": 34.43622,
+      "lng": -93.04831,
+      "radiusM": 300,
+      "address": "550 Arkridge Rd, Hot Springs, AR",
+      "howTo": "Visit Garvan Woodland Gardens.",
+      "badge": "badges/garvan-woodland-gardens.png"
+    },
+    {
+      "id": "mid-america-science-museum",
+      "name": "Mid-America Science Museum",
+      "lat": 34.51477,
+      "lng": -93.11636,
+      "radiusM": 150,
+      "address": "500 Mid America Blvd, Hot Springs, AR",
+      "howTo": "Visit the Mid-America Science Museum.",
+      "badge": "badges/mid-america-science-museum.png"
+    }
+  ]
+}

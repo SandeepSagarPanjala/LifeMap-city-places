@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/sacramento",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Sacramento",
+  "bbox": {
+    "minLat": 38.54,
+    "minLng": -121.55,
+    "maxLat": 38.62,
+    "maxLng": -121.45
+  },
+  "updatedAt": "2026-08-10T20:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "california-state-capitol",
+      "name": "California State Capitol",
+      "lat": 38.57667,
+      "lng": -121.49371,
+      "radiusM": 200,
+      "address": "1315 10th St, Sacramento, CA",
+      "howTo": "Visit the California State Capitol.",
+      "badge": "badges/california-state-capitol.png"
+    },
+    {
+      "id": "capitol-park",
+      "name": "Capitol Park",
+      "lat": 38.57607,
+      "lng": -121.49145,
+      "radiusM": 250,
+      "address": "Capitol Park, Sacramento, CA",
+      "howTo": "Visit Capitol Park.",
+      "badge": "badges/capitol-park.png"
+    },
+    {
+      "id": "old-sacramento",
+      "name": "Old Sacramento",
+      "lat": 38.58704,
+      "lng": -121.50106,
+      "radiusM": 200,
+      "address": "Old Sacramento, Sacramento, CA",
+      "howTo": "Visit Old Sacramento State Historic Park.",
+      "badge": "badges/old-sacramento.png"
+    },
+    {
+      "id": "california-state-railroad-museum",
+      "name": "California State Railroad Museum",
+      "lat": 38.58497,
+      "lng": -121.5043,
+      "radiusM": 150,
+      "address": "125 I St, Sacramento, CA",
+      "howTo": "Visit the California State Railroad Museum.",
+      "badge": "badges/california-state-railroad-museum.png"
+    },
+    {
+      "id": "crocker-art-museum",
+      "name": "Crocker Art Museum",
+      "lat": 38.57712,
+      "lng": -121.50617,
+      "radiusM": 150,
+      "address": "216 O St, Sacramento, CA",
+      "howTo": "Visit the Crocker Art Museum.",
+      "badge": "badges/crocker-art-museum.png"
+    },
+    {
+      "id": "tower-bridge-sacramento",
+      "name": "Tower Bridge",
+      "lat": 38.58057,
+      "lng": -121.5083,
+      "radiusM": 150,
+      "address": "Tower Bridge, Sacramento, CA",
+      "howTo": "Visit the Tower Bridge.",
+      "badge": "badges/tower-bridge-sacramento.png"
+    },
+    {
+      "id": "sutter-fort",
+      "name": "Sutter's Fort",
+      "lat": 38.57231,
+      "lng": -121.47121,
+      "radiusM": 150,
+      "address": "2701 L St, Sacramento, CA",
+      "howTo": "Visit Sutter's Fort.",
+      "badge": "badges/sutter-fort.png"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/anaheim",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Anaheim",
+  "bbox": {
+    "minLat": 33.78,
+    "minLng": -117.95,
+    "maxLat": 33.86,
+    "maxLng": -117.85
+  },
+  "updatedAt": "2026-08-10T20:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "disneyland",
+      "name": "Disneyland Park",
+      "lat": 33.81365,
+      "lng": -117.91974,
+      "radiusM": 300,
+      "address": "1313 Disneyland Dr, Anaheim, CA",
+      "howTo": "Visit Disneyland Park.",
+      "badge": "badges/disneyland.png"
+    },
+    {
+      "id": "disney-california-adventure",
+      "name": "Disney California Adventure",
+      "lat": 33.8064,
+      "lng": -117.91995,
+      "radiusM": 250,
+      "address": "1313 Disneyland Dr, Anaheim, CA",
+      "howTo": "Visit Disney California Adventure.",
+      "badge": "badges/disney-california-adventure.png"
+    },
+    {
+      "id": "angel-stadium",
+      "name": "Angel Stadium",
+      "lat": 33.80026,
+      "lng": -117.88174,
+      "radiusM": 200,
+      "address": "2000 E Gene Autry Way, Anaheim, CA",
+      "howTo": "Visit Angel Stadium.",
+      "badge": "badges/angel-stadium.png"
+    },
+    {
+      "id": "honda-center",
+      "name": "Honda Center",
+      "lat": 33.80783,
+      "lng": -117.87653,
+      "radiusM": 150,
+      "address": "2695 E Katella Ave, Anaheim, CA",
+      "howTo": "Visit the Honda Center.",
+      "badge": "badges/honda-center.png"
+    },
+    {
+      "id": "pearson-park",
+      "name": "Pearson Park",
+      "lat": 33.83788,
+      "lng": -117.91878,
+      "radiusM": 200,
+      "address": "400 W Crowther Ave, Anaheim, CA",
+      "howTo": "Visit Pearson Park.",
+      "badge": "badges/pearson-park.png"
+    },
+    {
+      "id": "muzeo",
+      "name": "Muzeo Museum and Cultural Center",
+      "lat": 33.83361,
+      "lng": -117.91364,
+      "radiusM": 120,
+      "address": "241 S Anaheim Blvd, Anaheim, CA",
+      "howTo": "Visit the Muzeo.",
+      "badge": "badges/muzeo.png"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arkansas/little-rock",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AR",
+  "stateName": "Arkansas",
+  "cityName": "Little Rock",
+  "bbox": {
+    "minLat": 34.7,
+    "minLng": -92.52,
+    "maxLat": 34.85,
+    "maxLng": -92.22
+  },
+  "updatedAt": "2026-08-10T20:15:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clinton-presidential-library",
+      "name": "Clinton Presidential Library",
+      "lat": 34.74625,
+      "lng": -92.25836,
+      "radiusM": 200,
+      "address": "1200 President Clinton Ave, Little Rock, AR",
+      "howTo": "Visit the William J. Clinton Presidential Library.",
+      "badge": "badges/clinton-presidential-library.png"
+    },
+    {
+      "id": "little-rock-central-high-school",
+      "name": "Little Rock Central High School",
+      "lat": 34.73722,
+      "lng": -92.3002,
+      "radiusM": 150,
+      "address": "2120 W Daisy L Gatson Bates Dr, Little Rock, AR",
+      "howTo": "Visit Little Rock Central High School National Historic Site.",
+      "badge": "badges/little-rock-central-high-school.png"
+    },
+    {
+      "id": "arkansas-state-capitol",
+      "name": "Arkansas State Capitol",
+      "lat": 34.74661,
+      "lng": -92.2892,
+      "radiusM": 150,
+      "address": "500 Woodlane St, Little Rock, AR",
+      "howTo": "Visit the Arkansas State Capitol.",
+      "badge": "badges/arkansas-state-capitol.png"
+    },
+    {
+      "id": "riverfront-park-little-rock",
+      "name": "Riverfront Park",
+      "lat": 34.74931,
+      "lng": -92.26916,
+      "radiusM": 250,
+      "address": "400 President Clinton Ave, Little Rock, AR",
+      "howTo": "Visit Riverfront Park along the Arkansas River.",
+      "badge": "badges/riverfront-park-little-rock.png"
+    },
+    {
+      "id": "arkansas-museum-of-fine-arts",
+      "name": "Arkansas Museum of Fine Arts",
+      "lat": 34.73833,
+      "lng": -92.26635,
+      "radiusM": 150,
+      "address": "501 E 9th St, Little Rock, AR",
+      "howTo": "Visit the Arkansas Museum of Fine Arts.",
+      "badge": "badges/arkansas-museum-of-fine-arts.png"
+    },
+    {
+      "id": "macarthur-park",
+      "name": "MacArthur Park",
+      "lat": 34.73724,
+      "lng": -92.26555,
+      "radiusM": 200,
+      "address": "9th & Commerce St, Little Rock, AR",
+      "howTo": "Visit MacArthur Park.",
+      "badge": "badges/macarthur-park.png"
+    },
+    {
+      "id": "pinnacle-mountain-state-park",
+      "name": "Pinnacle Mountain State Park",
+      "lat": 34.83443,
+      "lng": -92.47123,
+      "radiusM": 400,
+      "address": "11901 Pinnacle Valley Rd, Little Rock, AR",
+      "howTo": "Visit Pinnacle Mountain State Park.",
+      "badge": "badges/pinnacle-mountain-state-park.png"
+    }
+  ]
+}

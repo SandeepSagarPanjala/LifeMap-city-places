@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/los-angeles",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Los Angeles",
+  "bbox": {
+    "minLat": 33.95,
+    "minLng": -118.55,
+    "maxLat": 34.2,
+    "maxLng": -118.15
+  },
+  "updatedAt": "2026-08-10T20:18:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "griffith-observatory",
+      "name": "Griffith Observatory",
+      "lat": 34.11822,
+      "lng": -118.30029,
+      "radiusM": 200,
+      "address": "2800 E Observatory Rd, Los Angeles, CA",
+      "howTo": "Visit Griffith Observatory.",
+      "badge": "badges/griffith-observatory.png"
+    },
+    {
+      "id": "hollywood-sign",
+      "name": "Hollywood Sign",
+      "lat": 34.1274,
+      "lng": -118.3237,
+      "radiusM": 250,
+      "address": "Lake Hollywood Park, Los Angeles, CA",
+      "howTo": "Visit the Hollywood Sign viewpoint at Lake Hollywood Park.",
+      "badge": "badges/hollywood-sign.png"
+    },
+    {
+      "id": "getty-center",
+      "name": "Getty Center",
+      "lat": 34.07702,
+      "lng": -118.47401,
+      "radiusM": 250,
+      "address": "1200 Getty Center Dr, Los Angeles, CA",
+      "howTo": "Visit the Getty Center.",
+      "badge": "badges/getty-center.png"
+    },
+    {
+      "id": "lacma",
+      "name": "LACMA",
+      "lat": 34.06374,
+      "lng": -118.35894,
+      "radiusM": 200,
+      "address": "5905 Wilshire Blvd, Los Angeles, CA",
+      "howTo": "Visit the Los Angeles County Museum of Art.",
+      "badge": "badges/lacma.png"
+    },
+    {
+      "id": "the-broad",
+      "name": "The Broad",
+      "lat": 34.05446,
+      "lng": -118.25059,
+      "radiusM": 150,
+      "address": "221 S Grand Ave, Los Angeles, CA",
+      "howTo": "Visit The Broad.",
+      "badge": "badges/the-broad.png"
+    },
+    {
+      "id": "santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "lat": 34.0089,
+      "lng": -118.4974,
+      "radiusM": 200,
+      "address": "200 Santa Monica Pier, Santa Monica, CA",
+      "howTo": "Visit the Santa Monica Pier.",
+      "badge": "badges/santa-monica-pier.png"
+    },
+    {
+      "id": "venice-beach",
+      "name": "Venice Beach",
+      "lat": 33.97996,
+      "lng": -118.46877,
+      "radiusM": 250,
+      "address": "Venice Boardwalk, Los Angeles, CA",
+      "howTo": "Visit Venice Beach.",
+      "badge": "badges/venice-beach.png"
+    },
+    {
+      "id": "tcl-chinese-theatre",
+      "name": "TCL Chinese Theatre",
+      "lat": 34.10207,
+      "lng": -118.34095,
+      "radiusM": 120,
+      "address": "6925 Hollywood Blvd, Los Angeles, CA",
+      "howTo": "Visit the TCL Chinese Theatre.",
+      "badge": "badges/tcl-chinese-theatre.png"
+    },
+    {
+      "id": "academy-museum",
+      "name": "Academy Museum of Motion Pictures",
+      "lat": 34.06382,
+      "lng": -118.36083,
+      "radiusM": 150,
+      "address": "6067 Wilshire Blvd, Los Angeles, CA",
+      "howTo": "Visit the Academy Museum of Motion Pictures.",
+      "badge": "badges/academy-museum.png"
+    },
+    {
+      "id": "walt-disney-concert-hall",
+      "name": "Walt Disney Concert Hall",
+      "lat": 34.05543,
+      "lng": -118.24991,
+      "radiusM": 150,
+      "address": "111 S Grand Ave, Los Angeles, CA",
+      "howTo": "Visit Walt Disney Concert Hall.",
+      "badge": "badges/walt-disney-concert-hall.png"
+    },
+    {
+      "id": "runyon-canyon",
+      "name": "Runyon Canyon",
+      "lat": 34.11204,
+      "lng": -118.3501,
+      "radiusM": 300,
+      "address": "2000 N Fuller Ave, Los Angeles, CA",
+      "howTo": "Visit Runyon Canyon Park.",
+      "badge": "badges/runyon-canyon.png"
+    },
+    {
+      "id": "california-science-center",
+      "name": "California Science Center",
+      "lat": 34.01598,
+      "lng": -118.28629,
+      "radiusM": 200,
+      "address": "700 Exposition Park Dr, Los Angeles, CA",
+      "howTo": "Visit the California Science Center.",
+      "badge": "badges/california-science-center.png"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/santa-barbara",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Santa Barbara",
+  "bbox": {
+    "minLat": 34.38,
+    "minLng": -119.75,
+    "maxLat": 34.48,
+    "maxLng": -119.65
+  },
+  "updatedAt": "2026-08-10T20:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-barbara-mission",
+      "name": "Santa Barbara Mission",
+      "lat": 34.44658,
+      "lng": -119.71199,
+      "radiusM": 150,
+      "address": "2201 Laguna St, Santa Barbara, CA",
+      "howTo": "Visit Mission Santa Barbara.",
+      "badge": "badges/santa-barbara-mission.png"
+    },
+    {
+      "id": "stearns-wharf",
+      "name": "Stearns Wharf",
+      "lat": 34.40995,
+      "lng": -119.6858,
+      "radiusM": 150,
+      "address": "Stearns Wharf, Santa Barbara, CA",
+      "howTo": "Visit Stearns Wharf.",
+      "badge": "badges/stearns-wharf.png"
+    },
+    {
+      "id": "santa-barbara-courthouse",
+      "name": "Santa Barbara Courthouse",
+      "lat": 34.42433,
+      "lng": -119.70251,
+      "radiusM": 150,
+      "address": "1100 Anacapa St, Santa Barbara, CA",
+      "howTo": "Visit the Santa Barbara County Courthouse.",
+      "badge": "badges/santa-barbara-courthouse.png"
+    },
+    {
+      "id": "lotusland",
+      "name": "Lotusland",
+      "lat": 34.4436,
+      "lng": -119.65725,
+      "radiusM": 200,
+      "address": "695 Ashley Rd, Santa Barbara, CA",
+      "howTo": "Visit Lotusland.",
+      "badge": "badges/lotusland.png"
+    },
+    {
+      "id": "east-beach-santa-barbara",
+      "name": "East Beach",
+      "lat": 34.41448,
+      "lng": -119.68153,
+      "radiusM": 250,
+      "address": "East Beach, Santa Barbara, CA",
+      "howTo": "Visit East Beach.",
+      "badge": "badges/east-beach-santa-barbara.png"
+    },
+    {
+      "id": "santa-barbara-zoo",
+      "name": "Santa Barbara Zoo",
+      "lat": 34.41958,
+      "lng": -119.6642,
+      "radiusM": 200,
+      "address": "500 Ninos Dr, Santa Barbara, CA",
+      "howTo": "Visit the Santa Barbara Zoo.",
+      "badge": "badges/santa-barbara-zoo.png"
+    }
+  ]
+}
