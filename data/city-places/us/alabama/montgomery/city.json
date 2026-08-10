@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alabama/montgomery",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AL",
+  "stateName": "Alabama",
+  "cityName": "Montgomery",
+  "bbox": {
+    "minLat": 32.3,
+    "minLng": -86.4,
+    "maxLat": 32.42,
+    "maxLng": -86.18
+  },
+  "updatedAt": "2026-08-10T09:35:41.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alabama-state-capitol",
+      "name": "Alabama State Capitol",
+      "lat": 32.37777,
+      "lng": -86.30029,
+      "radiusM": 150,
+      "address": "600 Dexter Ave, Montgomery, AL",
+      "howTo": "Visit the Alabama State Capitol.",
+      "badge": "badges/alabama-state-capitol.png"
+    },
+    {
+      "id": "legacy-museum",
+      "name": "The Legacy Museum",
+      "lat": 32.3824,
+      "lng": -86.30833,
+      "radiusM": 150,
+      "address": "400 N Court St, Montgomery, AL",
+      "howTo": "Visit The Legacy Museum.",
+      "badge": "badges/legacy-museum.png"
+    },
+    {
+      "id": "national-memorial-for-peace-and-justice",
+      "name": "National Memorial for Peace and Justice",
+      "lat": 32.37209,
+      "lng": -86.31274,
+      "radiusM": 200,
+      "address": "417 Caroline St, Montgomery, AL",
+      "howTo": "Visit the National Memorial for Peace and Justice.",
+      "badge": "badges/national-memorial-for-peace-and-justice.png"
+    },
+    {
+      "id": "rosa-parks-museum",
+      "name": "Rosa Parks Museum",
+      "lat": 32.37671,
+      "lng": -86.31122,
+      "radiusM": 120,
+      "address": "252 Montgomery St, Montgomery, AL",
+      "howTo": "Visit the Rosa Parks Museum.",
+      "badge": "badges/rosa-parks-museum.png"
+    },
+    {
+      "id": "dexter-avenue-king-memorial-baptist-church",
+      "name": "Dexter Avenue King Memorial Baptist Church",
+      "lat": 32.37728,
+      "lng": -86.3027,
+      "radiusM": 120,
+      "address": "454 Dexter Ave, Montgomery, AL",
+      "howTo": "Visit Dexter Avenue King Memorial Baptist Church.",
+      "badge": "badges/dexter-avenue-king-memorial-baptist-church.png"
+    },
+    {
+      "id": "civil-rights-memorial",
+      "name": "Civil Rights Memorial",
+      "lat": 32.37627,
+      "lng": -86.30329,
+      "radiusM": 120,
+      "address": "400 Washington Ave, Montgomery, AL",
+      "howTo": "Visit the Civil Rights Memorial.",
+      "badge": "badges/civil-rights-memorial.png"
+    },
+    {
+      "id": "riverfront-park",
+      "name": "Riverfront Park",
+      "lat": 32.38252,
+      "lng": -86.31278,
+      "radiusM": 250,
+      "address": "200 Coosa St, Montgomery, AL",
+      "howTo": "Visit Riverfront Park on the Alabama River.",
+      "badge": "badges/riverfront-park.png"
+    },
+    {
+      "id": "old-alabama-town",
+      "name": "Old Alabama Town",
+      "lat": 32.3824,
+      "lng": -86.30489,
+      "radiusM": 200,
+      "address": "310 N Hull St, Montgomery, AL",
+      "howTo": "Visit Old Alabama Town.",
+      "badge": "badges/old-alabama-town.png"
+    },
+    {
+      "id": "montgomery-museum-of-fine-arts",
+      "name": "Montgomery Museum of Fine Arts",
+      "lat": 32.35098,
+      "lng": -86.2064,
+      "radiusM": 150,
+      "address": "1 Museum Dr, Montgomery, AL",
+      "howTo": "Visit the Montgomery Museum of Fine Arts.",
+      "badge": "badges/montgomery-museum-of-fine-arts.png"
+    }
+  ]
+}

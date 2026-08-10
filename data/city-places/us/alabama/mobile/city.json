@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alabama/mobile",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AL",
+  "stateName": "Alabama",
+  "cityName": "Mobile",
+  "bbox": {
+    "minLat": 30.64,
+    "minLng": -88.2,
+    "maxLat": 30.75,
+    "maxLng": -87.98
+  },
+  "updatedAt": "2026-08-10T09:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uss-alabama-battleship",
+      "name": "USS Alabama Battleship Memorial Park",
+      "lat": 30.68437,
+      "lng": -88.01532,
+      "radiusM": 300,
+      "address": "2703 Battleship Pkwy, Mobile, AL",
+      "howTo": "Visit USS Alabama Battleship Memorial Park.",
+      "badge": "badges/uss-alabama-battleship.png"
+    },
+    {
+      "id": "mobile-carnival-museum",
+      "name": "Mobile Carnival Museum",
+      "lat": 30.68843,
+      "lng": -88.04527,
+      "radiusM": 120,
+      "address": "355 Government St, Mobile, AL",
+      "howTo": "Visit the Mobile Carnival Museum.",
+      "badge": "badges/mobile-carnival-museum.png"
+    },
+    {
+      "id": "fort-conde",
+      "name": "Fort Conde",
+      "lat": 30.6888,
+      "lng": -88.03976,
+      "radiusM": 150,
+      "address": "150 S Royal St, Mobile, AL",
+      "howTo": "Visit Fort Conde.",
+      "badge": "badges/fort-conde.png"
+    },
+    {
+      "id": "cathedral-basilica-of-the-immaculate-conception",
+      "name": "Cathedral Basilica of the Immaculate Conception",
+      "lat": 30.69014,
+      "lng": -88.04584,
+      "radiusM": 120,
+      "address": "2 S Claiborne St, Mobile, AL",
+      "howTo": "Visit the Cathedral Basilica of the Immaculate Conception.",
+      "badge": "badges/cathedral-basilica-of-the-immaculate-conception.png"
+    },
+    {
+      "id": "bienville-square",
+      "name": "Bienville Square",
+      "lat": 30.69227,
+      "lng": -88.04254,
+      "radiusM": 120,
+      "address": "Dauphin St & Conception St, Mobile, AL",
+      "howTo": "Visit Bienville Square downtown.",
+      "badge": "badges/bienville-square.png"
+    },
+    {
+      "id": "oakleigh-house-museum",
+      "name": "Oakleigh Historic House Museum",
+      "lat": 30.68088,
+      "lng": -88.06001,
+      "radiusM": 120,
+      "address": "350 Oakleigh Pl, Mobile, AL",
+      "howTo": "Visit the Oakleigh Historic House Museum.",
+      "badge": "badges/oakleigh-house-museum.png"
+    },
+    {
+      "id": "history-museum-of-mobile",
+      "name": "History Museum of Mobile",
+      "lat": 30.68961,
+      "lng": -88.03958,
+      "radiusM": 120,
+      "address": "111 S Royal St, Mobile, AL",
+      "howTo": "Visit the History Museum of Mobile.",
+      "badge": "badges/history-museum-of-mobile.png"
+    },
+    {
+      "id": "gulfquest",
+      "name": "GulfQuest National Maritime Museum",
+      "lat": 30.6886,
+      "lng": -88.03756,
+      "radiusM": 150,
+      "address": "150 S Royal St, Mobile, AL",
+      "howTo": "Visit GulfQuest National Maritime Museum of the Gulf of Mexico.",
+      "badge": "badges/gulfquest.png"
+    },
+    {
+      "id": "mobile-museum-of-art",
+      "name": "Mobile Museum of Art",
+      "lat": 30.70455,
+      "lng": -88.15473,
+      "radiusM": 150,
+      "address": "4850 Museum Dr, Mobile, AL",
+      "howTo": "Visit the Mobile Museum of Art.",
+      "badge": "badges/mobile-museum-of-art.png"
+    }
+  ]
+}

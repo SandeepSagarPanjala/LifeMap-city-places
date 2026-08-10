@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arizona/flagstaff",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AZ",
+  "stateName": "Arizona",
+  "cityName": "Flagstaff",
+  "bbox": {
+    "minLat": 35.15,
+    "minLng": -111.7,
+    "maxLat": 35.25,
+    "maxLng": -111.45
+  },
+  "updatedAt": "2026-08-10T09:57:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lowell-observatory",
+      "name": "Lowell Observatory",
+      "lat": 35.20169,
+      "lng": -111.66528,
+      "radiusM": 150,
+      "address": "1400 W Mars Hill Rd, Flagstaff, AZ",
+      "howTo": "Visit Lowell Observatory.",
+      "badge": "badges/lowell-observatory.png"
+    },
+    {
+      "id": "museum-of-northern-arizona",
+      "name": "Museum of Northern Arizona",
+      "lat": 35.23448,
+      "lng": -111.66524,
+      "radiusM": 150,
+      "address": "3101 N Fort Valley Rd, Flagstaff, AZ",
+      "howTo": "Visit the Museum of Northern Arizona.",
+      "badge": "badges/museum-of-northern-arizona.png"
+    },
+    {
+      "id": "riordan-mansion",
+      "name": "Riordan Mansion",
+      "lat": 35.18757,
+      "lng": -111.65937,
+      "radiusM": 120,
+      "address": "409 W Riordan Rd, Flagstaff, AZ",
+      "howTo": "Visit Riordan Mansion State Historic Park.",
+      "badge": "badges/riordan-mansion.png"
+    },
+    {
+      "id": "walnut-canyon",
+      "name": "Walnut Canyon National Monument",
+      "lat": 35.17931,
+      "lng": -111.45141,
+      "radiusM": 300,
+      "address": "3 Walnut Canyon Rd, Flagstaff, AZ",
+      "howTo": "Visit Walnut Canyon National Monument.",
+      "badge": "badges/walnut-canyon.png"
+    },
+    {
+      "id": "buffalo-park",
+      "name": "Buffalo Park",
+      "lat": 35.22216,
+      "lng": -111.63322,
+      "radiusM": 250,
+      "address": "2400 N Gemini Rd, Flagstaff, AZ",
+      "howTo": "Visit Buffalo Park.",
+      "badge": "badges/buffalo-park.png"
+    },
+    {
+      "id": "historic-downtown-flagstaff",
+      "name": "Historic Downtown Flagstaff",
+      "lat": 35.19855,
+      "lng": -111.64807,
+      "radiusM": 200,
+      "address": "Heritage Square, Flagstaff, AZ",
+      "howTo": "Visit historic downtown Flagstaff.",
+      "badge": "badges/historic-downtown-flagstaff.png"
+    }
+  ]
+}

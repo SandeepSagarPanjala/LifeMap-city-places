@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arizona/sedona",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AZ",
+  "stateName": "Arizona",
+  "cityName": "Sedona",
+  "bbox": {
+    "minLat": 34.78,
+    "minLng": -111.9,
+    "maxLat": 34.95,
+    "maxLng": -111.72
+  },
+  "updatedAt": "2026-08-10T09:54:41.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chapel-of-the-holy-cross",
+      "name": "Chapel of the Holy Cross",
+      "lat": 34.83199,
+      "lng": -111.76676,
+      "radiusM": 150,
+      "address": "780 Chapel Rd, Sedona, AZ",
+      "howTo": "Visit the Chapel of the Holy Cross.",
+      "badge": "badges/chapel-of-the-holy-cross.png"
+    },
+    {
+      "id": "cathedral-rock",
+      "name": "Cathedral Rock",
+      "lat": 34.8197,
+      "lng": -111.7932,
+      "radiusM": 300,
+      "address": "Cathedral Rock Trailhead, Sedona, AZ",
+      "howTo": "Visit Cathedral Rock.",
+      "badge": "badges/cathedral-rock.png"
+    },
+    {
+      "id": "bell-rock",
+      "name": "Bell Rock",
+      "lat": 34.7995,
+      "lng": -111.7634,
+      "radiusM": 250,
+      "address": "Bell Rock Trailhead, Sedona, AZ",
+      "howTo": "Visit Bell Rock.",
+      "badge": "badges/bell-rock.png"
+    },
+    {
+      "id": "airport-mesa",
+      "name": "Airport Mesa",
+      "lat": 34.8558,
+      "lng": -111.77912,
+      "radiusM": 200,
+      "address": "Airport Rd, Sedona, AZ",
+      "howTo": "Visit Airport Mesa overlook.",
+      "badge": "badges/airport-mesa.png"
+    },
+    {
+      "id": "red-rock-state-park",
+      "name": "Red Rock State Park",
+      "lat": 34.806,
+      "lng": -111.838,
+      "radiusM": 300,
+      "address": "4050 Red Rock Loop Rd, Sedona, AZ",
+      "howTo": "Visit Red Rock State Park.",
+      "badge": "badges/red-rock-state-park.png"
+    },
+    {
+      "id": "slide-rock-state-park",
+      "name": "Slide Rock State Park",
+      "lat": 34.94385,
+      "lng": -111.75319,
+      "radiusM": 250,
+      "address": "6871 N Highway 89A, Sedona, AZ",
+      "howTo": "Visit Slide Rock State Park.",
+      "badge": "badges/slide-rock-state-park.png"
+    },
+    {
+      "id": "devils-bridge",
+      "name": "Devil's Bridge",
+      "lat": 34.89008,
+      "lng": -111.82095,
+      "radiusM": 250,
+      "address": "Devil's Bridge Trail, Sedona, AZ",
+      "howTo": "Visit Devil's Bridge.",
+      "badge": "badges/devils-bridge.png"
+    }
+  ]
+}

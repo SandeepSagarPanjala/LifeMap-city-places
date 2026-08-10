@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alabama/huntsville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AL",
+  "stateName": "Alabama",
+  "cityName": "Huntsville",
+  "bbox": {
+    "minLat": 34.65,
+    "minLng": -86.75,
+    "maxLat": 34.8,
+    "maxLng": -86.48
+  },
+  "updatedAt": "2026-08-10T09:32:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "us-space-and-rocket-center",
+      "name": "U.S. Space & Rocket Center",
+      "lat": 34.71153,
+      "lng": -86.64273,
+      "radiusM": 300,
+      "address": "1 Tranquility Base, Huntsville, AL",
+      "howTo": "Visit the U.S. Space & Rocket Center.",
+      "badge": "badges/us-space-and-rocket-center.png"
+    },
+    {
+      "id": "huntsville-botanical-garden",
+      "name": "Huntsville Botanical Garden",
+      "lat": 34.71275,
+      "lng": -86.63288,
+      "radiusM": 300,
+      "address": "4747 Bob Wallace Ave SW, Huntsville, AL",
+      "howTo": "Visit the Huntsville Botanical Garden.",
+      "badge": "badges/huntsville-botanical-garden.png"
+    },
+    {
+      "id": "big-spring-international-park",
+      "name": "Big Spring International Park",
+      "lat": 34.72736,
+      "lng": -86.58791,
+      "radiusM": 200,
+      "address": "200 Church St NW, Huntsville, AL",
+      "howTo": "Visit Big Spring International Park.",
+      "badge": "badges/big-spring-international-park.png"
+    },
+    {
+      "id": "burritt-on-the-mountain",
+      "name": "Burritt on the Mountain",
+      "lat": 34.71653,
+      "lng": -86.53763,
+      "radiusM": 250,
+      "address": "3101 Burritt Dr, Huntsville, AL",
+      "howTo": "Visit Burritt on the Mountain.",
+      "badge": "badges/burritt-on-the-mountain.png"
+    },
+    {
+      "id": "monte-sano-state-park",
+      "name": "Monte Sano State Park",
+      "lat": 34.73117,
+      "lng": -86.5149,
+      "radiusM": 400,
+      "address": "1480 Governor's Dr, Huntsville, AL",
+      "howTo": "Visit Monte Sano State Park.",
+      "badge": "badges/monte-sano-state-park.png"
+    },
+    {
+      "id": "huntsville-museum-of-art",
+      "name": "Huntsville Museum of Art",
+      "lat": 34.72713,
+      "lng": -86.58724,
+      "radiusM": 150,
+      "address": "300 Church St SW, Huntsville, AL",
+      "howTo": "Visit the Huntsville Museum of Art.",
+      "badge": "badges/huntsville-museum-of-art.png"
+    },
+    {
+      "id": "historic-huntsville-depot",
+      "name": "Historic Huntsville Depot",
+      "lat": 34.73459,
+      "lng": -86.59001,
+      "radiusM": 150,
+      "address": "320 Church St NW, Huntsville, AL",
+      "howTo": "Visit the Historic Huntsville Depot.",
+      "badge": "badges/historic-huntsville-depot.png"
+    },
+    {
+      "id": "lowe-mill-arts",
+      "name": "Lowe Mill Arts & Entertainment",
+      "lat": 34.71533,
+      "lng": -86.59704,
+      "radiusM": 200,
+      "address": "2211 Seminole Dr SW, Huntsville, AL",
+      "howTo": "Visit Lowe Mill Arts & Entertainment.",
+      "badge": "badges/lowe-mill-arts.png"
+    }
+  ]
+}

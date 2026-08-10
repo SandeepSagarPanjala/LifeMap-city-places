@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alaska/fairbanks",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AK",
+  "stateName": "Alaska",
+  "cityName": "Fairbanks",
+  "bbox": {
+    "minLat": 64.8,
+    "minLng": -147.9,
+    "maxLat": 64.9,
+    "maxLng": -147.65
+  },
+  "updatedAt": "2026-08-10T09:44:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "museum-of-the-north",
+      "name": "Museum of the North",
+      "lat": 64.85847,
+      "lng": -147.84243,
+      "radiusM": 150,
+      "address": "1962 Yukon Dr, Fairbanks, AK",
+      "howTo": "Visit the University of Alaska Museum of the North.",
+      "badge": "badges/museum-of-the-north.png"
+    },
+    {
+      "id": "pioneer-park",
+      "name": "Pioneer Park",
+      "lat": 64.83937,
+      "lng": -147.77425,
+      "radiusM": 300,
+      "address": "2300 Airport Way, Fairbanks, AK",
+      "howTo": "Visit Pioneer Park.",
+      "badge": "badges/pioneer-park.png"
+    },
+    {
+      "id": "creamers-field",
+      "name": "Creamer's Field",
+      "lat": 64.87352,
+      "lng": -147.71564,
+      "radiusM": 300,
+      "address": "1300 College Rd, Fairbanks, AK",
+      "howTo": "Visit Creamer's Field Migratory Waterfowl Refuge.",
+      "badge": "badges/creamers-field.png"
+    },
+    {
+      "id": "georgeson-botanical-garden",
+      "name": "Georgeson Botanical Garden",
+      "lat": 64.85678,
+      "lng": -147.85539,
+      "radiusM": 200,
+      "address": "117 W Tanana Dr, Fairbanks, AK",
+      "howTo": "Visit the Georgeson Botanical Garden.",
+      "badge": "badges/georgeson-botanical-garden.png"
+    },
+    {
+      "id": "morris-thompson-center",
+      "name": "Morris Thompson Cultural & Visitors Center",
+      "lat": 64.8459,
+      "lng": -147.71192,
+      "radiusM": 150,
+      "address": "101 Dunkel St, Fairbanks, AK",
+      "howTo": "Visit the Morris Thompson Cultural & Visitors Center.",
+      "badge": "badges/morris-thompson-center.png"
+    },
+    {
+      "id": "fountainhead-antique-auto-museum",
+      "name": "Fountainhead Antique Auto Museum",
+      "lat": 64.86082,
+      "lng": -147.71365,
+      "radiusM": 150,
+      "address": "212 Wedgewood Dr, Fairbanks, AK",
+      "howTo": "Visit the Fountainhead Antique Auto Museum.",
+      "badge": "badges/fountainhead-antique-auto-museum.png"
+    },
+    {
+      "id": "large-animal-research-station",
+      "name": "Large Animal Research Station",
+      "lat": 64.88081,
+      "lng": -147.86882,
+      "radiusM": 200,
+      "address": "2220 Yankovich Rd, Fairbanks, AK",
+      "howTo": "Visit the Large Animal Research Station.",
+      "badge": "badges/large-animal-research-station.png"
+    }
+  ]
+}

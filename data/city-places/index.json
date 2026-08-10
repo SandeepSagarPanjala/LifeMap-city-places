@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "cursor": "us/alabama/mobile",
-  "updatedAt": "2026-08-10T09:14:14.000Z",
+  "cursor": "us/arizona/scottsdale",
+  "updatedAt": "2026-08-10T09:59:54.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -31,26 +31,44 @@
             {
               "id": "mobile",
               "name": "Mobile",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alabama/mobile/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T09:32:38.000Z",
+              "bbox": {
+                "minLat": 30.64,
+                "minLng": -88.2,
+                "maxLat": 30.75,
+                "maxLng": -87.98
+              }
             },
             {
               "id": "huntsville",
               "name": "Huntsville",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alabama/huntsville/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-10T09:35:41.000Z",
+              "bbox": {
+                "minLat": 34.65,
+                "minLng": -86.75,
+                "maxLat": 34.8,
+                "maxLng": -86.48
+              }
             },
             {
               "id": "montgomery",
               "name": "Montgomery",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alabama/montgomery/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 9,
+              "completedAt": "2026-08-10T09:38:50.000Z",
+              "bbox": {
+                "minLat": 32.3,
+                "minLng": -86.4,
+                "maxLat": 32.42,
+                "maxLng": -86.18
+              }
             }
           ]
         },
@@ -62,26 +80,44 @@
             {
               "id": "anchorage",
               "name": "Anchorage",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alaska/anchorage/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-10T09:42:46.000Z",
+              "bbox": {
+                "minLat": 61.08,
+                "minLng": -150.05,
+                "maxLat": 61.28,
+                "maxLng": -149.65
+              }
             },
             {
               "id": "juneau",
               "name": "Juneau",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alaska/juneau/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-10T09:44:53.000Z",
+              "bbox": {
+                "minLat": 58.28,
+                "minLng": -134.6,
+                "maxLat": 58.45,
+                "maxLng": -134.35
+              }
             },
             {
               "id": "fairbanks",
               "name": "Fairbanks",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/alaska/fairbanks/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T09:47:18.000Z",
+              "bbox": {
+                "minLat": 64.8,
+                "minLng": -147.9,
+                "maxLat": 64.9,
+                "maxLng": -147.65
+              }
             }
           ]
         },
@@ -93,34 +129,58 @@
             {
               "id": "phoenix",
               "name": "Phoenix",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arizona/phoenix/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-10T09:51:16.000Z",
+              "bbox": {
+                "minLat": 33.3,
+                "minLng": -112.15,
+                "maxLat": 33.7,
+                "maxLng": -111.9
+              }
             },
             {
               "id": "tucson",
               "name": "Tucson",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arizona/tucson/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T09:54:41.000Z",
+              "bbox": {
+                "minLat": 32.08,
+                "minLng": -111.2,
+                "maxLat": 32.35,
+                "maxLng": -110.8
+              }
             },
             {
               "id": "sedona",
               "name": "Sedona",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arizona/sedona/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-10T09:57:16.000Z",
+              "bbox": {
+                "minLat": 34.78,
+                "minLng": -111.9,
+                "maxLat": 34.95,
+                "maxLng": -111.72
+              }
             },
             {
               "id": "flagstaff",
               "name": "Flagstaff",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/arizona/flagstaff/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-10T09:59:54.000Z",
+              "bbox": {
+                "minLat": 35.15,
+                "minLng": -111.7,
+                "maxLat": 35.25,
+                "maxLng": -111.45
+              }
             },
             {
               "id": "scottsdale",

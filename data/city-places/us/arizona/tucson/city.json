@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/arizona/tucson",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AZ",
+  "stateName": "Arizona",
+  "cityName": "Tucson",
+  "bbox": {
+    "minLat": 32.08,
+    "minLng": -111.2,
+    "maxLat": 32.35,
+    "maxLng": -110.8
+  },
+  "updatedAt": "2026-08-10T09:51:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "arizona-sonora-desert-museum",
+      "name": "Arizona-Sonora Desert Museum",
+      "lat": 32.24371,
+      "lng": -111.1674,
+      "radiusM": 300,
+      "address": "2021 N Kinney Rd, Tucson, AZ",
+      "howTo": "Visit the Arizona-Sonora Desert Museum.",
+      "badge": "badges/arizona-sonora-desert-museum.png"
+    },
+    {
+      "id": "saguaro-national-park-west",
+      "name": "Saguaro National Park (West)",
+      "lat": 32.25,
+      "lng": -111.1667,
+      "radiusM": 400,
+      "address": "2700 N Kinney Rd, Tucson, AZ",
+      "howTo": "Visit Saguaro National Park West.",
+      "badge": "badges/saguaro-national-park-west.png"
+    },
+    {
+      "id": "mission-san-xavier-del-bac",
+      "name": "Mission San Xavier del Bac",
+      "lat": 32.10728,
+      "lng": -111.00749,
+      "radiusM": 150,
+      "address": "1950 W San Xavier Rd, Tucson, AZ",
+      "howTo": "Visit Mission San Xavier del Bac.",
+      "badge": "badges/mission-san-xavier-del-bac.png"
+    },
+    {
+      "id": "sabino-canyon",
+      "name": "Sabino Canyon",
+      "lat": 32.25377,
+      "lng": -110.84088,
+      "radiusM": 300,
+      "address": "5700 N Sabino Canyon Rd, Tucson, AZ",
+      "howTo": "Visit Sabino Canyon.",
+      "badge": "badges/sabino-canyon.png"
+    },
+    {
+      "id": "pima-air-and-space-museum",
+      "name": "Pima Air & Space Museum",
+      "lat": 32.13791,
+      "lng": -110.86713,
+      "radiusM": 300,
+      "address": "6000 E Valencia Rd, Tucson, AZ",
+      "howTo": "Visit the Pima Air & Space Museum.",
+      "badge": "badges/pima-air-and-space-museum.png"
+    },
+    {
+      "id": "tucson-botanical-gardens",
+      "name": "Tucson Botanical Gardens",
+      "lat": 32.24839,
+      "lng": -110.90861,
+      "radiusM": 150,
+      "address": "2150 N Alvernon Way, Tucson, AZ",
+      "howTo": "Visit the Tucson Botanical Gardens.",
+      "badge": "badges/tucson-botanical-gardens.png"
+    },
+    {
+      "id": "gates-pass",
+      "name": "Gates Pass",
+      "lat": 32.2217,
+      "lng": -111.1014,
+      "radiusM": 200,
+      "address": "Gates Pass Rd, Tucson, AZ",
+      "howTo": "Visit Gates Pass for desert sunset views.",
+      "badge": "badges/gates-pass.png"
+    }
+  ]
+}

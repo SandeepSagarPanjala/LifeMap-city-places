@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alaska/juneau",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AK",
+  "stateName": "Alaska",
+  "cityName": "Juneau",
+  "bbox": {
+    "minLat": 58.28,
+    "minLng": -134.6,
+    "maxLat": 58.45,
+    "maxLng": -134.35
+  },
+  "updatedAt": "2026-08-10T09:42:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mendenhall-glacier",
+      "name": "Mendenhall Glacier",
+      "lat": 58.41718,
+      "lng": -134.54563,
+      "radiusM": 400,
+      "address": "Mendenhall Glacier Visitor Center, Juneau, AK",
+      "howTo": "Visit Mendenhall Glacier and the visitor center.",
+      "badge": "badges/mendenhall-glacier.png"
+    },
+    {
+      "id": "nugget-falls",
+      "name": "Nugget Falls",
+      "lat": 58.42705,
+      "lng": -134.53775,
+      "radiusM": 200,
+      "address": "Nugget Falls Trail, Juneau, AK",
+      "howTo": "Visit Nugget Falls near Mendenhall Glacier.",
+      "badge": "badges/nugget-falls.png"
+    },
+    {
+      "id": "mount-roberts-tramway",
+      "name": "Mount Roberts Tramway",
+      "lat": 58.2978,
+      "lng": -134.4075,
+      "radiusM": 150,
+      "address": "490 S Franklin St, Juneau, AK",
+      "howTo": "Visit the Mount Roberts Tramway.",
+      "badge": "badges/mount-roberts-tramway.png"
+    },
+    {
+      "id": "alaska-state-capitol",
+      "name": "Alaska State Capitol",
+      "lat": 58.30213,
+      "lng": -134.41015,
+      "radiusM": 120,
+      "address": "120 4th St, Juneau, AK",
+      "howTo": "Visit the Alaska State Capitol.",
+      "badge": "badges/alaska-state-capitol.png"
+    },
+    {
+      "id": "alaska-state-museum",
+      "name": "Alaska State Museum",
+      "lat": 58.29998,
+      "lng": -134.41611,
+      "radiusM": 150,
+      "address": "395 Whittier St, Juneau, AK",
+      "howTo": "Visit the Alaska State Museum.",
+      "badge": "badges/alaska-state-museum.png"
+    },
+    {
+      "id": "st-nicholas-russian-orthodox-church",
+      "name": "St. Nicholas Russian Orthodox Church",
+      "lat": 58.3035,
+      "lng": -134.4175,
+      "radiusM": 100,
+      "address": "326 5th St, Juneau, AK",
+      "howTo": "Visit St. Nicholas Russian Orthodox Church.",
+      "badge": "badges/st-nicholas-russian-orthodox-church.png"
+    }
+  ]
+}

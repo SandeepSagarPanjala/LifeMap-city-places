@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/alaska/anchorage",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "AK",
+  "stateName": "Alaska",
+  "cityName": "Anchorage",
+  "bbox": {
+    "minLat": 61.08,
+    "minLng": -150.05,
+    "maxLat": 61.28,
+    "maxLng": -149.65
+  },
+  "updatedAt": "2026-08-10T09:39:55.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "anchorage-museum",
+      "name": "Anchorage Museum",
+      "lat": 61.21599,
+      "lng": -149.88469,
+      "radiusM": 150,
+      "address": "625 C St, Anchorage, AK",
+      "howTo": "Visit the Anchorage Museum.",
+      "badge": "badges/anchorage-museum.png"
+    },
+    {
+      "id": "alaska-native-heritage-center",
+      "name": "Alaska Native Heritage Center",
+      "lat": 61.23273,
+      "lng": -149.71631,
+      "radiusM": 250,
+      "address": "8800 Heritage Center Dr, Anchorage, AK",
+      "howTo": "Visit the Alaska Native Heritage Center.",
+      "badge": "badges/alaska-native-heritage-center.png"
+    },
+    {
+      "id": "earthquake-park",
+      "name": "Earthquake Park",
+      "lat": 61.19814,
+      "lng": -149.97182,
+      "radiusM": 200,
+      "address": "Earthquake Park Rd, Anchorage, AK",
+      "howTo": "Visit Earthquake Park.",
+      "badge": "badges/earthquake-park.png"
+    },
+    {
+      "id": "tony-knowles-coastal-trail",
+      "name": "Tony Knowles Coastal Trail",
+      "lat": 61.20626,
+      "lng": -149.92631,
+      "radiusM": 300,
+      "address": "Tony Knowles Coastal Trail, Anchorage, AK",
+      "howTo": "Visit the Tony Knowles Coastal Trail.",
+      "badge": "badges/tony-knowles-coastal-trail.png"
+    },
+    {
+      "id": "alaska-aviation-museum",
+      "name": "Alaska Aviation Museum",
+      "lat": 61.17905,
+      "lng": -149.97251,
+      "radiusM": 150,
+      "address": "4721 Aircraft Dr, Anchorage, AK",
+      "howTo": "Visit the Alaska Aviation Museum at Lake Hood.",
+      "badge": "badges/alaska-aviation-museum.png"
+    },
+    {
+      "id": "alaska-zoo",
+      "name": "Alaska Zoo",
+      "lat": 61.12467,
+      "lng": -149.79217,
+      "radiusM": 250,
+      "address": "4731 O'Malley Rd, Anchorage, AK",
+      "howTo": "Visit the Alaska Zoo.",
+      "badge": "badges/alaska-zoo.png"
+    },
+    {
+      "id": "resolution-park",
+      "name": "Resolution Park",
+      "lat": 61.21935,
+      "lng": -149.90413,
+      "radiusM": 120,
+      "address": "3rd Ave & L St, Anchorage, AK",
+      "howTo": "Visit Resolution Park and the Captain Cook monument.",
+      "badge": "badges/resolution-park.png"
+    },
+    {
+      "id": "flattop-mountain",
+      "name": "Flattop Mountain",
+      "lat": 61.10305,
+      "lng": -149.68325,
+      "radiusM": 400,
+      "address": "Glen Alps Trailhead, Anchorage, AK",
+      "howTo": "Visit Flattop Mountain via the Glen Alps trailhead.",
+      "badge": "badges/flattop-mountain.png"
+    }
+  ]
+}
