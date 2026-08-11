@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "cursor": "us/ohio/cleveland",
-  "updatedAt": "2026-08-11T07:11:21.000Z",
+  "updatedAt": "2026-08-11T07:18:38.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -551,13 +551,13 @@
               "name": "Miami",
               "status": "complete",
               "packPath": "us/florida/miami/city.json",
-              "placeCount": 8,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 16,
+              "completedAt": "2026-08-11T07:18:38.000Z",
               "bbox": {
-                "minLat": 25.7,
-                "minLng": -80.35,
-                "maxLat": 25.9,
-                "maxLng": -80.1
+                "minLat": 25.4624,
+                "minLng": -80.42,
+                "maxLat": 25.87,
+                "maxLng": -80.1132031
               }
             },
             {
@@ -565,13 +565,13 @@
               "name": "Orlando",
               "status": "complete",
               "packPath": "us/florida/orlando/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 16,
+              "completedAt": "2026-08-11T07:18:38.000Z",
               "bbox": {
-                "minLat": 28.35,
-                "minLng": -81.55,
-                "maxLat": 28.65,
-                "maxLng": -81.2
+                "minLat": 28.334992500000002,
+                "minLng": -81.6114841,
+                "maxLat": 28.5929,
+                "maxLng": -80.629
               }
             },
             {
@@ -579,13 +579,13 @@
               "name": "Tampa",
               "status": "complete",
               "packPath": "us/florida/tampa/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 10,
+              "completedAt": "2026-08-11T07:18:38.000Z",
               "bbox": {
-                "minLat": 27.85,
-                "minLng": -82.55,
-                "maxLat": 28.05,
-                "maxLng": -82.35
+                "minLat": 27.9,
+                "minLng": -82.5233545,
+                "maxLat": 28.0570823,
+                "maxLng": -82.4
               }
             },
             {

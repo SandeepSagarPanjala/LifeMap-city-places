@@ -7,14 +7,144 @@
   "stateName": "Florida",
   "cityName": "Orlando",
   "bbox": {
-    "minLat": 28.35,
-    "minLng": -81.55,
-    "maxLat": 28.65,
-    "maxLng": -81.2
+    "minLat": 28.334992500000002,
+    "minLng": -81.6114841,
+    "maxLat": 28.5929,
+    "maxLng": -80.629
   },
-  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "updatedAt": "2026-08-11T07:18:38.000Z",
   "status": "complete",
   "places": [
+    {
+      "id": "magic-kingdom",
+      "name": "Magic Kingdom",
+      "lat": 28.419502,
+      "lng": -81.5811857,
+      "radiusM": 300,
+      "address": "Magic Kingdom Park, Bay Lake, FL",
+      "howTo": "Visit Magic Kingdom.",
+      "badge": "badges/magic-kingdom.png"
+    },
+    {
+      "id": "epcot",
+      "name": "EPCOT",
+      "lat": 28.3714061,
+      "lng": -81.5489587,
+      "radiusM": 300,
+      "address": "200 Epcot Center Dr, Bay Lake, FL",
+      "howTo": "Visit EPCOT.",
+      "badge": "badges/epcot.png"
+    },
+    {
+      "id": "animal-kingdom",
+      "name": "Disney's Animal Kingdom",
+      "lat": 28.3607674,
+      "lng": -81.5914841,
+      "radiusM": 300,
+      "address": "2901 Osceola Pkwy, Bay Lake, FL",
+      "howTo": "Visit Disney's Animal Kingdom.",
+      "badge": "badges/animal-kingdom.png"
+    },
+    {
+      "id": "hollywood-studios",
+      "name": "Disney's Hollywood Studios",
+      "lat": 28.3572521,
+      "lng": -81.5606175,
+      "radiusM": 250,
+      "address": "351 S Studio Dr, Bay Lake, FL",
+      "howTo": "Visit Disney's Hollywood Studios.",
+      "badge": "badges/hollywood-studios.png"
+    },
+    {
+      "id": "universal-studios",
+      "name": "Universal Studios Florida",
+      "lat": 28.4772482,
+      "lng": -81.4697068,
+      "radiusM": 250,
+      "address": "1000 Universal Studios Plaza, Orlando, FL",
+      "howTo": "Visit Universal Studios Florida.",
+      "badge": "badges/universal-studios.png"
+    },
+    {
+      "id": "islands-of-adventure",
+      "name": "Universal's Islands of Adventure",
+      "lat": 28.471879,
+      "lng": -81.4712106,
+      "radiusM": 250,
+      "address": "6000 Universal Blvd, Orlando, FL",
+      "howTo": "Visit Universal's Islands of Adventure.",
+      "badge": "badges/islands-of-adventure.png"
+    },
+    {
+      "id": "seaworld-orlando",
+      "name": "SeaWorld Orlando",
+      "lat": 28.4110099,
+      "lng": -81.4618763,
+      "radiusM": 250,
+      "address": "7007 Sea World Dr, Orlando, FL",
+      "howTo": "Visit SeaWorld Orlando.",
+      "badge": "badges/seaworld-orlando.png"
+    },
+    {
+      "id": "icon-park",
+      "name": "ICON Park",
+      "lat": 28.4432375,
+      "lng": -81.468179,
+      "radiusM": 200,
+      "address": "8401 International Dr, Orlando, FL",
+      "howTo": "Visit ICON Park and The Wheel.",
+      "badge": "badges/icon-park.png"
+    },
+    {
+      "id": "lake-eola-park",
+      "name": "Lake Eola Park",
+      "lat": 28.543965,
+      "lng": -81.3704323,
+      "radiusM": 250,
+      "address": "512 E Washington St, Orlando, FL",
+      "howTo": "Visit Lake Eola Park.",
+      "badge": "badges/lake-eola-park.png"
+    },
+    {
+      "id": "orlando-museum-of-art",
+      "name": "Orlando Museum of Art",
+      "lat": 28.5727927,
+      "lng": -81.3651566,
+      "radiusM": 120,
+      "address": "2416 N Mills Ave, Orlando, FL",
+      "howTo": "Visit the Orlando Museum of Art.",
+      "badge": "badges/orlando-museum-of-art.png"
+    },
+    {
+      "id": "harry-p-leu-gardens",
+      "name": "Harry P. Leu Gardens",
+      "lat": 28.5678838,
+      "lng": -81.3574825,
+      "radiusM": 250,
+      "address": "1920 N Forest Ave, Orlando, FL",
+      "howTo": "Visit Harry P. Leu Gardens.",
+      "badge": "badges/harry-p-leu-gardens.png"
+    },
+    {
+      "id": "orlando-science-center",
+      "name": "Orlando Science Center",
+      "lat": 28.5722851,
+      "lng": -81.368303,
+      "radiusM": 150,
+      "address": "777 E Princeton St, Orlando, FL",
+      "howTo": "Visit the Orlando Science Center.",
+      "badge": "badges/orlando-science-center.png"
+    },
+    {
+      "id": "gatorland",
+      "name": "Gatorland",
+      "lat": 28.3549925,
+      "lng": -81.4018994,
+      "radiusM": 200,
+      "address": "14501 S Orange Blossom Trl, Orlando, FL",
+      "howTo": "Visit Gatorland.",
+      "badge": "badges/gatorland.png"
+    },
     {
       "id": "walt-disney-world",
       "name": "Walt Disney World",
@@ -34,36 +164,6 @@
       "address": "6000 Universal Blvd, Orlando, FL",
       "howTo": "Visit Universal Orlando Resort.",
       "badge": "badges/universal-orlando.png"
-    },
-    {
-      "id": "lake-eola-park",
-      "name": "Lake Eola Park",
-      "lat": 28.5437,
-      "lng": -81.373,
-      "radiusM": 250,
-      "address": "512 E Washington St, Orlando, FL",
-      "howTo": "Visit Lake Eola Park.",
-      "badge": "badges/lake-eola-park.png"
-    },
-    {
-      "id": "orlando-museum-of-art",
-      "name": "Orlando Museum of Art",
-      "lat": 28.5725,
-      "lng": -81.3675,
-      "radiusM": 120,
-      "address": "2416 N Mills Ave, Orlando, FL",
-      "howTo": "Visit the Orlando Museum of Art.",
-      "badge": "badges/orlando-museum-of-art.png"
-    },
-    {
-      "id": "harry-p-leu-gardens",
-      "name": "Harry P. Leu Gardens",
-      "lat": 28.5685,
-      "lng": -81.357,
-      "radiusM": 250,
-      "address": "1920 N Forest Ave, Orlando, FL",
-      "howTo": "Visit Harry P. Leu Gardens.",
-      "badge": "badges/harry-p-leu-gardens.png"
     },
     {
       "id": "kennedy-space-center",

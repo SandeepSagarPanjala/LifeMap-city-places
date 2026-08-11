@@ -7,14 +7,144 @@
   "stateName": "Florida",
   "cityName": "Miami",
   "bbox": {
-    "minLat": 25.7,
-    "minLng": -80.35,
-    "maxLat": 25.9,
-    "maxLng": -80.1
+    "minLat": 25.4624,
+    "minLng": -80.42,
+    "maxLat": 25.87,
+    "maxLng": -80.1132031
   },
-  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "updatedAt": "2026-08-11T07:18:38.000Z",
   "status": "complete",
   "places": [
+    {
+      "id": "wynwood-walls",
+      "name": "Wynwood Walls",
+      "lat": 25.8011385,
+      "lng": -80.1996583,
+      "radiusM": 150,
+      "address": "2520 NW 2nd Ave, Miami, FL",
+      "howTo": "Visit the Wynwood Walls.",
+      "badge": "badges/wynwood-walls.png"
+    },
+    {
+      "id": "vizcaya",
+      "name": "Vizcaya Museum and Gardens",
+      "lat": 25.7446992,
+      "lng": -80.211577,
+      "radiusM": 250,
+      "address": "3251 S Miami Ave, Miami, FL",
+      "howTo": "Visit Vizcaya Museum and Gardens.",
+      "badge": "badges/vizcaya.png"
+    },
+    {
+      "id": "little-havana-calle-ocho",
+      "name": "Little Havana Calle Ocho",
+      "lat": 25.7654909,
+      "lng": -80.2193738,
+      "radiusM": 200,
+      "address": "M\u00e1ximo G\u00f3mez Park, Miami, FL",
+      "howTo": "Visit Calle Ocho in Little Havana.",
+      "badge": "badges/little-havana-calle-ocho.png"
+    },
+    {
+      "id": "ocean-drive",
+      "name": "Ocean Drive",
+      "lat": 25.7686067,
+      "lng": -80.1332031,
+      "radiusM": 200,
+      "address": "Ocean Drive, Miami Beach, FL",
+      "howTo": "Visit Ocean Drive on South Beach.",
+      "badge": "badges/ocean-drive.png"
+    },
+    {
+      "id": "perez-art-museum",
+      "name": "P\u00e9rez Art Museum Miami",
+      "lat": 25.7860327,
+      "lng": -80.1863392,
+      "radiusM": 150,
+      "address": "1103 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit P\u00e9rez Art Museum Miami.",
+      "badge": "badges/perez-art-museum.png"
+    },
+    {
+      "id": "frost-science",
+      "name": "Frost Museum of Science",
+      "lat": 25.7853066,
+      "lng": -80.1878515,
+      "radiusM": 150,
+      "address": "1101 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit the Frost Museum of Science.",
+      "badge": "badges/frost-science.png"
+    },
+    {
+      "id": "freedom-tower",
+      "name": "Freedom Tower",
+      "lat": 25.780496,
+      "lng": -80.190595,
+      "radiusM": 120,
+      "address": "600 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit the Freedom Tower.",
+      "badge": "badges/freedom-tower.png"
+    },
+    {
+      "id": "bayfront-park",
+      "name": "Bayfront Park",
+      "lat": 25.7753796,
+      "lng": -80.1861658,
+      "radiusM": 200,
+      "address": "301 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit Bayfront Park.",
+      "badge": "badges/bayfront-park.png"
+    },
+    {
+      "id": "zoo-miami",
+      "name": "Zoo Miami",
+      "lat": 25.6133741,
+      "lng": -80.3999195,
+      "radiusM": 300,
+      "address": "12400 SW 152nd St, Miami, FL",
+      "howTo": "Visit Zoo Miami.",
+      "badge": "badges/zoo-miami.png"
+    },
+    {
+      "id": "fairchild-garden",
+      "name": "Fairchild Tropical Botanic Garden",
+      "lat": 25.6785055,
+      "lng": -80.2743359,
+      "radiusM": 300,
+      "address": "10901 Old Cutler Rd, Coral Gables, FL",
+      "howTo": "Visit Fairchild Tropical Botanic Garden.",
+      "badge": "badges/fairchild-garden.png"
+    },
+    {
+      "id": "bill-baggs",
+      "name": "Bill Baggs Cape Florida State Park",
+      "lat": 25.6742535,
+      "lng": -80.1579624,
+      "radiusM": 400,
+      "address": "1200 S Crandon Blvd, Key Biscayne, FL",
+      "howTo": "Visit Bill Baggs Cape Florida State Park.",
+      "badge": "badges/bill-baggs.png"
+    },
+    {
+      "id": "venetian-pool",
+      "name": "Venetian Pool",
+      "lat": 25.7457795,
+      "lng": -80.2731602,
+      "radiusM": 150,
+      "address": "2701 De Soto Blvd, Coral Gables, FL",
+      "howTo": "Visit the Venetian Pool.",
+      "badge": "badges/venetian-pool.png"
+    },
+    {
+      "id": "deering-estate",
+      "name": "Deering Estate",
+      "lat": 25.615703,
+      "lng": -80.3067338,
+      "radiusM": 250,
+      "address": "16701 SW 72nd Ave, Miami, FL",
+      "howTo": "Visit the Deering Estate.",
+      "badge": "badges/deering-estate.png"
+    },
     {
       "id": "south-beach",
       "name": "South Beach",
@@ -24,26 +154,6 @@
       "address": "Ocean Dr, Miami Beach, FL",
       "howTo": "Visit South Beach.",
       "badge": "badges/south-beach.png"
-    },
-    {
-      "id": "vizcaya",
-      "name": "Vizcaya Museum and Gardens",
-      "lat": 25.7445,
-      "lng": -80.2105,
-      "radiusM": 250,
-      "address": "3251 S Miami Ave, Miami, FL",
-      "howTo": "Visit Vizcaya Museum and Gardens.",
-      "badge": "badges/vizcaya.png"
-    },
-    {
-      "id": "wynwood-walls",
-      "name": "Wynwood Walls",
-      "lat": 25.801,
-      "lng": -80.1995,
-      "radiusM": 150,
-      "address": "2520 NW 2nd Ave, Miami, FL",
-      "howTo": "Visit the Wynwood Walls.",
-      "badge": "badges/wynwood-walls.png"
     },
     {
       "id": "biscayne-national-park",
@@ -64,36 +174,6 @@
       "address": "Design District, Miami, FL",
       "howTo": "Visit the Miami Design District.",
       "badge": "badges/miami-design-district.png"
-    },
-    {
-      "id": "bayfront-park",
-      "name": "Bayfront Park",
-      "lat": 25.7755,
-      "lng": -80.1865,
-      "radiusM": 200,
-      "address": "301 Biscayne Blvd, Miami, FL",
-      "howTo": "Visit Bayfront Park.",
-      "badge": "badges/bayfront-park.png"
-    },
-    {
-      "id": "perez-art-museum",
-      "name": "P\u00e9rez Art Museum Miami",
-      "lat": 25.7859,
-      "lng": -80.1862,
-      "radiusM": 150,
-      "address": "1103 Biscayne Blvd, Miami, FL",
-      "howTo": "Visit P\u00e9rez Art Museum Miami.",
-      "badge": "badges/perez-art-museum.png"
-    },
-    {
-      "id": "little-havana-calle-ocho",
-      "name": "Little Havana Calle Ocho",
-      "lat": 25.7655,
-      "lng": -80.2195,
-      "radiusM": 200,
-      "address": "Calle Ocho, Miami, FL",
-      "howTo": "Visit Calle Ocho in Little Havana.",
-      "badge": "badges/little-havana-calle-ocho.png"
     }
   ]
 }

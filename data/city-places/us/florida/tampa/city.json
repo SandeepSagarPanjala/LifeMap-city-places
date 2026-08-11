@@ -7,19 +7,39 @@
   "stateName": "Florida",
   "cityName": "Tampa",
   "bbox": {
-    "minLat": 27.85,
-    "minLng": -82.55,
-    "maxLat": 28.05,
-    "maxLng": -82.35
+    "minLat": 27.9,
+    "minLng": -82.5233545,
+    "maxLat": 28.0570823,
+    "maxLng": -82.4
   },
-  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "updatedAt": "2026-08-11T07:18:38.000Z",
   "status": "complete",
   "places": [
     {
+      "id": "busch-gardens-tampa",
+      "name": "Busch Gardens Tampa Bay",
+      "lat": 28.0370823,
+      "lng": -82.4212613,
+      "radiusM": 300,
+      "address": "10165 N McKinley Dr, Tampa, FL",
+      "howTo": "Visit Busch Gardens Tampa Bay.",
+      "badge": "badges/busch-gardens-tampa.png"
+    },
+    {
+      "id": "florida-aquarium",
+      "name": "The Florida Aquarium",
+      "lat": 27.9440723,
+      "lng": -82.4448796,
+      "radiusM": 150,
+      "address": "701 Channelside Dr, Tampa, FL",
+      "howTo": "Visit The Florida Aquarium.",
+      "badge": "badges/florida-aquarium.png"
+    },
+    {
       "id": "ybor-city",
       "name": "Ybor City",
-      "lat": 27.961,
-      "lng": -82.441,
+      "lat": 27.9600475,
+      "lng": -82.4411596,
       "radiusM": 250,
       "address": "Ybor City, Tampa, FL",
       "howTo": "Visit historic Ybor City.",
@@ -28,52 +48,72 @@
     {
       "id": "tampa-riverwalk",
       "name": "Tampa Riverwalk",
-      "lat": 27.9455,
-      "lng": -82.4595,
+      "lat": 27.9521526,
+      "lng": -82.4649456,
       "radiusM": 250,
-      "address": "Riverwalk, Tampa, FL",
+      "address": "Tampa Riverwalk, Tampa, FL",
       "howTo": "Walk the Tampa Riverwalk.",
       "badge": "badges/tampa-riverwalk.png"
     },
     {
-      "id": "florida-aquarium",
-      "name": "The Florida Aquarium",
-      "lat": 27.9435,
-      "lng": -82.4445,
-      "radiusM": 150,
-      "address": "701 Channelside Dr, Tampa, FL",
-      "howTo": "Visit The Florida Aquarium.",
-      "badge": "badges/florida-aquarium.png"
-    },
-    {
-      "id": "busch-gardens-tampa",
-      "name": "Busch Gardens Tampa Bay",
-      "lat": 28.037,
-      "lng": -82.4195,
+      "id": "zootampa",
+      "name": "ZooTampa at Lowry Park",
+      "lat": 28.0150105,
+      "lng": -82.4699302,
       "radiusM": 300,
-      "address": "10165 N McKinley Dr, Tampa, FL",
-      "howTo": "Visit Busch Gardens Tampa Bay.",
-      "badge": "badges/busch-gardens-tampa.png"
+      "address": "1101 W Sligh Ave, Tampa, FL",
+      "howTo": "Visit ZooTampa at Lowry Park.",
+      "badge": "badges/zootampa.png"
     },
     {
       "id": "henry-b-plant-museum",
       "name": "Henry B. Plant Museum",
-      "lat": 27.9465,
-      "lng": -82.464,
+      "lat": 27.9462133,
+      "lng": -82.4641818,
       "radiusM": 120,
       "address": "401 W Kennedy Blvd, Tampa, FL",
       "howTo": "Visit the Henry B. Plant Museum.",
       "badge": "badges/henry-b-plant-museum.png"
     },
     {
+      "id": "tampa-museum-of-art",
+      "name": "Tampa Museum of Art",
+      "lat": 27.9494706,
+      "lng": -82.4623623,
+      "radiusM": 120,
+      "address": "120 W Gasparilla Plaza, Tampa, FL",
+      "howTo": "Visit the Tampa Museum of Art.",
+      "badge": "badges/tampa-museum-of-art.png"
+    },
+    {
       "id": "curtis-hixon-park",
       "name": "Curtis Hixon Waterfront Park",
-      "lat": 27.9485,
-      "lng": -82.4615,
+      "lat": 27.949047,
+      "lng": -82.4618867,
       "radiusM": 200,
       "address": "600 N Ashley Dr, Tampa, FL",
       "howTo": "Visit Curtis Hixon Waterfront Park.",
       "badge": "badges/curtis-hixon-park.png"
+    },
+    {
+      "id": "raymond-james-stadium",
+      "name": "Raymond James Stadium",
+      "lat": 27.9759793,
+      "lng": -82.5033545,
+      "radiusM": 200,
+      "address": "4201 N Dale Mabry Hwy, Tampa, FL",
+      "howTo": "Visit Raymond James Stadium.",
+      "badge": "badges/raymond-james-stadium.png"
+    },
+    {
+      "id": "amalie-arena",
+      "name": "Amalie Arena",
+      "lat": 27.942704,
+      "lng": -82.4518903,
+      "radiusM": 150,
+      "address": "401 Channelside Dr, Tampa, FL",
+      "howTo": "Visit Amalie Arena.",
+      "badge": "badges/amalie-arena.png"
     }
   ]
 }

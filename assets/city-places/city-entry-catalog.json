@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T07:11:22.088Z",
+  "generatedAt": "2026-08-11T07:18:38.405Z",
   "cellDeg": 0.5,
   "cityCount": 124,
   "cities": {
@@ -340,10 +340,10 @@
     "us/florida/miami": {
       "name": "Miami",
       "bbox": {
-        "minLat": 25.7,
-        "minLng": -80.35,
-        "maxLat": 25.9,
-        "maxLng": -80.1
+        "minLat": 25.4624,
+        "minLng": -80.42,
+        "maxLat": 25.87,
+        "maxLng": -80.1132031
       }
     },
     "us/florida/naples": {
@@ -358,10 +358,10 @@
     "us/florida/orlando": {
       "name": "Orlando",
       "bbox": {
-        "minLat": 28.35,
-        "minLng": -81.55,
-        "maxLat": 28.65,
-        "maxLng": -81.2
+        "minLat": 28.334992500000002,
+        "minLng": -81.6114841,
+        "maxLat": 28.5929,
+        "maxLng": -80.629
       }
     },
     "us/florida/st-augustine": {
@@ -376,10 +376,10 @@
     "us/florida/tampa": {
       "name": "Tampa",
       "bbox": {
-        "minLat": 27.85,
-        "minLng": -82.55,
-        "maxLat": 28.05,
-        "maxLng": -82.35
+        "minLat": 27.9,
+        "minLng": -82.5233545,
+        "maxLat": 28.0570823,
+        "maxLng": -82.4
       }
     },
     "us/georgia/athens": {
@@ -1309,6 +1309,9 @@
     "77,-151": [
       "us/delaware/rehoboth-beach"
     ],
+    "50,-161": [
+      "us/florida/miami"
+    ],
     "51,-161": [
       "us/florida/miami"
     ],
@@ -1318,10 +1321,16 @@
     "56,-163": [
       "us/florida/orlando"
     ],
+    "56,-162": [
+      "us/florida/orlando"
+    ],
     "57,-164": [
       "us/florida/orlando"
     ],
     "57,-163": [
+      "us/florida/orlando"
+    ],
+    "57,-162": [
       "us/florida/orlando"
     ],
     "55,-166": [
