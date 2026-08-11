@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/michigan/mackinac-island",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MI",
+  "stateName": "Michigan",
+  "cityName": "Mackinac Island",
+  "bbox": {
+    "minLat": 45.84,
+    "minLng": -84.64,
+    "maxLat": 45.88,
+    "maxLng": -84.6
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fort-mackinac",
+      "name": "Fort Mackinac",
+      "lat": 45.8515,
+      "lng": -84.6175,
+      "radiusM": 200,
+      "address": "7127 Huron Rd, Mackinac Island, MI",
+      "howTo": "Visit Fort Mackinac.",
+      "badge": "badges/fort-mackinac.png"
+    },
+    {
+      "id": "arch-rock",
+      "name": "Arch Rock",
+      "lat": 45.8585,
+      "lng": -84.6075,
+      "radiusM": 150,
+      "address": "Mackinac Island, MI",
+      "howTo": "Visit Arch Rock.",
+      "badge": "badges/arch-rock.png"
+    },
+    {
+      "id": "marquette-park",
+      "name": "Marquette Park",
+      "lat": 45.8505,
+      "lng": -84.6185,
+      "radiusM": 150,
+      "address": "Mackinac Island, MI",
+      "howTo": "Visit Marquette Park below Fort Mackinac.",
+      "badge": "badges/marquette-park.png"
+    },
+    {
+      "id": "fort-holmes",
+      "name": "Fort Holmes",
+      "lat": 45.8605,
+      "lng": -84.6165,
+      "radiusM": 150,
+      "address": "Mackinac Island, MI",
+      "howTo": "Visit Fort Holmes.",
+      "badge": "badges/fort-holmes.png"
+    },
+    {
+      "id": "sugar-loaf-rock",
+      "name": "Sugar Loaf Rock",
+      "lat": 45.8625,
+      "lng": -84.6145,
+      "radiusM": 120,
+      "address": "Mackinac Island, MI",
+      "howTo": "Visit Sugar Loaf Rock.",
+      "badge": "badges/sugar-loaf-rock.png"
+    }
+  ]
+}

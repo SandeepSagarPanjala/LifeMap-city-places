@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T03:10:05.487Z",
+  "generatedAt": "2026-08-11T04:52:18.365Z",
   "cellDeg": 0.5,
-  "cityCount": 81,
+  "cityCount": 91,
   "cities": {
     "us/alabama/birmingham": {
       "name": "Birmingham",
@@ -661,6 +661,96 @@
         "maxLng": -70.87
       }
     },
+    "us/michigan/ann-arbor": {
+      "name": "Ann Arbor",
+      "bbox": {
+        "minLat": 42.24,
+        "minLng": -83.78,
+        "maxLat": 42.32,
+        "maxLng": -83.68
+      }
+    },
+    "us/michigan/detroit": {
+      "name": "Detroit",
+      "bbox": {
+        "minLat": 42.3,
+        "minLng": -83.25,
+        "maxLat": 42.45,
+        "maxLng": -82.9
+      }
+    },
+    "us/michigan/grand-rapids": {
+      "name": "Grand Rapids",
+      "bbox": {
+        "minLat": 42.9,
+        "minLng": -85.72,
+        "maxLat": 43.02,
+        "maxLng": -85.58
+      }
+    },
+    "us/michigan/mackinac-island": {
+      "name": "Mackinac Island",
+      "bbox": {
+        "minLat": 45.84,
+        "minLng": -84.64,
+        "maxLat": 45.88,
+        "maxLng": -84.6
+      }
+    },
+    "us/michigan/traverse-city": {
+      "name": "Traverse City",
+      "bbox": {
+        "minLat": 44.72,
+        "minLng": -85.68,
+        "maxLat": 44.8,
+        "maxLng": -85.55
+      }
+    },
+    "us/minnesota/duluth": {
+      "name": "Duluth",
+      "bbox": {
+        "minLat": 46.72,
+        "minLng": -92.2,
+        "maxLat": 46.85,
+        "maxLng": -92.02
+      }
+    },
+    "us/minnesota/minneapolis": {
+      "name": "Minneapolis",
+      "bbox": {
+        "minLat": 44.88,
+        "minLng": -93.35,
+        "maxLat": 45.05,
+        "maxLng": -93.2
+      }
+    },
+    "us/minnesota/saint-paul": {
+      "name": "Saint Paul",
+      "bbox": {
+        "minLat": 44.9,
+        "minLng": -93.2,
+        "maxLat": 45,
+        "maxLng": -93.05
+      }
+    },
+    "us/mississippi/biloxi": {
+      "name": "Biloxi",
+      "bbox": {
+        "minLat": 30.38,
+        "minLng": -88.98,
+        "maxLat": 30.45,
+        "maxLng": -88.85
+      }
+    },
+    "us/mississippi/jackson": {
+      "name": "Jackson",
+      "bbox": {
+        "minLat": 32.28,
+        "minLng": -90.25,
+        "maxLat": 32.38,
+        "maxLng": -90.12
+      }
+    },
     "us/texas/austin": {
       "name": "Austin",
       "bbox": {
@@ -1111,6 +1201,44 @@
     ],
     "84,-141": [
       "us/massachusetts/provincetown"
+    ],
+    "84,-167": [
+      "us/michigan/detroit"
+    ],
+    "84,-166": [
+      "us/michigan/detroit"
+    ],
+    "84,-168": [
+      "us/michigan/ann-arbor"
+    ],
+    "85,-172": [
+      "us/michigan/grand-rapids"
+    ],
+    "86,-172": [
+      "us/michigan/grand-rapids"
+    ],
+    "89,-172": [
+      "us/michigan/traverse-city"
+    ],
+    "91,-170": [
+      "us/michigan/mackinac-island"
+    ],
+    "89,-187": [
+      "us/minnesota/minneapolis",
+      "us/minnesota/saint-paul"
+    ],
+    "90,-187": [
+      "us/minnesota/minneapolis",
+      "us/minnesota/saint-paul"
+    ],
+    "93,-185": [
+      "us/minnesota/duluth"
+    ],
+    "64,-181": [
+      "us/mississippi/jackson"
+    ],
+    "60,-178": [
+      "us/mississippi/biloxi"
     ],
     "60,-196": [
       "us/texas/austin"

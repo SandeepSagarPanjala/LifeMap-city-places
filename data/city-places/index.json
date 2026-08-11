@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "cursor": "us/michigan/detroit",
-  "updatedAt": "2026-08-11T03:10:05.000Z",
+  "cursor": "us/missouri/st-louis",
+  "updatedAt": "2026-08-11T04:52:18.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -1186,42 +1186,72 @@
             {
               "id": "detroit",
               "name": "Detroit",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/michigan/detroit/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 42.3,
+                "minLng": -83.25,
+                "maxLat": 42.45,
+                "maxLng": -82.9
+              }
             },
             {
               "id": "ann-arbor",
               "name": "Ann Arbor",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/michigan/ann-arbor/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 42.24,
+                "minLng": -83.78,
+                "maxLat": 42.32,
+                "maxLng": -83.68
+              }
             },
             {
               "id": "grand-rapids",
               "name": "Grand Rapids",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/michigan/grand-rapids/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 42.9,
+                "minLng": -85.72,
+                "maxLat": 43.02,
+                "maxLng": -85.58
+              }
             },
             {
               "id": "traverse-city",
               "name": "Traverse City",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/michigan/traverse-city/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 44.72,
+                "minLng": -85.68,
+                "maxLat": 44.8,
+                "maxLng": -85.55
+              }
             },
             {
               "id": "mackinac-island",
               "name": "Mackinac Island",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/michigan/mackinac-island/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 45.84,
+                "minLng": -84.64,
+                "maxLat": 45.88,
+                "maxLng": -84.6
+              }
             }
           ]
         },
@@ -1233,26 +1263,44 @@
             {
               "id": "minneapolis",
               "name": "Minneapolis",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/minnesota/minneapolis/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 44.88,
+                "minLng": -93.35,
+                "maxLat": 45.05,
+                "maxLng": -93.2
+              }
             },
             {
               "id": "saint-paul",
               "name": "Saint Paul",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/minnesota/saint-paul/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 44.9,
+                "minLng": -93.2,
+                "maxLat": 45.0,
+                "maxLng": -93.05
+              }
             },
             {
               "id": "duluth",
               "name": "Duluth",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/minnesota/duluth/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 46.72,
+                "minLng": -92.2,
+                "maxLat": 46.85,
+                "maxLng": -92.02
+              }
             }
           ]
         },
@@ -1264,18 +1312,30 @@
             {
               "id": "jackson",
               "name": "Jackson",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/mississippi/jackson/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 32.28,
+                "minLng": -90.25,
+                "maxLat": 32.38,
+                "maxLng": -90.12
+              }
             },
             {
               "id": "biloxi",
               "name": "Biloxi",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/mississippi/biloxi/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T04:52:18.000Z",
+              "bbox": {
+                "minLat": 30.38,
+                "minLng": -88.98,
+                "maxLat": 30.45,
+                "maxLng": -88.85
+              }
             }
           ]
         },

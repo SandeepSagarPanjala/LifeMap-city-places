@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/michigan/traverse-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MI",
+  "stateName": "Michigan",
+  "cityName": "Traverse City",
+  "bbox": {
+    "minLat": 44.72,
+    "minLng": -85.68,
+    "maxLat": 44.8,
+    "maxLng": -85.55
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clinch-park",
+      "name": "Clinch Park",
+      "lat": 44.7665,
+      "lng": -85.6225,
+      "radiusM": 250,
+      "address": "Clinch Park, Traverse City, MI",
+      "howTo": "Visit Clinch Park on West Grand Traverse Bay.",
+      "badge": "badges/clinch-park.png"
+    },
+    {
+      "id": "old-mission-lighthouse",
+      "name": "Old Mission Point Lighthouse",
+      "lat": 44.9915,
+      "lng": -85.4785,
+      "radiusM": 150,
+      "address": "Old Mission Peninsula, MI",
+      "howTo": "Visit Old Mission Point Lighthouse.",
+      "badge": "badges/old-mission-lighthouse.png"
+    },
+    {
+      "id": "sleeping-bear-dunes",
+      "name": "Sleeping Bear Dunes National Lakeshore",
+      "lat": 44.8605,
+      "lng": -86.0585,
+      "radiusM": 400,
+      "address": "Pierce Stocking Scenic Drive, MI",
+      "howTo": "Visit Sleeping Bear Dunes.",
+      "badge": "badges/sleeping-bear-dunes.png"
+    },
+    {
+      "id": "botanical-garden-tc",
+      "name": "Historic Barns Park",
+      "lat": 44.7455,
+      "lng": -85.6455,
+      "radiusM": 200,
+      "address": "Historic Barns Park, Traverse City, MI",
+      "howTo": "Visit Historic Barns Park.",
+      "badge": "badges/botanical-garden-tc.png"
+    },
+    {
+      "id": "state-theatre-tc",
+      "name": "State Theatre",
+      "lat": 44.7635,
+      "lng": -85.6225,
+      "radiusM": 100,
+      "address": "233 E Front St, Traverse City, MI",
+      "howTo": "Visit the State Theatre.",
+      "badge": "badges/state-theatre-tc.png"
+    }
+  ]
+}

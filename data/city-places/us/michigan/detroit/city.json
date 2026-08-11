@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/michigan/detroit",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MI",
+  "stateName": "Michigan",
+  "cityName": "Detroit",
+  "bbox": {
+    "minLat": 42.3,
+    "minLng": -83.25,
+    "maxLat": 42.45,
+    "maxLng": -82.9
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "detroit-institute-of-arts",
+      "name": "Detroit Institute of Arts",
+      "lat": 42.3594,
+      "lng": -83.0645,
+      "radiusM": 150,
+      "address": "5200 Woodward Ave, Detroit, MI",
+      "howTo": "Visit the Detroit Institute of Arts.",
+      "badge": "badges/detroit-institute-of-arts.png"
+    },
+    {
+      "id": "belle-isle-park",
+      "name": "Belle Isle Park",
+      "lat": 42.3405,
+      "lng": -82.9855,
+      "radiusM": 400,
+      "address": "Belle Isle, Detroit, MI",
+      "howTo": "Visit Belle Isle Park.",
+      "badge": "badges/belle-isle-park.png"
+    },
+    {
+      "id": "guardian-building",
+      "name": "Guardian Building",
+      "lat": 42.3295,
+      "lng": -83.0465,
+      "radiusM": 100,
+      "address": "500 Griswold St, Detroit, MI",
+      "howTo": "Visit the Guardian Building.",
+      "badge": "badges/guardian-building.png"
+    },
+    {
+      "id": "motown-museum",
+      "name": "Motown Museum",
+      "lat": 42.3645,
+      "lng": -83.0885,
+      "radiusM": 120,
+      "address": "2648 W Grand Blvd, Detroit, MI",
+      "howTo": "Visit the Motown Museum.",
+      "badge": "badges/motown-museum.png"
+    },
+    {
+      "id": "detroit-riverwalk",
+      "name": "Detroit Riverwalk",
+      "lat": 42.3275,
+      "lng": -83.0395,
+      "radiusM": 250,
+      "address": "Detroit Riverwalk, Detroit, MI",
+      "howTo": "Walk the Detroit Riverwalk.",
+      "badge": "badges/detroit-riverwalk.png"
+    },
+    {
+      "id": "campus-martius-park",
+      "name": "Campus Martius Park",
+      "lat": 42.3315,
+      "lng": -83.0465,
+      "radiusM": 150,
+      "address": "800 Woodward Ave, Detroit, MI",
+      "howTo": "Visit Campus Martius Park.",
+      "badge": "badges/campus-martius-park.png"
+    },
+    {
+      "id": "michigan-central-station",
+      "name": "Michigan Central Station",
+      "lat": 42.3315,
+      "lng": -83.0765,
+      "radiusM": 150,
+      "address": "2001 15th St, Detroit, MI",
+      "howTo": "Visit Michigan Central Station.",
+      "badge": "badges/michigan-central-station.png"
+    },
+    {
+      "id": "comerica-park",
+      "name": "Comerica Park",
+      "lat": 42.339,
+      "lng": -83.0485,
+      "radiusM": 200,
+      "address": "2100 Woodward Ave, Detroit, MI",
+      "howTo": "Visit Comerica Park.",
+      "badge": "badges/comerica-park.png"
+    }
+  ]
+}

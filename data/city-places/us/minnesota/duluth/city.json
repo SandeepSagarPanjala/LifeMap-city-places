@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/minnesota/duluth",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MN",
+  "stateName": "Minnesota",
+  "cityName": "Duluth",
+  "bbox": {
+    "minLat": 46.72,
+    "minLng": -92.2,
+    "maxLat": 46.85,
+    "maxLng": -92.02
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aerial-lift-bridge",
+      "name": "Aerial Lift Bridge",
+      "lat": 46.779,
+      "lng": -92.0925,
+      "radiusM": 150,
+      "address": "Canal Park, Duluth, MN",
+      "howTo": "Visit the Aerial Lift Bridge.",
+      "badge": "badges/aerial-lift-bridge.png"
+    },
+    {
+      "id": "canal-park",
+      "name": "Canal Park",
+      "lat": 46.7815,
+      "lng": -92.0935,
+      "radiusM": 250,
+      "address": "Canal Park, Duluth, MN",
+      "howTo": "Visit Canal Park.",
+      "badge": "badges/canal-park.png"
+    },
+    {
+      "id": "enger-tower",
+      "name": "Enger Tower",
+      "lat": 46.7755,
+      "lng": -92.1255,
+      "radiusM": 150,
+      "address": "Enger Park, Duluth, MN",
+      "howTo": "Visit Enger Tower.",
+      "badge": "badges/enger-tower.png"
+    },
+    {
+      "id": "glensheen",
+      "name": "Glensheen Mansion",
+      "lat": 46.8155,
+      "lng": -92.0515,
+      "radiusM": 200,
+      "address": "3300 London Rd, Duluth, MN",
+      "howTo": "Visit Glensheen Mansion.",
+      "badge": "badges/glensheen.png"
+    },
+    {
+      "id": "lakewalk",
+      "name": "Lakewalk",
+      "lat": 46.7865,
+      "lng": -92.0885,
+      "radiusM": 300,
+      "address": "Lakewalk, Duluth, MN",
+      "howTo": "Walk the Duluth Lakewalk.",
+      "badge": "badges/lakewalk.png"
+    },
+    {
+      "id": "great-lakes-aquarium",
+      "name": "Great Lakes Aquarium",
+      "lat": 46.7795,
+      "lng": -92.1005,
+      "radiusM": 120,
+      "address": "353 Harbor Dr, Duluth, MN",
+      "howTo": "Visit the Great Lakes Aquarium.",
+      "badge": "badges/great-lakes-aquarium.png"
+    }
+  ]
+}

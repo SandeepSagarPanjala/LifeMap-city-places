@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/minnesota/minneapolis",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MN",
+  "stateName": "Minnesota",
+  "cityName": "Minneapolis",
+  "bbox": {
+    "minLat": 44.88,
+    "minLng": -93.35,
+    "maxLat": 45.05,
+    "maxLng": -93.2
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "minnehaha-falls",
+      "name": "Minnehaha Falls",
+      "lat": 44.9155,
+      "lng": -93.2105,
+      "radiusM": 200,
+      "address": "4801 S Minnehaha Dr, Minneapolis, MN",
+      "howTo": "Visit Minnehaha Falls.",
+      "badge": "badges/minnehaha-falls.png"
+    },
+    {
+      "id": "stone-arch-bridge",
+      "name": "Stone Arch Bridge",
+      "lat": 44.9805,
+      "lng": -93.2555,
+      "radiusM": 150,
+      "address": "Stone Arch Bridge, Minneapolis, MN",
+      "howTo": "Walk the Stone Arch Bridge.",
+      "badge": "badges/stone-arch-bridge.png"
+    },
+    {
+      "id": "minneapolis-sculpture-garden",
+      "name": "Minneapolis Sculpture Garden",
+      "lat": 44.9705,
+      "lng": -93.2885,
+      "radiusM": 200,
+      "address": "725 Vineland Pl, Minneapolis, MN",
+      "howTo": "Visit the Minneapolis Sculpture Garden.",
+      "badge": "badges/minneapolis-sculpture-garden.png"
+    },
+    {
+      "id": "guthrie-theater",
+      "name": "Guthrie Theater",
+      "lat": 44.9785,
+      "lng": -93.2555,
+      "radiusM": 120,
+      "address": "818 S 2nd St, Minneapolis, MN",
+      "howTo": "Visit the Guthrie Theater.",
+      "badge": "badges/guthrie-theater.png"
+    },
+    {
+      "id": "mill-city-museum",
+      "name": "Mill City Museum",
+      "lat": 44.9785,
+      "lng": -93.2575,
+      "radiusM": 120,
+      "address": "704 S 2nd St, Minneapolis, MN",
+      "howTo": "Visit Mill City Museum.",
+      "badge": "badges/mill-city-museum.png"
+    },
+    {
+      "id": "target-field",
+      "name": "Target Field",
+      "lat": 44.9817,
+      "lng": -93.2778,
+      "radiusM": 200,
+      "address": "1 Twins Way, Minneapolis, MN",
+      "howTo": "Visit Target Field.",
+      "badge": "badges/target-field.png"
+    },
+    {
+      "id": "lake-harriet",
+      "name": "Lake Harriet",
+      "lat": 44.9215,
+      "lng": -93.3065,
+      "radiusM": 300,
+      "address": "Lake Harriet, Minneapolis, MN",
+      "howTo": "Visit Lake Harriet.",
+      "badge": "badges/lake-harriet.png"
+    },
+    {
+      "id": "walker-art-center",
+      "name": "Walker Art Center",
+      "lat": 44.9685,
+      "lng": -93.2885,
+      "radiusM": 120,
+      "address": "725 Vineland Pl, Minneapolis, MN",
+      "howTo": "Visit the Walker Art Center.",
+      "badge": "badges/walker-art-center.png"
+    }
+  ]
+}

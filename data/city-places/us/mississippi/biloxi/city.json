@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/mississippi/biloxi",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MS",
+  "stateName": "Mississippi",
+  "cityName": "Biloxi",
+  "bbox": {
+    "minLat": 30.38,
+    "minLng": -88.98,
+    "maxLat": 30.45,
+    "maxLng": -88.85
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "biloxi-lighthouse",
+      "name": "Biloxi Lighthouse",
+      "lat": 30.3945,
+      "lng": -88.9005,
+      "radiusM": 100,
+      "address": "1050 Beach Blvd, Biloxi, MS",
+      "howTo": "Visit the Biloxi Lighthouse.",
+      "badge": "badges/biloxi-lighthouse.png"
+    },
+    {
+      "id": "beauvoir",
+      "name": "Beauvoir",
+      "lat": 30.3925,
+      "lng": -88.9785,
+      "radiusM": 200,
+      "address": "2244 Beach Blvd, Biloxi, MS",
+      "howTo": "Visit Beauvoir.",
+      "badge": "badges/beauvoir.png"
+    },
+    {
+      "id": "ohr-okeefe-museum",
+      "name": "Ohr-O'Keefe Museum of Art",
+      "lat": 30.3935,
+      "lng": -88.8855,
+      "radiusM": 150,
+      "address": "386 Beach Blvd, Biloxi, MS",
+      "howTo": "Visit the Ohr-O'Keefe Museum of Art.",
+      "badge": "badges/ohr-okeefe-museum.png"
+    },
+    {
+      "id": "biloxi-town-green",
+      "name": "Biloxi Town Green",
+      "lat": 30.3955,
+      "lng": -88.8865,
+      "radiusM": 150,
+      "address": "Town Green, Biloxi, MS",
+      "howTo": "Visit Biloxi Town Green.",
+      "badge": "badges/biloxi-town-green.png"
+    },
+    {
+      "id": "maritime-seafood-museum",
+      "name": "Maritime & Seafood Industry Museum",
+      "lat": 30.3935,
+      "lng": -88.8585,
+      "radiusM": 150,
+      "address": "115 1st St, Biloxi, MS",
+      "howTo": "Visit the Maritime & Seafood Industry Museum.",
+      "badge": "badges/maritime-seafood-museum.png"
+    }
+  ]
+}

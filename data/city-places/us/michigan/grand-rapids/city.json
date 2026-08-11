@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/michigan/grand-rapids",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MI",
+  "stateName": "Michigan",
+  "cityName": "Grand Rapids",
+  "bbox": {
+    "minLat": 42.9,
+    "minLng": -85.72,
+    "maxLat": 43.02,
+    "maxLng": -85.58
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "frederik-meijer-gardens",
+      "name": "Frederik Meijer Gardens & Sculpture Park",
+      "lat": 42.9805,
+      "lng": -85.5885,
+      "radiusM": 300,
+      "address": "1000 E Beltline Ave NE, Grand Rapids, MI",
+      "howTo": "Visit Frederik Meijer Gardens & Sculpture Park.",
+      "badge": "badges/frederik-meijer-gardens.png"
+    },
+    {
+      "id": "gerald-r-ford-museum",
+      "name": "Gerald R. Ford Presidential Museum",
+      "lat": 42.9675,
+      "lng": -85.6765,
+      "radiusM": 150,
+      "address": "303 Pearl St NW, Grand Rapids, MI",
+      "howTo": "Visit the Gerald R. Ford Presidential Museum.",
+      "badge": "badges/gerald-r-ford-museum.png"
+    },
+    {
+      "id": "calder-plaza",
+      "name": "Calder Plaza",
+      "lat": 42.9635,
+      "lng": -85.6705,
+      "radiusM": 120,
+      "address": "Vandenberg Plaza, Grand Rapids, MI",
+      "howTo": "Visit Calder Plaza and La Grande Vitesse.",
+      "badge": "badges/calder-plaza.png"
+    },
+    {
+      "id": "grand-rapids-art-museum",
+      "name": "Grand Rapids Art Museum",
+      "lat": 42.9635,
+      "lng": -85.6685,
+      "radiusM": 120,
+      "address": "101 Monroe Center St NW, Grand Rapids, MI",
+      "howTo": "Visit the Grand Rapids Art Museum.",
+      "badge": "badges/grand-rapids-art-museum.png"
+    },
+    {
+      "id": "ah-nab-awen-park",
+      "name": "Ah-Nab-Awen Park",
+      "lat": 42.9655,
+      "lng": -85.6755,
+      "radiusM": 200,
+      "address": "Ah-Nab-Awen Park, Grand Rapids, MI",
+      "howTo": "Visit Ah-Nab-Awen Park along the Grand River.",
+      "badge": "badges/ah-nab-awen-park.png"
+    }
+  ]
+}

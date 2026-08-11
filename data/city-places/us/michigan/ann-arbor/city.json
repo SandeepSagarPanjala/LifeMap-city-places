@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/michigan/ann-arbor",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MI",
+  "stateName": "Michigan",
+  "cityName": "Ann Arbor",
+  "bbox": {
+    "minLat": 42.24,
+    "minLng": -83.78,
+    "maxLat": 42.32,
+    "maxLng": -83.68
+  },
+  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "the-diag",
+      "name": "The Diag",
+      "lat": 42.2769,
+      "lng": -83.7382,
+      "radiusM": 150,
+      "address": "University of Michigan, Ann Arbor, MI",
+      "howTo": "Visit the Diag on the University of Michigan campus.",
+      "badge": "badges/the-diag.png"
+    },
+    {
+      "id": "michigan-stadium",
+      "name": "Michigan Stadium",
+      "lat": 42.2659,
+      "lng": -83.7487,
+      "radiusM": 250,
+      "address": "1201 S Main St, Ann Arbor, MI",
+      "howTo": "Visit Michigan Stadium.",
+      "badge": "badges/michigan-stadium.png"
+    },
+    {
+      "id": "nichols-arboretum",
+      "name": "Nichols Arboretum",
+      "lat": 42.2805,
+      "lng": -83.7255,
+      "radiusM": 300,
+      "address": "1610 Washington Hts, Ann Arbor, MI",
+      "howTo": "Visit Nichols Arboretum.",
+      "badge": "badges/nichols-arboretum.png"
+    },
+    {
+      "id": "umma",
+      "name": "University of Michigan Museum of Art",
+      "lat": 42.2755,
+      "lng": -83.7395,
+      "radiusM": 120,
+      "address": "525 S State St, Ann Arbor, MI",
+      "howTo": "Visit the University of Michigan Museum of Art.",
+      "badge": "badges/umma.png"
+    },
+    {
+      "id": "kerrytown",
+      "name": "Kerrytown",
+      "lat": 42.2835,
+      "lng": -83.7465,
+      "radiusM": 150,
+      "address": "Kerrytown, Ann Arbor, MI",
+      "howTo": "Visit Kerrytown.",
+      "badge": "badges/kerrytown.png"
+    },
+    {
+      "id": "huron-river",
+      "name": "Huron River",
+      "lat": 42.2875,
+      "lng": -83.7265,
+      "radiusM": 250,
+      "address": "Gallup Park, Ann Arbor, MI",
+      "howTo": "Visit the Huron River at Gallup Park.",
+      "badge": "badges/huron-river.png"
+    }
+  ]
+}
