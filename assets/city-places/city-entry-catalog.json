@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T06:44:39.099Z",
+  "generatedAt": "2026-08-11T07:07:02.129Z",
   "cellDeg": 0.5,
   "cityCount": 124,
   "cities": {
@@ -223,10 +223,10 @@
     "us/colorado/aspen": {
       "name": "Aspen",
       "bbox": {
-        "minLat": 39.17,
-        "minLng": -106.87,
+        "minLat": 39.07678,
+        "minLng": -106.96546,
         "maxLat": 39.22,
-        "maxLng": -106.78
+        "maxLng": -106.54390000000001
       }
     },
     "us/colorado/boulder": {
@@ -234,7 +234,7 @@
       "bbox": {
         "minLat": 39.95,
         "minLng": -105.35,
-        "maxLat": 40.08,
+        "maxLat": 40.0981,
         "maxLng": -105.18
       }
     },
@@ -242,16 +242,16 @@
       "name": "Colorado Springs",
       "bbox": {
         "minLat": 38.75,
-        "minLng": -104.95,
-        "maxLat": 38.95,
+        "minLng": -105.06394999999999,
+        "maxLat": 39.03,
         "maxLng": -104.7
       }
     },
     "us/colorado/denver": {
       "name": "Denver",
       "bbox": {
-        "minLat": 39.65,
-        "minLng": -105.1,
+        "minLat": 39.645399999999995,
+        "minLng": -105.22569999999999,
         "maxLat": 39.85,
         "maxLng": -104.8
       }
@@ -259,10 +259,10 @@
     "us/colorado/telluride": {
       "name": "Telluride",
       "bbox": {
-        "minLat": 37.92,
-        "minLng": -107.9,
-        "maxLat": 37.96,
-        "maxLng": -107.78
+        "minLat": 37.89919999999999,
+        "minLng": -107.85,
+        "maxLat": 37.964240000000004,
+        "maxLng": -107.74996
       }
     },
     "us/connecticut/hartford": {
@@ -1271,7 +1271,16 @@
     "80,-211": [
       "us/colorado/boulder"
     ],
+    "77,-211": [
+      "us/colorado/colorado-springs"
+    ],
     "77,-210": [
+      "us/colorado/colorado-springs"
+    ],
+    "78,-211": [
+      "us/colorado/colorado-springs"
+    ],
+    "78,-210": [
       "us/colorado/colorado-springs"
     ],
     "78,-214": [

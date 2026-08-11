@@ -7,19 +7,19 @@
   "stateName": "Colorado",
   "cityName": "Denver",
   "bbox": {
-    "minLat": 39.65,
-    "minLng": -105.1,
+    "minLat": 39.645399999999995,
+    "minLng": -105.22569999999999,
     "maxLat": 39.85,
     "maxLng": -104.8
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "colorado-state-capitol",
       "name": "Colorado State Capitol",
-      "lat": 39.7392,
-      "lng": -104.9849,
+      "lat": 39.73921,
+      "lng": -104.98485,
       "radiusM": 150,
       "address": "200 E Colfax Ave, Denver, CO",
       "howTo": "Visit the Colorado State Capitol.",
@@ -28,12 +28,152 @@
     {
       "id": "denver-art-museum",
       "name": "Denver Art Museum",
-      "lat": 39.7372,
-      "lng": -104.9893,
+      "lat": 39.73739,
+      "lng": -104.98962,
       "radiusM": 150,
       "address": "100 W 14th Ave Pkwy, Denver, CO",
       "howTo": "Visit the Denver Art Museum.",
       "badge": "badges/denver-art-museum.png"
+    },
+    {
+      "id": "denver-botanic-gardens",
+      "name": "Denver Botanic Gardens",
+      "lat": 39.73204,
+      "lng": -104.96164,
+      "radiusM": 250,
+      "address": "1007 York St, Denver, CO",
+      "howTo": "Visit the Denver Botanic Gardens.",
+      "badge": "badges/denver-botanic-gardens.png"
+    },
+    {
+      "id": "denver-zoo",
+      "name": "Denver Zoo",
+      "lat": 39.74924,
+      "lng": -104.95041,
+      "radiusM": 250,
+      "address": "2300 Steele St, Denver, CO",
+      "howTo": "Visit the Denver Zoo.",
+      "badge": "badges/denver-zoo.png"
+    },
+    {
+      "id": "denver-museum-of-nature-and-science",
+      "name": "Denver Museum of Nature & Science",
+      "lat": 39.74755,
+      "lng": -104.94291,
+      "radiusM": 150,
+      "address": "2001 Colorado Blvd, Denver, CO",
+      "howTo": "Visit the Denver Museum of Nature & Science.",
+      "badge": "badges/denver-museum-of-nature-and-science.png"
+    },
+    {
+      "id": "union-station",
+      "name": "Union Station",
+      "lat": 39.75323,
+      "lng": -105.00009,
+      "radiusM": 150,
+      "address": "1701 Wynkoop St, Denver, CO",
+      "howTo": "Visit Denver Union Station.",
+      "badge": "badges/union-station.png"
+    },
+    {
+      "id": "molly-brown-house-museum",
+      "name": "Molly Brown House Museum",
+      "lat": 39.73751,
+      "lng": -104.98077,
+      "radiusM": 120,
+      "address": "1340 Pennsylvania St, Denver, CO",
+      "howTo": "Visit the Molly Brown House Museum.",
+      "badge": "badges/molly-brown-house-museum.png"
+    },
+    {
+      "id": "history-colorado-center",
+      "name": "History Colorado Center",
+      "lat": 39.73567,
+      "lng": -104.98671,
+      "radiusM": 150,
+      "address": "1200 Broadway, Denver, CO",
+      "howTo": "Visit the History Colorado Center.",
+      "badge": "badges/history-colorado-center.png"
+    },
+    {
+      "id": "city-park",
+      "name": "City Park",
+      "lat": 39.74734,
+      "lng": -104.95029,
+      "radiusM": 400,
+      "address": "City Park, Denver, CO",
+      "howTo": "Visit City Park.",
+      "badge": "badges/city-park.png"
+    },
+    {
+      "id": "confluence-park",
+      "name": "Confluence Park",
+      "lat": 39.75389,
+      "lng": -105.00861,
+      "radiusM": 200,
+      "address": "Confluence Park, Denver, CO",
+      "howTo": "Visit Confluence Park.",
+      "badge": "badges/confluence-park.png"
+    },
+    {
+      "id": "meow-wolf-convergence-station",
+      "name": "Meow Wolf Convergence Station",
+      "lat": 39.74083,
+      "lng": -105.0158,
+      "radiusM": 150,
+      "address": "1338 1st St, Denver, CO",
+      "howTo": "Visit Meow Wolf Convergence Station.",
+      "badge": "badges/meow-wolf-convergence-station.png"
+    },
+    {
+      "id": "washington-park",
+      "name": "Washington Park",
+      "lat": 39.70208,
+      "lng": -104.97103,
+      "radiusM": 350,
+      "address": "Washington Park, Denver, CO",
+      "howTo": "Visit Washington Park.",
+      "badge": "badges/washington-park.png"
+    },
+    {
+      "id": "coors-field",
+      "name": "Coors Field",
+      "lat": 39.75603,
+      "lng": -104.99293,
+      "radiusM": 200,
+      "address": "2001 Blake St, Denver, CO",
+      "howTo": "Visit Coors Field.",
+      "badge": "badges/coors-field.png"
+    },
+    {
+      "id": "civic-center-park",
+      "name": "Civic Center Park",
+      "lat": 39.73924,
+      "lng": -104.98911,
+      "radiusM": 200,
+      "address": "101 W 14th Ave Pkwy, Denver, CO",
+      "howTo": "Visit Civic Center Park.",
+      "badge": "badges/civic-center-park.png"
+    },
+    {
+      "id": "big-blue-bear",
+      "name": "Big Blue Bear",
+      "lat": 39.7436,
+      "lng": -104.99529,
+      "radiusM": 120,
+      "address": "700 14th St, Denver, CO",
+      "howTo": "See the Big Blue Bear at the Colorado Convention Center.",
+      "badge": "badges/big-blue-bear.png"
+    },
+    {
+      "id": "empower-field",
+      "name": "Empower Field at Mile High",
+      "lat": 39.74395,
+      "lng": -105.01922,
+      "radiusM": 200,
+      "address": "1701 Bryant St, Denver, CO",
+      "howTo": "Visit Empower Field at Mile High.",
+      "badge": "badges/empower-field.png"
     },
     {
       "id": "red-rocks-amphitheatre",
@@ -44,56 +184,6 @@
       "address": "18300 W Alameda Pkwy, Morrison, CO",
       "howTo": "Visit Red Rocks Amphitheatre.",
       "badge": "badges/red-rocks-amphitheatre.png"
-    },
-    {
-      "id": "union-station",
-      "name": "Union Station",
-      "lat": 39.7527,
-      "lng": -104.9997,
-      "radiusM": 150,
-      "address": "1701 Wynkoop St, Denver, CO",
-      "howTo": "Visit Denver Union Station.",
-      "badge": "badges/union-station.png"
-    },
-    {
-      "id": "denver-botanic-gardens",
-      "name": "Denver Botanic Gardens",
-      "lat": 39.732,
-      "lng": -104.9608,
-      "radiusM": 250,
-      "address": "1007 York St, Denver, CO",
-      "howTo": "Visit the Denver Botanic Gardens.",
-      "badge": "badges/denver-botanic-gardens.png"
-    },
-    {
-      "id": "coors-field",
-      "name": "Coors Field",
-      "lat": 39.7559,
-      "lng": -104.9942,
-      "radiusM": 200,
-      "address": "2001 Blake St, Denver, CO",
-      "howTo": "Visit Coors Field.",
-      "badge": "badges/coors-field.png"
-    },
-    {
-      "id": "empower-field",
-      "name": "Empower Field at Mile High",
-      "lat": 39.7439,
-      "lng": -105.0201,
-      "radiusM": 200,
-      "address": "1701 Bryant St, Denver, CO",
-      "howTo": "Visit Empower Field at Mile High.",
-      "badge": "badges/empower-field.png"
-    },
-    {
-      "id": "civic-center-park",
-      "name": "Civic Center Park",
-      "lat": 39.7394,
-      "lng": -104.9889,
-      "radiusM": 200,
-      "address": "101 W 14th Ave Pkwy, Denver, CO",
-      "howTo": "Visit Civic Center Park.",
-      "badge": "badges/civic-center-park.png"
     }
   ]
 }

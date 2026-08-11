@@ -9,27 +9,37 @@
   "bbox": {
     "minLat": 39.95,
     "minLng": -105.35,
-    "maxLat": 40.08,
+    "maxLat": 40.0981,
     "maxLng": -105.18
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "chautauqua-park",
       "name": "Chautauqua Park",
-      "lat": 39.9989,
-      "lng": -105.2815,
+      "lat": 39.9974,
+      "lng": -105.28097,
       "radiusM": 300,
       "address": "900 Baseline Rd, Boulder, CO",
       "howTo": "Visit Chautauqua Park.",
       "badge": "badges/chautauqua-park.png"
     },
     {
+      "id": "flatirons-vista",
+      "name": "The Flatirons",
+      "lat": 39.98415,
+      "lng": -105.29416,
+      "radiusM": 300,
+      "address": "Chautauqua Trailhead, Boulder, CO",
+      "howTo": "See the Flatirons near Chautauqua.",
+      "badge": "badges/flatirons-vista.png"
+    },
+    {
       "id": "pearl-street-mall",
       "name": "Pearl Street Mall",
-      "lat": 40.0185,
-      "lng": -105.278,
+      "lat": 40.0181,
+      "lng": -105.27799,
       "radiusM": 200,
       "address": "Pearl St, Boulder, CO",
       "howTo": "Walk the Pearl Street Mall.",
@@ -38,39 +48,79 @@
     {
       "id": "university-of-colorado",
       "name": "University of Colorado Boulder",
-      "lat": 40.0076,
-      "lng": -105.2659,
+      "lat": 40.00701,
+      "lng": -105.26644,
       "radiusM": 250,
-      "address": "Boulder, CO",
+      "address": "University of Colorado Boulder, Boulder, CO",
       "howTo": "Visit the CU Boulder campus.",
       "badge": "badges/university-of-colorado.png"
     },
     {
-      "id": "flatirons-vista",
-      "name": "Flatirons Vista",
-      "lat": 39.989,
-      "lng": -105.292,
-      "radiusM": 200,
-      "address": "Chautauqua Trailhead area, Boulder, CO",
-      "howTo": "See the Flatirons from Chautauqua.",
-      "badge": "badges/flatirons-vista.png"
-    },
-    {
       "id": "boulder-creek-path",
       "name": "Boulder Creek Path",
-      "lat": 40.015,
-      "lng": -105.2785,
+      "lat": 40.01403,
+      "lng": -105.28751,
       "radiusM": 200,
       "address": "Boulder Creek Path, Boulder, CO",
       "howTo": "Walk the Boulder Creek Path.",
       "badge": "badges/boulder-creek-path.png"
     },
     {
+      "id": "ncar-mesa-lab",
+      "name": "NCAR Mesa Lab",
+      "lat": 39.97789,
+      "lng": -105.27487,
+      "radiusM": 150,
+      "address": "1850 Table Mesa Dr, Boulder, CO",
+      "howTo": "Visit the NCAR Mesa Laboratory.",
+      "badge": "badges/ncar-mesa-lab.png"
+    },
+    {
+      "id": "flagstaff-mountain",
+      "name": "Flagstaff Mountain",
+      "lat": 40.00165,
+      "lng": -105.30749,
+      "radiusM": 250,
+      "address": "Flagstaff Mountain, Boulder, CO",
+      "howTo": "Visit Flagstaff Mountain.",
+      "badge": "badges/flagstaff-mountain.png"
+    },
+    {
+      "id": "settlers-park",
+      "name": "Settlers Park",
+      "lat": 40.01319,
+      "lng": -105.29677,
+      "radiusM": 200,
+      "address": "Settlers Park, Boulder, CO",
+      "howTo": "Visit Settlers Park.",
+      "badge": "badges/settlers-park.png"
+    },
+    {
+      "id": "mount-sanitas",
+      "name": "Mount Sanitas",
+      "lat": 40.03437,
+      "lng": -105.30528,
+      "radiusM": 250,
+      "address": "Mount Sanitas Trailhead, Boulder, CO",
+      "howTo": "Hike Mount Sanitas.",
+      "badge": "badges/mount-sanitas.png"
+    },
+    {
+      "id": "boulder-museum-of-contemporary-art",
+      "name": "Boulder Museum of Contemporary Art",
+      "lat": 40.01516,
+      "lng": -105.2773,
+      "radiusM": 120,
+      "address": "1750 13th St, Boulder, CO",
+      "howTo": "Visit the Boulder Museum of Contemporary Art.",
+      "badge": "badges/boulder-museum-of-contemporary-art.png"
+    },
+    {
       "id": "boulder-reservoir",
       "name": "Boulder Reservoir",
-      "lat": 40.071,
-      "lng": -105.1945,
-      "radiusM": 300,
+      "lat": 40.0781,
+      "lng": -105.22226,
+      "radiusM": 350,
       "address": "5565 N 51st St, Boulder, CO",
       "howTo": "Visit Boulder Reservoir.",
       "badge": "badges/boulder-reservoir.png"

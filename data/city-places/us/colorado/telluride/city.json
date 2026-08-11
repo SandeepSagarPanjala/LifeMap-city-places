@@ -7,23 +7,53 @@
   "stateName": "Colorado",
   "cityName": "Telluride",
   "bbox": {
-    "minLat": 37.92,
-    "minLng": -107.9,
-    "maxLat": 37.96,
-    "maxLng": -107.78
+    "minLat": 37.89919999999999,
+    "minLng": -107.85,
+    "maxLat": 37.964240000000004,
+    "maxLng": -107.74996
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bridal-veil-falls",
       "name": "Bridal Veil Falls",
-      "lat": 37.9065,
-      "lng": -107.767,
-      "radiusM": 200,
-      "address": "Telluride, CO",
+      "lat": 37.9192,
+      "lng": -107.76996,
+      "radiusM": 250,
+      "address": "Bridal Veil Falls, Telluride, CO",
       "howTo": "Visit Bridal Veil Falls.",
       "badge": "badges/bridal-veil-falls.png"
+    },
+    {
+      "id": "telluride-gondola",
+      "name": "Telluride Gondola",
+      "lat": 37.937,
+      "lng": -107.812,
+      "radiusM": 150,
+      "address": "San Juan Ave, Telluride, CO",
+      "howTo": "Ride the free Telluride Gondola.",
+      "badge": "badges/telluride-gondola.png"
+    },
+    {
+      "id": "telluride-historical-museum",
+      "name": "Telluride Historical Museum",
+      "lat": 37.93975,
+      "lng": -107.8108,
+      "radiusM": 120,
+      "address": "201 W Gregory Ave, Telluride, CO",
+      "howTo": "Visit the Telluride Historical Museum.",
+      "badge": "badges/telluride-historical-museum.png"
+    },
+    {
+      "id": "town-park",
+      "name": "Town Park",
+      "lat": 37.93419,
+      "lng": -107.80589,
+      "radiusM": 200,
+      "address": "Town Park, Telluride, CO",
+      "howTo": "Visit Telluride Town Park.",
+      "badge": "badges/town-park.png"
     },
     {
       "id": "telluride-historic-district",
@@ -31,7 +61,7 @@
       "lat": 37.9375,
       "lng": -107.8123,
       "radiusM": 250,
-      "address": "Telluride, CO",
+      "address": "Colorado Ave, Telluride, CO",
       "howTo": "Walk the Telluride Historic District.",
       "badge": "badges/telluride-historic-district.png"
     },
@@ -46,14 +76,14 @@
       "badge": "badges/bear-creek-falls.png"
     },
     {
-      "id": "telluride-gondola",
-      "name": "Telluride Gondola",
-      "lat": 37.937,
-      "lng": -107.812,
-      "radiusM": 150,
-      "address": "San Juan Ave, Telluride, CO",
-      "howTo": "Ride the free Telluride Gondola.",
-      "badge": "badges/telluride-gondola.png"
+      "id": "jud-wiebe-trail",
+      "name": "Jud Wiebe Trail",
+      "lat": 37.94424,
+      "lng": -107.81858,
+      "radiusM": 200,
+      "address": "Jud Wiebe Trail, Telluride, CO",
+      "howTo": "Hike the Jud Wiebe Trail.",
+      "badge": "badges/jud-wiebe-trail.png"
     }
   ]
 }

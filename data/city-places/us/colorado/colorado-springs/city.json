@@ -8,18 +8,18 @@
   "cityName": "Colorado Springs",
   "bbox": {
     "minLat": 38.75,
-    "minLng": -104.95,
-    "maxLat": 38.95,
+    "minLng": -105.06394999999999,
+    "maxLat": 39.03,
     "maxLng": -104.7
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "garden-of-the-gods",
       "name": "Garden of the Gods",
-      "lat": 38.8735,
-      "lng": -104.886,
+      "lat": 38.87438,
+      "lng": -104.88241,
       "radiusM": 400,
       "address": "1805 N 30th St, Colorado Springs, CO",
       "howTo": "Visit Garden of the Gods.",
@@ -28,18 +28,18 @@
     {
       "id": "pikes-peak",
       "name": "Pikes Peak",
-      "lat": 38.8409,
-      "lng": -105.0423,
+      "lat": 38.8404,
+      "lng": -105.04395,
       "radiusM": 400,
-      "address": "Pikes Peak Hwy, CO",
+      "address": "Pikes Peak, El Paso County, CO",
       "howTo": "Visit Pikes Peak.",
       "badge": "badges/pikes-peak.png"
     },
     {
       "id": "us-olympic-museum",
       "name": "United States Olympic & Paralympic Museum",
-      "lat": 38.8295,
-      "lng": -104.828,
+      "lat": 38.82948,
+      "lng": -104.82962,
       "radiusM": 150,
       "address": "200 S Sierra Madre St, Colorado Springs, CO",
       "howTo": "Visit the U.S. Olympic & Paralympic Museum.",
@@ -48,8 +48,8 @@
     {
       "id": "cheyenne-mountain-zoo",
       "name": "Cheyenne Mountain Zoo",
-      "lat": 38.769,
-      "lng": -104.855,
+      "lat": 38.77138,
+      "lng": -104.85544,
       "radiusM": 250,
       "address": "4250 Cheyenne Mountain Zoo Rd, Colorado Springs, CO",
       "howTo": "Visit Cheyenne Mountain Zoo.",
@@ -58,12 +58,82 @@
     {
       "id": "seven-falls",
       "name": "Seven Falls",
-      "lat": 38.779,
-      "lng": -104.876,
+      "lat": 38.78345,
+      "lng": -104.87815,
       "radiusM": 200,
       "address": "2850 S Cheyenne Canyon Rd, Colorado Springs, CO",
       "howTo": "Visit Seven Falls.",
       "badge": "badges/seven-falls.png"
+    },
+    {
+      "id": "air-force-academy-cadet-chapel",
+      "name": "Air Force Academy Cadet Chapel",
+      "lat": 39.00842,
+      "lng": -104.89039,
+      "radiusM": 150,
+      "address": "2306 Sijan Dr, USAF Academy, CO",
+      "howTo": "Visit the Air Force Academy Cadet Chapel.",
+      "badge": "badges/air-force-academy-cadet-chapel.png"
+    },
+    {
+      "id": "north-cheyenne-canon-park",
+      "name": "North Cheyenne Ca\u00f1on Park",
+      "lat": 38.79215,
+      "lng": -104.88722,
+      "radiusM": 350,
+      "address": "2120 N Cheyenne Canyon Rd, Colorado Springs, CO",
+      "howTo": "Visit North Cheyenne Ca\u00f1on Park.",
+      "badge": "badges/north-cheyenne-canon-park.png"
+    },
+    {
+      "id": "america-the-beautiful-park",
+      "name": "America the Beautiful Park",
+      "lat": 38.8296,
+      "lng": -104.83237,
+      "radiusM": 200,
+      "address": "126 Cimino Dr, Colorado Springs, CO",
+      "howTo": "Visit America the Beautiful Park.",
+      "badge": "badges/america-the-beautiful-park.png"
+    },
+    {
+      "id": "red-rock-canyon-open-space",
+      "name": "Red Rock Canyon Open Space",
+      "lat": 38.84289,
+      "lng": -104.88393,
+      "radiusM": 350,
+      "address": "3550 W High St, Colorado Springs, CO",
+      "howTo": "Visit Red Rock Canyon Open Space.",
+      "badge": "badges/red-rock-canyon-open-space.png"
+    },
+    {
+      "id": "will-rogers-shrine-of-the-sun",
+      "name": "Will Rogers Shrine of the Sun",
+      "lat": 38.77239,
+      "lng": -104.86263,
+      "radiusM": 150,
+      "address": "4250 Cheyenne Mountain Zoo Rd, Colorado Springs, CO",
+      "howTo": "Visit the Will Rogers Shrine of the Sun.",
+      "badge": "badges/will-rogers-shrine-of-the-sun.png"
+    },
+    {
+      "id": "palmer-park",
+      "name": "Palmer Park",
+      "lat": 38.8784,
+      "lng": -104.77397,
+      "radiusM": 350,
+      "address": "Palmer Park, Colorado Springs, CO",
+      "howTo": "Visit Palmer Park.",
+      "badge": "badges/palmer-park.png"
+    },
+    {
+      "id": "colorado-springs-pioneers-museum",
+      "name": "Colorado Springs Pioneers Museum",
+      "lat": 38.83036,
+      "lng": -104.82282,
+      "radiusM": 120,
+      "address": "215 S Tejon St, Colorado Springs, CO",
+      "howTo": "Visit the Colorado Springs Pioneers Museum.",
+      "badge": "badges/colorado-springs-pioneers-museum.png"
     },
     {
       "id": "manitou-incline",

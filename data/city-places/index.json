@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "cursor": "us/ohio/cleveland",
-  "updatedAt": "2026-08-11T06:44:38.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -390,11 +390,11 @@
               "name": "Denver",
               "status": "complete",
               "packPath": "us/colorado/denver/city.json",
-              "placeCount": 8,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 17,
+              "completedAt": "2026-08-11T07:06:51.000Z",
               "bbox": {
-                "minLat": 39.65,
-                "minLng": -105.1,
+                "minLat": 39.645399999999995,
+                "minLng": -105.22569999999999,
                 "maxLat": 39.85,
                 "maxLng": -104.8
               }
@@ -404,12 +404,12 @@
               "name": "Boulder",
               "status": "complete",
               "packPath": "us/colorado/boulder/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 11,
+              "completedAt": "2026-08-11T07:06:51.000Z",
               "bbox": {
                 "minLat": 39.95,
                 "minLng": -105.35,
-                "maxLat": 40.08,
+                "maxLat": 40.0981,
                 "maxLng": -105.18
               }
             },
@@ -418,12 +418,12 @@
               "name": "Colorado Springs",
               "status": "complete",
               "packPath": "us/colorado/colorado-springs/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 13,
+              "completedAt": "2026-08-11T07:06:51.000Z",
               "bbox": {
                 "minLat": 38.75,
-                "minLng": -104.95,
-                "maxLat": 38.95,
+                "minLng": -105.06394999999999,
+                "maxLat": 39.03,
                 "maxLng": -104.7
               }
             },
@@ -432,13 +432,13 @@
               "name": "Aspen",
               "status": "complete",
               "packPath": "us/colorado/aspen/city.json",
-              "placeCount": 5,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 9,
+              "completedAt": "2026-08-11T07:06:51.000Z",
               "bbox": {
-                "minLat": 39.17,
-                "minLng": -106.87,
+                "minLat": 39.07678,
+                "minLng": -106.96546,
                 "maxLat": 39.22,
-                "maxLng": -106.78
+                "maxLng": -106.54390000000001
               }
             },
             {
@@ -446,13 +446,13 @@
               "name": "Telluride",
               "status": "complete",
               "packPath": "us/colorado/telluride/city.json",
-              "placeCount": 4,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 7,
+              "completedAt": "2026-08-11T07:06:51.000Z",
               "bbox": {
-                "minLat": 37.92,
-                "minLng": -107.9,
-                "maxLat": 37.96,
-                "maxLng": -107.78
+                "minLat": 37.89919999999999,
+                "minLng": -107.85,
+                "maxLat": 37.964240000000004,
+                "maxLng": -107.74996
               }
             }
           ]

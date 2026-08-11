@@ -7,22 +7,22 @@
   "stateName": "Colorado",
   "cityName": "Aspen",
   "bbox": {
-    "minLat": 39.17,
-    "minLng": -106.87,
+    "minLat": 39.07678,
+    "minLng": -106.96546,
     "maxLat": 39.22,
-    "maxLng": -106.78
+    "maxLng": -106.54390000000001
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:06:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "maroon-bells",
       "name": "Maroon Bells",
-      "lat": 39.0708,
-      "lng": -106.989,
+      "lat": 39.09678,
+      "lng": -106.94546,
       "radiusM": 300,
-      "address": "Maroon Creek Rd, Aspen, CO",
-      "howTo": "Visit the Maroon Bells.",
+      "address": "Maroon Lake, Aspen, CO",
+      "howTo": "Visit the Maroon Bells at Maroon Lake.",
       "badge": "badges/maroon-bells.png"
     },
     {
@@ -31,15 +31,15 @@
       "lat": 39.1864,
       "lng": -106.8183,
       "radiusM": 250,
-      "address": "Aspen, CO",
+      "address": "601 E Dean St, Aspen, CO",
       "howTo": "Visit Aspen Mountain.",
       "badge": "badges/aspen-mountain.png"
     },
     {
       "id": "john-denver-sanctuary",
       "name": "John Denver Sanctuary",
-      "lat": 39.1925,
-      "lng": -106.821,
+      "lat": 39.19235,
+      "lng": -106.81627,
       "radiusM": 120,
       "address": "Rio Grande Park, Aspen, CO",
       "howTo": "Visit the John Denver Sanctuary.",
@@ -48,12 +48,52 @@
     {
       "id": "aspen-art-museum",
       "name": "Aspen Art Museum",
-      "lat": 39.1905,
-      "lng": -106.8195,
+      "lat": 39.18826,
+      "lng": -106.81654,
       "radiusM": 120,
       "address": "637 E Hyman Ave, Aspen, CO",
       "howTo": "Visit the Aspen Art Museum.",
       "badge": "badges/aspen-art-museum.png"
+    },
+    {
+      "id": "wheeler-opera-house",
+      "name": "Wheeler Opera House",
+      "lat": 39.18935,
+      "lng": -106.81993,
+      "radiusM": 120,
+      "address": "320 E Hyman Ave, Aspen, CO",
+      "howTo": "Visit the Wheeler Opera House.",
+      "badge": "badges/wheeler-opera-house.png"
+    },
+    {
+      "id": "hallam-lake",
+      "name": "Hallam Lake",
+      "lat": 39.19496,
+      "lng": -106.82105,
+      "radiusM": 150,
+      "address": "100 Puppy Smith St, Aspen, CO",
+      "howTo": "Visit Hallam Lake at the Aspen Center for Environmental Studies.",
+      "badge": "badges/hallam-lake.png"
+    },
+    {
+      "id": "wagner-park",
+      "name": "Wagner Park",
+      "lat": 39.18825,
+      "lng": -106.82069,
+      "radiusM": 150,
+      "address": "Wagner Park, Aspen, CO",
+      "howTo": "Visit Wagner Park.",
+      "badge": "badges/wagner-park.png"
+    },
+    {
+      "id": "rio-grande-park",
+      "name": "Rio Grande Park",
+      "lat": 39.19207,
+      "lng": -106.81714,
+      "radiusM": 200,
+      "address": "Rio Grande Park, Aspen, CO",
+      "howTo": "Visit Rio Grande Park.",
+      "badge": "badges/rio-grande-park.png"
     },
     {
       "id": "independence-pass",
