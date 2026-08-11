@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/ohio/cincinnati",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OH",
+  "stateName": "Ohio",
+  "cityName": "Cincinnati",
+  "bbox": {
+    "minLat": 39.08,
+    "minLng": -84.58,
+    "maxLat": 39.18,
+    "maxLng": -84.45
+  },
+  "updatedAt": "2026-08-11T13:48:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "john-a-roebling-bridge",
+      "name": "John A. Roebling Suspension Bridge",
+      "lat": 39.09,
+      "lng": -84.508,
+      "radiusM": 150,
+      "address": "Roebling Bridge, Cincinnati, OH",
+      "howTo": "Visit the Roebling Suspension Bridge.",
+      "badge": "badges/john-a-roebling-bridge.png"
+    },
+    {
+      "id": "fountain-square",
+      "name": "Fountain Square",
+      "lat": 39.1015,
+      "lng": -84.5125,
+      "radiusM": 120,
+      "address": "Fountain Square, Cincinnati, OH",
+      "howTo": "Visit Fountain Square.",
+      "badge": "badges/fountain-square.png"
+    },
+    {
+      "id": "cincinnati-zoo",
+      "name": "Cincinnati Zoo & Botanical Garden",
+      "lat": 39.145,
+      "lng": -84.5085,
+      "radiusM": 250,
+      "address": "3400 Vine St, Cincinnati, OH",
+      "howTo": "Visit the Cincinnati Zoo.",
+      "badge": "badges/cincinnati-zoo.png"
+    },
+    {
+      "id": "great-american-ball-park",
+      "name": "Great American Ball Park",
+      "lat": 39.0979,
+      "lng": -84.5082,
+      "radiusM": 200,
+      "address": "100 Joe Nuxhall Way, Cincinnati, OH",
+      "howTo": "Visit Great American Ball Park.",
+      "badge": "badges/great-american-ball-park.png"
+    },
+    {
+      "id": "krohn-conservatory",
+      "name": "Krohn Conservatory",
+      "lat": 39.1155,
+      "lng": -84.4965,
+      "radiusM": 150,
+      "address": "1501 Eden Park Dr, Cincinnati, OH",
+      "howTo": "Visit Krohn Conservatory.",
+      "badge": "badges/krohn-conservatory.png"
+    },
+    {
+      "id": "findlay-market",
+      "name": "Findlay Market",
+      "lat": 39.1155,
+      "lng": -84.5185,
+      "radiusM": 150,
+      "address": "1801 Race St, Cincinnati, OH",
+      "howTo": "Visit Findlay Market.",
+      "badge": "badges/findlay-market.png"
+    }
+  ]
+}

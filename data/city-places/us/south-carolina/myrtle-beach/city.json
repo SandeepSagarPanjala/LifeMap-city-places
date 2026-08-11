@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-carolina/myrtle-beach",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SC",
+  "stateName": "South Carolina",
+  "cityName": "Myrtle Beach",
+  "bbox": {
+    "minLat": 33.65,
+    "minLng": -78.95,
+    "maxLat": 33.75,
+    "maxLng": -78.82
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "myrtle-beach-boardwalk",
+      "name": "Myrtle Beach Boardwalk",
+      "lat": 33.6905,
+      "lng": -78.8855,
+      "radiusM": 300,
+      "address": "Boardwalk, Myrtle Beach, SC",
+      "howTo": "Walk the Myrtle Beach Boardwalk.",
+      "badge": "badges/myrtle-beach-boardwalk.png"
+    },
+    {
+      "id": "myrtle-beach-state-park",
+      "name": "Myrtle Beach State Park",
+      "lat": 33.6505,
+      "lng": -78.9285,
+      "radiusM": 300,
+      "address": "4401 S Kings Hwy, Myrtle Beach, SC",
+      "howTo": "Visit Myrtle Beach State Park.",
+      "badge": "badges/myrtle-beach-state-park.png"
+    },
+    {
+      "id": "skywheel",
+      "name": "SkyWheel Myrtle Beach",
+      "lat": 33.6925,
+      "lng": -78.8785,
+      "radiusM": 120,
+      "address": "1110 Celebrity Cir, Myrtle Beach, SC",
+      "howTo": "Visit the SkyWheel.",
+      "badge": "badges/skywheel.png"
+    },
+    {
+      "id": "myrtle-beach-pier",
+      "name": "Myrtle Beach Pier",
+      "lat": 33.6935,
+      "lng": -78.8775,
+      "radiusM": 150,
+      "address": "Myrtle Beach, SC",
+      "howTo": "Visit the Myrtle Beach Pier.",
+      "badge": "badges/myrtle-beach-pier.png"
+    }
+  ]
+}

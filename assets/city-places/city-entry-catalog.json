@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T07:18:38.405Z",
+  "generatedAt": "2026-08-11T14:53:41.939Z",
   "cellDeg": 0.5,
-  "cityCount": 124,
+  "cityCount": 159,
   "cities": {
     "us/alabama/birmingham": {
       "name": "Birmingham",
@@ -1048,6 +1048,249 @@
         "maxLng": -96.75
       }
     },
+    "us/ohio/cincinnati": {
+      "name": "Cincinnati",
+      "bbox": {
+        "minLat": 39.08,
+        "minLng": -84.58,
+        "maxLat": 39.18,
+        "maxLng": -84.45
+      }
+    },
+    "us/ohio/cleveland": {
+      "name": "Cleveland",
+      "bbox": {
+        "minLat": 41.43,
+        "minLng": -81.82,
+        "maxLat": 41.55,
+        "maxLng": -81.55
+      }
+    },
+    "us/ohio/columbus": {
+      "name": "Columbus",
+      "bbox": {
+        "minLat": 39.92,
+        "minLng": -83.08,
+        "maxLat": 40.05,
+        "maxLng": -82.9
+      }
+    },
+    "us/oklahoma/oklahoma-city": {
+      "name": "Oklahoma City",
+      "bbox": {
+        "minLat": 35.42,
+        "minLng": -97.6,
+        "maxLat": 35.55,
+        "maxLng": -97.45
+      }
+    },
+    "us/oklahoma/tulsa": {
+      "name": "Tulsa",
+      "bbox": {
+        "minLat": 36.1,
+        "minLng": -96,
+        "maxLat": 36.2,
+        "maxLng": -95.9
+      }
+    },
+    "us/oregon/ashland": {
+      "name": "Ashland",
+      "bbox": {
+        "minLat": 42.18,
+        "minLng": -122.73,
+        "maxLat": 42.22,
+        "maxLng": -122.68
+      }
+    },
+    "us/oregon/bend": {
+      "name": "Bend",
+      "bbox": {
+        "minLat": 44.02,
+        "minLng": -121.35,
+        "maxLat": 44.1,
+        "maxLng": -121.25
+      }
+    },
+    "us/oregon/cannon-beach": {
+      "name": "Cannon Beach",
+      "bbox": {
+        "minLat": 45.88,
+        "minLng": -123.98,
+        "maxLat": 45.92,
+        "maxLng": -123.95
+      }
+    },
+    "us/oregon/eugene": {
+      "name": "Eugene",
+      "bbox": {
+        "minLat": 44.02,
+        "minLng": -123.15,
+        "maxLat": 44.1,
+        "maxLng": -123.02
+      }
+    },
+    "us/oregon/portland": {
+      "name": "Portland",
+      "bbox": {
+        "minLat": 45.45,
+        "minLng": -122.8,
+        "maxLat": 45.6,
+        "maxLng": -122.5
+      }
+    },
+    "us/pennsylvania/gettysburg": {
+      "name": "Gettysburg",
+      "bbox": {
+        "minLat": 39.8,
+        "minLng": -77.28,
+        "maxLat": 39.85,
+        "maxLng": -77.2
+      }
+    },
+    "us/pennsylvania/lancaster": {
+      "name": "Lancaster",
+      "bbox": {
+        "minLat": 40.02,
+        "minLng": -76.35,
+        "maxLat": 40.07,
+        "maxLng": -76.28
+      }
+    },
+    "us/pennsylvania/philadelphia": {
+      "name": "Philadelphia",
+      "bbox": {
+        "minLat": 39.9,
+        "minLng": -75.25,
+        "maxLat": 40.05,
+        "maxLng": -75.1
+      }
+    },
+    "us/pennsylvania/pittsburgh": {
+      "name": "Pittsburgh",
+      "bbox": {
+        "minLat": 40.4,
+        "minLng": -80.05,
+        "maxLat": 40.5,
+        "maxLng": -79.9
+      }
+    },
+    "us/rhode-island/newport": {
+      "name": "Newport",
+      "bbox": {
+        "minLat": 41.45,
+        "minLng": -71.35,
+        "maxLat": 41.52,
+        "maxLng": -71.28
+      }
+    },
+    "us/rhode-island/providence": {
+      "name": "Providence",
+      "bbox": {
+        "minLat": 41.8,
+        "minLng": -71.45,
+        "maxLat": 41.85,
+        "maxLng": -71.38
+      }
+    },
+    "us/south-carolina/charleston": {
+      "name": "Charleston",
+      "bbox": {
+        "minLat": 32.72,
+        "minLng": -80,
+        "maxLat": 32.85,
+        "maxLng": -79.85
+      }
+    },
+    "us/south-carolina/columbia": {
+      "name": "Columbia",
+      "bbox": {
+        "minLat": 33.98,
+        "minLng": -81.08,
+        "maxLat": 34.05,
+        "maxLng": -80.98
+      }
+    },
+    "us/south-carolina/greenville": {
+      "name": "Greenville",
+      "bbox": {
+        "minLat": 34.82,
+        "minLng": -82.42,
+        "maxLat": 34.88,
+        "maxLng": -82.36
+      }
+    },
+    "us/south-carolina/myrtle-beach": {
+      "name": "Myrtle Beach",
+      "bbox": {
+        "minLat": 33.65,
+        "minLng": -78.95,
+        "maxLat": 33.75,
+        "maxLng": -78.82
+      }
+    },
+    "us/south-dakota/rapid-city": {
+      "name": "Rapid City",
+      "bbox": {
+        "minLat": 44.04,
+        "minLng": -103.28,
+        "maxLat": 44.12,
+        "maxLng": -103.18
+      }
+    },
+    "us/south-dakota/sioux-falls": {
+      "name": "Sioux Falls",
+      "bbox": {
+        "minLat": 43.52,
+        "minLng": -96.78,
+        "maxLat": 43.58,
+        "maxLng": -96.68
+      }
+    },
+    "us/tennessee/chattanooga": {
+      "name": "Chattanooga",
+      "bbox": {
+        "minLat": 35,
+        "minLng": -85.35,
+        "maxLat": 35.1,
+        "maxLng": -85.22
+      }
+    },
+    "us/tennessee/gatlinburg": {
+      "name": "Gatlinburg",
+      "bbox": {
+        "minLat": 35.68,
+        "minLng": -83.55,
+        "maxLat": 35.75,
+        "maxLng": -83.48
+      }
+    },
+    "us/tennessee/knoxville": {
+      "name": "Knoxville",
+      "bbox": {
+        "minLat": 35.94,
+        "minLng": -84,
+        "maxLat": 36.02,
+        "maxLng": -83.88
+      }
+    },
+    "us/tennessee/memphis": {
+      "name": "Memphis",
+      "bbox": {
+        "minLat": 35.05,
+        "minLng": -90.12,
+        "maxLat": 35.2,
+        "maxLng": -89.9
+      }
+    },
+    "us/tennessee/nashville": {
+      "name": "Nashville",
+      "bbox": {
+        "minLat": 36.12,
+        "minLng": -86.9,
+        "maxLat": 36.22,
+        "maxLng": -86.72
+      }
+    },
     "us/texas/austin": {
       "name": "Austin",
       "bbox": {
@@ -1118,6 +1361,78 @@
         "minLng": -98.6,
         "maxLat": 29.55,
         "maxLng": -98.4
+      }
+    },
+    "us/utah/moab": {
+      "name": "Moab",
+      "bbox": {
+        "minLat": 38.54,
+        "minLng": -109.6,
+        "maxLat": 38.62,
+        "maxLng": -109.5
+      }
+    },
+    "us/utah/park-city": {
+      "name": "Park City",
+      "bbox": {
+        "minLat": 40.62,
+        "minLng": -111.52,
+        "maxLat": 40.68,
+        "maxLng": -111.48
+      }
+    },
+    "us/utah/salt-lake-city": {
+      "name": "Salt Lake City",
+      "bbox": {
+        "minLat": 40.72,
+        "minLng": -112,
+        "maxLat": 40.82,
+        "maxLng": -111.82
+      }
+    },
+    "us/utah/springdale": {
+      "name": "Springdale",
+      "bbox": {
+        "minLat": 37.16,
+        "minLng": -113.02,
+        "maxLat": 37.22,
+        "maxLng": -112.98
+      }
+    },
+    "us/utah/st-george": {
+      "name": "St. George",
+      "bbox": {
+        "minLat": 37.05,
+        "minLng": -113.62,
+        "maxLat": 37.15,
+        "maxLng": -113.5
+      }
+    },
+    "us/vermont/burlington": {
+      "name": "Burlington",
+      "bbox": {
+        "minLat": 44.45,
+        "minLng": -73.25,
+        "maxLat": 44.5,
+        "maxLng": -73.18
+      }
+    },
+    "us/vermont/montpelier": {
+      "name": "Montpelier",
+      "bbox": {
+        "minLat": 44.25,
+        "minLng": -72.6,
+        "maxLat": 44.28,
+        "maxLng": -72.55
+      }
+    },
+    "us/vermont/stowe": {
+      "name": "Stowe",
+      "bbox": {
+        "minLat": 44.46,
+        "minLng": -72.72,
+        "maxLat": 44.5,
+        "maxLng": -72.68
       }
     }
   },
@@ -1304,7 +1619,8 @@
       "us/delaware/wilmington"
     ],
     "79,-151": [
-      "us/delaware/wilmington"
+      "us/delaware/wilmington",
+      "us/pennsylvania/philadelphia"
     ],
     "77,-151": [
       "us/delaware/rehoboth-beach"
@@ -1705,6 +2021,146 @@
     "93,-202": [
       "us/north-dakota/bismarck"
     ],
+    "82,-164": [
+      "us/ohio/cleveland"
+    ],
+    "83,-164": [
+      "us/ohio/cleveland"
+    ],
+    "78,-170": [
+      "us/ohio/cincinnati"
+    ],
+    "78,-169": [
+      "us/ohio/cincinnati"
+    ],
+    "79,-167": [
+      "us/ohio/columbus"
+    ],
+    "79,-166": [
+      "us/ohio/columbus"
+    ],
+    "80,-167": [
+      "us/ohio/columbus"
+    ],
+    "80,-166": [
+      "us/ohio/columbus"
+    ],
+    "70,-196": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "70,-195": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "71,-196": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "71,-195": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "72,-192": [
+      "us/oklahoma/tulsa"
+    ],
+    "90,-246": [
+      "us/oregon/portland"
+    ],
+    "90,-245": [
+      "us/oregon/portland"
+    ],
+    "91,-246": [
+      "us/oregon/portland"
+    ],
+    "91,-245": [
+      "us/oregon/portland"
+    ],
+    "88,-243": [
+      "us/oregon/bend"
+    ],
+    "88,-247": [
+      "us/oregon/eugene"
+    ],
+    "91,-248": [
+      "us/oregon/cannon-beach"
+    ],
+    "84,-246": [
+      "us/oregon/ashland"
+    ],
+    "80,-151": [
+      "us/pennsylvania/philadelphia"
+    ],
+    "80,-161": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "80,-160": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "81,-161": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "81,-160": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "79,-155": [
+      "us/pennsylvania/gettysburg"
+    ],
+    "80,-153": [
+      "us/pennsylvania/lancaster"
+    ],
+    "83,-143": [
+      "us/rhode-island/newport",
+      "us/rhode-island/providence"
+    ],
+    "82,-143": [
+      "us/rhode-island/newport"
+    ],
+    "65,-160": [
+      "us/south-carolina/charleston"
+    ],
+    "67,-158": [
+      "us/south-carolina/myrtle-beach"
+    ],
+    "67,-163": [
+      "us/south-carolina/columbia"
+    ],
+    "67,-162": [
+      "us/south-carolina/columbia"
+    ],
+    "68,-163": [
+      "us/south-carolina/columbia"
+    ],
+    "68,-162": [
+      "us/south-carolina/columbia"
+    ],
+    "69,-165": [
+      "us/south-carolina/greenville"
+    ],
+    "88,-207": [
+      "us/south-dakota/rapid-city"
+    ],
+    "87,-194": [
+      "us/south-dakota/sioux-falls"
+    ],
+    "72,-174": [
+      "us/tennessee/nashville"
+    ],
+    "70,-181": [
+      "us/tennessee/memphis"
+    ],
+    "70,-180": [
+      "us/tennessee/memphis"
+    ],
+    "71,-168": [
+      "us/tennessee/gatlinburg",
+      "us/tennessee/knoxville"
+    ],
+    "72,-168": [
+      "us/tennessee/knoxville"
+    ],
+    "70,-171": [
+      "us/tennessee/chattanooga"
+    ],
+    "71,-167": [
+      "us/tennessee/gatlinburg"
+    ],
     "60,-196": [
       "us/texas/austin"
     ],
@@ -1743,6 +2199,42 @@
     ],
     "66,-195": [
       "us/texas/denton"
+    ],
+    "81,-224": [
+      "us/utah/park-city",
+      "us/utah/salt-lake-city"
+    ],
+    "77,-220": [
+      "us/utah/moab"
+    ],
+    "77,-219": [
+      "us/utah/moab"
+    ],
+    "81,-223": [
+      "us/utah/park-city"
+    ],
+    "74,-227": [
+      "us/utah/springdale",
+      "us/utah/st-george"
+    ],
+    "74,-226": [
+      "us/utah/springdale"
+    ],
+    "74,-228": [
+      "us/utah/st-george"
+    ],
+    "88,-147": [
+      "us/vermont/burlington"
+    ],
+    "89,-147": [
+      "us/vermont/burlington"
+    ],
+    "88,-146": [
+      "us/vermont/montpelier",
+      "us/vermont/stowe"
+    ],
+    "89,-146": [
+      "us/vermont/stowe"
     ]
   }
 }

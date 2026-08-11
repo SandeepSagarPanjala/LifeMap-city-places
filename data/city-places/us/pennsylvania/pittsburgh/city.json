@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/pennsylvania/pittsburgh",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "PA",
+  "stateName": "Pennsylvania",
+  "cityName": "Pittsburgh",
+  "bbox": {
+    "minLat": 40.4,
+    "minLng": -80.05,
+    "maxLat": 40.5,
+    "maxLng": -79.9
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "point-state-park",
+      "name": "Point State Park",
+      "lat": 40.4418,
+      "lng": -80.0128,
+      "radiusM": 200,
+      "address": "601 Commonwealth Pl, Pittsburgh, PA",
+      "howTo": "Visit Point State Park.",
+      "badge": "badges/point-state-park.png"
+    },
+    {
+      "id": "duquesne-incline",
+      "name": "Duquesne Incline",
+      "lat": 40.4392,
+      "lng": -80.018,
+      "radiusM": 120,
+      "address": "1197 W Carson St, Pittsburgh, PA",
+      "howTo": "Ride the Duquesne Incline.",
+      "badge": "badges/duquesne-incline.png"
+    },
+    {
+      "id": "phipps-conservatory",
+      "name": "Phipps Conservatory",
+      "lat": 40.439,
+      "lng": -79.9475,
+      "radiusM": 200,
+      "address": "1 Schenley Park, Pittsburgh, PA",
+      "howTo": "Visit Phipps Conservatory.",
+      "badge": "badges/phipps-conservatory.png"
+    },
+    {
+      "id": "andy-warhol-museum",
+      "name": "The Andy Warhol Museum",
+      "lat": 40.4485,
+      "lng": -80.0025,
+      "radiusM": 120,
+      "address": "117 Sandusky St, Pittsburgh, PA",
+      "howTo": "Visit The Andy Warhol Museum.",
+      "badge": "badges/andy-warhol-museum.png"
+    },
+    {
+      "id": "cathedral-of-learning",
+      "name": "Cathedral of Learning",
+      "lat": 40.4443,
+      "lng": -79.9532,
+      "radiusM": 150,
+      "address": "4200 Fifth Ave, Pittsburgh, PA",
+      "howTo": "Visit the Cathedral of Learning.",
+      "badge": "badges/cathedral-of-learning.png"
+    },
+    {
+      "id": "pnc-park",
+      "name": "PNC Park",
+      "lat": 40.4469,
+      "lng": -80.0057,
+      "radiusM": 200,
+      "address": "115 Federal St, Pittsburgh, PA",
+      "howTo": "Visit PNC Park.",
+      "badge": "badges/pnc-park.png"
+    }
+  ]
+}

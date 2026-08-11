@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/tennessee/knoxville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TN",
+  "stateName": "Tennessee",
+  "cityName": "Knoxville",
+  "bbox": {
+    "minLat": 35.94,
+    "minLng": -84.0,
+    "maxLat": 36.02,
+    "maxLng": -83.88
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sunsphere",
+      "name": "Sunsphere",
+      "lat": 35.9615,
+      "lng": -83.9245,
+      "radiusM": 120,
+      "address": "810 Clinch Ave, Knoxville, TN",
+      "howTo": "Visit the Sunsphere.",
+      "badge": "badges/sunsphere.png"
+    },
+    {
+      "id": "worlds-fair-park",
+      "name": "World's Fair Park",
+      "lat": 35.961,
+      "lng": -83.924,
+      "radiusM": 250,
+      "address": "World's Fair Park, Knoxville, TN",
+      "howTo": "Visit World's Fair Park.",
+      "badge": "badges/worlds-fair-park.png"
+    },
+    {
+      "id": "university-of-tennessee",
+      "name": "University of Tennessee",
+      "lat": 35.9544,
+      "lng": -83.9295,
+      "radiusM": 250,
+      "address": "Knoxville, TN",
+      "howTo": "Visit the University of Tennessee campus.",
+      "badge": "badges/university-of-tennessee.png"
+    },
+    {
+      "id": "market-square-knoxville",
+      "name": "Market Square",
+      "lat": 35.9655,
+      "lng": -83.9195,
+      "radiusM": 150,
+      "address": "Market Square, Knoxville, TN",
+      "howTo": "Visit Market Square.",
+      "badge": "badges/market-square-knoxville.png"
+    }
+  ]
+}

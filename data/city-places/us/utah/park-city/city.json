@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "us/utah/park-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "UT",
+  "stateName": "Utah",
+  "cityName": "Park City",
+  "bbox": {
+    "minLat": 40.62,
+    "minLng": -111.52,
+    "maxLat": 40.68,
+    "maxLng": -111.48
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "main-street-park-city",
+      "name": "Historic Main Street",
+      "lat": 40.6465,
+      "lng": -111.4985,
+      "radiusM": 200,
+      "address": "Main St, Park City, UT",
+      "howTo": "Walk Historic Main Street.",
+      "badge": "badges/main-street-park-city.png"
+    },
+    {
+      "id": "utah-olympic-park",
+      "name": "Utah Olympic Park",
+      "lat": 40.7105,
+      "lng": -111.5555,
+      "radiusM": 250,
+      "address": "3419 Olympic Pkwy, Park City, UT",
+      "howTo": "Visit Utah Olympic Park.",
+      "badge": "badges/utah-olympic-park.png"
+    },
+    {
+      "id": "park-city-mountain",
+      "name": "Park City Mountain",
+      "lat": 40.6515,
+      "lng": -111.5085,
+      "radiusM": 300,
+      "address": "Park City Mountain, UT",
+      "howTo": "Visit Park City Mountain.",
+      "badge": "badges/park-city-mountain.png"
+    }
+  ]
+}

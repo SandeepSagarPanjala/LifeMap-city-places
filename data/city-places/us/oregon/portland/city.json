@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/oregon/portland",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OR",
+  "stateName": "Oregon",
+  "cityName": "Portland",
+  "bbox": {
+    "minLat": 45.45,
+    "minLng": -122.8,
+    "maxLat": 45.6,
+    "maxLng": -122.5
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "japanese-garden",
+      "name": "Portland Japanese Garden",
+      "lat": 45.5189,
+      "lng": -122.708,
+      "radiusM": 200,
+      "address": "611 SW Kingston Ave, Portland, OR",
+      "howTo": "Visit the Portland Japanese Garden.",
+      "badge": "badges/japanese-garden.png"
+    },
+    {
+      "id": "international-rose-test-garden",
+      "name": "International Rose Test Garden",
+      "lat": 45.5188,
+      "lng": -122.7053,
+      "radiusM": 200,
+      "address": "400 SW Kingston Ave, Portland, OR",
+      "howTo": "Visit the International Rose Test Garden.",
+      "badge": "badges/international-rose-test-garden.png"
+    },
+    {
+      "id": "pittock-mansion",
+      "name": "Pittock Mansion",
+      "lat": 45.5251,
+      "lng": -122.7163,
+      "radiusM": 150,
+      "address": "3229 NW Pittock Dr, Portland, OR",
+      "howTo": "Visit Pittock Mansion.",
+      "badge": "badges/pittock-mansion.png"
+    },
+    {
+      "id": "waterfront-park-portland",
+      "name": "Tom McCall Waterfront Park",
+      "lat": 45.5155,
+      "lng": -122.6735,
+      "radiusM": 250,
+      "address": "Waterfront Park, Portland, OR",
+      "howTo": "Visit Tom McCall Waterfront Park.",
+      "badge": "badges/waterfront-park-portland.png"
+    },
+    {
+      "id": "pioneer-courthouse-square",
+      "name": "Pioneer Courthouse Square",
+      "lat": 45.5188,
+      "lng": -122.679,
+      "radiusM": 120,
+      "address": "701 SW 6th Ave, Portland, OR",
+      "howTo": "Visit Pioneer Courthouse Square.",
+      "badge": "badges/pioneer-courthouse-square.png"
+    },
+    {
+      "id": "forest-park",
+      "name": "Forest Park",
+      "lat": 45.5485,
+      "lng": -122.7365,
+      "radiusM": 400,
+      "address": "Forest Park, Portland, OR",
+      "howTo": "Visit Forest Park.",
+      "badge": "badges/forest-park.png"
+    }
+  ]
+}

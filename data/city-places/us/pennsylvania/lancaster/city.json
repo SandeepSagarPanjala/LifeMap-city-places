@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/pennsylvania/lancaster",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "PA",
+  "stateName": "Pennsylvania",
+  "cityName": "Lancaster",
+  "bbox": {
+    "minLat": 40.02,
+    "minLng": -76.35,
+    "maxLat": 40.07,
+    "maxLng": -76.28
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "central-market-lancaster",
+      "name": "Central Market",
+      "lat": 40.0385,
+      "lng": -76.3075,
+      "radiusM": 120,
+      "address": "23 N Market St, Lancaster, PA",
+      "howTo": "Visit Lancaster Central Market.",
+      "badge": "badges/central-market-lancaster.png"
+    },
+    {
+      "id": "wheatland",
+      "name": "Wheatland",
+      "lat": 40.0495,
+      "lng": -76.3305,
+      "radiusM": 120,
+      "address": "1120 Marietta Ave, Lancaster, PA",
+      "howTo": "Visit Wheatland.",
+      "badge": "badges/wheatland.png"
+    },
+    {
+      "id": "penn-square",
+      "name": "Penn Square",
+      "lat": 40.038,
+      "lng": -76.3065,
+      "radiusM": 120,
+      "address": "Penn Square, Lancaster, PA",
+      "howTo": "Visit Penn Square.",
+      "badge": "badges/penn-square.png"
+    },
+    {
+      "id": "lancaster-county-central-park",
+      "name": "Lancaster County Central Park",
+      "lat": 40.0155,
+      "lng": -76.2855,
+      "radiusM": 300,
+      "address": "950 N Duke St area / Central Park, Lancaster, PA",
+      "howTo": "Visit Lancaster County Central Park.",
+      "badge": "badges/lancaster-county-central-park.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "us/utah/springdale",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "UT",
+  "stateName": "Utah",
+  "cityName": "Springdale",
+  "bbox": {
+    "minLat": 37.16,
+    "minLng": -113.02,
+    "maxLat": 37.22,
+    "maxLng": -112.98
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zion-national-park",
+      "name": "Zion National Park",
+      "lat": 37.2982,
+      "lng": -113.0263,
+      "radiusM": 400,
+      "address": "Zion National Park, UT",
+      "howTo": "Visit Zion National Park.",
+      "badge": "badges/zion-national-park.png"
+    },
+    {
+      "id": "zion-canyon",
+      "name": "Zion Canyon",
+      "lat": 37.2505,
+      "lng": -112.9565,
+      "radiusM": 300,
+      "address": "Zion Canyon, Springdale, UT",
+      "howTo": "Visit Zion Canyon.",
+      "badge": "badges/zion-canyon.png"
+    },
+    {
+      "id": "watchman",
+      "name": "The Watchman",
+      "lat": 37.2005,
+      "lng": -112.9865,
+      "radiusM": 250,
+      "address": "Zion National Park, UT",
+      "howTo": "See The Watchman near Springdale.",
+      "badge": "badges/watchman.png"
+    }
+  ]
+}

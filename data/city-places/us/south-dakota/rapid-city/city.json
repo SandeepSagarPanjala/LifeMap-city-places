@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-dakota/rapid-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SD",
+  "stateName": "South Dakota",
+  "cityName": "Rapid City",
+  "bbox": {
+    "minLat": 44.04,
+    "minLng": -103.28,
+    "maxLat": 44.12,
+    "maxLng": -103.18
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-rushmore",
+      "name": "Mount Rushmore National Memorial",
+      "lat": 43.8791,
+      "lng": -103.4591,
+      "radiusM": 300,
+      "address": "13000 SD-244, Keystone, SD",
+      "howTo": "Visit Mount Rushmore.",
+      "badge": "badges/mount-rushmore.png"
+    },
+    {
+      "id": "dinosaur-park",
+      "name": "Dinosaur Park",
+      "lat": 44.0885,
+      "lng": -103.2455,
+      "radiusM": 150,
+      "address": "940 Skyline Dr, Rapid City, SD",
+      "howTo": "Visit Dinosaur Park.",
+      "badge": "badges/dinosaur-park.png"
+    },
+    {
+      "id": "main-street-square",
+      "name": "Main Street Square",
+      "lat": 44.0805,
+      "lng": -103.2285,
+      "radiusM": 150,
+      "address": "Main Street Square, Rapid City, SD",
+      "howTo": "Visit Main Street Square.",
+      "badge": "badges/main-street-square.png"
+    },
+    {
+      "id": "chapel-in-the-hills",
+      "name": "Chapel in the Hills",
+      "lat": 44.0515,
+      "lng": -103.2685,
+      "radiusM": 120,
+      "address": "3788 Chapel Ln, Rapid City, SD",
+      "howTo": "Visit Chapel in the Hills.",
+      "badge": "badges/chapel-in-the-hills.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-carolina/columbia",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SC",
+  "stateName": "South Carolina",
+  "cityName": "Columbia",
+  "bbox": {
+    "minLat": 33.98,
+    "minLng": -81.08,
+    "maxLat": 34.05,
+    "maxLng": -80.98
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "south-carolina-state-house",
+      "name": "South Carolina State House",
+      "lat": 34.0004,
+      "lng": -81.0331,
+      "radiusM": 150,
+      "address": "1100 Gervais St, Columbia, SC",
+      "howTo": "Visit the South Carolina State House.",
+      "badge": "badges/south-carolina-state-house.png"
+    },
+    {
+      "id": "riverbanks-zoo",
+      "name": "Riverbanks Zoo and Garden",
+      "lat": 34.0095,
+      "lng": -81.0735,
+      "radiusM": 250,
+      "address": "500 Wildlife Pkwy, Columbia, SC",
+      "howTo": "Visit Riverbanks Zoo and Garden.",
+      "badge": "badges/riverbanks-zoo.png"
+    },
+    {
+      "id": "finlay-park",
+      "name": "Finlay Park",
+      "lat": 34.0085,
+      "lng": -81.0385,
+      "radiusM": 200,
+      "address": "930 Laurel St, Columbia, SC",
+      "howTo": "Visit Finlay Park.",
+      "badge": "badges/finlay-park.png"
+    },
+    {
+      "id": "university-of-south-carolina",
+      "name": "University of South Carolina",
+      "lat": 33.997,
+      "lng": -81.027,
+      "radiusM": 250,
+      "address": "Columbia, SC",
+      "howTo": "Visit the University of South Carolina campus.",
+      "badge": "badges/university-of-south-carolina.png"
+    }
+  ]
+}

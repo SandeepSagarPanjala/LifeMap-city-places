@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/oklahoma/oklahoma-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OK",
+  "stateName": "Oklahoma",
+  "cityName": "Oklahoma City",
+  "bbox": {
+    "minLat": 35.42,
+    "minLng": -97.6,
+    "maxLat": 35.55,
+    "maxLng": -97.45
+  },
+  "updatedAt": "2026-08-11T13:48:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "okc-national-memorial",
+      "name": "Oklahoma City National Memorial",
+      "lat": 35.4725,
+      "lng": -97.517,
+      "radiusM": 200,
+      "address": "620 N Harvey Ave, Oklahoma City, OK",
+      "howTo": "Visit the Oklahoma City National Memorial.",
+      "badge": "badges/okc-national-memorial.png"
+    },
+    {
+      "id": "oklahoma-state-capitol",
+      "name": "Oklahoma State Capitol",
+      "lat": 35.4922,
+      "lng": -97.5033,
+      "radiusM": 150,
+      "address": "2300 N Lincoln Blvd, Oklahoma City, OK",
+      "howTo": "Visit the Oklahoma State Capitol.",
+      "badge": "badges/oklahoma-state-capitol.png"
+    },
+    {
+      "id": "bricktown",
+      "name": "Bricktown",
+      "lat": 35.4655,
+      "lng": -97.5105,
+      "radiusM": 250,
+      "address": "Bricktown, Oklahoma City, OK",
+      "howTo": "Visit Bricktown.",
+      "badge": "badges/bricktown.png"
+    },
+    {
+      "id": "myriad-botanical-gardens",
+      "name": "Myriad Botanical Gardens",
+      "lat": 35.4665,
+      "lng": -97.5155,
+      "radiusM": 200,
+      "address": "301 W Reno Ave, Oklahoma City, OK",
+      "howTo": "Visit Myriad Botanical Gardens.",
+      "badge": "badges/myriad-botanical-gardens.png"
+    },
+    {
+      "id": "scissortail-park",
+      "name": "Scissortail Park",
+      "lat": 35.4605,
+      "lng": -97.5155,
+      "radiusM": 250,
+      "address": "Scissortail Park, Oklahoma City, OK",
+      "howTo": "Visit Scissortail Park.",
+      "badge": "badges/scissortail-park.png"
+    }
+  ]
+}

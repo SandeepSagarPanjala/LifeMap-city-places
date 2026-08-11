@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/tennessee/memphis",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TN",
+  "stateName": "Tennessee",
+  "cityName": "Memphis",
+  "bbox": {
+    "minLat": 35.05,
+    "minLng": -90.12,
+    "maxLat": 35.2,
+    "maxLng": -89.9
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "graceland",
+      "name": "Graceland",
+      "lat": 35.0477,
+      "lng": -90.026,
+      "radiusM": 200,
+      "address": "3734 Elvis Presley Blvd, Memphis, TN",
+      "howTo": "Visit Graceland.",
+      "badge": "badges/graceland.png"
+    },
+    {
+      "id": "beale-street",
+      "name": "Beale Street",
+      "lat": 35.1395,
+      "lng": -90.0515,
+      "radiusM": 200,
+      "address": "Beale St, Memphis, TN",
+      "howTo": "Walk Beale Street.",
+      "badge": "badges/beale-street.png"
+    },
+    {
+      "id": "national-civil-rights-museum",
+      "name": "National Civil Rights Museum",
+      "lat": 35.1347,
+      "lng": -90.0575,
+      "radiusM": 150,
+      "address": "450 Mulberry St, Memphis, TN",
+      "howTo": "Visit the National Civil Rights Museum.",
+      "badge": "badges/national-civil-rights-museum.png"
+    },
+    {
+      "id": "sun-studio",
+      "name": "Sun Studio",
+      "lat": 35.139,
+      "lng": -90.0375,
+      "radiusM": 100,
+      "address": "706 Union Ave, Memphis, TN",
+      "howTo": "Visit Sun Studio.",
+      "badge": "badges/sun-studio.png"
+    },
+    {
+      "id": "tom-lee-park",
+      "name": "Tom Lee Park",
+      "lat": 35.1335,
+      "lng": -90.0625,
+      "radiusM": 250,
+      "address": "Tom Lee Park, Memphis, TN",
+      "howTo": "Visit Tom Lee Park.",
+      "badge": "badges/tom-lee-park.png"
+    },
+    {
+      "id": "memphis-zoo",
+      "name": "Memphis Zoo",
+      "lat": 35.15,
+      "lng": -89.9945,
+      "radiusM": 250,
+      "address": "2000 Prentiss Pl, Memphis, TN",
+      "howTo": "Visit the Memphis Zoo.",
+      "badge": "badges/memphis-zoo.png"
+    }
+  ]
+}

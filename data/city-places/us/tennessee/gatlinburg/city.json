@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/tennessee/gatlinburg",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TN",
+  "stateName": "Tennessee",
+  "cityName": "Gatlinburg",
+  "bbox": {
+    "minLat": 35.68,
+    "minLng": -83.55,
+    "maxLat": 35.75,
+    "maxLng": -83.48
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "great-smoky-mountains",
+      "name": "Great Smoky Mountains National Park",
+      "lat": 35.6869,
+      "lng": -83.5369,
+      "radiusM": 400,
+      "address": "Sugarlands Visitor Center, Gatlinburg, TN",
+      "howTo": "Visit Great Smoky Mountains National Park.",
+      "badge": "badges/great-smoky-mountains.png"
+    },
+    {
+      "id": "gatlinburg-skybridge",
+      "name": "Gatlinburg SkyBridge",
+      "lat": 35.7145,
+      "lng": -83.4985,
+      "radiusM": 150,
+      "address": "Gatlinburg SkyLift Park, Gatlinburg, TN",
+      "howTo": "Visit the Gatlinburg SkyBridge.",
+      "badge": "badges/gatlinburg-skybridge.png"
+    },
+    {
+      "id": "anakeesta",
+      "name": "Anakeesta",
+      "lat": 35.7135,
+      "lng": -83.5105,
+      "radiusM": 200,
+      "address": "576 Parkway, Gatlinburg, TN",
+      "howTo": "Visit Anakeesta.",
+      "badge": "badges/anakeesta.png"
+    },
+    {
+      "id": "roaring-fork",
+      "name": "Roaring Fork Motor Nature Trail",
+      "lat": 35.7055,
+      "lng": -83.4655,
+      "radiusM": 300,
+      "address": "Roaring Fork, Gatlinburg, TN",
+      "howTo": "Drive the Roaring Fork Motor Nature Trail.",
+      "badge": "badges/roaring-fork.png"
+    }
+  ]
+}

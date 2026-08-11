@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/pennsylvania/gettysburg",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "PA",
+  "stateName": "Pennsylvania",
+  "cityName": "Gettysburg",
+  "bbox": {
+    "minLat": 39.8,
+    "minLng": -77.28,
+    "maxLat": 39.85,
+    "maxLng": -77.2
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gettysburg-national-military-park",
+      "name": "Gettysburg National Military Park",
+      "lat": 39.8115,
+      "lng": -77.2255,
+      "radiusM": 400,
+      "address": "1195 Baltimore Pike, Gettysburg, PA",
+      "howTo": "Visit Gettysburg National Military Park.",
+      "badge": "badges/gettysburg-national-military-park.png"
+    },
+    {
+      "id": "gettysburg-national-cemetery",
+      "name": "Gettysburg National Cemetery",
+      "lat": 39.8215,
+      "lng": -77.2315,
+      "radiusM": 200,
+      "address": "97 Taneytown Rd, Gettysburg, PA",
+      "howTo": "Visit Gettysburg National Cemetery.",
+      "badge": "badges/gettysburg-national-cemetery.png"
+    },
+    {
+      "id": "eternal-light-peace-memorial",
+      "name": "Eternal Light Peace Memorial",
+      "lat": 39.8485,
+      "lng": -77.2435,
+      "radiusM": 150,
+      "address": "Gettysburg National Military Park, PA",
+      "howTo": "Visit the Eternal Light Peace Memorial.",
+      "badge": "badges/eternal-light-peace-memorial.png"
+    },
+    {
+      "id": "gettysburg-lincoln-train-station",
+      "name": "Gettysburg Lincoln Train Station",
+      "lat": 39.8315,
+      "lng": -77.231,
+      "radiusM": 100,
+      "address": "35 Carlisle St, Gettysburg, PA",
+      "howTo": "Visit the Gettysburg Lincoln Train Station.",
+      "badge": "badges/gettysburg-lincoln-train-station.png"
+    }
+  ]
+}

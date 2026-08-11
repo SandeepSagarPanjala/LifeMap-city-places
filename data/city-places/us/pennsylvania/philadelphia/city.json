@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/pennsylvania/philadelphia",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "PA",
+  "stateName": "Pennsylvania",
+  "cityName": "Philadelphia",
+  "bbox": {
+    "minLat": 39.9,
+    "minLng": -75.25,
+    "maxLat": 40.05,
+    "maxLng": -75.1
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "liberty-bell",
+      "name": "Liberty Bell",
+      "lat": 39.9496,
+      "lng": -75.1503,
+      "radiusM": 100,
+      "address": "526 Market St, Philadelphia, PA",
+      "howTo": "Visit the Liberty Bell.",
+      "badge": "badges/liberty-bell.png"
+    },
+    {
+      "id": "independence-hall",
+      "name": "Independence Hall",
+      "lat": 39.9489,
+      "lng": -75.15,
+      "radiusM": 150,
+      "address": "520 Chestnut St, Philadelphia, PA",
+      "howTo": "Visit Independence Hall.",
+      "badge": "badges/independence-hall.png"
+    },
+    {
+      "id": "philadelphia-museum-of-art",
+      "name": "Philadelphia Museum of Art",
+      "lat": 39.9656,
+      "lng": -75.181,
+      "radiusM": 200,
+      "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA",
+      "howTo": "Visit the Philadelphia Museum of Art.",
+      "badge": "badges/philadelphia-museum-of-art.png"
+    },
+    {
+      "id": "city-hall-philadelphia",
+      "name": "Philadelphia City Hall",
+      "lat": 39.9526,
+      "lng": -75.1636,
+      "radiusM": 150,
+      "address": "1400 John F Kennedy Blvd, Philadelphia, PA",
+      "howTo": "Visit Philadelphia City Hall.",
+      "badge": "badges/city-hall-philadelphia.png"
+    },
+    {
+      "id": "independence-national-historical-park",
+      "name": "Independence National Historical Park",
+      "lat": 39.9485,
+      "lng": -75.15,
+      "radiusM": 250,
+      "address": "Philadelphia, PA",
+      "howTo": "Visit Independence National Historical Park.",
+      "badge": "badges/independence-national-historical-park.png"
+    },
+    {
+      "id": "love-park",
+      "name": "Love Park",
+      "lat": 39.9545,
+      "lng": -75.1655,
+      "radiusM": 120,
+      "address": "JFK Plaza, Philadelphia, PA",
+      "howTo": "Visit Love Park.",
+      "badge": "badges/love-park.png"
+    },
+    {
+      "id": "reading-terminal-market",
+      "name": "Reading Terminal Market",
+      "lat": 39.9535,
+      "lng": -75.1595,
+      "radiusM": 150,
+      "address": "51 N 12th St, Philadelphia, PA",
+      "howTo": "Visit Reading Terminal Market.",
+      "badge": "badges/reading-terminal-market.png"
+    },
+    {
+      "id": "boathouse-row",
+      "name": "Boathouse Row",
+      "lat": 39.9705,
+      "lng": -75.1885,
+      "radiusM": 200,
+      "address": "Boathouse Row, Philadelphia, PA",
+      "howTo": "Visit Boathouse Row.",
+      "badge": "badges/boathouse-row.png"
+    }
+  ]
+}

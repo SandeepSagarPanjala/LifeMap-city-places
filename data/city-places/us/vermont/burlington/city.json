@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/vermont/burlington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VT",
+  "stateName": "Vermont",
+  "cityName": "Burlington",
+  "bbox": {
+    "minLat": 44.45,
+    "minLng": -73.25,
+    "maxLat": 44.5,
+    "maxLng": -73.18
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "church-street-marketplace",
+      "name": "Church Street Marketplace",
+      "lat": 44.4765,
+      "lng": -73.2125,
+      "radiusM": 150,
+      "address": "Church St, Burlington, VT",
+      "howTo": "Visit Church Street Marketplace.",
+      "badge": "badges/church-street-marketplace.png"
+    },
+    {
+      "id": "waterfront-park-burlington",
+      "name": "Waterfront Park",
+      "lat": 44.4785,
+      "lng": -73.2235,
+      "radiusM": 200,
+      "address": "Waterfront Park, Burlington, VT",
+      "howTo": "Visit Waterfront Park.",
+      "badge": "badges/waterfront-park-burlington.png"
+    },
+    {
+      "id": "university-of-vermont",
+      "name": "University of Vermont",
+      "lat": 44.4778,
+      "lng": -73.1965,
+      "radiusM": 250,
+      "address": "Burlington, VT",
+      "howTo": "Visit the University of Vermont campus.",
+      "badge": "badges/university-of-vermont.png"
+    },
+    {
+      "id": "ethan-allen-homestead",
+      "name": "Ethan Allen Homestead",
+      "lat": 44.5085,
+      "lng": -73.2315,
+      "radiusM": 150,
+      "address": "1 Ethan Allen Homestead, Burlington, VT",
+      "howTo": "Visit the Ethan Allen Homestead.",
+      "badge": "badges/ethan-allen-homestead.png"
+    }
+  ]
+}

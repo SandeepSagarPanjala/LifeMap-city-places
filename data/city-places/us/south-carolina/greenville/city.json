@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-carolina/greenville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SC",
+  "stateName": "South Carolina",
+  "cityName": "Greenville",
+  "bbox": {
+    "minLat": 34.82,
+    "minLng": -82.42,
+    "maxLat": 34.88,
+    "maxLng": -82.36
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "falls-park-on-the-reedy",
+      "name": "Falls Park on the Reedy",
+      "lat": 34.8455,
+      "lng": -82.4015,
+      "radiusM": 200,
+      "address": "601 S Main St, Greenville, SC",
+      "howTo": "Visit Falls Park on the Reedy.",
+      "badge": "badges/falls-park-on-the-reedy.png"
+    },
+    {
+      "id": "liberty-bridge",
+      "name": "Liberty Bridge",
+      "lat": 34.8445,
+      "lng": -82.401,
+      "radiusM": 120,
+      "address": "Falls Park, Greenville, SC",
+      "howTo": "Walk the Liberty Bridge.",
+      "badge": "badges/liberty-bridge.png"
+    },
+    {
+      "id": "main-street-greenville",
+      "name": "Main Street Greenville",
+      "lat": 34.8505,
+      "lng": -82.4005,
+      "radiusM": 200,
+      "address": "Main St, Greenville, SC",
+      "howTo": "Walk Main Street in Greenville.",
+      "badge": "badges/main-street-greenville.png"
+    },
+    {
+      "id": "swamp-rabbit-trail",
+      "name": "Swamp Rabbit Trail",
+      "lat": 34.8525,
+      "lng": -82.4025,
+      "radiusM": 250,
+      "address": "Swamp Rabbit Trail, Greenville, SC",
+      "howTo": "Walk the Swamp Rabbit Trail.",
+      "badge": "badges/swamp-rabbit-trail.png"
+    }
+  ]
+}

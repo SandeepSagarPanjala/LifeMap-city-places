@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/rhode-island/newport",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "RI",
+  "stateName": "Rhode Island",
+  "cityName": "Newport",
+  "bbox": {
+    "minLat": 41.45,
+    "minLng": -71.35,
+    "maxLat": 41.52,
+    "maxLng": -71.28
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "the-breakers",
+      "name": "The Breakers",
+      "lat": 41.4698,
+      "lng": -71.2985,
+      "radiusM": 200,
+      "address": "44 Ochre Point Ave, Newport, RI",
+      "howTo": "Visit The Breakers.",
+      "badge": "badges/the-breakers.png"
+    },
+    {
+      "id": "cliff-walk",
+      "name": "Cliff Walk",
+      "lat": 41.4665,
+      "lng": -71.2985,
+      "radiusM": 300,
+      "address": "Cliff Walk, Newport, RI",
+      "howTo": "Walk the Cliff Walk.",
+      "badge": "badges/cliff-walk.png"
+    },
+    {
+      "id": "fort-adams",
+      "name": "Fort Adams State Park",
+      "lat": 41.4785,
+      "lng": -71.3375,
+      "radiusM": 250,
+      "address": "90 Fort Adams Dr, Newport, RI",
+      "howTo": "Visit Fort Adams State Park.",
+      "badge": "badges/fort-adams.png"
+    },
+    {
+      "id": "international-tennis-hall-of-fame",
+      "name": "International Tennis Hall of Fame",
+      "lat": 41.4825,
+      "lng": -71.3085,
+      "radiusM": 150,
+      "address": "194 Bellevue Ave, Newport, RI",
+      "howTo": "Visit the International Tennis Hall of Fame.",
+      "badge": "badges/international-tennis-hall-of-fame.png"
+    },
+    {
+      "id": "ocean-drive-newport",
+      "name": "Ocean Drive",
+      "lat": 41.4555,
+      "lng": -71.3255,
+      "radiusM": 300,
+      "address": "Ocean Dr, Newport, RI",
+      "howTo": "Drive Ocean Drive.",
+      "badge": "badges/ocean-drive-newport.png"
+    }
+  ]
+}

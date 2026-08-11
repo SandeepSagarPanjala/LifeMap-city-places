@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/utah/st-george",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "UT",
+  "stateName": "Utah",
+  "cityName": "St. George",
+  "bbox": {
+    "minLat": 37.05,
+    "minLng": -113.62,
+    "maxLat": 37.15,
+    "maxLng": -113.5
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "snow-canyon",
+      "name": "Snow Canyon State Park",
+      "lat": 37.2155,
+      "lng": -113.6455,
+      "radiusM": 400,
+      "address": "1002 Snow Canyon Dr, Ivins, UT",
+      "howTo": "Visit Snow Canyon State Park.",
+      "badge": "badges/snow-canyon.png"
+    },
+    {
+      "id": "pioneer-park-st-george",
+      "name": "Pioneer Park",
+      "lat": 37.1085,
+      "lng": -113.5685,
+      "radiusM": 200,
+      "address": "Pioneer Park, St. George, UT",
+      "howTo": "Visit Pioneer Park.",
+      "badge": "badges/pioneer-park-st-george.png"
+    },
+    {
+      "id": "sand-hollow",
+      "name": "Sand Hollow State Park",
+      "lat": 37.1185,
+      "lng": -113.3705,
+      "radiusM": 400,
+      "address": "Sand Hollow State Park, UT",
+      "howTo": "Visit Sand Hollow State Park.",
+      "badge": "badges/sand-hollow.png"
+    },
+    {
+      "id": "st-george-temple",
+      "name": "St. George Utah Temple",
+      "lat": 37.1045,
+      "lng": -113.5825,
+      "radiusM": 120,
+      "address": "250 E 400 S, St. George, UT",
+      "howTo": "Visit the St. George Utah Temple grounds.",
+      "badge": "badges/st-george-temple.png"
+    }
+  ]
+}

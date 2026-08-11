@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "us/vermont/montpelier",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VT",
+  "stateName": "Vermont",
+  "cityName": "Montpelier",
+  "bbox": {
+    "minLat": 44.25,
+    "minLng": -72.6,
+    "maxLat": 44.28,
+    "maxLng": -72.55
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vermont-state-house",
+      "name": "Vermont State House",
+      "lat": 44.2624,
+      "lng": -72.5805,
+      "radiusM": 150,
+      "address": "115 State St, Montpelier, VT",
+      "howTo": "Visit the Vermont State House.",
+      "badge": "badges/vermont-state-house.png"
+    },
+    {
+      "id": "hubbard-park",
+      "name": "Hubbard Park",
+      "lat": 44.2705,
+      "lng": -72.5755,
+      "radiusM": 250,
+      "address": "Hubbard Park, Montpelier, VT",
+      "howTo": "Visit Hubbard Park.",
+      "badge": "badges/hubbard-park.png"
+    },
+    {
+      "id": "downtown-montpelier",
+      "name": "Downtown Montpelier",
+      "lat": 44.2605,
+      "lng": -72.5755,
+      "radiusM": 150,
+      "address": "State St, Montpelier, VT",
+      "howTo": "Explore downtown Montpelier.",
+      "badge": "badges/downtown-montpelier.png"
+    }
+  ]
+}

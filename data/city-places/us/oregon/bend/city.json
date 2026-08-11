@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/oregon/bend",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OR",
+  "stateName": "Oregon",
+  "cityName": "Bend",
+  "bbox": {
+    "minLat": 44.02,
+    "minLng": -121.35,
+    "maxLat": 44.1,
+    "maxLng": -121.25
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "drake-park",
+      "name": "Drake Park",
+      "lat": 44.0605,
+      "lng": -121.3155,
+      "radiusM": 200,
+      "address": "777 NW Riverside Blvd, Bend, OR",
+      "howTo": "Visit Drake Park.",
+      "badge": "badges/drake-park.png"
+    },
+    {
+      "id": "pilot-butte",
+      "name": "Pilot Butte",
+      "lat": 44.0605,
+      "lng": -121.2825,
+      "radiusM": 200,
+      "address": "Pilot Butte State Scenic Viewpoint, Bend, OR",
+      "howTo": "Visit Pilot Butte.",
+      "badge": "badges/pilot-butte.png"
+    },
+    {
+      "id": "deschutes-river-trail",
+      "name": "Deschutes River Trail",
+      "lat": 44.0555,
+      "lng": -121.3185,
+      "radiusM": 250,
+      "address": "Deschutes River Trail, Bend, OR",
+      "howTo": "Walk the Deschutes River Trail.",
+      "badge": "badges/deschutes-river-trail.png"
+    },
+    {
+      "id": "high-desert-museum",
+      "name": "High Desert Museum",
+      "lat": 43.9685,
+      "lng": -121.3425,
+      "radiusM": 200,
+      "address": "59800 S Hwy 97, Bend, OR",
+      "howTo": "Visit the High Desert Museum.",
+      "badge": "badges/high-desert-museum.png"
+    }
+  ]
+}

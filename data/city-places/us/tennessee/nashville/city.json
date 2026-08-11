@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/tennessee/nashville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "TN",
+  "stateName": "Tennessee",
+  "cityName": "Nashville",
+  "bbox": {
+    "minLat": 36.12,
+    "minLng": -86.9,
+    "maxLat": 36.22,
+    "maxLng": -86.72
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "country-music-hall-of-fame",
+      "name": "Country Music Hall of Fame and Museum",
+      "lat": 36.1585,
+      "lng": -86.7765,
+      "radiusM": 150,
+      "address": "222 Rep. John Lewis Way S, Nashville, TN",
+      "howTo": "Visit the Country Music Hall of Fame.",
+      "badge": "badges/country-music-hall-of-fame.png"
+    },
+    {
+      "id": "ryman-auditorium",
+      "name": "Ryman Auditorium",
+      "lat": 36.1612,
+      "lng": -86.7785,
+      "radiusM": 120,
+      "address": "116 5th Ave N, Nashville, TN",
+      "howTo": "Visit the Ryman Auditorium.",
+      "badge": "badges/ryman-auditorium.png"
+    },
+    {
+      "id": "the-parthenon",
+      "name": "The Parthenon",
+      "lat": 36.1495,
+      "lng": -86.8135,
+      "radiusM": 150,
+      "address": "2500 West End Ave, Nashville, TN",
+      "howTo": "Visit The Parthenon in Centennial Park.",
+      "badge": "badges/the-parthenon.png"
+    },
+    {
+      "id": "tennessee-state-capitol",
+      "name": "Tennessee State Capitol",
+      "lat": 36.1659,
+      "lng": -86.784,
+      "radiusM": 150,
+      "address": "600 Charlotte Ave, Nashville, TN",
+      "howTo": "Visit the Tennessee State Capitol.",
+      "badge": "badges/tennessee-state-capitol.png"
+    },
+    {
+      "id": "centennial-park",
+      "name": "Centennial Park",
+      "lat": 36.149,
+      "lng": -86.8125,
+      "radiusM": 250,
+      "address": "2500 West End Ave, Nashville, TN",
+      "howTo": "Visit Centennial Park.",
+      "badge": "badges/centennial-park.png"
+    },
+    {
+      "id": "broadway-nashville",
+      "name": "Broadway",
+      "lat": 36.1605,
+      "lng": -86.778,
+      "radiusM": 200,
+      "address": "Broadway, Nashville, TN",
+      "howTo": "Walk Broadway in Nashville.",
+      "badge": "badges/broadway-nashville.png"
+    }
+  ]
+}

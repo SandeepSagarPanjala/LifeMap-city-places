@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/utah/salt-lake-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "UT",
+  "stateName": "Utah",
+  "cityName": "Salt Lake City",
+  "bbox": {
+    "minLat": 40.72,
+    "minLng": -112.0,
+    "maxLat": 40.82,
+    "maxLng": -111.82
+  },
+  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "utah-state-capitol",
+      "name": "Utah State Capitol",
+      "lat": 40.7775,
+      "lng": -111.8882,
+      "radiusM": 150,
+      "address": "350 State St, Salt Lake City, UT",
+      "howTo": "Visit the Utah State Capitol.",
+      "badge": "badges/utah-state-capitol.png"
+    },
+    {
+      "id": "temple-square",
+      "name": "Temple Square",
+      "lat": 40.7705,
+      "lng": -111.8915,
+      "radiusM": 200,
+      "address": "Temple Square, Salt Lake City, UT",
+      "howTo": "Visit Temple Square.",
+      "badge": "badges/temple-square.png"
+    },
+    {
+      "id": "this-is-the-place",
+      "name": "This Is The Place Heritage Park",
+      "lat": 40.7535,
+      "lng": -111.8155,
+      "radiusM": 250,
+      "address": "2601 E Sunnyside Ave, Salt Lake City, UT",
+      "howTo": "Visit This Is The Place Heritage Park.",
+      "badge": "badges/this-is-the-place.png"
+    },
+    {
+      "id": "red-butte-garden",
+      "name": "Red Butte Garden",
+      "lat": 40.7665,
+      "lng": -111.8235,
+      "radiusM": 250,
+      "address": "300 Wakara Way, Salt Lake City, UT",
+      "howTo": "Visit Red Butte Garden.",
+      "badge": "badges/red-butte-garden.png"
+    },
+    {
+      "id": "natural-history-museum-of-utah",
+      "name": "Natural History Museum of Utah",
+      "lat": 40.7645,
+      "lng": -111.8215,
+      "radiusM": 150,
+      "address": "301 Wakara Way, Salt Lake City, UT",
+      "howTo": "Visit the Natural History Museum of Utah.",
+      "badge": "badges/natural-history-museum-of-utah.png"
+    }
+  ]
+}

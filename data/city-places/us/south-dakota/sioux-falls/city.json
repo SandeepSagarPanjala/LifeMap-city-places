@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-dakota/sioux-falls",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SD",
+  "stateName": "South Dakota",
+  "cityName": "Sioux Falls",
+  "bbox": {
+    "minLat": 43.52,
+    "minLng": -96.78,
+    "maxLat": 43.58,
+    "maxLng": -96.68
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "falls-park",
+      "name": "Falls Park",
+      "lat": 43.5585,
+      "lng": -96.7215,
+      "radiusM": 250,
+      "address": "131 E Falls Park Dr, Sioux Falls, SD",
+      "howTo": "Visit Falls Park.",
+      "badge": "badges/falls-park.png"
+    },
+    {
+      "id": "sculpturewalk",
+      "name": "SculptureWalk",
+      "lat": 43.5475,
+      "lng": -96.7285,
+      "radiusM": 200,
+      "address": "Downtown Sioux Falls, SD",
+      "howTo": "See SculptureWalk downtown.",
+      "badge": "badges/sculpturewalk.png"
+    },
+    {
+      "id": "washington-pavilion",
+      "name": "Washington Pavilion",
+      "lat": 43.5455,
+      "lng": -96.7285,
+      "radiusM": 120,
+      "address": "301 S Main Ave, Sioux Falls, SD",
+      "howTo": "Visit the Washington Pavilion.",
+      "badge": "badges/washington-pavilion.png"
+    },
+    {
+      "id": "great-plains-zoo",
+      "name": "Great Plains Zoo",
+      "lat": 43.5355,
+      "lng": -96.7485,
+      "radiusM": 200,
+      "address": "805 S Kiwanis Ave, Sioux Falls, SD",
+      "howTo": "Visit the Great Plains Zoo.",
+      "badge": "badges/great-plains-zoo.png"
+    }
+  ]
+}

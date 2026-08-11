@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "us/oregon/ashland",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OR",
+  "stateName": "Oregon",
+  "cityName": "Ashland",
+  "bbox": {
+    "minLat": 42.18,
+    "minLng": -122.73,
+    "maxLat": 42.22,
+    "maxLng": -122.68
+  },
+  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lithia-park",
+      "name": "Lithia Park",
+      "lat": 42.1945,
+      "lng": -122.7155,
+      "radiusM": 250,
+      "address": "Lithia Park, Ashland, OR",
+      "howTo": "Visit Lithia Park.",
+      "badge": "badges/lithia-park.png"
+    },
+    {
+      "id": "oregon-shakespeare-festival",
+      "name": "Oregon Shakespeare Festival",
+      "lat": 42.1955,
+      "lng": -122.7145,
+      "radiusM": 150,
+      "address": "15 S Pioneer St, Ashland, OR",
+      "howTo": "Visit the Oregon Shakespeare Festival theaters.",
+      "badge": "badges/oregon-shakespeare-festival.png"
+    },
+    {
+      "id": "downtown-ashland",
+      "name": "Downtown Ashland",
+      "lat": 42.1975,
+      "lng": -122.7125,
+      "radiusM": 200,
+      "address": "Main St, Ashland, OR",
+      "howTo": "Explore downtown Ashland.",
+      "badge": "badges/downtown-ashland.png"
+    }
+  ]
+}

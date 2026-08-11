@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/south-carolina/charleston",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "SC",
+  "stateName": "South Carolina",
+  "cityName": "Charleston",
+  "bbox": {
+    "minLat": 32.72,
+    "minLng": -80.0,
+    "maxLat": 32.85,
+    "maxLng": -79.85
+  },
+  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rainbow-row",
+      "name": "Rainbow Row",
+      "lat": 32.7755,
+      "lng": -79.9285,
+      "radiusM": 120,
+      "address": "Rainbow Row, Charleston, SC",
+      "howTo": "Visit Rainbow Row.",
+      "badge": "badges/rainbow-row.png"
+    },
+    {
+      "id": "the-battery",
+      "name": "The Battery",
+      "lat": 32.7695,
+      "lng": -79.9295,
+      "radiusM": 200,
+      "address": "White Point Garden, Charleston, SC",
+      "howTo": "Visit The Battery.",
+      "badge": "badges/the-battery.png"
+    },
+    {
+      "id": "fort-sumter",
+      "name": "Fort Sumter",
+      "lat": 32.7523,
+      "lng": -79.8747,
+      "radiusM": 200,
+      "address": "Fort Sumter, Charleston, SC",
+      "howTo": "Visit Fort Sumter.",
+      "badge": "badges/fort-sumter.png"
+    },
+    {
+      "id": "charleston-city-market",
+      "name": "Charleston City Market",
+      "lat": 32.7805,
+      "lng": -79.9315,
+      "radiusM": 150,
+      "address": "188 Meeting St, Charleston, SC",
+      "howTo": "Visit Charleston City Market.",
+      "badge": "badges/charleston-city-market.png"
+    },
+    {
+      "id": "magnolia-plantation",
+      "name": "Magnolia Plantation and Gardens",
+      "lat": 32.8755,
+      "lng": -80.0885,
+      "radiusM": 300,
+      "address": "3550 Ashley River Rd, Charleston, SC",
+      "howTo": "Visit Magnolia Plantation and Gardens.",
+      "badge": "badges/magnolia-plantation.png"
+    },
+    {
+      "id": "arthur-ravenel-jr-bridge",
+      "name": "Arthur Ravenel Jr. Bridge",
+      "lat": 32.8035,
+      "lng": -79.9155,
+      "radiusM": 200,
+      "address": "Ravenel Bridge, Charleston, SC",
+      "howTo": "Visit the Arthur Ravenel Jr. Bridge.",
+      "badge": "badges/arthur-ravenel-jr-bridge.png"
+    }
+  ]
+}

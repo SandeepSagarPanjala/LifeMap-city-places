@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/ohio/cleveland",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "OH",
+  "stateName": "Ohio",
+  "cityName": "Cleveland",
+  "bbox": {
+    "minLat": 41.43,
+    "minLng": -81.82,
+    "maxLat": 41.55,
+    "maxLng": -81.55
+  },
+  "updatedAt": "2026-08-11T13:48:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rock-and-roll-hall-of-fame",
+      "name": "Rock & Roll Hall of Fame",
+      "lat": 41.5085,
+      "lng": -81.6954,
+      "radiusM": 150,
+      "address": "1100 E 9th St, Cleveland, OH",
+      "howTo": "Visit the Rock & Roll Hall of Fame.",
+      "badge": "badges/rock-and-roll-hall-of-fame.png"
+    },
+    {
+      "id": "cleveland-museum-of-art",
+      "name": "Cleveland Museum of Art",
+      "lat": 41.509,
+      "lng": -81.6115,
+      "radiusM": 150,
+      "address": "11150 East Blvd, Cleveland, OH",
+      "howTo": "Visit the Cleveland Museum of Art.",
+      "badge": "badges/cleveland-museum-of-art.png"
+    },
+    {
+      "id": "west-side-market",
+      "name": "West Side Market",
+      "lat": 41.4845,
+      "lng": -81.7035,
+      "radiusM": 120,
+      "address": "1979 W 25th St, Cleveland, OH",
+      "howTo": "Visit West Side Market.",
+      "badge": "badges/west-side-market.png"
+    },
+    {
+      "id": "edgewater-park",
+      "name": "Edgewater Park",
+      "lat": 41.4905,
+      "lng": -81.7355,
+      "radiusM": 300,
+      "address": "Edgewater Park, Cleveland, OH",
+      "howTo": "Visit Edgewater Park.",
+      "badge": "badges/edgewater-park.png"
+    },
+    {
+      "id": "terminal-tower",
+      "name": "Terminal Tower",
+      "lat": 41.4985,
+      "lng": -81.694,
+      "radiusM": 120,
+      "address": "50 Public Square, Cleveland, OH",
+      "howTo": "Visit Terminal Tower.",
+      "badge": "badges/terminal-tower.png"
+    },
+    {
+      "id": "progressive-field",
+      "name": "Progressive Field",
+      "lat": 41.4962,
+      "lng": -81.6852,
+      "radiusM": 200,
+      "address": "2401 Ontario St, Cleveland, OH",
+      "howTo": "Visit Progressive Field.",
+      "badge": "badges/progressive-field.png"
+    }
+  ]
+}

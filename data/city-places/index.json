@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "cursor": "us/ohio/cleveland",
-  "updatedAt": "2026-08-11T07:18:38.000Z",
+  "cursor": "us/virginia/richmond",
+  "updatedAt": "2026-08-11T14:53:41.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -1879,26 +1879,44 @@
             {
               "id": "cleveland",
               "name": "Cleveland",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/ohio/cleveland/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 41.43,
+                "minLng": -81.82,
+                "maxLat": 41.55,
+                "maxLng": -81.55
+              }
             },
             {
               "id": "cincinnati",
               "name": "Cincinnati",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/ohio/cincinnati/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 39.08,
+                "minLng": -84.58,
+                "maxLat": 39.18,
+                "maxLng": -84.45
+              }
             },
             {
               "id": "columbus",
               "name": "Columbus",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/ohio/columbus/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 39.92,
+                "minLng": -83.08,
+                "maxLat": 40.05,
+                "maxLng": -82.9
+              }
             }
           ]
         },
@@ -1910,18 +1928,30 @@
             {
               "id": "oklahoma-city",
               "name": "Oklahoma City",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oklahoma/oklahoma-city/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 35.42,
+                "minLng": -97.6,
+                "maxLat": 35.55,
+                "maxLng": -97.45
+              }
             },
             {
               "id": "tulsa",
               "name": "Tulsa",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oklahoma/tulsa/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 36.1,
+                "minLng": -96.0,
+                "maxLat": 36.2,
+                "maxLng": -95.9
+              }
             }
           ]
         },
@@ -1933,42 +1963,72 @@
             {
               "id": "portland",
               "name": "Portland",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oregon/portland/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 45.45,
+                "minLng": -122.8,
+                "maxLat": 45.6,
+                "maxLng": -122.5
+              }
             },
             {
               "id": "bend",
               "name": "Bend",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oregon/bend/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.02,
+                "minLng": -121.35,
+                "maxLat": 44.1,
+                "maxLng": -121.25
+              }
             },
             {
               "id": "eugene",
               "name": "Eugene",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oregon/eugene/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.02,
+                "minLng": -123.15,
+                "maxLat": 44.1,
+                "maxLng": -123.02
+              }
             },
             {
               "id": "cannon-beach",
               "name": "Cannon Beach",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oregon/cannon-beach/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 45.88,
+                "minLng": -123.98,
+                "maxLat": 45.92,
+                "maxLng": -123.95
+              }
             },
             {
               "id": "ashland",
               "name": "Ashland",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/oregon/ashland/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 42.18,
+                "minLng": -122.73,
+                "maxLat": 42.22,
+                "maxLng": -122.68
+              }
             }
           ]
         },
@@ -1980,34 +2040,58 @@
             {
               "id": "philadelphia",
               "name": "Philadelphia",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/pennsylvania/philadelphia/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 39.9,
+                "minLng": -75.25,
+                "maxLat": 40.05,
+                "maxLng": -75.1
+              }
             },
             {
               "id": "pittsburgh",
               "name": "Pittsburgh",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/pennsylvania/pittsburgh/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 40.4,
+                "minLng": -80.05,
+                "maxLat": 40.5,
+                "maxLng": -79.9
+              }
             },
             {
               "id": "gettysburg",
               "name": "Gettysburg",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/pennsylvania/gettysburg/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 39.8,
+                "minLng": -77.28,
+                "maxLat": 39.85,
+                "maxLng": -77.2
+              }
             },
             {
               "id": "lancaster",
               "name": "Lancaster",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/pennsylvania/lancaster/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 40.02,
+                "minLng": -76.35,
+                "maxLat": 40.07,
+                "maxLng": -76.28
+              }
             }
           ]
         },
@@ -2019,18 +2103,30 @@
             {
               "id": "providence",
               "name": "Providence",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/rhode-island/providence/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 41.8,
+                "minLng": -71.45,
+                "maxLat": 41.85,
+                "maxLng": -71.38
+              }
             },
             {
               "id": "newport",
               "name": "Newport",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/rhode-island/newport/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 41.45,
+                "minLng": -71.35,
+                "maxLat": 41.52,
+                "maxLng": -71.28
+              }
             }
           ]
         },
@@ -2042,34 +2138,58 @@
             {
               "id": "charleston",
               "name": "Charleston",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-carolina/charleston/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 32.72,
+                "minLng": -80.0,
+                "maxLat": 32.85,
+                "maxLng": -79.85
+              }
             },
             {
               "id": "myrtle-beach",
               "name": "Myrtle Beach",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-carolina/myrtle-beach/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 33.65,
+                "minLng": -78.95,
+                "maxLat": 33.75,
+                "maxLng": -78.82
+              }
             },
             {
               "id": "columbia",
               "name": "Columbia",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-carolina/columbia/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 33.98,
+                "minLng": -81.08,
+                "maxLat": 34.05,
+                "maxLng": -80.98
+              }
             },
             {
               "id": "greenville",
               "name": "Greenville",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-carolina/greenville/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 34.82,
+                "minLng": -82.42,
+                "maxLat": 34.88,
+                "maxLng": -82.36
+              }
             }
           ]
         },
@@ -2081,18 +2201,30 @@
             {
               "id": "rapid-city",
               "name": "Rapid City",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-dakota/rapid-city/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.04,
+                "minLng": -103.28,
+                "maxLat": 44.12,
+                "maxLng": -103.18
+              }
             },
             {
               "id": "sioux-falls",
               "name": "Sioux Falls",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/south-dakota/sioux-falls/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 43.52,
+                "minLng": -96.78,
+                "maxLat": 43.58,
+                "maxLng": -96.68
+              }
             }
           ]
         },
@@ -2104,42 +2236,72 @@
             {
               "id": "nashville",
               "name": "Nashville",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/tennessee/nashville/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 36.12,
+                "minLng": -86.9,
+                "maxLat": 36.22,
+                "maxLng": -86.72
+              }
             },
             {
               "id": "memphis",
               "name": "Memphis",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/tennessee/memphis/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 35.05,
+                "minLng": -90.12,
+                "maxLat": 35.2,
+                "maxLng": -89.9
+              }
             },
             {
               "id": "knoxville",
               "name": "Knoxville",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/tennessee/knoxville/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 35.94,
+                "minLng": -84.0,
+                "maxLat": 36.02,
+                "maxLng": -83.88
+              }
             },
             {
               "id": "chattanooga",
               "name": "Chattanooga",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/tennessee/chattanooga/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 35.0,
+                "minLng": -85.35,
+                "maxLat": 35.1,
+                "maxLng": -85.22
+              }
             },
             {
               "id": "gatlinburg",
               "name": "Gatlinburg",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/tennessee/gatlinburg/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 35.68,
+                "minLng": -83.55,
+                "maxLat": 35.75,
+                "maxLng": -83.48
+              }
             }
           ]
         },
@@ -2270,42 +2432,72 @@
             {
               "id": "salt-lake-city",
               "name": "Salt Lake City",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/utah/salt-lake-city/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 40.72,
+                "minLng": -112.0,
+                "maxLat": 40.82,
+                "maxLng": -111.82
+              }
             },
             {
               "id": "moab",
               "name": "Moab",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/utah/moab/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 38.54,
+                "minLng": -109.6,
+                "maxLat": 38.62,
+                "maxLng": -109.5
+              }
             },
             {
               "id": "park-city",
               "name": "Park City",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/utah/park-city/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 40.62,
+                "minLng": -111.52,
+                "maxLat": 40.68,
+                "maxLng": -111.48
+              }
             },
             {
               "id": "springdale",
               "name": "Springdale",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/utah/springdale/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 37.16,
+                "minLng": -113.02,
+                "maxLat": 37.22,
+                "maxLng": -112.98
+              }
             },
             {
               "id": "st-george",
               "name": "St. George",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/utah/st-george/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 37.05,
+                "minLng": -113.62,
+                "maxLat": 37.15,
+                "maxLng": -113.5
+              }
             }
           ]
         },
@@ -2317,26 +2509,44 @@
             {
               "id": "burlington",
               "name": "Burlington",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/vermont/burlington/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.45,
+                "minLng": -73.25,
+                "maxLat": 44.5,
+                "maxLng": -73.18
+              }
             },
             {
               "id": "stowe",
               "name": "Stowe",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/vermont/stowe/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.46,
+                "minLng": -72.72,
+                "maxLat": 44.5,
+                "maxLng": -72.68
+              }
             },
             {
               "id": "montpelier",
               "name": "Montpelier",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/vermont/montpelier/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-11T14:53:41.000Z",
+              "bbox": {
+                "minLat": 44.25,
+                "minLng": -72.6,
+                "maxLat": 44.28,
+                "maxLng": -72.55
+              }
             }
           ]
         },
