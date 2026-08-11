@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T07:07:02.129Z",
+  "generatedAt": "2026-08-11T07:11:22.088Z",
   "cellDeg": 0.5,
   "cityCount": 124,
   "cities": {
@@ -160,10 +160,10 @@
     "us/california/napa": {
       "name": "Napa",
       "bbox": {
-        "minLat": 38.25,
-        "minLng": -122.35,
-        "maxLat": 38.35,
-        "maxLng": -122.22
+        "minLat": 38.236999999999995,
+        "minLng": -122.54299999999999,
+        "maxLat": 38.566,
+        "maxLng": -122.21886
       }
     },
     "us/california/palm-springs": {
@@ -214,10 +214,10 @@
     "us/california/south-lake-tahoe": {
       "name": "South Lake Tahoe",
       "bbox": {
-        "minLat": 38.88,
-        "minLng": -120.1,
-        "maxLat": 39,
-        "maxLng": -119.9
+        "minLat": 38.914849999999994,
+        "minLng": -120.13059,
+        "maxLat": 38.97222,
+        "maxLng": -119.92
       }
     },
     "us/colorado/aspen": {
@@ -1245,7 +1245,16 @@
     "67,-236": [
       "us/california/anaheim"
     ],
+    "76,-246": [
+      "us/california/napa"
+    ],
     "76,-245": [
+      "us/california/napa"
+    ],
+    "77,-246": [
+      "us/california/napa"
+    ],
+    "77,-245": [
       "us/california/napa"
     ],
     "77,-241": [
@@ -1253,13 +1262,6 @@
     ],
     "77,-240": [
       "us/california/south-lake-tahoe"
-    ],
-    "78,-241": [
-      "us/california/south-lake-tahoe"
-    ],
-    "78,-240": [
-      "us/california/south-lake-tahoe",
-      "us/nevada/reno"
     ],
     "79,-211": [
       "us/colorado/boulder",
@@ -1594,6 +1596,9 @@
     ],
     "72,-230": [
       "us/nevada/las-vegas"
+    ],
+    "78,-240": [
+      "us/nevada/reno"
     ],
     "79,-240": [
       "us/nevada/reno"

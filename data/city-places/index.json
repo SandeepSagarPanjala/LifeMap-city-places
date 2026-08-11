@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "cursor": "us/ohio/cleveland",
-  "updatedAt": "2026-08-11T07:06:51.000Z",
+  "updatedAt": "2026-08-11T07:11:21.000Z",
   "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -355,13 +355,13 @@
               "name": "Napa",
               "status": "complete",
               "packPath": "us/california/napa/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 10,
+              "completedAt": "2026-08-11T07:11:21.000Z",
               "bbox": {
-                "minLat": 38.25,
-                "minLng": -122.35,
-                "maxLat": 38.35,
-                "maxLng": -122.22
+                "minLat": 38.236999999999995,
+                "minLng": -122.54299999999999,
+                "maxLat": 38.566,
+                "maxLng": -122.21886
               }
             },
             {
@@ -369,13 +369,13 @@
               "name": "South Lake Tahoe",
               "status": "complete",
               "packPath": "us/california/south-lake-tahoe/city.json",
-              "placeCount": 6,
-              "completedAt": "2026-08-11T03:08:54.000Z",
+              "placeCount": 11,
+              "completedAt": "2026-08-11T07:11:21.000Z",
               "bbox": {
-                "minLat": 38.88,
-                "minLng": -120.1,
-                "maxLat": 39.0,
-                "maxLng": -119.9
+                "minLat": 38.914849999999994,
+                "minLng": -120.13059,
+                "maxLat": 38.97222,
+                "maxLng": -119.92
               }
             }
           ]

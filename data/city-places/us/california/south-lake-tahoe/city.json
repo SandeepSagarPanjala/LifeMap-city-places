@@ -7,73 +7,123 @@
   "stateName": "California",
   "cityName": "South Lake Tahoe",
   "bbox": {
-    "minLat": 38.88,
-    "minLng": -120.1,
-    "maxLat": 39.0,
-    "maxLng": -119.9
+    "minLat": 38.914849999999994,
+    "minLng": -120.13059,
+    "maxLat": 38.97222,
+    "maxLng": -119.92
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-08-11T07:11:21.000Z",
   "status": "complete",
   "places": [
     {
-      "id": "heavenly-gondola",
-      "name": "Heavenly Mountain Resort Gondola",
-      "lat": 38.9355,
-      "lng": -119.939,
-      "radiusM": 150,
-      "address": "3860 Saddle Rd, South Lake Tahoe, CA",
-      "howTo": "Ride the Heavenly Gondola.",
-      "badge": "badges/heavenly-gondola.png"
-    },
-    {
-      "id": "vikingsholm",
-      "name": "Vikingsholm",
-      "lat": 38.952,
-      "lng": -120.1075,
-      "radiusM": 150,
-      "address": "Emerald Bay Rd, South Lake Tahoe, CA",
-      "howTo": "Visit Vikingsholm at Emerald Bay.",
-      "badge": "badges/vikingsholm.png"
-    },
-    {
       "id": "emerald-bay-state-park",
       "name": "Emerald Bay State Park",
-      "lat": 38.9505,
-      "lng": -120.101,
+      "lat": 38.9466,
+      "lng": -120.09811,
       "radiusM": 400,
-      "address": "Emerald Bay Rd, CA",
+      "address": "Inspiration Point, Emerald Bay, CA",
       "howTo": "Visit Emerald Bay State Park.",
       "badge": "badges/emerald-bay-state-park.png"
     },
     {
-      "id": "tallac-historic-site",
-      "name": "Tallac Historic Site",
-      "lat": 38.9365,
-      "lng": -120.057,
-      "radiusM": 200,
-      "address": "1 Heritage Way, South Lake Tahoe, CA",
-      "howTo": "Visit the Tallac Historic Site.",
-      "badge": "badges/tallac-historic-site.png"
-    },
-    {
-      "id": "pope-beach",
-      "name": "Pope Beach",
-      "lat": 38.94,
-      "lng": -120.043,
-      "radiusM": 300,
-      "address": "Pope Beach, South Lake Tahoe, CA",
-      "howTo": "Visit Pope Beach.",
-      "badge": "badges/pope-beach.png"
+      "id": "vikingsholm",
+      "name": "Vikingsholm",
+      "lat": 38.95222,
+      "lng": -120.10695,
+      "radiusM": 150,
+      "address": "Vikingsholm, Emerald Bay State Park, CA",
+      "howTo": "Visit Vikingsholm at Emerald Bay.",
+      "badge": "badges/vikingsholm.png"
     },
     {
       "id": "eagle-falls",
       "name": "Eagle Falls",
-      "lat": 38.9518,
-      "lng": -120.1135,
+      "lat": 38.95186,
+      "lng": -120.11059,
       "radiusM": 150,
-      "address": "Emerald Bay Rd, CA",
+      "address": "Eagle Falls, Emerald Bay, CA",
       "howTo": "Visit Eagle Falls near Emerald Bay.",
       "badge": "badges/eagle-falls.png"
+    },
+    {
+      "id": "heavenly-gondola",
+      "name": "Heavenly Gondola",
+      "lat": 38.93491,
+      "lng": -119.94032,
+      "radiusM": 200,
+      "address": "Heavenly California Lodge, South Lake Tahoe, CA",
+      "howTo": "Visit the Heavenly Gondola.",
+      "badge": "badges/heavenly-gondola.png"
+    },
+    {
+      "id": "tallac-historic-site",
+      "name": "Tallac Historic Site",
+      "lat": 38.93834,
+      "lng": -120.04565,
+      "radiusM": 200,
+      "address": "Tallac Historic Site, South Lake Tahoe, CA",
+      "howTo": "Visit the Tallac Historic Site.",
+      "badge": "badges/tallac-historic-site.png"
+    },
+    {
+      "id": "taylor-creek-visitor-center",
+      "name": "Taylor Creek Visitor Center",
+      "lat": 38.93573,
+      "lng": -120.05388,
+      "radiusM": 150,
+      "address": "Taylor Creek Visitor Center, South Lake Tahoe, CA",
+      "howTo": "Visit the Taylor Creek Visitor Center.",
+      "badge": "badges/taylor-creek-visitor-center.png"
+    },
+    {
+      "id": "pope-beach",
+      "name": "Pope Beach",
+      "lat": 38.93722,
+      "lng": -120.02889,
+      "radiusM": 250,
+      "address": "Pope Beach, South Lake Tahoe, CA",
+      "howTo": "Visit Pope Beach on Lake Tahoe.",
+      "badge": "badges/pope-beach.png"
+    },
+    {
+      "id": "baldwin-beach",
+      "name": "Baldwin Beach",
+      "lat": 38.94361,
+      "lng": -120.06861,
+      "radiusM": 250,
+      "address": "Baldwin Beach, South Lake Tahoe, CA",
+      "howTo": "Visit Baldwin Beach on Lake Tahoe.",
+      "badge": "badges/baldwin-beach.png"
+    },
+    {
+      "id": "lake-tahoe-historical-museum",
+      "name": "Lake Tahoe Historical Museum",
+      "lat": 38.93999,
+      "lng": -119.97672,
+      "radiusM": 120,
+      "address": "3058 Lake Tahoe Blvd, South Lake Tahoe, CA",
+      "howTo": "Visit the Lake Tahoe Historical Museum.",
+      "badge": "badges/lake-tahoe-historical-museum.png"
+    },
+    {
+      "id": "el-dorado-beach",
+      "name": "El Dorado Beach",
+      "lat": 38.94779,
+      "lng": -119.9654,
+      "radiusM": 200,
+      "address": "El Dorado Beach, South Lake Tahoe, CA",
+      "howTo": "Visit El Dorado Beach at Lakeview Commons.",
+      "badge": "badges/el-dorado-beach.png"
+    },
+    {
+      "id": "cascade-falls",
+      "name": "Cascade Falls",
+      "lat": 38.93485,
+      "lng": -120.10095,
+      "radiusM": 200,
+      "address": "Cascade Falls Trail, South Lake Tahoe, CA",
+      "howTo": "Visit Cascade Falls near Cascade Lake.",
+      "badge": "badges/cascade-falls.png"
     }
   ]
 }

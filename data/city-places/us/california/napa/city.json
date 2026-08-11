@@ -7,29 +7,29 @@
   "stateName": "California",
   "cityName": "Napa",
   "bbox": {
-    "minLat": 38.25,
-    "minLng": -122.35,
-    "maxLat": 38.35,
-    "maxLng": -122.22
+    "minLat": 38.236999999999995,
+    "minLng": -122.54299999999999,
+    "maxLat": 38.566,
+    "maxLng": -122.21886
   },
-  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "updatedAt": "2026-08-11T07:11:21.000Z",
   "status": "complete",
   "places": [
     {
       "id": "napa-valley-opera-house",
       "name": "Napa Valley Opera House",
-      "lat": 38.2978,
-      "lng": -122.2855,
+      "lat": 38.29972,
+      "lng": -122.28444,
       "radiusM": 120,
-      "address": "1000 Main St, Napa, CA",
-      "howTo": "Visit the Napa Valley Opera House.",
+      "address": "1030 Main St, Napa, CA",
+      "howTo": "Visit the Napa Valley Opera House on Main Street.",
       "badge": "badges/napa-valley-opera-house.png"
     },
     {
       "id": "di-rosa-center",
       "name": "di Rosa Center for Contemporary Art",
-      "lat": 38.2635,
-      "lng": -122.2748,
+      "lat": 38.257,
+      "lng": -122.35172,
       "radiusM": 200,
       "address": "5200 Carneros Hwy, Napa, CA",
       "howTo": "Visit the di Rosa Center for Contemporary Art.",
@@ -38,12 +38,62 @@
     {
       "id": "skyline-wilderness-park",
       "name": "Skyline Wilderness Park",
-      "lat": 38.2705,
-      "lng": -122.2478,
+      "lat": 38.26654,
+      "lng": -122.23886,
       "radiusM": 400,
       "address": "2201 Imola Ave, Napa, CA",
       "howTo": "Visit Skyline Wilderness Park.",
       "badge": "badges/skyline-wilderness-park.png"
+    },
+    {
+      "id": "napa-riverfront",
+      "name": "Napa Riverfront",
+      "lat": 38.29823,
+      "lng": -122.28439,
+      "radiusM": 200,
+      "address": "Napa Riverfront, Napa, CA",
+      "howTo": "Visit the Napa Riverfront downtown.",
+      "badge": "badges/napa-riverfront.png"
+    },
+    {
+      "id": "napa-valley-wine-train",
+      "name": "Napa Valley Wine Train",
+      "lat": 38.3024,
+      "lng": -122.28362,
+      "radiusM": 150,
+      "address": "1275 McKinstry St, Napa, CA",
+      "howTo": "Visit the Napa Valley Wine Train station.",
+      "badge": "badges/napa-valley-wine-train.png"
+    },
+    {
+      "id": "goodman-library",
+      "name": "Goodman Library",
+      "lat": 38.29813,
+      "lng": -122.28715,
+      "radiusM": 120,
+      "address": "1219 First St, Napa, CA",
+      "howTo": "Visit the historic Goodman Library.",
+      "badge": "badges/goodman-library.png"
+    },
+    {
+      "id": "oxbow-commons",
+      "name": "Oxbow Commons",
+      "lat": 38.30118,
+      "lng": -122.28361,
+      "radiusM": 150,
+      "address": "Oxbow Commons, Napa, CA",
+      "howTo": "Visit Oxbow Commons along the Napa River.",
+      "badge": "badges/oxbow-commons.png"
+    },
+    {
+      "id": "westwood-hills-park",
+      "name": "Westwood Hills Park",
+      "lat": 38.29868,
+      "lng": -122.31968,
+      "radiusM": 300,
+      "address": "Westwood Hills Park, Napa, CA",
+      "howTo": "Visit Westwood Hills Park.",
+      "badge": "badges/westwood-hills-park.png"
     },
     {
       "id": "bothe-napa-valley-state-park",
@@ -54,16 +104,6 @@
       "address": "3801 St Helena Hwy, Calistoga, CA",
       "howTo": "Visit Bothe-Napa Valley State Park.",
       "badge": "badges/bothe-napa-valley-state-park.png"
-    },
-    {
-      "id": "napa-riverfront",
-      "name": "Napa Riverfront",
-      "lat": 38.299,
-      "lng": -122.284,
-      "radiusM": 200,
-      "address": "Napa Riverfront, Napa, CA",
-      "howTo": "Walk the Napa Riverfront.",
-      "badge": "badges/napa-riverfront.png"
     },
     {
       "id": "cia-at-copia",
