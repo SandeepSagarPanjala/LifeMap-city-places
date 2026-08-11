@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/montana/billings",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MT",
+  "stateName": "Montana",
+  "cityName": "Billings",
+  "bbox": {
+    "minLat": 45.74,
+    "minLng": -108.6,
+    "maxLat": 45.82,
+    "maxLng": -108.45
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pictograph-cave",
+      "name": "Pictograph Cave State Park",
+      "lat": 45.7375,
+      "lng": -108.4695,
+      "radiusM": 250,
+      "address": "3401 Coburn Rd, Billings, MT",
+      "howTo": "Visit Pictograph Cave State Park.",
+      "badge": "badges/pictograph-cave.png"
+    },
+    {
+      "id": "moss-mansion",
+      "name": "Moss Mansion",
+      "lat": 45.7845,
+      "lng": -108.5135,
+      "radiusM": 120,
+      "address": "914 Division St, Billings, MT",
+      "howTo": "Visit the Moss Mansion.",
+      "badge": "badges/moss-mansion.png"
+    },
+    {
+      "id": "rimrock-trail",
+      "name": "The Rimrocks",
+      "lat": 45.8055,
+      "lng": -108.5055,
+      "radiusM": 300,
+      "address": "Rimrock Trail, Billings, MT",
+      "howTo": "Visit the Rimrocks.",
+      "badge": "badges/rimrock-trail.png"
+    },
+    {
+      "id": "zoomontana",
+      "name": "ZooMontana",
+      "lat": 45.7385,
+      "lng": -108.6055,
+      "radiusM": 250,
+      "address": "2100 S Shiloh Rd, Billings, MT",
+      "howTo": "Visit ZooMontana.",
+      "badge": "badges/zoomontana.png"
+    }
+  ]
+}

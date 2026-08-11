@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/nevada/las-vegas",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NV",
+  "stateName": "Nevada",
+  "cityName": "Las Vegas",
+  "bbox": {
+    "minLat": 36.05,
+    "minLng": -115.3,
+    "maxLat": 36.25,
+    "maxLng": -114.95
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "welcome-to-las-vegas-sign",
+      "name": "Welcome to Fabulous Las Vegas Sign",
+      "lat": 36.082,
+      "lng": -115.1728,
+      "radiusM": 80,
+      "address": "5200 Las Vegas Blvd S, Las Vegas, NV",
+      "howTo": "Visit the Welcome to Fabulous Las Vegas sign.",
+      "badge": "badges/welcome-to-las-vegas-sign.png"
+    },
+    {
+      "id": "fremont-street",
+      "name": "Fremont Street Experience",
+      "lat": 36.1705,
+      "lng": -115.1445,
+      "radiusM": 250,
+      "address": "Fremont St, Las Vegas, NV",
+      "howTo": "Visit the Fremont Street Experience.",
+      "badge": "badges/fremont-street.png"
+    },
+    {
+      "id": "high-roller",
+      "name": "High Roller",
+      "lat": 36.1175,
+      "lng": -115.1685,
+      "radiusM": 150,
+      "address": "3545 Las Vegas Blvd S, Las Vegas, NV",
+      "howTo": "Ride the High Roller observation wheel.",
+      "badge": "badges/high-roller.png"
+    },
+    {
+      "id": "red-rock-canyon",
+      "name": "Red Rock Canyon National Conservation Area",
+      "lat": 36.1355,
+      "lng": -115.4275,
+      "radiusM": 400,
+      "address": "1000 Scenic Loop Dr, Las Vegas, NV",
+      "howTo": "Visit Red Rock Canyon.",
+      "badge": "badges/red-rock-canyon.png"
+    },
+    {
+      "id": "neon-museum",
+      "name": "The Neon Museum",
+      "lat": 36.1765,
+      "lng": -115.1355,
+      "radiusM": 150,
+      "address": "770 Las Vegas Blvd N, Las Vegas, NV",
+      "howTo": "Visit The Neon Museum.",
+      "badge": "badges/neon-museum.png"
+    },
+    {
+      "id": "springs-preserve",
+      "name": "Springs Preserve",
+      "lat": 36.1715,
+      "lng": -115.1915,
+      "radiusM": 250,
+      "address": "333 S Valley View Blvd, Las Vegas, NV",
+      "howTo": "Visit Springs Preserve.",
+      "badge": "badges/springs-preserve.png"
+    },
+    {
+      "id": "bellagio-fountains",
+      "name": "Bellagio Fountains",
+      "lat": 36.1126,
+      "lng": -115.1765,
+      "radiusM": 150,
+      "address": "3600 Las Vegas Blvd S, Las Vegas, NV",
+      "howTo": "See the Bellagio Fountains.",
+      "badge": "badges/bellagio-fountains.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-hampshire/portsmouth",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NH",
+  "stateName": "New Hampshire",
+  "cityName": "Portsmouth",
+  "bbox": {
+    "minLat": 43.05,
+    "minLng": -70.8,
+    "maxLat": 43.1,
+    "maxLng": -70.74
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "strawbery-banke",
+      "name": "Strawbery Banke Museum",
+      "lat": 43.0755,
+      "lng": -70.7525,
+      "radiusM": 200,
+      "address": "14 Hancock St, Portsmouth, NH",
+      "howTo": "Visit Strawbery Banke Museum.",
+      "badge": "badges/strawbery-banke.png"
+    },
+    {
+      "id": "prescott-park",
+      "name": "Prescott Park",
+      "lat": 43.0765,
+      "lng": -70.7505,
+      "radiusM": 200,
+      "address": "105 Marcy St, Portsmouth, NH",
+      "howTo": "Visit Prescott Park.",
+      "badge": "badges/prescott-park.png"
+    },
+    {
+      "id": "market-square",
+      "name": "Market Square",
+      "lat": 43.0775,
+      "lng": -70.7575,
+      "radiusM": 120,
+      "address": "Market Square, Portsmouth, NH",
+      "howTo": "Visit Market Square.",
+      "badge": "badges/market-square.png"
+    },
+    {
+      "id": "uss-albacore",
+      "name": "USS Albacore",
+      "lat": 43.0825,
+      "lng": -70.7525,
+      "radiusM": 120,
+      "address": "600 Market St, Portsmouth, NH",
+      "howTo": "Visit USS Albacore.",
+      "badge": "badges/uss-albacore.png"
+    }
+  ]
+}

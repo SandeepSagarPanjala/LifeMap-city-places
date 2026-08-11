@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-mexico/taos",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NM",
+  "stateName": "New Mexico",
+  "cityName": "Taos",
+  "bbox": {
+    "minLat": 36.38,
+    "minLng": -105.6,
+    "maxLat": 36.45,
+    "maxLng": -105.5
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "taos-pueblo",
+      "name": "Taos Pueblo",
+      "lat": 36.4385,
+      "lng": -105.5455,
+      "radiusM": 250,
+      "address": "Taos Pueblo, NM",
+      "howTo": "Visit Taos Pueblo.",
+      "badge": "badges/taos-pueblo.png"
+    },
+    {
+      "id": "rio-grande-gorge-bridge",
+      "name": "Rio Grande Gorge Bridge",
+      "lat": 36.4755,
+      "lng": -105.7315,
+      "radiusM": 150,
+      "address": "US-64, Taos, NM",
+      "howTo": "Visit the Rio Grande Gorge Bridge.",
+      "badge": "badges/rio-grande-gorge-bridge.png"
+    },
+    {
+      "id": "san-francisco-de-asis",
+      "name": "San Francisco de As\u00eds Church",
+      "lat": 36.3585,
+      "lng": -105.6085,
+      "radiusM": 120,
+      "address": "60 St Francis Plaza, Ranchos de Taos, NM",
+      "howTo": "Visit San Francisco de As\u00eds Church.",
+      "badge": "badges/san-francisco-de-asis.png"
+    },
+    {
+      "id": "taos-plaza",
+      "name": "Taos Plaza",
+      "lat": 36.4075,
+      "lng": -105.5735,
+      "radiusM": 150,
+      "address": "Taos Plaza, Taos, NM",
+      "howTo": "Visit Taos Plaza.",
+      "badge": "badges/taos-plaza.png"
+    }
+  ]
+}

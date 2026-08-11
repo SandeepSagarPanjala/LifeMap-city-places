@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/montana/bozeman",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MT",
+  "stateName": "Montana",
+  "cityName": "Bozeman",
+  "bbox": {
+    "minLat": 45.65,
+    "minLng": -111.1,
+    "maxLat": 45.72,
+    "maxLng": -110.98
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "museum-of-the-rockies",
+      "name": "Museum of the Rockies",
+      "lat": 45.6585,
+      "lng": -111.0455,
+      "radiusM": 150,
+      "address": "600 W Kagy Blvd, Bozeman, MT",
+      "howTo": "Visit the Museum of the Rockies.",
+      "badge": "badges/museum-of-the-rockies.png"
+    },
+    {
+      "id": "main-street-bozeman",
+      "name": "Main Street Bozeman",
+      "lat": 45.6795,
+      "lng": -111.0375,
+      "radiusM": 200,
+      "address": "Main St, Bozeman, MT",
+      "howTo": "Walk Main Street in Bozeman.",
+      "badge": "badges/main-street-bozeman.png"
+    },
+    {
+      "id": "hyalite-canyon",
+      "name": "Hyalite Canyon",
+      "lat": 45.4855,
+      "lng": -111.0055,
+      "radiusM": 400,
+      "address": "Hyalite Canyon, Bozeman, MT",
+      "howTo": "Visit Hyalite Canyon.",
+      "badge": "badges/hyalite-canyon.png"
+    },
+    {
+      "id": "peets-hill",
+      "name": "Peets Hill",
+      "lat": 45.6715,
+      "lng": -111.0255,
+      "radiusM": 200,
+      "address": "Churchill Rd, Bozeman, MT",
+      "howTo": "Hike Peets Hill.",
+      "badge": "badges/peets-hill.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/north-carolina/nags-head",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NC",
+  "stateName": "North Carolina",
+  "cityName": "Nags Head",
+  "bbox": {
+    "minLat": 35.9,
+    "minLng": -75.65,
+    "maxLat": 36.0,
+    "maxLng": -75.5
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jockeys-ridge",
+      "name": "Jockey's Ridge State Park",
+      "lat": 35.9645,
+      "lng": -75.6325,
+      "radiusM": 300,
+      "address": "300 W Carolista Dr, Nags Head, NC",
+      "howTo": "Visit Jockey's Ridge State Park.",
+      "badge": "badges/jockeys-ridge.png"
+    },
+    {
+      "id": "jennettes-pier",
+      "name": "Jennette's Pier",
+      "lat": 35.9105,
+      "lng": -75.5955,
+      "radiusM": 150,
+      "address": "7223 S Virginia Dare Trail, Nags Head, NC",
+      "howTo": "Visit Jennette's Pier.",
+      "badge": "badges/jennettes-pier.png"
+    },
+    {
+      "id": "bodie-island-lighthouse",
+      "name": "Bodie Island Lighthouse",
+      "lat": 35.8185,
+      "lng": -75.5635,
+      "radiusM": 150,
+      "address": "8210 Bodie Island Lighthouse, Nags Head, NC",
+      "howTo": "Visit Bodie Island Lighthouse.",
+      "badge": "badges/bodie-island-lighthouse.png"
+    },
+    {
+      "id": "wright-brothers-memorial",
+      "name": "Wright Brothers National Memorial",
+      "lat": 36.0145,
+      "lng": -75.6675,
+      "radiusM": 200,
+      "address": "1000 N Croatan Hwy, Kill Devil Hills, NC",
+      "howTo": "Visit Wright Brothers National Memorial.",
+      "badge": "badges/wright-brothers-memorial.png"
+    }
+  ]
+}

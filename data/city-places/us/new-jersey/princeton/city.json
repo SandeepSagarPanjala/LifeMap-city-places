@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-jersey/princeton",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NJ",
+  "stateName": "New Jersey",
+  "cityName": "Princeton",
+  "bbox": {
+    "minLat": 40.33,
+    "minLng": -74.68,
+    "maxLat": 40.37,
+    "maxLng": -74.64
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nassau-hall",
+      "name": "Nassau Hall",
+      "lat": 40.3489,
+      "lng": -74.6594,
+      "radiusM": 120,
+      "address": "Princeton University, Princeton, NJ",
+      "howTo": "Visit Nassau Hall.",
+      "badge": "badges/nassau-hall.png"
+    },
+    {
+      "id": "princeton-university",
+      "name": "Princeton University",
+      "lat": 40.3431,
+      "lng": -74.6551,
+      "radiusM": 250,
+      "address": "Princeton, NJ",
+      "howTo": "Visit the Princeton University campus.",
+      "badge": "badges/princeton-university.png"
+    },
+    {
+      "id": "princeton-university-art-museum",
+      "name": "Princeton University Art Museum",
+      "lat": 40.3475,
+      "lng": -74.6575,
+      "radiusM": 120,
+      "address": "Princeton University, Princeton, NJ",
+      "howTo": "Visit the Princeton University Art Museum.",
+      "badge": "badges/princeton-university-art-museum.png"
+    },
+    {
+      "id": "lake-carnegie",
+      "name": "Lake Carnegie",
+      "lat": 40.3385,
+      "lng": -74.6485,
+      "radiusM": 250,
+      "address": "Lake Carnegie, Princeton, NJ",
+      "howTo": "Visit Lake Carnegie.",
+      "badge": "badges/lake-carnegie.png"
+    }
+  ]
+}

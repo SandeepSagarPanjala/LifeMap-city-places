@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/missouri/kansas-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MO",
+  "stateName": "Missouri",
+  "cityName": "Kansas City",
+  "bbox": {
+    "minLat": 39.0,
+    "minLng": -94.7,
+    "maxLat": 39.18,
+    "maxLng": -94.48
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "liberty-memorial",
+      "name": "National WWI Museum and Memorial",
+      "lat": 39.0805,
+      "lng": -94.5865,
+      "radiusM": 200,
+      "address": "2 Memorial Dr, Kansas City, MO",
+      "howTo": "Visit the National WWI Museum and Memorial.",
+      "badge": "badges/liberty-memorial.png"
+    },
+    {
+      "id": "nelson-atkins",
+      "name": "Nelson-Atkins Museum of Art",
+      "lat": 39.0455,
+      "lng": -94.5805,
+      "radiusM": 150,
+      "address": "4525 Oak St, Kansas City, MO",
+      "howTo": "Visit the Nelson-Atkins Museum of Art.",
+      "badge": "badges/nelson-atkins.png"
+    },
+    {
+      "id": "country-club-plaza",
+      "name": "Country Club Plaza",
+      "lat": 39.0415,
+      "lng": -94.5915,
+      "radiusM": 250,
+      "address": "Country Club Plaza, Kansas City, MO",
+      "howTo": "Visit Country Club Plaza.",
+      "badge": "badges/country-club-plaza.png"
+    },
+    {
+      "id": "union-station-kc",
+      "name": "Union Station",
+      "lat": 39.0845,
+      "lng": -94.5855,
+      "radiusM": 150,
+      "address": "30 W Pershing Rd, Kansas City, MO",
+      "howTo": "Visit Union Station.",
+      "badge": "badges/union-station-kc.png"
+    },
+    {
+      "id": "kauffman-stadium",
+      "name": "Kauffman Stadium",
+      "lat": 39.0517,
+      "lng": -94.4803,
+      "radiusM": 200,
+      "address": "1 Royal Way, Kansas City, MO",
+      "howTo": "Visit Kauffman Stadium.",
+      "badge": "badges/kauffman-stadium.png"
+    },
+    {
+      "id": "loose-park",
+      "name": "Loose Park",
+      "lat": 39.0285,
+      "lng": -94.5955,
+      "radiusM": 250,
+      "address": "5200 Wornall Rd, Kansas City, MO",
+      "howTo": "Visit Loose Park.",
+      "badge": "badges/loose-park.png"
+    }
+  ]
+}

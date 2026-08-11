@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/nevada/reno",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NV",
+  "stateName": "Nevada",
+  "cityName": "Reno",
+  "bbox": {
+    "minLat": 39.48,
+    "minLng": -119.85,
+    "maxLat": 39.58,
+    "maxLng": -119.75
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "reno-arch",
+      "name": "Reno Arch",
+      "lat": 39.5275,
+      "lng": -119.8135,
+      "radiusM": 80,
+      "address": "Virginia St, Reno, NV",
+      "howTo": "Visit the Reno Arch.",
+      "badge": "badges/reno-arch.png"
+    },
+    {
+      "id": "national-automobile-museum",
+      "name": "National Automobile Museum",
+      "lat": 39.5255,
+      "lng": -119.8075,
+      "radiusM": 120,
+      "address": "10 S Lake St, Reno, NV",
+      "howTo": "Visit the National Automobile Museum.",
+      "badge": "badges/national-automobile-museum.png"
+    },
+    {
+      "id": "truckee-riverwalk",
+      "name": "Truckee Riverwalk",
+      "lat": 39.5255,
+      "lng": -119.8125,
+      "radiusM": 200,
+      "address": "Truckee Riverwalk, Reno, NV",
+      "howTo": "Walk the Truckee Riverwalk.",
+      "badge": "badges/truckee-riverwalk.png"
+    },
+    {
+      "id": "university-of-nevada-reno",
+      "name": "University of Nevada, Reno",
+      "lat": 39.5445,
+      "lng": -119.8155,
+      "radiusM": 250,
+      "address": "Reno, NV",
+      "howTo": "Visit the University of Nevada, Reno campus.",
+      "badge": "badges/university-of-nevada-reno.png"
+    }
+  ]
+}

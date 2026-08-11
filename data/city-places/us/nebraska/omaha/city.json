@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/nebraska/omaha",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NE",
+  "stateName": "Nebraska",
+  "cityName": "Omaha",
+  "bbox": {
+    "minLat": 41.2,
+    "minLng": -96.12,
+    "maxLat": 41.32,
+    "maxLng": -95.9
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "henry-doorly-zoo",
+      "name": "Omaha's Henry Doorly Zoo and Aquarium",
+      "lat": 41.2245,
+      "lng": -95.9285,
+      "radiusM": 300,
+      "address": "3701 S 10th St, Omaha, NE",
+      "howTo": "Visit Henry Doorly Zoo and Aquarium.",
+      "badge": "badges/henry-doorly-zoo.png"
+    },
+    {
+      "id": "old-market",
+      "name": "Old Market",
+      "lat": 41.2555,
+      "lng": -95.9285,
+      "radiusM": 200,
+      "address": "Old Market, Omaha, NE",
+      "howTo": "Visit the Old Market.",
+      "badge": "badges/old-market.png"
+    },
+    {
+      "id": "bob-kerrey-bridge",
+      "name": "Bob Kerrey Pedestrian Bridge",
+      "lat": 41.2635,
+      "lng": -95.9235,
+      "radiusM": 150,
+      "address": "Bob Kerrey Pedestrian Bridge, Omaha, NE",
+      "howTo": "Walk the Bob Kerrey Pedestrian Bridge.",
+      "badge": "badges/bob-kerrey-bridge.png"
+    },
+    {
+      "id": "joslyn-art-museum",
+      "name": "Joslyn Art Museum",
+      "lat": 41.2605,
+      "lng": -95.9465,
+      "radiusM": 120,
+      "address": "2200 Dodge St, Omaha, NE",
+      "howTo": "Visit the Joslyn Art Museum.",
+      "badge": "badges/joslyn-art-museum.png"
+    },
+    {
+      "id": "lauritzen-gardens",
+      "name": "Lauritzen Gardens",
+      "lat": 41.2235,
+      "lng": -95.9185,
+      "radiusM": 250,
+      "address": "100 Bancroft St, Omaha, NE",
+      "howTo": "Visit Lauritzen Gardens.",
+      "badge": "badges/lauritzen-gardens.png"
+    }
+  ]
+}

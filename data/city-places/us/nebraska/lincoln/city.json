@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/nebraska/lincoln",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NE",
+  "stateName": "Nebraska",
+  "cityName": "Lincoln",
+  "bbox": {
+    "minLat": 40.76,
+    "minLng": -96.75,
+    "maxLat": 40.86,
+    "maxLng": -96.64
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nebraska-state-capitol",
+      "name": "Nebraska State Capitol",
+      "lat": 40.8081,
+      "lng": -96.6997,
+      "radiusM": 150,
+      "address": "1445 K St, Lincoln, NE",
+      "howTo": "Visit the Nebraska State Capitol.",
+      "badge": "badges/nebraska-state-capitol.png"
+    },
+    {
+      "id": "memorial-stadium",
+      "name": "Memorial Stadium",
+      "lat": 40.8206,
+      "lng": -96.7056,
+      "radiusM": 200,
+      "address": "1 Memorial Stadium Dr, Lincoln, NE",
+      "howTo": "Visit Memorial Stadium.",
+      "badge": "badges/memorial-stadium.png"
+    },
+    {
+      "id": "sunken-gardens",
+      "name": "Sunken Gardens",
+      "lat": 40.8055,
+      "lng": -96.6785,
+      "radiusM": 150,
+      "address": "2700 S 27th St, Lincoln, NE",
+      "howTo": "Visit the Sunken Gardens.",
+      "badge": "badges/sunken-gardens.png"
+    },
+    {
+      "id": "university-of-nebraska",
+      "name": "University of Nebraska\u2013Lincoln",
+      "lat": 40.8202,
+      "lng": -96.7005,
+      "radiusM": 250,
+      "address": "Lincoln, NE",
+      "howTo": "Visit the UNL campus.",
+      "badge": "badges/university-of-nebraska.png"
+    }
+  ]
+}

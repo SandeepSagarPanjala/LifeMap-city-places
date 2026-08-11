@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-jersey/cape-may",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NJ",
+  "stateName": "New Jersey",
+  "cityName": "Cape May",
+  "bbox": {
+    "minLat": 38.92,
+    "minLng": -74.94,
+    "maxLat": 38.96,
+    "maxLng": -74.9
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cape-may-lighthouse",
+      "name": "Cape May Lighthouse",
+      "lat": 38.933,
+      "lng": -74.9605,
+      "radiusM": 150,
+      "address": "215 Lighthouse Ave, Cape May, NJ",
+      "howTo": "Visit the Cape May Lighthouse.",
+      "badge": "badges/cape-may-lighthouse.png"
+    },
+    {
+      "id": "washington-street-mall",
+      "name": "Washington Street Mall",
+      "lat": 38.9325,
+      "lng": -74.9225,
+      "radiusM": 150,
+      "address": "Washington St, Cape May, NJ",
+      "howTo": "Walk Washington Street Mall.",
+      "badge": "badges/washington-street-mall.png"
+    },
+    {
+      "id": "cape-may-promenade",
+      "name": "Cape May Promenade",
+      "lat": 38.9305,
+      "lng": -74.9185,
+      "radiusM": 250,
+      "address": "Beach Ave, Cape May, NJ",
+      "howTo": "Walk the Cape May Promenade.",
+      "badge": "badges/cape-may-promenade.png"
+    },
+    {
+      "id": "emlen-physick-estate",
+      "name": "Emlen Physick Estate",
+      "lat": 38.9355,
+      "lng": -74.9215,
+      "radiusM": 120,
+      "address": "1048 Washington St, Cape May, NJ",
+      "howTo": "Visit the Emlen Physick Estate.",
+      "badge": "badges/emlen-physick-estate.png"
+    },
+    {
+      "id": "cape-may-point-state-park",
+      "name": "Cape May Point State Park",
+      "lat": 38.9335,
+      "lng": -74.9615,
+      "radiusM": 300,
+      "address": "Lighthouse Ave, Cape May Point, NJ",
+      "howTo": "Visit Cape May Point State Park.",
+      "badge": "badges/cape-may-point-state-park.png"
+    }
+  ]
+}

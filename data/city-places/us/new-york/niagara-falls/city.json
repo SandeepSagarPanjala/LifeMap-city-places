@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-york/niagara-falls",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NY",
+  "stateName": "New York",
+  "cityName": "Niagara Falls",
+  "bbox": {
+    "minLat": 43.07,
+    "minLng": -79.08,
+    "maxLat": 43.12,
+    "maxLng": -79.02
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "american-falls",
+      "name": "American Falls",
+      "lat": 43.0835,
+      "lng": -79.0705,
+      "radiusM": 200,
+      "address": "Niagara Falls State Park, NY",
+      "howTo": "Visit American Falls.",
+      "badge": "badges/american-falls.png"
+    },
+    {
+      "id": "niagara-falls-state-park",
+      "name": "Niagara Falls State Park",
+      "lat": 43.0845,
+      "lng": -79.0675,
+      "radiusM": 300,
+      "address": "Niagara Falls State Park, NY",
+      "howTo": "Visit Niagara Falls State Park.",
+      "badge": "badges/niagara-falls-state-park.png"
+    },
+    {
+      "id": "goat-island",
+      "name": "Goat Island",
+      "lat": 43.0805,
+      "lng": -79.0685,
+      "radiusM": 250,
+      "address": "Goat Island, Niagara Falls, NY",
+      "howTo": "Visit Goat Island.",
+      "badge": "badges/goat-island.png"
+    },
+    {
+      "id": "cave-of-the-winds",
+      "name": "Cave of the Winds",
+      "lat": 43.0795,
+      "lng": -79.0725,
+      "radiusM": 150,
+      "address": "Goat Island, Niagara Falls, NY",
+      "howTo": "Visit Cave of the Winds.",
+      "badge": "badges/cave-of-the-winds.png"
+    },
+    {
+      "id": "prospect-point",
+      "name": "Prospect Point",
+      "lat": 43.0855,
+      "lng": -79.0695,
+      "radiusM": 150,
+      "address": "Prospect Point, Niagara Falls, NY",
+      "howTo": "Visit Prospect Point.",
+      "badge": "badges/prospect-point.png"
+    }
+  ]
+}

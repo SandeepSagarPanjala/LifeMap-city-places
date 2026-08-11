@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-jersey/atlantic-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NJ",
+  "stateName": "New Jersey",
+  "cityName": "Atlantic City",
+  "bbox": {
+    "minLat": 39.34,
+    "minLng": -74.48,
+    "maxLat": 39.39,
+    "maxLng": -74.4
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "atlantic-city-boardwalk",
+      "name": "Atlantic City Boardwalk",
+      "lat": 39.3575,
+      "lng": -74.4255,
+      "radiusM": 300,
+      "address": "Boardwalk, Atlantic City, NJ",
+      "howTo": "Walk the Atlantic City Boardwalk.",
+      "badge": "badges/atlantic-city-boardwalk.png"
+    },
+    {
+      "id": "absecon-lighthouse",
+      "name": "Absecon Lighthouse",
+      "lat": 39.3665,
+      "lng": -74.4145,
+      "radiusM": 120,
+      "address": "31 S Rhode Island Ave, Atlantic City, NJ",
+      "howTo": "Visit Absecon Lighthouse.",
+      "badge": "badges/absecon-lighthouse.png"
+    },
+    {
+      "id": "atlantic-city-beach",
+      "name": "Atlantic City Beach",
+      "lat": 39.3565,
+      "lng": -74.4225,
+      "radiusM": 300,
+      "address": "Atlantic City, NJ",
+      "howTo": "Visit Atlantic City Beach.",
+      "badge": "badges/atlantic-city-beach.png"
+    },
+    {
+      "id": "steel-pier",
+      "name": "Steel Pier",
+      "lat": 39.3585,
+      "lng": -74.4185,
+      "radiusM": 150,
+      "address": "Steel Pier, Atlantic City, NJ",
+      "howTo": "Visit Steel Pier.",
+      "badge": "badges/steel-pier.png"
+    }
+  ]
+}

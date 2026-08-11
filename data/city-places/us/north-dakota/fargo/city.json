@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/north-dakota/fargo",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ND",
+  "stateName": "North Dakota",
+  "cityName": "Fargo",
+  "bbox": {
+    "minLat": 46.84,
+    "minLng": -96.85,
+    "maxLat": 46.92,
+    "maxLng": -96.75
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plains-art-museum",
+      "name": "Plains Art Museum",
+      "lat": 46.8785,
+      "lng": -96.7895,
+      "radiusM": 120,
+      "address": "704 First Ave N, Fargo, ND",
+      "howTo": "Visit Plains Art Museum.",
+      "badge": "badges/plains-art-museum.png"
+    },
+    {
+      "id": "fargo-theatre",
+      "name": "Fargo Theatre",
+      "lat": 46.8775,
+      "lng": -96.7895,
+      "radiusM": 100,
+      "address": "314 Broadway, Fargo, ND",
+      "howTo": "Visit the Fargo Theatre.",
+      "badge": "badges/fargo-theatre.png"
+    },
+    {
+      "id": "island-park",
+      "name": "Island Park",
+      "lat": 46.8685,
+      "lng": -96.7895,
+      "radiusM": 250,
+      "address": "Island Park, Fargo, ND",
+      "howTo": "Visit Island Park.",
+      "badge": "badges/island-park.png"
+    },
+    {
+      "id": "red-river-fargo",
+      "name": "Red River",
+      "lat": 46.8775,
+      "lng": -96.7835,
+      "radiusM": 200,
+      "address": "Red River, Fargo, ND",
+      "howTo": "Visit the Red River waterfront.",
+      "badge": "badges/red-river-fargo.png"
+    }
+  ]
+}

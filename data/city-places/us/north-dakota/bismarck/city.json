@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/north-dakota/bismarck",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ND",
+  "stateName": "North Dakota",
+  "cityName": "Bismarck",
+  "bbox": {
+    "minLat": 46.78,
+    "minLng": -100.82,
+    "maxLat": 46.85,
+    "maxLng": -100.72
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "north-dakota-state-capitol",
+      "name": "North Dakota State Capitol",
+      "lat": 46.8207,
+      "lng": -100.782,
+      "radiusM": 150,
+      "address": "600 E Boulevard Ave, Bismarck, ND",
+      "howTo": "Visit the North Dakota State Capitol.",
+      "badge": "badges/north-dakota-state-capitol.png"
+    },
+    {
+      "id": "fort-abraham-lincoln",
+      "name": "Fort Abraham Lincoln State Park",
+      "lat": 46.7655,
+      "lng": -100.8485,
+      "radiusM": 300,
+      "address": "4480 Fort Lincoln Rd, Mandan, ND",
+      "howTo": "Visit Fort Abraham Lincoln State Park.",
+      "badge": "badges/fort-abraham-lincoln.png"
+    },
+    {
+      "id": "dakota-zoo",
+      "name": "Dakota Zoo",
+      "lat": 46.8085,
+      "lng": -100.8185,
+      "radiusM": 200,
+      "address": "1600 Burnt Boat Dr, Bismarck, ND",
+      "howTo": "Visit the Dakota Zoo.",
+      "badge": "badges/dakota-zoo.png"
+    },
+    {
+      "id": "former-governors-mansion",
+      "name": "Former Governors' Mansion",
+      "lat": 46.8105,
+      "lng": -100.7885,
+      "radiusM": 100,
+      "address": "320 E Ave B, Bismarck, ND",
+      "howTo": "Visit the Former Governors' Mansion.",
+      "badge": "badges/former-governors-mansion.png"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/missouri/st-louis",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MO",
+  "stateName": "Missouri",
+  "cityName": "St. Louis",
+  "bbox": {
+    "minLat": 38.55,
+    "minLng": -90.4,
+    "maxLat": 38.75,
+    "maxLng": -90.18
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gateway-arch",
+      "name": "Gateway Arch",
+      "lat": 38.6247,
+      "lng": -90.1848,
+      "radiusM": 200,
+      "address": "11 N 4th St, St. Louis, MO",
+      "howTo": "Visit the Gateway Arch.",
+      "badge": "badges/gateway-arch.png"
+    },
+    {
+      "id": "forest-park",
+      "name": "Forest Park",
+      "lat": 38.6389,
+      "lng": -90.2846,
+      "radiusM": 400,
+      "address": "5595 Grand Dr, St. Louis, MO",
+      "howTo": "Visit Forest Park.",
+      "badge": "badges/forest-park.png"
+    },
+    {
+      "id": "city-museum",
+      "name": "City Museum",
+      "lat": 38.6335,
+      "lng": -90.2005,
+      "radiusM": 150,
+      "address": "750 N 16th St, St. Louis, MO",
+      "howTo": "Visit City Museum.",
+      "badge": "badges/city-museum.png"
+    },
+    {
+      "id": "busch-stadium",
+      "name": "Busch Stadium",
+      "lat": 38.6226,
+      "lng": -90.1928,
+      "radiusM": 200,
+      "address": "700 Clark Ave, St. Louis, MO",
+      "howTo": "Visit Busch Stadium.",
+      "badge": "badges/busch-stadium.png"
+    },
+    {
+      "id": "cathedral-basilica-stl",
+      "name": "Cathedral Basilica of Saint Louis",
+      "lat": 38.6425,
+      "lng": -90.2545,
+      "radiusM": 120,
+      "address": "4431 Lindell Blvd, St. Louis, MO",
+      "howTo": "Visit the Cathedral Basilica of Saint Louis.",
+      "badge": "badges/cathedral-basilica-stl.png"
+    },
+    {
+      "id": "st-louis-zoo",
+      "name": "Saint Louis Zoo",
+      "lat": 38.6355,
+      "lng": -90.2905,
+      "radiusM": 250,
+      "address": "1 Government Dr, St. Louis, MO",
+      "howTo": "Visit the Saint Louis Zoo.",
+      "badge": "badges/st-louis-zoo.png"
+    },
+    {
+      "id": "lafayette-square",
+      "name": "Lafayette Square",
+      "lat": 38.6165,
+      "lng": -90.2135,
+      "radiusM": 200,
+      "address": "Lafayette Square, St. Louis, MO",
+      "howTo": "Visit Lafayette Square.",
+      "badge": "badges/lafayette-square.png"
+    }
+  ]
+}

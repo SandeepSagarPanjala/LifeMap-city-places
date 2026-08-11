@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/north-carolina/wilmington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NC",
+  "stateName": "North Carolina",
+  "cityName": "Wilmington",
+  "bbox": {
+    "minLat": 34.18,
+    "minLng": -77.95,
+    "maxLat": 34.28,
+    "maxLng": -77.8
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uss-north-carolina",
+      "name": "USS North Carolina",
+      "lat": 34.2365,
+      "lng": -77.9545,
+      "radiusM": 200,
+      "address": "1 Battleship Rd, Wilmington, NC",
+      "howTo": "Visit USS North Carolina.",
+      "badge": "badges/uss-north-carolina.png"
+    },
+    {
+      "id": "wilmington-riverwalk",
+      "name": "Wilmington Riverwalk",
+      "lat": 34.2355,
+      "lng": -77.9505,
+      "radiusM": 250,
+      "address": "Riverwalk, Wilmington, NC",
+      "howTo": "Walk the Wilmington Riverwalk.",
+      "badge": "badges/wilmington-riverwalk.png"
+    },
+    {
+      "id": "airlie-gardens",
+      "name": "Airlie Gardens",
+      "lat": 34.2155,
+      "lng": -77.8305,
+      "radiusM": 250,
+      "address": "300 Airlie Rd, Wilmington, NC",
+      "howTo": "Visit Airlie Gardens.",
+      "badge": "badges/airlie-gardens.png"
+    },
+    {
+      "id": "fort-fisher",
+      "name": "Fort Fisher State Historic Site",
+      "lat": 33.9685,
+      "lng": -77.9185,
+      "radiusM": 250,
+      "address": "1610 Fort Fisher Blvd S, Kure Beach, NC",
+      "howTo": "Visit Fort Fisher.",
+      "badge": "badges/fort-fisher.png"
+    }
+  ]
+}

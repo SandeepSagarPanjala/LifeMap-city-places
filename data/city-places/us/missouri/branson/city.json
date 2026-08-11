@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/missouri/branson",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MO",
+  "stateName": "Missouri",
+  "cityName": "Branson",
+  "bbox": {
+    "minLat": 36.6,
+    "minLng": -93.28,
+    "maxLat": 36.7,
+    "maxLng": -93.15
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "branson-landing",
+      "name": "Branson Landing",
+      "lat": 36.6435,
+      "lng": -93.2165,
+      "radiusM": 250,
+      "address": "Branson Landing, Branson, MO",
+      "howTo": "Visit Branson Landing.",
+      "badge": "badges/branson-landing.png"
+    },
+    {
+      "id": "table-rock-lake",
+      "name": "Table Rock Lake",
+      "lat": 36.5955,
+      "lng": -93.2925,
+      "radiusM": 400,
+      "address": "Table Rock Lake, MO",
+      "howTo": "Visit Table Rock Lake.",
+      "badge": "badges/table-rock-lake.png"
+    },
+    {
+      "id": "titanic-museum",
+      "name": "Titanic Museum Attraction",
+      "lat": 36.6435,
+      "lng": -93.2785,
+      "radiusM": 120,
+      "address": "3235 W 76 Country Blvd, Branson, MO",
+      "howTo": "Visit the Titanic Museum Attraction.",
+      "badge": "badges/titanic-museum.png"
+    },
+    {
+      "id": "table-rock-state-park",
+      "name": "Table Rock State Park",
+      "lat": 36.5855,
+      "lng": -93.3085,
+      "radiusM": 300,
+      "address": "5272 State Hwy 165, Branson, MO",
+      "howTo": "Visit Table Rock State Park.",
+      "badge": "badges/table-rock-state-park.png"
+    }
+  ]
+}

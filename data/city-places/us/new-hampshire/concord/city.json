@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-hampshire/concord",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NH",
+  "stateName": "New Hampshire",
+  "cityName": "Concord",
+  "bbox": {
+    "minLat": 43.18,
+    "minLng": -71.56,
+    "maxLat": 43.24,
+    "maxLng": -71.5
+  },
+  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "new-hampshire-state-house",
+      "name": "New Hampshire State House",
+      "lat": 43.2069,
+      "lng": -71.5381,
+      "radiusM": 120,
+      "address": "107 N Main St, Concord, NH",
+      "howTo": "Visit the New Hampshire State House.",
+      "badge": "badges/new-hampshire-state-house.png"
+    },
+    {
+      "id": "mcauliffe-shepard",
+      "name": "McAuliffe-Shepard Discovery Center",
+      "lat": 43.2215,
+      "lng": -71.5325,
+      "radiusM": 150,
+      "address": "2 Institute Dr, Concord, NH",
+      "howTo": "Visit the McAuliffe-Shepard Discovery Center.",
+      "badge": "badges/mcauliffe-shepard.png"
+    },
+    {
+      "id": "pierce-manse",
+      "name": "Pierce Manse",
+      "lat": 43.2115,
+      "lng": -71.5405,
+      "radiusM": 100,
+      "address": "14 Horseshoe Pond Ln, Concord, NH",
+      "howTo": "Visit the Pierce Manse.",
+      "badge": "badges/pierce-manse.png"
+    },
+    {
+      "id": "capitol-center-for-arts",
+      "name": "Capitol Center for the Arts",
+      "lat": 43.2055,
+      "lng": -71.5375,
+      "radiusM": 100,
+      "address": "44 S Main St, Concord, NH",
+      "howTo": "Visit the Capitol Center for the Arts.",
+      "badge": "badges/capitol-center-for-arts.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/new-york/buffalo",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NY",
+  "stateName": "New York",
+  "cityName": "Buffalo",
+  "bbox": {
+    "minLat": 42.85,
+    "minLng": -78.92,
+    "maxLat": 42.95,
+    "maxLng": -78.8
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "buffalo-city-hall",
+      "name": "Buffalo City Hall",
+      "lat": 42.8865,
+      "lng": -78.8785,
+      "radiusM": 120,
+      "address": "65 Niagara Sq, Buffalo, NY",
+      "howTo": "Visit Buffalo City Hall.",
+      "badge": "badges/buffalo-city-hall.png"
+    },
+    {
+      "id": "canalside",
+      "name": "Canalside",
+      "lat": 42.8775,
+      "lng": -78.8805,
+      "radiusM": 200,
+      "address": "Canalside, Buffalo, NY",
+      "howTo": "Visit Canalside.",
+      "badge": "badges/canalside.png"
+    },
+    {
+      "id": "buffalo-akg",
+      "name": "Buffalo AKG Art Museum",
+      "lat": 42.9325,
+      "lng": -78.8765,
+      "radiusM": 150,
+      "address": "1285 Elmwood Ave, Buffalo, NY",
+      "howTo": "Visit the Buffalo AKG Art Museum.",
+      "badge": "badges/buffalo-akg.png"
+    },
+    {
+      "id": "darwin-martin-house",
+      "name": "Darwin D. Martin House",
+      "lat": 42.9325,
+      "lng": -78.8475,
+      "radiusM": 120,
+      "address": "125 Jewett Pkwy, Buffalo, NY",
+      "howTo": "Visit the Darwin D. Martin House.",
+      "badge": "badges/darwin-martin-house.png"
+    },
+    {
+      "id": "delaware-park",
+      "name": "Delaware Park",
+      "lat": 42.9355,
+      "lng": -78.8635,
+      "radiusM": 300,
+      "address": "Delaware Park, Buffalo, NY",
+      "howTo": "Visit Delaware Park.",
+      "badge": "badges/delaware-park.png"
+    }
+  ]
+}

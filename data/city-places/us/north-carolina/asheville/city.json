@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/north-carolina/asheville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "NC",
+  "stateName": "North Carolina",
+  "cityName": "Asheville",
+  "bbox": {
+    "minLat": 35.5,
+    "minLng": -82.6,
+    "maxLat": 35.65,
+    "maxLng": -82.45
+  },
+  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "biltmore",
+      "name": "Biltmore Estate",
+      "lat": 35.5395,
+      "lng": -82.5525,
+      "radiusM": 400,
+      "address": "1 Lodge St, Asheville, NC",
+      "howTo": "Visit Biltmore Estate.",
+      "badge": "badges/biltmore.png"
+    },
+    {
+      "id": "downtown-asheville",
+      "name": "Downtown Asheville",
+      "lat": 35.5951,
+      "lng": -82.5515,
+      "radiusM": 250,
+      "address": "Downtown Asheville, NC",
+      "howTo": "Explore downtown Asheville.",
+      "badge": "badges/downtown-asheville.png"
+    },
+    {
+      "id": "blue-ridge-parkway",
+      "name": "Blue Ridge Parkway",
+      "lat": 35.5655,
+      "lng": -82.4885,
+      "radiusM": 300,
+      "address": "Blue Ridge Parkway, Asheville, NC",
+      "howTo": "Drive the Blue Ridge Parkway near Asheville.",
+      "badge": "badges/blue-ridge-parkway.png"
+    },
+    {
+      "id": "river-arts-district",
+      "name": "River Arts District",
+      "lat": 35.5785,
+      "lng": -82.5685,
+      "radiusM": 250,
+      "address": "River Arts District, Asheville, NC",
+      "howTo": "Visit the River Arts District.",
+      "badge": "badges/river-arts-district.png"
+    },
+    {
+      "id": "botanical-gardens-asheville",
+      "name": "Botanical Gardens at Asheville",
+      "lat": 35.6155,
+      "lng": -82.5655,
+      "radiusM": 200,
+      "address": "151 W.T. Weaver Blvd, Asheville, NC",
+      "howTo": "Visit the Botanical Gardens at Asheville.",
+      "badge": "badges/botanical-gardens-asheville.png"
+    }
+  ]
+}

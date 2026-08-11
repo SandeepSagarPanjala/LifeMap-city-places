@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/montana/whitefish",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MT",
+  "stateName": "Montana",
+  "cityName": "Whitefish",
+  "bbox": {
+    "minLat": 48.4,
+    "minLng": -114.38,
+    "maxLat": 48.45,
+    "maxLng": -114.3
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "whitefish-lake",
+      "name": "Whitefish Lake",
+      "lat": 48.4455,
+      "lng": -114.3655,
+      "radiusM": 300,
+      "address": "Whitefish Lake, Whitefish, MT",
+      "howTo": "Visit Whitefish Lake.",
+      "badge": "badges/whitefish-lake.png"
+    },
+    {
+      "id": "city-beach-whitefish",
+      "name": "City Beach",
+      "lat": 48.4195,
+      "lng": -114.3455,
+      "radiusM": 200,
+      "address": "City Beach, Whitefish, MT",
+      "howTo": "Visit City Beach.",
+      "badge": "badges/city-beach-whitefish.png"
+    },
+    {
+      "id": "whitefish-mountain",
+      "name": "Whitefish Mountain Resort",
+      "lat": 48.4855,
+      "lng": -114.3555,
+      "radiusM": 300,
+      "address": "Whitefish Mountain Resort, MT",
+      "howTo": "Visit Whitefish Mountain Resort.",
+      "badge": "badges/whitefish-mountain.png"
+    },
+    {
+      "id": "downtown-whitefish",
+      "name": "Downtown Whitefish",
+      "lat": 48.4115,
+      "lng": -114.3375,
+      "radiusM": 150,
+      "address": "Central Ave, Whitefish, MT",
+      "howTo": "Explore downtown Whitefish.",
+      "badge": "badges/downtown-whitefish.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/montana/missoula",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MT",
+  "stateName": "Montana",
+  "cityName": "Missoula",
+  "bbox": {
+    "minLat": 46.84,
+    "minLng": -114.05,
+    "maxLat": 46.9,
+    "maxLng": -113.95
+  },
+  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "university-of-montana",
+      "name": "University of Montana",
+      "lat": 46.862,
+      "lng": -113.9851,
+      "radiusM": 250,
+      "address": "Missoula, MT",
+      "howTo": "Visit the University of Montana campus.",
+      "badge": "badges/university-of-montana.png"
+    },
+    {
+      "id": "mount-sentinel",
+      "name": "Mount Sentinel",
+      "lat": 46.8585,
+      "lng": -113.9755,
+      "radiusM": 300,
+      "address": "Mount Sentinel, Missoula, MT",
+      "howTo": "Hike Mount Sentinel to the M.",
+      "badge": "badges/mount-sentinel.png"
+    },
+    {
+      "id": "caras-park",
+      "name": "Caras Park",
+      "lat": 46.8695,
+      "lng": -113.9965,
+      "radiusM": 200,
+      "address": "Caras Park, Missoula, MT",
+      "howTo": "Visit Caras Park on the Clark Fork.",
+      "badge": "badges/caras-park.png"
+    },
+    {
+      "id": "fort-missoula",
+      "name": "Fort Missoula",
+      "lat": 46.8425,
+      "lng": -114.0605,
+      "radiusM": 200,
+      "address": "3400 Captain Rawn Way, Missoula, MT",
+      "howTo": "Visit Fort Missoula.",
+      "badge": "badges/fort-missoula.png"
+    }
+  ]
+}
