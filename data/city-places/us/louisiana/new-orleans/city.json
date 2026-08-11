@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "us/louisiana/new-orleans",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "LA",
+  "stateName": "Louisiana",
+  "cityName": "New Orleans",
+  "bbox": {
+    "minLat": 29.9,
+    "minLng": -90.15,
+    "maxLat": 30.03,
+    "maxLng": -90.04
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jackson-square",
+      "name": "Jackson Square",
+      "lat": 29.95747,
+      "lng": -90.06295,
+      "radiusM": 150,
+      "address": "Jackson Square, New Orleans, LA",
+      "howTo": "Visit Jackson Square in the French Quarter.",
+      "badge": "badges/jackson-square.png"
+    },
+    {
+      "id": "st-louis-cathedral",
+      "name": "St. Louis Cathedral",
+      "lat": 29.958,
+      "lng": -90.06375,
+      "radiusM": 150,
+      "address": "615 Pere Antoine Alley, New Orleans, LA",
+      "howTo": "Visit St. Louis Cathedral.",
+      "badge": "badges/st-louis-cathedral.png"
+    },
+    {
+      "id": "french-market",
+      "name": "French Market",
+      "lat": 29.95934,
+      "lng": -90.06026,
+      "radiusM": 200,
+      "address": "French Market, New Orleans, LA",
+      "howTo": "Visit the French Market.",
+      "badge": "badges/french-market.png"
+    },
+    {
+      "id": "the-cabildo",
+      "name": "The Cabildo",
+      "lat": 29.95767,
+      "lng": -90.06381,
+      "radiusM": 150,
+      "address": "701 Chartres St, New Orleans, LA",
+      "howTo": "Visit The Cabildo.",
+      "badge": "badges/the-cabildo.png"
+    },
+    {
+      "id": "national-wwii-museum",
+      "name": "The National World War II Museum",
+      "lat": 29.94214,
+      "lng": -90.07077,
+      "radiusM": 200,
+      "address": "945 Magazine St, New Orleans, LA",
+      "howTo": "Visit The National World War II Museum.",
+      "badge": "badges/national-wwii-museum.png"
+    },
+    {
+      "id": "city-park",
+      "name": "City Park",
+      "lat": 30.00061,
+      "lng": -90.09329,
+      "radiusM": 500,
+      "address": "City Park, New Orleans, LA",
+      "howTo": "Visit New Orleans City Park.",
+      "badge": "badges/city-park.png"
+    },
+    {
+      "id": "new-orleans-museum-of-art",
+      "name": "New Orleans Museum of Art",
+      "lat": 29.98643,
+      "lng": -90.09343,
+      "radiusM": 150,
+      "address": "1 Collins Diboll Cir, New Orleans, LA",
+      "howTo": "Visit the New Orleans Museum of Art.",
+      "badge": "badges/new-orleans-museum-of-art.png"
+    },
+    {
+      "id": "audubon-zoo",
+      "name": "Audubon Zoo",
+      "lat": 29.9223,
+      "lng": -90.13068,
+      "radiusM": 300,
+      "address": "6500 Magazine St, New Orleans, LA",
+      "howTo": "Visit Audubon Zoo.",
+      "badge": "badges/audubon-zoo.png"
+    },
+    {
+      "id": "louis-armstrong-park",
+      "name": "Louis Armstrong Park",
+      "lat": 29.96274,
+      "lng": -90.06879,
+      "radiusM": 250,
+      "address": "701 N Rampart St, New Orleans, LA",
+      "howTo": "Visit Louis Armstrong Park.",
+      "badge": "badges/louis-armstrong-park.png"
+    },
+    {
+      "id": "lafayette-cemetery-no-1",
+      "name": "Lafayette Cemetery No. 1",
+      "lat": 29.92877,
+      "lng": -90.08535,
+      "radiusM": 150,
+      "address": "1400 Washington Ave, New Orleans, LA",
+      "howTo": "Visit Lafayette Cemetery No. 1.",
+      "badge": "badges/lafayette-cemetery-no-1.png"
+    },
+    {
+      "id": "woldenberg-park",
+      "name": "Woldenberg Park",
+      "lat": 29.95429,
+      "lng": -90.06286,
+      "radiusM": 250,
+      "address": "Woldenberg Park, New Orleans, LA",
+      "howTo": "Visit Woldenberg Park along the Mississippi River.",
+      "badge": "badges/woldenberg-park.png"
+    },
+    {
+      "id": "old-ursuline-convent",
+      "name": "Old Ursuline Convent",
+      "lat": 29.96085,
+      "lng": -90.06066,
+      "radiusM": 150,
+      "address": "1100 Chartres St, New Orleans, LA",
+      "howTo": "Visit the Old Ursuline Convent.",
+      "badge": "badges/old-ursuline-convent.png"
+    }
+  ]
+}

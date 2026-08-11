@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/illinois/springfield",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IL",
+  "stateName": "Illinois",
+  "cityName": "Springfield",
+  "bbox": {
+    "minLat": 39.72,
+    "minLng": -89.72,
+    "maxLat": 39.87,
+    "maxLng": -89.55
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "abraham-lincoln-presidential-museum",
+      "name": "Abraham Lincoln Presidential Museum",
+      "lat": 39.8033,
+      "lng": -89.647,
+      "radiusM": 150,
+      "address": "212 N 6th St, Springfield, IL",
+      "howTo": "Visit the Abraham Lincoln Presidential Museum.",
+      "badge": "badges/abraham-lincoln-presidential-museum.png"
+    },
+    {
+      "id": "lincoln-home",
+      "name": "Lincoln Home National Historic Site",
+      "lat": 39.7972,
+      "lng": -89.645,
+      "radiusM": 150,
+      "address": "426 S 7th St, Springfield, IL",
+      "howTo": "Visit the Lincoln Home National Historic Site.",
+      "badge": "badges/lincoln-home.png"
+    },
+    {
+      "id": "illinois-state-capitol",
+      "name": "Illinois State Capitol",
+      "lat": 39.7984,
+      "lng": -89.6549,
+      "radiusM": 150,
+      "address": "401 S 2nd St, Springfield, IL",
+      "howTo": "Visit the Illinois State Capitol.",
+      "badge": "badges/illinois-state-capitol.png"
+    },
+    {
+      "id": "old-state-capitol",
+      "name": "Old State Capitol",
+      "lat": 39.8011,
+      "lng": -89.6486,
+      "radiusM": 150,
+      "address": "1 Old State Capitol Plaza, Springfield, IL",
+      "howTo": "Visit the Old State Capitol.",
+      "badge": "badges/old-state-capitol.png"
+    },
+    {
+      "id": "lincoln-tomb",
+      "name": "Lincoln Tomb",
+      "lat": 39.8232,
+      "lng": -89.6557,
+      "radiusM": 150,
+      "address": "1500 Monument Ave, Springfield, IL",
+      "howTo": "Visit Lincoln Tomb in Oak Ridge Cemetery.",
+      "badge": "badges/lincoln-tomb.png"
+    },
+    {
+      "id": "dana-thomas-house",
+      "name": "Dana-Thomas House",
+      "lat": 39.795,
+      "lng": -89.6537,
+      "radiusM": 150,
+      "address": "301 E Lawrence Ave, Springfield, IL",
+      "howTo": "Visit the Dana-Thomas House.",
+      "badge": "badges/dana-thomas-house.png"
+    },
+    {
+      "id": "illinois-state-museum",
+      "name": "Illinois State Museum",
+      "lat": 39.7968,
+      "lng": -89.6565,
+      "radiusM": 150,
+      "address": "502 S Spring St, Springfield, IL",
+      "howTo": "Visit the Illinois State Museum.",
+      "badge": "badges/illinois-state-museum.png"
+    }
+  ]
+}

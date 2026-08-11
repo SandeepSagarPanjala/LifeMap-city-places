@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/georgia/athens",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "GA",
+  "stateName": "Georgia",
+  "cityName": "Athens",
+  "bbox": {
+    "minLat": 33.85,
+    "minLng": -83.54,
+    "maxLat": 34.04,
+    "maxLng": -83.24
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uga-arch",
+      "name": "UGA Arch",
+      "lat": 33.9575,
+      "lng": -83.3747,
+      "radiusM": 150,
+      "address": "Broad St at College Ave, Athens, GA",
+      "howTo": "Visit the Arch at the University of Georgia.",
+      "badge": "badges/uga-arch.png"
+    },
+    {
+      "id": "georgia-museum-of-art",
+      "name": "Georgia Museum of Art",
+      "lat": 33.94119,
+      "lng": -83.36984,
+      "radiusM": 150,
+      "address": "90 Carlton St, Athens, GA",
+      "howTo": "Visit the Georgia Museum of Art.",
+      "badge": "badges/georgia-museum-of-art.png"
+    },
+    {
+      "id": "state-botanical-garden",
+      "name": "State Botanical Garden of Georgia",
+      "lat": 33.90126,
+      "lng": -83.38403,
+      "radiusM": 400,
+      "address": "2450 S Milledge Ave, Athens, GA",
+      "howTo": "Visit the State Botanical Garden of Georgia.",
+      "badge": "badges/state-botanical-garden.png"
+    },
+    {
+      "id": "sanford-stadium",
+      "name": "Sanford Stadium",
+      "lat": 33.94979,
+      "lng": -83.37321,
+      "radiusM": 250,
+      "address": "100 Sanford Dr, Athens, GA",
+      "howTo": "Visit Sanford Stadium.",
+      "badge": "badges/sanford-stadium.png"
+    },
+    {
+      "id": "founders-memorial-garden",
+      "name": "Founders Memorial Garden",
+      "lat": 33.95483,
+      "lng": -83.3762,
+      "radiusM": 150,
+      "address": "325 S Lumpkin St, Athens, GA",
+      "howTo": "Visit Founders Memorial Garden.",
+      "badge": "badges/founders-memorial-garden.png"
+    },
+    {
+      "id": "memorial-park-athens",
+      "name": "Memorial Park",
+      "lat": 33.92678,
+      "lng": -83.38689,
+      "radiusM": 300,
+      "address": "293 Gran Ellen Dr, Athens, GA",
+      "howTo": "Visit Memorial Park.",
+      "badge": "badges/memorial-park-athens.png"
+    },
+    {
+      "id": "tree-that-owns-itself",
+      "name": "Tree That Owns Itself",
+      "lat": 33.95504,
+      "lng": -83.38238,
+      "radiusM": 100,
+      "address": "Dearing St at Finley St, Athens, GA",
+      "howTo": "Visit the Tree That Owns Itself.",
+      "badge": "badges/tree-that-owns-itself.png"
+    }
+  ]
+}

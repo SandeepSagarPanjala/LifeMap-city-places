@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/miami",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Miami",
+  "bbox": {
+    "minLat": 25.7,
+    "minLng": -80.35,
+    "maxLat": 25.9,
+    "maxLng": -80.1
+  },
+  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "south-beach",
+      "name": "South Beach",
+      "lat": 25.7825,
+      "lng": -80.134,
+      "radiusM": 300,
+      "address": "Ocean Dr, Miami Beach, FL",
+      "howTo": "Visit South Beach.",
+      "badge": "badges/south-beach.png"
+    },
+    {
+      "id": "vizcaya",
+      "name": "Vizcaya Museum and Gardens",
+      "lat": 25.7445,
+      "lng": -80.2105,
+      "radiusM": 250,
+      "address": "3251 S Miami Ave, Miami, FL",
+      "howTo": "Visit Vizcaya Museum and Gardens.",
+      "badge": "badges/vizcaya.png"
+    },
+    {
+      "id": "wynwood-walls",
+      "name": "Wynwood Walls",
+      "lat": 25.801,
+      "lng": -80.1995,
+      "radiusM": 150,
+      "address": "2520 NW 2nd Ave, Miami, FL",
+      "howTo": "Visit the Wynwood Walls.",
+      "badge": "badges/wynwood-walls.png"
+    },
+    {
+      "id": "biscayne-national-park",
+      "name": "Biscayne National Park",
+      "lat": 25.4824,
+      "lng": -80.208,
+      "radiusM": 400,
+      "address": "9700 SW 328th St, Homestead, FL",
+      "howTo": "Visit Biscayne National Park.",
+      "badge": "badges/biscayne-national-park.png"
+    },
+    {
+      "id": "miami-design-district",
+      "name": "Miami Design District",
+      "lat": 25.8135,
+      "lng": -80.192,
+      "radiusM": 200,
+      "address": "Design District, Miami, FL",
+      "howTo": "Visit the Miami Design District.",
+      "badge": "badges/miami-design-district.png"
+    },
+    {
+      "id": "bayfront-park",
+      "name": "Bayfront Park",
+      "lat": 25.7755,
+      "lng": -80.1865,
+      "radiusM": 200,
+      "address": "301 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit Bayfront Park.",
+      "badge": "badges/bayfront-park.png"
+    },
+    {
+      "id": "perez-art-museum",
+      "name": "P\u00e9rez Art Museum Miami",
+      "lat": 25.7859,
+      "lng": -80.1862,
+      "radiusM": 150,
+      "address": "1103 Biscayne Blvd, Miami, FL",
+      "howTo": "Visit P\u00e9rez Art Museum Miami.",
+      "badge": "badges/perez-art-museum.png"
+    },
+    {
+      "id": "little-havana-calle-ocho",
+      "name": "Little Havana Calle Ocho",
+      "lat": 25.7655,
+      "lng": -80.2195,
+      "radiusM": 200,
+      "address": "Calle Ocho, Miami, FL",
+      "howTo": "Visit Calle Ocho in Little Havana.",
+      "badge": "badges/little-havana-calle-ocho.png"
+    }
+  ]
+}

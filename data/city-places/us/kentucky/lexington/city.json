@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/kentucky/lexington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "KY",
+  "stateName": "Kentucky",
+  "cityName": "Lexington",
+  "bbox": {
+    "minLat": 37.88,
+    "minLng": -84.62,
+    "maxLat": 38.18,
+    "maxLng": -84.38
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kentucky-horse-park",
+      "name": "Kentucky Horse Park",
+      "lat": 38.15505,
+      "lng": -84.51773,
+      "radiusM": 500,
+      "address": "4089 Iron Works Pkwy, Lexington, KY",
+      "howTo": "Visit the Kentucky Horse Park.",
+      "badge": "badges/kentucky-horse-park.png"
+    },
+    {
+      "id": "keeneland",
+      "name": "Keeneland",
+      "lat": 38.05035,
+      "lng": -84.59977,
+      "radiusM": 400,
+      "address": "4201 Versailles Rd, Lexington, KY",
+      "howTo": "Visit Keeneland Race Course.",
+      "badge": "badges/keeneland.png"
+    },
+    {
+      "id": "ashland-henry-clay-estate",
+      "name": "Ashland, the Henry Clay Estate",
+      "lat": 38.02845,
+      "lng": -84.48,
+      "radiusM": 200,
+      "address": "120 Sycamore Rd, Lexington, KY",
+      "howTo": "Visit Ashland, the Henry Clay Estate.",
+      "badge": "badges/ashland-henry-clay-estate.png"
+    },
+    {
+      "id": "mary-todd-lincoln-house",
+      "name": "Mary Todd Lincoln House",
+      "lat": 38.0513,
+      "lng": -84.50277,
+      "radiusM": 150,
+      "address": "578 W Main St, Lexington, KY",
+      "howTo": "Visit the Mary Todd Lincoln House.",
+      "badge": "badges/mary-todd-lincoln-house.png"
+    },
+    {
+      "id": "uk-arboretum",
+      "name": "University of Kentucky Arboretum",
+      "lat": 38.01411,
+      "lng": -84.50742,
+      "radiusM": 300,
+      "address": "500 Alumni Dr, Lexington, KY",
+      "howTo": "Visit the University of Kentucky Arboretum.",
+      "badge": "badges/uk-arboretum.png"
+    },
+    {
+      "id": "raven-run-nature-sanctuary",
+      "name": "Raven Run Nature Sanctuary",
+      "lat": 37.89407,
+      "lng": -84.39341,
+      "radiusM": 400,
+      "address": "5888 Jacks Creek Pike, Lexington, KY",
+      "howTo": "Visit Raven Run Nature Sanctuary.",
+      "badge": "badges/raven-run-nature-sanctuary.png"
+    },
+    {
+      "id": "triangle-park",
+      "name": "Triangle Park",
+      "lat": 38.049,
+      "lng": -84.50056,
+      "radiusM": 150,
+      "address": "Triangle Park, Lexington, KY",
+      "howTo": "Visit Triangle Park downtown.",
+      "badge": "badges/triangle-park.png"
+    }
+  ]
+}

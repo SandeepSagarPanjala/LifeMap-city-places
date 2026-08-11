@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/orlando",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Orlando",
+  "bbox": {
+    "minLat": 28.35,
+    "minLng": -81.55,
+    "maxLat": 28.65,
+    "maxLng": -81.2
+  },
+  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "walt-disney-world",
+      "name": "Walt Disney World",
+      "lat": 28.3852,
+      "lng": -81.5639,
+      "radiusM": 500,
+      "address": "Lake Buena Vista, FL",
+      "howTo": "Visit Walt Disney World.",
+      "badge": "badges/walt-disney-world.png"
+    },
+    {
+      "id": "universal-orlando",
+      "name": "Universal Orlando Resort",
+      "lat": 28.4744,
+      "lng": -81.4678,
+      "radiusM": 400,
+      "address": "6000 Universal Blvd, Orlando, FL",
+      "howTo": "Visit Universal Orlando Resort.",
+      "badge": "badges/universal-orlando.png"
+    },
+    {
+      "id": "lake-eola-park",
+      "name": "Lake Eola Park",
+      "lat": 28.5437,
+      "lng": -81.373,
+      "radiusM": 250,
+      "address": "512 E Washington St, Orlando, FL",
+      "howTo": "Visit Lake Eola Park.",
+      "badge": "badges/lake-eola-park.png"
+    },
+    {
+      "id": "orlando-museum-of-art",
+      "name": "Orlando Museum of Art",
+      "lat": 28.5725,
+      "lng": -81.3675,
+      "radiusM": 120,
+      "address": "2416 N Mills Ave, Orlando, FL",
+      "howTo": "Visit the Orlando Museum of Art.",
+      "badge": "badges/orlando-museum-of-art.png"
+    },
+    {
+      "id": "harry-p-leu-gardens",
+      "name": "Harry P. Leu Gardens",
+      "lat": 28.5685,
+      "lng": -81.357,
+      "radiusM": 250,
+      "address": "1920 N Forest Ave, Orlando, FL",
+      "howTo": "Visit Harry P. Leu Gardens.",
+      "badge": "badges/harry-p-leu-gardens.png"
+    },
+    {
+      "id": "kennedy-space-center",
+      "name": "Kennedy Space Center",
+      "lat": 28.5729,
+      "lng": -80.649,
+      "radiusM": 400,
+      "address": "SR 405, Merritt Island, FL",
+      "howTo": "Visit Kennedy Space Center Visitor Complex.",
+      "badge": "badges/kennedy-space-center.png"
+    }
+  ]
+}

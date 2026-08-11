@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/colorado/colorado-springs",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CO",
+  "stateName": "Colorado",
+  "cityName": "Colorado Springs",
+  "bbox": {
+    "minLat": 38.75,
+    "minLng": -104.95,
+    "maxLat": 38.95,
+    "maxLng": -104.7
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "garden-of-the-gods",
+      "name": "Garden of the Gods",
+      "lat": 38.8735,
+      "lng": -104.886,
+      "radiusM": 400,
+      "address": "1805 N 30th St, Colorado Springs, CO",
+      "howTo": "Visit Garden of the Gods.",
+      "badge": "badges/garden-of-the-gods.png"
+    },
+    {
+      "id": "pikes-peak",
+      "name": "Pikes Peak",
+      "lat": 38.8409,
+      "lng": -105.0423,
+      "radiusM": 400,
+      "address": "Pikes Peak Hwy, CO",
+      "howTo": "Visit Pikes Peak.",
+      "badge": "badges/pikes-peak.png"
+    },
+    {
+      "id": "us-olympic-museum",
+      "name": "United States Olympic & Paralympic Museum",
+      "lat": 38.8295,
+      "lng": -104.828,
+      "radiusM": 150,
+      "address": "200 S Sierra Madre St, Colorado Springs, CO",
+      "howTo": "Visit the U.S. Olympic & Paralympic Museum.",
+      "badge": "badges/us-olympic-museum.png"
+    },
+    {
+      "id": "cheyenne-mountain-zoo",
+      "name": "Cheyenne Mountain Zoo",
+      "lat": 38.769,
+      "lng": -104.855,
+      "radiusM": 250,
+      "address": "4250 Cheyenne Mountain Zoo Rd, Colorado Springs, CO",
+      "howTo": "Visit Cheyenne Mountain Zoo.",
+      "badge": "badges/cheyenne-mountain-zoo.png"
+    },
+    {
+      "id": "seven-falls",
+      "name": "Seven Falls",
+      "lat": 38.779,
+      "lng": -104.876,
+      "radiusM": 200,
+      "address": "2850 S Cheyenne Canyon Rd, Colorado Springs, CO",
+      "howTo": "Visit Seven Falls.",
+      "badge": "badges/seven-falls.png"
+    },
+    {
+      "id": "manitou-incline",
+      "name": "Manitou Incline",
+      "lat": 38.8568,
+      "lng": -104.9325,
+      "radiusM": 150,
+      "address": "Manitou Springs, CO",
+      "howTo": "Hike the Manitou Incline.",
+      "badge": "badges/manitou-incline.png"
+    }
+  ]
+}

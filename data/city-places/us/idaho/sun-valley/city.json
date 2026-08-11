@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/idaho/sun-valley",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ID",
+  "stateName": "Idaho",
+  "cityName": "Sun Valley",
+  "bbox": {
+    "minLat": 43.64,
+    "minLng": -114.4,
+    "maxLat": 43.72,
+    "maxLng": -114.31
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bald-mountain",
+      "name": "Bald Mountain",
+      "lat": 43.66364,
+      "lng": -114.38941,
+      "radiusM": 400,
+      "address": "Bald Mountain, Sun Valley, ID",
+      "howTo": "Visit Bald Mountain.",
+      "badge": "badges/bald-mountain.png"
+    },
+    {
+      "id": "dollar-mountain",
+      "name": "Dollar Mountain",
+      "lat": 43.67929,
+      "lng": -114.34411,
+      "radiusM": 300,
+      "address": "Dollar Mountain, Sun Valley, ID",
+      "howTo": "Visit Dollar Mountain.",
+      "badge": "badges/dollar-mountain.png"
+    },
+    {
+      "id": "sun-valley-pavilion",
+      "name": "Sun Valley Pavilion",
+      "lat": 43.69387,
+      "lng": -114.3526,
+      "radiusM": 150,
+      "address": "Sun Valley Pavilion, Sun Valley, ID",
+      "howTo": "Visit the Sun Valley Pavilion.",
+      "badge": "badges/sun-valley-pavilion.png"
+    },
+    {
+      "id": "hemingway-memorial",
+      "name": "Hemingway Memorial",
+      "lat": 43.7123,
+      "lng": -114.34005,
+      "radiusM": 150,
+      "address": "Trail Creek Rd, Sun Valley, ID",
+      "howTo": "Visit the Hemingway Memorial.",
+      "badge": "badges/hemingway-memorial.png"
+    },
+    {
+      "id": "sun-valley-museum-of-art",
+      "name": "Sun Valley Museum of Art",
+      "lat": 43.68115,
+      "lng": -114.36687,
+      "radiusM": 150,
+      "address": "Sun Valley Museum of Art, Ketchum, ID",
+      "howTo": "Visit the Sun Valley Museum of Art.",
+      "badge": "badges/sun-valley-museum-of-art.png"
+    },
+    {
+      "id": "atkinson-park",
+      "name": "Atkinson Park",
+      "lat": 43.68257,
+      "lng": -114.37245,
+      "radiusM": 200,
+      "address": "Atkinson Park, Ketchum, ID",
+      "howTo": "Visit Atkinson Park.",
+      "badge": "badges/atkinson-park.png"
+    }
+  ]
+}

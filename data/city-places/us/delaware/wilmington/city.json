@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/delaware/wilmington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "DE",
+  "stateName": "Delaware",
+  "cityName": "Wilmington",
+  "bbox": {
+    "minLat": 39.7,
+    "minLng": -75.6,
+    "maxLat": 39.78,
+    "maxLng": -75.5
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hagley-museum",
+      "name": "Hagley Museum and Library",
+      "lat": 39.781,
+      "lng": -75.575,
+      "radiusM": 250,
+      "address": "200 Hagley Creek Rd, Wilmington, DE",
+      "howTo": "Visit Hagley Museum.",
+      "badge": "badges/hagley-museum.png"
+    },
+    {
+      "id": "winterthur",
+      "name": "Winterthur Museum",
+      "lat": 39.806,
+      "lng": -75.599,
+      "radiusM": 250,
+      "address": "5105 Kennett Pike, Wilmington, DE",
+      "howTo": "Visit Winterthur Museum.",
+      "badge": "badges/winterthur.png"
+    },
+    {
+      "id": "riverfront-wilmington",
+      "name": "Riverfront Wilmington",
+      "lat": 39.7365,
+      "lng": -75.558,
+      "radiusM": 200,
+      "address": "Riverfront, Wilmington, DE",
+      "howTo": "Visit the Wilmington Riverfront.",
+      "badge": "badges/riverfront-wilmington.png"
+    },
+    {
+      "id": "delaware-art-museum",
+      "name": "Delaware Art Museum",
+      "lat": 39.7615,
+      "lng": -75.5645,
+      "radiusM": 120,
+      "address": "2301 Kentmere Pkwy, Wilmington, DE",
+      "howTo": "Visit the Delaware Art Museum.",
+      "badge": "badges/delaware-art-museum.png"
+    }
+  ]
+}

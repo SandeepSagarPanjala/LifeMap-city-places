@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/kentucky/louisville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "KY",
+  "stateName": "Kentucky",
+  "cityName": "Louisville",
+  "bbox": {
+    "minLat": 38.18,
+    "minLng": -85.8,
+    "maxLat": 38.29,
+    "maxLng": -85.68
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "louisville-slugger-museum",
+      "name": "Louisville Slugger Museum & Factory",
+      "lat": 38.25686,
+      "lng": -85.76371,
+      "radiusM": 150,
+      "address": "800 W Main St, Louisville, KY",
+      "howTo": "Visit the Louisville Slugger Museum & Factory.",
+      "badge": "badges/louisville-slugger-museum.png"
+    },
+    {
+      "id": "muhammad-ali-center",
+      "name": "Muhammad Ali Center",
+      "lat": 38.2583,
+      "lng": -85.75999,
+      "radiusM": 150,
+      "address": "144 N 6th St, Louisville, KY",
+      "howTo": "Visit the Muhammad Ali Center.",
+      "badge": "badges/muhammad-ali-center.png"
+    },
+    {
+      "id": "churchill-downs",
+      "name": "Churchill Downs",
+      "lat": 38.20227,
+      "lng": -85.77076,
+      "radiusM": 300,
+      "address": "700 Central Ave, Louisville, KY",
+      "howTo": "Visit Churchill Downs.",
+      "badge": "badges/churchill-downs.png"
+    },
+    {
+      "id": "kentucky-derby-museum",
+      "name": "Kentucky Derby Museum",
+      "lat": 38.20538,
+      "lng": -85.77136,
+      "radiusM": 150,
+      "address": "704 Central Ave, Louisville, KY",
+      "howTo": "Visit the Kentucky Derby Museum.",
+      "badge": "badges/kentucky-derby-museum.png"
+    },
+    {
+      "id": "big-four-bridge",
+      "name": "Big Four Bridge",
+      "lat": 38.26526,
+      "lng": -85.73889,
+      "radiusM": 200,
+      "address": "Big Four Bridge, Louisville, KY",
+      "howTo": "Walk the Big Four Bridge across the Ohio River.",
+      "badge": "badges/big-four-bridge.png"
+    },
+    {
+      "id": "waterfront-park",
+      "name": "Louisville Waterfront Park",
+      "lat": 38.26432,
+      "lng": -85.72893,
+      "radiusM": 400,
+      "address": "Waterfront Park, Louisville, KY",
+      "howTo": "Visit Louisville Waterfront Park.",
+      "badge": "badges/waterfront-park.png"
+    },
+    {
+      "id": "speed-art-museum",
+      "name": "Speed Art Museum",
+      "lat": 38.21785,
+      "lng": -85.7608,
+      "radiusM": 150,
+      "address": "2035 S 3rd St, Louisville, KY",
+      "howTo": "Visit the Speed Art Museum.",
+      "badge": "badges/speed-art-museum.png"
+    },
+    {
+      "id": "frazier-history-museum",
+      "name": "Frazier History Museum",
+      "lat": 38.25785,
+      "lng": -85.76447,
+      "radiusM": 150,
+      "address": "829 W Main St, Louisville, KY",
+      "howTo": "Visit the Frazier History Museum.",
+      "badge": "badges/frazier-history-museum.png"
+    },
+    {
+      "id": "cherokee-park",
+      "name": "Cherokee Park",
+      "lat": 38.23746,
+      "lng": -85.69698,
+      "radiusM": 400,
+      "address": "Cherokee Park, Louisville, KY",
+      "howTo": "Visit Cherokee Park.",
+      "badge": "badges/cherokee-park.png"
+    }
+  ]
+}

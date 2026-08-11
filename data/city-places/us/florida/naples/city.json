@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/naples",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Naples",
+  "bbox": {
+    "minLat": 26.07892,
+    "minLng": -81.832,
+    "maxLat": 26.29,
+    "maxLng": -81.76684
+  },
+  "updatedAt": "2026-08-10T23:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "naples-pier",
+      "name": "Naples Pier",
+      "lat": 26.13155,
+      "lng": -81.80773,
+      "radiusM": 150,
+      "address": "25 12th Ave S, Naples, FL",
+      "howTo": "Visit the Naples Pier.",
+      "badge": "badges/naples-pier.png"
+    },
+    {
+      "id": "naples-botanical-garden",
+      "name": "Naples Botanical Garden",
+      "lat": 26.10608,
+      "lng": -81.77433,
+      "radiusM": 400,
+      "address": "4820 Bayshore Dr, Naples, FL",
+      "howTo": "Visit Naples Botanical Garden.",
+      "badge": "badges/naples-botanical-garden.png"
+    },
+    {
+      "id": "naples-zoo",
+      "name": "Naples Zoo at Caribbean Gardens",
+      "lat": 26.1693,
+      "lng": -81.78861,
+      "radiusM": 300,
+      "address": "1590 Goodlette-Frank Rd, Naples, FL",
+      "howTo": "Visit Naples Zoo at Caribbean Gardens.",
+      "badge": "badges/naples-zoo.png"
+    },
+    {
+      "id": "lowdermilk-beach",
+      "name": "Lowdermilk Beach",
+      "lat": 26.16294,
+      "lng": -81.81098,
+      "radiusM": 300,
+      "address": "1301 Gulf Shore Blvd N, Naples, FL",
+      "howTo": "Visit Lowdermilk Beach.",
+      "badge": "badges/lowdermilk-beach.png"
+    },
+    {
+      "id": "delnor-wiggins-pass-state-park",
+      "name": "Delnor-Wiggins Pass State Park",
+      "lat": 26.28076,
+      "lng": -81.82774,
+      "radiusM": 500,
+      "address": "11135 Gulf Shore Dr, Naples, FL",
+      "howTo": "Visit Delnor-Wiggins Pass State Park.",
+      "badge": "badges/delnor-wiggins-pass-state-park.png"
+    },
+    {
+      "id": "baker-museum",
+      "name": "The Baker Museum",
+      "lat": 26.21589,
+      "lng": -81.80443,
+      "radiusM": 150,
+      "address": "5833 Pelican Bay Blvd, Naples, FL",
+      "howTo": "Visit The Baker Museum at Artis\u2014Naples.",
+      "badge": "badges/baker-museum.png"
+    },
+    {
+      "id": "cambier-park",
+      "name": "Cambier Park",
+      "lat": 26.13973,
+      "lng": -81.7969,
+      "radiusM": 200,
+      "address": "Cambier Park, Naples, FL",
+      "howTo": "Visit Cambier Park.",
+      "badge": "badges/cambier-park.png"
+    },
+    {
+      "id": "historic-palm-cottage",
+      "name": "Historic Palm Cottage",
+      "lat": 26.13213,
+      "lng": -81.80424,
+      "radiusM": 150,
+      "address": "137 12th Ave S, Naples, FL",
+      "howTo": "Visit Historic Palm Cottage.",
+      "badge": "badges/historic-palm-cottage.png"
+    },
+    {
+      "id": "conservancy-nature-center",
+      "name": "Conservancy of Southwest Florida",
+      "lat": 26.16557,
+      "lng": -81.78938,
+      "radiusM": 250,
+      "address": "1495 Central Ave, Naples, FL",
+      "howTo": "Visit the Conservancy of Southwest Florida Nature Center.",
+      "badge": "badges/conservancy-nature-center.png"
+    }
+  ]
+}

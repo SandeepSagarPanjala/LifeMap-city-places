@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/colorado/boulder",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CO",
+  "stateName": "Colorado",
+  "cityName": "Boulder",
+  "bbox": {
+    "minLat": 39.95,
+    "minLng": -105.35,
+    "maxLat": 40.08,
+    "maxLng": -105.18
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chautauqua-park",
+      "name": "Chautauqua Park",
+      "lat": 39.9989,
+      "lng": -105.2815,
+      "radiusM": 300,
+      "address": "900 Baseline Rd, Boulder, CO",
+      "howTo": "Visit Chautauqua Park.",
+      "badge": "badges/chautauqua-park.png"
+    },
+    {
+      "id": "pearl-street-mall",
+      "name": "Pearl Street Mall",
+      "lat": 40.0185,
+      "lng": -105.278,
+      "radiusM": 200,
+      "address": "Pearl St, Boulder, CO",
+      "howTo": "Walk the Pearl Street Mall.",
+      "badge": "badges/pearl-street-mall.png"
+    },
+    {
+      "id": "university-of-colorado",
+      "name": "University of Colorado Boulder",
+      "lat": 40.0076,
+      "lng": -105.2659,
+      "radiusM": 250,
+      "address": "Boulder, CO",
+      "howTo": "Visit the CU Boulder campus.",
+      "badge": "badges/university-of-colorado.png"
+    },
+    {
+      "id": "flatirons-vista",
+      "name": "Flatirons Vista",
+      "lat": 39.989,
+      "lng": -105.292,
+      "radiusM": 200,
+      "address": "Chautauqua Trailhead area, Boulder, CO",
+      "howTo": "See the Flatirons from Chautauqua.",
+      "badge": "badges/flatirons-vista.png"
+    },
+    {
+      "id": "boulder-creek-path",
+      "name": "Boulder Creek Path",
+      "lat": 40.015,
+      "lng": -105.2785,
+      "radiusM": 200,
+      "address": "Boulder Creek Path, Boulder, CO",
+      "howTo": "Walk the Boulder Creek Path.",
+      "badge": "badges/boulder-creek-path.png"
+    },
+    {
+      "id": "boulder-reservoir",
+      "name": "Boulder Reservoir",
+      "lat": 40.071,
+      "lng": -105.1945,
+      "radiusM": 300,
+      "address": "5565 N 51st St, Boulder, CO",
+      "howTo": "Visit Boulder Reservoir.",
+      "badge": "badges/boulder-reservoir.png"
+    }
+  ]
+}

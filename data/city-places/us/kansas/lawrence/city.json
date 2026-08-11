@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/kansas/lawrence",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "KS",
+  "stateName": "Kansas",
+  "cityName": "Lawrence",
+  "bbox": {
+    "minLat": 38.92,
+    "minLng": -95.27,
+    "maxLat": 38.99,
+    "maxLng": -95.2
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "massachusetts-street",
+      "name": "Massachusetts Street",
+      "lat": 38.97508,
+      "lng": -95.23581,
+      "radiusM": 200,
+      "address": "Massachusetts St, Lawrence, KS",
+      "howTo": "Walk Massachusetts Street downtown.",
+      "badge": "badges/massachusetts-street.png"
+    },
+    {
+      "id": "ku-campanile",
+      "name": "KU Memorial Campanile",
+      "lat": 38.96001,
+      "lng": -95.24693,
+      "radiusM": 150,
+      "address": "1450 Memorial Dr, Lawrence, KS",
+      "howTo": "Visit the KU Memorial Campanile.",
+      "badge": "badges/ku-campanile.png"
+    },
+    {
+      "id": "allen-fieldhouse",
+      "name": "Allen Fieldhouse",
+      "lat": 38.95431,
+      "lng": -95.25282,
+      "radiusM": 150,
+      "address": "1651 Naismith Dr, Lawrence, KS",
+      "howTo": "Visit Allen Fieldhouse.",
+      "badge": "badges/allen-fieldhouse.png"
+    },
+    {
+      "id": "spencer-museum-of-art",
+      "name": "Spencer Museum of Art",
+      "lat": 38.95963,
+      "lng": -95.24457,
+      "radiusM": 150,
+      "address": "1301 Mississippi St, Lawrence, KS",
+      "howTo": "Visit the Spencer Museum of Art.",
+      "badge": "badges/spencer-museum-of-art.png"
+    },
+    {
+      "id": "ku-natural-history-museum",
+      "name": "KU Natural History Museum",
+      "lat": 38.95857,
+      "lng": -95.24376,
+      "radiusM": 150,
+      "address": "1345 Jayhawk Blvd, Lawrence, KS",
+      "howTo": "Visit the KU Natural History Museum in Dyche Hall.",
+      "badge": "badges/ku-natural-history-museum.png"
+    },
+    {
+      "id": "watkins-museum-of-history",
+      "name": "Watkins Museum of History",
+      "lat": 38.96398,
+      "lng": -95.23629,
+      "radiusM": 150,
+      "address": "1047 Massachusetts St, Lawrence, KS",
+      "howTo": "Visit the Watkins Museum of History.",
+      "badge": "badges/watkins-museum-of-history.png"
+    },
+    {
+      "id": "prairie-park-nature-center",
+      "name": "Prairie Park Nature Center",
+      "lat": 38.93308,
+      "lng": -95.2155,
+      "radiusM": 250,
+      "address": "2730 Harper St, Lawrence, KS",
+      "howTo": "Visit Prairie Park Nature Center.",
+      "badge": "badges/prairie-park-nature-center.png"
+    },
+    {
+      "id": "south-park",
+      "name": "South Park",
+      "lat": 38.96138,
+      "lng": -95.2359,
+      "radiusM": 200,
+      "address": "South Park, Lawrence, KS",
+      "howTo": "Visit South Park in downtown Lawrence.",
+      "badge": "badges/south-park.png"
+    }
+  ]
+}

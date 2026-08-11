@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/indiana/indianapolis",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IN",
+  "stateName": "Indiana",
+  "cityName": "Indianapolis",
+  "bbox": {
+    "minLat": 39.68,
+    "minLng": -86.28,
+    "maxLat": 39.92,
+    "maxLng": -86.04
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "indianapolis-motor-speedway",
+      "name": "Indianapolis Motor Speedway",
+      "lat": 39.795,
+      "lng": -86.2345,
+      "radiusM": 400,
+      "address": "4790 W 16th St, Indianapolis, IN",
+      "howTo": "Visit the Indianapolis Motor Speedway.",
+      "badge": "badges/indianapolis-motor-speedway.png"
+    },
+    {
+      "id": "soldiers-and-sailors-monument",
+      "name": "Soldiers and Sailors Monument",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "radiusM": 150,
+      "address": "Monument Circle, Indianapolis, IN",
+      "howTo": "Visit the Soldiers and Sailors Monument.",
+      "badge": "badges/soldiers-and-sailors-monument.png"
+    },
+    {
+      "id": "childrens-museum",
+      "name": "Children's Museum of Indianapolis",
+      "lat": 39.8107,
+      "lng": -86.1577,
+      "radiusM": 200,
+      "address": "3000 N Meridian St, Indianapolis, IN",
+      "howTo": "Visit the Children's Museum of Indianapolis.",
+      "badge": "badges/childrens-museum.png"
+    },
+    {
+      "id": "newfields",
+      "name": "Newfields",
+      "lat": 39.826,
+      "lng": -86.1857,
+      "radiusM": 300,
+      "address": "4000 Michigan Rd, Indianapolis, IN",
+      "howTo": "Visit Newfields (Indianapolis Museum of Art).",
+      "badge": "badges/newfields.png"
+    },
+    {
+      "id": "white-river-state-park",
+      "name": "White River State Park",
+      "lat": 39.7667,
+      "lng": -86.1697,
+      "radiusM": 300,
+      "address": "801 W Washington St, Indianapolis, IN",
+      "howTo": "Visit White River State Park.",
+      "badge": "badges/white-river-state-park.png"
+    },
+    {
+      "id": "indianapolis-zoo",
+      "name": "Indianapolis Zoo",
+      "lat": 39.7669,
+      "lng": -86.1769,
+      "radiusM": 250,
+      "address": "1200 W Washington St, Indianapolis, IN",
+      "howTo": "Visit the Indianapolis Zoo.",
+      "badge": "badges/indianapolis-zoo.png"
+    },
+    {
+      "id": "indiana-statehouse",
+      "name": "Indiana Statehouse",
+      "lat": 39.7686,
+      "lng": -86.1625,
+      "radiusM": 150,
+      "address": "200 W Washington St, Indianapolis, IN",
+      "howTo": "Visit the Indiana Statehouse.",
+      "badge": "badges/indiana-statehouse.png"
+    },
+    {
+      "id": "eiteljorg-museum",
+      "name": "Eiteljorg Museum",
+      "lat": 39.7684,
+      "lng": -86.169,
+      "radiusM": 150,
+      "address": "500 W Washington St, Indianapolis, IN",
+      "howTo": "Visit the Eiteljorg Museum.",
+      "badge": "badges/eiteljorg-museum.png"
+    },
+    {
+      "id": "indiana-state-museum",
+      "name": "Indiana State Museum",
+      "lat": 39.7686,
+      "lng": -86.1695,
+      "radiusM": 150,
+      "address": "650 W Washington St, Indianapolis, IN",
+      "howTo": "Visit the Indiana State Museum.",
+      "badge": "badges/indiana-state-museum.png"
+    },
+    {
+      "id": "canal-walk",
+      "name": "Canal Walk",
+      "lat": 39.7685,
+      "lng": -86.1655,
+      "radiusM": 250,
+      "address": "Central Canal, Indianapolis, IN",
+      "howTo": "Walk the downtown Canal Walk.",
+      "badge": "badges/canal-walk.png"
+    }
+  ]
+}

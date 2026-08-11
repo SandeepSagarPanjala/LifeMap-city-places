@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/kansas/wichita",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "KS",
+  "stateName": "Kansas",
+  "cityName": "Wichita",
+  "bbox": {
+    "minLat": 37.62,
+    "minLng": -97.43,
+    "maxLat": 37.74,
+    "maxLng": -97.25
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "keeper-of-the-plains",
+      "name": "Keeper of the Plains",
+      "lat": 37.69138,
+      "lng": -97.34968,
+      "radiusM": 150,
+      "address": "Keeper of the Plains, Wichita, KS",
+      "howTo": "Visit the Keeper of the Plains at the river confluence.",
+      "badge": "badges/keeper-of-the-plains.png"
+    },
+    {
+      "id": "sedgwick-county-zoo",
+      "name": "Sedgwick County Zoo",
+      "lat": 37.71454,
+      "lng": -97.41231,
+      "radiusM": 400,
+      "address": "5555 Zoo Blvd, Wichita, KS",
+      "howTo": "Visit Sedgwick County Zoo.",
+      "badge": "badges/sedgwick-county-zoo.png"
+    },
+    {
+      "id": "botanica",
+      "name": "Botanica, The Wichita Gardens",
+      "lat": 37.69597,
+      "lng": -97.36459,
+      "radiusM": 250,
+      "address": "701 Amidon St, Wichita, KS",
+      "howTo": "Visit Botanica, The Wichita Gardens.",
+      "badge": "badges/botanica.png"
+    },
+    {
+      "id": "exploration-place",
+      "name": "Exploration Place",
+      "lat": 37.68939,
+      "lng": -97.34686,
+      "radiusM": 150,
+      "address": "300 N McLean Blvd, Wichita, KS",
+      "howTo": "Visit Exploration Place.",
+      "badge": "badges/exploration-place.png"
+    },
+    {
+      "id": "old-cowtown-museum",
+      "name": "Old Cowtown Museum",
+      "lat": 37.69379,
+      "lng": -97.36225,
+      "radiusM": 250,
+      "address": "1865 W Museum Blvd, Wichita, KS",
+      "howTo": "Visit Old Cowtown Museum.",
+      "badge": "badges/old-cowtown-museum.png"
+    },
+    {
+      "id": "wichita-art-museum",
+      "name": "Wichita Art Museum",
+      "lat": 37.69494,
+      "lng": -97.35637,
+      "radiusM": 150,
+      "address": "1400 W Museum Blvd, Wichita, KS",
+      "howTo": "Visit the Wichita Art Museum.",
+      "badge": "badges/wichita-art-museum.png"
+    },
+    {
+      "id": "kansas-aviation-museum",
+      "name": "Kansas Aviation Museum",
+      "lat": 37.63294,
+      "lng": -97.2731,
+      "radiusM": 200,
+      "address": "3350 George Washington Blvd, Wichita, KS",
+      "howTo": "Visit the Kansas Aviation Museum.",
+      "badge": "badges/kansas-aviation-museum.png"
+    },
+    {
+      "id": "mid-america-all-indian-museum",
+      "name": "Mid-America All-Indian Museum",
+      "lat": 37.69214,
+      "lng": -97.35183,
+      "radiusM": 150,
+      "address": "650 N Seneca St, Wichita, KS",
+      "howTo": "Visit the Mid-America All-Indian Museum.",
+      "badge": "badges/mid-america-all-indian-museum.png"
+    }
+  ]
+}

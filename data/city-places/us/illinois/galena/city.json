@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/illinois/galena",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IL",
+  "stateName": "Illinois",
+  "cityName": "Galena",
+  "bbox": {
+    "minLat": 42.39,
+    "minLng": -90.45,
+    "maxLat": 42.44,
+    "maxLng": -90.4
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "historic-main-street",
+      "name": "Historic Main Street",
+      "lat": 42.4167,
+      "lng": -90.429,
+      "radiusM": 200,
+      "address": "Main Street, Galena, IL",
+      "howTo": "Stroll Historic Main Street in Galena.",
+      "badge": "badges/historic-main-street.png"
+    },
+    {
+      "id": "ulysses-s-grant-home",
+      "name": "Ulysses S. Grant Home",
+      "lat": 42.4178,
+      "lng": -90.4245,
+      "radiusM": 150,
+      "address": "500 Bouthillier St, Galena, IL",
+      "howTo": "Visit the Ulysses S. Grant Home.",
+      "badge": "badges/ulysses-s-grant-home.png"
+    },
+    {
+      "id": "old-market-house",
+      "name": "Old Market House",
+      "lat": 42.4169,
+      "lng": -90.4293,
+      "radiusM": 150,
+      "address": "123 N Commerce St, Galena, IL",
+      "howTo": "Visit the Old Market House.",
+      "badge": "badges/old-market-house.png"
+    },
+    {
+      "id": "dowling-house",
+      "name": "Dowling House",
+      "lat": 42.4178,
+      "lng": -90.4285,
+      "radiusM": 150,
+      "address": "220 Diagonal St, Galena, IL",
+      "howTo": "Visit the Dowling House.",
+      "badge": "badges/dowling-house.png"
+    },
+    {
+      "id": "grant-park",
+      "name": "Grant Park",
+      "lat": 42.4145,
+      "lng": -90.4265,
+      "radiusM": 200,
+      "address": "Park Ave, Galena, IL",
+      "howTo": "Visit Grant Park overlooking Galena.",
+      "badge": "badges/grant-park.png"
+    },
+    {
+      "id": "galena-and-us-grant-museum",
+      "name": "Galena & U.S. Grant Museum",
+      "lat": 42.416,
+      "lng": -90.4298,
+      "radiusM": 150,
+      "address": "211 S Bench St, Galena, IL",
+      "howTo": "Visit the Galena & U.S. Grant Museum.",
+      "badge": "badges/galena-and-us-grant-museum.png"
+    },
+    {
+      "id": "belvedere-mansion",
+      "name": "Belvedere Mansion",
+      "lat": 42.4205,
+      "lng": -90.4305,
+      "radiusM": 150,
+      "address": "1008 Park Ave, Galena, IL",
+      "howTo": "Visit the Belvedere Mansion.",
+      "badge": "badges/belvedere-mansion.png"
+    },
+    {
+      "id": "washburne-house",
+      "name": "Washburne House",
+      "lat": 42.4186,
+      "lng": -90.4315,
+      "radiusM": 150,
+      "address": "908 Third St, Galena, IL",
+      "howTo": "Visit the Elihu B. Washburne House.",
+      "badge": "badges/washburne-house.png"
+    }
+  ]
+}

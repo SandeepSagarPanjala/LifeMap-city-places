@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/iowa/des-moines",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IA",
+  "stateName": "Iowa",
+  "cityName": "Des Moines",
+  "bbox": {
+    "minLat": 41.5,
+    "minLng": -93.72,
+    "maxLat": 41.66,
+    "maxLng": -93.5
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "iowa-state-capitol",
+      "name": "Iowa State Capitol",
+      "lat": 41.5912,
+      "lng": -93.6037,
+      "radiusM": 150,
+      "address": "1007 E Grand Ave, Des Moines, IA",
+      "howTo": "Visit the Iowa State Capitol.",
+      "badge": "badges/iowa-state-capitol.png"
+    },
+    {
+      "id": "pappajohn-sculpture-park",
+      "name": "Pappajohn Sculpture Park",
+      "lat": 41.5855,
+      "lng": -93.6355,
+      "radiusM": 200,
+      "address": "1330 Grand Ave, Des Moines, IA",
+      "howTo": "Visit the John and Mary Pappajohn Sculpture Park.",
+      "badge": "badges/pappajohn-sculpture-park.png"
+    },
+    {
+      "id": "botanical-garden",
+      "name": "Greater Des Moines Botanical Garden",
+      "lat": 41.5955,
+      "lng": -93.6125,
+      "radiusM": 200,
+      "address": "909 Robert D. Ray Dr, Des Moines, IA",
+      "howTo": "Visit the Greater Des Moines Botanical Garden.",
+      "badge": "badges/botanical-garden.png"
+    },
+    {
+      "id": "des-moines-art-center",
+      "name": "Des Moines Art Center",
+      "lat": 41.584,
+      "lng": -93.6815,
+      "radiusM": 150,
+      "address": "4700 Grand Ave, Des Moines, IA",
+      "howTo": "Visit the Des Moines Art Center.",
+      "badge": "badges/des-moines-art-center.png"
+    },
+    {
+      "id": "state-historical-museum",
+      "name": "State Historical Museum of Iowa",
+      "lat": 41.5908,
+      "lng": -93.6035,
+      "radiusM": 150,
+      "address": "600 E Locust St, Des Moines, IA",
+      "howTo": "Visit the State Historical Museum of Iowa.",
+      "badge": "badges/state-historical-museum.png"
+    },
+    {
+      "id": "blank-park-zoo",
+      "name": "Blank Park Zoo",
+      "lat": 41.5215,
+      "lng": -93.6235,
+      "radiusM": 250,
+      "address": "7401 SW 9th St, Des Moines, IA",
+      "howTo": "Visit Blank Park Zoo.",
+      "badge": "badges/blank-park-zoo.png"
+    },
+    {
+      "id": "grays-lake-park",
+      "name": "Gray's Lake Park",
+      "lat": 41.5685,
+      "lng": -93.6405,
+      "radiusM": 300,
+      "address": "2101 Fleur Dr, Des Moines, IA",
+      "howTo": "Visit Gray's Lake Park.",
+      "badge": "badges/grays-lake-park.png"
+    },
+    {
+      "id": "science-center-of-iowa",
+      "name": "Science Center of Iowa",
+      "lat": 41.5865,
+      "lng": -93.622,
+      "radiusM": 150,
+      "address": "401 W Martin Luther King Jr Pkwy, Des Moines, IA",
+      "howTo": "Visit the Science Center of Iowa.",
+      "badge": "badges/science-center-of-iowa.png"
+    },
+    {
+      "id": "terrace-hill",
+      "name": "Terrace Hill",
+      "lat": 41.5845,
+      "lng": -93.6485,
+      "radiusM": 150,
+      "address": "2300 Grand Ave, Des Moines, IA",
+      "howTo": "Visit Terrace Hill, the Iowa Governor's mansion.",
+      "badge": "badges/terrace-hill.png"
+    }
+  ]
+}

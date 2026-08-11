@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/connecticut/hartford",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CT",
+  "stateName": "Connecticut",
+  "cityName": "Hartford",
+  "bbox": {
+    "minLat": 41.73,
+    "minLng": -72.72,
+    "maxLat": 41.8,
+    "maxLng": -72.65
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mark-twain-house",
+      "name": "Mark Twain House",
+      "lat": 41.7671,
+      "lng": -72.7014,
+      "radiusM": 120,
+      "address": "351 Farmington Ave, Hartford, CT",
+      "howTo": "Visit the Mark Twain House.",
+      "badge": "badges/mark-twain-house.png"
+    },
+    {
+      "id": "connecticut-state-capitol",
+      "name": "Connecticut State Capitol",
+      "lat": 41.764,
+      "lng": -72.6825,
+      "radiusM": 150,
+      "address": "210 Capitol Ave, Hartford, CT",
+      "howTo": "Visit the Connecticut State Capitol.",
+      "badge": "badges/connecticut-state-capitol.png"
+    },
+    {
+      "id": "wadsworth-atheneum",
+      "name": "Wadsworth Atheneum",
+      "lat": 41.7634,
+      "lng": -72.674,
+      "radiusM": 120,
+      "address": "600 Main St, Hartford, CT",
+      "howTo": "Visit the Wadsworth Atheneum.",
+      "badge": "badges/wadsworth-atheneum.png"
+    },
+    {
+      "id": "bushnell-park",
+      "name": "Bushnell Park",
+      "lat": 41.7655,
+      "lng": -72.681,
+      "radiusM": 250,
+      "address": "Bushnell Park, Hartford, CT",
+      "howTo": "Visit Bushnell Park.",
+      "badge": "badges/bushnell-park.png"
+    },
+    {
+      "id": "harriet-beecher-stowe-center",
+      "name": "Harriet Beecher Stowe Center",
+      "lat": 41.7665,
+      "lng": -72.7005,
+      "radiusM": 120,
+      "address": "77 Forest St, Hartford, CT",
+      "howTo": "Visit the Harriet Beecher Stowe Center.",
+      "badge": "badges/harriet-beecher-stowe-center.png"
+    }
+  ]
+}

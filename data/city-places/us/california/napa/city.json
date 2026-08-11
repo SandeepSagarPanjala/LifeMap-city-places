@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/napa",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "Napa",
+  "bbox": {
+    "minLat": 38.25,
+    "minLng": -122.35,
+    "maxLat": 38.35,
+    "maxLng": -122.22
+  },
+  "updatedAt": "2026-08-10T23:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "napa-valley-opera-house",
+      "name": "Napa Valley Opera House",
+      "lat": 38.2978,
+      "lng": -122.2855,
+      "radiusM": 120,
+      "address": "1000 Main St, Napa, CA",
+      "howTo": "Visit the Napa Valley Opera House.",
+      "badge": "badges/napa-valley-opera-house.png"
+    },
+    {
+      "id": "di-rosa-center",
+      "name": "di Rosa Center for Contemporary Art",
+      "lat": 38.2635,
+      "lng": -122.2748,
+      "radiusM": 200,
+      "address": "5200 Carneros Hwy, Napa, CA",
+      "howTo": "Visit the di Rosa Center for Contemporary Art.",
+      "badge": "badges/di-rosa-center.png"
+    },
+    {
+      "id": "skyline-wilderness-park",
+      "name": "Skyline Wilderness Park",
+      "lat": 38.2705,
+      "lng": -122.2478,
+      "radiusM": 400,
+      "address": "2201 Imola Ave, Napa, CA",
+      "howTo": "Visit Skyline Wilderness Park.",
+      "badge": "badges/skyline-wilderness-park.png"
+    },
+    {
+      "id": "bothe-napa-valley-state-park",
+      "name": "Bothe-Napa Valley State Park",
+      "lat": 38.546,
+      "lng": -122.523,
+      "radiusM": 400,
+      "address": "3801 St Helena Hwy, Calistoga, CA",
+      "howTo": "Visit Bothe-Napa Valley State Park.",
+      "badge": "badges/bothe-napa-valley-state-park.png"
+    },
+    {
+      "id": "napa-riverfront",
+      "name": "Napa Riverfront",
+      "lat": 38.299,
+      "lng": -122.284,
+      "radiusM": 200,
+      "address": "Napa Riverfront, Napa, CA",
+      "howTo": "Walk the Napa Riverfront.",
+      "badge": "badges/napa-riverfront.png"
+    },
+    {
+      "id": "cia-at-copia",
+      "name": "Culinary Institute of America at Copia",
+      "lat": 38.3025,
+      "lng": -122.282,
+      "radiusM": 150,
+      "address": "500 First St, Napa, CA",
+      "howTo": "Visit CIA at Copia.",
+      "badge": "badges/cia-at-copia.png"
+    }
+  ]
+}

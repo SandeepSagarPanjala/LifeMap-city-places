@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "us/massachusetts/boston",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MA",
+  "stateName": "Massachusetts",
+  "cityName": "Boston",
+  "bbox": {
+    "minLat": 42.32,
+    "minLng": -71.13,
+    "maxLat": 42.4,
+    "maxLng": -71.01
+  },
+  "updatedAt": "2026-08-11T00:11:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boston-common",
+      "name": "Boston Common",
+      "lat": 42.35504,
+      "lng": -71.06607,
+      "radiusM": 400,
+      "address": "Boston Common, Boston, MA",
+      "howTo": "Visit Boston Common.",
+      "badge": "badges/boston-common.png"
+    },
+    {
+      "id": "boston-public-garden",
+      "name": "Boston Public Garden",
+      "lat": 42.35409,
+      "lng": -71.07004,
+      "radiusM": 300,
+      "address": "Boston Public Garden, Boston, MA",
+      "howTo": "Visit the Boston Public Garden.",
+      "badge": "badges/boston-public-garden.png"
+    },
+    {
+      "id": "massachusetts-state-house",
+      "name": "Massachusetts State House",
+      "lat": 42.3586,
+      "lng": -71.06388,
+      "radiusM": 150,
+      "address": "24 Beacon St, Boston, MA",
+      "howTo": "Visit the Massachusetts State House.",
+      "badge": "badges/massachusetts-state-house.png"
+    },
+    {
+      "id": "faneuil-hall",
+      "name": "Faneuil Hall",
+      "lat": 42.36003,
+      "lng": -71.05623,
+      "radiusM": 150,
+      "address": "1 Faneuil Hall Square, Boston, MA",
+      "howTo": "Visit Faneuil Hall.",
+      "badge": "badges/faneuil-hall.png"
+    },
+    {
+      "id": "old-state-house",
+      "name": "Old State House",
+      "lat": 42.35873,
+      "lng": -71.05747,
+      "radiusM": 150,
+      "address": "206 Washington St, Boston, MA",
+      "howTo": "Visit the Old State House.",
+      "badge": "badges/old-state-house.png"
+    },
+    {
+      "id": "uss-constitution",
+      "name": "USS Constitution",
+      "lat": 42.37244,
+      "lng": -71.05655,
+      "radiusM": 200,
+      "address": "Building 22, Charlestown Navy Yard, Boston, MA",
+      "howTo": "Visit the USS Constitution.",
+      "badge": "badges/uss-constitution.png"
+    },
+    {
+      "id": "bunker-hill-monument",
+      "name": "Bunker Hill Monument",
+      "lat": 42.37635,
+      "lng": -71.06077,
+      "radiusM": 200,
+      "address": "Monument Square, Charlestown, Boston, MA",
+      "howTo": "Visit the Bunker Hill Monument.",
+      "badge": "badges/bunker-hill-monument.png"
+    },
+    {
+      "id": "fenway-park",
+      "name": "Fenway Park",
+      "lat": 42.34646,
+      "lng": -71.0971,
+      "radiusM": 200,
+      "address": "4 Jersey St, Boston, MA",
+      "howTo": "Visit Fenway Park.",
+      "badge": "badges/fenway-park.png"
+    },
+    {
+      "id": "museum-of-fine-arts-boston",
+      "name": "Museum of Fine Arts",
+      "lat": 42.33946,
+      "lng": -71.0939,
+      "radiusM": 200,
+      "address": "465 Huntington Ave, Boston, MA",
+      "howTo": "Visit the Museum of Fine Arts.",
+      "badge": "badges/museum-of-fine-arts-boston.png"
+    },
+    {
+      "id": "new-england-aquarium",
+      "name": "New England Aquarium",
+      "lat": 42.3592,
+      "lng": -71.04918,
+      "radiusM": 150,
+      "address": "1 Central Wharf, Boston, MA",
+      "howTo": "Visit the New England Aquarium.",
+      "badge": "badges/new-england-aquarium.png"
+    },
+    {
+      "id": "old-north-church",
+      "name": "Old North Church",
+      "lat": 42.36632,
+      "lng": -71.05445,
+      "radiusM": 150,
+      "address": "193 Salem St, Boston, MA",
+      "howTo": "Visit the Old North Church.",
+      "badge": "badges/old-north-church.png"
+    },
+    {
+      "id": "paul-revere-house",
+      "name": "Paul Revere House",
+      "lat": 42.36374,
+      "lng": -71.05368,
+      "radiusM": 150,
+      "address": "19 North Square, Boston, MA",
+      "howTo": "Visit the Paul Revere House.",
+      "badge": "badges/paul-revere-house.png"
+    },
+    {
+      "id": "boston-public-library",
+      "name": "Boston Public Library",
+      "lat": 42.34933,
+      "lng": -71.07865,
+      "radiusM": 150,
+      "address": "700 Boylston St, Boston, MA",
+      "howTo": "Visit the Boston Public Library.",
+      "badge": "badges/boston-public-library.png"
+    },
+    {
+      "id": "trinity-church-boston",
+      "name": "Trinity Church",
+      "lat": 42.35007,
+      "lng": -71.07543,
+      "radiusM": 150,
+      "address": "206 Clarendon St, Boston, MA",
+      "howTo": "Visit Trinity Church at Copley Square.",
+      "badge": "badges/trinity-church-boston.png"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/maryland/annapolis",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MD",
+  "stateName": "Maryland",
+  "cityName": "Annapolis",
+  "bbox": {
+    "minLat": 38.93,
+    "minLng": -76.52,
+    "maxLat": 38.99,
+    "maxLng": -76.46
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "us-naval-academy",
+      "name": "United States Naval Academy",
+      "lat": 38.9816,
+      "lng": -76.48322,
+      "radiusM": 300,
+      "address": "121 Blake Rd, Annapolis, MD",
+      "howTo": "Visit the United States Naval Academy.",
+      "badge": "badges/us-naval-academy.png"
+    },
+    {
+      "id": "maryland-state-house",
+      "name": "Maryland State House",
+      "lat": 38.97888,
+      "lng": -76.49105,
+      "radiusM": 150,
+      "address": "100 State Cir, Annapolis, MD",
+      "howTo": "Visit the Maryland State House.",
+      "badge": "badges/maryland-state-house.png"
+    },
+    {
+      "id": "city-dock",
+      "name": "City Dock",
+      "lat": 38.97656,
+      "lng": -76.48471,
+      "radiusM": 150,
+      "address": "City Dock, Annapolis, MD",
+      "howTo": "Visit City Dock on the Annapolis waterfront.",
+      "badge": "badges/city-dock.png"
+    },
+    {
+      "id": "william-paca-house",
+      "name": "William Paca House & Garden",
+      "lat": 38.97959,
+      "lng": -76.48787,
+      "radiusM": 150,
+      "address": "186 Prince George St, Annapolis, MD",
+      "howTo": "Visit the William Paca House & Garden.",
+      "badge": "badges/william-paca-house.png"
+    },
+    {
+      "id": "quiet-waters-park",
+      "name": "Quiet Waters Park",
+      "lat": 38.93974,
+      "lng": -76.50402,
+      "radiusM": 400,
+      "address": "600 Quiet Waters Park Rd, Annapolis, MD",
+      "howTo": "Visit Quiet Waters Park.",
+      "badge": "badges/quiet-waters-park.png"
+    },
+    {
+      "id": "annapolis-maritime-museum",
+      "name": "Annapolis Maritime Museum",
+      "lat": 38.96882,
+      "lng": -76.47626,
+      "radiusM": 150,
+      "address": "723 2nd St, Annapolis, MD",
+      "howTo": "Visit the Annapolis Maritime Museum.",
+      "badge": "badges/annapolis-maritime-museum.png"
+    },
+    {
+      "id": "banneker-douglass-tubman-museum",
+      "name": "Banneker-Douglass-Tubman Museum",
+      "lat": 38.97758,
+      "lng": -76.49356,
+      "radiusM": 150,
+      "address": "84 Franklin St, Annapolis, MD",
+      "howTo": "Visit the Banneker-Douglass-Tubman Museum.",
+      "badge": "badges/banneker-douglass-tubman-museum.png"
+    },
+    {
+      "id": "st-annes-church",
+      "name": "St. Anne's Episcopal Church",
+      "lat": 38.97846,
+      "lng": -76.49275,
+      "radiusM": 150,
+      "address": "Church Circle, Annapolis, MD",
+      "howTo": "Visit St. Anne's Episcopal Church on Church Circle.",
+      "badge": "badges/st-annes-church.png"
+    }
+  ]
+}

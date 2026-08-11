@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/georgia/savannah",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "GA",
+  "stateName": "Georgia",
+  "cityName": "Savannah",
+  "bbox": {
+    "minLat": 31.89,
+    "minLng": -81.37,
+    "maxLat": 32.19,
+    "maxLng": -81.03
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "forsyth-park",
+      "name": "Forsyth Park",
+      "lat": 32.06666,
+      "lng": -81.09656,
+      "radiusM": 300,
+      "address": "Forsyth Park, Savannah, GA",
+      "howTo": "Visit Forsyth Park.",
+      "badge": "badges/forsyth-park.png"
+    },
+    {
+      "id": "river-street",
+      "name": "River Street",
+      "lat": 32.08091,
+      "lng": -81.0884,
+      "radiusM": 250,
+      "address": "River Street, Savannah, GA",
+      "howTo": "Visit River Street along the Savannah River.",
+      "badge": "badges/river-street.png"
+    },
+    {
+      "id": "cathedral-basilica-st-john",
+      "name": "Cathedral Basilica of St. John the Baptist",
+      "lat": 32.07334,
+      "lng": -81.09099,
+      "radiusM": 150,
+      "address": "222 E Harris St, Savannah, GA",
+      "howTo": "Visit the Cathedral Basilica of St. John the Baptist.",
+      "badge": "badges/cathedral-basilica-st-john.png"
+    },
+    {
+      "id": "bonaventure-cemetery",
+      "name": "Bonaventure Cemetery",
+      "lat": 32.04428,
+      "lng": -81.04682,
+      "radiusM": 400,
+      "address": "330 Bonaventure Rd, Savannah, GA",
+      "howTo": "Visit Bonaventure Cemetery.",
+      "badge": "badges/bonaventure-cemetery.png"
+    },
+    {
+      "id": "chippewa-square",
+      "name": "Chippewa Square",
+      "lat": 32.07584,
+      "lng": -81.09314,
+      "radiusM": 150,
+      "address": "Chippewa Square, Savannah, GA",
+      "howTo": "Visit Chippewa Square.",
+      "badge": "badges/chippewa-square.png"
+    },
+    {
+      "id": "wormsloe-historic-site",
+      "name": "Wormsloe Historic Site",
+      "lat": 31.96569,
+      "lng": -81.07109,
+      "radiusM": 400,
+      "address": "7601 Skidaway Rd, Savannah, GA",
+      "howTo": "Visit Wormsloe Historic Site.",
+      "badge": "badges/wormsloe-historic-site.png"
+    },
+    {
+      "id": "owens-thomas-house",
+      "name": "Owens-Thomas House",
+      "lat": 32.0774,
+      "lng": -81.08941,
+      "radiusM": 150,
+      "address": "124 Abercorn St, Savannah, GA",
+      "howTo": "Visit the Owens-Thomas House.",
+      "badge": "badges/owens-thomas-house.png"
+    },
+    {
+      "id": "ships-of-the-sea",
+      "name": "Ships of the Sea Maritime Museum",
+      "lat": 32.08119,
+      "lng": -81.0973,
+      "radiusM": 150,
+      "address": "41 Martin Luther King Jr Blvd, Savannah, GA",
+      "howTo": "Visit the Ships of the Sea Maritime Museum.",
+      "badge": "badges/ships-of-the-sea.png"
+    }
+  ]
+}

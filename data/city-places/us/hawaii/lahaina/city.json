@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/hawaii/lahaina",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "HI",
+  "stateName": "Hawaii",
+  "cityName": "Lahaina",
+  "bbox": {
+    "minLat": 20.86,
+    "minLng": -156.69,
+    "maxLat": 20.92,
+    "maxLng": -156.65
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "banyan-tree-park",
+      "name": "Banyan Tree Park",
+      "lat": 20.87174,
+      "lng": -156.67764,
+      "radiusM": 150,
+      "address": "Banyan Court, Lahaina, HI",
+      "howTo": "Visit Banyan Tree Park (check current access during recovery).",
+      "badge": "badges/banyan-tree-park.png"
+    },
+    {
+      "id": "lahaina-harbor",
+      "name": "Lahaina Harbor",
+      "lat": 20.87044,
+      "lng": -156.67806,
+      "radiusM": 200,
+      "address": "Lahaina Harbor, Lahaina, HI",
+      "howTo": "Visit Lahaina Harbor.",
+      "badge": "badges/lahaina-harbor.png"
+    },
+    {
+      "id": "baldwin-home-museum",
+      "name": "Baldwin Home Museum",
+      "lat": 20.87316,
+      "lng": -156.67782,
+      "radiusM": 150,
+      "address": "120 Dickenson St, Lahaina, HI",
+      "howTo": "Visit the Baldwin Home Museum site.",
+      "badge": "badges/baldwin-home-museum.png"
+    },
+    {
+      "id": "old-lahaina-courthouse",
+      "name": "Old Lahaina Courthouse",
+      "lat": 20.87166,
+      "lng": -156.67789,
+      "radiusM": 150,
+      "address": "648 Wharf St, Lahaina, HI",
+      "howTo": "Visit the Old Lahaina Courthouse site.",
+      "badge": "badges/old-lahaina-courthouse.png"
+    },
+    {
+      "id": "baby-beach-lahaina",
+      "name": "Baby Beach",
+      "lat": 20.88236,
+      "lng": -156.68775,
+      "radiusM": 200,
+      "address": "Baby Beach, Lahaina, HI",
+      "howTo": "Visit Baby Beach in Lahaina.",
+      "badge": "badges/baby-beach-lahaina.png"
+    },
+    {
+      "id": "jodo-mission",
+      "name": "Lahaina Jodo Mission",
+      "lat": 20.8865,
+      "lng": -156.685,
+      "radiusM": 150,
+      "address": "12 Ala Moana St, Lahaina, HI",
+      "howTo": "Visit Lahaina Jodo Mission and the Great Buddha.",
+      "badge": "badges/jodo-mission.png"
+    }
+  ]
+}

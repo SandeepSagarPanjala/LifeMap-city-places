@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/key-west",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Key West",
+  "bbox": {
+    "minLat": 24.54367,
+    "minLng": -81.81871,
+    "maxLat": 24.59472,
+    "maxLng": -81.72903
+  },
+  "updatedAt": "2026-08-10T23:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "southernmost-point",
+      "name": "Southernmost Point Buoy",
+      "lat": 24.54651,
+      "lng": -81.7975,
+      "radiusM": 100,
+      "address": "Whitehead St & South St, Key West, FL",
+      "howTo": "Visit the Southernmost Point Buoy.",
+      "badge": "badges/southernmost-point.png"
+    },
+    {
+      "id": "fort-zachary-taylor",
+      "name": "Fort Zachary Taylor",
+      "lat": 24.54711,
+      "lng": -81.81023,
+      "radiusM": 400,
+      "address": "601 Howard England Way, Key West, FL",
+      "howTo": "Visit Fort Zachary Taylor Historic State Park.",
+      "badge": "badges/fort-zachary-taylor.png"
+    },
+    {
+      "id": "hemingway-home",
+      "name": "Ernest Hemingway Home and Museum",
+      "lat": 24.5512,
+      "lng": -81.80061,
+      "radiusM": 150,
+      "address": "907 Whitehead St, Key West, FL",
+      "howTo": "Visit the Ernest Hemingway Home and Museum.",
+      "badge": "badges/hemingway-home.png"
+    },
+    {
+      "id": "key-west-lighthouse",
+      "name": "Key West Lighthouse",
+      "lat": 24.55063,
+      "lng": -81.80088,
+      "radiusM": 150,
+      "address": "938 Whitehead St, Key West, FL",
+      "howTo": "Visit the Key West Lighthouse.",
+      "badge": "badges/key-west-lighthouse.png"
+    },
+    {
+      "id": "mallory-square",
+      "name": "Mallory Square",
+      "lat": 24.55919,
+      "lng": -81.80675,
+      "radiusM": 150,
+      "address": "Mallory Square, Key West, FL",
+      "howTo": "Visit Mallory Square.",
+      "badge": "badges/mallory-square.png"
+    },
+    {
+      "id": "truman-little-white-house",
+      "name": "Harry S. Truman Little White House",
+      "lat": 24.55626,
+      "lng": -81.80689,
+      "radiusM": 150,
+      "address": "111 Front St, Key West, FL",
+      "howTo": "Visit the Harry S. Truman Little White House.",
+      "badge": "badges/truman-little-white-house.png"
+    },
+    {
+      "id": "mel-fisher-maritime-museum",
+      "name": "Mel Fisher Maritime Museum",
+      "lat": 24.55795,
+      "lng": -81.80631,
+      "radiusM": 150,
+      "address": "200 Greene St, Key West, FL",
+      "howTo": "Visit the Mel Fisher Maritime Museum.",
+      "badge": "badges/mel-fisher-maritime-museum.png"
+    },
+    {
+      "id": "smathers-beach",
+      "name": "Smathers Beach",
+      "lat": 24.55134,
+      "lng": -81.77172,
+      "radiusM": 400,
+      "address": "S Roosevelt Blvd, Key West, FL",
+      "howTo": "Visit Smathers Beach.",
+      "badge": "badges/smathers-beach.png"
+    },
+    {
+      "id": "key-west-butterfly-conservatory",
+      "name": "Key West Butterfly Conservatory",
+      "lat": 24.54756,
+      "lng": -81.79691,
+      "radiusM": 150,
+      "address": "1316 Duval St, Key West, FL",
+      "howTo": "Visit the Key West Butterfly and Nature Conservatory.",
+      "badge": "badges/key-west-butterfly-conservatory.png"
+    },
+    {
+      "id": "fort-east-martello",
+      "name": "Fort East Martello Museum",
+      "lat": 24.55232,
+      "lng": -81.75511,
+      "radiusM": 200,
+      "address": "3501 S Roosevelt Blvd, Key West, FL",
+      "howTo": "Visit Fort East Martello Museum.",
+      "badge": "badges/fort-east-martello.png"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/maine/portland",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ME",
+  "stateName": "Maine",
+  "cityName": "Portland",
+  "bbox": {
+    "minLat": 43.61,
+    "minLng": -70.28,
+    "maxLat": 43.68,
+    "maxLng": -70.19
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "portland-head-light",
+      "name": "Portland Head Light",
+      "lat": 43.62311,
+      "lng": -70.20787,
+      "radiusM": 200,
+      "address": "1000 Shore Rd, Cape Elizabeth, ME",
+      "howTo": "Visit Portland Head Light at Fort Williams Park.",
+      "badge": "badges/portland-head-light.png"
+    },
+    {
+      "id": "portland-museum-of-art",
+      "name": "Portland Museum of Art",
+      "lat": 43.65373,
+      "lng": -70.26203,
+      "radiusM": 150,
+      "address": "7 Congress Sq, Portland, ME",
+      "howTo": "Visit the Portland Museum of Art.",
+      "badge": "badges/portland-museum-of-art.png"
+    },
+    {
+      "id": "portland-observatory",
+      "name": "Portland Observatory",
+      "lat": 43.66537,
+      "lng": -70.24825,
+      "radiusM": 150,
+      "address": "138 Congress St, Portland, ME",
+      "howTo": "Visit the Portland Observatory.",
+      "badge": "badges/portland-observatory.png"
+    },
+    {
+      "id": "victoria-mansion",
+      "name": "Victoria Mansion",
+      "lat": 43.65154,
+      "lng": -70.26074,
+      "radiusM": 150,
+      "address": "109 Danforth St, Portland, ME",
+      "howTo": "Visit Victoria Mansion.",
+      "badge": "badges/victoria-mansion.png"
+    },
+    {
+      "id": "eastern-promenade",
+      "name": "Eastern Promenade",
+      "lat": 43.66861,
+      "lng": -70.24239,
+      "radiusM": 300,
+      "address": "Eastern Promenade, Portland, ME",
+      "howTo": "Walk the Eastern Promenade.",
+      "badge": "badges/eastern-promenade.png"
+    },
+    {
+      "id": "old-port",
+      "name": "Old Port",
+      "lat": 43.65587,
+      "lng": -70.25499,
+      "radiusM": 200,
+      "address": "Old Port, Portland, ME",
+      "howTo": "Explore the Old Port waterfront district.",
+      "badge": "badges/old-port.png"
+    },
+    {
+      "id": "wadsworth-longfellow-house",
+      "name": "Wadsworth-Longfellow House",
+      "lat": 43.65696,
+      "lng": -70.26019,
+      "radiusM": 150,
+      "address": "489 Congress St, Portland, ME",
+      "howTo": "Visit the Wadsworth-Longfellow House.",
+      "badge": "badges/wadsworth-longfellow-house.png"
+    },
+    {
+      "id": "portland-breakwater-light",
+      "name": "Portland Breakwater Light",
+      "lat": 43.65554,
+      "lng": -70.23485,
+      "radiusM": 150,
+      "address": "Bug Light Park, South Portland, ME",
+      "howTo": "Visit Portland Breakwater Light (Bug Light).",
+      "badge": "badges/portland-breakwater-light.png"
+    }
+  ]
+}

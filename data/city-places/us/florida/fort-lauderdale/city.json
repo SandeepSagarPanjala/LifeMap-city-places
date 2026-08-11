@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/fort-lauderdale",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Fort Lauderdale",
+  "bbox": {
+    "minLat": 26.07961,
+    "minLng": -80.20364,
+    "maxLat": 26.21192,
+    "maxLng": -80.08715
+  },
+  "updatedAt": "2026-08-10T23:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fort-lauderdale-beach",
+      "name": "Fort Lauderdale Beach",
+      "lat": 26.14701,
+      "lng": -80.10134,
+      "radiusM": 400,
+      "address": "Fort Lauderdale Beach, FL",
+      "howTo": "Visit Fort Lauderdale Beach.",
+      "badge": "badges/fort-lauderdale-beach.png"
+    },
+    {
+      "id": "hugh-taylor-birch-state-park",
+      "name": "Hugh Taylor Birch State Park",
+      "lat": 26.14577,
+      "lng": -80.10512,
+      "radiusM": 400,
+      "address": "3109 E Sunrise Blvd, Fort Lauderdale, FL",
+      "howTo": "Visit Hugh Taylor Birch State Park.",
+      "badge": "badges/hugh-taylor-birch-state-park.png"
+    },
+    {
+      "id": "bonnet-house",
+      "name": "Bonnet House Museum & Gardens",
+      "lat": 26.1351,
+      "lng": -80.10562,
+      "radiusM": 250,
+      "address": "900 N Birch Rd, Fort Lauderdale, FL",
+      "howTo": "Visit Bonnet House Museum & Gardens.",
+      "badge": "badges/bonnet-house.png"
+    },
+    {
+      "id": "museum-of-discovery-and-science",
+      "name": "Museum of Discovery and Science",
+      "lat": 26.12111,
+      "lng": -80.14793,
+      "radiusM": 150,
+      "address": "401 SW 2nd St, Fort Lauderdale, FL",
+      "howTo": "Visit the Museum of Discovery and Science.",
+      "badge": "badges/museum-of-discovery-and-science.png"
+    },
+    {
+      "id": "nsu-art-museum",
+      "name": "NSU Art Museum Fort Lauderdale",
+      "lat": 26.11957,
+      "lng": -80.14266,
+      "radiusM": 150,
+      "address": "1 E Las Olas Blvd, Fort Lauderdale, FL",
+      "howTo": "Visit the NSU Art Museum Fort Lauderdale.",
+      "badge": "badges/nsu-art-museum.png"
+    },
+    {
+      "id": "stranahan-house",
+      "name": "Stranahan House",
+      "lat": 26.11844,
+      "lng": -80.13745,
+      "radiusM": 150,
+      "address": "335 SE 6th Ave, Fort Lauderdale, FL",
+      "howTo": "Visit the Stranahan House.",
+      "badge": "badges/stranahan-house.png"
+    },
+    {
+      "id": "riverwalk",
+      "name": "Riverwalk",
+      "lat": 26.11924,
+      "lng": -80.14702,
+      "radiusM": 300,
+      "address": "Riverwalk, Fort Lauderdale, FL",
+      "howTo": "Visit the Fort Lauderdale Riverwalk.",
+      "badge": "badges/riverwalk.png"
+    },
+    {
+      "id": "international-swimming-hall-of-fame",
+      "name": "International Swimming Hall of Fame",
+      "lat": 26.11626,
+      "lng": -80.10768,
+      "radiusM": 150,
+      "address": "1 Hall of Fame Dr, Fort Lauderdale, FL",
+      "howTo": "Visit the International Swimming Hall of Fame.",
+      "badge": "badges/international-swimming-hall-of-fame.png"
+    }
+  ]
+}

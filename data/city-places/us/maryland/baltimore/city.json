@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/maryland/baltimore",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MD",
+  "stateName": "Maryland",
+  "cityName": "Baltimore",
+  "bbox": {
+    "minLat": 39.25,
+    "minLng": -76.65,
+    "maxLat": 39.34,
+    "maxLng": -76.56
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "national-aquarium",
+      "name": "National Aquarium",
+      "lat": 39.28476,
+      "lng": -76.60769,
+      "radiusM": 150,
+      "address": "501 E Pratt St, Baltimore, MD",
+      "howTo": "Visit the National Aquarium.",
+      "badge": "badges/national-aquarium.png"
+    },
+    {
+      "id": "inner-harbor",
+      "name": "Inner Harbor",
+      "lat": 39.28596,
+      "lng": -76.61204,
+      "radiusM": 300,
+      "address": "Inner Harbor, Baltimore, MD",
+      "howTo": "Visit Baltimore's Inner Harbor.",
+      "badge": "badges/inner-harbor.png"
+    },
+    {
+      "id": "fort-mchenry",
+      "name": "Fort McHenry",
+      "lat": 39.26371,
+      "lng": -76.58033,
+      "radiusM": 300,
+      "address": "2400 E Fort Ave, Baltimore, MD",
+      "howTo": "Visit Fort McHenry National Monument.",
+      "badge": "badges/fort-mchenry.png"
+    },
+    {
+      "id": "maryland-science-center",
+      "name": "Maryland Science Center",
+      "lat": 39.28152,
+      "lng": -76.61217,
+      "radiusM": 150,
+      "address": "601 Light St, Baltimore, MD",
+      "howTo": "Visit the Maryland Science Center.",
+      "badge": "badges/maryland-science-center.png"
+    },
+    {
+      "id": "uss-constellation",
+      "name": "USS Constellation",
+      "lat": 39.28511,
+      "lng": -76.61178,
+      "radiusM": 150,
+      "address": "301 E Pratt St, Baltimore, MD",
+      "howTo": "Tour the USS Constellation.",
+      "badge": "badges/uss-constellation.png"
+    },
+    {
+      "id": "federal-hill-park",
+      "name": "Federal Hill Park",
+      "lat": 39.27961,
+      "lng": -76.60846,
+      "radiusM": 200,
+      "address": "Federal Hill Park, Baltimore, MD",
+      "howTo": "Visit Federal Hill Park for harbor views.",
+      "badge": "badges/federal-hill-park.png"
+    },
+    {
+      "id": "baltimore-museum-of-art",
+      "name": "Baltimore Museum of Art",
+      "lat": 39.32582,
+      "lng": -76.61972,
+      "radiusM": 150,
+      "address": "10 Art Museum Dr, Baltimore, MD",
+      "howTo": "Visit the Baltimore Museum of Art.",
+      "badge": "badges/baltimore-museum-of-art.png"
+    },
+    {
+      "id": "american-visionary-art-museum",
+      "name": "American Visionary Art Museum",
+      "lat": 39.28006,
+      "lng": -76.60686,
+      "radiusM": 150,
+      "address": "800 Key Hwy, Baltimore, MD",
+      "howTo": "Visit the American Visionary Art Museum.",
+      "badge": "badges/american-visionary-art-museum.png"
+    },
+    {
+      "id": "fells-point",
+      "name": "Fells Point",
+      "lat": 39.28199,
+      "lng": -76.59296,
+      "radiusM": 250,
+      "address": "Fells Point, Baltimore, MD",
+      "howTo": "Explore historic Fells Point.",
+      "badge": "badges/fells-point.png"
+    },
+    {
+      "id": "oriole-park-camden-yards",
+      "name": "Oriole Park at Camden Yards",
+      "lat": 39.28374,
+      "lng": -76.62161,
+      "radiusM": 200,
+      "address": "333 W Camden St, Baltimore, MD",
+      "howTo": "Visit Oriole Park at Camden Yards.",
+      "badge": "badges/oriole-park-camden-yards.png"
+    }
+  ]
+}

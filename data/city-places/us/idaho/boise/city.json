@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/idaho/boise",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ID",
+  "stateName": "Idaho",
+  "cityName": "Boise",
+  "bbox": {
+    "minLat": 43.5,
+    "minLng": -116.37,
+    "maxLat": 43.69,
+    "maxLng": -116.09
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "idaho-state-capitol",
+      "name": "Idaho State Capitol",
+      "lat": 43.61777,
+      "lng": -116.19969,
+      "radiusM": 150,
+      "address": "700 W Jefferson St, Boise, ID",
+      "howTo": "Visit the Idaho State Capitol.",
+      "badge": "badges/idaho-state-capitol.png"
+    },
+    {
+      "id": "julia-davis-park",
+      "name": "Julia Davis Park",
+      "lat": 43.60788,
+      "lng": -116.20207,
+      "radiusM": 400,
+      "address": "700 S Capitol Blvd, Boise, ID",
+      "howTo": "Visit Julia Davis Park.",
+      "badge": "badges/julia-davis-park.png"
+    },
+    {
+      "id": "basque-block",
+      "name": "Basque Block",
+      "lat": 43.61396,
+      "lng": -116.20246,
+      "radiusM": 150,
+      "address": "Basque Block, Boise, ID",
+      "howTo": "Visit the Basque Block.",
+      "badge": "badges/basque-block.png"
+    },
+    {
+      "id": "anne-frank-memorial",
+      "name": "Idaho Anne Frank Human Rights Memorial",
+      "lat": 43.60984,
+      "lng": -116.20868,
+      "radiusM": 150,
+      "address": "777 S 8th St, Boise, ID",
+      "howTo": "Visit the Idaho Anne Frank Human Rights Memorial.",
+      "badge": "badges/anne-frank-memorial.png"
+    },
+    {
+      "id": "camels-back-park",
+      "name": "Camels Back Park",
+      "lat": 43.63539,
+      "lng": -116.20258,
+      "radiusM": 300,
+      "address": "1900 W Heron St, Boise, ID",
+      "howTo": "Visit Camels Back Park.",
+      "badge": "badges/camels-back-park.png"
+    },
+    {
+      "id": "old-idaho-penitentiary",
+      "name": "Old Idaho Penitentiary",
+      "lat": 43.60224,
+      "lng": -116.16221,
+      "radiusM": 250,
+      "address": "2445 Old Penitentiary Rd, Boise, ID",
+      "howTo": "Visit the Old Idaho Penitentiary.",
+      "badge": "badges/old-idaho-penitentiary.png"
+    },
+    {
+      "id": "boise-art-museum",
+      "name": "Boise Art Museum",
+      "lat": 43.60968,
+      "lng": -116.2064,
+      "radiusM": 150,
+      "address": "670 Julia Davis Dr, Boise, ID",
+      "howTo": "Visit the Boise Art Museum.",
+      "badge": "badges/boise-art-museum.png"
+    },
+    {
+      "id": "table-rock",
+      "name": "Table Rock",
+      "lat": 43.59656,
+      "lng": -116.16374,
+      "radiusM": 300,
+      "address": "Table Rock, Boise, ID",
+      "howTo": "Visit Table Rock.",
+      "badge": "badges/table-rock.png"
+    },
+    {
+      "id": "idaho-botanical-garden",
+      "name": "Idaho Botanical Garden",
+      "lat": 43.60099,
+      "lng": -116.16127,
+      "radiusM": 300,
+      "address": "2355 Old Penitentiary Rd, Boise, ID",
+      "howTo": "Visit the Idaho Botanical Garden.",
+      "badge": "badges/idaho-botanical-garden.png"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/georgia/atlanta",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "GA",
+  "stateName": "Georgia",
+  "cityName": "Atlanta",
+  "bbox": {
+    "minLat": 33.65,
+    "minLng": -84.55,
+    "maxLat": 33.89,
+    "maxLng": -84.29
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "georgia-aquarium",
+      "name": "Georgia Aquarium",
+      "lat": 33.76327,
+      "lng": -84.39512,
+      "radiusM": 200,
+      "address": "225 Baker St NW, Atlanta, GA",
+      "howTo": "Visit the Georgia Aquarium.",
+      "badge": "badges/georgia-aquarium.png"
+    },
+    {
+      "id": "world-of-coca-cola",
+      "name": "World of Coca-Cola",
+      "lat": 33.7629,
+      "lng": -84.39255,
+      "radiusM": 150,
+      "address": "121 Baker St NW, Atlanta, GA",
+      "howTo": "Visit the World of Coca-Cola.",
+      "badge": "badges/world-of-coca-cola.png"
+    },
+    {
+      "id": "centennial-olympic-park",
+      "name": "Centennial Olympic Park",
+      "lat": 33.76014,
+      "lng": -84.39345,
+      "radiusM": 300,
+      "address": "265 Park Ave W NW, Atlanta, GA",
+      "howTo": "Visit Centennial Olympic Park.",
+      "badge": "badges/centennial-olympic-park.png"
+    },
+    {
+      "id": "mlk-national-historical-park",
+      "name": "Martin Luther King Jr. National Historical Park",
+      "lat": 33.75638,
+      "lng": -84.37347,
+      "radiusM": 250,
+      "address": "450 Auburn Ave NE, Atlanta, GA",
+      "howTo": "Visit Martin Luther King Jr. National Historical Park.",
+      "badge": "badges/mlk-national-historical-park.png"
+    },
+    {
+      "id": "piedmont-park",
+      "name": "Piedmont Park",
+      "lat": 33.78905,
+      "lng": -84.37189,
+      "radiusM": 400,
+      "address": "400 Park Dr NE, Atlanta, GA",
+      "howTo": "Visit Piedmont Park.",
+      "badge": "badges/piedmont-park.png"
+    },
+    {
+      "id": "atlanta-botanical-garden",
+      "name": "Atlanta Botanical Garden",
+      "lat": 33.79108,
+      "lng": -84.37323,
+      "radiusM": 250,
+      "address": "1345 Piedmont Ave NE, Atlanta, GA",
+      "howTo": "Visit the Atlanta Botanical Garden.",
+      "badge": "badges/atlanta-botanical-garden.png"
+    },
+    {
+      "id": "high-museum-of-art",
+      "name": "High Museum of Art",
+      "lat": 33.78955,
+      "lng": -84.38627,
+      "radiusM": 150,
+      "address": "1280 Peachtree St NE, Atlanta, GA",
+      "howTo": "Visit the High Museum of Art.",
+      "badge": "badges/high-museum-of-art.png"
+    },
+    {
+      "id": "national-center-civil-human-rights",
+      "name": "National Center for Civil and Human Rights",
+      "lat": 33.76405,
+      "lng": -84.39304,
+      "radiusM": 150,
+      "address": "100 Ivan Allen Jr Blvd NW, Atlanta, GA",
+      "howTo": "Visit the National Center for Civil and Human Rights.",
+      "badge": "badges/national-center-civil-human-rights.png"
+    },
+    {
+      "id": "zoo-atlanta",
+      "name": "Zoo Atlanta",
+      "lat": 33.7326,
+      "lng": -84.37104,
+      "radiusM": 300,
+      "address": "800 Cherokee Ave SE, Atlanta, GA",
+      "howTo": "Visit Zoo Atlanta.",
+      "badge": "badges/zoo-atlanta.png"
+    },
+    {
+      "id": "atlanta-history-center",
+      "name": "Atlanta History Center",
+      "lat": 33.84178,
+      "lng": -84.38601,
+      "radiusM": 300,
+      "address": "130 W Paces Ferry Rd NW, Atlanta, GA",
+      "howTo": "Visit the Atlanta History Center.",
+      "badge": "badges/atlanta-history-center.png"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/jacksonville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "Jacksonville",
+  "bbox": {
+    "minLat": 30.10375,
+    "minLng": -82.04939,
+    "maxLat": 30.58621,
+    "maxLng": -81.31671
+  },
+  "updatedAt": "2026-08-10T23:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jacksonville-zoo",
+      "name": "Jacksonville Zoo and Gardens",
+      "lat": 30.40228,
+      "lng": -81.64326,
+      "radiusM": 400,
+      "address": "370 Zoo Pkwy, Jacksonville, FL",
+      "howTo": "Visit Jacksonville Zoo and Gardens.",
+      "badge": "badges/jacksonville-zoo.png"
+    },
+    {
+      "id": "cummer-museum",
+      "name": "Cummer Museum of Art & Gardens",
+      "lat": 30.31511,
+      "lng": -81.67658,
+      "radiusM": 200,
+      "address": "829 Riverside Ave, Jacksonville, FL",
+      "howTo": "Visit the Cummer Museum of Art & Gardens.",
+      "badge": "badges/cummer-museum.png"
+    },
+    {
+      "id": "friendship-fountain",
+      "name": "Friendship Fountain",
+      "lat": 30.32004,
+      "lng": -81.65981,
+      "radiusM": 150,
+      "address": "Friendship Fountain, Jacksonville, FL",
+      "howTo": "Visit Friendship Fountain on the Southbank.",
+      "badge": "badges/friendship-fountain.png"
+    },
+    {
+      "id": "kathryn-abbey-hanna-park",
+      "name": "Kathryn Abbey Hanna Park",
+      "lat": 30.37096,
+      "lng": -81.40284,
+      "radiusM": 500,
+      "address": "500 Wonderwood Dr, Jacksonville, FL",
+      "howTo": "Visit Kathryn Abbey Hanna Park.",
+      "badge": "badges/kathryn-abbey-hanna-park.png"
+    },
+    {
+      "id": "fort-caroline-national-memorial",
+      "name": "Fort Caroline National Memorial",
+      "lat": 30.38439,
+      "lng": -81.49696,
+      "radiusM": 250,
+      "address": "12713 Fort Caroline Rd, Jacksonville, FL",
+      "howTo": "Visit Fort Caroline National Memorial.",
+      "badge": "badges/fort-caroline-national-memorial.png"
+    },
+    {
+      "id": "museum-of-science-and-history",
+      "name": "Museum of Science & History",
+      "lat": 30.31888,
+      "lng": -81.65981,
+      "radiusM": 150,
+      "address": "1025 Museum Cir, Jacksonville, FL",
+      "howTo": "Visit the Museum of Science & History.",
+      "badge": "badges/museum-of-science-and-history.png"
+    },
+    {
+      "id": "moca-jacksonville",
+      "name": "MOCA Jacksonville",
+      "lat": 30.32929,
+      "lng": -81.65839,
+      "radiusM": 150,
+      "address": "333 N Laura St, Jacksonville, FL",
+      "howTo": "Visit MOCA Jacksonville.",
+      "badge": "badges/moca-jacksonville.png"
+    },
+    {
+      "id": "memorial-park",
+      "name": "Memorial Park",
+      "lat": 30.31139,
+      "lng": -81.67936,
+      "radiusM": 200,
+      "address": "1620 Riverside Ave, Jacksonville, FL",
+      "howTo": "Visit Memorial Park along the St. Johns River.",
+      "badge": "badges/memorial-park.png"
+    },
+    {
+      "id": "jacksonville-beach-pier",
+      "name": "Jacksonville Beach Pier",
+      "lat": 30.29357,
+      "lng": -81.38771,
+      "radiusM": 200,
+      "address": "Jacksonville Beach Pier, FL",
+      "howTo": "Visit the Jacksonville Beach Pier.",
+      "badge": "badges/jacksonville-beach-pier.png"
+    },
+    {
+      "id": "everbank-stadium",
+      "name": "EverBank Stadium",
+      "lat": 30.32398,
+      "lng": -81.6373,
+      "radiusM": 300,
+      "address": "1 TIAA Bank Field Dr, Jacksonville, FL",
+      "howTo": "Visit EverBank Stadium.",
+      "badge": "badges/everbank-stadium.png"
+    }
+  ]
+}

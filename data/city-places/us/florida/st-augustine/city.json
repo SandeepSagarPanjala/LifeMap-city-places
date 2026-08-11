@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/florida/st-augustine",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "cityName": "St. Augustine",
+  "bbox": {
+    "minLat": 29.84632,
+    "minLng": -81.34459,
+    "maxLat": 29.95554,
+    "maxLng": -81.26571
+  },
+  "updatedAt": "2026-08-10T23:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "castillo-de-san-marcos",
+      "name": "Castillo de San Marcos",
+      "lat": 29.8979,
+      "lng": -81.31174,
+      "radiusM": 150,
+      "address": "1 S Castillo Dr, St. Augustine, FL",
+      "howTo": "Visit Castillo de San Marcos.",
+      "badge": "badges/castillo-de-san-marcos.png"
+    },
+    {
+      "id": "st-augustine-lighthouse",
+      "name": "St. Augustine Lighthouse",
+      "lat": 29.88545,
+      "lng": -81.28854,
+      "radiusM": 150,
+      "address": "81 Lighthouse Ave, St. Augustine, FL",
+      "howTo": "Visit the St. Augustine Lighthouse.",
+      "badge": "badges/st-augustine-lighthouse.png"
+    },
+    {
+      "id": "fountain-of-youth-archaeological-park",
+      "name": "Fountain of Youth Archaeological Park",
+      "lat": 29.90686,
+      "lng": -81.31492,
+      "radiusM": 300,
+      "address": "11 Magnolia Ave, St. Augustine, FL",
+      "howTo": "Visit the Fountain of Youth Archaeological Park.",
+      "badge": "badges/fountain-of-youth-archaeological-park.png"
+    },
+    {
+      "id": "lightner-museum",
+      "name": "Lightner Museum",
+      "lat": 29.89064,
+      "lng": -81.3137,
+      "radiusM": 150,
+      "address": "75 King St, St. Augustine, FL",
+      "howTo": "Visit the Lightner Museum.",
+      "badge": "badges/lightner-museum.png"
+    },
+    {
+      "id": "anastasia-state-park",
+      "name": "Anastasia State Park",
+      "lat": 29.88394,
+      "lng": -81.2765,
+      "radiusM": 500,
+      "address": "300 Anastasia Park Rd, St. Augustine, FL",
+      "howTo": "Visit Anastasia State Park.",
+      "badge": "badges/anastasia-state-park.png"
+    },
+    {
+      "id": "bridge-of-lions",
+      "name": "Bridge of Lions",
+      "lat": 29.89291,
+      "lng": -81.30738,
+      "radiusM": 150,
+      "address": "Bridge of Lions, St. Augustine, FL",
+      "howTo": "Visit the Bridge of Lions.",
+      "badge": "badges/bridge-of-lions.png"
+    },
+    {
+      "id": "cathedral-basilica-of-st-augustine",
+      "name": "Cathedral Basilica of St. Augustine",
+      "lat": 29.89314,
+      "lng": -81.31241,
+      "radiusM": 150,
+      "address": "38 Cathedral Pl, St. Augustine, FL",
+      "howTo": "Visit the Cathedral Basilica of St. Augustine.",
+      "badge": "badges/cathedral-basilica-of-st-augustine.png"
+    },
+    {
+      "id": "st-augustine-alligator-farm",
+      "name": "St. Augustine Alligator Farm",
+      "lat": 29.88196,
+      "lng": -81.2891,
+      "radiusM": 250,
+      "address": "999 Anastasia Blvd, St. Augustine, FL",
+      "howTo": "Visit the St. Augustine Alligator Farm Zoological Park.",
+      "badge": "badges/st-augustine-alligator-farm.png"
+    },
+    {
+      "id": "plaza-de-la-constitucion",
+      "name": "Plaza de la Constituci\u00f3n",
+      "lat": 29.89249,
+      "lng": -81.31211,
+      "radiusM": 150,
+      "address": "Plaza de la Constituci\u00f3n, St. Augustine, FL",
+      "howTo": "Visit Plaza de la Constituci\u00f3n.",
+      "badge": "badges/plaza-de-la-constitucion.png"
+    },
+    {
+      "id": "mission-nombre-de-dios",
+      "name": "Mission Nombre de Dios",
+      "lat": 29.90394,
+      "lng": -81.31512,
+      "radiusM": 250,
+      "address": "27 Ocean Ave, St. Augustine, FL",
+      "howTo": "Visit Mission Nombre de Dios and the Great Cross.",
+      "badge": "badges/mission-nombre-de-dios.png"
+    }
+  ]
+}

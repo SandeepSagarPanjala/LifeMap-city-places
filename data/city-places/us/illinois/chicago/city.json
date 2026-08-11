@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "us/illinois/chicago",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IL",
+  "stateName": "Illinois",
+  "cityName": "Chicago",
+  "bbox": {
+    "minLat": 41.64,
+    "minLng": -87.94,
+    "maxLat": 42.02,
+    "maxLng": -87.52
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cloud-gate",
+      "name": "Cloud Gate",
+      "lat": 41.8827,
+      "lng": -87.6233,
+      "radiusM": 150,
+      "address": "Millennium Park, Chicago, IL",
+      "howTo": "Visit Cloud Gate (The Bean) in Millennium Park.",
+      "badge": "badges/cloud-gate.png"
+    },
+    {
+      "id": "art-institute-of-chicago",
+      "name": "Art Institute of Chicago",
+      "lat": 41.879444,
+      "lng": -87.623889,
+      "radiusM": 150,
+      "address": "111 S Michigan Ave, Chicago, IL",
+      "howTo": "Visit the Art Institute of Chicago.",
+      "badge": "badges/art-institute-of-chicago.png"
+    },
+    {
+      "id": "willis-tower",
+      "name": "Willis Tower",
+      "lat": 41.878611,
+      "lng": -87.635833,
+      "radiusM": 150,
+      "address": "233 S Wacker Dr, Chicago, IL",
+      "howTo": "Visit Willis Tower and the Skydeck.",
+      "badge": "badges/willis-tower.png"
+    },
+    {
+      "id": "navy-pier",
+      "name": "Navy Pier",
+      "lat": 41.891389,
+      "lng": -87.599722,
+      "radiusM": 300,
+      "address": "600 E Grand Ave, Chicago, IL",
+      "howTo": "Visit Navy Pier.",
+      "badge": "badges/navy-pier.png"
+    },
+    {
+      "id": "shedd-aquarium",
+      "name": "Shedd Aquarium",
+      "lat": 41.867778,
+      "lng": -87.613889,
+      "radiusM": 150,
+      "address": "1200 S Lake Shore Dr, Chicago, IL",
+      "howTo": "Visit the Shedd Aquarium.",
+      "badge": "badges/shedd-aquarium.png"
+    },
+    {
+      "id": "field-museum",
+      "name": "Field Museum",
+      "lat": 41.866278,
+      "lng": -87.617039,
+      "radiusM": 150,
+      "address": "1400 S Lake Shore Dr, Chicago, IL",
+      "howTo": "Visit the Field Museum.",
+      "badge": "badges/field-museum.png"
+    },
+    {
+      "id": "adler-planetarium",
+      "name": "Adler Planetarium",
+      "lat": 41.866153,
+      "lng": -87.606675,
+      "radiusM": 150,
+      "address": "1300 S Lake Shore Dr, Chicago, IL",
+      "howTo": "Visit the Adler Planetarium.",
+      "badge": "badges/adler-planetarium.png"
+    },
+    {
+      "id": "lincoln-park-zoo",
+      "name": "Lincoln Park Zoo",
+      "lat": 41.921389,
+      "lng": -87.633889,
+      "radiusM": 300,
+      "address": "2001 N Clark St, Chicago, IL",
+      "howTo": "Visit Lincoln Park Zoo.",
+      "badge": "badges/lincoln-park-zoo.png"
+    },
+    {
+      "id": "wrigley-field",
+      "name": "Wrigley Field",
+      "lat": 41.948438,
+      "lng": -87.655333,
+      "radiusM": 200,
+      "address": "1060 W Addison St, Chicago, IL",
+      "howTo": "Visit Wrigley Field.",
+      "badge": "badges/wrigley-field.png"
+    },
+    {
+      "id": "buckingham-fountain",
+      "name": "Buckingham Fountain",
+      "lat": 41.875794,
+      "lng": -87.618948,
+      "radiusM": 150,
+      "address": "301 S Columbus Dr, Chicago, IL",
+      "howTo": "Visit Buckingham Fountain in Grant Park.",
+      "badge": "badges/buckingham-fountain.png"
+    },
+    {
+      "id": "museum-of-science-and-industry",
+      "name": "Museum of Science and Industry",
+      "lat": 41.7906,
+      "lng": -87.58295,
+      "radiusM": 200,
+      "address": "5700 S Lake Shore Dr, Chicago, IL",
+      "howTo": "Visit the Museum of Science and Industry.",
+      "badge": "badges/museum-of-science-and-industry.png"
+    },
+    {
+      "id": "chicago-riverwalk",
+      "name": "Chicago Riverwalk",
+      "lat": 41.8881,
+      "lng": -87.6216,
+      "radiusM": 250,
+      "address": "Chicago Riverwalk, Chicago, IL",
+      "howTo": "Walk the Chicago Riverwalk.",
+      "badge": "badges/chicago-riverwalk.png"
+    },
+    {
+      "id": "chicago-water-tower",
+      "name": "Chicago Water Tower",
+      "lat": 41.897217,
+      "lng": -87.624547,
+      "radiusM": 150,
+      "address": "806 N Michigan Ave, Chicago, IL",
+      "howTo": "Visit the Chicago Water Tower.",
+      "badge": "badges/chicago-water-tower.png"
+    },
+    {
+      "id": "grant-park",
+      "name": "Grant Park",
+      "lat": 41.8764,
+      "lng": -87.6199,
+      "radiusM": 400,
+      "address": "337 E Randolph St, Chicago, IL",
+      "howTo": "Visit Grant Park.",
+      "badge": "badges/grant-park.png"
+    },
+    {
+      "id": "garfield-park-conservatory",
+      "name": "Garfield Park Conservatory",
+      "lat": 41.8864,
+      "lng": -87.7173,
+      "radiusM": 200,
+      "address": "300 N Central Park Ave, Chicago, IL",
+      "howTo": "Visit the Garfield Park Conservatory.",
+      "badge": "badges/garfield-park-conservatory.png"
+    }
+  ]
+}

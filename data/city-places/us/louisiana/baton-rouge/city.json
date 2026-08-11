@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/louisiana/baton-rouge",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "LA",
+  "stateName": "Louisiana",
+  "cityName": "Baton Rouge",
+  "bbox": {
+    "minLat": 30.35,
+    "minLng": -91.22,
+    "maxLat": 30.48,
+    "maxLng": -91.09
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "louisiana-state-capitol",
+      "name": "Louisiana State Capitol",
+      "lat": 30.45706,
+      "lng": -91.18737,
+      "radiusM": 200,
+      "address": "900 N 3rd St, Baton Rouge, LA",
+      "howTo": "Visit the Louisiana State Capitol.",
+      "badge": "badges/louisiana-state-capitol.png"
+    },
+    {
+      "id": "old-state-capitol",
+      "name": "Old Louisiana State Capitol",
+      "lat": 30.44659,
+      "lng": -91.18907,
+      "radiusM": 150,
+      "address": "100 North Blvd, Baton Rouge, LA",
+      "howTo": "Visit the Old Louisiana State Capitol.",
+      "badge": "badges/old-state-capitol.png"
+    },
+    {
+      "id": "capitol-park-museum",
+      "name": "Capitol Park Museum",
+      "lat": 30.45376,
+      "lng": -91.18636,
+      "radiusM": 150,
+      "address": "660 N 4th St, Baton Rouge, LA",
+      "howTo": "Visit the Capitol Park Museum.",
+      "badge": "badges/capitol-park-museum.png"
+    },
+    {
+      "id": "uss-kidd",
+      "name": "USS Kidd Veterans Museum",
+      "lat": 30.44437,
+      "lng": -91.19149,
+      "radiusM": 150,
+      "address": "305 S River Rd, Baton Rouge, LA",
+      "howTo": "Visit the USS Kidd Veterans Museum.",
+      "badge": "badges/uss-kidd.png"
+    },
+    {
+      "id": "lsu-rural-life-museum",
+      "name": "LSU Rural Life Museum",
+      "lat": 30.4115,
+      "lng": -91.11549,
+      "radiusM": 300,
+      "address": "4560 Essen Ln, Baton Rouge, LA",
+      "howTo": "Visit the LSU Rural Life Museum.",
+      "badge": "badges/lsu-rural-life-museum.png"
+    },
+    {
+      "id": "bluebonnet-swamp-nature-center",
+      "name": "Bluebonnet Swamp Nature Center",
+      "lat": 30.36527,
+      "lng": -91.10514,
+      "radiusM": 300,
+      "address": "10503 N Lakeshore Dr, Baton Rouge, LA",
+      "howTo": "Visit Bluebonnet Swamp Nature Center.",
+      "badge": "badges/bluebonnet-swamp-nature-center.png"
+    },
+    {
+      "id": "louisiana-art-and-science-museum",
+      "name": "Louisiana Art & Science Museum",
+      "lat": 30.44615,
+      "lng": -91.19038,
+      "radiusM": 150,
+      "address": "100 S River Rd, Baton Rouge, LA",
+      "howTo": "Visit the Louisiana Art & Science Museum.",
+      "badge": "badges/louisiana-art-and-science-museum.png"
+    },
+    {
+      "id": "magnolia-mound-plantation",
+      "name": "Magnolia Mound Plantation",
+      "lat": 30.4263,
+      "lng": -91.18723,
+      "radiusM": 200,
+      "address": "2161 Nicholson Dr, Baton Rouge, LA",
+      "howTo": "Visit Magnolia Mound Plantation.",
+      "badge": "badges/magnolia-mound-plantation.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "us/delaware/rehoboth-beach",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "DE",
+  "stateName": "Delaware",
+  "cityName": "Rehoboth Beach",
+  "bbox": {
+    "minLat": 38.7,
+    "minLng": -75.12,
+    "maxLat": 38.74,
+    "maxLng": -75.06
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rehoboth-beach-boardwalk",
+      "name": "Rehoboth Beach Boardwalk",
+      "lat": 38.7209,
+      "lng": -75.076,
+      "radiusM": 250,
+      "address": "Boardwalk, Rehoboth Beach, DE",
+      "howTo": "Walk the Rehoboth Beach Boardwalk.",
+      "badge": "badges/rehoboth-beach-boardwalk.png"
+    },
+    {
+      "id": "cape-henlopen-state-park",
+      "name": "Cape Henlopen State Park",
+      "lat": 38.7765,
+      "lng": -75.096,
+      "radiusM": 400,
+      "address": "15099 Cape Henlopen Dr, Lewes, DE",
+      "howTo": "Visit Cape Henlopen State Park.",
+      "badge": "badges/cape-henlopen-state-park.png"
+    },
+    {
+      "id": "rehoboth-beach-bandstand",
+      "name": "Rehoboth Beach Bandstand",
+      "lat": 38.7195,
+      "lng": -75.0765,
+      "radiusM": 100,
+      "address": "Rehoboth Ave, Rehoboth Beach, DE",
+      "howTo": "Visit the Rehoboth Beach Bandstand.",
+      "badge": "badges/rehoboth-beach-bandstand.png"
+    }
+  ]
+}

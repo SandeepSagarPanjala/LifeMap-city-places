@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/maine/bar-harbor",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "ME",
+  "stateName": "Maine",
+  "cityName": "Bar Harbor",
+  "bbox": {
+    "minLat": 44.3,
+    "minLng": -68.27,
+    "maxLat": 44.42,
+    "maxLng": -68.17
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "agamont-park",
+      "name": "Agamont Park",
+      "lat": 44.3908,
+      "lng": -68.20393,
+      "radiusM": 150,
+      "address": "Agamont Park, Bar Harbor, ME",
+      "howTo": "Visit Agamont Park overlooking Frenchman Bay.",
+      "badge": "badges/agamont-park.png"
+    },
+    {
+      "id": "shore-path",
+      "name": "Shore Path",
+      "lat": 44.38784,
+      "lng": -68.19939,
+      "radiusM": 200,
+      "address": "Shore Path, Bar Harbor, ME",
+      "howTo": "Walk the Shore Path along the water.",
+      "badge": "badges/shore-path.png"
+    },
+    {
+      "id": "cadillac-mountain",
+      "name": "Cadillac Mountain",
+      "lat": 44.35286,
+      "lng": -68.2239,
+      "radiusM": 300,
+      "address": "Cadillac Summit Rd, Bar Harbor, ME",
+      "howTo": "Visit the summit of Cadillac Mountain.",
+      "badge": "badges/cadillac-mountain.png"
+    },
+    {
+      "id": "thunder-hole",
+      "name": "Thunder Hole",
+      "lat": 44.32059,
+      "lng": -68.18854,
+      "radiusM": 150,
+      "address": "Park Loop Rd, Bar Harbor, ME",
+      "howTo": "Visit Thunder Hole in Acadia National Park.",
+      "badge": "badges/thunder-hole.png"
+    },
+    {
+      "id": "sand-beach",
+      "name": "Sand Beach",
+      "lat": 44.32917,
+      "lng": -68.18232,
+      "radiusM": 200,
+      "address": "Sand Beach, Bar Harbor, ME",
+      "howTo": "Visit Sand Beach in Acadia National Park.",
+      "badge": "badges/sand-beach.png"
+    },
+    {
+      "id": "jordan-pond",
+      "name": "Jordan Pond",
+      "lat": 44.32059,
+      "lng": -68.25353,
+      "radiusM": 300,
+      "address": "Jordan Pond, Bar Harbor, ME",
+      "howTo": "Visit Jordan Pond in Acadia National Park.",
+      "badge": "badges/jordan-pond.png"
+    },
+    {
+      "id": "bar-island",
+      "name": "Bar Island",
+      "lat": 44.39442,
+      "lng": -68.21081,
+      "radiusM": 250,
+      "address": "Bar Island, Bar Harbor, ME",
+      "howTo": "Walk to Bar Island at low tide via the sand bar.",
+      "badge": "badges/bar-island.png"
+    },
+    {
+      "id": "hulls-cove-visitor-center",
+      "name": "Hulls Cove Visitor Center",
+      "lat": 44.40848,
+      "lng": -68.246,
+      "radiusM": 150,
+      "address": "25 Visitor Center Rd, Bar Harbor, ME",
+      "howTo": "Visit the Hulls Cove Visitor Center for Acadia.",
+      "badge": "badges/hulls-cove-visitor-center.png"
+    }
+  ]
+}

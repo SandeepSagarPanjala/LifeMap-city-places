@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/colorado/telluride",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CO",
+  "stateName": "Colorado",
+  "cityName": "Telluride",
+  "bbox": {
+    "minLat": 37.92,
+    "minLng": -107.9,
+    "maxLat": 37.96,
+    "maxLng": -107.78
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bridal-veil-falls",
+      "name": "Bridal Veil Falls",
+      "lat": 37.9065,
+      "lng": -107.767,
+      "radiusM": 200,
+      "address": "Telluride, CO",
+      "howTo": "Visit Bridal Veil Falls.",
+      "badge": "badges/bridal-veil-falls.png"
+    },
+    {
+      "id": "telluride-historic-district",
+      "name": "Telluride Historic District",
+      "lat": 37.9375,
+      "lng": -107.8123,
+      "radiusM": 250,
+      "address": "Telluride, CO",
+      "howTo": "Walk the Telluride Historic District.",
+      "badge": "badges/telluride-historic-district.png"
+    },
+    {
+      "id": "bear-creek-falls",
+      "name": "Bear Creek Falls",
+      "lat": 37.925,
+      "lng": -107.8,
+      "radiusM": 200,
+      "address": "Bear Creek Trail, Telluride, CO",
+      "howTo": "Hike to Bear Creek Falls.",
+      "badge": "badges/bear-creek-falls.png"
+    },
+    {
+      "id": "telluride-gondola",
+      "name": "Telluride Gondola",
+      "lat": 37.937,
+      "lng": -107.812,
+      "radiusM": 150,
+      "address": "San Juan Ave, Telluride, CO",
+      "howTo": "Ride the free Telluride Gondola.",
+      "badge": "badges/telluride-gondola.png"
+    }
+  ]
+}

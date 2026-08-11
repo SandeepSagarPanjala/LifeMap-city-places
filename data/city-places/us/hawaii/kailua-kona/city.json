@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/hawaii/kailua-kona",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "HI",
+  "stateName": "Hawaii",
+  "cityName": "Kailua-Kona",
+  "bbox": {
+    "minLat": 19.45,
+    "minLng": -156.05,
+    "maxLat": 19.72,
+    "maxLng": -155.87
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hulihee-palace",
+      "name": "Hulihee Palace",
+      "lat": 19.63931,
+      "lng": -155.99436,
+      "radiusM": 150,
+      "address": "75-5718 Alii Dr, Kailua-Kona, HI",
+      "howTo": "Visit Hulihee Palace.",
+      "badge": "badges/hulihee-palace.png"
+    },
+    {
+      "id": "kamakahonu",
+      "name": "Kamakahonu",
+      "lat": 19.63898,
+      "lng": -155.99736,
+      "radiusM": 150,
+      "address": "Kamakahonu Beach, Kailua-Kona, HI",
+      "howTo": "Visit Kamakahonu and Ahuena Heiau.",
+      "badge": "badges/kamakahonu.png"
+    },
+    {
+      "id": "magic-sands-beach",
+      "name": "Magic Sands Beach",
+      "lat": 19.59376,
+      "lng": -155.97157,
+      "radiusM": 200,
+      "address": "77-6452 Alii Dr, Kailua-Kona, HI",
+      "howTo": "Visit Magic Sands Beach (Laaloa Beach Park).",
+      "badge": "badges/magic-sands-beach.png"
+    },
+    {
+      "id": "kahaluu-beach-park",
+      "name": "Kahaluu Beach Park",
+      "lat": 19.57929,
+      "lng": -155.96667,
+      "radiusM": 200,
+      "address": "78-6740 Alii Dr, Kailua-Kona, HI",
+      "howTo": "Visit Kahaluu Beach Park.",
+      "badge": "badges/kahaluu-beach-park.png"
+    },
+    {
+      "id": "kaloko-honokohau",
+      "name": "Kaloko-Honokohau National Historical Park",
+      "lat": 19.68182,
+      "lng": -156.02709,
+      "radiusM": 400,
+      "address": "73-4786 Kanalani St, Kailua-Kona, HI",
+      "howTo": "Visit Kaloko-Honokohau National Historical Park.",
+      "badge": "badges/kaloko-honokohau.png"
+    },
+    {
+      "id": "mokuaikaua-church",
+      "name": "Mokuaikaua Church",
+      "lat": 19.63961,
+      "lng": -155.99371,
+      "radiusM": 150,
+      "address": "75-5713 Alii Dr, Kailua-Kona, HI",
+      "howTo": "Visit Mokuaikaua Church.",
+      "badge": "badges/mokuaikaua-church.png"
+    },
+    {
+      "id": "kealakekua-bay",
+      "name": "Kealakekua Bay",
+      "lat": 19.47709,
+      "lng": -155.92708,
+      "radiusM": 400,
+      "address": "Kealakekua Bay, HI",
+      "howTo": "Visit Kealakekua Bay.",
+      "badge": "badges/kealakekua-bay.png"
+    }
+  ]
+}

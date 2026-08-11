@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/connecticut/mystic",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CT",
+  "stateName": "Connecticut",
+  "cityName": "Mystic",
+  "bbox": {
+    "minLat": 41.34,
+    "minLng": -71.98,
+    "maxLat": 41.37,
+    "maxLng": -71.95
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mystic-seaport",
+      "name": "Mystic Seaport Museum",
+      "lat": 41.3615,
+      "lng": -71.9655,
+      "radiusM": 250,
+      "address": "75 Greenmanville Ave, Mystic, CT",
+      "howTo": "Visit Mystic Seaport Museum.",
+      "badge": "badges/mystic-seaport.png"
+    },
+    {
+      "id": "mystic-aquarium",
+      "name": "Mystic Aquarium",
+      "lat": 41.373,
+      "lng": -71.956,
+      "radiusM": 200,
+      "address": "55 Coogan Blvd, Mystic, CT",
+      "howTo": "Visit Mystic Aquarium.",
+      "badge": "badges/mystic-aquarium.png"
+    },
+    {
+      "id": "mystic-drawbridge",
+      "name": "Mystic River Bascule Bridge",
+      "lat": 41.3545,
+      "lng": -71.9665,
+      "radiusM": 100,
+      "address": "Main St, Mystic, CT",
+      "howTo": "See the Mystic River drawbridge.",
+      "badge": "badges/mystic-drawbridge.png"
+    },
+    {
+      "id": "charles-w-morgan",
+      "name": "Charles W. Morgan",
+      "lat": 41.3618,
+      "lng": -71.965,
+      "radiusM": 100,
+      "address": "Mystic Seaport, Mystic, CT",
+      "howTo": "Visit the Charles W. Morgan.",
+      "badge": "badges/charles-w-morgan.png"
+    }
+  ]
+}

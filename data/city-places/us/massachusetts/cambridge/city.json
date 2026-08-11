@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "us/massachusetts/cambridge",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MA",
+  "stateName": "Massachusetts",
+  "cityName": "Cambridge",
+  "bbox": {
+    "minLat": 42.35,
+    "minLng": -71.16,
+    "maxLat": 42.4,
+    "maxLng": -71.07
+  },
+  "updatedAt": "2026-08-11T00:11:53.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "harvard-yard",
+      "name": "Harvard Yard",
+      "lat": 42.37409,
+      "lng": -71.11672,
+      "radiusM": 250,
+      "address": "Harvard Yard, Cambridge, MA",
+      "howTo": "Visit Harvard Yard.",
+      "badge": "badges/harvard-yard.png"
+    },
+    {
+      "id": "harvard-square",
+      "name": "Harvard Square",
+      "lat": 42.37347,
+      "lng": -71.11894,
+      "radiusM": 200,
+      "address": "Harvard Square, Cambridge, MA",
+      "howTo": "Visit Harvard Square.",
+      "badge": "badges/harvard-square.png"
+    },
+    {
+      "id": "harvard-museum-of-natural-history",
+      "name": "Harvard Museum of Natural History",
+      "lat": 42.37847,
+      "lng": -71.11565,
+      "radiusM": 150,
+      "address": "26 Oxford St, Cambridge, MA",
+      "howTo": "Visit the Harvard Museum of Natural History.",
+      "badge": "badges/harvard-museum-of-natural-history.png"
+    },
+    {
+      "id": "harvard-art-museums",
+      "name": "Harvard Art Museums",
+      "lat": 42.3741,
+      "lng": -71.11411,
+      "radiusM": 150,
+      "address": "32 Quincy St, Cambridge, MA",
+      "howTo": "Visit the Harvard Art Museums.",
+      "badge": "badges/harvard-art-museums.png"
+    },
+    {
+      "id": "mit-great-dome",
+      "name": "MIT Great Dome",
+      "lat": 42.35876,
+      "lng": -71.09149,
+      "radiusM": 200,
+      "address": "Killian Court, Cambridge, MA",
+      "howTo": "Visit Killian Court and the MIT Great Dome.",
+      "badge": "badges/mit-great-dome.png"
+    },
+    {
+      "id": "mit-museum",
+      "name": "MIT Museum",
+      "lat": 42.36198,
+      "lng": -71.08642,
+      "radiusM": 150,
+      "address": "314 Main St, Cambridge, MA",
+      "howTo": "Visit the MIT Museum.",
+      "badge": "badges/mit-museum.png"
+    },
+    {
+      "id": "mount-auburn-cemetery",
+      "name": "Mount Auburn Cemetery",
+      "lat": 42.3707,
+      "lng": -71.14401,
+      "radiusM": 400,
+      "address": "580 Mount Auburn St, Cambridge, MA",
+      "howTo": "Visit Mount Auburn Cemetery.",
+      "badge": "badges/mount-auburn-cemetery.png"
+    },
+    {
+      "id": "longfellow-house",
+      "name": "Longfellow House",
+      "lat": 42.37714,
+      "lng": -71.12631,
+      "radiusM": 150,
+      "address": "105 Brattle St, Cambridge, MA",
+      "howTo": "Visit Longfellow House-Washington's Headquarters.",
+      "badge": "badges/longfellow-house.png"
+    },
+    {
+      "id": "cambridge-common",
+      "name": "Cambridge Common",
+      "lat": 42.37668,
+      "lng": -71.121,
+      "radiusM": 250,
+      "address": "Cambridge Common, Cambridge, MA",
+      "howTo": "Visit Cambridge Common.",
+      "badge": "badges/cambridge-common.png"
+    }
+  ]
+}

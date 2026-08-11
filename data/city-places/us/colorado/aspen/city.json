@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/colorado/aspen",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CO",
+  "stateName": "Colorado",
+  "cityName": "Aspen",
+  "bbox": {
+    "minLat": 39.17,
+    "minLng": -106.87,
+    "maxLat": 39.22,
+    "maxLng": -106.78
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maroon-bells",
+      "name": "Maroon Bells",
+      "lat": 39.0708,
+      "lng": -106.989,
+      "radiusM": 300,
+      "address": "Maroon Creek Rd, Aspen, CO",
+      "howTo": "Visit the Maroon Bells.",
+      "badge": "badges/maroon-bells.png"
+    },
+    {
+      "id": "aspen-mountain",
+      "name": "Aspen Mountain",
+      "lat": 39.1864,
+      "lng": -106.8183,
+      "radiusM": 250,
+      "address": "Aspen, CO",
+      "howTo": "Visit Aspen Mountain.",
+      "badge": "badges/aspen-mountain.png"
+    },
+    {
+      "id": "john-denver-sanctuary",
+      "name": "John Denver Sanctuary",
+      "lat": 39.1925,
+      "lng": -106.821,
+      "radiusM": 120,
+      "address": "Rio Grande Park, Aspen, CO",
+      "howTo": "Visit the John Denver Sanctuary.",
+      "badge": "badges/john-denver-sanctuary.png"
+    },
+    {
+      "id": "aspen-art-museum",
+      "name": "Aspen Art Museum",
+      "lat": 39.1905,
+      "lng": -106.8195,
+      "radiusM": 120,
+      "address": "637 E Hyman Ave, Aspen, CO",
+      "howTo": "Visit the Aspen Art Museum.",
+      "badge": "badges/aspen-art-museum.png"
+    },
+    {
+      "id": "independence-pass",
+      "name": "Independence Pass",
+      "lat": 39.1086,
+      "lng": -106.5639,
+      "radiusM": 200,
+      "address": "CO-82, CO",
+      "howTo": "Visit Independence Pass.",
+      "badge": "badges/independence-pass.png"
+    }
+  ]
+}

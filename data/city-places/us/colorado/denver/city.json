@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/colorado/denver",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CO",
+  "stateName": "Colorado",
+  "cityName": "Denver",
+  "bbox": {
+    "minLat": 39.65,
+    "minLng": -105.1,
+    "maxLat": 39.85,
+    "maxLng": -104.8
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "colorado-state-capitol",
+      "name": "Colorado State Capitol",
+      "lat": 39.7392,
+      "lng": -104.9849,
+      "radiusM": 150,
+      "address": "200 E Colfax Ave, Denver, CO",
+      "howTo": "Visit the Colorado State Capitol.",
+      "badge": "badges/colorado-state-capitol.png"
+    },
+    {
+      "id": "denver-art-museum",
+      "name": "Denver Art Museum",
+      "lat": 39.7372,
+      "lng": -104.9893,
+      "radiusM": 150,
+      "address": "100 W 14th Ave Pkwy, Denver, CO",
+      "howTo": "Visit the Denver Art Museum.",
+      "badge": "badges/denver-art-museum.png"
+    },
+    {
+      "id": "red-rocks-amphitheatre",
+      "name": "Red Rocks Amphitheatre",
+      "lat": 39.6654,
+      "lng": -105.2057,
+      "radiusM": 300,
+      "address": "18300 W Alameda Pkwy, Morrison, CO",
+      "howTo": "Visit Red Rocks Amphitheatre.",
+      "badge": "badges/red-rocks-amphitheatre.png"
+    },
+    {
+      "id": "union-station",
+      "name": "Union Station",
+      "lat": 39.7527,
+      "lng": -104.9997,
+      "radiusM": 150,
+      "address": "1701 Wynkoop St, Denver, CO",
+      "howTo": "Visit Denver Union Station.",
+      "badge": "badges/union-station.png"
+    },
+    {
+      "id": "denver-botanic-gardens",
+      "name": "Denver Botanic Gardens",
+      "lat": 39.732,
+      "lng": -104.9608,
+      "radiusM": 250,
+      "address": "1007 York St, Denver, CO",
+      "howTo": "Visit the Denver Botanic Gardens.",
+      "badge": "badges/denver-botanic-gardens.png"
+    },
+    {
+      "id": "coors-field",
+      "name": "Coors Field",
+      "lat": 39.7559,
+      "lng": -104.9942,
+      "radiusM": 200,
+      "address": "2001 Blake St, Denver, CO",
+      "howTo": "Visit Coors Field.",
+      "badge": "badges/coors-field.png"
+    },
+    {
+      "id": "empower-field",
+      "name": "Empower Field at Mile High",
+      "lat": 39.7439,
+      "lng": -105.0201,
+      "radiusM": 200,
+      "address": "1701 Bryant St, Denver, CO",
+      "howTo": "Visit Empower Field at Mile High.",
+      "badge": "badges/empower-field.png"
+    },
+    {
+      "id": "civic-center-park",
+      "name": "Civic Center Park",
+      "lat": 39.7394,
+      "lng": -104.9889,
+      "radiusM": 200,
+      "address": "101 W 14th Ave Pkwy, Denver, CO",
+      "howTo": "Visit Civic Center Park.",
+      "badge": "badges/civic-center-park.png"
+    }
+  ]
+}

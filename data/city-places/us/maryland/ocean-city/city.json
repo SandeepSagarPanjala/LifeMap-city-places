@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/maryland/ocean-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "MD",
+  "stateName": "Maryland",
+  "cityName": "Ocean City",
+  "bbox": {
+    "minLat": 38.31,
+    "minLng": -75.11,
+    "maxLat": 38.46,
+    "maxLng": -75.04
+  },
+  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ocean-city-boardwalk",
+      "name": "Ocean City Boardwalk",
+      "lat": 38.32704,
+      "lng": -75.08712,
+      "radiusM": 300,
+      "address": "Boardwalk, Ocean City, MD",
+      "howTo": "Walk the Ocean City Boardwalk.",
+      "badge": "badges/ocean-city-boardwalk.png"
+    },
+    {
+      "id": "ocean-city-inlet",
+      "name": "Ocean City Inlet",
+      "lat": 38.32628,
+      "lng": -75.09631,
+      "radiusM": 200,
+      "address": "Ocean City Inlet, Ocean City, MD",
+      "howTo": "Visit the Ocean City Inlet.",
+      "badge": "badges/ocean-city-inlet.png"
+    },
+    {
+      "id": "northside-park",
+      "name": "Northside Park",
+      "lat": 38.43256,
+      "lng": -75.05939,
+      "radiusM": 300,
+      "address": "200 125th St, Ocean City, MD",
+      "howTo": "Visit Northside Park.",
+      "badge": "badges/northside-park.png"
+    },
+    {
+      "id": "life-saving-station-museum",
+      "name": "Ocean City Life-Saving Station Museum",
+      "lat": 38.32551,
+      "lng": -75.0879,
+      "radiusM": 150,
+      "address": "813 S Atlantic Ave, Ocean City, MD",
+      "howTo": "Visit the Ocean City Life-Saving Station Museum.",
+      "badge": "badges/life-saving-station-museum.png"
+    },
+    {
+      "id": "trimpers-rides",
+      "name": "Trimper's Rides",
+      "lat": 38.32681,
+      "lng": -75.08823,
+      "radiusM": 150,
+      "address": "S Division St & Boardwalk, Ocean City, MD",
+      "howTo": "Visit Trimper's Rides on the boardwalk.",
+      "badge": "badges/trimpers-rides.png"
+    },
+    {
+      "id": "ocean-city-beach",
+      "name": "Ocean City Beach",
+      "lat": 38.44678,
+      "lng": -75.0499,
+      "radiusM": 400,
+      "address": "Ocean City Beach, Ocean City, MD",
+      "howTo": "Visit Ocean City Beach.",
+      "badge": "badges/ocean-city-beach.png"
+    }
+  ]
+}

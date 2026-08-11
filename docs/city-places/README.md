@@ -21,7 +21,7 @@ You should **not** need a long prompt.
 
 That is enough. The agent must follow **START HERE** below. Optional: use Cursor Automations / a daily loop that opens this doc and sends `go`.
 
-**Batching:** first `go` (no completed cities yet) finishes **1** city so you can review. Later `go`s may finish up to **10** cities each.
+**Batching:** first `go` (no completed cities yet) finishes **1** city so you can review. Later `go`s may finish up to **50** cities each.
 
 Do **not** paste research instructions, schemas, or checklists — they live in this doc and its links.
 
@@ -54,10 +54,10 @@ If you are an agent and the user pointed you at this file (or said `go` / `conti
 | Situation | Cities to complete this `go` |
 | --- | --- |
 | **First pack run** — `index.json` has **zero** cities with `status: complete` | Exactly **1** city, then **stop** so a human can review output |
-| Later runs — at least one city already `complete` | Up to **10** pending cities per `go` |
-| Hard cap | Never more than **10** cities in one `go` |
+| Later runs — at least one city already `complete` | Up to **50** pending cities per `go` |
+| Hard cap | Never more than **50** cities in one `go` |
 
-After the first city is reviewed, normal `go`s may process up to 10.
+After the first city is reviewed, normal `go`s may process up to 50.
 
 ### Hard stops
 
@@ -80,7 +80,7 @@ Data lives under `data/city-places/` in **this** repository (see layout below).
 
 1. **0–20 places per city** (cap, not a target). Empty cities are valid: `status: complete` with `places: []`.
 2. **Never invent place-selection criteria.** Follow [place-selection.md](./place-selection.md). If that doc still says TBD, **stop and ask a human** before listing places.
-3. **Batch limit:** first `go` with no completed cities → **1** city; later → up to **10**. Do not touch another city’s pack while it is `in_progress`.
+3. **Batch limit:** first `go` with no completed cities → **1** city; later → up to **50**. Do not touch another city’s pack while it is `in_progress`.
 4. **Stable slugs forever.** Never rename a completed `country` / `state` / `city` / `place` id. Fix typos only via a new place id + deprecate note (do not silently rewrite history).
 5. **Ids are lowercase ASCII:** `[a-z0-9-]+` only. Example city id: `us/california/san-francisco`. Example place id: `golden-gate-bridge`.
 6. **Badge art matches achievements.** Scene → shared gold frame script → 512×512 PNG. See [badge-art.md](./badge-art.md).
@@ -107,7 +107,7 @@ Do **not** dump every census place. Still no place badges in this phase — geog
 
 ### Phase C — Places + badges (daily babysit)
 
-For each **pending** city in the curated list, research and write the pack (0–20 places + badges), then mark `complete`. Per `go`: **1** city on the first pack run (zero completes yet); afterward up to **10** cities.
+For each **pending** city in the curated list, research and write the pack (0–20 places + badges), then mark `complete`. Per `go`: **1** city on the first pack run (zero completes yet); afterward up to **50** cities.
 
 ---
 
@@ -329,7 +329,7 @@ So cost stays ~O(1) per cell change, not O(number of cities). A naive scan of al
 Agents: run this checklist without the human re-pasting it (see **START HERE**).
 
 1. **Read** this README + [place-selection.md](./place-selection.md) + [badge-art.md](./badge-art.md).
-2. **Open** `data/city-places/index.json`. Compute batch size: **1** if zero cities are `complete`, else up to **10**.
+2. **Open** `data/city-places/index.json`. Compute batch size: **1** if zero cities are `complete`, else up to **50**.
 3. If [place-selection.md](./place-selection.md) is still TBD → **stop** and ask a human.
 4. For each city in this batch (in cursor / pending order):
    1. Set city to `in_progress`. Update `updatedAt`.

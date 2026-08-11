@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/hawaii/hilo",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "HI",
+  "stateName": "Hawaii",
+  "cityName": "Hilo",
+  "bbox": {
+    "minLat": 19.62,
+    "minLng": -155.18,
+    "maxLat": 19.87,
+    "maxLng": -154.99
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rainbow-falls",
+      "name": "Rainbow Falls",
+      "lat": 19.71948,
+      "lng": -155.10959,
+      "radiusM": 200,
+      "address": "Rainbow Dr, Hilo, HI",
+      "howTo": "Visit Rainbow Falls.",
+      "badge": "badges/rainbow-falls.png"
+    },
+    {
+      "id": "liliuokalani-gardens",
+      "name": "Liliuokalani Gardens",
+      "lat": 19.72643,
+      "lng": -155.0684,
+      "radiusM": 300,
+      "address": "Banyan Dr, Hilo, HI",
+      "howTo": "Visit Liliuokalani Gardens.",
+      "badge": "badges/liliuokalani-gardens.png"
+    },
+    {
+      "id": "coconut-island",
+      "name": "Coconut Island",
+      "lat": 19.72982,
+      "lng": -155.0686,
+      "radiusM": 150,
+      "address": "Coconut Island, Hilo, HI",
+      "howTo": "Visit Coconut Island (Mokuola).",
+      "badge": "badges/coconut-island.png"
+    },
+    {
+      "id": "pacific-tsunami-museum",
+      "name": "Pacific Tsunami Museum",
+      "lat": 19.72593,
+      "lng": -155.08673,
+      "radiusM": 150,
+      "address": "130 Kamehameha Ave, Hilo, HI",
+      "howTo": "Visit the Pacific Tsunami Museum.",
+      "badge": "badges/pacific-tsunami-museum.png"
+    },
+    {
+      "id": "imiloa-astronomy-center",
+      "name": "Imiloa Astronomy Center",
+      "lat": 19.70082,
+      "lng": -155.08895,
+      "radiusM": 200,
+      "address": "600 Imiloa Pl, Hilo, HI",
+      "howTo": "Visit the Imiloa Astronomy Center.",
+      "badge": "badges/imiloa-astronomy-center.png"
+    },
+    {
+      "id": "richardson-ocean-park",
+      "name": "Richardson Ocean Park",
+      "lat": 19.73559,
+      "lng": -155.01339,
+      "radiusM": 250,
+      "address": "2349 Kalanianaole Ave, Hilo, HI",
+      "howTo": "Visit Richardson Ocean Park.",
+      "badge": "badges/richardson-ocean-park.png"
+    },
+    {
+      "id": "akaka-falls",
+      "name": "Akaka Falls State Park",
+      "lat": 19.85472,
+      "lng": -155.15356,
+      "radiusM": 300,
+      "address": "Akaka Falls Rd, Honomu, HI",
+      "howTo": "Visit Akaka Falls State Park.",
+      "badge": "badges/akaka-falls.png"
+    },
+    {
+      "id": "lyman-museum",
+      "name": "Lyman Museum",
+      "lat": 19.72217,
+      "lng": -155.0907,
+      "radiusM": 150,
+      "address": "276 Haili St, Hilo, HI",
+      "howTo": "Visit the Lyman Museum.",
+      "badge": "badges/lyman-museum.png"
+    }
+  ]
+}

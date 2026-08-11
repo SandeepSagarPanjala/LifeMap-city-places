@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/california/south-lake-tahoe",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CA",
+  "stateName": "California",
+  "cityName": "South Lake Tahoe",
+  "bbox": {
+    "minLat": 38.88,
+    "minLng": -120.1,
+    "maxLat": 39.0,
+    "maxLng": -119.9
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "heavenly-gondola",
+      "name": "Heavenly Mountain Resort Gondola",
+      "lat": 38.9355,
+      "lng": -119.939,
+      "radiusM": 150,
+      "address": "3860 Saddle Rd, South Lake Tahoe, CA",
+      "howTo": "Ride the Heavenly Gondola.",
+      "badge": "badges/heavenly-gondola.png"
+    },
+    {
+      "id": "vikingsholm",
+      "name": "Vikingsholm",
+      "lat": 38.952,
+      "lng": -120.1075,
+      "radiusM": 150,
+      "address": "Emerald Bay Rd, South Lake Tahoe, CA",
+      "howTo": "Visit Vikingsholm at Emerald Bay.",
+      "badge": "badges/vikingsholm.png"
+    },
+    {
+      "id": "emerald-bay-state-park",
+      "name": "Emerald Bay State Park",
+      "lat": 38.9505,
+      "lng": -120.101,
+      "radiusM": 400,
+      "address": "Emerald Bay Rd, CA",
+      "howTo": "Visit Emerald Bay State Park.",
+      "badge": "badges/emerald-bay-state-park.png"
+    },
+    {
+      "id": "tallac-historic-site",
+      "name": "Tallac Historic Site",
+      "lat": 38.9365,
+      "lng": -120.057,
+      "radiusM": 200,
+      "address": "1 Heritage Way, South Lake Tahoe, CA",
+      "howTo": "Visit the Tallac Historic Site.",
+      "badge": "badges/tallac-historic-site.png"
+    },
+    {
+      "id": "pope-beach",
+      "name": "Pope Beach",
+      "lat": 38.94,
+      "lng": -120.043,
+      "radiusM": 300,
+      "address": "Pope Beach, South Lake Tahoe, CA",
+      "howTo": "Visit Pope Beach.",
+      "badge": "badges/pope-beach.png"
+    },
+    {
+      "id": "eagle-falls",
+      "name": "Eagle Falls",
+      "lat": 38.9518,
+      "lng": -120.1135,
+      "radiusM": 150,
+      "address": "Emerald Bay Rd, CA",
+      "howTo": "Visit Eagle Falls near Emerald Bay.",
+      "badge": "badges/eagle-falls.png"
+    }
+  ]
+}

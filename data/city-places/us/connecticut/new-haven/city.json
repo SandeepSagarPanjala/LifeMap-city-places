@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/connecticut/new-haven",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "CT",
+  "stateName": "Connecticut",
+  "cityName": "New Haven",
+  "bbox": {
+    "minLat": 41.27,
+    "minLng": -72.97,
+    "maxLat": 41.35,
+    "maxLng": -72.88
+  },
+  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "yale-university",
+      "name": "Yale University",
+      "lat": 41.3163,
+      "lng": -72.9223,
+      "radiusM": 250,
+      "address": "New Haven, CT",
+      "howTo": "Visit the Yale University campus.",
+      "badge": "badges/yale-university.png"
+    },
+    {
+      "id": "yale-university-art-gallery",
+      "name": "Yale University Art Gallery",
+      "lat": 41.3083,
+      "lng": -72.9309,
+      "radiusM": 120,
+      "address": "1111 Chapel St, New Haven, CT",
+      "howTo": "Visit the Yale University Art Gallery.",
+      "badge": "badges/yale-university-art-gallery.png"
+    },
+    {
+      "id": "east-rock-park",
+      "name": "East Rock Park",
+      "lat": 41.3275,
+      "lng": -72.9045,
+      "radiusM": 300,
+      "address": "East Rock Park, New Haven, CT",
+      "howTo": "Visit East Rock Park.",
+      "badge": "badges/east-rock-park.png"
+    },
+    {
+      "id": "new-haven-green",
+      "name": "New Haven Green",
+      "lat": 41.308,
+      "lng": -72.9265,
+      "radiusM": 200,
+      "address": "New Haven Green, New Haven, CT",
+      "howTo": "Visit the New Haven Green.",
+      "badge": "badges/new-haven-green.png"
+    },
+    {
+      "id": "beinecke-library",
+      "name": "Beinecke Rare Book & Manuscript Library",
+      "lat": 41.3115,
+      "lng": -72.9272,
+      "radiusM": 100,
+      "address": "121 Wall St, New Haven, CT",
+      "howTo": "Visit the Beinecke Library.",
+      "badge": "badges/beinecke-library.png"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "us/iowa/iowa-city",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IA",
+  "stateName": "Iowa",
+  "cityName": "Iowa City",
+  "bbox": {
+    "minLat": 41.63,
+    "minLng": -91.58,
+    "maxLat": 41.7,
+    "maxLng": -91.48
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "old-capitol-museum",
+      "name": "Old Capitol Museum",
+      "lat": 41.6614,
+      "lng": -91.5359,
+      "radiusM": 150,
+      "address": "20 E Market St, Iowa City, IA",
+      "howTo": "Visit the Old Capitol Museum on the Pentacrest.",
+      "badge": "badges/old-capitol-museum.png"
+    },
+    {
+      "id": "stanley-museum-of-art",
+      "name": "Stanley Museum of Art",
+      "lat": 41.6628,
+      "lng": -91.5385,
+      "radiusM": 150,
+      "address": "160 W Burlington St, Iowa City, IA",
+      "howTo": "Visit the University of Iowa Stanley Museum of Art.",
+      "badge": "badges/stanley-museum-of-art.png"
+    },
+    {
+      "id": "museum-of-natural-history",
+      "name": "UI Museum of Natural History",
+      "lat": 41.6619,
+      "lng": -91.5357,
+      "radiusM": 150,
+      "address": "11 N Clinton St, Iowa City, IA",
+      "howTo": "Visit the UI Museum of Natural History.",
+      "badge": "badges/museum-of-natural-history.png"
+    },
+    {
+      "id": "pedestrian-mall",
+      "name": "Pedestrian Mall",
+      "lat": 41.6611,
+      "lng": -91.535,
+      "radiusM": 200,
+      "address": "Downtown Ped Mall, Iowa City, IA",
+      "howTo": "Visit the Iowa City Pedestrian Mall.",
+      "badge": "badges/pedestrian-mall.png"
+    },
+    {
+      "id": "hancher-auditorium",
+      "name": "Hancher Auditorium",
+      "lat": 41.6672,
+      "lng": -91.5555,
+      "radiusM": 150,
+      "address": "2301 S Riverside Dr, Iowa City, IA",
+      "howTo": "Visit Hancher Auditorium.",
+      "badge": "badges/hancher-auditorium.png"
+    },
+    {
+      "id": "city-park",
+      "name": "City Park",
+      "lat": 41.672,
+      "lng": -91.543,
+      "radiusM": 300,
+      "address": "200 Park Rd, Iowa City, IA",
+      "howTo": "Visit City Park along the Iowa River.",
+      "badge": "badges/city-park.png"
+    },
+    {
+      "id": "iowa-childrens-museum",
+      "name": "Iowa Children's Museum",
+      "lat": 41.6785,
+      "lng": -91.5645,
+      "radiusM": 150,
+      "address": "1451 Coral Ridge Ave, Coralville, IA",
+      "howTo": "Visit the Iowa Children's Museum.",
+      "badge": "badges/iowa-childrens-museum.png"
+    }
+  ]
+}

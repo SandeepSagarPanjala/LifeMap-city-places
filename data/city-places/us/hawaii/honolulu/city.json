@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "us/hawaii/honolulu",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "HI",
+  "stateName": "Hawaii",
+  "cityName": "Honolulu",
+  "bbox": {
+    "minLat": 21.25,
+    "minLng": -157.95,
+    "maxLat": 21.4,
+    "maxLng": -157.65
+  },
+  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "waikiki-beach",
+      "name": "Waikiki Beach",
+      "lat": 21.2741,
+      "lng": -157.82431,
+      "radiusM": 400,
+      "address": "Waikiki Beach, Honolulu, HI",
+      "howTo": "Visit Waikiki Beach.",
+      "badge": "badges/waikiki-beach.png"
+    },
+    {
+      "id": "diamond-head",
+      "name": "Diamond Head State Monument",
+      "lat": 21.26249,
+      "lng": -157.80679,
+      "radiusM": 400,
+      "address": "Diamond Head Rd, Honolulu, HI",
+      "howTo": "Visit Diamond Head State Monument.",
+      "badge": "badges/diamond-head.png"
+    },
+    {
+      "id": "uss-arizona-memorial",
+      "name": "USS Arizona Memorial",
+      "lat": 21.36491,
+      "lng": -157.95003,
+      "radiusM": 250,
+      "address": "1 Arizona Memorial Pl, Honolulu, HI",
+      "howTo": "Visit the USS Arizona Memorial at Pearl Harbor.",
+      "badge": "badges/uss-arizona-memorial.png"
+    },
+    {
+      "id": "iolani-palace",
+      "name": "Iolani Palace",
+      "lat": 21.30681,
+      "lng": -157.85877,
+      "radiusM": 150,
+      "address": "364 S King St, Honolulu, HI",
+      "howTo": "Visit Iolani Palace.",
+      "badge": "badges/iolani-palace.png"
+    },
+    {
+      "id": "hanauma-bay",
+      "name": "Hanauma Bay",
+      "lat": 21.26962,
+      "lng": -157.69381,
+      "radiusM": 300,
+      "address": "100 Hanauma Bay Rd, Honolulu, HI",
+      "howTo": "Visit Hanauma Bay Nature Preserve.",
+      "badge": "badges/hanauma-bay.png"
+    },
+    {
+      "id": "bishop-museum",
+      "name": "Bishop Museum",
+      "lat": 21.33308,
+      "lng": -157.87071,
+      "radiusM": 200,
+      "address": "1525 Bernice St, Honolulu, HI",
+      "howTo": "Visit the Bishop Museum.",
+      "badge": "badges/bishop-museum.png"
+    },
+    {
+      "id": "ala-moana-beach-park",
+      "name": "Ala Moana Beach Park",
+      "lat": 21.28738,
+      "lng": -157.84518,
+      "radiusM": 400,
+      "address": "1201 Ala Moana Blvd, Honolulu, HI",
+      "howTo": "Visit Ala Moana Beach Park.",
+      "badge": "badges/ala-moana-beach-park.png"
+    },
+    {
+      "id": "kapiolani-park",
+      "name": "Kapiolani Park",
+      "lat": 21.26535,
+      "lng": -157.81916,
+      "radiusM": 400,
+      "address": "2740 Kalakaua Ave, Honolulu, HI",
+      "howTo": "Visit Kapiolani Regional Park.",
+      "badge": "badges/kapiolani-park.png"
+    },
+    {
+      "id": "punchbowl-crater",
+      "name": "National Memorial Cemetery of the Pacific",
+      "lat": 21.31247,
+      "lng": -157.8461,
+      "radiusM": 250,
+      "address": "2177 Puowaina Dr, Honolulu, HI",
+      "howTo": "Visit the National Memorial Cemetery of the Pacific at Punchbowl.",
+      "badge": "badges/punchbowl-crater.png"
+    },
+    {
+      "id": "honolulu-museum-of-art",
+      "name": "Honolulu Museum of Art",
+      "lat": 21.3039,
+      "lng": -157.8486,
+      "radiusM": 150,
+      "address": "900 S Beretania St, Honolulu, HI",
+      "howTo": "Visit the Honolulu Museum of Art.",
+      "badge": "badges/honolulu-museum-of-art.png"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "us/indiana/bloomington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "IN",
+  "stateName": "Indiana",
+  "cityName": "Bloomington",
+  "bbox": {
+    "minLat": 39.12,
+    "minLng": -86.58,
+    "maxLat": 39.22,
+    "maxLng": -86.47
+  },
+  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sample-gates",
+      "name": "Sample Gates",
+      "lat": 39.1665,
+      "lng": -86.5265,
+      "radiusM": 150,
+      "address": "Indiana Ave & Kirkwood Ave, Bloomington, IN",
+      "howTo": "Visit the Sample Gates at Indiana University.",
+      "badge": "badges/sample-gates.png"
+    },
+    {
+      "id": "eskenazi-museum-of-art",
+      "name": "Eskenazi Museum of Art",
+      "lat": 39.1686,
+      "lng": -86.5178,
+      "radiusM": 150,
+      "address": "1133 E 7th St, Bloomington, IN",
+      "howTo": "Visit the Eskenazi Museum of Art.",
+      "badge": "badges/eskenazi-museum-of-art.png"
+    },
+    {
+      "id": "showalter-fountain",
+      "name": "Showalter Fountain",
+      "lat": 39.1689,
+      "lng": -86.517,
+      "radiusM": 150,
+      "address": "Showalter Fountain, Bloomington, IN",
+      "howTo": "Visit Showalter Fountain.",
+      "badge": "badges/showalter-fountain.png"
+    },
+    {
+      "id": "assembly-hall",
+      "name": "Simon Skjodt Assembly Hall",
+      "lat": 39.1807,
+      "lng": -86.5222,
+      "radiusM": 200,
+      "address": "1001 E 17th St, Bloomington, IN",
+      "howTo": "Visit Simon Skjodt Assembly Hall.",
+      "badge": "badges/assembly-hall.png"
+    },
+    {
+      "id": "wonderlab",
+      "name": "WonderLab",
+      "lat": 39.1668,
+      "lng": -86.5335,
+      "radiusM": 150,
+      "address": "308 W 4th St, Bloomington, IN",
+      "howTo": "Visit WonderLab Museum of Science.",
+      "badge": "badges/wonderlab.png"
+    },
+    {
+      "id": "monroe-county-courthouse",
+      "name": "Monroe County Courthouse",
+      "lat": 39.167,
+      "lng": -86.5342,
+      "radiusM": 150,
+      "address": "100 W Kirkwood Ave, Bloomington, IN",
+      "howTo": "Visit the Monroe County Courthouse square.",
+      "badge": "badges/monroe-county-courthouse.png"
+    },
+    {
+      "id": "cascades-park",
+      "name": "Cascades Park",
+      "lat": 39.1855,
+      "lng": -86.536,
+      "radiusM": 300,
+      "address": "2851 N Old State Road 37, Bloomington, IN",
+      "howTo": "Visit Cascades Park.",
+      "badge": "badges/cascades-park.png"
+    },
+    {
+      "id": "lilly-library",
+      "name": "Lilly Library",
+      "lat": 39.1678,
+      "lng": -86.519,
+      "radiusM": 150,
+      "address": "1200 E 7th St, Bloomington, IN",
+      "howTo": "Visit the Lilly Library.",
+      "badge": "badges/lilly-library.png"
+    }
+  ]
+}
