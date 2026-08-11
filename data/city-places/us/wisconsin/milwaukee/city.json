@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/wisconsin/milwaukee",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WI",
+  "stateName": "Wisconsin",
+  "cityName": "Milwaukee",
+  "bbox": {
+    "minLat": 43.02,
+    "minLng": -87.95,
+    "maxLat": 43.08,
+    "maxLng": -87.86
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "milwaukee-art-museum",
+      "name": "Milwaukee Art Museum",
+      "lat": 43.04,
+      "lng": -87.897,
+      "radiusM": 150,
+      "address": "700 N Art Museum Dr, Milwaukee, WI",
+      "howTo": "Visit the Milwaukee Art Museum.",
+      "badge": "badges/milwaukee-art-museum.png"
+    },
+    {
+      "id": "harley-davidson-museum",
+      "name": "Harley-Davidson Museum",
+      "lat": 43.0325,
+      "lng": -87.9165,
+      "radiusM": 150,
+      "address": "400 W Canal St, Milwaukee, WI",
+      "howTo": "Visit the Harley-Davidson Museum.",
+      "badge": "badges/harley-davidson-museum.png"
+    },
+    {
+      "id": "discovery-world",
+      "name": "Discovery World",
+      "lat": 43.037,
+      "lng": -87.8975,
+      "radiusM": 120,
+      "address": "500 N Harbor Dr, Milwaukee, WI",
+      "howTo": "Visit Discovery World.",
+      "badge": "badges/discovery-world.png"
+    },
+    {
+      "id": "bradford-beach",
+      "name": "Bradford Beach",
+      "lat": 43.0615,
+      "lng": -87.8725,
+      "radiusM": 200,
+      "address": "2400 N Lincoln Memorial Dr, Milwaukee, WI",
+      "howTo": "Visit Bradford Beach.",
+      "badge": "badges/bradford-beach.png"
+    },
+    {
+      "id": "pabst-mansion",
+      "name": "Pabst Mansion",
+      "lat": 43.0495,
+      "lng": -87.9385,
+      "radiusM": 120,
+      "address": "2000 W Wisconsin Ave, Milwaukee, WI",
+      "howTo": "Visit the Pabst Mansion.",
+      "badge": "badges/pabst-mansion.png"
+    },
+    {
+      "id": "historic-third-ward",
+      "name": "Historic Third Ward",
+      "lat": 43.0335,
+      "lng": -87.9075,
+      "radiusM": 200,
+      "address": "Historic Third Ward, Milwaukee, WI",
+      "howTo": "Visit the Historic Third Ward.",
+      "badge": "badges/historic-third-ward.png"
+    }
+  ]
+}

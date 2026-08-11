@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/wyoming/cheyenne",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WY",
+  "stateName": "Wyoming",
+  "cityName": "Cheyenne",
+  "bbox": {
+    "minLat": 41.12,
+    "minLng": -104.85,
+    "maxLat": 41.19,
+    "maxLng": -104.8
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wyoming-state-capitol",
+      "name": "Wyoming State Capitol",
+      "lat": 41.14028,
+      "lng": -104.8202,
+      "radiusM": 150,
+      "address": "200 W 24th St, Cheyenne, WY",
+      "howTo": "Visit the Wyoming State Capitol.",
+      "badge": "badges/wyoming-state-capitol.png"
+    },
+    {
+      "id": "cheyenne-depot",
+      "name": "Cheyenne Depot",
+      "lat": 41.132,
+      "lng": -104.8145,
+      "radiusM": 120,
+      "address": "121 W 15th St, Cheyenne, WY",
+      "howTo": "Visit the Cheyenne Depot.",
+      "badge": "badges/cheyenne-depot.png"
+    },
+    {
+      "id": "cheyenne-botanic-gardens",
+      "name": "Cheyenne Botanic Gardens",
+      "lat": 41.1775,
+      "lng": -104.8285,
+      "radiusM": 200,
+      "address": "710 S Lions Park Dr, Cheyenne, WY",
+      "howTo": "Visit Cheyenne Botanic Gardens.",
+      "badge": "badges/cheyenne-botanic-gardens.png"
+    },
+    {
+      "id": "wyoming-state-museum",
+      "name": "Wyoming State Museum",
+      "lat": 41.1395,
+      "lng": -104.8185,
+      "radiusM": 120,
+      "address": "2301 Central Ave, Cheyenne, WY",
+      "howTo": "Visit the Wyoming State Museum.",
+      "badge": "badges/wyoming-state-museum.png"
+    }
+  ]
+}

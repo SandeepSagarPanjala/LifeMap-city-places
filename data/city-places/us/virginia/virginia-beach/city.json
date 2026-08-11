@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/virginia/virginia-beach",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VA",
+  "stateName": "Virginia",
+  "cityName": "Virginia Beach",
+  "bbox": {
+    "minLat": 36.78,
+    "minLng": -76.05,
+    "maxLat": 36.95,
+    "maxLng": -75.96
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "virginia-beach-boardwalk",
+      "name": "Virginia Beach Boardwalk",
+      "lat": 36.8516,
+      "lng": -75.9758,
+      "radiusM": 250,
+      "address": "Atlantic Ave, Virginia Beach, VA",
+      "howTo": "Walk the Virginia Beach Boardwalk.",
+      "badge": "badges/virginia-beach-boardwalk.png"
+    },
+    {
+      "id": "first-landing-state-park",
+      "name": "First Landing State Park",
+      "lat": 36.9165,
+      "lng": -76.0185,
+      "radiusM": 300,
+      "address": "2500 Shore Dr, Virginia Beach, VA",
+      "howTo": "Visit First Landing State Park.",
+      "badge": "badges/first-landing-state-park.png"
+    },
+    {
+      "id": "cape-henry-lighthouse",
+      "name": "Cape Henry Lighthouse",
+      "lat": 36.9259,
+      "lng": -76.0083,
+      "radiusM": 120,
+      "address": "583 Atlantic Ave, Fort Story, VA",
+      "howTo": "Visit Cape Henry Lighthouse.",
+      "badge": "badges/cape-henry-lighthouse.png"
+    },
+    {
+      "id": "virginia-aquarium",
+      "name": "Virginia Aquarium & Marine Science Center",
+      "lat": 36.8205,
+      "lng": -75.9955,
+      "radiusM": 150,
+      "address": "717 General Booth Blvd, Virginia Beach, VA",
+      "howTo": "Visit the Virginia Aquarium.",
+      "badge": "badges/virginia-aquarium.png"
+    },
+    {
+      "id": "king-neptune",
+      "name": "King Neptune Statue",
+      "lat": 36.851,
+      "lng": -75.9765,
+      "radiusM": 100,
+      "address": "3107 Atlantic Ave, Virginia Beach, VA",
+      "howTo": "See the King Neptune statue.",
+      "badge": "badges/king-neptune.png"
+    }
+  ]
+}

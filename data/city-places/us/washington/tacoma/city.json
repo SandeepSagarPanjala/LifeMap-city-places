@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "us/washington/tacoma",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WA",
+  "stateName": "Washington",
+  "cityName": "Tacoma",
+  "bbox": {
+    "minLat": 47.22,
+    "minLng": -122.54,
+    "maxLat": 47.32,
+    "maxLng": -122.42
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "museum-of-glass",
+      "name": "Museum of Glass",
+      "lat": 47.2455,
+      "lng": -122.4335,
+      "radiusM": 120,
+      "address": "1801 Dock St, Tacoma, WA",
+      "howTo": "Visit the Museum of Glass.",
+      "badge": "badges/museum-of-glass.png"
+    },
+    {
+      "id": "point-defiance-park",
+      "name": "Point Defiance Park",
+      "lat": 47.3055,
+      "lng": -122.5315,
+      "radiusM": 300,
+      "address": "5400 N Pearl St, Tacoma, WA",
+      "howTo": "Visit Point Defiance Park.",
+      "badge": "badges/point-defiance-park.png"
+    },
+    {
+      "id": "chihuly-bridge-of-glass",
+      "name": "Chihuly Bridge of Glass",
+      "lat": 47.2458,
+      "lng": -122.4365,
+      "radiusM": 100,
+      "address": "Chihuly Bridge of Glass, Tacoma, WA",
+      "howTo": "Walk the Chihuly Bridge of Glass.",
+      "badge": "badges/chihuly-bridge-of-glass.png"
+    },
+    {
+      "id": "union-station-tacoma",
+      "name": "Union Station",
+      "lat": 47.245,
+      "lng": -122.4375,
+      "radiusM": 120,
+      "address": "1717 Pacific Ave, Tacoma, WA",
+      "howTo": "Visit Union Station.",
+      "badge": "badges/union-station-tacoma.png"
+    },
+    {
+      "id": "wright-park",
+      "name": "Wright Park",
+      "lat": 47.2565,
+      "lng": -122.4485,
+      "radiusM": 200,
+      "address": "501 S I St, Tacoma, WA",
+      "howTo": "Visit Wright Park.",
+      "badge": "badges/wright-park.png"
+    }
+  ]
+}

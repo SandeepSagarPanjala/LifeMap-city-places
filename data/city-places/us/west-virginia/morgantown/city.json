@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/west-virginia/morgantown",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WV",
+  "stateName": "West Virginia",
+  "cityName": "Morgantown",
+  "bbox": {
+    "minLat": 39.62,
+    "minLng": -79.99,
+    "maxLat": 39.66,
+    "maxLng": -79.94
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "west-virginia-university",
+      "name": "West Virginia University",
+      "lat": 39.6355,
+      "lng": -79.9545,
+      "radiusM": 250,
+      "address": "Morgantown, WV",
+      "howTo": "Visit the West Virginia University campus.",
+      "badge": "badges/west-virginia-university.png"
+    },
+    {
+      "id": "caperton-trail",
+      "name": "Caperton Trail",
+      "lat": 39.6305,
+      "lng": -79.9585,
+      "radiusM": 250,
+      "address": "Caperton Trail, Morgantown, WV",
+      "howTo": "Walk the Caperton Trail.",
+      "badge": "badges/caperton-trail.png"
+    },
+    {
+      "id": "core-arboretum",
+      "name": "Core Arboretum",
+      "lat": 39.6445,
+      "lng": -79.9815,
+      "radiusM": 200,
+      "address": "2000 Coopers Rock Rd, Morgantown, WV",
+      "howTo": "Visit Core Arboretum.",
+      "badge": "badges/core-arboretum.png"
+    },
+    {
+      "id": "downtown-morgantown",
+      "name": "Downtown Morgantown",
+      "lat": 39.6295,
+      "lng": -79.9565,
+      "radiusM": 150,
+      "address": "Walnut St, Morgantown, WV",
+      "howTo": "Explore downtown Morgantown.",
+      "badge": "badges/downtown-morgantown.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/wyoming/cody",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WY",
+  "stateName": "Wyoming",
+  "cityName": "Cody",
+  "bbox": {
+    "minLat": 44.5,
+    "minLng": -109.2,
+    "maxLat": 44.54,
+    "maxLng": -109.04
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "buffalo-bill-center",
+      "name": "Buffalo Bill Center of the West",
+      "lat": 44.5245,
+      "lng": -109.0725,
+      "radiusM": 200,
+      "address": "720 Sheridan Ave, Cody, WY",
+      "howTo": "Visit the Buffalo Bill Center of the West.",
+      "badge": "badges/buffalo-bill-center.png"
+    },
+    {
+      "id": "old-trail-town",
+      "name": "Old Trail Town",
+      "lat": 44.5165,
+      "lng": -109.1085,
+      "radiusM": 150,
+      "address": "1831 Demaris Dr, Cody, WY",
+      "howTo": "Visit Old Trail Town.",
+      "badge": "badges/old-trail-town.png"
+    },
+    {
+      "id": "buffalo-bill-dam",
+      "name": "Buffalo Bill Dam",
+      "lat": 44.5015,
+      "lng": -109.1815,
+      "radiusM": 150,
+      "address": "4808 North Fork Hwy, Cody, WY",
+      "howTo": "Visit Buffalo Bill Dam.",
+      "badge": "badges/buffalo-bill-dam.png"
+    },
+    {
+      "id": "downtown-cody",
+      "name": "Downtown Cody",
+      "lat": 44.5263,
+      "lng": -109.0565,
+      "radiusM": 150,
+      "address": "Sheridan Ave, Cody, WY",
+      "howTo": "Explore downtown Cody.",
+      "badge": "badges/downtown-cody.png"
+    }
+  ]
+}

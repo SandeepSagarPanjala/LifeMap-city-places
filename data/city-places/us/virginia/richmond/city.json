@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "us/virginia/richmond",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VA",
+  "stateName": "Virginia",
+  "cityName": "Richmond",
+  "bbox": {
+    "minLat": 37.5,
+    "minLng": -77.52,
+    "maxLat": 37.6,
+    "maxLng": -77.4
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "virginia-state-capitol",
+      "name": "Virginia State Capitol",
+      "lat": 37.53883,
+      "lng": -77.4336,
+      "radiusM": 150,
+      "address": "1000 Bank St, Richmond, VA",
+      "howTo": "Visit the Virginia State Capitol.",
+      "badge": "badges/virginia-state-capitol.png"
+    },
+    {
+      "id": "virginia-museum-of-fine-arts",
+      "name": "Virginia Museum of Fine Arts",
+      "lat": 37.55755,
+      "lng": -77.4742,
+      "radiusM": 150,
+      "address": "200 N Arthur Ashe Blvd, Richmond, VA",
+      "howTo": "Visit the Virginia Museum of Fine Arts.",
+      "badge": "badges/virginia-museum-of-fine-arts.png"
+    },
+    {
+      "id": "maymont",
+      "name": "Maymont",
+      "lat": 37.535,
+      "lng": -77.478,
+      "radiusM": 250,
+      "address": "2201 Shields Lake Dr, Richmond, VA",
+      "howTo": "Visit Maymont.",
+      "badge": "badges/maymont.png"
+    },
+    {
+      "id": "hollywood-cemetery",
+      "name": "Hollywood Cemetery",
+      "lat": 37.5355,
+      "lng": -77.455,
+      "radiusM": 250,
+      "address": "412 S Cherry St, Richmond, VA",
+      "howTo": "Visit Hollywood Cemetery.",
+      "badge": "badges/hollywood-cemetery.png"
+    },
+    {
+      "id": "monument-avenue",
+      "name": "Monument Avenue",
+      "lat": 37.5575,
+      "lng": -77.4615,
+      "radiusM": 200,
+      "address": "Monument Ave, Richmond, VA",
+      "howTo": "Walk Monument Avenue.",
+      "badge": "badges/monument-avenue.png"
+    },
+    {
+      "id": "tredegar-iron-works",
+      "name": "Tredegar Iron Works",
+      "lat": 37.5355,
+      "lng": -77.4455,
+      "radiusM": 150,
+      "address": "500 Tredegar St, Richmond, VA",
+      "howTo": "Visit Tredegar Iron Works.",
+      "badge": "badges/tredegar-iron-works.png"
+    }
+  ]
+}

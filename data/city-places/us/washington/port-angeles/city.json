@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/washington/port-angeles",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WA",
+  "stateName": "Washington",
+  "cityName": "Port Angeles",
+  "bbox": {
+    "minLat": 47.94,
+    "minLng": -123.52,
+    "maxLat": 48.15,
+    "maxLng": -123.38
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hurricane-ridge",
+      "name": "Hurricane Ridge",
+      "lat": 47.9485,
+      "lng": -123.4985,
+      "radiusM": 300,
+      "address": "Hurricane Ridge Rd, Port Angeles, WA",
+      "howTo": "Visit Hurricane Ridge in Olympic National Park.",
+      "badge": "badges/hurricane-ridge.png"
+    },
+    {
+      "id": "city-pier",
+      "name": "City Pier",
+      "lat": 48.1215,
+      "lng": -123.4325,
+      "radiusM": 150,
+      "address": "City Pier, Port Angeles, WA",
+      "howTo": "Visit City Pier.",
+      "badge": "badges/city-pier.png"
+    },
+    {
+      "id": "olympic-np-visitor-center",
+      "name": "Olympic National Park Visitor Center",
+      "lat": 48.0995,
+      "lng": -123.4045,
+      "radiusM": 150,
+      "address": "3002 Mount Angeles Rd, Port Angeles, WA",
+      "howTo": "Visit the Olympic National Park Visitor Center.",
+      "badge": "badges/olympic-np-visitor-center.png"
+    },
+    {
+      "id": "ediz-hook",
+      "name": "Ediz Hook",
+      "lat": 48.1385,
+      "lng": -123.4305,
+      "radiusM": 250,
+      "address": "Ediz Hook, Port Angeles, WA",
+      "howTo": "Visit Ediz Hook.",
+      "badge": "badges/ediz-hook.png"
+    }
+  ]
+}

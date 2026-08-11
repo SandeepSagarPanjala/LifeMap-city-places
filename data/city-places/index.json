@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "cursor": "us/virginia/richmond",
-  "updatedAt": "2026-08-11T14:53:41.000Z",
-  "notes": "USA curated popular cities only \u2014 not every municipality. Expand other countries after US Phase C progresses. Complete cities must include bbox on the index row (Option A).",
+  "cursor": null,
+  "updatedAt": "2026-08-11T22:17:09.000Z",
+  "notes": "USA curated popular cities complete. Expand other countries next. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -2558,42 +2558,72 @@
             {
               "id": "richmond",
               "name": "Richmond",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/virginia/richmond/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 37.5,
+                "minLng": -77.52,
+                "maxLat": 37.6,
+                "maxLng": -77.4
+              }
             },
             {
               "id": "virginia-beach",
               "name": "Virginia Beach",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/virginia/virginia-beach/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 36.78,
+                "minLng": -76.05,
+                "maxLat": 36.95,
+                "maxLng": -75.96
+              }
             },
             {
               "id": "charlottesville",
               "name": "Charlottesville",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/virginia/charlottesville/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 38.0,
+                "minLng": -78.52,
+                "maxLat": 38.05,
+                "maxLng": -78.44
+              }
             },
             {
               "id": "alexandria",
               "name": "Alexandria",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/virginia/alexandria/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 38.79,
+                "minLng": -77.08,
+                "maxLat": 38.82,
+                "maxLng": -77.03
+              }
             },
             {
               "id": "williamsburg",
               "name": "Williamsburg",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/virginia/williamsburg/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 37.26,
+                "minLng": -76.72,
+                "maxLat": 37.29,
+                "maxLng": -76.69
+              }
             }
           ]
         },
@@ -2605,42 +2635,72 @@
             {
               "id": "seattle",
               "name": "Seattle",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/washington/seattle/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 8,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 47.58,
+                "minLng": -122.38,
+                "maxLat": 47.66,
+                "maxLng": -122.3
+              }
             },
             {
               "id": "spokane",
               "name": "Spokane",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/washington/spokane/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 47.63,
+                "minLng": -117.45,
+                "maxLat": 47.68,
+                "maxLng": -117.38
+              }
             },
             {
               "id": "tacoma",
               "name": "Tacoma",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/washington/tacoma/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 47.22,
+                "minLng": -122.54,
+                "maxLat": 47.32,
+                "maxLng": -122.42
+              }
             },
             {
               "id": "bellingham",
               "name": "Bellingham",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/washington/bellingham/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 48.71,
+                "minLng": -122.52,
+                "maxLat": 48.77,
+                "maxLng": -122.43
+              }
             },
             {
               "id": "port-angeles",
               "name": "Port Angeles",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/washington/port-angeles/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 47.94,
+                "minLng": -123.52,
+                "maxLat": 48.15,
+                "maxLng": -123.38
+              }
             }
           ]
         },
@@ -2652,18 +2712,30 @@
             {
               "id": "charleston",
               "name": "Charleston",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/west-virginia/charleston/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 38.33,
+                "minLng": -81.66,
+                "maxLat": 38.37,
+                "maxLng": -81.6
+              }
             },
             {
               "id": "morgantown",
               "name": "Morgantown",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/west-virginia/morgantown/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 39.62,
+                "minLng": -79.99,
+                "maxLat": 39.66,
+                "maxLng": -79.94
+              }
             }
           ]
         },
@@ -2675,26 +2747,44 @@
             {
               "id": "milwaukee",
               "name": "Milwaukee",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wisconsin/milwaukee/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 43.02,
+                "minLng": -87.95,
+                "maxLat": 43.08,
+                "maxLng": -87.86
+              }
             },
             {
               "id": "madison",
               "name": "Madison",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wisconsin/madison/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 43.06,
+                "minLng": -89.42,
+                "maxLat": 43.1,
+                "maxLng": -89.32
+              }
             },
             {
               "id": "sturgeon-bay",
               "name": "Sturgeon Bay",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wisconsin/sturgeon-bay/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 44.79,
+                "minLng": -87.42,
+                "maxLat": 44.88,
+                "maxLng": -87.3
+              }
             }
           ]
         },
@@ -2706,26 +2796,44 @@
             {
               "id": "jackson",
               "name": "Jackson",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wyoming/jackson/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 43.46,
+                "minLng": -110.78,
+                "maxLat": 43.51,
+                "maxLng": -110.73
+              }
             },
             {
               "id": "cheyenne",
               "name": "Cheyenne",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wyoming/cheyenne/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 41.12,
+                "minLng": -104.85,
+                "maxLat": 41.19,
+                "maxLng": -104.8
+              }
             },
             {
               "id": "cody",
               "name": "Cody",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/wyoming/cody/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 44.5,
+                "minLng": -109.2,
+                "maxLat": 44.54,
+                "maxLng": -109.04
+              }
             }
           ]
         },
@@ -2737,10 +2845,16 @@
             {
               "id": "washington",
               "name": "Washington",
-              "status": "pending",
+              "status": "complete",
               "packPath": "us/district-of-columbia/washington/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 13,
+              "completedAt": "2026-08-11T22:17:09.000Z",
+              "bbox": {
+                "minLat": 38.82,
+                "minLng": -77.12,
+                "maxLat": 38.99,
+                "maxLng": -76.91
+              }
             }
           ]
         }

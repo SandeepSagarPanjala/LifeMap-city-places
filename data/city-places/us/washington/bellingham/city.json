@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/washington/bellingham",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "WA",
+  "stateName": "Washington",
+  "cityName": "Bellingham",
+  "bbox": {
+    "minLat": 48.71,
+    "minLng": -122.52,
+    "maxLat": 48.77,
+    "maxLng": -122.43
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "whatcom-falls-park",
+      "name": "Whatcom Falls Park",
+      "lat": 48.7525,
+      "lng": -122.4375,
+      "radiusM": 250,
+      "address": "1401 Electric Ave, Bellingham, WA",
+      "howTo": "Visit Whatcom Falls Park.",
+      "badge": "badges/whatcom-falls-park.png"
+    },
+    {
+      "id": "fairhaven",
+      "name": "Fairhaven",
+      "lat": 48.7205,
+      "lng": -122.5055,
+      "radiusM": 200,
+      "address": "Fairhaven, Bellingham, WA",
+      "howTo": "Visit Fairhaven.",
+      "badge": "badges/fairhaven.png"
+    },
+    {
+      "id": "boulevard-park",
+      "name": "Boulevard Park",
+      "lat": 48.7285,
+      "lng": -122.5035,
+      "radiusM": 200,
+      "address": "470 Bayview Dr, Bellingham, WA",
+      "howTo": "Visit Boulevard Park.",
+      "badge": "badges/boulevard-park.png"
+    },
+    {
+      "id": "western-washington-university",
+      "name": "Western Washington University",
+      "lat": 48.7335,
+      "lng": -122.4865,
+      "radiusM": 250,
+      "address": "516 High St, Bellingham, WA",
+      "howTo": "Visit Western Washington University.",
+      "badge": "badges/western-washington-university.png"
+    }
+  ]
+}

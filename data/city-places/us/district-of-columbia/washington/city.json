@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "us/district-of-columbia/washington",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "DC",
+  "stateName": "District of Columbia",
+  "cityName": "Washington",
+  "bbox": {
+    "minLat": 38.82,
+    "minLng": -77.12,
+    "maxLat": 38.99,
+    "maxLng": -76.91
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "us-capitol",
+      "name": "United States Capitol",
+      "lat": 38.8899,
+      "lng": -77.0091,
+      "radiusM": 200,
+      "address": "First St SE, Washington, DC",
+      "howTo": "Visit the United States Capitol.",
+      "badge": "badges/us-capitol.png"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "radiusM": 150,
+      "address": "1600 Pennsylvania Ave NW, Washington, DC",
+      "howTo": "See the White House from Lafayette Square.",
+      "badge": "badges/white-house.png"
+    },
+    {
+      "id": "lincoln-memorial",
+      "name": "Lincoln Memorial",
+      "lat": 38.8893,
+      "lng": -77.0502,
+      "radiusM": 150,
+      "address": "2 Lincoln Memorial Cir NW, Washington, DC",
+      "howTo": "Visit the Lincoln Memorial.",
+      "badge": "badges/lincoln-memorial.png"
+    },
+    {
+      "id": "washington-monument",
+      "name": "Washington Monument",
+      "lat": 38.88948,
+      "lng": -77.03528,
+      "radiusM": 150,
+      "address": "2 15th St NW, Washington, DC",
+      "howTo": "Visit the Washington Monument.",
+      "badge": "badges/washington-monument.png"
+    },
+    {
+      "id": "national-mall",
+      "name": "National Mall",
+      "lat": 38.8895,
+      "lng": -77.023,
+      "radiusM": 300,
+      "address": "National Mall, Washington, DC",
+      "howTo": "Walk the National Mall.",
+      "badge": "badges/national-mall.png"
+    },
+    {
+      "id": "air-and-space-museum",
+      "name": "National Air and Space Museum",
+      "lat": 38.88816,
+      "lng": -77.01987,
+      "radiusM": 150,
+      "address": "600 Independence Ave SW, Washington, DC",
+      "howTo": "Visit the National Air and Space Museum.",
+      "badge": "badges/air-and-space-museum.png"
+    },
+    {
+      "id": "natural-history-museum",
+      "name": "National Museum of Natural History",
+      "lat": 38.89127,
+      "lng": -77.0261,
+      "radiusM": 150,
+      "address": "10th St & Constitution Ave NW, Washington, DC",
+      "howTo": "Visit the National Museum of Natural History.",
+      "badge": "badges/natural-history-museum.png"
+    },
+    {
+      "id": "jefferson-memorial",
+      "name": "Jefferson Memorial",
+      "lat": 38.8814,
+      "lng": -77.03647,
+      "radiusM": 150,
+      "address": "16 E Basin Dr SW, Washington, DC",
+      "howTo": "Visit the Jefferson Memorial.",
+      "badge": "badges/jefferson-memorial.png"
+    },
+    {
+      "id": "mlk-memorial",
+      "name": "Martin Luther King Jr. Memorial",
+      "lat": 38.88622,
+      "lng": -77.04423,
+      "radiusM": 120,
+      "address": "1850 West Basin Dr SW, Washington, DC",
+      "howTo": "Visit the Martin Luther King Jr. Memorial.",
+      "badge": "badges/mlk-memorial.png"
+    },
+    {
+      "id": "national-gallery-of-art",
+      "name": "National Gallery of Art",
+      "lat": 38.8913,
+      "lng": -77.01997,
+      "radiusM": 150,
+      "address": "6th & Constitution Ave NW, Washington, DC",
+      "howTo": "Visit the National Gallery of Art.",
+      "badge": "badges/national-gallery-of-art.png"
+    },
+    {
+      "id": "national-zoo",
+      "name": "Smithsonian National Zoo",
+      "lat": 38.92961,
+      "lng": -77.0498,
+      "radiusM": 250,
+      "address": "3001 Connecticut Ave NW, Washington, DC",
+      "howTo": "Visit the National Zoo.",
+      "badge": "badges/national-zoo.png"
+    },
+    {
+      "id": "library-of-congress",
+      "name": "Library of Congress",
+      "lat": 38.88868,
+      "lng": -77.00469,
+      "radiusM": 150,
+      "address": "10 First St SE, Washington, DC",
+      "howTo": "Visit the Library of Congress.",
+      "badge": "badges/library-of-congress.png"
+    },
+    {
+      "id": "vietnam-veterans-memorial",
+      "name": "Vietnam Veterans Memorial",
+      "lat": 38.89101,
+      "lng": -77.04768,
+      "radiusM": 100,
+      "address": "5 Henry Bacon Dr NW, Washington, DC",
+      "howTo": "Visit the Vietnam Veterans Memorial.",
+      "badge": "badges/vietnam-veterans-memorial.png"
+    }
+  ]
+}

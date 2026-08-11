@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/virginia/charlottesville",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VA",
+  "stateName": "Virginia",
+  "cityName": "Charlottesville",
+  "bbox": {
+    "minLat": 38.0,
+    "minLng": -78.52,
+    "maxLat": 38.05,
+    "maxLng": -78.44
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uva-rotunda",
+      "name": "University of Virginia Rotunda",
+      "lat": 38.03563,
+      "lng": -78.5034,
+      "radiusM": 150,
+      "address": "1826 University Ave, Charlottesville, VA",
+      "howTo": "Visit the UVA Rotunda.",
+      "badge": "badges/uva-rotunda.png"
+    },
+    {
+      "id": "monticello",
+      "name": "Monticello",
+      "lat": 38.01095,
+      "lng": -78.45256,
+      "radiusM": 200,
+      "address": "931 Thomas Jefferson Pkwy, Charlottesville, VA",
+      "howTo": "Visit Monticello.",
+      "badge": "badges/monticello.png"
+    },
+    {
+      "id": "downtown-mall",
+      "name": "Downtown Mall",
+      "lat": 38.0306,
+      "lng": -78.4795,
+      "radiusM": 200,
+      "address": "E Main St, Charlottesville, VA",
+      "howTo": "Walk the Downtown Mall.",
+      "badge": "badges/downtown-mall.png"
+    },
+    {
+      "id": "court-square",
+      "name": "Court Square",
+      "lat": 38.0315,
+      "lng": -78.477,
+      "radiusM": 120,
+      "address": "Court Square, Charlottesville, VA",
+      "howTo": "Visit Court Square.",
+      "badge": "badges/court-square.png"
+    }
+  ]
+}

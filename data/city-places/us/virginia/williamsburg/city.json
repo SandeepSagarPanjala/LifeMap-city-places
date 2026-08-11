@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "us/virginia/williamsburg",
+  "countryCode": "US",
+  "countryName": "United States",
+  "stateCode": "VA",
+  "stateName": "Virginia",
+  "cityName": "Williamsburg",
+  "bbox": {
+    "minLat": 37.26,
+    "minLng": -76.72,
+    "maxLat": 37.29,
+    "maxLng": -76.69
+  },
+  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "colonial-williamsburg",
+      "name": "Colonial Williamsburg",
+      "lat": 37.271,
+      "lng": -76.7,
+      "radiusM": 300,
+      "address": "101 Visitor Center Dr, Williamsburg, VA",
+      "howTo": "Visit Colonial Williamsburg.",
+      "badge": "badges/colonial-williamsburg.png"
+    },
+    {
+      "id": "governors-palace",
+      "name": "Governor's Palace",
+      "lat": 37.2745,
+      "lng": -76.7025,
+      "radiusM": 150,
+      "address": "Governor's Palace, Williamsburg, VA",
+      "howTo": "Visit the Governor's Palace.",
+      "badge": "badges/governors-palace.png"
+    },
+    {
+      "id": "wren-building",
+      "name": "Wren Building",
+      "lat": 37.2708,
+      "lng": -76.7115,
+      "radiusM": 120,
+      "address": "College of William & Mary, Williamsburg, VA",
+      "howTo": "Visit the Wren Building.",
+      "badge": "badges/wren-building.png"
+    },
+    {
+      "id": "merchants-square",
+      "name": "Merchants Square",
+      "lat": 37.2705,
+      "lng": -76.7065,
+      "radiusM": 150,
+      "address": "Merchants Square, Williamsburg, VA",
+      "howTo": "Visit Merchants Square.",
+      "badge": "badges/merchants-square.png"
+    }
+  ]
+}
