@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/rameswaram",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Rameswaram",
+  "bbox": {
+    "minLat": 9.27,
+    "minLng": 79.29,
+    "maxLat": 9.3,
+    "maxLng": 79.33
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ramanathaswamy-temple",
+      "name": "Ramanathaswamy Temple",
+      "lat": 9.2881,
+      "lng": 79.3174,
+      "radiusM": 200,
+      "address": "Ramanathaswamy Temple, Rameswaram, TN",
+      "howTo": "Visit Ramanathaswamy Temple.",
+      "badge": "badges/ramanathaswamy-temple.png"
+    },
+    {
+      "id": "dhanushkodi",
+      "name": "Dhanushkodi",
+      "lat": 9.2165,
+      "lng": 79.3585,
+      "radiusM": 300,
+      "address": "Dhanushkodi, Rameswaram, TN",
+      "howTo": "Visit Dhanushkodi.",
+      "badge": "badges/dhanushkodi.png"
+    },
+    {
+      "id": "pamban-bridge",
+      "name": "Pamban Bridge",
+      "lat": 9.282,
+      "lng": 79.2085,
+      "radiusM": 200,
+      "address": "Pamban Bridge, Rameswaram, TN",
+      "howTo": "Visit Pamban Bridge.",
+      "badge": "badges/pamban-bridge.png"
+    },
+    {
+      "id": "agni-theertham",
+      "name": "Agni Theertham",
+      "lat": 9.287,
+      "lng": 79.3215,
+      "radiusM": 100,
+      "address": "Agni Theertham, Rameswaram, TN",
+      "howTo": "Visit Agni Theertham.",
+      "badge": "badges/agni-theertham.png"
+    }
+  ]
+}

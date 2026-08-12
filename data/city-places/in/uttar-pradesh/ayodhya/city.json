@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/ayodhya",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Ayodhya",
+  "bbox": {
+    "minLat": 26.78,
+    "minLng": 82.18,
+    "maxLat": 26.81,
+    "maxLng": 82.22
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ram-mandir-ayodhya",
+      "name": "Ram Mandir",
+      "lat": 26.7956,
+      "lng": 82.194,
+      "radiusM": 200,
+      "address": "Ram Mandir, Ayodhya, UP",
+      "howTo": "Visit Ram Mandir.",
+      "badge": "badges/ram-mandir-ayodhya.png"
+    },
+    {
+      "id": "hanuman-garhi",
+      "name": "Hanuman Garhi",
+      "lat": 26.7965,
+      "lng": 82.2005,
+      "radiusM": 120,
+      "address": "Hanuman Garhi, Ayodhya, UP",
+      "howTo": "Visit Hanuman Garhi.",
+      "badge": "badges/hanuman-garhi.png"
+    },
+    {
+      "id": "kanak-bhawan",
+      "name": "Kanak Bhawan",
+      "lat": 26.795,
+      "lng": 82.2015,
+      "radiusM": 100,
+      "address": "Kanak Bhawan, Ayodhya, UP",
+      "howTo": "Visit Kanak Bhawan.",
+      "badge": "badges/kanak-bhawan.png"
+    },
+    {
+      "id": "saryu-ghat",
+      "name": "Saryu Ghat",
+      "lat": 26.7925,
+      "lng": 82.2055,
+      "radiusM": 150,
+      "address": "Saryu River Ghat, Ayodhya, UP",
+      "howTo": "Visit Saryu Ghat.",
+      "badge": "badges/saryu-ghat.png"
+    }
+  ]
+}

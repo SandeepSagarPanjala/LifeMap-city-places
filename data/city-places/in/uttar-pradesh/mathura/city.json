@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/mathura",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Mathura",
+  "bbox": {
+    "minLat": 27.48,
+    "minLng": 77.66,
+    "maxLat": 27.52,
+    "maxLng": 77.7
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "krishna-janmabhoomi",
+      "name": "Krishna Janmabhoomi",
+      "lat": 27.5045,
+      "lng": 77.6705,
+      "radiusM": 150,
+      "address": "Krishna Janmabhoomi, Mathura, UP",
+      "howTo": "Visit Krishna Janmabhoomi.",
+      "badge": "badges/krishna-janmabhoomi.png"
+    },
+    {
+      "id": "dwarkadhish-temple-mathura",
+      "name": "Dwarkadhish Temple",
+      "lat": 27.5035,
+      "lng": 77.6785,
+      "radiusM": 100,
+      "address": "Dwarkadhish Temple, Mathura, UP",
+      "howTo": "Visit Dwarkadhish Temple.",
+      "badge": "badges/dwarkadhish-temple-mathura.png"
+    },
+    {
+      "id": "vishram-ghat",
+      "name": "Vishram Ghat",
+      "lat": 27.504,
+      "lng": 77.6805,
+      "radiusM": 120,
+      "address": "Vishram Ghat, Mathura, UP",
+      "howTo": "Visit Vishram Ghat.",
+      "badge": "badges/vishram-ghat.png"
+    },
+    {
+      "id": "govardhan-hill",
+      "name": "Govardhan Hill",
+      "lat": 27.4965,
+      "lng": 77.4625,
+      "radiusM": 250,
+      "address": "Govardhan, Mathura district, UP",
+      "howTo": "Visit Govardhan Hill.",
+      "badge": "badges/govardhan-hill.png"
+    }
+  ]
+}

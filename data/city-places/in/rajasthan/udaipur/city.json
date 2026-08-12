@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/rajasthan/udaipur",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "RJ",
+  "stateName": "Rajasthan",
+  "cityName": "Udaipur",
+  "bbox": {
+    "minLat": 24.55,
+    "minLng": 73.66,
+    "maxLat": 24.62,
+    "maxLng": 73.72
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "city-palace-udaipur",
+      "name": "City Palace Udaipur",
+      "lat": 24.5764,
+      "lng": 73.6835,
+      "radiusM": 200,
+      "address": "City Palace Complex, Udaipur, RJ",
+      "howTo": "Visit City Palace Udaipur.",
+      "badge": "badges/city-palace-udaipur.png"
+    },
+    {
+      "id": "lake-pichola",
+      "name": "Lake Pichola",
+      "lat": 24.5726,
+      "lng": 73.6796,
+      "radiusM": 250,
+      "address": "Lake Pichola, Udaipur, RJ",
+      "howTo": "Visit Lake Pichola.",
+      "badge": "badges/lake-pichola.png"
+    },
+    {
+      "id": "jag-mandir",
+      "name": "Jag Mandir",
+      "lat": 24.5675,
+      "lng": 73.6785,
+      "radiusM": 150,
+      "address": "Jag Mandir, Lake Pichola, Udaipur, RJ",
+      "howTo": "Visit Jag Mandir.",
+      "badge": "badges/jag-mandir.png"
+    },
+    {
+      "id": "saheliyon-ki-bari",
+      "name": "Saheliyon Ki Bari",
+      "lat": 24.6005,
+      "lng": 73.6855,
+      "radiusM": 150,
+      "address": "Saheliyon Ki Bari, Udaipur, RJ",
+      "howTo": "Visit Saheliyon Ki Bari.",
+      "badge": "badges/saheliyon-ki-bari.png"
+    },
+    {
+      "id": "jagdish-temple",
+      "name": "Jagdish Temple",
+      "lat": 24.5795,
+      "lng": 73.6838,
+      "radiusM": 100,
+      "address": "Jagdish Temple, Udaipur, RJ",
+      "howTo": "Visit Jagdish Temple.",
+      "badge": "badges/jagdish-temple.png"
+    }
+  ]
+}

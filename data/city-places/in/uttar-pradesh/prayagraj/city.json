@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/prayagraj",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Prayagraj",
+  "bbox": {
+    "minLat": 25.42,
+    "minLng": 81.82,
+    "maxLat": 25.46,
+    "maxLng": 81.88
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "triveni-sangam",
+      "name": "Triveni Sangam",
+      "lat": 25.4225,
+      "lng": 81.8865,
+      "radiusM": 250,
+      "address": "Triveni Sangam, Prayagraj, UP",
+      "howTo": "Visit Triveni Sangam.",
+      "badge": "badges/triveni-sangam.png"
+    },
+    {
+      "id": "allahabad-fort",
+      "name": "Allahabad Fort",
+      "lat": 25.4305,
+      "lng": 81.8775,
+      "radiusM": 200,
+      "address": "Allahabad Fort, Prayagraj, UP",
+      "howTo": "Visit Allahabad Fort.",
+      "badge": "badges/allahabad-fort.png"
+    },
+    {
+      "id": "anand-bhavan",
+      "name": "Anand Bhavan",
+      "lat": 25.4585,
+      "lng": 81.8575,
+      "radiusM": 120,
+      "address": "Anand Bhavan, Prayagraj, UP",
+      "howTo": "Visit Anand Bhavan.",
+      "badge": "badges/anand-bhavan.png"
+    },
+    {
+      "id": "khusro-bagh",
+      "name": "Khusro Bagh",
+      "lat": 25.4435,
+      "lng": 81.8265,
+      "radiusM": 150,
+      "address": "Khusro Bagh, Prayagraj, UP",
+      "howTo": "Visit Khusro Bagh.",
+      "badge": "badges/khusro-bagh.png"
+    }
+  ]
+}

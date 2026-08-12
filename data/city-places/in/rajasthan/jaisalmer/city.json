@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/rajasthan/jaisalmer",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "RJ",
+  "stateName": "Rajasthan",
+  "cityName": "Jaisalmer",
+  "bbox": {
+    "minLat": 26.9,
+    "minLng": 70.88,
+    "maxLat": 26.94,
+    "maxLng": 70.93
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jaisalmer-fort",
+      "name": "Jaisalmer Fort",
+      "lat": 26.9127,
+      "lng": 70.9128,
+      "radiusM": 250,
+      "address": "Jaisalmer Fort, Jaisalmer, RJ",
+      "howTo": "Visit Jaisalmer Fort.",
+      "badge": "badges/jaisalmer-fort.png"
+    },
+    {
+      "id": "patwon-ki-haveli",
+      "name": "Patwon Ki Haveli",
+      "lat": 26.9162,
+      "lng": 70.9135,
+      "radiusM": 100,
+      "address": "Patwon Ki Haveli, Jaisalmer, RJ",
+      "howTo": "Visit Patwon Ki Haveli.",
+      "badge": "badges/patwon-ki-haveli.png"
+    },
+    {
+      "id": "gadisar-lake",
+      "name": "Gadisar Lake",
+      "lat": 26.9075,
+      "lng": 70.918,
+      "radiusM": 200,
+      "address": "Gadisar Lake, Jaisalmer, RJ",
+      "howTo": "Visit Gadisar Lake.",
+      "badge": "badges/gadisar-lake.png"
+    },
+    {
+      "id": "bada-bagh",
+      "name": "Bada Bagh",
+      "lat": 26.9505,
+      "lng": 70.9005,
+      "radiusM": 200,
+      "address": "Bada Bagh, Jaisalmer, RJ",
+      "howTo": "Visit Bada Bagh.",
+      "badge": "badges/bada-bagh.png"
+    }
+  ]
+}

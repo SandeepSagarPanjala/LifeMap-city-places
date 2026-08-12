@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/kanyakumari",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Kanyakumari",
+  "bbox": {
+    "minLat": 8.07,
+    "minLng": 77.54,
+    "maxLat": 8.09,
+    "maxLng": 77.56
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vivekananda-rock",
+      "name": "Vivekananda Rock Memorial",
+      "lat": 8.078,
+      "lng": 77.5515,
+      "radiusM": 150,
+      "address": "Vivekananda Rock, Kanyakumari, TN",
+      "howTo": "Visit Vivekananda Rock Memorial.",
+      "badge": "badges/vivekananda-rock.png"
+    },
+    {
+      "id": "thiruvalluvar-statue",
+      "name": "Thiruvalluvar Statue",
+      "lat": 8.0775,
+      "lng": 77.554,
+      "radiusM": 120,
+      "address": "Thiruvalluvar Statue, Kanyakumari, TN",
+      "howTo": "Visit Thiruvalluvar Statue.",
+      "badge": "badges/thiruvalluvar-statue.png"
+    },
+    {
+      "id": "kanyakumari-temple",
+      "name": "Kanyakumari Temple",
+      "lat": 8.0875,
+      "lng": 77.5385,
+      "radiusM": 100,
+      "address": "Bhagavathy Amman Temple, Kanyakumari, TN",
+      "howTo": "Visit Kanyakumari Temple.",
+      "badge": "badges/kanyakumari-temple.png"
+    },
+    {
+      "id": "sunset-point-kanyakumari",
+      "name": "Sunset Point",
+      "lat": 8.0785,
+      "lng": 77.5455,
+      "radiusM": 120,
+      "address": "Sunset Point, Kanyakumari, TN",
+      "howTo": "Visit Sunset Point.",
+      "badge": "badges/sunset-point-kanyakumari.png"
+    }
+  ]
+}

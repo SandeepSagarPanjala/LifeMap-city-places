@@ -1,9 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T03:34:36.459Z",
+  "generatedAt": "2026-08-12T04:57:57.173Z",
   "cellDeg": 0.5,
-  "cityCount": 228,
+  "cityCount": 257,
   "cities": {
+    "in/andaman-and-nicobar/port-blair": {
+      "name": "Port Blair",
+      "bbox": {
+        "minLat": 11.65,
+        "minLng": 92.72,
+        "maxLat": 11.68,
+        "maxLng": 92.76
+      }
+    },
     "in/andhra-pradesh/tirupati": {
       "name": "Tirupati",
       "bbox": {
@@ -83,6 +92,15 @@
         "minLng": 85.08,
         "maxLat": 25.64,
         "maxLng": 85.18
+      }
+    },
+    "in/chandigarh/chandigarh": {
+      "name": "Chandigarh",
+      "bbox": {
+        "minLat": 30.7,
+        "minLng": 76.75,
+        "maxLat": 30.78,
+        "maxLng": 76.85
       }
     },
     "in/chhattisgarh/raipur": {
@@ -452,6 +470,249 @@
         "minLng": 75.82,
         "maxLat": 30.94,
         "maxLng": 75.9
+      }
+    },
+    "in/rajasthan/jaipur": {
+      "name": "Jaipur",
+      "bbox": {
+        "minLat": 26.88,
+        "minLng": 75.78,
+        "maxLat": 26.96,
+        "maxLng": 75.86
+      }
+    },
+    "in/rajasthan/jaisalmer": {
+      "name": "Jaisalmer",
+      "bbox": {
+        "minLat": 26.9,
+        "minLng": 70.88,
+        "maxLat": 26.94,
+        "maxLng": 70.93
+      }
+    },
+    "in/rajasthan/jodhpur": {
+      "name": "Jodhpur",
+      "bbox": {
+        "minLat": 26.27,
+        "minLng": 73,
+        "maxLat": 26.32,
+        "maxLng": 73.05
+      }
+    },
+    "in/rajasthan/pushkar": {
+      "name": "Pushkar",
+      "bbox": {
+        "minLat": 26.48,
+        "minLng": 74.54,
+        "maxLat": 26.5,
+        "maxLng": 74.57
+      }
+    },
+    "in/rajasthan/udaipur": {
+      "name": "Udaipur",
+      "bbox": {
+        "minLat": 24.55,
+        "minLng": 73.66,
+        "maxLat": 24.62,
+        "maxLng": 73.72
+      }
+    },
+    "in/sikkim/gangtok": {
+      "name": "Gangtok",
+      "bbox": {
+        "minLat": 27.31,
+        "minLng": 88.59,
+        "maxLat": 27.36,
+        "maxLng": 88.64
+      }
+    },
+    "in/tamil-nadu/chennai": {
+      "name": "Chennai",
+      "bbox": {
+        "minLat": 12.95,
+        "minLng": 80.2,
+        "maxLat": 13.1,
+        "maxLng": 80.3
+      }
+    },
+    "in/tamil-nadu/kanyakumari": {
+      "name": "Kanyakumari",
+      "bbox": {
+        "minLat": 8.07,
+        "minLng": 77.54,
+        "maxLat": 8.09,
+        "maxLng": 77.56
+      }
+    },
+    "in/tamil-nadu/madurai": {
+      "name": "Madurai",
+      "bbox": {
+        "minLat": 9.9,
+        "minLng": 78.1,
+        "maxLat": 9.95,
+        "maxLng": 78.15
+      }
+    },
+    "in/tamil-nadu/mahabalipuram": {
+      "name": "Mahabalipuram",
+      "bbox": {
+        "minLat": 12.61,
+        "minLng": 80.18,
+        "maxLat": 12.63,
+        "maxLng": 80.2
+      }
+    },
+    "in/tamil-nadu/ooty": {
+      "name": "Ooty",
+      "bbox": {
+        "minLat": 11.4,
+        "minLng": 76.68,
+        "maxLat": 11.43,
+        "maxLng": 76.72
+      }
+    },
+    "in/tamil-nadu/rameswaram": {
+      "name": "Rameswaram",
+      "bbox": {
+        "minLat": 9.27,
+        "minLng": 79.29,
+        "maxLat": 9.3,
+        "maxLng": 79.33
+      }
+    },
+    "in/telangana/hyderabad": {
+      "name": "Hyderabad",
+      "bbox": {
+        "minLat": 17.35,
+        "minLng": 78.4,
+        "maxLat": 17.45,
+        "maxLng": 78.52
+      }
+    },
+    "in/telangana/warangal": {
+      "name": "Warangal",
+      "bbox": {
+        "minLat": 17.95,
+        "minLng": 79.58,
+        "maxLat": 18.02,
+        "maxLng": 79.65
+      }
+    },
+    "in/tripura/agartala": {
+      "name": "Agartala",
+      "bbox": {
+        "minLat": 23.82,
+        "minLng": 91.26,
+        "maxLat": 23.86,
+        "maxLng": 91.3
+      }
+    },
+    "in/uttar-pradesh/agra": {
+      "name": "Agra",
+      "bbox": {
+        "minLat": 27.15,
+        "minLng": 78,
+        "maxLat": 27.2,
+        "maxLng": 78.05
+      }
+    },
+    "in/uttar-pradesh/ayodhya": {
+      "name": "Ayodhya",
+      "bbox": {
+        "minLat": 26.78,
+        "minLng": 82.18,
+        "maxLat": 26.81,
+        "maxLng": 82.22
+      }
+    },
+    "in/uttar-pradesh/lucknow": {
+      "name": "Lucknow",
+      "bbox": {
+        "minLat": 26.82,
+        "minLng": 80.9,
+        "maxLat": 26.9,
+        "maxLng": 81
+      }
+    },
+    "in/uttar-pradesh/mathura": {
+      "name": "Mathura",
+      "bbox": {
+        "minLat": 27.48,
+        "minLng": 77.66,
+        "maxLat": 27.52,
+        "maxLng": 77.7
+      }
+    },
+    "in/uttar-pradesh/prayagraj": {
+      "name": "Prayagraj",
+      "bbox": {
+        "minLat": 25.42,
+        "minLng": 81.82,
+        "maxLat": 25.46,
+        "maxLng": 81.88
+      }
+    },
+    "in/uttar-pradesh/varanasi": {
+      "name": "Varanasi",
+      "bbox": {
+        "minLat": 25.28,
+        "minLng": 82.98,
+        "maxLat": 25.33,
+        "maxLng": 83.03
+      }
+    },
+    "in/uttarakhand/dehradun": {
+      "name": "Dehradun",
+      "bbox": {
+        "minLat": 30.3,
+        "minLng": 78,
+        "maxLat": 30.36,
+        "maxLng": 78.08
+      }
+    },
+    "in/uttarakhand/haridwar": {
+      "name": "Haridwar",
+      "bbox": {
+        "minLat": 29.93,
+        "minLng": 78.14,
+        "maxLat": 29.98,
+        "maxLng": 78.18
+      }
+    },
+    "in/uttarakhand/nainital": {
+      "name": "Nainital",
+      "bbox": {
+        "minLat": 29.37,
+        "minLng": 79.44,
+        "maxLat": 29.4,
+        "maxLng": 79.47
+      }
+    },
+    "in/uttarakhand/rishikesh": {
+      "name": "Rishikesh",
+      "bbox": {
+        "minLat": 30.08,
+        "minLng": 78.26,
+        "maxLat": 30.13,
+        "maxLng": 78.32
+      }
+    },
+    "in/west-bengal/darjeeling": {
+      "name": "Darjeeling",
+      "bbox": {
+        "minLat": 27.03,
+        "minLng": 88.25,
+        "maxLat": 27.06,
+        "maxLng": 88.28
+      }
+    },
+    "in/west-bengal/kolkata": {
+      "name": "Kolkata",
+      "bbox": {
+        "minLat": 22.5,
+        "minLng": 88.3,
+        "maxLat": 22.6,
+        "maxLng": 88.4
       }
     },
     "us/alabama/birmingham": {
@@ -3132,6 +3393,110 @@
     ],
     "61,151": [
       "in/punjab/ludhiana"
+    ],
+    "53,151": [
+      "in/rajasthan/jaipur"
+    ],
+    "49,147": [
+      "in/rajasthan/udaipur"
+    ],
+    "52,146": [
+      "in/rajasthan/jodhpur"
+    ],
+    "53,141": [
+      "in/rajasthan/jaisalmer"
+    ],
+    "52,149": [
+      "in/rajasthan/pushkar"
+    ],
+    "53,149": [
+      "in/rajasthan/pushkar"
+    ],
+    "54,177": [
+      "in/sikkim/gangtok"
+    ],
+    "25,160": [
+      "in/tamil-nadu/chennai",
+      "in/tamil-nadu/mahabalipuram"
+    ],
+    "26,160": [
+      "in/tamil-nadu/chennai"
+    ],
+    "19,156": [
+      "in/tamil-nadu/madurai"
+    ],
+    "22,153": [
+      "in/tamil-nadu/ooty"
+    ],
+    "16,155": [
+      "in/tamil-nadu/kanyakumari"
+    ],
+    "18,158": [
+      "in/tamil-nadu/rameswaram"
+    ],
+    "34,156": [
+      "in/telangana/hyderabad"
+    ],
+    "34,157": [
+      "in/telangana/hyderabad"
+    ],
+    "35,159": [
+      "in/telangana/warangal"
+    ],
+    "36,159": [
+      "in/telangana/warangal"
+    ],
+    "47,182": [
+      "in/tripura/agartala"
+    ],
+    "53,161": [
+      "in/uttar-pradesh/lucknow"
+    ],
+    "53,162": [
+      "in/uttar-pradesh/lucknow"
+    ],
+    "50,165": [
+      "in/uttar-pradesh/varanasi"
+    ],
+    "50,166": [
+      "in/uttar-pradesh/varanasi"
+    ],
+    "54,156": [
+      "in/uttar-pradesh/agra"
+    ],
+    "50,163": [
+      "in/uttar-pradesh/prayagraj"
+    ],
+    "54,155": [
+      "in/uttar-pradesh/mathura"
+    ],
+    "55,155": [
+      "in/uttar-pradesh/mathura"
+    ],
+    "53,164": [
+      "in/uttar-pradesh/ayodhya"
+    ],
+    "60,156": [
+      "in/uttarakhand/dehradun",
+      "in/uttarakhand/rishikesh"
+    ],
+    "59,156": [
+      "in/uttarakhand/haridwar"
+    ],
+    "58,158": [
+      "in/uttarakhand/nainital"
+    ],
+    "45,176": [
+      "in/west-bengal/kolkata"
+    ],
+    "54,176": [
+      "in/west-bengal/darjeeling"
+    ],
+    "23,185": [
+      "in/andaman-and-nicobar/port-blair"
+    ],
+    "61,153": [
+      "in/chandigarh/chandigarh"
     ]
   }
 }

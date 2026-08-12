@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/west-bengal/darjeeling",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "WB",
+  "stateName": "West Bengal",
+  "cityName": "Darjeeling",
+  "bbox": {
+    "minLat": 27.03,
+    "minLng": 88.25,
+    "maxLat": 27.06,
+    "maxLng": 88.28
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tiger-hill",
+      "name": "Tiger Hill",
+      "lat": 27.0085,
+      "lng": 88.2835,
+      "radiusM": 150,
+      "address": "Tiger Hill, Darjeeling, WB",
+      "howTo": "Visit Tiger Hill.",
+      "badge": "badges/tiger-hill.png"
+    },
+    {
+      "id": "batasia-loop",
+      "name": "Batasia Loop",
+      "lat": 27.0195,
+      "lng": 88.2435,
+      "radiusM": 120,
+      "address": "Batasia Loop, Darjeeling, WB",
+      "howTo": "Visit Batasia Loop.",
+      "badge": "badges/batasia-loop.png"
+    },
+    {
+      "id": "darjeeling-himalayan-railway",
+      "name": "Darjeeling Himalayan Railway",
+      "lat": 27.0415,
+      "lng": 88.2665,
+      "radiusM": 150,
+      "address": "Darjeeling Toy Train Station, WB",
+      "howTo": "Visit Darjeeling Himalayan Railway.",
+      "badge": "badges/darjeeling-himalayan-railway.png"
+    },
+    {
+      "id": "peace-pagoda-darjeeling",
+      "name": "Peace Pagoda",
+      "lat": 27.0595,
+      "lng": 88.2665,
+      "radiusM": 120,
+      "address": "Japanese Peace Pagoda, Darjeeling, WB",
+      "howTo": "Visit Peace Pagoda.",
+      "badge": "badges/peace-pagoda-darjeeling.png"
+    },
+    {
+      "id": "padmaja-naidu-zoo",
+      "name": "Padmaja Naidu Himalayan Zoo",
+      "lat": 27.0585,
+      "lng": 88.2545,
+      "radiusM": 150,
+      "address": "Himalayan Zoo, Darjeeling, WB",
+      "howTo": "Visit Padmaja Naidu Himalayan Zoo.",
+      "badge": "badges/padmaja-naidu-zoo.png"
+    }
+  ]
+}

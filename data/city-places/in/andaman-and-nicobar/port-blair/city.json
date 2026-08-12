@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/andaman-and-nicobar/port-blair",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AN",
+  "stateName": "Andaman and Nicobar Islands",
+  "cityName": "Port Blair",
+  "bbox": {
+    "minLat": 11.65,
+    "minLng": 92.72,
+    "maxLat": 11.68,
+    "maxLng": 92.76
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cellular-jail",
+      "name": "Cellular Jail",
+      "lat": 11.675,
+      "lng": 92.7475,
+      "radiusM": 150,
+      "address": "Cellular Jail, Port Blair, AN",
+      "howTo": "Visit Cellular Jail.",
+      "badge": "badges/cellular-jail.png"
+    },
+    {
+      "id": "corbyns-cove",
+      "name": "Corbyn's Cove",
+      "lat": 11.6455,
+      "lng": 92.7485,
+      "radiusM": 200,
+      "address": "Corbyn's Cove, Port Blair, AN",
+      "howTo": "Visit Corbyn's Cove.",
+      "badge": "badges/corbyns-cove.png"
+    },
+    {
+      "id": "ross-island",
+      "name": "Ross Island",
+      "lat": 11.6775,
+      "lng": 92.7635,
+      "radiusM": 250,
+      "address": "Ross Island / Netaji Subhash Chandra Bose Island, AN",
+      "howTo": "Visit Ross Island.",
+      "badge": "badges/ross-island.png"
+    },
+    {
+      "id": "samudrika-museum",
+      "name": "Samudrika Naval Marine Museum",
+      "lat": 11.6665,
+      "lng": 92.7355,
+      "radiusM": 100,
+      "address": "Samudrika Museum, Port Blair, AN",
+      "howTo": "Visit Samudrika Naval Marine Museum.",
+      "badge": "badges/samudrika-museum.png"
+    }
+  ]
+}

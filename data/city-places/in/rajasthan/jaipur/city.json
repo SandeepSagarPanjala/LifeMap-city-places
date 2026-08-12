@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/rajasthan/jaipur",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "RJ",
+  "stateName": "Rajasthan",
+  "cityName": "Jaipur",
+  "bbox": {
+    "minLat": 26.88,
+    "minLng": 75.78,
+    "maxLat": 26.96,
+    "maxLng": 75.86
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hawa-mahal",
+      "name": "Hawa Mahal",
+      "lat": 26.9239,
+      "lng": 75.8267,
+      "radiusM": 120,
+      "address": "Hawa Mahal Rd, Jaipur, RJ",
+      "howTo": "Visit Hawa Mahal.",
+      "badge": "badges/hawa-mahal.png"
+    },
+    {
+      "id": "amber-fort",
+      "name": "Amber Fort",
+      "lat": 26.9855,
+      "lng": 75.8513,
+      "radiusM": 250,
+      "address": "Amber, Jaipur, RJ",
+      "howTo": "Visit Amber Fort.",
+      "badge": "badges/amber-fort.png"
+    },
+    {
+      "id": "city-palace-jaipur",
+      "name": "City Palace Jaipur",
+      "lat": 26.9258,
+      "lng": 75.8236,
+      "radiusM": 200,
+      "address": "City Palace, Jaipur, RJ",
+      "howTo": "Visit City Palace Jaipur.",
+      "badge": "badges/city-palace-jaipur.png"
+    },
+    {
+      "id": "jantar-mantar-jaipur",
+      "name": "Jantar Mantar",
+      "lat": 26.9248,
+      "lng": 75.8246,
+      "radiusM": 120,
+      "address": "Jantar Mantar, Jaipur, RJ",
+      "howTo": "Visit Jantar Mantar.",
+      "badge": "badges/jantar-mantar-jaipur.png"
+    },
+    {
+      "id": "nahargarh-fort",
+      "name": "Nahargarh Fort",
+      "lat": 26.9373,
+      "lng": 75.8155,
+      "radiusM": 200,
+      "address": "Nahargarh Fort, Jaipur, RJ",
+      "howTo": "Visit Nahargarh Fort.",
+      "badge": "badges/nahargarh-fort.png"
+    },
+    {
+      "id": "jal-mahal",
+      "name": "Jal Mahal",
+      "lat": 26.9539,
+      "lng": 75.8462,
+      "radiusM": 150,
+      "address": "Jal Mahal, Jaipur, RJ",
+      "howTo": "Visit Jal Mahal.",
+      "badge": "badges/jal-mahal.png"
+    }
+  ]
+}

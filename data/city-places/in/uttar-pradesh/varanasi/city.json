@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/varanasi",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Varanasi",
+  "bbox": {
+    "minLat": 25.28,
+    "minLng": 82.98,
+    "maxLat": 25.33,
+    "maxLng": 83.03
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dashashwamedh-ghat",
+      "name": "Dashashwamedh Ghat",
+      "lat": 25.309,
+      "lng": 83.01,
+      "radiusM": 150,
+      "address": "Dashashwamedh Ghat, Varanasi, UP",
+      "howTo": "Visit Dashashwamedh Ghat.",
+      "badge": "badges/dashashwamedh-ghat.png"
+    },
+    {
+      "id": "kashi-vishwanath",
+      "name": "Kashi Vishwanath Temple",
+      "lat": 25.3109,
+      "lng": 83.0107,
+      "radiusM": 120,
+      "address": "Kashi Vishwanath Temple, Varanasi, UP",
+      "howTo": "Visit Kashi Vishwanath Temple.",
+      "badge": "badges/kashi-vishwanath.png"
+    },
+    {
+      "id": "sarnath",
+      "name": "Sarnath",
+      "lat": 25.381,
+      "lng": 83.0225,
+      "radiusM": 250,
+      "address": "Sarnath, Varanasi, UP",
+      "howTo": "Visit Sarnath.",
+      "badge": "badges/sarnath.png"
+    },
+    {
+      "id": "assi-ghat",
+      "name": "Assi Ghat",
+      "lat": 25.2885,
+      "lng": 83.0065,
+      "radiusM": 150,
+      "address": "Assi Ghat, Varanasi, UP",
+      "howTo": "Visit Assi Ghat.",
+      "badge": "badges/assi-ghat.png"
+    },
+    {
+      "id": "banaras-hindu-university",
+      "name": "Banaras Hindu University",
+      "lat": 25.2677,
+      "lng": 82.9913,
+      "radiusM": 300,
+      "address": "BHU, Varanasi, UP",
+      "howTo": "Visit Banaras Hindu University.",
+      "badge": "badges/banaras-hindu-university.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/lucknow",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Lucknow",
+  "bbox": {
+    "minLat": 26.82,
+    "minLng": 80.9,
+    "maxLat": 26.9,
+    "maxLng": 81.0
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bara-imambara",
+      "name": "Bara Imambara",
+      "lat": 26.869,
+      "lng": 80.9125,
+      "radiusM": 200,
+      "address": "Bara Imambara, Lucknow, UP",
+      "howTo": "Visit Bara Imambara.",
+      "badge": "badges/bara-imambara.png"
+    },
+    {
+      "id": "rumi-darwaza",
+      "name": "Rumi Darwaza",
+      "lat": 26.8705,
+      "lng": 80.9135,
+      "radiusM": 100,
+      "address": "Rumi Darwaza, Lucknow, UP",
+      "howTo": "Visit Rumi Darwaza.",
+      "badge": "badges/rumi-darwaza.png"
+    },
+    {
+      "id": "chota-imambara",
+      "name": "Chota Imambara",
+      "lat": 26.8735,
+      "lng": 80.9045,
+      "radiusM": 150,
+      "address": "Chota Imambara, Lucknow, UP",
+      "howTo": "Visit Chota Imambara.",
+      "badge": "badges/chota-imambara.png"
+    },
+    {
+      "id": "hazratganj",
+      "name": "Hazratganj",
+      "lat": 26.8505,
+      "lng": 80.9465,
+      "radiusM": 150,
+      "address": "Hazratganj, Lucknow, UP",
+      "howTo": "Visit Hazratganj.",
+      "badge": "badges/hazratganj.png"
+    },
+    {
+      "id": "ambedkar-memorial",
+      "name": "Ambedkar Memorial Park",
+      "lat": 26.85,
+      "lng": 80.98,
+      "radiusM": 200,
+      "address": "Ambedkar Memorial Park, Lucknow, UP",
+      "howTo": "Visit Ambedkar Memorial Park.",
+      "badge": "badges/ambedkar-memorial.png"
+    }
+  ]
+}

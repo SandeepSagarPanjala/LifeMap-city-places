@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "cursor": "in/rajasthan/jaipur",
-  "updatedAt": "2026-08-12T04:30:00.000Z",
+  "cursor": "in/daman-and-diu/daman",
+  "updatedAt": "2026-08-12T06:00:00.000Z",
   "notes": "USA complete. India curated popular cities in progress. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
@@ -3713,42 +3713,72 @@
             {
               "id": "jaipur",
               "name": "Jaipur",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/rajasthan/jaipur/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.88,
+                "minLng": 75.78,
+                "maxLat": 26.96,
+                "maxLng": 75.86
+              }
             },
             {
               "id": "udaipur",
               "name": "Udaipur",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/rajasthan/udaipur/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 24.55,
+                "minLng": 73.66,
+                "maxLat": 24.62,
+                "maxLng": 73.72
+              }
             },
             {
               "id": "jodhpur",
               "name": "Jodhpur",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/rajasthan/jodhpur/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.27,
+                "minLng": 73.0,
+                "maxLat": 26.32,
+                "maxLng": 73.05
+              }
             },
             {
               "id": "jaisalmer",
               "name": "Jaisalmer",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/rajasthan/jaisalmer/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.9,
+                "minLng": 70.88,
+                "maxLat": 26.94,
+                "maxLng": 70.93
+              }
             },
             {
               "id": "pushkar",
               "name": "Pushkar",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/rajasthan/pushkar/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.48,
+                "minLng": 74.54,
+                "maxLat": 26.5,
+                "maxLng": 74.57
+              }
             }
           ]
         },
@@ -3760,10 +3790,16 @@
             {
               "id": "gangtok",
               "name": "Gangtok",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/sikkim/gangtok/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 27.31,
+                "minLng": 88.59,
+                "maxLat": 27.36,
+                "maxLng": 88.64
+              }
             }
           ]
         },
@@ -3775,50 +3811,86 @@
             {
               "id": "chennai",
               "name": "Chennai",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/chennai/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 12.95,
+                "minLng": 80.2,
+                "maxLat": 13.1,
+                "maxLng": 80.3
+              }
             },
             {
               "id": "madurai",
               "name": "Madurai",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/madurai/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 9.9,
+                "minLng": 78.1,
+                "maxLat": 9.95,
+                "maxLng": 78.15
+              }
             },
             {
               "id": "ooty",
               "name": "Ooty",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/ooty/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 11.4,
+                "minLng": 76.68,
+                "maxLat": 11.43,
+                "maxLng": 76.72
+              }
             },
             {
               "id": "mahabalipuram",
               "name": "Mahabalipuram",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/mahabalipuram/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 12.61,
+                "minLng": 80.18,
+                "maxLat": 12.63,
+                "maxLng": 80.2
+              }
             },
             {
               "id": "kanyakumari",
               "name": "Kanyakumari",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/kanyakumari/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 8.07,
+                "minLng": 77.54,
+                "maxLat": 8.09,
+                "maxLng": 77.56
+              }
             },
             {
               "id": "rameswaram",
               "name": "Rameswaram",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tamil-nadu/rameswaram/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 9.27,
+                "minLng": 79.29,
+                "maxLat": 9.3,
+                "maxLng": 79.33
+              }
             }
           ]
         },
@@ -3830,18 +3902,30 @@
             {
               "id": "hyderabad",
               "name": "Hyderabad",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/telangana/hyderabad/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 17.35,
+                "minLng": 78.4,
+                "maxLat": 17.45,
+                "maxLng": 78.52
+              }
             },
             {
               "id": "warangal",
               "name": "Warangal",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/telangana/warangal/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 17.95,
+                "minLng": 79.58,
+                "maxLat": 18.02,
+                "maxLng": 79.65
+              }
             }
           ]
         },
@@ -3853,10 +3937,16 @@
             {
               "id": "agartala",
               "name": "Agartala",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/tripura/agartala/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 23.82,
+                "minLng": 91.26,
+                "maxLat": 23.86,
+                "maxLng": 91.3
+              }
             }
           ]
         },
@@ -3868,50 +3958,86 @@
             {
               "id": "lucknow",
               "name": "Lucknow",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/lucknow/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.82,
+                "minLng": 80.9,
+                "maxLat": 26.9,
+                "maxLng": 81.0
+              }
             },
             {
               "id": "varanasi",
               "name": "Varanasi",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/varanasi/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 25.28,
+                "minLng": 82.98,
+                "maxLat": 25.33,
+                "maxLng": 83.03
+              }
             },
             {
               "id": "agra",
               "name": "Agra",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/agra/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 27.15,
+                "minLng": 78.0,
+                "maxLat": 27.2,
+                "maxLng": 78.05
+              }
             },
             {
               "id": "prayagraj",
               "name": "Prayagraj",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/prayagraj/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 25.42,
+                "minLng": 81.82,
+                "maxLat": 25.46,
+                "maxLng": 81.88
+              }
             },
             {
               "id": "mathura",
               "name": "Mathura",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/mathura/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 27.48,
+                "minLng": 77.66,
+                "maxLat": 27.52,
+                "maxLng": 77.7
+              }
             },
             {
               "id": "ayodhya",
               "name": "Ayodhya",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttar-pradesh/ayodhya/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 26.78,
+                "minLng": 82.18,
+                "maxLat": 26.81,
+                "maxLng": 82.22
+              }
             }
           ]
         },
@@ -3923,34 +4049,58 @@
             {
               "id": "dehradun",
               "name": "Dehradun",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttarakhand/dehradun/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 30.3,
+                "minLng": 78.0,
+                "maxLat": 30.36,
+                "maxLng": 78.08
+              }
             },
             {
               "id": "rishikesh",
               "name": "Rishikesh",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttarakhand/rishikesh/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 30.08,
+                "minLng": 78.26,
+                "maxLat": 30.13,
+                "maxLng": 78.32
+              }
             },
             {
               "id": "haridwar",
               "name": "Haridwar",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttarakhand/haridwar/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 29.93,
+                "minLng": 78.14,
+                "maxLat": 29.98,
+                "maxLng": 78.18
+              }
             },
             {
               "id": "nainital",
               "name": "Nainital",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/uttarakhand/nainital/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 29.37,
+                "minLng": 79.44,
+                "maxLat": 29.4,
+                "maxLng": 79.47
+              }
             }
           ]
         },
@@ -3962,18 +4112,30 @@
             {
               "id": "kolkata",
               "name": "Kolkata",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/west-bengal/kolkata/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 7,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 22.5,
+                "minLng": 88.3,
+                "maxLat": 22.6,
+                "maxLng": 88.4
+              }
             },
             {
               "id": "darjeeling",
               "name": "Darjeeling",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/west-bengal/darjeeling/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 27.03,
+                "minLng": 88.25,
+                "maxLat": 27.06,
+                "maxLng": 88.28
+              }
             }
           ]
         },
@@ -3985,10 +4147,16 @@
             {
               "id": "port-blair",
               "name": "Port Blair",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/andaman-and-nicobar/port-blair/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 11.65,
+                "minLng": 92.72,
+                "maxLat": 11.68,
+                "maxLng": 92.76
+              }
             }
           ]
         },
@@ -4000,10 +4168,16 @@
             {
               "id": "chandigarh",
               "name": "Chandigarh",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/chandigarh/chandigarh/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T06:00:00.000Z",
+              "bbox": {
+                "minLat": 30.7,
+                "minLng": 76.75,
+                "maxLat": 30.78,
+                "maxLng": 76.85
+              }
             }
           ]
         },

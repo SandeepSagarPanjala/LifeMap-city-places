@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/rajasthan/pushkar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "RJ",
+  "stateName": "Rajasthan",
+  "cityName": "Pushkar",
+  "bbox": {
+    "minLat": 26.48,
+    "minLng": 74.54,
+    "maxLat": 26.5,
+    "maxLng": 74.57
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "brahma-temple-pushkar",
+      "name": "Brahma Temple",
+      "lat": 26.4872,
+      "lng": 74.554,
+      "radiusM": 100,
+      "address": "Brahma Temple, Pushkar, RJ",
+      "howTo": "Visit Brahma Temple.",
+      "badge": "badges/brahma-temple-pushkar.png"
+    },
+    {
+      "id": "pushkar-lake",
+      "name": "Pushkar Lake",
+      "lat": 26.4875,
+      "lng": 74.5555,
+      "radiusM": 200,
+      "address": "Pushkar Lake, Pushkar, RJ",
+      "howTo": "Visit Pushkar Lake.",
+      "badge": "badges/pushkar-lake.png"
+    },
+    {
+      "id": "savitri-temple",
+      "name": "Savitri Temple",
+      "lat": 26.481,
+      "lng": 74.5515,
+      "radiusM": 150,
+      "address": "Savitri Temple Hill, Pushkar, RJ",
+      "howTo": "Visit Savitri Temple.",
+      "badge": "badges/savitri-temple.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/telangana/warangal",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TS",
+  "stateName": "Telangana",
+  "cityName": "Warangal",
+  "bbox": {
+    "minLat": 17.95,
+    "minLng": 79.58,
+    "maxLat": 18.02,
+    "maxLng": 79.65
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "warangal-fort",
+      "name": "Warangal Fort",
+      "lat": 17.956,
+      "lng": 79.6145,
+      "radiusM": 200,
+      "address": "Warangal Fort, Warangal, TS",
+      "howTo": "Visit Warangal Fort.",
+      "badge": "badges/warangal-fort.png"
+    },
+    {
+      "id": "thousand-pillar-temple",
+      "name": "Thousand Pillar Temple",
+      "lat": 18.0035,
+      "lng": 79.5785,
+      "radiusM": 150,
+      "address": "Thousand Pillar Temple, Hanamkonda, TS",
+      "howTo": "Visit Thousand Pillar Temple.",
+      "badge": "badges/thousand-pillar-temple.png"
+    },
+    {
+      "id": "kakatiya-rock-garden",
+      "name": "Kakatiya Musical Garden",
+      "lat": 17.9685,
+      "lng": 79.5955,
+      "radiusM": 150,
+      "address": "Kakatiya Musical Garden, Warangal, TS",
+      "howTo": "Visit Kakatiya Musical Garden.",
+      "badge": "badges/kakatiya-rock-garden.png"
+    },
+    {
+      "id": "bhadrakali-temple-warangal",
+      "name": "Bhadrakali Temple",
+      "lat": 17.9915,
+      "lng": 79.6025,
+      "radiusM": 120,
+      "address": "Bhadrakali Temple, Warangal, TS",
+      "howTo": "Visit Bhadrakali Temple.",
+      "badge": "badges/bhadrakali-temple-warangal.png"
+    }
+  ]
+}

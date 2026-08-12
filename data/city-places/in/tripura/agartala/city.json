@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tripura/agartala",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TR",
+  "stateName": "Tripura",
+  "cityName": "Agartala",
+  "bbox": {
+    "minLat": 23.82,
+    "minLng": 91.26,
+    "maxLat": 23.86,
+    "maxLng": 91.3
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ujjayanta-palace",
+      "name": "Ujjayanta Palace",
+      "lat": 23.8365,
+      "lng": 91.2825,
+      "radiusM": 200,
+      "address": "Ujjayanta Palace, Agartala, TR",
+      "howTo": "Visit Ujjayanta Palace.",
+      "badge": "badges/ujjayanta-palace.png"
+    },
+    {
+      "id": "neermahal",
+      "name": "Neermahal",
+      "lat": 23.5265,
+      "lng": 91.3215,
+      "radiusM": 200,
+      "address": "Neermahal, Melaghar, Tripura",
+      "howTo": "Visit Neermahal.",
+      "badge": "badges/neermahal.png"
+    },
+    {
+      "id": "jagannath-temple-agartala",
+      "name": "Jagannath Temple",
+      "lat": 23.8345,
+      "lng": 91.2795,
+      "radiusM": 100,
+      "address": "Jagannath Temple, Agartala, TR",
+      "howTo": "Visit Jagannath Temple.",
+      "badge": "badges/jagannath-temple-agartala.png"
+    },
+    {
+      "id": "sepahijala",
+      "name": "Sepahijala Wildlife Sanctuary",
+      "lat": 23.6755,
+      "lng": 91.2755,
+      "radiusM": 250,
+      "address": "Sepahijala, Tripura",
+      "howTo": "Visit Sepahijala Wildlife Sanctuary.",
+      "badge": "badges/sepahijala.png"
+    }
+  ]
+}

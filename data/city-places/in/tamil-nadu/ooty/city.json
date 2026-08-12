@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/ooty",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Ooty",
+  "bbox": {
+    "minLat": 11.4,
+    "minLng": 76.68,
+    "maxLat": 11.43,
+    "maxLng": 76.72
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ooty-lake",
+      "name": "Ooty Lake",
+      "lat": 11.41,
+      "lng": 76.7,
+      "radiusM": 200,
+      "address": "Ooty Lake, Ooty, TN",
+      "howTo": "Visit Ooty Lake.",
+      "badge": "badges/ooty-lake.png"
+    },
+    {
+      "id": "botanical-garden-ooty",
+      "name": "Government Botanical Garden",
+      "lat": 11.4185,
+      "lng": 76.7115,
+      "radiusM": 200,
+      "address": "Botanical Garden, Ooty, TN",
+      "howTo": "Visit Government Botanical Garden.",
+      "badge": "badges/botanical-garden-ooty.png"
+    },
+    {
+      "id": "doddabetta",
+      "name": "Doddabetta Peak",
+      "lat": 11.4025,
+      "lng": 76.7355,
+      "radiusM": 150,
+      "address": "Doddabetta, Ooty, TN",
+      "howTo": "Visit Doddabetta Peak.",
+      "badge": "badges/doddabetta.png"
+    },
+    {
+      "id": "rose-garden-ooty",
+      "name": "Rose Garden",
+      "lat": 11.4125,
+      "lng": 76.7055,
+      "radiusM": 150,
+      "address": "Rose Garden, Ooty, TN",
+      "howTo": "Visit Rose Garden.",
+      "badge": "badges/rose-garden-ooty.png"
+    }
+  ]
+}

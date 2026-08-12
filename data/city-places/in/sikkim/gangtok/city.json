@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/sikkim/gangtok",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "SK",
+  "stateName": "Sikkim",
+  "cityName": "Gangtok",
+  "bbox": {
+    "minLat": 27.31,
+    "minLng": 88.59,
+    "maxLat": 27.36,
+    "maxLng": 88.64
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rumtek-monastery",
+      "name": "Rumtek Monastery",
+      "lat": 27.2885,
+      "lng": 88.5615,
+      "radiusM": 200,
+      "address": "Rumtek, Gangtok, SK",
+      "howTo": "Visit Rumtek Monastery.",
+      "badge": "badges/rumtek-monastery.png"
+    },
+    {
+      "id": "tsomgo-lake",
+      "name": "Tsomgo Lake",
+      "lat": 27.375,
+      "lng": 88.762,
+      "radiusM": 250,
+      "address": "Tsomgo Lake, East Sikkim",
+      "howTo": "Visit Tsomgo Lake.",
+      "badge": "badges/tsomgo-lake.png"
+    },
+    {
+      "id": "mg-marg",
+      "name": "MG Marg",
+      "lat": 27.329,
+      "lng": 88.612,
+      "radiusM": 150,
+      "address": "MG Marg, Gangtok, SK",
+      "howTo": "Visit MG Marg.",
+      "badge": "badges/mg-marg.png"
+    },
+    {
+      "id": "eneche-monastery",
+      "name": "Enchey Monastery",
+      "lat": 27.3415,
+      "lng": 88.6195,
+      "radiusM": 120,
+      "address": "Enchey Monastery, Gangtok, SK",
+      "howTo": "Visit Enchey Monastery.",
+      "badge": "badges/eneche-monastery.png"
+    }
+  ]
+}

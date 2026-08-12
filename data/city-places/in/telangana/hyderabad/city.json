@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/telangana/hyderabad",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TS",
+  "stateName": "Telangana",
+  "cityName": "Hyderabad",
+  "bbox": {
+    "minLat": 17.35,
+    "minLng": 78.4,
+    "maxLat": 17.45,
+    "maxLng": 78.52
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "charminar",
+      "name": "Charminar",
+      "lat": 17.3616,
+      "lng": 78.4747,
+      "radiusM": 120,
+      "address": "Charminar, Hyderabad, TS",
+      "howTo": "Visit Charminar.",
+      "badge": "badges/charminar.png"
+    },
+    {
+      "id": "golconda-fort",
+      "name": "Golconda Fort",
+      "lat": 17.3833,
+      "lng": 78.4011,
+      "radiusM": 250,
+      "address": "Golconda Fort, Hyderabad, TS",
+      "howTo": "Visit Golconda Fort.",
+      "badge": "badges/golconda-fort.png"
+    },
+    {
+      "id": "hussain-sagar",
+      "name": "Hussain Sagar",
+      "lat": 17.4239,
+      "lng": 78.4738,
+      "radiusM": 250,
+      "address": "Hussain Sagar, Hyderabad, TS",
+      "howTo": "Visit Hussain Sagar.",
+      "badge": "badges/hussain-sagar.png"
+    },
+    {
+      "id": "chowmahalla-palace",
+      "name": "Chowmahalla Palace",
+      "lat": 17.3578,
+      "lng": 78.4717,
+      "radiusM": 150,
+      "address": "Chowmahalla Palace, Hyderabad, TS",
+      "howTo": "Visit Chowmahalla Palace.",
+      "badge": "badges/chowmahalla-palace.png"
+    },
+    {
+      "id": "qutb-shahi-tombs",
+      "name": "Qutb Shahi Tombs",
+      "lat": 17.395,
+      "lng": 78.3965,
+      "radiusM": 200,
+      "address": "Qutb Shahi Tombs, Hyderabad, TS",
+      "howTo": "Visit Qutb Shahi Tombs.",
+      "badge": "badges/qutb-shahi-tombs.png"
+    },
+    {
+      "id": "birla-mandir-hyderabad",
+      "name": "Birla Mandir",
+      "lat": 17.4062,
+      "lng": 78.4691,
+      "radiusM": 120,
+      "address": "Birla Mandir, Hyderabad, TS",
+      "howTo": "Visit Birla Mandir.",
+      "badge": "badges/birla-mandir-hyderabad.png"
+    }
+  ]
+}

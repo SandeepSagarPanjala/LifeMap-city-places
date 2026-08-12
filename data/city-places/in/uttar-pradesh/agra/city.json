@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttar-pradesh/agra",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UP",
+  "stateName": "Uttar Pradesh",
+  "cityName": "Agra",
+  "bbox": {
+    "minLat": 27.15,
+    "minLng": 78.0,
+    "maxLat": 27.2,
+    "maxLng": 78.05
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "taj-mahal",
+      "name": "Taj Mahal",
+      "lat": 27.1751,
+      "lng": 78.0421,
+      "radiusM": 250,
+      "address": "Taj Mahal, Agra, UP",
+      "howTo": "Visit Taj Mahal.",
+      "badge": "badges/taj-mahal.png"
+    },
+    {
+      "id": "agra-fort",
+      "name": "Agra Fort",
+      "lat": 27.1795,
+      "lng": 78.0211,
+      "radiusM": 250,
+      "address": "Agra Fort, Agra, UP",
+      "howTo": "Visit Agra Fort.",
+      "badge": "badges/agra-fort.png"
+    },
+    {
+      "id": "mehtab-bagh",
+      "name": "Mehtab Bagh",
+      "lat": 27.1805,
+      "lng": 78.0425,
+      "radiusM": 200,
+      "address": "Mehtab Bagh, Agra, UP",
+      "howTo": "Visit Mehtab Bagh.",
+      "badge": "badges/mehtab-bagh.png"
+    },
+    {
+      "id": "itimad-ud-daulah",
+      "name": "Itimad-ud-Daulah",
+      "lat": 27.1928,
+      "lng": 78.0309,
+      "radiusM": 150,
+      "address": "Itimad-ud-Daulah, Agra, UP",
+      "howTo": "Visit Itimad-ud-Daulah.",
+      "badge": "badges/itimad-ud-daulah.png"
+    },
+    {
+      "id": "fatehpur-sikri",
+      "name": "Fatehpur Sikri",
+      "lat": 27.0945,
+      "lng": 77.661,
+      "radiusM": 300,
+      "address": "Fatehpur Sikri, Agra, UP",
+      "howTo": "Visit Fatehpur Sikri.",
+      "badge": "badges/fatehpur-sikri.png"
+    }
+  ]
+}

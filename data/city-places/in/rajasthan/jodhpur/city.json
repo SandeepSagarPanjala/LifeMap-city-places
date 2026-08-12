@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/rajasthan/jodhpur",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "RJ",
+  "stateName": "Rajasthan",
+  "cityName": "Jodhpur",
+  "bbox": {
+    "minLat": 26.27,
+    "minLng": 73.0,
+    "maxLat": 26.32,
+    "maxLng": 73.05
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mehrangarh-fort",
+      "name": "Mehrangarh Fort",
+      "lat": 26.298,
+      "lng": 73.0183,
+      "radiusM": 250,
+      "address": "Mehrangarh Fort, Jodhpur, RJ",
+      "howTo": "Visit Mehrangarh Fort.",
+      "badge": "badges/mehrangarh-fort.png"
+    },
+    {
+      "id": "jaswant-thada",
+      "name": "Jaswant Thada",
+      "lat": 26.2919,
+      "lng": 73.0242,
+      "radiusM": 120,
+      "address": "Jaswant Thada, Jodhpur, RJ",
+      "howTo": "Visit Jaswant Thada.",
+      "badge": "badges/jaswant-thada.png"
+    },
+    {
+      "id": "umaid-bhawan",
+      "name": "Umaid Bhawan Palace",
+      "lat": 26.2809,
+      "lng": 73.0477,
+      "radiusM": 200,
+      "address": "Umaid Bhawan Palace, Jodhpur, RJ",
+      "howTo": "Visit Umaid Bhawan Palace.",
+      "badge": "badges/umaid-bhawan.png"
+    },
+    {
+      "id": "clock-tower-jodhpur",
+      "name": "Clock Tower & Sardar Market",
+      "lat": 26.2945,
+      "lng": 73.024,
+      "radiusM": 120,
+      "address": "Ghanta Ghar, Jodhpur, RJ",
+      "howTo": "Visit Clock Tower & Sardar Market.",
+      "badge": "badges/clock-tower-jodhpur.png"
+    },
+    {
+      "id": "mandore-gardens",
+      "name": "Mandore Gardens",
+      "lat": 26.3515,
+      "lng": 73.0335,
+      "radiusM": 200,
+      "address": "Mandore, Jodhpur, RJ",
+      "howTo": "Visit Mandore Gardens.",
+      "badge": "badges/mandore-gardens.png"
+    }
+  ]
+}

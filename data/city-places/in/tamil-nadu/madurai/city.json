@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/madurai",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Madurai",
+  "bbox": {
+    "minLat": 9.9,
+    "minLng": 78.1,
+    "maxLat": 9.95,
+    "maxLng": 78.15
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "meenakshi-temple",
+      "name": "Meenakshi Amman Temple",
+      "lat": 9.9195,
+      "lng": 78.1193,
+      "radiusM": 200,
+      "address": "Meenakshi Temple, Madurai, TN",
+      "howTo": "Visit Meenakshi Amman Temple.",
+      "badge": "badges/meenakshi-temple.png"
+    },
+    {
+      "id": "thirumalai-nayakkar",
+      "name": "Thirumalai Nayakkar Mahal",
+      "lat": 9.915,
+      "lng": 78.1235,
+      "radiusM": 150,
+      "address": "Thirumalai Nayakkar Palace, Madurai, TN",
+      "howTo": "Visit Thirumalai Nayakkar Mahal.",
+      "badge": "badges/thirumalai-nayakkar.png"
+    },
+    {
+      "id": "gandhi-museum-madurai",
+      "name": "Gandhi Memorial Museum",
+      "lat": 9.9305,
+      "lng": 78.1385,
+      "radiusM": 120,
+      "address": "Gandhi Museum, Madurai, TN",
+      "howTo": "Visit Gandhi Memorial Museum.",
+      "badge": "badges/gandhi-museum-madurai.png"
+    },
+    {
+      "id": "vandiyur-mariamman-teppakulam",
+      "name": "Vandiyur Mariamman Teppakulam",
+      "lat": 9.9155,
+      "lng": 78.1485,
+      "radiusM": 150,
+      "address": "Teppakulam, Madurai, TN",
+      "howTo": "Visit Vandiyur Mariamman Teppakulam.",
+      "badge": "badges/vandiyur-mariamman-teppakulam.png"
+    }
+  ]
+}

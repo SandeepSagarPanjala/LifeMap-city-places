@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/mahabalipuram",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Mahabalipuram",
+  "bbox": {
+    "minLat": 12.61,
+    "minLng": 80.18,
+    "maxLat": 12.63,
+    "maxLng": 80.2
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shore-temple",
+      "name": "Shore Temple",
+      "lat": 12.6165,
+      "lng": 80.199,
+      "radiusM": 150,
+      "address": "Shore Temple, Mahabalipuram, TN",
+      "howTo": "Visit Shore Temple.",
+      "badge": "badges/shore-temple.png"
+    },
+    {
+      "id": "pancha-rathas",
+      "name": "Pancha Rathas",
+      "lat": 12.6085,
+      "lng": 80.1915,
+      "radiusM": 150,
+      "address": "Pancha Rathas, Mahabalipuram, TN",
+      "howTo": "Visit Pancha Rathas.",
+      "badge": "badges/pancha-rathas.png"
+    },
+    {
+      "id": "arjuna-penance",
+      "name": "Arjuna's Penance",
+      "lat": 12.6175,
+      "lng": 80.1925,
+      "radiusM": 100,
+      "address": "Arjuna's Penance, Mahabalipuram, TN",
+      "howTo": "Visit Arjuna's Penance.",
+      "badge": "badges/arjuna-penance.png"
+    },
+    {
+      "id": "krishna-butterball",
+      "name": "Krishna's Butter Ball",
+      "lat": 12.6205,
+      "lng": 80.192,
+      "radiusM": 80,
+      "address": "Krishna Butter Ball, Mahabalipuram, TN",
+      "howTo": "Visit Krishna's Butter Ball.",
+      "badge": "badges/krishna-butterball.png"
+    }
+  ]
+}

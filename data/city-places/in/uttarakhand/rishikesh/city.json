@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttarakhand/rishikesh",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UK",
+  "stateName": "Uttarakhand",
+  "cityName": "Rishikesh",
+  "bbox": {
+    "minLat": 30.08,
+    "minLng": 78.26,
+    "maxLat": 30.13,
+    "maxLng": 78.32
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lakshman-jhula",
+      "name": "Lakshman Jhula",
+      "lat": 30.1265,
+      "lng": 78.3305,
+      "radiusM": 120,
+      "address": "Lakshman Jhula, Rishikesh, UK",
+      "howTo": "Visit Lakshman Jhula.",
+      "badge": "badges/lakshman-jhula.png"
+    },
+    {
+      "id": "ram-jhula",
+      "name": "Ram Jhula",
+      "lat": 30.1235,
+      "lng": 78.3135,
+      "radiusM": 120,
+      "address": "Ram Jhula, Rishikesh, UK",
+      "howTo": "Visit Ram Jhula.",
+      "badge": "badges/ram-jhula.png"
+    },
+    {
+      "id": "triveni-ghat-rishikesh",
+      "name": "Triveni Ghat",
+      "lat": 30.1035,
+      "lng": 78.2945,
+      "radiusM": 150,
+      "address": "Triveni Ghat, Rishikesh, UK",
+      "howTo": "Visit Triveni Ghat.",
+      "badge": "badges/triveni-ghat-rishikesh.png"
+    },
+    {
+      "id": "beatles-ashram",
+      "name": "Beatles Ashram",
+      "lat": 30.1195,
+      "lng": 78.3165,
+      "radiusM": 150,
+      "address": "Beatles Ashram, Rishikesh, UK",
+      "howTo": "Visit Beatles Ashram.",
+      "badge": "badges/beatles-ashram.png"
+    }
+  ]
+}

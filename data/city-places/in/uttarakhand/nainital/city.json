@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttarakhand/nainital",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UK",
+  "stateName": "Uttarakhand",
+  "cityName": "Nainital",
+  "bbox": {
+    "minLat": 29.37,
+    "minLng": 79.44,
+    "maxLat": 29.4,
+    "maxLng": 79.47
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "naini-lake",
+      "name": "Naini Lake",
+      "lat": 29.3805,
+      "lng": 79.4635,
+      "radiusM": 200,
+      "address": "Naini Lake, Nainital, UK",
+      "howTo": "Visit Naini Lake.",
+      "badge": "badges/naini-lake.png"
+    },
+    {
+      "id": "naina-devi-temple",
+      "name": "Naina Devi Temple",
+      "lat": 29.3915,
+      "lng": 79.4565,
+      "radiusM": 100,
+      "address": "Naina Devi Temple, Nainital, UK",
+      "howTo": "Visit Naina Devi Temple.",
+      "badge": "badges/naina-devi-temple.png"
+    },
+    {
+      "id": "snow-view-nainital",
+      "name": "Snow View Point",
+      "lat": 29.4015,
+      "lng": 79.4525,
+      "radiusM": 120,
+      "address": "Snow View, Nainital, UK",
+      "howTo": "Visit Snow View Point.",
+      "badge": "badges/snow-view-nainital.png"
+    },
+    {
+      "id": "tiffin-top",
+      "name": "Tiffin Top",
+      "lat": 29.3785,
+      "lng": 79.4405,
+      "radiusM": 120,
+      "address": "Tiffin Top / Dorothy's Seat, Nainital, UK",
+      "howTo": "Visit Tiffin Top.",
+      "badge": "badges/tiffin-top.png"
+    }
+  ]
+}

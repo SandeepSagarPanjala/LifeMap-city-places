@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "in/west-bengal/kolkata",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "WB",
+  "stateName": "West Bengal",
+  "cityName": "Kolkata",
+  "bbox": {
+    "minLat": 22.5,
+    "minLng": 88.3,
+    "maxLat": 22.6,
+    "maxLng": 88.4
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "victoria-memorial",
+      "name": "Victoria Memorial",
+      "lat": 22.5448,
+      "lng": 88.3426,
+      "radiusM": 200,
+      "address": "Victoria Memorial, Kolkata, WB",
+      "howTo": "Visit Victoria Memorial.",
+      "badge": "badges/victoria-memorial.png"
+    },
+    {
+      "id": "howrah-bridge",
+      "name": "Howrah Bridge",
+      "lat": 22.585,
+      "lng": 88.3468,
+      "radiusM": 200,
+      "address": "Howrah Bridge, Kolkata, WB",
+      "howTo": "Visit Howrah Bridge.",
+      "badge": "badges/howrah-bridge.png"
+    },
+    {
+      "id": "dakshineswar",
+      "name": "Dakshineswar Kali Temple",
+      "lat": 22.655,
+      "lng": 88.3575,
+      "radiusM": 150,
+      "address": "Dakshineswar, Kolkata, WB",
+      "howTo": "Visit Dakshineswar Kali Temple.",
+      "badge": "badges/dakshineswar.png"
+    },
+    {
+      "id": "indian-museum-kolkata",
+      "name": "Indian Museum",
+      "lat": 22.5579,
+      "lng": 88.3511,
+      "radiusM": 120,
+      "address": "Indian Museum, Kolkata, WB",
+      "howTo": "Visit Indian Museum.",
+      "badge": "badges/indian-museum-kolkata.png"
+    },
+    {
+      "id": "kalighat-temple",
+      "name": "Kalighat Kali Temple",
+      "lat": 22.52,
+      "lng": 88.342,
+      "radiusM": 120,
+      "address": "Kalighat, Kolkata, WB",
+      "howTo": "Visit Kalighat Kali Temple.",
+      "badge": "badges/kalighat-temple.png"
+    },
+    {
+      "id": "eden-gardens",
+      "name": "Eden Gardens",
+      "lat": 22.5646,
+      "lng": 88.3433,
+      "radiusM": 200,
+      "address": "Eden Gardens, Kolkata, WB",
+      "howTo": "Visit Eden Gardens.",
+      "badge": "badges/eden-gardens.png"
+    },
+    {
+      "id": "prinsep-ghat",
+      "name": "Prinsep Ghat",
+      "lat": 22.5465,
+      "lng": 88.3315,
+      "radiusM": 150,
+      "address": "Prinsep Ghat, Kolkata, WB",
+      "howTo": "Visit Prinsep Ghat.",
+      "badge": "badges/prinsep-ghat.png"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/tamil-nadu/chennai",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "TN",
+  "stateName": "Tamil Nadu",
+  "cityName": "Chennai",
+  "bbox": {
+    "minLat": 12.95,
+    "minLng": 80.2,
+    "maxLat": 13.1,
+    "maxLng": 80.3
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "marina-beach",
+      "name": "Marina Beach",
+      "lat": 13.05,
+      "lng": 80.2824,
+      "radiusM": 300,
+      "address": "Marina Beach, Chennai, TN",
+      "howTo": "Visit Marina Beach.",
+      "badge": "badges/marina-beach.png"
+    },
+    {
+      "id": "kapaleeshwarar",
+      "name": "Kapaleeshwarar Temple",
+      "lat": 13.0337,
+      "lng": 80.2697,
+      "radiusM": 120,
+      "address": "Mylapore, Chennai, TN",
+      "howTo": "Visit Kapaleeshwarar Temple.",
+      "badge": "badges/kapaleeshwarar.png"
+    },
+    {
+      "id": "fort-st-george",
+      "name": "Fort St. George",
+      "lat": 13.0802,
+      "lng": 80.2874,
+      "radiusM": 200,
+      "address": "Fort St George, Chennai, TN",
+      "howTo": "Visit Fort St. George.",
+      "badge": "badges/fort-st-george.png"
+    },
+    {
+      "id": "santhome-basilica",
+      "name": "San Thome Basilica",
+      "lat": 13.0335,
+      "lng": 80.2777,
+      "radiusM": 120,
+      "address": "San Thome, Chennai, TN",
+      "howTo": "Visit San Thome Basilica.",
+      "badge": "badges/santhome-basilica.png"
+    },
+    {
+      "id": "guindy-national-park",
+      "name": "Guindy National Park",
+      "lat": 13.0067,
+      "lng": 80.2206,
+      "radiusM": 250,
+      "address": "Guindy, Chennai, TN",
+      "howTo": "Visit Guindy National Park.",
+      "badge": "badges/guindy-national-park.png"
+    },
+    {
+      "id": "valluvar-kottam",
+      "name": "Valluvar Kottam",
+      "lat": 13.0545,
+      "lng": 80.242,
+      "radiusM": 120,
+      "address": "Valluvar Kottam, Chennai, TN",
+      "howTo": "Visit Valluvar Kottam.",
+      "badge": "badges/valluvar-kottam.png"
+    }
+  ]
+}

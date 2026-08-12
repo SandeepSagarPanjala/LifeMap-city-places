@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttarakhand/dehradun",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UK",
+  "stateName": "Uttarakhand",
+  "cityName": "Dehradun",
+  "bbox": {
+    "minLat": 30.3,
+    "minLng": 78.0,
+    "maxLat": 30.36,
+    "maxLng": 78.08
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "robbers-cave",
+      "name": "Robber's Cave",
+      "lat": 30.3755,
+      "lng": 78.0805,
+      "radiusM": 150,
+      "address": "Robber's Cave, Dehradun, UK",
+      "howTo": "Visit Robber's Cave.",
+      "badge": "badges/robbers-cave.png"
+    },
+    {
+      "id": "sahastradhara",
+      "name": "Sahastradhara",
+      "lat": 30.3875,
+      "lng": 78.1235,
+      "radiusM": 200,
+      "address": "Sahastradhara, Dehradun, UK",
+      "howTo": "Visit Sahastradhara.",
+      "badge": "badges/sahastradhara.png"
+    },
+    {
+      "id": "mindrolling-monastery",
+      "name": "Mindrolling Monastery",
+      "lat": 30.2855,
+      "lng": 78.0585,
+      "radiusM": 150,
+      "address": "Mindrolling Monastery, Dehradun, UK",
+      "howTo": "Visit Mindrolling Monastery.",
+      "badge": "badges/mindrolling-monastery.png"
+    },
+    {
+      "id": "forest-research-institute",
+      "name": "Forest Research Institute",
+      "lat": 30.3415,
+      "lng": 77.9995,
+      "radiusM": 200,
+      "address": "FRI, Dehradun, UK",
+      "howTo": "Visit Forest Research Institute.",
+      "badge": "badges/forest-research-institute.png"
+    }
+  ]
+}

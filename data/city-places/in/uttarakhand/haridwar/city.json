@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/uttarakhand/haridwar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "UK",
+  "stateName": "Uttarakhand",
+  "cityName": "Haridwar",
+  "bbox": {
+    "minLat": 29.93,
+    "minLng": 78.14,
+    "maxLat": 29.98,
+    "maxLng": 78.18
+  },
+  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "har-ki-pauri",
+      "name": "Har Ki Pauri",
+      "lat": 29.9565,
+      "lng": 78.1715,
+      "radiusM": 150,
+      "address": "Har Ki Pauri, Haridwar, UK",
+      "howTo": "Visit Har Ki Pauri.",
+      "badge": "badges/har-ki-pauri.png"
+    },
+    {
+      "id": "mansa-devi-haridwar",
+      "name": "Mansa Devi Temple",
+      "lat": 29.9585,
+      "lng": 78.1645,
+      "radiusM": 120,
+      "address": "Mansa Devi Temple, Haridwar, UK",
+      "howTo": "Visit Mansa Devi Temple.",
+      "badge": "badges/mansa-devi-haridwar.png"
+    },
+    {
+      "id": "chandi-devi",
+      "name": "Chandi Devi Temple",
+      "lat": 29.9335,
+      "lng": 78.1785,
+      "radiusM": 120,
+      "address": "Chandi Devi Temple, Haridwar, UK",
+      "howTo": "Visit Chandi Devi Temple.",
+      "badge": "badges/chandi-devi.png"
+    },
+    {
+      "id": "daksha-mahadev",
+      "name": "Daksha Mahadev Temple",
+      "lat": 29.9455,
+      "lng": 78.1485,
+      "radiusM": 100,
+      "address": "Daksha Mahadev Temple, Haridwar, UK",
+      "howTo": "Visit Daksha Mahadev Temple.",
+      "badge": "badges/daksha-mahadev.png"
+    }
+  ]
+}
