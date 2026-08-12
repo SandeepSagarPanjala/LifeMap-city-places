@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/gujarat/ahmedabad",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GJ",
+  "stateName": "Gujarat",
+  "cityName": "Ahmedabad",
+  "bbox": {
+    "minLat": 23.0,
+    "minLng": 72.52,
+    "maxLat": 23.1,
+    "maxLng": 72.64
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sabarmati-ashram",
+      "name": "Sabarmati Ashram",
+      "lat": 23.0605,
+      "lng": 72.5808,
+      "radiusM": 150,
+      "address": "Ashram Rd, Ahmedabad, GJ",
+      "howTo": "Visit Sabarmati Ashram.",
+      "badge": "badges/sabarmati-ashram.png"
+    },
+    {
+      "id": "sidi-saiyyed-mosque",
+      "name": "Sidi Saiyyed Mosque",
+      "lat": 23.0265,
+      "lng": 72.5815,
+      "radiusM": 100,
+      "address": "Lal Darwaza, Ahmedabad, GJ",
+      "howTo": "Visit Sidi Saiyyed Mosque.",
+      "badge": "badges/sidi-saiyyed-mosque.png"
+    },
+    {
+      "id": "kankaria-lake",
+      "name": "Kankaria Lake",
+      "lat": 23.006,
+      "lng": 72.6015,
+      "radiusM": 250,
+      "address": "Kankaria, Ahmedabad, GJ",
+      "howTo": "Visit Kankaria Lake.",
+      "badge": "badges/kankaria-lake.png"
+    },
+    {
+      "id": "jama-masjid-ahmedabad",
+      "name": "Jama Masjid",
+      "lat": 23.0245,
+      "lng": 72.5885,
+      "radiusM": 120,
+      "address": "Manek Chowk, Ahmedabad, GJ",
+      "howTo": "Visit Jama Masjid.",
+      "badge": "badges/jama-masjid-ahmedabad.png"
+    },
+    {
+      "id": "sabarmati-riverfront",
+      "name": "Sabarmati Riverfront",
+      "lat": 23.0395,
+      "lng": 72.5725,
+      "radiusM": 250,
+      "address": "Sabarmati Riverfront, Ahmedabad, GJ",
+      "howTo": "Visit Sabarmati Riverfront.",
+      "badge": "badges/sabarmati-riverfront.png"
+    },
+    {
+      "id": "adalaj-stepwell",
+      "name": "Adalaj Stepwell",
+      "lat": 23.1665,
+      "lng": 72.5805,
+      "radiusM": 150,
+      "address": "Adalaj, Ahmedabad, GJ",
+      "howTo": "Visit Adalaj Stepwell.",
+      "badge": "badges/adalaj-stepwell.png"
+    }
+  ]
+}

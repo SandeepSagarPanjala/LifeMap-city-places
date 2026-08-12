@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/bihar/bodh-gaya",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "BR",
+  "stateName": "Bihar",
+  "cityName": "Bodh Gaya",
+  "bbox": {
+    "minLat": 24.68,
+    "minLng": 84.98,
+    "maxLat": 24.72,
+    "maxLng": 85.02
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mahabodhi-temple",
+      "name": "Mahabodhi Temple",
+      "lat": 24.6959,
+      "lng": 84.9914,
+      "radiusM": 150,
+      "address": "Bodh Gaya, BR",
+      "howTo": "Visit the Mahabodhi Temple.",
+      "badge": "badges/mahabodhi-temple.png"
+    },
+    {
+      "id": "great-buddha-statue",
+      "name": "Great Buddha Statue",
+      "lat": 24.6965,
+      "lng": 84.9815,
+      "radiusM": 120,
+      "address": "Bodh Gaya, BR",
+      "howTo": "Visit the Great Buddha Statue.",
+      "badge": "badges/great-buddha-statue.png"
+    },
+    {
+      "id": "thai-monastery",
+      "name": "Thai Monastery",
+      "lat": 24.6945,
+      "lng": 84.9885,
+      "radiusM": 120,
+      "address": "Bodh Gaya, BR",
+      "howTo": "Visit the Thai Monastery.",
+      "badge": "badges/thai-monastery.png"
+    },
+    {
+      "id": "bodhi-tree",
+      "name": "Bodhi Tree",
+      "lat": 24.6961,
+      "lng": 84.9913,
+      "radiusM": 80,
+      "address": "Mahabodhi Temple, Bodh Gaya, BR",
+      "howTo": "Visit the Bodhi Tree.",
+      "badge": "badges/bodhi-tree.png"
+    }
+  ]
+}

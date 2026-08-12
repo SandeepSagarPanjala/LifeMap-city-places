@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/himachal-pradesh/manali",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "HP",
+  "stateName": "Himachal Pradesh",
+  "cityName": "Manali",
+  "bbox": {
+    "minLat": 32.22,
+    "minLng": 77.16,
+    "maxLat": 32.28,
+    "maxLng": 77.22
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hadimba-temple",
+      "name": "Hadimba Temple",
+      "lat": 32.2485,
+      "lng": 77.1815,
+      "radiusM": 120,
+      "address": "Old Manali, HP",
+      "howTo": "Visit Hadimba Temple.",
+      "badge": "badges/hadimba-temple.png"
+    },
+    {
+      "id": "solang-valley",
+      "name": "Solang Valley",
+      "lat": 32.3165,
+      "lng": 77.1575,
+      "radiusM": 300,
+      "address": "Solang, Manali, HP",
+      "howTo": "Visit Solang Valley.",
+      "badge": "badges/solang-valley.png"
+    },
+    {
+      "id": "mall-road-manali",
+      "name": "Mall Road Manali",
+      "lat": 32.2395,
+      "lng": 77.1885,
+      "radiusM": 150,
+      "address": "Mall Rd, Manali, HP",
+      "howTo": "Walk Mall Road in Manali.",
+      "badge": "badges/mall-road-manali.png"
+    },
+    {
+      "id": "vashisht-temple",
+      "name": "Vashisht Temple",
+      "lat": 32.2655,
+      "lng": 77.1885,
+      "radiusM": 120,
+      "address": "Vashisht, Manali, HP",
+      "howTo": "Visit Vashisht Temple.",
+      "badge": "badges/vashisht-temple.png"
+    }
+  ]
+}

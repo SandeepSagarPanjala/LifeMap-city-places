@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/goa/old-goa",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GA",
+  "stateName": "Goa",
+  "cityName": "Old Goa",
+  "bbox": {
+    "minLat": 15.49,
+    "minLng": 73.9,
+    "maxLat": 15.51,
+    "maxLng": 73.93
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-of-bom-jesus",
+      "name": "Basilica of Bom Jesus",
+      "lat": 15.5009,
+      "lng": 73.9116,
+      "radiusM": 120,
+      "address": "Old Goa, GA",
+      "howTo": "Visit the Basilica of Bom Jesus.",
+      "badge": "badges/basilica-of-bom-jesus.png"
+    },
+    {
+      "id": "se-cathedral",
+      "name": "Se Cathedral",
+      "lat": 15.5035,
+      "lng": 73.9125,
+      "radiusM": 120,
+      "address": "Old Goa, GA",
+      "howTo": "Visit Se Cathedral.",
+      "badge": "badges/se-cathedral.png"
+    },
+    {
+      "id": "church-of-st-cajetan",
+      "name": "Church of St. Cajetan",
+      "lat": 15.5055,
+      "lng": 73.9115,
+      "radiusM": 100,
+      "address": "Old Goa, GA",
+      "howTo": "Visit the Church of St. Cajetan.",
+      "badge": "badges/church-of-st-cajetan.png"
+    },
+    {
+      "id": "archaeological-museum-old-goa",
+      "name": "Archaeological Museum of Goa",
+      "lat": 15.503,
+      "lng": 73.9135,
+      "radiusM": 100,
+      "address": "Old Goa, GA",
+      "howTo": "Visit the Archaeological Museum of Goa.",
+      "badge": "badges/archaeological-museum-old-goa.png"
+    }
+  ]
+}

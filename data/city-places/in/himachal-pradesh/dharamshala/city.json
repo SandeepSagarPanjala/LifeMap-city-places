@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/himachal-pradesh/dharamshala",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "HP",
+  "stateName": "Himachal Pradesh",
+  "cityName": "Dharamshala",
+  "bbox": {
+    "minLat": 32.2,
+    "minLng": 76.3,
+    "maxLat": 32.25,
+    "maxLng": 76.35
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tsuglagkhang",
+      "name": "Tsuglagkhang Complex",
+      "lat": 32.2365,
+      "lng": 76.3245,
+      "radiusM": 150,
+      "address": "McLeod Ganj, Dharamshala, HP",
+      "howTo": "Visit the Tsuglagkhang Complex.",
+      "badge": "badges/tsuglagkhang.png"
+    },
+    {
+      "id": "mcleod-ganj",
+      "name": "McLeod Ganj",
+      "lat": 32.2395,
+      "lng": 76.3215,
+      "radiusM": 200,
+      "address": "McLeod Ganj, Dharamshala, HP",
+      "howTo": "Visit McLeod Ganj.",
+      "badge": "badges/mcleod-ganj.png"
+    },
+    {
+      "id": "bhagsu-waterfall",
+      "name": "Bhagsu Waterfall",
+      "lat": 32.2485,
+      "lng": 76.3305,
+      "radiusM": 200,
+      "address": "Bhagsu, Dharamshala, HP",
+      "howTo": "Visit Bhagsu Waterfall.",
+      "badge": "badges/bhagsu-waterfall.png"
+    },
+    {
+      "id": "namgyal-monastery",
+      "name": "Namgyal Monastery",
+      "lat": 32.236,
+      "lng": 76.324,
+      "radiusM": 120,
+      "address": "McLeod Ganj, Dharamshala, HP",
+      "howTo": "Visit Namgyal Monastery.",
+      "badge": "badges/namgyal-monastery.png"
+    }
+  ]
+}

@@ -22,7 +22,7 @@ Only add **popular / destination cities** to `index.json`:
 - Famous tourist towns (e.g. Sedona, Savannah, Bar Harbor, Moab)
 - Skip ordinary suburbs, tiny towns, and places with no clear visitor draw
 
-Rough scale: **a few cities per state** (often ~2–8), not hundreds. Worldwide: expand **country by country**; start with **United States**.
+Rough scale: **a few cities per state** (often ~2–8), not hundreds. Worldwide: expand **country by country**; United States is complete; next is **India**.
 
 Cities not in the index simply have no city-places pack. Category achievements still work everywhere.
 

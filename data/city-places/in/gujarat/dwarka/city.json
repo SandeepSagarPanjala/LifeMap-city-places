@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/gujarat/dwarka",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GJ",
+  "stateName": "Gujarat",
+  "cityName": "Dwarka",
+  "bbox": {
+    "minLat": 22.23,
+    "minLng": 68.95,
+    "maxLat": 22.28,
+    "maxLng": 69.02
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dwarkadhish-temple",
+      "name": "Dwarkadhish Temple",
+      "lat": 22.238,
+      "lng": 68.9674,
+      "radiusM": 150,
+      "address": "Dwarka, GJ",
+      "howTo": "Visit Dwarkadhish Temple.",
+      "badge": "badges/dwarkadhish-temple.png"
+    },
+    {
+      "id": "rukmini-devi-temple",
+      "name": "Rukmini Devi Temple",
+      "lat": 22.2585,
+      "lng": 68.9785,
+      "radiusM": 120,
+      "address": "Dwarka, GJ",
+      "howTo": "Visit Rukmini Devi Temple.",
+      "badge": "badges/rukmini-devi-temple.png"
+    },
+    {
+      "id": "dwarka-beach",
+      "name": "Dwarka Beach",
+      "lat": 22.2365,
+      "lng": 68.9585,
+      "radiusM": 250,
+      "address": "Dwarka, GJ",
+      "howTo": "Visit Dwarka Beach.",
+      "badge": "badges/dwarka-beach.png"
+    },
+    {
+      "id": "bet-dwarka",
+      "name": "Bet Dwarka",
+      "lat": 22.4495,
+      "lng": 69.0885,
+      "radiusM": 200,
+      "address": "Bet Dwarka, GJ",
+      "howTo": "Visit Bet Dwarka.",
+      "badge": "badges/bet-dwarka.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/gujarat/vadodara",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GJ",
+  "stateName": "Gujarat",
+  "cityName": "Vadodara",
+  "bbox": {
+    "minLat": 22.28,
+    "minLng": 73.16,
+    "maxLat": 22.34,
+    "maxLng": 73.22
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "laxmi-vilas-palace",
+      "name": "Laxmi Vilas Palace",
+      "lat": 22.2935,
+      "lng": 73.1945,
+      "radiusM": 200,
+      "address": "J.N. Marg, Vadodara, GJ",
+      "howTo": "Visit Laxmi Vilas Palace.",
+      "badge": "badges/laxmi-vilas-palace.png"
+    },
+    {
+      "id": "sayaji-baug",
+      "name": "Sayaji Baug",
+      "lat": 22.3115,
+      "lng": 73.1895,
+      "radiusM": 250,
+      "address": "Sayaji Baug, Vadodara, GJ",
+      "howTo": "Visit Sayaji Baug.",
+      "badge": "badges/sayaji-baug.png"
+    },
+    {
+      "id": "maharaja-fateh-singh-museum",
+      "name": "Maharaja Fateh Singh Museum",
+      "lat": 22.2945,
+      "lng": 73.1955,
+      "radiusM": 120,
+      "address": "Laxmi Vilas Palace, Vadodara, GJ",
+      "howTo": "Visit Maharaja Fateh Singh Museum.",
+      "badge": "badges/maharaja-fateh-singh-museum.png"
+    },
+    {
+      "id": "kirti-mandir-vadodara",
+      "name": "Kirti Mandir",
+      "lat": 22.3075,
+      "lng": 73.1915,
+      "radiusM": 100,
+      "address": "Vadodara, GJ",
+      "howTo": "Visit Kirti Mandir.",
+      "badge": "badges/kirti-mandir-vadodara.png"
+    }
+  ]
+}

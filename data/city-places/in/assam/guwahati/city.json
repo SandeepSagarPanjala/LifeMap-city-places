@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/assam/guwahati",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AS",
+  "stateName": "Assam",
+  "cityName": "Guwahati",
+  "bbox": {
+    "minLat": 26.12,
+    "minLng": 91.68,
+    "maxLat": 26.22,
+    "maxLng": 91.82
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kamakhya-temple",
+      "name": "Kamakhya Temple",
+      "lat": 26.1664,
+      "lng": 91.7055,
+      "radiusM": 150,
+      "address": "Nilachal Hill, Guwahati, AS",
+      "howTo": "Visit Kamakhya Temple.",
+      "badge": "badges/kamakhya-temple.png"
+    },
+    {
+      "id": "umananda-temple",
+      "name": "Umananda Temple",
+      "lat": 26.1965,
+      "lng": 91.7455,
+      "radiusM": 120,
+      "address": "Peacock Island, Guwahati, AS",
+      "howTo": "Visit Umananda Temple.",
+      "badge": "badges/umananda-temple.png"
+    },
+    {
+      "id": "assam-state-zoo",
+      "name": "Assam State Zoo",
+      "lat": 26.1635,
+      "lng": 91.7855,
+      "radiusM": 200,
+      "address": "RG Baruah Rd, Guwahati, AS",
+      "howTo": "Visit Assam State Zoo.",
+      "badge": "badges/assam-state-zoo.png"
+    },
+    {
+      "id": "brahmaputra-riverfront",
+      "name": "Brahmaputra Riverfront",
+      "lat": 26.1855,
+      "lng": 91.745,
+      "radiusM": 250,
+      "address": "Riverfront, Guwahati, AS",
+      "howTo": "Visit the Brahmaputra riverfront.",
+      "badge": "badges/brahmaputra-riverfront.png"
+    },
+    {
+      "id": "kalakshetra",
+      "name": "Srimanta Sankardev Kalakshetra",
+      "lat": 26.1435,
+      "lng": 91.7905,
+      "radiusM": 150,
+      "address": "Panjabari, Guwahati, AS",
+      "howTo": "Visit Srimanta Sankardev Kalakshetra.",
+      "badge": "badges/kalakshetra.png"
+    }
+  ]
+}

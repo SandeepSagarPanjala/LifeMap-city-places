@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "cursor": null,
-  "updatedAt": "2026-08-11T22:17:09.000Z",
-  "notes": "USA curated popular cities complete. Expand other countries next. Complete cities must include bbox on the index row (Option A).",
+  "cursor": "in/karnataka/bengaluru",
+  "updatedAt": "2026-08-12T00:36:40.000Z",
+  "notes": "USA complete. India curated popular cities in progress. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -2855,6 +2855,1099 @@
                 "maxLat": 38.99,
                 "maxLng": -76.91
               }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in",
+      "countryCode": "IN",
+      "name": "India",
+      "states": [
+        {
+          "id": "andhra-pradesh",
+          "stateCode": "AP",
+          "name": "Andhra Pradesh",
+          "cities": [
+            {
+              "id": "visakhapatnam",
+              "name": "Visakhapatnam",
+              "status": "complete",
+              "packPath": "in/andhra-pradesh/visakhapatnam/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 17.68,
+                "minLng": 83.18,
+                "maxLat": 17.82,
+                "maxLng": 83.42
+              }
+            },
+            {
+              "id": "vijayawada",
+              "name": "Vijayawada",
+              "status": "complete",
+              "packPath": "in/andhra-pradesh/vijayawada/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 16.48,
+                "minLng": 80.58,
+                "maxLat": 16.56,
+                "maxLng": 80.72
+              }
+            },
+            {
+              "id": "tirupati",
+              "name": "Tirupati",
+              "status": "complete",
+              "packPath": "in/andhra-pradesh/tirupati/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 13.62,
+                "minLng": 79.38,
+                "maxLat": 13.7,
+                "maxLng": 79.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "arunachal-pradesh",
+          "stateCode": "AR",
+          "name": "Arunachal Pradesh",
+          "cities": [
+            {
+              "id": "itanagar",
+              "name": "Itanagar",
+              "status": "complete",
+              "packPath": "in/arunachal-pradesh/itanagar/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 27.06,
+                "minLng": 93.58,
+                "maxLat": 27.12,
+                "maxLng": 93.66
+              }
+            },
+            {
+              "id": "tawang",
+              "name": "Tawang",
+              "status": "complete",
+              "packPath": "in/arunachal-pradesh/tawang/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 27.54,
+                "minLng": 91.82,
+                "maxLat": 27.62,
+                "maxLng": 91.92
+              }
+            }
+          ]
+        },
+        {
+          "id": "assam",
+          "stateCode": "AS",
+          "name": "Assam",
+          "cities": [
+            {
+              "id": "guwahati",
+              "name": "Guwahati",
+              "status": "complete",
+              "packPath": "in/assam/guwahati/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 26.12,
+                "minLng": 91.68,
+                "maxLat": 26.22,
+                "maxLng": 91.82
+              }
+            },
+            {
+              "id": "kaziranga",
+              "name": "Kaziranga",
+              "status": "complete",
+              "packPath": "in/assam/kaziranga/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 26.55,
+                "minLng": 93.15,
+                "maxLat": 26.72,
+                "maxLng": 93.45
+              }
+            }
+          ]
+        },
+        {
+          "id": "bihar",
+          "stateCode": "BR",
+          "name": "Bihar",
+          "cities": [
+            {
+              "id": "patna",
+              "name": "Patna",
+              "status": "complete",
+              "packPath": "in/bihar/patna/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 25.58,
+                "minLng": 85.08,
+                "maxLat": 25.64,
+                "maxLng": 85.18
+              }
+            },
+            {
+              "id": "bodh-gaya",
+              "name": "Bodh Gaya",
+              "status": "complete",
+              "packPath": "in/bihar/bodh-gaya/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 24.68,
+                "minLng": 84.98,
+                "maxLat": 24.72,
+                "maxLng": 85.02
+              }
+            }
+          ]
+        },
+        {
+          "id": "chhattisgarh",
+          "stateCode": "CG",
+          "name": "Chhattisgarh",
+          "cities": [
+            {
+              "id": "raipur",
+              "name": "Raipur",
+              "status": "complete",
+              "packPath": "in/chhattisgarh/raipur/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 21.22,
+                "minLng": 81.6,
+                "maxLat": 21.28,
+                "maxLng": 81.68
+              }
+            }
+          ]
+        },
+        {
+          "id": "goa",
+          "stateCode": "GA",
+          "name": "Goa",
+          "cities": [
+            {
+              "id": "panaji",
+              "name": "Panaji",
+              "status": "complete",
+              "packPath": "in/goa/panaji/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 15.48,
+                "minLng": 73.8,
+                "maxLat": 15.52,
+                "maxLng": 73.86
+              }
+            },
+            {
+              "id": "old-goa",
+              "name": "Old Goa",
+              "status": "complete",
+              "packPath": "in/goa/old-goa/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 15.49,
+                "minLng": 73.9,
+                "maxLat": 15.51,
+                "maxLng": 73.93
+              }
+            },
+            {
+              "id": "calangute",
+              "name": "Calangute",
+              "status": "complete",
+              "packPath": "in/goa/calangute/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 15.52,
+                "minLng": 73.74,
+                "maxLat": 15.6,
+                "maxLng": 73.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "gujarat",
+          "stateCode": "GJ",
+          "name": "Gujarat",
+          "cities": [
+            {
+              "id": "ahmedabad",
+              "name": "Ahmedabad",
+              "status": "complete",
+              "packPath": "in/gujarat/ahmedabad/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 23.0,
+                "minLng": 72.52,
+                "maxLat": 23.1,
+                "maxLng": 72.64
+              }
+            },
+            {
+              "id": "surat",
+              "name": "Surat",
+              "status": "complete",
+              "packPath": "in/gujarat/surat/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 21.14,
+                "minLng": 72.75,
+                "maxLat": 21.22,
+                "maxLng": 72.85
+              }
+            },
+            {
+              "id": "vadodara",
+              "name": "Vadodara",
+              "status": "complete",
+              "packPath": "in/gujarat/vadodara/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 22.28,
+                "minLng": 73.16,
+                "maxLat": 22.34,
+                "maxLng": 73.22
+              }
+            },
+            {
+              "id": "dwarka",
+              "name": "Dwarka",
+              "status": "complete",
+              "packPath": "in/gujarat/dwarka/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 22.23,
+                "minLng": 68.95,
+                "maxLat": 22.28,
+                "maxLng": 69.02
+              }
+            }
+          ]
+        },
+        {
+          "id": "haryana",
+          "stateCode": "HR",
+          "name": "Haryana",
+          "cities": [
+            {
+              "id": "gurugram",
+              "name": "Gurugram",
+              "status": "complete",
+              "packPath": "in/haryana/gurugram/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 28.38,
+                "minLng": 76.98,
+                "maxLat": 28.5,
+                "maxLng": 77.12
+              }
+            },
+            {
+              "id": "kurukshetra",
+              "name": "Kurukshetra",
+              "status": "complete",
+              "packPath": "in/haryana/kurukshetra/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 29.94,
+                "minLng": 76.8,
+                "maxLat": 29.99,
+                "maxLng": 76.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "himachal-pradesh",
+          "stateCode": "HP",
+          "name": "Himachal Pradesh",
+          "cities": [
+            {
+              "id": "shimla",
+              "name": "Shimla",
+              "status": "complete",
+              "packPath": "in/himachal-pradesh/shimla/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 31.08,
+                "minLng": 77.15,
+                "maxLat": 31.12,
+                "maxLng": 77.2
+              }
+            },
+            {
+              "id": "manali",
+              "name": "Manali",
+              "status": "complete",
+              "packPath": "in/himachal-pradesh/manali/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 32.22,
+                "minLng": 77.16,
+                "maxLat": 32.28,
+                "maxLng": 77.22
+              }
+            },
+            {
+              "id": "dharamshala",
+              "name": "Dharamshala",
+              "status": "complete",
+              "packPath": "in/himachal-pradesh/dharamshala/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 32.2,
+                "minLng": 76.3,
+                "maxLat": 32.25,
+                "maxLng": 76.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "jharkhand",
+          "stateCode": "JH",
+          "name": "Jharkhand",
+          "cities": [
+            {
+              "id": "ranchi",
+              "name": "Ranchi",
+              "status": "complete",
+              "packPath": "in/jharkhand/ranchi/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-12T00:36:40.000Z",
+              "bbox": {
+                "minLat": 23.32,
+                "minLng": 85.28,
+                "maxLat": 23.4,
+                "maxLng": 85.38
+              }
+            }
+          ]
+        },
+        {
+          "id": "karnataka",
+          "stateCode": "KA",
+          "name": "Karnataka",
+          "cities": [
+            {
+              "id": "bengaluru",
+              "name": "Bengaluru",
+              "status": "pending",
+              "packPath": "in/karnataka/bengaluru/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mysuru",
+              "name": "Mysuru",
+              "status": "pending",
+              "packPath": "in/karnataka/mysuru/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "hampi",
+              "name": "Hampi",
+              "status": "pending",
+              "packPath": "in/karnataka/hampi/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mangaluru",
+              "name": "Mangaluru",
+              "status": "pending",
+              "packPath": "in/karnataka/mangaluru/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "kerala",
+          "stateCode": "KL",
+          "name": "Kerala",
+          "cities": [
+            {
+              "id": "kochi",
+              "name": "Kochi",
+              "status": "pending",
+              "packPath": "in/kerala/kochi/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "thiruvananthapuram",
+              "name": "Thiruvananthapuram",
+              "status": "pending",
+              "packPath": "in/kerala/thiruvananthapuram/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "munnar",
+              "name": "Munnar",
+              "status": "pending",
+              "packPath": "in/kerala/munnar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "alappuzha",
+              "name": "Alappuzha",
+              "status": "pending",
+              "packPath": "in/kerala/alappuzha/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "madhya-pradesh",
+          "stateCode": "MP",
+          "name": "Madhya Pradesh",
+          "cities": [
+            {
+              "id": "bhopal",
+              "name": "Bhopal",
+              "status": "pending",
+              "packPath": "in/madhya-pradesh/bhopal/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "indore",
+              "name": "Indore",
+              "status": "pending",
+              "packPath": "in/madhya-pradesh/indore/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "khajuraho",
+              "name": "Khajuraho",
+              "status": "pending",
+              "packPath": "in/madhya-pradesh/khajuraho/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "gwalior",
+              "name": "Gwalior",
+              "status": "pending",
+              "packPath": "in/madhya-pradesh/gwalior/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ujjain",
+              "name": "Ujjain",
+              "status": "pending",
+              "packPath": "in/madhya-pradesh/ujjain/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "maharashtra",
+          "stateCode": "MH",
+          "name": "Maharashtra",
+          "cities": [
+            {
+              "id": "mumbai",
+              "name": "Mumbai",
+              "status": "pending",
+              "packPath": "in/maharashtra/mumbai/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "pune",
+              "name": "Pune",
+              "status": "pending",
+              "packPath": "in/maharashtra/pune/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "nagpur",
+              "name": "Nagpur",
+              "status": "pending",
+              "packPath": "in/maharashtra/nagpur/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "aurangabad",
+              "name": "Aurangabad",
+              "status": "pending",
+              "packPath": "in/maharashtra/aurangabad/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "manipur",
+          "stateCode": "MN",
+          "name": "Manipur",
+          "cities": [
+            {
+              "id": "imphal",
+              "name": "Imphal",
+              "status": "pending",
+              "packPath": "in/manipur/imphal/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "meghalaya",
+          "stateCode": "ML",
+          "name": "Meghalaya",
+          "cities": [
+            {
+              "id": "shillong",
+              "name": "Shillong",
+              "status": "pending",
+              "packPath": "in/meghalaya/shillong/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "cherrapunji",
+              "name": "Cherrapunji",
+              "status": "pending",
+              "packPath": "in/meghalaya/cherrapunji/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "mizoram",
+          "stateCode": "MZ",
+          "name": "Mizoram",
+          "cities": [
+            {
+              "id": "aizawl",
+              "name": "Aizawl",
+              "status": "pending",
+              "packPath": "in/mizoram/aizawl/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "nagaland",
+          "stateCode": "NL",
+          "name": "Nagaland",
+          "cities": [
+            {
+              "id": "kohima",
+              "name": "Kohima",
+              "status": "pending",
+              "packPath": "in/nagaland/kohima/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "odisha",
+          "stateCode": "OD",
+          "name": "Odisha",
+          "cities": [
+            {
+              "id": "bhubaneswar",
+              "name": "Bhubaneswar",
+              "status": "pending",
+              "packPath": "in/odisha/bhubaneswar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "puri",
+              "name": "Puri",
+              "status": "pending",
+              "packPath": "in/odisha/puri/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "konark",
+              "name": "Konark",
+              "status": "pending",
+              "packPath": "in/odisha/konark/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "punjab",
+          "stateCode": "PB",
+          "name": "Punjab",
+          "cities": [
+            {
+              "id": "amritsar",
+              "name": "Amritsar",
+              "status": "pending",
+              "packPath": "in/punjab/amritsar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ludhiana",
+              "name": "Ludhiana",
+              "status": "pending",
+              "packPath": "in/punjab/ludhiana/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "rajasthan",
+          "stateCode": "RJ",
+          "name": "Rajasthan",
+          "cities": [
+            {
+              "id": "jaipur",
+              "name": "Jaipur",
+              "status": "pending",
+              "packPath": "in/rajasthan/jaipur/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "udaipur",
+              "name": "Udaipur",
+              "status": "pending",
+              "packPath": "in/rajasthan/udaipur/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "jodhpur",
+              "name": "Jodhpur",
+              "status": "pending",
+              "packPath": "in/rajasthan/jodhpur/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "jaisalmer",
+              "name": "Jaisalmer",
+              "status": "pending",
+              "packPath": "in/rajasthan/jaisalmer/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "pushkar",
+              "name": "Pushkar",
+              "status": "pending",
+              "packPath": "in/rajasthan/pushkar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "sikkim",
+          "stateCode": "SK",
+          "name": "Sikkim",
+          "cities": [
+            {
+              "id": "gangtok",
+              "name": "Gangtok",
+              "status": "pending",
+              "packPath": "in/sikkim/gangtok/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "tamil-nadu",
+          "stateCode": "TN",
+          "name": "Tamil Nadu",
+          "cities": [
+            {
+              "id": "chennai",
+              "name": "Chennai",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/chennai/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "madurai",
+              "name": "Madurai",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/madurai/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ooty",
+              "name": "Ooty",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/ooty/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mahabalipuram",
+              "name": "Mahabalipuram",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/mahabalipuram/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "kanyakumari",
+              "name": "Kanyakumari",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/kanyakumari/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "rameswaram",
+              "name": "Rameswaram",
+              "status": "pending",
+              "packPath": "in/tamil-nadu/rameswaram/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "telangana",
+          "stateCode": "TS",
+          "name": "Telangana",
+          "cities": [
+            {
+              "id": "hyderabad",
+              "name": "Hyderabad",
+              "status": "pending",
+              "packPath": "in/telangana/hyderabad/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "warangal",
+              "name": "Warangal",
+              "status": "pending",
+              "packPath": "in/telangana/warangal/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "tripura",
+          "stateCode": "TR",
+          "name": "Tripura",
+          "cities": [
+            {
+              "id": "agartala",
+              "name": "Agartala",
+              "status": "pending",
+              "packPath": "in/tripura/agartala/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "uttar-pradesh",
+          "stateCode": "UP",
+          "name": "Uttar Pradesh",
+          "cities": [
+            {
+              "id": "lucknow",
+              "name": "Lucknow",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/lucknow/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "varanasi",
+              "name": "Varanasi",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/varanasi/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "agra",
+              "name": "Agra",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/agra/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "prayagraj",
+              "name": "Prayagraj",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/prayagraj/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "mathura",
+              "name": "Mathura",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/mathura/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "ayodhya",
+              "name": "Ayodhya",
+              "status": "pending",
+              "packPath": "in/uttar-pradesh/ayodhya/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "uttarakhand",
+          "stateCode": "UK",
+          "name": "Uttarakhand",
+          "cities": [
+            {
+              "id": "dehradun",
+              "name": "Dehradun",
+              "status": "pending",
+              "packPath": "in/uttarakhand/dehradun/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "rishikesh",
+              "name": "Rishikesh",
+              "status": "pending",
+              "packPath": "in/uttarakhand/rishikesh/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "haridwar",
+              "name": "Haridwar",
+              "status": "pending",
+              "packPath": "in/uttarakhand/haridwar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "nainital",
+              "name": "Nainital",
+              "status": "pending",
+              "packPath": "in/uttarakhand/nainital/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "west-bengal",
+          "stateCode": "WB",
+          "name": "West Bengal",
+          "cities": [
+            {
+              "id": "kolkata",
+              "name": "Kolkata",
+              "status": "pending",
+              "packPath": "in/west-bengal/kolkata/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "darjeeling",
+              "name": "Darjeeling",
+              "status": "pending",
+              "packPath": "in/west-bengal/darjeeling/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "andaman-and-nicobar",
+          "stateCode": "AN",
+          "name": "Andaman and Nicobar Islands",
+          "cities": [
+            {
+              "id": "port-blair",
+              "name": "Port Blair",
+              "status": "pending",
+              "packPath": "in/andaman-and-nicobar/port-blair/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "chandigarh",
+          "stateCode": "CH",
+          "name": "Chandigarh",
+          "cities": [
+            {
+              "id": "chandigarh",
+              "name": "Chandigarh",
+              "status": "pending",
+              "packPath": "in/chandigarh/chandigarh/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "daman-and-diu",
+          "stateCode": "DD",
+          "name": "Daman and Diu",
+          "cities": [
+            {
+              "id": "daman",
+              "name": "Daman",
+              "status": "pending",
+              "packPath": "in/daman-and-diu/daman/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "diu",
+              "name": "Diu",
+              "status": "pending",
+              "packPath": "in/daman-and-diu/diu/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "delhi",
+          "stateCode": "DL",
+          "name": "Delhi",
+          "cities": [
+            {
+              "id": "delhi",
+              "name": "Delhi",
+              "status": "pending",
+              "packPath": "in/delhi/delhi/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "jammu-and-kashmir",
+          "stateCode": "JK",
+          "name": "Jammu and Kashmir",
+          "cities": [
+            {
+              "id": "srinagar",
+              "name": "Srinagar",
+              "status": "pending",
+              "packPath": "in/jammu-and-kashmir/srinagar/city.json",
+              "placeCount": null,
+              "completedAt": null
+            },
+            {
+              "id": "jammu",
+              "name": "Jammu",
+              "status": "pending",
+              "packPath": "in/jammu-and-kashmir/jammu/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "ladakh",
+          "stateCode": "LA",
+          "name": "Ladakh",
+          "cities": [
+            {
+              "id": "leh",
+              "name": "Leh",
+              "status": "pending",
+              "packPath": "in/ladakh/leh/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "lakshadweep",
+          "stateCode": "LD",
+          "name": "Lakshadweep",
+          "cities": [
+            {
+              "id": "kavaratti",
+              "name": "Kavaratti",
+              "status": "pending",
+              "packPath": "in/lakshadweep/kavaratti/city.json",
+              "placeCount": null,
+              "completedAt": null
+            }
+          ]
+        },
+        {
+          "id": "puducherry",
+          "stateCode": "PY",
+          "name": "Puducherry",
+          "cities": [
+            {
+              "id": "puducherry",
+              "name": "Puducherry",
+              "status": "pending",
+              "packPath": "in/puducherry/puducherry/city.json",
+              "placeCount": null,
+              "completedAt": null
             }
           ]
         }

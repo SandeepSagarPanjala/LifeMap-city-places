@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/arunachal-pradesh/tawang",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AR",
+  "stateName": "Arunachal Pradesh",
+  "cityName": "Tawang",
+  "bbox": {
+    "minLat": 27.54,
+    "minLng": 91.82,
+    "maxLat": 27.62,
+    "maxLng": 91.92
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tawang-monastery",
+      "name": "Tawang Monastery",
+      "lat": 27.5865,
+      "lng": 91.8595,
+      "radiusM": 200,
+      "address": "Tawang, AR",
+      "howTo": "Visit Tawang Monastery.",
+      "badge": "badges/tawang-monastery.png"
+    },
+    {
+      "id": "sela-pass",
+      "name": "Sela Pass",
+      "lat": 27.5045,
+      "lng": 92.1045,
+      "radiusM": 300,
+      "address": "Sela Pass, Tawang, AR",
+      "howTo": "Visit Sela Pass.",
+      "badge": "badges/sela-pass.png"
+    },
+    {
+      "id": "bumla-pass",
+      "name": "Bum La Pass",
+      "lat": 27.7485,
+      "lng": 91.7835,
+      "radiusM": 250,
+      "address": "Bum La Pass, Tawang, AR",
+      "howTo": "Visit Bum La Pass.",
+      "badge": "badges/bumla-pass.png"
+    },
+    {
+      "id": "ptso-lake",
+      "name": "PTSO Lake",
+      "lat": 27.6955,
+      "lng": 91.8605,
+      "radiusM": 250,
+      "address": "PTSO Lake, Tawang, AR",
+      "howTo": "Visit PTSO Lake.",
+      "badge": "badges/ptso-lake.png"
+    }
+  ]
+}

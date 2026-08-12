@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/assam/kaziranga",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AS",
+  "stateName": "Assam",
+  "cityName": "Kaziranga",
+  "bbox": {
+    "minLat": 26.55,
+    "minLng": 93.15,
+    "maxLat": 26.72,
+    "maxLng": 93.45
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kaziranga-national-park",
+      "name": "Kaziranga National Park",
+      "lat": 26.5775,
+      "lng": 93.1712,
+      "radiusM": 400,
+      "address": "Kohora, Kaziranga, AS",
+      "howTo": "Visit Kaziranga National Park.",
+      "badge": "badges/kaziranga-national-park.png"
+    },
+    {
+      "id": "kohora-range",
+      "name": "Kohora Range",
+      "lat": 26.5905,
+      "lng": 93.4105,
+      "radiusM": 250,
+      "address": "Kohora, Kaziranga, AS",
+      "howTo": "Visit the Kohora Range of Kaziranga.",
+      "badge": "badges/kohora-range.png"
+    },
+    {
+      "id": "orchid-park-kaziranga",
+      "name": "Kaziranga National Orchid and Biodiversity Park",
+      "lat": 26.5855,
+      "lng": 93.4055,
+      "radiusM": 200,
+      "address": "Kohora, Kaziranga, AS",
+      "howTo": "Visit the Kaziranga National Orchid and Biodiversity Park.",
+      "badge": "badges/orchid-park-kaziranga.png"
+    }
+  ]
+}

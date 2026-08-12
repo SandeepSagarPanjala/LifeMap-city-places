@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/goa/panaji",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GA",
+  "stateName": "Goa",
+  "cityName": "Panaji",
+  "bbox": {
+    "minLat": 15.48,
+    "minLng": 73.8,
+    "maxLat": 15.52,
+    "maxLng": 73.86
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fontainhas",
+      "name": "Fontainhas",
+      "lat": 15.4985,
+      "lng": 73.8315,
+      "radiusM": 200,
+      "address": "Fontainhas, Panaji, GA",
+      "howTo": "Walk Fontainhas, the Latin Quarter.",
+      "badge": "badges/fontainhas.png"
+    },
+    {
+      "id": "our-lady-immaculate",
+      "name": "Church of Our Lady of the Immaculate Conception",
+      "lat": 15.4989,
+      "lng": 73.8274,
+      "radiusM": 120,
+      "address": "Church Square, Panaji, GA",
+      "howTo": "Visit the Church of Our Lady of the Immaculate Conception.",
+      "badge": "badges/our-lady-immaculate.png"
+    },
+    {
+      "id": "miramar-beach",
+      "name": "Miramar Beach",
+      "lat": 15.4825,
+      "lng": 73.8075,
+      "radiusM": 250,
+      "address": "Miramar, Panaji, GA",
+      "howTo": "Visit Miramar Beach.",
+      "badge": "badges/miramar-beach.png"
+    },
+    {
+      "id": "dona-paula",
+      "name": "Dona Paula",
+      "lat": 15.4605,
+      "lng": 73.8025,
+      "radiusM": 200,
+      "address": "Dona Paula, Goa",
+      "howTo": "Visit Dona Paula.",
+      "badge": "badges/dona-paula.png"
+    },
+    {
+      "id": "reis-magos-fort",
+      "name": "Reis Magos Fort",
+      "lat": 15.4965,
+      "lng": 73.8095,
+      "radiusM": 150,
+      "address": "Reis Magos, Goa",
+      "howTo": "Visit Reis Magos Fort.",
+      "badge": "badges/reis-magos-fort.png"
+    }
+  ]
+}

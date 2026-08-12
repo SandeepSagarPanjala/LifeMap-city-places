@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/andhra-pradesh/tirupati",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AP",
+  "stateName": "Andhra Pradesh",
+  "cityName": "Tirupati",
+  "bbox": {
+    "minLat": 13.62,
+    "minLng": 79.38,
+    "maxLat": 13.7,
+    "maxLng": 79.48
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tirumala",
+      "name": "Tirumala Venkateswara Temple",
+      "lat": 13.6833,
+      "lng": 79.3472,
+      "radiusM": 200,
+      "address": "Tirumala, Tirupati, AP",
+      "howTo": "Visit Tirumala Venkateswara Temple.",
+      "badge": "badges/tirumala.png"
+    },
+    {
+      "id": "kapila-theertham",
+      "name": "Kapila Theertham",
+      "lat": 13.6505,
+      "lng": 79.4215,
+      "radiusM": 150,
+      "address": "Kapila Theertham, Tirupati, AP",
+      "howTo": "Visit Kapila Theertham.",
+      "badge": "badges/kapila-theertham.png"
+    },
+    {
+      "id": "govindaraja-swamy",
+      "name": "Sri Govindaraja Swamy Temple",
+      "lat": 13.6335,
+      "lng": 79.4195,
+      "radiusM": 120,
+      "address": "Tirupati, AP",
+      "howTo": "Visit Sri Govindaraja Swamy Temple.",
+      "badge": "badges/govindaraja-swamy.png"
+    },
+    {
+      "id": "silathoranam",
+      "name": "Natural Arch Silathoranam",
+      "lat": 13.6785,
+      "lng": 79.3515,
+      "radiusM": 150,
+      "address": "Tirumala, AP",
+      "howTo": "Visit the Natural Arch at Silathoranam.",
+      "badge": "badges/silathoranam.png"
+    }
+  ]
+}

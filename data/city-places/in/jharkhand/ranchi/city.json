@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/jharkhand/ranchi",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "JH",
+  "stateName": "Jharkhand",
+  "cityName": "Ranchi",
+  "bbox": {
+    "minLat": 23.32,
+    "minLng": 85.28,
+    "maxLat": 23.4,
+    "maxLng": 85.38
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jagannath-temple-ranchi",
+      "name": "Jagannath Temple",
+      "lat": 23.3705,
+      "lng": 85.3105,
+      "radiusM": 120,
+      "address": "Jagannathpur, Ranchi, JH",
+      "howTo": "Visit Jagannath Temple.",
+      "badge": "badges/jagannath-temple-ranchi.png"
+    },
+    {
+      "id": "rock-garden-ranchi",
+      "name": "Rock Garden",
+      "lat": 23.4045,
+      "lng": 85.3095,
+      "radiusM": 200,
+      "address": "Kanke, Ranchi, JH",
+      "howTo": "Visit Rock Garden.",
+      "badge": "badges/rock-garden-ranchi.png"
+    },
+    {
+      "id": "tagore-hill",
+      "name": "Tagore Hill",
+      "lat": 23.4005,
+      "lng": 85.3385,
+      "radiusM": 150,
+      "address": "Morabadi, Ranchi, JH",
+      "howTo": "Visit Tagore Hill.",
+      "badge": "badges/tagore-hill.png"
+    },
+    {
+      "id": "dassam-falls",
+      "name": "Dassam Falls",
+      "lat": 23.1435,
+      "lng": 85.4665,
+      "radiusM": 250,
+      "address": "Taimara, Ranchi, JH",
+      "howTo": "Visit Dassam Falls.",
+      "badge": "badges/dassam-falls.png"
+    },
+    {
+      "id": "pahari-mandir",
+      "name": "Pahari Mandir",
+      "lat": 23.3695,
+      "lng": 85.3245,
+      "radiusM": 120,
+      "address": "Ranchi, JH",
+      "howTo": "Visit Pahari Mandir.",
+      "badge": "badges/pahari-mandir.png"
+    }
+  ]
+}

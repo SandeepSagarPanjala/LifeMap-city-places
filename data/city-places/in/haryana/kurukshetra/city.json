@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/haryana/kurukshetra",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "HR",
+  "stateName": "Haryana",
+  "cityName": "Kurukshetra",
+  "bbox": {
+    "minLat": 29.94,
+    "minLng": 76.8,
+    "maxLat": 29.99,
+    "maxLng": 76.88
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "brahma-sarovar",
+      "name": "Brahma Sarovar",
+      "lat": 29.9615,
+      "lng": 76.8265,
+      "radiusM": 250,
+      "address": "Brahma Sarovar, Kurukshetra, HR",
+      "howTo": "Visit Brahma Sarovar.",
+      "badge": "badges/brahma-sarovar.png"
+    },
+    {
+      "id": "jyotisar",
+      "name": "Jyotisar",
+      "lat": 29.9645,
+      "lng": 76.7805,
+      "radiusM": 150,
+      "address": "Jyotisar, Kurukshetra, HR",
+      "howTo": "Visit Jyotisar.",
+      "badge": "badges/jyotisar.png"
+    },
+    {
+      "id": "krishna-museum",
+      "name": "Krishna Museum",
+      "lat": 29.9695,
+      "lng": 76.8375,
+      "radiusM": 120,
+      "address": "Kurukshetra, HR",
+      "howTo": "Visit Krishna Museum.",
+      "badge": "badges/krishna-museum.png"
+    },
+    {
+      "id": "bhishma-kund",
+      "name": "Bhishma Kund",
+      "lat": 29.9715,
+      "lng": 76.8485,
+      "radiusM": 120,
+      "address": "Narkatari, Kurukshetra, HR",
+      "howTo": "Visit Bhishma Kund.",
+      "badge": "badges/bhishma-kund.png"
+    }
+  ]
+}

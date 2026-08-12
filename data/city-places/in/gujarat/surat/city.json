@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/gujarat/surat",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GJ",
+  "stateName": "Gujarat",
+  "cityName": "Surat",
+  "bbox": {
+    "minLat": 21.14,
+    "minLng": 72.75,
+    "maxLat": 21.22,
+    "maxLng": 72.85
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "surat-castle",
+      "name": "Surat Castle",
+      "lat": 21.1965,
+      "lng": 72.8195,
+      "radiusM": 120,
+      "address": "Chowk Bazaar, Surat, GJ",
+      "howTo": "Visit Surat Castle.",
+      "badge": "badges/surat-castle.png"
+    },
+    {
+      "id": "dumas-beach",
+      "name": "Dumas Beach",
+      "lat": 21.0835,
+      "lng": 72.7155,
+      "radiusM": 250,
+      "address": "Dumas, Surat, GJ",
+      "howTo": "Visit Dumas Beach.",
+      "badge": "badges/dumas-beach.png"
+    },
+    {
+      "id": "sarthana-nature-park",
+      "name": "Sarthana Nature Park",
+      "lat": 21.2265,
+      "lng": 72.8605,
+      "radiusM": 200,
+      "address": "Sarthana, Surat, GJ",
+      "howTo": "Visit Sarthana Nature Park.",
+      "badge": "badges/sarthana-nature-park.png"
+    },
+    {
+      "id": "dutch-garden",
+      "name": "Dutch Garden",
+      "lat": 21.1955,
+      "lng": 72.8185,
+      "radiusM": 120,
+      "address": "Nanpura, Surat, GJ",
+      "howTo": "Visit Dutch Garden.",
+      "badge": "badges/dutch-garden.png"
+    }
+  ]
+}

@@ -40,7 +40,7 @@ If you are an agent and the user pointed you at this file (or said `go` / `conti
 
 ### Then do one work unit
 
-1. Ensure `data/city-places/` exists. **Current geography focus: United States** (curated popular cities only). Do not add every US municipality. Other countries come after the US list is in good shape.
+1. Ensure `data/city-places/` exists. **Current geography focus: India** (curated popular cities only). United States is complete. Do not add every municipality.
 2. Open `data/city-places/index.json`.
 3. Decide phase from the index:
    - No countries / no cities under cursor → bootstrap geography for the next city to pack, then continue into Phase C in the **same** `go` if possible.
@@ -97,7 +97,7 @@ Work in order. Do not jump to place badges before the geography under the cursor
 
 Populate `data/city-places/index.json` with countries and first-level subdivisions.
 
-**Current focus:** finish **United States** (all states + DC) before adding other countries.
+**Current focus:** finish **India** (states + union territories, popular cities only). United States is complete.
 
 ### Phase B — Popular cities only (not every city)
 

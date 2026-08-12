@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/chhattisgarh/raipur",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "CG",
+  "stateName": "Chhattisgarh",
+  "cityName": "Raipur",
+  "bbox": {
+    "minLat": 21.22,
+    "minLng": 81.6,
+    "maxLat": 21.28,
+    "maxLng": 81.68
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mahant-ghasidas-museum",
+      "name": "Mahant Ghasidas Memorial Museum",
+      "lat": 21.2515,
+      "lng": 81.6295,
+      "radiusM": 120,
+      "address": "Raipur, CG",
+      "howTo": "Visit Mahant Ghasidas Memorial Museum.",
+      "badge": "badges/mahant-ghasidas-museum.png"
+    },
+    {
+      "id": "purkhouti-muktangan",
+      "name": "Purkhouti Muktangan",
+      "lat": 21.251,
+      "lng": 81.6055,
+      "radiusM": 200,
+      "address": "Raipur, CG",
+      "howTo": "Visit Purkhouti Muktangan.",
+      "badge": "badges/purkhouti-muktangan.png"
+    },
+    {
+      "id": "marine-drive-raipur",
+      "name": "Marine Drive Raipur",
+      "lat": 21.2455,
+      "lng": 81.6615,
+      "radiusM": 200,
+      "address": "Telibandha, Raipur, CG",
+      "howTo": "Visit Marine Drive Raipur.",
+      "badge": "badges/marine-drive-raipur.png"
+    },
+    {
+      "id": "nandan-van-zoo",
+      "name": "Nandan Van Zoo",
+      "lat": 21.2515,
+      "lng": 81.605,
+      "radiusM": 200,
+      "address": "Nandan Van, Raipur, CG",
+      "howTo": "Visit Nandan Van Zoo.",
+      "badge": "badges/nandan-van-zoo.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/bihar/patna",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "BR",
+  "stateName": "Bihar",
+  "cityName": "Patna",
+  "bbox": {
+    "minLat": 25.58,
+    "minLng": 85.08,
+    "maxLat": 25.64,
+    "maxLng": 85.18
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golghar",
+      "name": "Golghar",
+      "lat": 25.6205,
+      "lng": 85.1395,
+      "radiusM": 120,
+      "address": "Gandhi Maidan, Patna, BR",
+      "howTo": "Visit Golghar.",
+      "badge": "badges/golghar.png"
+    },
+    {
+      "id": "patna-sahib",
+      "name": "Takht Sri Harmandir Sahib",
+      "lat": 25.5905,
+      "lng": 85.2325,
+      "radiusM": 150,
+      "address": "Patna Sahib, Patna, BR",
+      "howTo": "Visit Takht Sri Harmandir Sahib.",
+      "badge": "badges/patna-sahib.png"
+    },
+    {
+      "id": "gandhi-maidan",
+      "name": "Gandhi Maidan",
+      "lat": 25.6185,
+      "lng": 85.1415,
+      "radiusM": 200,
+      "address": "Gandhi Maidan, Patna, BR",
+      "howTo": "Visit Gandhi Maidan.",
+      "badge": "badges/gandhi-maidan.png"
+    },
+    {
+      "id": "bihar-museum",
+      "name": "Bihar Museum",
+      "lat": 25.6075,
+      "lng": 85.0885,
+      "radiusM": 150,
+      "address": "Bailey Rd, Patna, BR",
+      "howTo": "Visit Bihar Museum.",
+      "badge": "badges/bihar-museum.png"
+    },
+    {
+      "id": "mahavir-mandir",
+      "name": "Mahavir Mandir",
+      "lat": 25.6095,
+      "lng": 85.1375,
+      "radiusM": 100,
+      "address": "Patna Junction, Patna, BR",
+      "howTo": "Visit Mahavir Mandir.",
+      "badge": "badges/mahavir-mandir.png"
+    }
+  ]
+}

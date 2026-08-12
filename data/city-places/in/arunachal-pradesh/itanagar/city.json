@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/arunachal-pradesh/itanagar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AR",
+  "stateName": "Arunachal Pradesh",
+  "cityName": "Itanagar",
+  "bbox": {
+    "minLat": 27.06,
+    "minLng": 93.58,
+    "maxLat": 27.12,
+    "maxLng": 93.66
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ita-fort",
+      "name": "Ita Fort",
+      "lat": 27.0975,
+      "lng": 93.6205,
+      "radiusM": 150,
+      "address": "Ita Fort, Itanagar, AR",
+      "howTo": "Visit Ita Fort.",
+      "badge": "badges/ita-fort.png"
+    },
+    {
+      "id": "ganga-lake",
+      "name": "Ganga Lake",
+      "lat": 27.1485,
+      "lng": 93.6305,
+      "radiusM": 250,
+      "address": "Gekar Sinyi, Itanagar, AR",
+      "howTo": "Visit Ganga Lake.",
+      "badge": "badges/ganga-lake.png"
+    },
+    {
+      "id": "jnk-state-museum",
+      "name": "Jawaharlal Nehru State Museum",
+      "lat": 27.0845,
+      "lng": 93.6055,
+      "radiusM": 120,
+      "address": "Itanagar, AR",
+      "howTo": "Visit the Jawaharlal Nehru State Museum.",
+      "badge": "badges/jnk-state-museum.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/andhra-pradesh/vijayawada",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AP",
+  "stateName": "Andhra Pradesh",
+  "cityName": "Vijayawada",
+  "bbox": {
+    "minLat": 16.48,
+    "minLng": 80.58,
+    "maxLat": 16.56,
+    "maxLng": 80.72
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kanaka-durga-temple",
+      "name": "Kanaka Durga Temple",
+      "lat": 16.5155,
+      "lng": 80.6095,
+      "radiusM": 150,
+      "address": "Indrakeeladri, Vijayawada, AP",
+      "howTo": "Visit Kanaka Durga Temple.",
+      "badge": "badges/kanaka-durga-temple.png"
+    },
+    {
+      "id": "prakasam-barrage",
+      "name": "Prakasam Barrage",
+      "lat": 16.5065,
+      "lng": 80.6055,
+      "radiusM": 200,
+      "address": "Prakasam Barrage, Vijayawada, AP",
+      "howTo": "Visit Prakasam Barrage.",
+      "badge": "badges/prakasam-barrage.png"
+    },
+    {
+      "id": "undavalli-caves",
+      "name": "Undavalli Caves",
+      "lat": 16.4955,
+      "lng": 80.5805,
+      "radiusM": 150,
+      "address": "Undavalli, Vijayawada, AP",
+      "howTo": "Visit the Undavalli Caves.",
+      "badge": "badges/undavalli-caves.png"
+    },
+    {
+      "id": "bhavani-island",
+      "name": "Bhavani Island",
+      "lat": 16.5165,
+      "lng": 80.5915,
+      "radiusM": 250,
+      "address": "Bhavani Island, Vijayawada, AP",
+      "howTo": "Visit Bhavani Island.",
+      "badge": "badges/bhavani-island.png"
+    }
+  ]
+}

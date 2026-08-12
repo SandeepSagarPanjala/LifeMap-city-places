@@ -1,9 +1,216 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T22:17:09.949Z",
+  "generatedAt": "2026-08-12T00:36:40.521Z",
   "cellDeg": 0.5,
-  "cityCount": 178,
+  "cityCount": 201,
   "cities": {
+    "in/andhra-pradesh/tirupati": {
+      "name": "Tirupati",
+      "bbox": {
+        "minLat": 13.62,
+        "minLng": 79.38,
+        "maxLat": 13.7,
+        "maxLng": 79.48
+      }
+    },
+    "in/andhra-pradesh/vijayawada": {
+      "name": "Vijayawada",
+      "bbox": {
+        "minLat": 16.48,
+        "minLng": 80.58,
+        "maxLat": 16.56,
+        "maxLng": 80.72
+      }
+    },
+    "in/andhra-pradesh/visakhapatnam": {
+      "name": "Visakhapatnam",
+      "bbox": {
+        "minLat": 17.68,
+        "minLng": 83.18,
+        "maxLat": 17.82,
+        "maxLng": 83.42
+      }
+    },
+    "in/arunachal-pradesh/itanagar": {
+      "name": "Itanagar",
+      "bbox": {
+        "minLat": 27.06,
+        "minLng": 93.58,
+        "maxLat": 27.12,
+        "maxLng": 93.66
+      }
+    },
+    "in/arunachal-pradesh/tawang": {
+      "name": "Tawang",
+      "bbox": {
+        "minLat": 27.54,
+        "minLng": 91.82,
+        "maxLat": 27.62,
+        "maxLng": 91.92
+      }
+    },
+    "in/assam/guwahati": {
+      "name": "Guwahati",
+      "bbox": {
+        "minLat": 26.12,
+        "minLng": 91.68,
+        "maxLat": 26.22,
+        "maxLng": 91.82
+      }
+    },
+    "in/assam/kaziranga": {
+      "name": "Kaziranga",
+      "bbox": {
+        "minLat": 26.55,
+        "minLng": 93.15,
+        "maxLat": 26.72,
+        "maxLng": 93.45
+      }
+    },
+    "in/bihar/bodh-gaya": {
+      "name": "Bodh Gaya",
+      "bbox": {
+        "minLat": 24.68,
+        "minLng": 84.98,
+        "maxLat": 24.72,
+        "maxLng": 85.02
+      }
+    },
+    "in/bihar/patna": {
+      "name": "Patna",
+      "bbox": {
+        "minLat": 25.58,
+        "minLng": 85.08,
+        "maxLat": 25.64,
+        "maxLng": 85.18
+      }
+    },
+    "in/chhattisgarh/raipur": {
+      "name": "Raipur",
+      "bbox": {
+        "minLat": 21.22,
+        "minLng": 81.6,
+        "maxLat": 21.28,
+        "maxLng": 81.68
+      }
+    },
+    "in/goa/calangute": {
+      "name": "Calangute",
+      "bbox": {
+        "minLat": 15.52,
+        "minLng": 73.74,
+        "maxLat": 15.6,
+        "maxLng": 73.78
+      }
+    },
+    "in/goa/old-goa": {
+      "name": "Old Goa",
+      "bbox": {
+        "minLat": 15.49,
+        "minLng": 73.9,
+        "maxLat": 15.51,
+        "maxLng": 73.93
+      }
+    },
+    "in/goa/panaji": {
+      "name": "Panaji",
+      "bbox": {
+        "minLat": 15.48,
+        "minLng": 73.8,
+        "maxLat": 15.52,
+        "maxLng": 73.86
+      }
+    },
+    "in/gujarat/ahmedabad": {
+      "name": "Ahmedabad",
+      "bbox": {
+        "minLat": 23,
+        "minLng": 72.52,
+        "maxLat": 23.1,
+        "maxLng": 72.64
+      }
+    },
+    "in/gujarat/dwarka": {
+      "name": "Dwarka",
+      "bbox": {
+        "minLat": 22.23,
+        "minLng": 68.95,
+        "maxLat": 22.28,
+        "maxLng": 69.02
+      }
+    },
+    "in/gujarat/surat": {
+      "name": "Surat",
+      "bbox": {
+        "minLat": 21.14,
+        "minLng": 72.75,
+        "maxLat": 21.22,
+        "maxLng": 72.85
+      }
+    },
+    "in/gujarat/vadodara": {
+      "name": "Vadodara",
+      "bbox": {
+        "minLat": 22.28,
+        "minLng": 73.16,
+        "maxLat": 22.34,
+        "maxLng": 73.22
+      }
+    },
+    "in/haryana/gurugram": {
+      "name": "Gurugram",
+      "bbox": {
+        "minLat": 28.38,
+        "minLng": 76.98,
+        "maxLat": 28.5,
+        "maxLng": 77.12
+      }
+    },
+    "in/haryana/kurukshetra": {
+      "name": "Kurukshetra",
+      "bbox": {
+        "minLat": 29.94,
+        "minLng": 76.8,
+        "maxLat": 29.99,
+        "maxLng": 76.88
+      }
+    },
+    "in/himachal-pradesh/dharamshala": {
+      "name": "Dharamshala",
+      "bbox": {
+        "minLat": 32.2,
+        "minLng": 76.3,
+        "maxLat": 32.25,
+        "maxLng": 76.35
+      }
+    },
+    "in/himachal-pradesh/manali": {
+      "name": "Manali",
+      "bbox": {
+        "minLat": 32.22,
+        "minLng": 77.16,
+        "maxLat": 32.28,
+        "maxLng": 77.22
+      }
+    },
+    "in/himachal-pradesh/shimla": {
+      "name": "Shimla",
+      "bbox": {
+        "minLat": 31.08,
+        "minLng": 77.15,
+        "maxLat": 31.12,
+        "maxLng": 77.2
+      }
+    },
+    "in/jharkhand/ranchi": {
+      "name": "Ranchi",
+      "bbox": {
+        "minLat": 23.32,
+        "minLng": 85.28,
+        "maxLat": 23.4,
+        "maxLng": 85.38
+      }
+    },
     "us/alabama/birmingham": {
       "name": "Birmingham",
       "bbox": {
@@ -2489,6 +2696,93 @@
     ],
     "89,-219": [
       "us/wyoming/cody"
+    ],
+    "35,166": [
+      "in/andhra-pradesh/visakhapatnam"
+    ],
+    "32,161": [
+      "in/andhra-pradesh/vijayawada"
+    ],
+    "33,161": [
+      "in/andhra-pradesh/vijayawada"
+    ],
+    "27,158": [
+      "in/andhra-pradesh/tirupati"
+    ],
+    "54,187": [
+      "in/arunachal-pradesh/itanagar"
+    ],
+    "55,183": [
+      "in/arunachal-pradesh/tawang"
+    ],
+    "52,183": [
+      "in/assam/guwahati"
+    ],
+    "53,186": [
+      "in/assam/kaziranga"
+    ],
+    "51,170": [
+      "in/bihar/patna"
+    ],
+    "49,169": [
+      "in/bihar/bodh-gaya"
+    ],
+    "49,170": [
+      "in/bihar/bodh-gaya"
+    ],
+    "42,163": [
+      "in/chhattisgarh/raipur"
+    ],
+    "30,147": [
+      "in/goa/old-goa",
+      "in/goa/panaji"
+    ],
+    "31,147": [
+      "in/goa/calangute",
+      "in/goa/old-goa",
+      "in/goa/panaji"
+    ],
+    "46,145": [
+      "in/gujarat/ahmedabad"
+    ],
+    "42,145": [
+      "in/gujarat/surat"
+    ],
+    "44,146": [
+      "in/gujarat/vadodara"
+    ],
+    "44,137": [
+      "in/gujarat/dwarka"
+    ],
+    "44,138": [
+      "in/gujarat/dwarka"
+    ],
+    "56,153": [
+      "in/haryana/gurugram"
+    ],
+    "56,154": [
+      "in/haryana/gurugram"
+    ],
+    "57,153": [
+      "in/haryana/gurugram"
+    ],
+    "57,154": [
+      "in/haryana/gurugram"
+    ],
+    "59,153": [
+      "in/haryana/kurukshetra"
+    ],
+    "62,154": [
+      "in/himachal-pradesh/shimla"
+    ],
+    "64,154": [
+      "in/himachal-pradesh/manali"
+    ],
+    "64,152": [
+      "in/himachal-pradesh/dharamshala"
+    ],
+    "46,170": [
+      "in/jharkhand/ranchi"
     ]
   }
 }

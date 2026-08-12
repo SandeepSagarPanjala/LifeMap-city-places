@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/goa/calangute",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "GA",
+  "stateName": "Goa",
+  "cityName": "Calangute",
+  "bbox": {
+    "minLat": 15.52,
+    "minLng": 73.74,
+    "maxLat": 15.6,
+    "maxLng": 73.78
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "calangute-beach",
+      "name": "Calangute Beach",
+      "lat": 15.5439,
+      "lng": 73.7553,
+      "radiusM": 250,
+      "address": "Calangute, GA",
+      "howTo": "Visit Calangute Beach.",
+      "badge": "badges/calangute-beach.png"
+    },
+    {
+      "id": "baga-beach",
+      "name": "Baga Beach",
+      "lat": 15.5555,
+      "lng": 73.7515,
+      "radiusM": 250,
+      "address": "Baga, Goa",
+      "howTo": "Visit Baga Beach.",
+      "badge": "badges/baga-beach.png"
+    },
+    {
+      "id": "fort-aguada",
+      "name": "Fort Aguada",
+      "lat": 15.4925,
+      "lng": 73.7735,
+      "radiusM": 200,
+      "address": "Aguada Fort, Candolim, GA",
+      "howTo": "Visit Fort Aguada.",
+      "badge": "badges/fort-aguada.png"
+    },
+    {
+      "id": "anjuna-beach",
+      "name": "Anjuna Beach",
+      "lat": 15.5735,
+      "lng": 73.7405,
+      "radiusM": 250,
+      "address": "Anjuna, Goa",
+      "howTo": "Visit Anjuna Beach.",
+      "badge": "badges/anjuna-beach.png"
+    }
+  ]
+}

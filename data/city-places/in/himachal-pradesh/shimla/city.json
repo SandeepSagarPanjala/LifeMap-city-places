@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/himachal-pradesh/shimla",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "HP",
+  "stateName": "Himachal Pradesh",
+  "cityName": "Shimla",
+  "bbox": {
+    "minLat": 31.08,
+    "minLng": 77.15,
+    "maxLat": 31.12,
+    "maxLng": 77.2
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "the-ridge-shimla",
+      "name": "The Ridge",
+      "lat": 31.1048,
+      "lng": 77.1734,
+      "radiusM": 150,
+      "address": "The Ridge, Shimla, HP",
+      "howTo": "Visit The Ridge.",
+      "badge": "badges/the-ridge-shimla.png"
+    },
+    {
+      "id": "mall-road-shimla",
+      "name": "Mall Road",
+      "lat": 31.1045,
+      "lng": 77.173,
+      "radiusM": 200,
+      "address": "Mall Rd, Shimla, HP",
+      "howTo": "Walk Mall Road.",
+      "badge": "badges/mall-road-shimla.png"
+    },
+    {
+      "id": "christ-church-shimla",
+      "name": "Christ Church",
+      "lat": 31.1049,
+      "lng": 77.1755,
+      "radiusM": 80,
+      "address": "The Ridge, Shimla, HP",
+      "howTo": "Visit Christ Church.",
+      "badge": "badges/christ-church-shimla.png"
+    },
+    {
+      "id": "jakhu-temple",
+      "name": "Jakhu Temple",
+      "lat": 31.1005,
+      "lng": 77.1815,
+      "radiusM": 150,
+      "address": "Jakhu, Shimla, HP",
+      "howTo": "Visit Jakhu Temple.",
+      "badge": "badges/jakhu-temple.png"
+    },
+    {
+      "id": "viceregal-lodge",
+      "name": "Viceregal Lodge",
+      "lat": 31.1035,
+      "lng": 77.1505,
+      "radiusM": 150,
+      "address": "Boileauganj, Shimla, HP",
+      "howTo": "Visit the Viceregal Lodge.",
+      "badge": "badges/viceregal-lodge.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/haryana/gurugram",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "HR",
+  "stateName": "Haryana",
+  "cityName": "Gurugram",
+  "bbox": {
+    "minLat": 28.38,
+    "minLng": 76.98,
+    "maxLat": 28.5,
+    "maxLng": 77.12
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "leisure-valley",
+      "name": "Leisure Valley",
+      "lat": 28.4595,
+      "lng": 77.0725,
+      "radiusM": 200,
+      "address": "Sector 29, Gurugram, HR",
+      "howTo": "Visit Leisure Valley.",
+      "badge": "badges/leisure-valley.png"
+    },
+    {
+      "id": "sheetla-mata-mandir",
+      "name": "Sheetla Mata Mandir",
+      "lat": 28.4685,
+      "lng": 77.0265,
+      "radiusM": 120,
+      "address": "Sheetla Colony, Gurugram, HR",
+      "howTo": "Visit Sheetla Mata Mandir.",
+      "badge": "badges/sheetla-mata-mandir.png"
+    },
+    {
+      "id": "damdama-lake",
+      "name": "Damdama Lake",
+      "lat": 28.3055,
+      "lng": 77.1285,
+      "radiusM": 300,
+      "address": "Damdama, Gurugram, HR",
+      "howTo": "Visit Damdama Lake.",
+      "badge": "badges/damdama-lake.png"
+    },
+    {
+      "id": "sultanpur-national-park",
+      "name": "Sultanpur National Park",
+      "lat": 28.4635,
+      "lng": 76.8905,
+      "radiusM": 300,
+      "address": "Sultanpur, Gurugram, HR",
+      "howTo": "Visit Sultanpur National Park.",
+      "badge": "badges/sultanpur-national-park.png"
+    }
+  ]
+}

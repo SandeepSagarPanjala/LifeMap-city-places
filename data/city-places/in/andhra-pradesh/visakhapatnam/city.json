@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/andhra-pradesh/visakhapatnam",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "AP",
+  "stateName": "Andhra Pradesh",
+  "cityName": "Visakhapatnam",
+  "bbox": {
+    "minLat": 17.68,
+    "minLng": 83.18,
+    "maxLat": 17.82,
+    "maxLng": 83.42
+  },
+  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rk-beach",
+      "name": "RK Beach",
+      "lat": 17.714,
+      "lng": 83.323,
+      "radiusM": 250,
+      "address": "Beach Rd, Visakhapatnam, AP",
+      "howTo": "Visit RK Beach.",
+      "badge": "badges/rk-beach.png"
+    },
+    {
+      "id": "kailasagiri",
+      "name": "Kailasagiri",
+      "lat": 17.7495,
+      "lng": 83.3425,
+      "radiusM": 200,
+      "address": "Kailasagiri, Visakhapatnam, AP",
+      "howTo": "Visit Kailasagiri.",
+      "badge": "badges/kailasagiri.png"
+    },
+    {
+      "id": "ins-kurusura",
+      "name": "INS Kurusura Submarine Museum",
+      "lat": 17.7185,
+      "lng": 83.3305,
+      "radiusM": 120,
+      "address": "Beach Rd, Visakhapatnam, AP",
+      "howTo": "Visit the INS Kurusura Submarine Museum.",
+      "badge": "badges/ins-kurusura.png"
+    },
+    {
+      "id": "simhachalam",
+      "name": "Simhachalam Temple",
+      "lat": 17.7665,
+      "lng": 83.2505,
+      "radiusM": 150,
+      "address": "Simhachalam, Visakhapatnam, AP",
+      "howTo": "Visit Simhachalam Temple.",
+      "badge": "badges/simhachalam.png"
+    },
+    {
+      "id": "yarada-beach",
+      "name": "Yarada Beach",
+      "lat": 17.6555,
+      "lng": 83.2685,
+      "radiusM": 250,
+      "address": "Yarada, Visakhapatnam, AP",
+      "howTo": "Visit Yarada Beach.",
+      "badge": "badges/yarada-beach.png"
+    }
+  ]
+}
