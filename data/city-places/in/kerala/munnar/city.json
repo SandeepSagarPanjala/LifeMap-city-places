@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/kerala/munnar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KL",
+  "stateName": "Kerala",
+  "cityName": "Munnar",
+  "bbox": {
+    "minLat": 10.05,
+    "minLng": 77.02,
+    "maxLat": 10.12,
+    "maxLng": 77.1
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "munnar-tea-gardens",
+      "name": "Munnar Tea Gardens",
+      "lat": 10.0889,
+      "lng": 77.0595,
+      "radiusM": 300,
+      "address": "Munnar, KL",
+      "howTo": "Visit the Munnar tea gardens.",
+      "badge": "badges/munnar-tea-gardens.png"
+    },
+    {
+      "id": "eravikulam",
+      "name": "Eravikulam National Park",
+      "lat": 10.2045,
+      "lng": 77.0835,
+      "radiusM": 400,
+      "address": "Eravikulam, Munnar, KL",
+      "howTo": "Visit Eravikulam National Park.",
+      "badge": "badges/eravikulam.png"
+    },
+    {
+      "id": "mattupetty-dam",
+      "name": "Mattupetty Dam",
+      "lat": 10.1065,
+      "lng": 77.1245,
+      "radiusM": 200,
+      "address": "Mattupetty, Munnar, KL",
+      "howTo": "Visit Mattupetty Dam.",
+      "badge": "badges/mattupetty-dam.png"
+    },
+    {
+      "id": "echo-point-munnar",
+      "name": "Echo Point",
+      "lat": 10.1235,
+      "lng": 77.1355,
+      "radiusM": 150,
+      "address": "Echo Point, Munnar, KL",
+      "howTo": "Visit Echo Point.",
+      "badge": "badges/echo-point-munnar.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/meghalaya/cherrapunji",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "ML",
+  "stateName": "Meghalaya",
+  "cityName": "Cherrapunji",
+  "bbox": {
+    "minLat": 25.22,
+    "minLng": 91.68,
+    "maxLat": 25.3,
+    "maxLng": 91.78
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nohkalikai-falls",
+      "name": "Nohkalikai Falls",
+      "lat": 25.2745,
+      "lng": 91.6875,
+      "radiusM": 250,
+      "address": "Cherrapunji, ML",
+      "howTo": "Visit Nohkalikai Falls.",
+      "badge": "badges/nohkalikai-falls.png"
+    },
+    {
+      "id": "mawsmai-cave",
+      "name": "Mawsmai Cave",
+      "lat": 25.2515,
+      "lng": 91.7275,
+      "radiusM": 150,
+      "address": "Mawsmai, Cherrapunji, ML",
+      "howTo": "Visit Mawsmai Cave.",
+      "badge": "badges/mawsmai-cave.png"
+    },
+    {
+      "id": "seven-sisters-falls",
+      "name": "Seven Sisters Falls",
+      "lat": 25.251,
+      "lng": 91.7155,
+      "radiusM": 200,
+      "address": "Cherrapunji, ML",
+      "howTo": "Visit Seven Sisters Falls.",
+      "badge": "badges/seven-sisters-falls.png"
+    },
+    {
+      "id": "living-root-bridge",
+      "name": "Double Decker Living Root Bridge",
+      "lat": 25.2485,
+      "lng": 91.6655,
+      "radiusM": 200,
+      "address": "Nongriat, Cherrapunji, ML",
+      "howTo": "Visit the Double Decker Living Root Bridge.",
+      "badge": "badges/living-root-bridge.png"
+    }
+  ]
+}

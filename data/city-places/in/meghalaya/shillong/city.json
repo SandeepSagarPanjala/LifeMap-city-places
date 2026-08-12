@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/meghalaya/shillong",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "ML",
+  "stateName": "Meghalaya",
+  "cityName": "Shillong",
+  "bbox": {
+    "minLat": 25.54,
+    "minLng": 91.85,
+    "maxLat": 25.6,
+    "maxLng": 91.92
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wards-lake",
+      "name": "Ward's Lake",
+      "lat": 25.5785,
+      "lng": 91.8835,
+      "radiusM": 200,
+      "address": "Ward's Lake, Shillong, ML",
+      "howTo": "Visit Ward's Lake.",
+      "badge": "badges/wards-lake.png"
+    },
+    {
+      "id": "elephant-falls",
+      "name": "Elephant Falls",
+      "lat": 25.5365,
+      "lng": 91.8225,
+      "radiusM": 200,
+      "address": "Elephant Falls, Shillong, ML",
+      "howTo": "Visit Elephant Falls.",
+      "badge": "badges/elephant-falls.png"
+    },
+    {
+      "id": "don-bosco-museum",
+      "name": "Don Bosco Centre for Indigenous Cultures",
+      "lat": 25.578,
+      "lng": 91.8935,
+      "radiusM": 120,
+      "address": "Mawlai, Shillong, ML",
+      "howTo": "Visit the Don Bosco Museum.",
+      "badge": "badges/don-bosco-museum.png"
+    },
+    {
+      "id": "shillong-peak",
+      "name": "Shillong Peak",
+      "lat": 25.5465,
+      "lng": 91.8715,
+      "radiusM": 200,
+      "address": "Shillong Peak, ML",
+      "howTo": "Visit Shillong Peak.",
+      "badge": "badges/shillong-peak.png"
+    },
+    {
+      "id": "umiam-lake",
+      "name": "Umiam Lake",
+      "lat": 25.6535,
+      "lng": 91.8855,
+      "radiusM": 300,
+      "address": "Umiam, Shillong, ML",
+      "howTo": "Visit Umiam Lake.",
+      "badge": "badges/umiam-lake.png"
+    }
+  ]
+}

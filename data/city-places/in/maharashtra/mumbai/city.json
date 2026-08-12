@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "in/maharashtra/mumbai",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MH",
+  "stateName": "Maharashtra",
+  "cityName": "Mumbai",
+  "bbox": {
+    "minLat": 18.9,
+    "minLng": 72.78,
+    "maxLat": 19.12,
+    "maxLng": 72.9
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gateway-of-india",
+      "name": "Gateway of India",
+      "lat": 18.922,
+      "lng": 72.8347,
+      "radiusM": 150,
+      "address": "Apollo Bunder, Mumbai, MH",
+      "howTo": "Visit the Gateway of India.",
+      "badge": "badges/gateway-of-india.png"
+    },
+    {
+      "id": "marine-drive-mumbai",
+      "name": "Marine Drive",
+      "lat": 18.9432,
+      "lng": 72.8236,
+      "radiusM": 250,
+      "address": "Marine Drive, Mumbai, MH",
+      "howTo": "Walk Marine Drive.",
+      "badge": "badges/marine-drive-mumbai.png"
+    },
+    {
+      "id": "cst-mumbai",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "lat": 18.9398,
+      "lng": 72.8355,
+      "radiusM": 150,
+      "address": "CST, Mumbai, MH",
+      "howTo": "Visit Chhatrapati Shivaji Maharaj Terminus.",
+      "badge": "badges/cst-mumbai.png"
+    },
+    {
+      "id": "elephanta-caves",
+      "name": "Elephanta Caves",
+      "lat": 18.9633,
+      "lng": 72.9315,
+      "radiusM": 250,
+      "address": "Elephanta Island, Mumbai, MH",
+      "howTo": "Visit the Elephanta Caves.",
+      "badge": "badges/elephanta-caves.png"
+    },
+    {
+      "id": "haji-ali",
+      "name": "Haji Ali Dargah",
+      "lat": 18.9827,
+      "lng": 72.8089,
+      "radiusM": 120,
+      "address": "Lala Lajpatrai Marg, Mumbai, MH",
+      "howTo": "Visit Haji Ali Dargah.",
+      "badge": "badges/haji-ali.png"
+    },
+    {
+      "id": "juhu-beach",
+      "name": "Juhu Beach",
+      "lat": 19.0988,
+      "lng": 72.8265,
+      "radiusM": 250,
+      "address": "Juhu, Mumbai, MH",
+      "howTo": "Visit Juhu Beach.",
+      "badge": "badges/juhu-beach.png"
+    },
+    {
+      "id": "siddhivinayak",
+      "name": "Siddhivinayak Temple",
+      "lat": 19.0169,
+      "lng": 72.8303,
+      "radiusM": 120,
+      "address": "Prabhadevi, Mumbai, MH",
+      "howTo": "Visit Siddhivinayak Temple.",
+      "badge": "badges/siddhivinayak.png"
+    },
+    {
+      "id": "bandra-worli-sea-link",
+      "name": "Bandra-Worli Sea Link",
+      "lat": 19.0295,
+      "lng": 72.8152,
+      "radiusM": 200,
+      "address": "Bandra-Worli Sea Link, Mumbai, MH",
+      "howTo": "See the Bandra-Worli Sea Link.",
+      "badge": "badges/bandra-worli-sea-link.png"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/kerala/kochi",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KL",
+  "stateName": "Kerala",
+  "cityName": "Kochi",
+  "bbox": {
+    "minLat": 9.93,
+    "minLng": 76.23,
+    "maxLat": 10.02,
+    "maxLng": 76.32
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chinese-fishing-nets",
+      "name": "Chinese Fishing Nets",
+      "lat": 9.9682,
+      "lng": 76.2422,
+      "radiusM": 150,
+      "address": "Fort Kochi, KL",
+      "howTo": "See the Chinese Fishing Nets.",
+      "badge": "badges/chinese-fishing-nets.png"
+    },
+    {
+      "id": "mattancherry-palace",
+      "name": "Mattancherry Palace",
+      "lat": 9.9575,
+      "lng": 76.2595,
+      "radiusM": 120,
+      "address": "Mattancherry, Kochi, KL",
+      "howTo": "Visit Mattancherry Palace.",
+      "badge": "badges/mattancherry-palace.png"
+    },
+    {
+      "id": "santa-cruz-basilica",
+      "name": "Santa Cruz Basilica",
+      "lat": 9.9645,
+      "lng": 76.2435,
+      "radiusM": 120,
+      "address": "Fort Kochi, KL",
+      "howTo": "Visit Santa Cruz Basilica.",
+      "badge": "badges/santa-cruz-basilica.png"
+    },
+    {
+      "id": "jew-town",
+      "name": "Jew Town",
+      "lat": 9.957,
+      "lng": 76.259,
+      "radiusM": 200,
+      "address": "Jew Town, Mattancherry, KL",
+      "howTo": "Walk Jew Town.",
+      "badge": "badges/jew-town.png"
+    },
+    {
+      "id": "marine-drive-kochi",
+      "name": "Marine Drive",
+      "lat": 9.9815,
+      "lng": 76.2755,
+      "radiusM": 250,
+      "address": "Marine Drive, Kochi, KL",
+      "howTo": "Visit Marine Drive.",
+      "badge": "badges/marine-drive-kochi.png"
+    },
+    {
+      "id": "fort-kochi-beach",
+      "name": "Fort Kochi Beach",
+      "lat": 9.9655,
+      "lng": 76.2405,
+      "radiusM": 200,
+      "address": "Fort Kochi, KL",
+      "howTo": "Visit Fort Kochi Beach.",
+      "badge": "badges/fort-kochi-beach.png"
+    }
+  ]
+}

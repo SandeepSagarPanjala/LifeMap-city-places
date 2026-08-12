@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/madhya-pradesh/ujjain",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MP",
+  "stateName": "Madhya Pradesh",
+  "cityName": "Ujjain",
+  "bbox": {
+    "minLat": 23.16,
+    "minLng": 75.76,
+    "maxLat": 23.2,
+    "maxLng": 75.8
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mahakaleshwar",
+      "name": "Mahakaleshwar Temple",
+      "lat": 23.1828,
+      "lng": 75.7682,
+      "radiusM": 150,
+      "address": "Jaisinghpura, Ujjain, MP",
+      "howTo": "Visit Mahakaleshwar Temple.",
+      "badge": "badges/mahakaleshwar.png"
+    },
+    {
+      "id": "ram-ghat-ujjain",
+      "name": "Ram Ghat",
+      "lat": 23.1855,
+      "lng": 75.768,
+      "radiusM": 200,
+      "address": "Kshipra River, Ujjain, MP",
+      "howTo": "Visit Ram Ghat.",
+      "badge": "badges/ram-ghat-ujjain.png"
+    },
+    {
+      "id": "kal-bhairav",
+      "name": "Kal Bhairav Temple",
+      "lat": 23.1985,
+      "lng": 75.7775,
+      "radiusM": 120,
+      "address": "Ujjain, MP",
+      "howTo": "Visit Kal Bhairav Temple.",
+      "badge": "badges/kal-bhairav.png"
+    },
+    {
+      "id": "sandipani-ashram",
+      "name": "Sandipani Ashram",
+      "lat": 23.2045,
+      "lng": 75.7805,
+      "radiusM": 120,
+      "address": "Ujjain, MP",
+      "howTo": "Visit Sandipani Ashram.",
+      "badge": "badges/sandipani-ashram.png"
+    }
+  ]
+}

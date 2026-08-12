@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/karnataka/mangaluru",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KA",
+  "stateName": "Karnataka",
+  "cityName": "Mangaluru",
+  "bbox": {
+    "minLat": 12.84,
+    "minLng": 74.78,
+    "maxLat": 12.92,
+    "maxLng": 74.88
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "panambur-beach",
+      "name": "Panambur Beach",
+      "lat": 12.9375,
+      "lng": 74.8015,
+      "radiusM": 250,
+      "address": "Panambur, Mangaluru, KA",
+      "howTo": "Visit Panambur Beach.",
+      "badge": "badges/panambur-beach.png"
+    },
+    {
+      "id": "kadri-manjunatha",
+      "name": "Kadri Manjunatha Temple",
+      "lat": 12.8895,
+      "lng": 74.8555,
+      "radiusM": 120,
+      "address": "Kadri, Mangaluru, KA",
+      "howTo": "Visit Kadri Manjunatha Temple.",
+      "badge": "badges/kadri-manjunatha.png"
+    },
+    {
+      "id": "st-aloysius-chapel",
+      "name": "St. Aloysius Chapel",
+      "lat": 12.8735,
+      "lng": 74.8455,
+      "radiusM": 100,
+      "address": "Lighthouse Hill, Mangaluru, KA",
+      "howTo": "Visit St. Aloysius Chapel.",
+      "badge": "badges/st-aloysius-chapel.png"
+    },
+    {
+      "id": "sultan-battery",
+      "name": "Sultan Battery",
+      "lat": 12.8705,
+      "lng": 74.8415,
+      "radiusM": 120,
+      "address": "Boloor, Mangaluru, KA",
+      "howTo": "Visit Sultan Battery.",
+      "badge": "badges/sultan-battery.png"
+    }
+  ]
+}

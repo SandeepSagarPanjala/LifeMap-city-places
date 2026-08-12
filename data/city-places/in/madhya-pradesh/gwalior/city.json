@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/madhya-pradesh/gwalior",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MP",
+  "stateName": "Madhya Pradesh",
+  "cityName": "Gwalior",
+  "bbox": {
+    "minLat": 26.2,
+    "minLng": 78.14,
+    "maxLat": 26.24,
+    "maxLng": 78.2
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gwalior-fort",
+      "name": "Gwalior Fort",
+      "lat": 26.2304,
+      "lng": 78.169,
+      "radiusM": 250,
+      "address": "Gwalior Fort, Gwalior, MP",
+      "howTo": "Visit Gwalior Fort.",
+      "badge": "badges/gwalior-fort.png"
+    },
+    {
+      "id": "jai-vilas-palace",
+      "name": "Jai Vilas Palace",
+      "lat": 26.2055,
+      "lng": 78.1695,
+      "radiusM": 150,
+      "address": "Lashkar, Gwalior, MP",
+      "howTo": "Visit Jai Vilas Palace.",
+      "badge": "badges/jai-vilas-palace.png"
+    },
+    {
+      "id": "teli-ka-mandir",
+      "name": "Teli ka Mandir",
+      "lat": 26.2315,
+      "lng": 78.1685,
+      "radiusM": 100,
+      "address": "Gwalior Fort, Gwalior, MP",
+      "howTo": "Visit Teli ka Mandir.",
+      "badge": "badges/teli-ka-mandir.png"
+    },
+    {
+      "id": "sas-bahu-temples",
+      "name": "Sas Bahu Temples",
+      "lat": 26.23,
+      "lng": 78.1715,
+      "radiusM": 100,
+      "address": "Gwalior Fort, Gwalior, MP",
+      "howTo": "Visit the Sas Bahu Temples.",
+      "badge": "badges/sas-bahu-temples.png"
+    },
+    {
+      "id": "tansen-tomb",
+      "name": "Tomb of Tansen",
+      "lat": 26.2295,
+      "lng": 78.1485,
+      "radiusM": 100,
+      "address": "Gwalior, MP",
+      "howTo": "Visit the Tomb of Tansen.",
+      "badge": "badges/tansen-tomb.png"
+    }
+  ]
+}

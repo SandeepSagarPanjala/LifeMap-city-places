@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/punjab/ludhiana",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "PB",
+  "stateName": "Punjab",
+  "cityName": "Ludhiana",
+  "bbox": {
+    "minLat": 30.88,
+    "minLng": 75.82,
+    "maxLat": 30.94,
+    "maxLng": 75.9
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maharaja-ranjit-singh-war-museum",
+      "name": "Maharaja Ranjit Singh War Museum",
+      "lat": 30.9015,
+      "lng": 75.8575,
+      "radiusM": 150,
+      "address": "Ludhiana, PB",
+      "howTo": "Visit the Maharaja Ranjit Singh War Museum.",
+      "badge": "badges/maharaja-ranjit-singh-war-museum.png"
+    },
+    {
+      "id": "nehru-rose-garden",
+      "name": "Nehru Rose Garden",
+      "lat": 30.901,
+      "lng": 75.8485,
+      "radiusM": 200,
+      "address": "Rose Garden, Ludhiana, PB",
+      "howTo": "Visit Nehru Rose Garden.",
+      "badge": "badges/nehru-rose-garden.png"
+    },
+    {
+      "id": "lodhi-fort",
+      "name": "Lodhi Fort",
+      "lat": 30.9125,
+      "lng": 75.857,
+      "radiusM": 120,
+      "address": "Ludhiana, PB",
+      "howTo": "Visit Lodhi Fort.",
+      "badge": "badges/lodhi-fort.png"
+    }
+  ]
+}

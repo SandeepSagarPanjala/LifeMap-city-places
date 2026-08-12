@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/madhya-pradesh/indore",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MP",
+  "stateName": "Madhya Pradesh",
+  "cityName": "Indore",
+  "bbox": {
+    "minLat": 22.68,
+    "minLng": 75.82,
+    "maxLat": 22.76,
+    "maxLng": 75.92
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rajwada",
+      "name": "Rajwada",
+      "lat": 22.7177,
+      "lng": 75.855,
+      "radiusM": 120,
+      "address": "Rajwada, Indore, MP",
+      "howTo": "Visit Rajwada.",
+      "badge": "badges/rajwada.png"
+    },
+    {
+      "id": "lal-bagh-palace-indore",
+      "name": "Lal Bagh Palace",
+      "lat": 22.7075,
+      "lng": 75.8485,
+      "radiusM": 150,
+      "address": "Lal Bagh, Indore, MP",
+      "howTo": "Visit Lal Bagh Palace.",
+      "badge": "badges/lal-bagh-palace-indore.png"
+    },
+    {
+      "id": "kanch-mandir",
+      "name": "Kanch Mandir",
+      "lat": 22.7185,
+      "lng": 75.8545,
+      "radiusM": 100,
+      "address": "Itwaria Bazaar, Indore, MP",
+      "howTo": "Visit Kanch Mandir.",
+      "badge": "badges/kanch-mandir.png"
+    },
+    {
+      "id": "krishnapura-chhatris",
+      "name": "Krishnapura Chhatris",
+      "lat": 22.7205,
+      "lng": 75.8575,
+      "radiusM": 120,
+      "address": "Indore, MP",
+      "howTo": "Visit Krishnapura Chhatris.",
+      "badge": "badges/krishnapura-chhatris.png"
+    },
+    {
+      "id": "pipliyapala",
+      "name": "Pipliyapala Regional Park",
+      "lat": 22.6805,
+      "lng": 75.8605,
+      "radiusM": 250,
+      "address": "Pipliyapala, Indore, MP",
+      "howTo": "Visit Pipliyapala Regional Park.",
+      "badge": "badges/pipliyapala.png"
+    }
+  ]
+}

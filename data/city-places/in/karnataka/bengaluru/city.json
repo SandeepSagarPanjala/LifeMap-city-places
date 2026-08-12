@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/karnataka/bengaluru",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KA",
+  "stateName": "Karnataka",
+  "cityName": "Bengaluru",
+  "bbox": {
+    "minLat": 12.9,
+    "minLng": 77.52,
+    "maxLat": 13.05,
+    "maxLng": 77.68
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lalbagh",
+      "name": "Lalbagh Botanical Garden",
+      "lat": 12.9507,
+      "lng": 77.5848,
+      "radiusM": 250,
+      "address": "Lalbagh, Bengaluru, KA",
+      "howTo": "Visit Lalbagh Botanical Garden.",
+      "badge": "badges/lalbagh.png"
+    },
+    {
+      "id": "cubbon-park",
+      "name": "Cubbon Park",
+      "lat": 12.9763,
+      "lng": 77.5929,
+      "radiusM": 250,
+      "address": "Kasturba Rd, Bengaluru, KA",
+      "howTo": "Visit Cubbon Park.",
+      "badge": "badges/cubbon-park.png"
+    },
+    {
+      "id": "bangalore-palace",
+      "name": "Bangalore Palace",
+      "lat": 12.9987,
+      "lng": 77.592,
+      "radiusM": 200,
+      "address": "Palace Rd, Bengaluru, KA",
+      "howTo": "Visit Bangalore Palace.",
+      "badge": "badges/bangalore-palace.png"
+    },
+    {
+      "id": "vidhana-soudha",
+      "name": "Vidhana Soudha",
+      "lat": 12.9796,
+      "lng": 77.5907,
+      "radiusM": 150,
+      "address": "Dr Ambedkar Veedhi, Bengaluru, KA",
+      "howTo": "Visit Vidhana Soudha.",
+      "badge": "badges/vidhana-soudha.png"
+    },
+    {
+      "id": "iskcon-bengaluru",
+      "name": "ISKCON Bengaluru",
+      "lat": 13.01,
+      "lng": 77.5512,
+      "radiusM": 150,
+      "address": "Rajajinagar, Bengaluru, KA",
+      "howTo": "Visit ISKCON Bengaluru.",
+      "badge": "badges/iskcon-bengaluru.png"
+    },
+    {
+      "id": "tipu-sultan-palace",
+      "name": "Tipu Sultan's Summer Palace",
+      "lat": 12.9595,
+      "lng": 77.5737,
+      "radiusM": 120,
+      "address": "Albert Victor Rd, Bengaluru, KA",
+      "howTo": "Visit Tipu Sultan's Summer Palace.",
+      "badge": "badges/tipu-sultan-palace.png"
+    }
+  ]
+}

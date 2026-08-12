@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/madhya-pradesh/bhopal",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MP",
+  "stateName": "Madhya Pradesh",
+  "cityName": "Bhopal",
+  "bbox": {
+    "minLat": 23.2,
+    "minLng": 77.38,
+    "maxLat": 23.28,
+    "maxLng": 77.48
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "upper-lake-bhopal",
+      "name": "Upper Lake",
+      "lat": 23.2505,
+      "lng": 77.3805,
+      "radiusM": 300,
+      "address": "Bhojtal, Bhopal, MP",
+      "howTo": "Visit Upper Lake.",
+      "badge": "badges/upper-lake-bhopal.png"
+    },
+    {
+      "id": "taj-ul-masajid",
+      "name": "Taj-ul-Masajid",
+      "lat": 23.2635,
+      "lng": 77.3935,
+      "radiusM": 150,
+      "address": "Kohefiza, Bhopal, MP",
+      "howTo": "Visit Taj-ul-Masajid.",
+      "badge": "badges/taj-ul-masajid.png"
+    },
+    {
+      "id": "van-vihar",
+      "name": "Van Vihar National Park",
+      "lat": 23.2305,
+      "lng": 77.3665,
+      "radiusM": 300,
+      "address": "Van Vihar, Bhopal, MP",
+      "howTo": "Visit Van Vihar National Park.",
+      "badge": "badges/van-vihar.png"
+    },
+    {
+      "id": "bharat-bhavan",
+      "name": "Bharat Bhavan",
+      "lat": 23.2415,
+      "lng": 77.3915,
+      "radiusM": 120,
+      "address": "Shamla Hills, Bhopal, MP",
+      "howTo": "Visit Bharat Bhavan.",
+      "badge": "badges/bharat-bhavan.png"
+    },
+    {
+      "id": "tribal-museum-bhopal",
+      "name": "Tribal Museum",
+      "lat": 23.2325,
+      "lng": 77.4315,
+      "radiusM": 120,
+      "address": "Shyamla Hills, Bhopal, MP",
+      "howTo": "Visit the Tribal Museum.",
+      "badge": "badges/tribal-museum-bhopal.png"
+    }
+  ]
+}

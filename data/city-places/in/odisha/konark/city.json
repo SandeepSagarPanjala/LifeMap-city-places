@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/odisha/konark",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "OD",
+  "stateName": "Odisha",
+  "cityName": "Konark",
+  "bbox": {
+    "minLat": 19.88,
+    "minLng": 86.08,
+    "maxLat": 19.9,
+    "maxLng": 86.12
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "konark-sun-temple",
+      "name": "Konark Sun Temple",
+      "lat": 19.8876,
+      "lng": 86.0945,
+      "radiusM": 200,
+      "address": "Konark, OD",
+      "howTo": "Visit the Konark Sun Temple.",
+      "badge": "badges/konark-sun-temple.png"
+    },
+    {
+      "id": "chandrabhaga-beach",
+      "name": "Chandrabhaga Beach",
+      "lat": 19.8665,
+      "lng": 86.1105,
+      "radiusM": 250,
+      "address": "Chandrabhaga, Konark, OD",
+      "howTo": "Visit Chandrabhaga Beach.",
+      "badge": "badges/chandrabhaga-beach.png"
+    },
+    {
+      "id": "konark-museum",
+      "name": "Konark Archaeological Museum",
+      "lat": 19.8885,
+      "lng": 86.0955,
+      "radiusM": 100,
+      "address": "Konark, OD",
+      "howTo": "Visit the Konark Archaeological Museum.",
+      "badge": "badges/konark-museum.png"
+    }
+  ]
+}

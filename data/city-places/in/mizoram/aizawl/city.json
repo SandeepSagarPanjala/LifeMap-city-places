@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/mizoram/aizawl",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MZ",
+  "stateName": "Mizoram",
+  "cityName": "Aizawl",
+  "bbox": {
+    "minLat": 23.7,
+    "minLng": 92.7,
+    "maxLat": 23.76,
+    "maxLng": 92.74
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "solomons-temple-aizawl",
+      "name": "Solomon's Temple",
+      "lat": 23.7365,
+      "lng": 92.7175,
+      "radiusM": 120,
+      "address": "Aizawl, MZ",
+      "howTo": "Visit Solomon's Temple.",
+      "badge": "badges/solomons-temple-aizawl.png"
+    },
+    {
+      "id": "durtlang-hills",
+      "name": "Durtlang Hills",
+      "lat": 23.7605,
+      "lng": 92.7305,
+      "radiusM": 250,
+      "address": "Durtlang, Aizawl, MZ",
+      "howTo": "Visit Durtlang Hills.",
+      "badge": "badges/durtlang-hills.png"
+    },
+    {
+      "id": "mizoram-state-museum",
+      "name": "Mizoram State Museum",
+      "lat": 23.7305,
+      "lng": 92.717,
+      "radiusM": 100,
+      "address": "Zarkawt, Aizawl, MZ",
+      "howTo": "Visit Mizoram State Museum.",
+      "badge": "badges/mizoram-state-museum.png"
+    },
+    {
+      "id": "beraw-tlang",
+      "name": "Beraw Tlang",
+      "lat": 23.7455,
+      "lng": 92.7285,
+      "radiusM": 200,
+      "address": "Beraw Tlang, Aizawl, MZ",
+      "howTo": "Visit Beraw Tlang.",
+      "badge": "badges/beraw-tlang.png"
+    }
+  ]
+}

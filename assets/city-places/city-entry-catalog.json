@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T00:36:40.521Z",
+  "generatedAt": "2026-08-12T03:34:36.459Z",
   "cellDeg": 0.5,
-  "cityCount": 201,
+  "cityCount": 228,
   "cities": {
     "in/andhra-pradesh/tirupati": {
       "name": "Tirupati",
@@ -209,6 +209,249 @@
         "minLng": 85.28,
         "maxLat": 23.4,
         "maxLng": 85.38
+      }
+    },
+    "in/karnataka/bengaluru": {
+      "name": "Bengaluru",
+      "bbox": {
+        "minLat": 12.9,
+        "minLng": 77.52,
+        "maxLat": 13.05,
+        "maxLng": 77.68
+      }
+    },
+    "in/karnataka/hampi": {
+      "name": "Hampi",
+      "bbox": {
+        "minLat": 15.31,
+        "minLng": 76.44,
+        "maxLat": 15.35,
+        "maxLng": 76.49
+      }
+    },
+    "in/karnataka/mangaluru": {
+      "name": "Mangaluru",
+      "bbox": {
+        "minLat": 12.84,
+        "minLng": 74.78,
+        "maxLat": 12.92,
+        "maxLng": 74.88
+      }
+    },
+    "in/karnataka/mysuru": {
+      "name": "Mysuru",
+      "bbox": {
+        "minLat": 12.26,
+        "minLng": 76.6,
+        "maxLat": 12.35,
+        "maxLng": 76.7
+      }
+    },
+    "in/kerala/alappuzha": {
+      "name": "Alappuzha",
+      "bbox": {
+        "minLat": 9.48,
+        "minLng": 76.32,
+        "maxLat": 9.52,
+        "maxLng": 76.35
+      }
+    },
+    "in/kerala/kochi": {
+      "name": "Kochi",
+      "bbox": {
+        "minLat": 9.93,
+        "minLng": 76.23,
+        "maxLat": 10.02,
+        "maxLng": 76.32
+      }
+    },
+    "in/kerala/munnar": {
+      "name": "Munnar",
+      "bbox": {
+        "minLat": 10.05,
+        "minLng": 77.02,
+        "maxLat": 10.12,
+        "maxLng": 77.1
+      }
+    },
+    "in/kerala/thiruvananthapuram": {
+      "name": "Thiruvananthapuram",
+      "bbox": {
+        "minLat": 8.44,
+        "minLng": 76.9,
+        "maxLat": 8.55,
+        "maxLng": 77
+      }
+    },
+    "in/madhya-pradesh/bhopal": {
+      "name": "Bhopal",
+      "bbox": {
+        "minLat": 23.2,
+        "minLng": 77.38,
+        "maxLat": 23.28,
+        "maxLng": 77.48
+      }
+    },
+    "in/madhya-pradesh/gwalior": {
+      "name": "Gwalior",
+      "bbox": {
+        "minLat": 26.2,
+        "minLng": 78.14,
+        "maxLat": 26.24,
+        "maxLng": 78.2
+      }
+    },
+    "in/madhya-pradesh/indore": {
+      "name": "Indore",
+      "bbox": {
+        "minLat": 22.68,
+        "minLng": 75.82,
+        "maxLat": 22.76,
+        "maxLng": 75.92
+      }
+    },
+    "in/madhya-pradesh/khajuraho": {
+      "name": "Khajuraho",
+      "bbox": {
+        "minLat": 24.84,
+        "minLng": 79.91,
+        "maxLat": 24.86,
+        "maxLng": 79.94
+      }
+    },
+    "in/madhya-pradesh/ujjain": {
+      "name": "Ujjain",
+      "bbox": {
+        "minLat": 23.16,
+        "minLng": 75.76,
+        "maxLat": 23.2,
+        "maxLng": 75.8
+      }
+    },
+    "in/maharashtra/aurangabad": {
+      "name": "Aurangabad",
+      "bbox": {
+        "minLat": 19.85,
+        "minLng": 75.3,
+        "maxLat": 20.02,
+        "maxLng": 75.36
+      }
+    },
+    "in/maharashtra/mumbai": {
+      "name": "Mumbai",
+      "bbox": {
+        "minLat": 18.9,
+        "minLng": 72.78,
+        "maxLat": 19.12,
+        "maxLng": 72.9
+      }
+    },
+    "in/maharashtra/nagpur": {
+      "name": "Nagpur",
+      "bbox": {
+        "minLat": 21.12,
+        "minLng": 79.04,
+        "maxLat": 21.18,
+        "maxLng": 79.12
+      }
+    },
+    "in/maharashtra/pune": {
+      "name": "Pune",
+      "bbox": {
+        "minLat": 18.48,
+        "minLng": 73.8,
+        "maxLat": 18.58,
+        "maxLng": 73.92
+      }
+    },
+    "in/manipur/imphal": {
+      "name": "Imphal",
+      "bbox": {
+        "minLat": 24.78,
+        "minLng": 93.9,
+        "maxLat": 24.84,
+        "maxLng": 93.96
+      }
+    },
+    "in/meghalaya/cherrapunji": {
+      "name": "Cherrapunji",
+      "bbox": {
+        "minLat": 25.22,
+        "minLng": 91.68,
+        "maxLat": 25.3,
+        "maxLng": 91.78
+      }
+    },
+    "in/meghalaya/shillong": {
+      "name": "Shillong",
+      "bbox": {
+        "minLat": 25.54,
+        "minLng": 91.85,
+        "maxLat": 25.6,
+        "maxLng": 91.92
+      }
+    },
+    "in/mizoram/aizawl": {
+      "name": "Aizawl",
+      "bbox": {
+        "minLat": 23.7,
+        "minLng": 92.7,
+        "maxLat": 23.76,
+        "maxLng": 92.74
+      }
+    },
+    "in/nagaland/kohima": {
+      "name": "Kohima",
+      "bbox": {
+        "minLat": 25.64,
+        "minLng": 94.08,
+        "maxLat": 25.7,
+        "maxLng": 94.12
+      }
+    },
+    "in/odisha/bhubaneswar": {
+      "name": "Bhubaneswar",
+      "bbox": {
+        "minLat": 20.24,
+        "minLng": 85.8,
+        "maxLat": 20.36,
+        "maxLng": 85.88
+      }
+    },
+    "in/odisha/konark": {
+      "name": "Konark",
+      "bbox": {
+        "minLat": 19.88,
+        "minLng": 86.08,
+        "maxLat": 19.9,
+        "maxLng": 86.12
+      }
+    },
+    "in/odisha/puri": {
+      "name": "Puri",
+      "bbox": {
+        "minLat": 19.79,
+        "minLng": 85.81,
+        "maxLat": 19.82,
+        "maxLng": 85.85
+      }
+    },
+    "in/punjab/amritsar": {
+      "name": "Amritsar",
+      "bbox": {
+        "minLat": 31.61,
+        "minLng": 74.85,
+        "maxLat": 31.66,
+        "maxLng": 74.9
+      }
+    },
+    "in/punjab/ludhiana": {
+      "name": "Ludhiana",
+      "bbox": {
+        "minLat": 30.88,
+        "minLng": 75.82,
+        "maxLat": 30.94,
+        "maxLng": 75.9
       }
     },
     "us/alabama/birmingham": {
@@ -2783,6 +3026,112 @@
     ],
     "46,170": [
       "in/jharkhand/ranchi"
+    ],
+    "25,155": [
+      "in/karnataka/bengaluru"
+    ],
+    "26,155": [
+      "in/karnataka/bengaluru"
+    ],
+    "24,153": [
+      "in/karnataka/mysuru"
+    ],
+    "30,152": [
+      "in/karnataka/hampi"
+    ],
+    "25,149": [
+      "in/karnataka/mangaluru"
+    ],
+    "19,152": [
+      "in/kerala/alappuzha",
+      "in/kerala/kochi"
+    ],
+    "20,152": [
+      "in/kerala/kochi"
+    ],
+    "16,153": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "16,154": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "17,153": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "17,154": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "20,154": [
+      "in/kerala/munnar"
+    ],
+    "18,152": [
+      "in/kerala/alappuzha"
+    ],
+    "46,154": [
+      "in/madhya-pradesh/bhopal"
+    ],
+    "45,151": [
+      "in/madhya-pradesh/indore"
+    ],
+    "49,159": [
+      "in/madhya-pradesh/khajuraho"
+    ],
+    "52,156": [
+      "in/madhya-pradesh/gwalior"
+    ],
+    "46,151": [
+      "in/madhya-pradesh/ujjain"
+    ],
+    "37,145": [
+      "in/maharashtra/mumbai"
+    ],
+    "38,145": [
+      "in/maharashtra/mumbai"
+    ],
+    "36,147": [
+      "in/maharashtra/pune"
+    ],
+    "37,147": [
+      "in/maharashtra/pune"
+    ],
+    "42,158": [
+      "in/maharashtra/nagpur"
+    ],
+    "39,150": [
+      "in/maharashtra/aurangabad"
+    ],
+    "40,150": [
+      "in/maharashtra/aurangabad"
+    ],
+    "49,187": [
+      "in/manipur/imphal"
+    ],
+    "51,183": [
+      "in/meghalaya/shillong"
+    ],
+    "50,183": [
+      "in/meghalaya/cherrapunji"
+    ],
+    "47,185": [
+      "in/mizoram/aizawl"
+    ],
+    "51,188": [
+      "in/nagaland/kohima"
+    ],
+    "40,171": [
+      "in/odisha/bhubaneswar"
+    ],
+    "39,171": [
+      "in/odisha/puri"
+    ],
+    "39,172": [
+      "in/odisha/konark"
+    ],
+    "63,149": [
+      "in/punjab/amritsar"
+    ],
+    "61,151": [
+      "in/punjab/ludhiana"
     ]
   }
 }

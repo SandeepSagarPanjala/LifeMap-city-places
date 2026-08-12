@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/madhya-pradesh/khajuraho",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MP",
+  "stateName": "Madhya Pradesh",
+  "cityName": "Khajuraho",
+  "bbox": {
+    "minLat": 24.84,
+    "minLng": 79.91,
+    "maxLat": 24.86,
+    "maxLng": 79.94
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kandariya-mahadeva",
+      "name": "Kandariya Mahadeva Temple",
+      "lat": 24.853,
+      "lng": 79.9195,
+      "radiusM": 120,
+      "address": "Western Group, Khajuraho, MP",
+      "howTo": "Visit Kandariya Mahadeva Temple.",
+      "badge": "badges/kandariya-mahadeva.png"
+    },
+    {
+      "id": "lakshmana-temple",
+      "name": "Lakshmana Temple",
+      "lat": 24.852,
+      "lng": 79.9215,
+      "radiusM": 120,
+      "address": "Western Group, Khajuraho, MP",
+      "howTo": "Visit Lakshmana Temple.",
+      "badge": "badges/lakshmana-temple.png"
+    },
+    {
+      "id": "western-group",
+      "name": "Western Group of Temples",
+      "lat": 24.8525,
+      "lng": 79.9198,
+      "radiusM": 200,
+      "address": "Khajuraho, MP",
+      "howTo": "Visit the Western Group of Temples.",
+      "badge": "badges/western-group.png"
+    },
+    {
+      "id": "chaturbhuj-temple",
+      "name": "Chaturbhuj Temple",
+      "lat": 24.8495,
+      "lng": 79.9335,
+      "radiusM": 100,
+      "address": "Khajuraho, MP",
+      "howTo": "Visit Chaturbhuj Temple.",
+      "badge": "badges/chaturbhuj-temple.png"
+    }
+  ]
+}

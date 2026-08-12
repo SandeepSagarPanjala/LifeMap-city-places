@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/karnataka/hampi",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KA",
+  "stateName": "Karnataka",
+  "cityName": "Hampi",
+  "bbox": {
+    "minLat": 15.31,
+    "minLng": 76.44,
+    "maxLat": 15.35,
+    "maxLng": 76.49
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "virupaksha-temple",
+      "name": "Virupaksha Temple",
+      "lat": 15.335,
+      "lng": 76.46,
+      "radiusM": 150,
+      "address": "Hampi, KA",
+      "howTo": "Visit Virupaksha Temple.",
+      "badge": "badges/virupaksha-temple.png"
+    },
+    {
+      "id": "vittala-temple",
+      "name": "Vittala Temple",
+      "lat": 15.342,
+      "lng": 76.476,
+      "radiusM": 150,
+      "address": "Hampi, KA",
+      "howTo": "Visit Vittala Temple.",
+      "badge": "badges/vittala-temple.png"
+    },
+    {
+      "id": "lotus-mahal",
+      "name": "Lotus Mahal",
+      "lat": 15.3215,
+      "lng": 76.4715,
+      "radiusM": 120,
+      "address": "Royal Enclosure, Hampi, KA",
+      "howTo": "Visit Lotus Mahal.",
+      "badge": "badges/lotus-mahal.png"
+    },
+    {
+      "id": "hemakuta-hill",
+      "name": "Hemakuta Hill",
+      "lat": 15.3335,
+      "lng": 76.4585,
+      "radiusM": 200,
+      "address": "Hampi, KA",
+      "howTo": "Visit Hemakuta Hill.",
+      "badge": "badges/hemakuta-hill.png"
+    },
+    {
+      "id": "elephant-stables",
+      "name": "Elephant Stables",
+      "lat": 15.3205,
+      "lng": 76.4735,
+      "radiusM": 120,
+      "address": "Hampi, KA",
+      "howTo": "Visit the Elephant Stables.",
+      "badge": "badges/elephant-stables.png"
+    }
+  ]
+}

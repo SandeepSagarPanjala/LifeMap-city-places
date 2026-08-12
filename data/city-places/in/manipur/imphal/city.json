@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/manipur/imphal",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MN",
+  "stateName": "Manipur",
+  "cityName": "Imphal",
+  "bbox": {
+    "minLat": 24.78,
+    "minLng": 93.9,
+    "maxLat": 24.84,
+    "maxLng": 93.96
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kangla-fort",
+      "name": "Kangla Fort",
+      "lat": 24.8085,
+      "lng": 93.9425,
+      "radiusM": 200,
+      "address": "Kangla, Imphal, MN",
+      "howTo": "Visit Kangla Fort.",
+      "badge": "badges/kangla-fort.png"
+    },
+    {
+      "id": "ima-keithel",
+      "name": "Ima Keithel",
+      "lat": 24.8075,
+      "lng": 93.9365,
+      "radiusM": 150,
+      "address": "Khwairamband, Imphal, MN",
+      "howTo": "Visit Ima Keithel.",
+      "badge": "badges/ima-keithel.png"
+    },
+    {
+      "id": "imphal-war-cemetery",
+      "name": "Imphal War Cemetery",
+      "lat": 24.8165,
+      "lng": 93.9365,
+      "radiusM": 120,
+      "address": "Imphal, MN",
+      "howTo": "Visit Imphal War Cemetery.",
+      "badge": "badges/imphal-war-cemetery.png"
+    },
+    {
+      "id": "govindajee-temple",
+      "name": "Shree Govindajee Temple",
+      "lat": 24.808,
+      "lng": 93.9435,
+      "radiusM": 100,
+      "address": "Kangla, Imphal, MN",
+      "howTo": "Visit Shree Govindajee Temple.",
+      "badge": "badges/govindajee-temple.png"
+    },
+    {
+      "id": "loktak-lake",
+      "name": "Loktak Lake",
+      "lat": 24.5505,
+      "lng": 93.7835,
+      "radiusM": 400,
+      "address": "Loktak Lake, Manipur",
+      "howTo": "Visit Loktak Lake.",
+      "badge": "badges/loktak-lake.png"
+    }
+  ]
+}

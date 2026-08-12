@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/maharashtra/pune",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MH",
+  "stateName": "Maharashtra",
+  "cityName": "Pune",
+  "bbox": {
+    "minLat": 18.48,
+    "minLng": 73.8,
+    "maxLat": 18.58,
+    "maxLng": 73.92
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shaniwar-wada",
+      "name": "Shaniwar Wada",
+      "lat": 18.5195,
+      "lng": 73.8553,
+      "radiusM": 150,
+      "address": "Shaniwar Peth, Pune, MH",
+      "howTo": "Visit Shaniwar Wada.",
+      "badge": "badges/shaniwar-wada.png"
+    },
+    {
+      "id": "aga-khan-palace",
+      "name": "Aga Khan Palace",
+      "lat": 18.5525,
+      "lng": 73.9015,
+      "radiusM": 150,
+      "address": "Nagar Rd, Pune, MH",
+      "howTo": "Visit Aga Khan Palace.",
+      "badge": "badges/aga-khan-palace.png"
+    },
+    {
+      "id": "dagadusheth-ganpati",
+      "name": "Dagadusheth Halwai Ganpati Temple",
+      "lat": 18.5165,
+      "lng": 73.8565,
+      "radiusM": 100,
+      "address": "Budhwar Peth, Pune, MH",
+      "howTo": "Visit Dagadusheth Halwai Ganpati Temple.",
+      "badge": "badges/dagadusheth-ganpati.png"
+    },
+    {
+      "id": "sinhagad-fort",
+      "name": "Sinhagad Fort",
+      "lat": 18.3665,
+      "lng": 73.7555,
+      "radiusM": 300,
+      "address": "Sinhagad, Pune, MH",
+      "howTo": "Visit Sinhagad Fort.",
+      "badge": "badges/sinhagad-fort.png"
+    },
+    {
+      "id": "parvati-hill",
+      "name": "Parvati Hill",
+      "lat": 18.5015,
+      "lng": 73.8485,
+      "radiusM": 200,
+      "address": "Parvati, Pune, MH",
+      "howTo": "Visit Parvati Hill.",
+      "badge": "badges/parvati-hill.png"
+    }
+  ]
+}

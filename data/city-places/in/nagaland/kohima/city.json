@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/nagaland/kohima",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "NL",
+  "stateName": "Nagaland",
+  "cityName": "Kohima",
+  "bbox": {
+    "minLat": 25.64,
+    "minLng": 94.08,
+    "maxLat": 25.7,
+    "maxLng": 94.12
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kohima-war-cemetery",
+      "name": "Kohima War Cemetery",
+      "lat": 25.6665,
+      "lng": 94.1055,
+      "radiusM": 150,
+      "address": "Kohima, NL",
+      "howTo": "Visit Kohima War Cemetery.",
+      "badge": "badges/kohima-war-cemetery.png"
+    },
+    {
+      "id": "kisama",
+      "name": "Kisama Heritage Village",
+      "lat": 25.6405,
+      "lng": 94.0985,
+      "radiusM": 250,
+      "address": "Kisama, Kohima, NL",
+      "howTo": "Visit Kisama Heritage Village.",
+      "badge": "badges/kisama.png"
+    },
+    {
+      "id": "kohima-cathedral",
+      "name": "Mary Help of Christians Cathedral",
+      "lat": 25.6705,
+      "lng": 94.1085,
+      "radiusM": 120,
+      "address": "Kohima, NL",
+      "howTo": "Visit the Kohima Cathedral.",
+      "badge": "badges/kohima-cathedral.png"
+    },
+    {
+      "id": "nagaland-state-museum",
+      "name": "Nagaland State Museum",
+      "lat": 25.6685,
+      "lng": 94.1075,
+      "radiusM": 100,
+      "address": "Kohima, NL",
+      "howTo": "Visit Nagaland State Museum.",
+      "badge": "badges/nagaland-state-museum.png"
+    }
+  ]
+}

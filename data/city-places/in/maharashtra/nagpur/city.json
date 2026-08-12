@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/maharashtra/nagpur",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MH",
+  "stateName": "Maharashtra",
+  "cityName": "Nagpur",
+  "bbox": {
+    "minLat": 21.12,
+    "minLng": 79.04,
+    "maxLat": 21.18,
+    "maxLng": 79.12
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "deekshabhoomi",
+      "name": "Deekshabhoomi",
+      "lat": 21.128,
+      "lng": 79.0665,
+      "radiusM": 150,
+      "address": "Deekshabhoomi, Nagpur, MH",
+      "howTo": "Visit Deekshabhoomi.",
+      "badge": "badges/deekshabhoomi.png"
+    },
+    {
+      "id": "sitabuldi-fort",
+      "name": "Sitabuldi Fort",
+      "lat": 21.1495,
+      "lng": 79.0845,
+      "radiusM": 120,
+      "address": "Sitabuldi, Nagpur, MH",
+      "howTo": "Visit Sitabuldi Fort.",
+      "badge": "badges/sitabuldi-fort.png"
+    },
+    {
+      "id": "futala-lake",
+      "name": "Futala Lake",
+      "lat": 21.1535,
+      "lng": 79.0485,
+      "radiusM": 250,
+      "address": "Futala, Nagpur, MH",
+      "howTo": "Visit Futala Lake.",
+      "badge": "badges/futala-lake.png"
+    },
+    {
+      "id": "zero-mile",
+      "name": "Zero Mile Stone",
+      "lat": 21.1495,
+      "lng": 79.0805,
+      "radiusM": 80,
+      "address": "Nagpur, MH",
+      "howTo": "Visit Zero Mile Stone.",
+      "badge": "badges/zero-mile.png"
+    }
+  ]
+}

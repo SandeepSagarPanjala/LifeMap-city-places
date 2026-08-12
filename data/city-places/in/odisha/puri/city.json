@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/odisha/puri",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "OD",
+  "stateName": "Odisha",
+  "cityName": "Puri",
+  "bbox": {
+    "minLat": 19.79,
+    "minLng": 85.81,
+    "maxLat": 19.82,
+    "maxLng": 85.85
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jagannath-temple-puri",
+      "name": "Jagannath Temple",
+      "lat": 19.8048,
+      "lng": 85.818,
+      "radiusM": 150,
+      "address": "Grand Rd, Puri, OD",
+      "howTo": "Visit Jagannath Temple.",
+      "badge": "badges/jagannath-temple-puri.png"
+    },
+    {
+      "id": "puri-beach",
+      "name": "Puri Beach",
+      "lat": 19.7985,
+      "lng": 85.8315,
+      "radiusM": 250,
+      "address": "Chakratirtha Rd, Puri, OD",
+      "howTo": "Visit Puri Beach.",
+      "badge": "badges/puri-beach.png"
+    },
+    {
+      "id": "gundicha-temple",
+      "name": "Gundicha Temple",
+      "lat": 19.8135,
+      "lng": 85.8315,
+      "radiusM": 120,
+      "address": "Puri, OD",
+      "howTo": "Visit Gundicha Temple.",
+      "badge": "badges/gundicha-temple.png"
+    },
+    {
+      "id": "swargadwar",
+      "name": "Swargadwar Beach",
+      "lat": 19.7945,
+      "lng": 85.8255,
+      "radiusM": 200,
+      "address": "Swargadwar, Puri, OD",
+      "howTo": "Visit Swargadwar Beach.",
+      "badge": "badges/swargadwar.png"
+    }
+  ]
+}

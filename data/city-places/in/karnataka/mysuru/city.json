@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/karnataka/mysuru",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KA",
+  "stateName": "Karnataka",
+  "cityName": "Mysuru",
+  "bbox": {
+    "minLat": 12.26,
+    "minLng": 76.6,
+    "maxLat": 12.35,
+    "maxLng": 76.7
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mysore-palace",
+      "name": "Mysore Palace",
+      "lat": 12.3052,
+      "lng": 76.6552,
+      "radiusM": 200,
+      "address": "Sayyaji Rao Rd, Mysuru, KA",
+      "howTo": "Visit Mysore Palace.",
+      "badge": "badges/mysore-palace.png"
+    },
+    {
+      "id": "chamundi-hill",
+      "name": "Chamundi Hill",
+      "lat": 12.2726,
+      "lng": 76.6707,
+      "radiusM": 250,
+      "address": "Chamundi Hill, Mysuru, KA",
+      "howTo": "Visit Chamundi Hill.",
+      "badge": "badges/chamundi-hill.png"
+    },
+    {
+      "id": "brindavan-gardens",
+      "name": "Brindavan Gardens",
+      "lat": 12.4216,
+      "lng": 76.5724,
+      "radiusM": 250,
+      "address": "Brindavan Gardens, KR Sagar, KA",
+      "howTo": "Visit Brindavan Gardens.",
+      "badge": "badges/brindavan-gardens.png"
+    },
+    {
+      "id": "st-philomena-church",
+      "name": "St. Philomena's Cathedral",
+      "lat": 12.3211,
+      "lng": 76.6583,
+      "radiusM": 120,
+      "address": "Ashoka Rd, Mysuru, KA",
+      "howTo": "Visit St. Philomena's Cathedral.",
+      "badge": "badges/st-philomena-church.png"
+    },
+    {
+      "id": "devaraja-market",
+      "name": "Devaraja Market",
+      "lat": 12.3105,
+      "lng": 76.6535,
+      "radiusM": 150,
+      "address": "Sayyaji Rao Rd, Mysuru, KA",
+      "howTo": "Visit Devaraja Market.",
+      "badge": "badges/devaraja-market.png"
+    }
+  ]
+}

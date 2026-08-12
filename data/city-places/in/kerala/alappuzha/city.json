@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/kerala/alappuzha",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KL",
+  "stateName": "Kerala",
+  "cityName": "Alappuzha",
+  "bbox": {
+    "minLat": 9.48,
+    "minLng": 76.32,
+    "maxLat": 9.52,
+    "maxLng": 76.35
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alappuzha-backwaters",
+      "name": "Alappuzha Backwaters",
+      "lat": 9.498,
+      "lng": 76.3388,
+      "radiusM": 300,
+      "address": "Punnamada, Alappuzha, KL",
+      "howTo": "Visit the Alappuzha backwaters.",
+      "badge": "badges/alappuzha-backwaters.png"
+    },
+    {
+      "id": "alappuzha-beach",
+      "name": "Alappuzha Beach",
+      "lat": 9.4945,
+      "lng": 76.3185,
+      "radiusM": 250,
+      "address": "Beach Rd, Alappuzha, KL",
+      "howTo": "Visit Alappuzha Beach.",
+      "badge": "badges/alappuzha-beach.png"
+    },
+    {
+      "id": "mullakkal-temple",
+      "name": "Mullakkal Rajarajeswari Temple",
+      "lat": 9.4985,
+      "lng": 76.338,
+      "radiusM": 100,
+      "address": "Mullakkal, Alappuzha, KL",
+      "howTo": "Visit Mullakkal Rajarajeswari Temple.",
+      "badge": "badges/mullakkal-temple.png"
+    },
+    {
+      "id": "punnamada-lake",
+      "name": "Punnamada Lake",
+      "lat": 9.5105,
+      "lng": 76.3515,
+      "radiusM": 250,
+      "address": "Punnamada, Alappuzha, KL",
+      "howTo": "Visit Punnamada Lake.",
+      "badge": "badges/punnamada-lake.png"
+    }
+  ]
+}

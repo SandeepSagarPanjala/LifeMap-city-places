@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/odisha/bhubaneswar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "OD",
+  "stateName": "Odisha",
+  "cityName": "Bhubaneswar",
+  "bbox": {
+    "minLat": 20.24,
+    "minLng": 85.8,
+    "maxLat": 20.36,
+    "maxLng": 85.88
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lingaraj-temple",
+      "name": "Lingaraj Temple",
+      "lat": 20.2384,
+      "lng": 85.8336,
+      "radiusM": 150,
+      "address": "Old Town, Bhubaneswar, OD",
+      "howTo": "Visit Lingaraj Temple.",
+      "badge": "badges/lingaraj-temple.png"
+    },
+    {
+      "id": "mukteshwar-temple",
+      "name": "Mukteshwar Temple",
+      "lat": 20.2415,
+      "lng": 85.8345,
+      "radiusM": 100,
+      "address": "Old Town, Bhubaneswar, OD",
+      "howTo": "Visit Mukteshwar Temple.",
+      "badge": "badges/mukteshwar-temple.png"
+    },
+    {
+      "id": "udayagiri-khandagiri",
+      "name": "Udayagiri and Khandagiri Caves",
+      "lat": 20.2625,
+      "lng": 85.7855,
+      "radiusM": 200,
+      "address": "Khandagiri, Bhubaneswar, OD",
+      "howTo": "Visit Udayagiri and Khandagiri Caves.",
+      "badge": "badges/udayagiri-khandagiri.png"
+    },
+    {
+      "id": "nandankanan",
+      "name": "Nandankanan Zoological Park",
+      "lat": 20.3955,
+      "lng": 85.8215,
+      "radiusM": 300,
+      "address": "Nandankanan, Bhubaneswar, OD",
+      "howTo": "Visit Nandankanan Zoological Park.",
+      "badge": "badges/nandankanan.png"
+    },
+    {
+      "id": "dhauli",
+      "name": "Dhauli Shanti Stupa",
+      "lat": 20.1925,
+      "lng": 85.8395,
+      "radiusM": 150,
+      "address": "Dhauli, Bhubaneswar, OD",
+      "howTo": "Visit Dhauli Shanti Stupa.",
+      "badge": "badges/dhauli.png"
+    }
+  ]
+}

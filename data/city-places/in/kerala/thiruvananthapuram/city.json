@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/kerala/thiruvananthapuram",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "KL",
+  "stateName": "Kerala",
+  "cityName": "Thiruvananthapuram",
+  "bbox": {
+    "minLat": 8.44,
+    "minLng": 76.9,
+    "maxLat": 8.55,
+    "maxLng": 77.0
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "padmanabhaswamy-temple",
+      "name": "Padmanabhaswamy Temple",
+      "lat": 8.4828,
+      "lng": 76.9436,
+      "radiusM": 150,
+      "address": "East Fort, Thiruvananthapuram, KL",
+      "howTo": "Visit Padmanabhaswamy Temple.",
+      "badge": "badges/padmanabhaswamy-temple.png"
+    },
+    {
+      "id": "kovalam-beach",
+      "name": "Kovalam Beach",
+      "lat": 8.4,
+      "lng": 76.9785,
+      "radiusM": 250,
+      "address": "Kovalam, Thiruvananthapuram, KL",
+      "howTo": "Visit Kovalam Beach.",
+      "badge": "badges/kovalam-beach.png"
+    },
+    {
+      "id": "napier-museum",
+      "name": "Napier Museum",
+      "lat": 8.5085,
+      "lng": 76.9555,
+      "radiusM": 120,
+      "address": "LMS Vellayambalam Rd, Thiruvananthapuram, KL",
+      "howTo": "Visit Napier Museum.",
+      "badge": "badges/napier-museum.png"
+    },
+    {
+      "id": "shanghumukham-beach",
+      "name": "Shanghumukham Beach",
+      "lat": 8.4785,
+      "lng": 76.9125,
+      "radiusM": 250,
+      "address": "Shanghumukham, Thiruvananthapuram, KL",
+      "howTo": "Visit Shanghumukham Beach.",
+      "badge": "badges/shanghumukham-beach.png"
+    }
+  ]
+}

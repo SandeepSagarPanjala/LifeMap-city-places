@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/punjab/amritsar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "PB",
+  "stateName": "Punjab",
+  "cityName": "Amritsar",
+  "bbox": {
+    "minLat": 31.61,
+    "minLng": 74.85,
+    "maxLat": 31.66,
+    "maxLng": 74.9
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golden-temple",
+      "name": "Golden Temple",
+      "lat": 31.62,
+      "lng": 74.8765,
+      "radiusM": 200,
+      "address": "Golden Temple Rd, Amritsar, PB",
+      "howTo": "Visit the Golden Temple.",
+      "badge": "badges/golden-temple.png"
+    },
+    {
+      "id": "jallianwala-bagh",
+      "name": "Jallianwala Bagh",
+      "lat": 31.6206,
+      "lng": 74.8804,
+      "radiusM": 150,
+      "address": "Jallianwala Bagh, Amritsar, PB",
+      "howTo": "Visit Jallianwala Bagh.",
+      "badge": "badges/jallianwala-bagh.png"
+    },
+    {
+      "id": "wagah-border",
+      "name": "Wagah Border",
+      "lat": 31.6047,
+      "lng": 74.5742,
+      "radiusM": 200,
+      "address": "Wagah Border, Amritsar, PB",
+      "howTo": "Visit the Wagah Border.",
+      "badge": "badges/wagah-border.png"
+    },
+    {
+      "id": "partition-museum",
+      "name": "Partition Museum",
+      "lat": 31.6265,
+      "lng": 74.876,
+      "radiusM": 120,
+      "address": "Town Hall, Amritsar, PB",
+      "howTo": "Visit the Partition Museum.",
+      "badge": "badges/partition-museum.png"
+    },
+    {
+      "id": "gobindgarh-fort",
+      "name": "Gobindgarh Fort",
+      "lat": 31.6255,
+      "lng": 74.8745,
+      "radiusM": 200,
+      "address": "Gobindgarh Fort, Amritsar, PB",
+      "howTo": "Visit Gobindgarh Fort.",
+      "badge": "badges/gobindgarh-fort.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/maharashtra/aurangabad",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "MH",
+  "stateName": "Maharashtra",
+  "cityName": "Aurangabad",
+  "bbox": {
+    "minLat": 19.85,
+    "minLng": 75.3,
+    "maxLat": 20.02,
+    "maxLng": 75.36
+  },
+  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bibi-ka-maqbara",
+      "name": "Bibi Ka Maqbara",
+      "lat": 19.9015,
+      "lng": 75.32,
+      "radiusM": 150,
+      "address": "Begumpura, Aurangabad, MH",
+      "howTo": "Visit Bibi Ka Maqbara.",
+      "badge": "badges/bibi-ka-maqbara.png"
+    },
+    {
+      "id": "ellora-caves",
+      "name": "Ellora Caves",
+      "lat": 20.0268,
+      "lng": 75.177,
+      "radiusM": 300,
+      "address": "Ellora, Aurangabad, MH",
+      "howTo": "Visit the Ellora Caves.",
+      "badge": "badges/ellora-caves.png"
+    },
+    {
+      "id": "ajanta-caves",
+      "name": "Ajanta Caves",
+      "lat": 20.5519,
+      "lng": 75.7033,
+      "radiusM": 300,
+      "address": "Ajanta, MH",
+      "howTo": "Visit the Ajanta Caves.",
+      "badge": "badges/ajanta-caves.png"
+    },
+    {
+      "id": "daulatabad-fort",
+      "name": "Daulatabad Fort",
+      "lat": 19.9425,
+      "lng": 75.2135,
+      "radiusM": 250,
+      "address": "Daulatabad, Aurangabad, MH",
+      "howTo": "Visit Daulatabad Fort.",
+      "badge": "badges/daulatabad-fort.png"
+    },
+    {
+      "id": "panchakki",
+      "name": "Panchakki",
+      "lat": 19.8955,
+      "lng": 75.3205,
+      "radiusM": 120,
+      "address": "Aurangabad, MH",
+      "howTo": "Visit Panchakki.",
+      "badge": "badges/panchakki.png"
+    }
+  ]
+}
