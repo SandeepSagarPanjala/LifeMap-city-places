@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "in/delhi/delhi",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "DL",
+  "stateName": "Delhi",
+  "cityName": "Delhi",
+  "bbox": {
+    "minLat": 28.52,
+    "minLng": 77.15,
+    "maxLat": 28.72,
+    "maxLng": 77.3
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "india-gate",
+      "name": "India Gate",
+      "lat": 28.6129,
+      "lng": 77.2295,
+      "radiusM": 200,
+      "address": "India Gate, New Delhi",
+      "howTo": "Visit India Gate.",
+      "badge": "badges/india-gate.png"
+    },
+    {
+      "id": "red-fort",
+      "name": "Red Fort",
+      "lat": 28.6562,
+      "lng": 77.241,
+      "radiusM": 250,
+      "address": "Red Fort, Old Delhi",
+      "howTo": "Visit Red Fort.",
+      "badge": "badges/red-fort.png"
+    },
+    {
+      "id": "qutub-minar",
+      "name": "Qutub Minar",
+      "lat": 28.5244,
+      "lng": 77.1855,
+      "radiusM": 200,
+      "address": "Qutub Minar, Mehrauli",
+      "howTo": "Visit Qutub Minar.",
+      "badge": "badges/qutub-minar.png"
+    },
+    {
+      "id": "humayuns-tomb",
+      "name": "Humayun Tomb",
+      "lat": 28.5933,
+      "lng": 77.2507,
+      "radiusM": 200,
+      "address": "Humayun Tomb, Nizamuddin",
+      "howTo": "Visit Humayun Tomb.",
+      "badge": "badges/humayuns-tomb.png"
+    },
+    {
+      "id": "lotus-temple",
+      "name": "Lotus Temple",
+      "lat": 28.5535,
+      "lng": 77.2588,
+      "radiusM": 150,
+      "address": "Lotus Temple, Kalkaji",
+      "howTo": "Visit Lotus Temple.",
+      "badge": "badges/lotus-temple.png"
+    },
+    {
+      "id": "jama-masjid-delhi",
+      "name": "Jama Masjid",
+      "lat": 28.6507,
+      "lng": 77.2334,
+      "radiusM": 150,
+      "address": "Jama Masjid, Old Delhi",
+      "howTo": "Visit Jama Masjid.",
+      "badge": "badges/jama-masjid-delhi.png"
+    },
+    {
+      "id": "akshardham-delhi",
+      "name": "Akshardham Temple",
+      "lat": 28.6127,
+      "lng": 77.2773,
+      "radiusM": 250,
+      "address": "Akshardham, New Delhi",
+      "howTo": "Visit Akshardham Temple.",
+      "badge": "badges/akshardham-delhi.png"
+    },
+    {
+      "id": "lodhi-garden",
+      "name": "Lodhi Garden",
+      "lat": 28.591,
+      "lng": 77.2195,
+      "radiusM": 200,
+      "address": "Lodhi Garden, New Delhi",
+      "howTo": "Visit Lodhi Garden.",
+      "badge": "badges/lodhi-garden.png"
+    },
+    {
+      "id": "rashtrapati-bhavan",
+      "name": "Rashtrapati Bhavan",
+      "lat": 28.6143,
+      "lng": 77.1995,
+      "radiusM": 200,
+      "address": "Rashtrapati Bhavan, New Delhi",
+      "howTo": "Visit Rashtrapati Bhavan.",
+      "badge": "badges/rashtrapati-bhavan.png"
+    },
+    {
+      "id": "chandni-chowk",
+      "name": "Chandni Chowk",
+      "lat": 28.6505,
+      "lng": 77.2303,
+      "radiusM": 150,
+      "address": "Chandni Chowk, Old Delhi",
+      "howTo": "Visit Chandni Chowk.",
+      "badge": "badges/chandni-chowk.png"
+    }
+  ]
+}

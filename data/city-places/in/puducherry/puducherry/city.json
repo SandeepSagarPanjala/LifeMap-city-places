@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/puducherry/puducherry",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "PY",
+  "stateName": "Puducherry",
+  "cityName": "Puducherry",
+  "bbox": {
+    "minLat": 11.92,
+    "minLng": 79.81,
+    "maxLat": 11.95,
+    "maxLng": 79.85
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "promenade-beach-pondy",
+      "name": "Promenade Beach",
+      "lat": 11.9335,
+      "lng": 79.8355,
+      "radiusM": 200,
+      "address": "Promenade Beach, Puducherry",
+      "howTo": "Visit Promenade Beach.",
+      "badge": "badges/promenade-beach-pondy.png"
+    },
+    {
+      "id": "auroville",
+      "name": "Auroville",
+      "lat": 12.0065,
+      "lng": 79.8105,
+      "radiusM": 250,
+      "address": "Auroville, near Puducherry",
+      "howTo": "Visit Auroville.",
+      "badge": "badges/auroville.png"
+    },
+    {
+      "id": "sri-aurobindo-ashram",
+      "name": "Sri Aurobindo Ashram",
+      "lat": 11.9365,
+      "lng": 79.8335,
+      "radiusM": 120,
+      "address": "Sri Aurobindo Ashram, Puducherry",
+      "howTo": "Visit Sri Aurobindo Ashram.",
+      "badge": "badges/sri-aurobindo-ashram.png"
+    },
+    {
+      "id": "basilica-of-sacred-heart",
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "lat": 11.9285,
+      "lng": 79.8295,
+      "radiusM": 100,
+      "address": "Sacred Heart Basilica, Puducherry",
+      "howTo": "Visit Basilica of the Sacred Heart of Jesus.",
+      "badge": "badges/basilica-of-sacred-heart.png"
+    },
+    {
+      "id": "french-war-memorial",
+      "name": "French War Memorial",
+      "lat": 11.9345,
+      "lng": 79.835,
+      "radiusM": 80,
+      "address": "French War Memorial, Puducherry",
+      "howTo": "Visit French War Memorial.",
+      "badge": "badges/french-war-memorial.png"
+    },
+    {
+      "id": "paradise-beach-pondy",
+      "name": "Paradise Beach",
+      "lat": 11.8765,
+      "lng": 79.8255,
+      "radiusM": 200,
+      "address": "Paradise Beach, Puducherry",
+      "howTo": "Visit Paradise Beach.",
+      "badge": "badges/paradise-beach-pondy.png"
+    }
+  ]
+}

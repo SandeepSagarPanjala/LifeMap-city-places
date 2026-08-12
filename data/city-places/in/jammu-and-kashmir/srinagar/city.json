@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "in/jammu-and-kashmir/srinagar",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "JK",
+  "stateName": "Jammu and Kashmir",
+  "cityName": "Srinagar",
+  "bbox": {
+    "minLat": 34.05,
+    "minLng": 74.78,
+    "maxLat": 34.12,
+    "maxLng": 74.88
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dal-lake",
+      "name": "Dal Lake",
+      "lat": 34.1105,
+      "lng": 74.8685,
+      "radiusM": 300,
+      "address": "Dal Lake, Srinagar",
+      "howTo": "Visit Dal Lake.",
+      "badge": "badges/dal-lake.png"
+    },
+    {
+      "id": "shankaracharya-temple",
+      "name": "Shankaracharya Temple",
+      "lat": 34.0795,
+      "lng": 74.8435,
+      "radiusM": 150,
+      "address": "Shankaracharya Hill, Srinagar",
+      "howTo": "Visit Shankaracharya Temple.",
+      "badge": "badges/shankaracharya-temple.png"
+    },
+    {
+      "id": "nishat-bagh",
+      "name": "Nishat Bagh",
+      "lat": 34.1245,
+      "lng": 74.8805,
+      "radiusM": 200,
+      "address": "Nishat Bagh, Srinagar",
+      "howTo": "Visit Nishat Bagh.",
+      "badge": "badges/nishat-bagh.png"
+    },
+    {
+      "id": "shalimar-bagh",
+      "name": "Shalimar Bagh",
+      "lat": 34.1485,
+      "lng": 74.8725,
+      "radiusM": 200,
+      "address": "Shalimar Bagh, Srinagar",
+      "howTo": "Visit Shalimar Bagh.",
+      "badge": "badges/shalimar-bagh.png"
+    },
+    {
+      "id": "hazratbal",
+      "name": "Hazratbal Shrine",
+      "lat": 34.1305,
+      "lng": 74.8425,
+      "radiusM": 150,
+      "address": "Hazratbal, Srinagar",
+      "howTo": "Visit Hazratbal Shrine.",
+      "badge": "badges/hazratbal.png"
+    },
+    {
+      "id": "pari-mahal",
+      "name": "Pari Mahal",
+      "lat": 34.0875,
+      "lng": 74.8705,
+      "radiusM": 150,
+      "address": "Pari Mahal, Srinagar",
+      "howTo": "Visit Pari Mahal.",
+      "badge": "badges/pari-mahal.png"
+    }
+  ]
+}

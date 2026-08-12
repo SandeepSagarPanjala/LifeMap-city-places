@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "in/ladakh/leh",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "LA",
+  "stateName": "Ladakh",
+  "cityName": "Leh",
+  "bbox": {
+    "minLat": 34.14,
+    "minLng": 77.55,
+    "maxLat": 34.18,
+    "maxLng": 77.6
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "leh-palace",
+      "name": "Leh Palace",
+      "lat": 34.1655,
+      "lng": 77.5855,
+      "radiusM": 150,
+      "address": "Leh Palace, Leh",
+      "howTo": "Visit Leh Palace.",
+      "badge": "badges/leh-palace.png"
+    },
+    {
+      "id": "shanti-stupa-leh",
+      "name": "Shanti Stupa",
+      "lat": 34.1745,
+      "lng": 77.5755,
+      "radiusM": 120,
+      "address": "Shanti Stupa, Leh",
+      "howTo": "Visit Shanti Stupa.",
+      "badge": "badges/shanti-stupa-leh.png"
+    },
+    {
+      "id": "thiksey-monastery",
+      "name": "Thiksey Monastery",
+      "lat": 34.0565,
+      "lng": 77.6665,
+      "radiusM": 200,
+      "address": "Thiksey Monastery, Leh",
+      "howTo": "Visit Thiksey Monastery.",
+      "badge": "badges/thiksey-monastery.png"
+    },
+    {
+      "id": "hemis-monastery",
+      "name": "Hemis Monastery",
+      "lat": 33.9125,
+      "lng": 77.7025,
+      "radiusM": 200,
+      "address": "Hemis Monastery, Ladakh",
+      "howTo": "Visit Hemis Monastery.",
+      "badge": "badges/hemis-monastery.png"
+    },
+    {
+      "id": "magnetic-hill",
+      "name": "Magnetic Hill",
+      "lat": 34.1625,
+      "lng": 77.3405,
+      "radiusM": 150,
+      "address": "Magnetic Hill, Leh",
+      "howTo": "Visit Magnetic Hill.",
+      "badge": "badges/magnetic-hill.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T04:57:57.173Z",
+  "generatedAt": "2026-08-12T08:48:18.510Z",
   "cellDeg": 0.5,
-  "cityCount": 257,
+  "cityCount": 265,
   "cities": {
     "in/andaman-and-nicobar/port-blair": {
       "name": "Port Blair",
@@ -110,6 +110,33 @@
         "minLng": 81.6,
         "maxLat": 21.28,
         "maxLng": 81.68
+      }
+    },
+    "in/daman-and-diu/daman": {
+      "name": "Daman",
+      "bbox": {
+        "minLat": 20.4,
+        "minLng": 72.82,
+        "maxLat": 20.44,
+        "maxLng": 72.86
+      }
+    },
+    "in/daman-and-diu/diu": {
+      "name": "Diu",
+      "bbox": {
+        "minLat": 20.7,
+        "minLng": 70.96,
+        "maxLat": 20.73,
+        "maxLng": 71
+      }
+    },
+    "in/delhi/delhi": {
+      "name": "Delhi",
+      "bbox": {
+        "minLat": 28.52,
+        "minLng": 77.15,
+        "maxLat": 28.72,
+        "maxLng": 77.3
       }
     },
     "in/goa/calangute": {
@@ -220,6 +247,24 @@
         "maxLng": 77.2
       }
     },
+    "in/jammu-and-kashmir/jammu": {
+      "name": "Jammu",
+      "bbox": {
+        "minLat": 32.7,
+        "minLng": 74.84,
+        "maxLat": 32.76,
+        "maxLng": 74.9
+      }
+    },
+    "in/jammu-and-kashmir/srinagar": {
+      "name": "Srinagar",
+      "bbox": {
+        "minLat": 34.05,
+        "minLng": 74.78,
+        "maxLat": 34.12,
+        "maxLng": 74.88
+      }
+    },
     "in/jharkhand/ranchi": {
       "name": "Ranchi",
       "bbox": {
@@ -299,6 +344,24 @@
         "minLng": 76.9,
         "maxLat": 8.55,
         "maxLng": 77
+      }
+    },
+    "in/ladakh/leh": {
+      "name": "Leh",
+      "bbox": {
+        "minLat": 34.14,
+        "minLng": 77.55,
+        "maxLat": 34.18,
+        "maxLng": 77.6
+      }
+    },
+    "in/lakshadweep/kavaratti": {
+      "name": "Kavaratti",
+      "bbox": {
+        "minLat": 10.55,
+        "minLng": 72.63,
+        "maxLat": 10.58,
+        "maxLng": 72.65
       }
     },
     "in/madhya-pradesh/bhopal": {
@@ -452,6 +515,15 @@
         "minLng": 85.81,
         "maxLat": 19.82,
         "maxLng": 85.85
+      }
+    },
+    "in/puducherry/puducherry": {
+      "name": "Puducherry",
+      "bbox": {
+        "minLat": 11.92,
+        "minLng": 79.81,
+        "maxLat": 11.95,
+        "maxLng": 79.85
       }
     },
     "in/punjab/amritsar": {
@@ -3271,6 +3343,7 @@
       "in/haryana/gurugram"
     ],
     "57,154": [
+      "in/delhi/delhi",
       "in/haryana/gurugram"
     ],
     "59,153": [
@@ -3497,6 +3570,30 @@
     ],
     "61,153": [
       "in/chandigarh/chandigarh"
+    ],
+    "40,145": [
+      "in/daman-and-diu/daman"
+    ],
+    "41,141": [
+      "in/daman-and-diu/diu"
+    ],
+    "41,142": [
+      "in/daman-and-diu/diu"
+    ],
+    "68,149": [
+      "in/jammu-and-kashmir/srinagar"
+    ],
+    "65,149": [
+      "in/jammu-and-kashmir/jammu"
+    ],
+    "68,155": [
+      "in/ladakh/leh"
+    ],
+    "21,145": [
+      "in/lakshadweep/kavaratti"
+    ],
+    "23,159": [
+      "in/puducherry/puducherry"
     ]
   }
 }

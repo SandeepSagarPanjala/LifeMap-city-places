@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "cursor": "in/daman-and-diu/daman",
-  "updatedAt": "2026-08-12T06:00:00.000Z",
-  "notes": "USA complete. India curated popular cities in progress. Complete cities must include bbox on the index row (Option A).",
+  "cursor": null,
+  "updatedAt": "2026-08-12T08:30:00.000Z",
+  "notes": "USA complete. India complete. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -4189,18 +4189,30 @@
             {
               "id": "daman",
               "name": "Daman",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/daman-and-diu/daman/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 20.4,
+                "minLng": 72.82,
+                "maxLat": 20.44,
+                "maxLng": 72.86
+              }
             },
             {
               "id": "diu",
               "name": "Diu",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/daman-and-diu/diu/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 20.7,
+                "minLng": 70.96,
+                "maxLat": 20.73,
+                "maxLng": 71.0
+              }
             }
           ]
         },
@@ -4212,10 +4224,16 @@
             {
               "id": "delhi",
               "name": "Delhi",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/delhi/delhi/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 10,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 28.52,
+                "minLng": 77.15,
+                "maxLat": 28.72,
+                "maxLng": 77.3
+              }
             }
           ]
         },
@@ -4227,18 +4245,30 @@
             {
               "id": "srinagar",
               "name": "Srinagar",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/jammu-and-kashmir/srinagar/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 34.05,
+                "minLng": 74.78,
+                "maxLat": 34.12,
+                "maxLng": 74.88
+              }
             },
             {
               "id": "jammu",
               "name": "Jammu",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/jammu-and-kashmir/jammu/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 4,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 32.7,
+                "minLng": 74.84,
+                "maxLat": 32.76,
+                "maxLng": 74.9
+              }
             }
           ]
         },
@@ -4250,10 +4280,16 @@
             {
               "id": "leh",
               "name": "Leh",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/ladakh/leh/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 5,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 34.14,
+                "minLng": 77.55,
+                "maxLat": 34.18,
+                "maxLng": 77.6
+              }
             }
           ]
         },
@@ -4265,10 +4301,16 @@
             {
               "id": "kavaratti",
               "name": "Kavaratti",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/lakshadweep/kavaratti/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 3,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 10.55,
+                "minLng": 72.63,
+                "maxLat": 10.58,
+                "maxLng": 72.65
+              }
             }
           ]
         },
@@ -4280,10 +4322,16 @@
             {
               "id": "puducherry",
               "name": "Puducherry",
-              "status": "pending",
+              "status": "complete",
               "packPath": "in/puducherry/puducherry/city.json",
-              "placeCount": null,
-              "completedAt": null
+              "placeCount": 6,
+              "completedAt": "2026-08-12T08:30:00.000Z",
+              "bbox": {
+                "minLat": 11.92,
+                "minLng": 79.81,
+                "maxLat": 11.95,
+                "maxLng": 79.85
+              }
             }
           ]
         }

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/daman-and-diu/diu",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "DD",
+  "stateName": "Daman and Diu",
+  "cityName": "Diu",
+  "bbox": {
+    "minLat": 20.7,
+    "minLng": 70.96,
+    "maxLat": 20.73,
+    "maxLng": 71.0
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "diu-fort",
+      "name": "Diu Fort",
+      "lat": 20.7145,
+      "lng": 70.9835,
+      "radiusM": 200,
+      "address": "Diu Fort, Diu",
+      "howTo": "Visit Diu Fort.",
+      "badge": "badges/diu-fort.png"
+    },
+    {
+      "id": "st-paul-church-diu",
+      "name": "St. Paul Church",
+      "lat": 20.7155,
+      "lng": 70.9855,
+      "radiusM": 100,
+      "address": "St. Paul Church, Diu",
+      "howTo": "Visit St. Paul Church.",
+      "badge": "badges/st-paul-church-diu.png"
+    },
+    {
+      "id": "nagoa-beach",
+      "name": "Nagoa Beach",
+      "lat": 20.7105,
+      "lng": 70.9455,
+      "radiusM": 200,
+      "address": "Nagoa Beach, Diu",
+      "howTo": "Visit Nagoa Beach.",
+      "badge": "badges/nagoa-beach.png"
+    },
+    {
+      "id": "gangeshwar-temple",
+      "name": "Gangeshwar Temple",
+      "lat": 20.7025,
+      "lng": 70.9655,
+      "radiusM": 120,
+      "address": "Gangeshwar Temple, Diu",
+      "howTo": "Visit Gangeshwar Temple.",
+      "badge": "badges/gangeshwar-temple.png"
+    }
+  ]
+}

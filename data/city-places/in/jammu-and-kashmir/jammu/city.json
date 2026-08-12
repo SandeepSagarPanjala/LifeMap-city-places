@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/jammu-and-kashmir/jammu",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "JK",
+  "stateName": "Jammu and Kashmir",
+  "cityName": "Jammu",
+  "bbox": {
+    "minLat": 32.7,
+    "minLng": 74.84,
+    "maxLat": 32.76,
+    "maxLng": 74.9
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vaishno-devi",
+      "name": "Vaishno Devi Temple",
+      "lat": 33.0295,
+      "lng": 74.9485,
+      "radiusM": 250,
+      "address": "Vaishno Devi, Katra (Jammu region)",
+      "howTo": "Visit Vaishno Devi Temple.",
+      "badge": "badges/vaishno-devi.png"
+    },
+    {
+      "id": "raghunath-temple",
+      "name": "Raghunath Temple",
+      "lat": 32.7275,
+      "lng": 74.8585,
+      "radiusM": 120,
+      "address": "Raghunath Temple, Jammu",
+      "howTo": "Visit Raghunath Temple.",
+      "badge": "badges/raghunath-temple.png"
+    },
+    {
+      "id": "bahu-fort",
+      "name": "Bahu Fort",
+      "lat": 32.7355,
+      "lng": 74.8685,
+      "radiusM": 150,
+      "address": "Bahu Fort, Jammu",
+      "howTo": "Visit Bahu Fort.",
+      "badge": "badges/bahu-fort.png"
+    },
+    {
+      "id": "ranbireshwar-temple",
+      "name": "Ranbireshwar Temple",
+      "lat": 32.7265,
+      "lng": 74.8555,
+      "radiusM": 100,
+      "address": "Ranbireshwar Temple, Jammu",
+      "howTo": "Visit Ranbireshwar Temple.",
+      "badge": "badges/ranbireshwar-temple.png"
+    }
+  ]
+}

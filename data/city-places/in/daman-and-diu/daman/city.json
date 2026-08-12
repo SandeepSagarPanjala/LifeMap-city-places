@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "in/daman-and-diu/daman",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "DD",
+  "stateName": "Daman and Diu",
+  "cityName": "Daman",
+  "bbox": {
+    "minLat": 20.4,
+    "minLng": 72.82,
+    "maxLat": 20.44,
+    "maxLng": 72.86
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "moti-daman-fort",
+      "name": "Moti Daman Fort",
+      "lat": 20.4145,
+      "lng": 72.8325,
+      "radiusM": 200,
+      "address": "Moti Daman Fort, Daman",
+      "howTo": "Visit Moti Daman Fort.",
+      "badge": "badges/moti-daman-fort.png"
+    },
+    {
+      "id": "jampore-beach",
+      "name": "Jampore Beach",
+      "lat": 20.3925,
+      "lng": 72.8275,
+      "radiusM": 200,
+      "address": "Jampore Beach, Daman",
+      "howTo": "Visit Jampore Beach.",
+      "badge": "badges/jampore-beach.png"
+    },
+    {
+      "id": "devka-beach",
+      "name": "Devka Beach",
+      "lat": 20.4305,
+      "lng": 72.8315,
+      "radiusM": 200,
+      "address": "Devka Beach, Daman",
+      "howTo": "Visit Devka Beach.",
+      "badge": "badges/devka-beach.png"
+    },
+    {
+      "id": "bom-jesus-daman",
+      "name": "Church of Bom Jesus",
+      "lat": 20.4165,
+      "lng": 72.8335,
+      "radiusM": 100,
+      "address": "Bom Jesus Church, Moti Daman",
+      "howTo": "Visit Church of Bom Jesus.",
+      "badge": "badges/bom-jesus-daman.png"
+    }
+  ]
+}

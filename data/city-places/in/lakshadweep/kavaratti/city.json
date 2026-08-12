@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "in/lakshadweep/kavaratti",
+  "countryCode": "IN",
+  "countryName": "India",
+  "stateCode": "LD",
+  "stateName": "Lakshadweep",
+  "cityName": "Kavaratti",
+  "bbox": {
+    "minLat": 10.55,
+    "minLng": 72.63,
+    "maxLat": 10.58,
+    "maxLng": 72.65
+  },
+  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kavaratti-beach",
+      "name": "Kavaratti Beach",
+      "lat": 10.5665,
+      "lng": 72.6365,
+      "radiusM": 200,
+      "address": "Kavaratti Beach, Lakshadweep",
+      "howTo": "Visit Kavaratti Beach.",
+      "badge": "badges/kavaratti-beach.png"
+    },
+    {
+      "id": "ujjra-mosque",
+      "name": "Ujra Mosque",
+      "lat": 10.5675,
+      "lng": 72.6395,
+      "radiusM": 100,
+      "address": "Ujra Mosque, Kavaratti",
+      "howTo": "Visit Ujra Mosque.",
+      "badge": "badges/ujjra-mosque.png"
+    },
+    {
+      "id": "marine-aquarium-kavaratti",
+      "name": "Marine Aquarium",
+      "lat": 10.5625,
+      "lng": 72.6385,
+      "radiusM": 100,
+      "address": "Marine Aquarium, Kavaratti",
+      "howTo": "Visit Marine Aquarium.",
+      "badge": "badges/marine-aquarium-kavaratti.png"
+    }
+  ]
+}
