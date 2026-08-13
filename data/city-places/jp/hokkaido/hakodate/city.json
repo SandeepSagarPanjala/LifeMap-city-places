@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hokkaido/hakodate",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "01",
+  "stateName": "Hokkaido",
+  "cityName": "Hakodate",
+  "bbox": {
+    "minLat": 41.75,
+    "minLng": 140.7,
+    "maxLat": 41.8,
+    "maxLng": 140.76
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-hakodate",
+      "name": "Mount Hakodate",
+      "lat": 41.759,
+      "lng": 140.7045,
+      "radiusM": 200,
+      "address": "Mount Hakodate Ropeway",
+      "howTo": "Visit Mount Hakodate.",
+      "badge": "badges/mount-hakodate.png"
+    },
+    {
+      "id": "hakodate-morning-market",
+      "name": "Hakodate Morning Market",
+      "lat": 41.7725,
+      "lng": 140.7265,
+      "radiusM": 150,
+      "address": "Morning Market, Hakodate",
+      "howTo": "Visit Hakodate Morning Market.",
+      "badge": "badges/hakodate-morning-market.png"
+    },
+    {
+      "id": "goryokaku",
+      "name": "Goryokaku",
+      "lat": 41.7965,
+      "lng": 140.7535,
+      "radiusM": 250,
+      "address": "Goryokaku Park, Hakodate",
+      "howTo": "Visit Goryokaku.",
+      "badge": "badges/goryokaku.png"
+    },
+    {
+      "id": "motomachi",
+      "name": "Motomachi",
+      "lat": 41.7625,
+      "lng": 140.7115,
+      "radiusM": 200,
+      "address": "Motomachi Historic District, Hakodate",
+      "howTo": "Visit Motomachi.",
+      "badge": "badges/motomachi.png"
+    }
+  ]
+}

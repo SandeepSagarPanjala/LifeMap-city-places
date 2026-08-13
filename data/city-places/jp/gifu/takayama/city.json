@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/gifu/takayama",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "21",
+  "stateName": "Gifu",
+  "cityName": "Takayama",
+  "bbox": {
+    "minLat": 36.13,
+    "minLng": 137.24,
+    "maxLat": 36.15,
+    "maxLng": 137.27
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sanmachi-suji",
+      "name": "Sanmachi Suji",
+      "lat": 36.1425,
+      "lng": 137.2595,
+      "radiusM": 150,
+      "address": "Old Town Sanmachi, Takayama",
+      "howTo": "Visit Sanmachi Suji.",
+      "badge": "badges/sanmachi-suji.png"
+    },
+    {
+      "id": "takayama-jinya",
+      "name": "Takayama Jinya",
+      "lat": 36.1405,
+      "lng": 137.2585,
+      "radiusM": 100,
+      "address": "Takayama Jinya",
+      "howTo": "Visit Takayama Jinya.",
+      "badge": "badges/takayama-jinya.png"
+    },
+    {
+      "id": "higashiyama-walking",
+      "name": "Higashiyama Walking Course",
+      "lat": 36.1455,
+      "lng": 137.2625,
+      "radiusM": 200,
+      "address": "Higashiyama Temples, Takayama",
+      "howTo": "Visit Higashiyama Walking Course.",
+      "badge": "badges/higashiyama-walking.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/okayama/kurashiki",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "33",
+  "stateName": "Okayama",
+  "cityName": "Kurashiki",
+  "bbox": {
+    "minLat": 34.59,
+    "minLng": 133.76,
+    "maxLat": 34.6,
+    "maxLng": 133.78
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bikan-historical-quarter",
+      "name": "Bikan Historical Quarter",
+      "lat": 34.5955,
+      "lng": 133.7715,
+      "radiusM": 200,
+      "address": "Bikan District, Kurashiki",
+      "howTo": "Visit Bikan Historical Quarter.",
+      "badge": "badges/bikan-historical-quarter.png"
+    },
+    {
+      "id": "ohara-museum",
+      "name": "Ohara Museum of Art",
+      "lat": 34.5965,
+      "lng": 133.7705,
+      "radiusM": 100,
+      "address": "Ohara Museum, Kurashiki",
+      "howTo": "Visit Ohara Museum of Art.",
+      "badge": "badges/ohara-museum.png"
+    },
+    {
+      "id": "kurashiki-ivy-square",
+      "name": "Kurashiki Ivy Square",
+      "lat": 34.5945,
+      "lng": 133.7685,
+      "radiusM": 120,
+      "address": "Ivy Square, Kurashiki",
+      "howTo": "Visit Kurashiki Ivy Square.",
+      "badge": "badges/kurashiki-ivy-square.png"
+    }
+  ]
+}

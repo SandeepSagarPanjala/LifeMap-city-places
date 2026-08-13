@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kanagawa/yokohama",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "14",
+  "stateName": "Kanagawa",
+  "cityName": "Yokohama",
+  "bbox": {
+    "minLat": 35.43,
+    "minLng": 139.62,
+    "maxLat": 35.47,
+    "maxLng": 139.66
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "minato-mirai",
+      "name": "Minato Mirai",
+      "lat": 35.4575,
+      "lng": 139.6375,
+      "radiusM": 250,
+      "address": "Minato Mirai 21, Yokohama",
+      "howTo": "Visit Minato Mirai.",
+      "badge": "badges/minato-mirai.png"
+    },
+    {
+      "id": "yokohama-chinatown",
+      "name": "Yokohama Chinatown",
+      "lat": 35.4435,
+      "lng": 139.6455,
+      "radiusM": 150,
+      "address": "Chukagai, Yokohama",
+      "howTo": "Visit Yokohama Chinatown.",
+      "badge": "badges/yokohama-chinatown.png"
+    },
+    {
+      "id": "sankeien",
+      "name": "Sankeien Garden",
+      "lat": 35.4175,
+      "lng": 139.6585,
+      "radiusM": 200,
+      "address": "Sankeien, Yokohama",
+      "howTo": "Visit Sankeien Garden.",
+      "badge": "badges/sankeien.png"
+    },
+    {
+      "id": "cup-noodles-museum",
+      "name": "Cup Noodles Museum",
+      "lat": 35.4555,
+      "lng": 139.6385,
+      "radiusM": 100,
+      "address": "Cup Noodles Museum, Yokohama",
+      "howTo": "Visit Cup Noodles Museum.",
+      "badge": "badges/cup-noodles-museum.png"
+    },
+    {
+      "id": "osanbashi-pier",
+      "name": "Osanbashi Pier",
+      "lat": 35.4525,
+      "lng": 139.6465,
+      "radiusM": 150,
+      "address": "Osanbashi Yokohama International Passenger Terminal",
+      "howTo": "Visit Osanbashi Pier.",
+      "badge": "badges/osanbashi-pier.png"
+    }
+  ]
+}

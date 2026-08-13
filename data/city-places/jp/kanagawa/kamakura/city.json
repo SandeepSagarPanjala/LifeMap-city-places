@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kanagawa/kamakura",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "14",
+  "stateName": "Kanagawa",
+  "cityName": "Kamakura",
+  "bbox": {
+    "minLat": 35.3,
+    "minLng": 139.53,
+    "maxLat": 35.34,
+    "maxLng": 139.57
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "great-buddha-kamakura",
+      "name": "Great Buddha of Kamakura",
+      "lat": 35.3167,
+      "lng": 139.5356,
+      "radiusM": 120,
+      "address": "Kotoku-in, Kamakura",
+      "howTo": "Visit Great Buddha of Kamakura.",
+      "badge": "badges/great-buddha-kamakura.png"
+    },
+    {
+      "id": "tsurugaoka-hachimangu",
+      "name": "Tsurugaoka Hachimangu",
+      "lat": 35.3255,
+      "lng": 139.5565,
+      "radiusM": 150,
+      "address": "Tsurugaoka Hachimangu, Kamakura",
+      "howTo": "Visit Tsurugaoka Hachimangu.",
+      "badge": "badges/tsurugaoka-hachimangu.png"
+    },
+    {
+      "id": "hasedera-kamakura",
+      "name": "Hasedera Temple",
+      "lat": 35.3125,
+      "lng": 139.5335,
+      "radiusM": 120,
+      "address": "Hasedera, Kamakura",
+      "howTo": "Visit Hasedera Temple.",
+      "badge": "badges/hasedera-kamakura.png"
+    },
+    {
+      "id": "komachi-street",
+      "name": "Komachi-dori",
+      "lat": 35.3235,
+      "lng": 139.5545,
+      "radiusM": 120,
+      "address": "Komachi Street, Kamakura",
+      "howTo": "Visit Komachi-dori.",
+      "badge": "badges/komachi-street.png"
+    }
+  ]
+}

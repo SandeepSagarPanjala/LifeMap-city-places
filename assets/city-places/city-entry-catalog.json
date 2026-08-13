@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T08:48:18.510Z",
+  "generatedAt": "2026-08-13T16:53:16.380Z",
   "cellDeg": 0.5,
-  "cityCount": 265,
+  "cityCount": 302,
   "cities": {
     "in/andaman-and-nicobar/port-blair": {
       "name": "Port Blair",
@@ -785,6 +785,339 @@
         "minLng": 88.3,
         "maxLat": 22.6,
         "maxLng": 88.4
+      }
+    },
+    "jp/aichi/nagoya": {
+      "name": "Nagoya",
+      "bbox": {
+        "minLat": 35.15,
+        "minLng": 136.88,
+        "maxLat": 35.2,
+        "maxLng": 136.95
+      }
+    },
+    "jp/ehime/matsuyama": {
+      "name": "Matsuyama",
+      "bbox": {
+        "minLat": 33.83,
+        "minLng": 132.75,
+        "maxLat": 33.86,
+        "maxLng": 132.78
+      }
+    },
+    "jp/fukuoka/fukuoka": {
+      "name": "Fukuoka",
+      "bbox": {
+        "minLat": 33.57,
+        "minLng": 130.38,
+        "maxLat": 33.61,
+        "maxLng": 130.43
+      }
+    },
+    "jp/gifu/shirakawa-go": {
+      "name": "Shirakawa-go",
+      "bbox": {
+        "minLat": 36.25,
+        "minLng": 136.9,
+        "maxLat": 36.27,
+        "maxLng": 136.91
+      }
+    },
+    "jp/gifu/takayama": {
+      "name": "Takayama",
+      "bbox": {
+        "minLat": 36.13,
+        "minLng": 137.24,
+        "maxLat": 36.15,
+        "maxLng": 137.27
+      }
+    },
+    "jp/hiroshima/hiroshima": {
+      "name": "Hiroshima",
+      "bbox": {
+        "minLat": 34.38,
+        "minLng": 132.44,
+        "maxLat": 34.41,
+        "maxLng": 132.48
+      }
+    },
+    "jp/hiroshima/miyajima": {
+      "name": "Miyajima",
+      "bbox": {
+        "minLat": 34.29,
+        "minLng": 132.31,
+        "maxLat": 34.3,
+        "maxLng": 132.33
+      }
+    },
+    "jp/hokkaido/hakodate": {
+      "name": "Hakodate",
+      "bbox": {
+        "minLat": 41.75,
+        "minLng": 140.7,
+        "maxLat": 41.8,
+        "maxLng": 140.76
+      }
+    },
+    "jp/hokkaido/otaru": {
+      "name": "Otaru",
+      "bbox": {
+        "minLat": 43.18,
+        "minLng": 140.98,
+        "maxLat": 43.21,
+        "maxLng": 141.02
+      }
+    },
+    "jp/hokkaido/sapporo": {
+      "name": "Sapporo",
+      "bbox": {
+        "minLat": 43.02,
+        "minLng": 141.3,
+        "maxLat": 43.1,
+        "maxLng": 141.42
+      }
+    },
+    "jp/hyogo/himeji": {
+      "name": "Himeji",
+      "bbox": {
+        "minLat": 34.83,
+        "minLng": 134.68,
+        "maxLat": 34.85,
+        "maxLng": 134.7
+      }
+    },
+    "jp/hyogo/kobe": {
+      "name": "Kobe",
+      "bbox": {
+        "minLat": 34.68,
+        "minLng": 135.17,
+        "maxLat": 34.72,
+        "maxLng": 135.22
+      }
+    },
+    "jp/ishikawa/kanazawa": {
+      "name": "Kanazawa",
+      "bbox": {
+        "minLat": 36.55,
+        "minLng": 136.64,
+        "maxLat": 36.58,
+        "maxLng": 136.68
+      }
+    },
+    "jp/kagawa/naoshima": {
+      "name": "Naoshima",
+      "bbox": {
+        "minLat": 34.45,
+        "minLng": 133.98,
+        "maxLat": 34.47,
+        "maxLng": 134.01
+      }
+    },
+    "jp/kagawa/takamatsu": {
+      "name": "Takamatsu",
+      "bbox": {
+        "minLat": 34.33,
+        "minLng": 134.04,
+        "maxLat": 34.35,
+        "maxLng": 134.06
+      }
+    },
+    "jp/kagoshima/kagoshima": {
+      "name": "Kagoshima",
+      "bbox": {
+        "minLat": 31.58,
+        "minLng": 130.54,
+        "maxLat": 31.61,
+        "maxLng": 130.57
+      }
+    },
+    "jp/kanagawa/hakone": {
+      "name": "Hakone",
+      "bbox": {
+        "minLat": 35.22,
+        "minLng": 139.02,
+        "maxLat": 35.26,
+        "maxLng": 139.08
+      }
+    },
+    "jp/kanagawa/kamakura": {
+      "name": "Kamakura",
+      "bbox": {
+        "minLat": 35.3,
+        "minLng": 139.53,
+        "maxLat": 35.34,
+        "maxLng": 139.57
+      }
+    },
+    "jp/kanagawa/yokohama": {
+      "name": "Yokohama",
+      "bbox": {
+        "minLat": 35.43,
+        "minLng": 139.62,
+        "maxLat": 35.47,
+        "maxLng": 139.66
+      }
+    },
+    "jp/kumamoto/kumamoto": {
+      "name": "Kumamoto",
+      "bbox": {
+        "minLat": 32.79,
+        "minLng": 130.68,
+        "maxLat": 32.81,
+        "maxLng": 130.71
+      }
+    },
+    "jp/kyoto/kyoto": {
+      "name": "Kyoto",
+      "bbox": {
+        "minLat": 34.98,
+        "minLng": 135.74,
+        "maxLat": 35.05,
+        "maxLng": 135.8
+      }
+    },
+    "jp/mie/ise": {
+      "name": "Ise",
+      "bbox": {
+        "minLat": 34.45,
+        "minLng": 136.72,
+        "maxLat": 34.49,
+        "maxLng": 136.74
+      }
+    },
+    "jp/miyagi/sendai": {
+      "name": "Sendai",
+      "bbox": {
+        "minLat": 38.24,
+        "minLng": 140.85,
+        "maxLat": 38.28,
+        "maxLng": 140.9
+      }
+    },
+    "jp/nagano/matsumoto": {
+      "name": "Matsumoto",
+      "bbox": {
+        "minLat": 36.23,
+        "minLng": 137.96,
+        "maxLat": 36.25,
+        "maxLng": 137.98
+      }
+    },
+    "jp/nagano/nagano": {
+      "name": "Nagano",
+      "bbox": {
+        "minLat": 36.64,
+        "minLng": 138.18,
+        "maxLat": 36.67,
+        "maxLng": 138.2
+      }
+    },
+    "jp/nagasaki/nagasaki": {
+      "name": "Nagasaki",
+      "bbox": {
+        "minLat": 32.73,
+        "minLng": 129.86,
+        "maxLat": 32.76,
+        "maxLng": 129.89
+      }
+    },
+    "jp/nara/nara": {
+      "name": "Nara",
+      "bbox": {
+        "minLat": 34.67,
+        "minLng": 135.82,
+        "maxLat": 34.7,
+        "maxLng": 135.85
+      }
+    },
+    "jp/oita/beppu": {
+      "name": "Beppu",
+      "bbox": {
+        "minLat": 33.27,
+        "minLng": 131.48,
+        "maxLat": 33.3,
+        "maxLng": 131.51
+      }
+    },
+    "jp/okayama/kurashiki": {
+      "name": "Kurashiki",
+      "bbox": {
+        "minLat": 34.59,
+        "minLng": 133.76,
+        "maxLat": 34.6,
+        "maxLng": 133.78
+      }
+    },
+    "jp/okayama/okayama": {
+      "name": "Okayama",
+      "bbox": {
+        "minLat": 34.66,
+        "minLng": 133.92,
+        "maxLat": 34.68,
+        "maxLng": 133.95
+      }
+    },
+    "jp/okinawa/ishigaki": {
+      "name": "Ishigaki",
+      "bbox": {
+        "minLat": 24.33,
+        "minLng": 124.15,
+        "maxLat": 24.38,
+        "maxLng": 124.18
+      }
+    },
+    "jp/okinawa/naha": {
+      "name": "Naha",
+      "bbox": {
+        "minLat": 26.2,
+        "minLng": 127.67,
+        "maxLat": 26.23,
+        "maxLng": 127.72
+      }
+    },
+    "jp/osaka/osaka": {
+      "name": "Osaka",
+      "bbox": {
+        "minLat": 34.64,
+        "minLng": 135.48,
+        "maxLat": 34.7,
+        "maxLng": 135.53
+      }
+    },
+    "jp/tochigi/nikko": {
+      "name": "Nikko",
+      "bbox": {
+        "minLat": 36.74,
+        "minLng": 139.58,
+        "maxLat": 36.78,
+        "maxLng": 139.62
+      }
+    },
+    "jp/tokyo/tokyo": {
+      "name": "Tokyo",
+      "bbox": {
+        "minLat": 35.62,
+        "minLng": 139.7,
+        "maxLat": 35.72,
+        "maxLng": 139.82
+      }
+    },
+    "jp/wakayama/koyasan": {
+      "name": "Koyasan",
+      "bbox": {
+        "minLat": 34.21,
+        "minLng": 135.58,
+        "maxLat": 34.22,
+        "maxLng": 135.6
+      }
+    },
+    "jp/yamanashi/kawaguchiko": {
+      "name": "Kawaguchiko",
+      "bbox": {
+        "minLat": 35.48,
+        "minLng": 138.74,
+        "maxLat": 35.52,
+        "maxLng": 138.78
       }
     },
     "us/alabama/birmingham": {
@@ -3594,6 +3927,119 @@
     ],
     "23,159": [
       "in/puducherry/puducherry"
+    ],
+    "86,282": [
+      "jp/hokkaido/otaru",
+      "jp/hokkaido/sapporo"
+    ],
+    "83,281": [
+      "jp/hokkaido/hakodate"
+    ],
+    "86,281": [
+      "jp/hokkaido/otaru"
+    ],
+    "76,281": [
+      "jp/miyagi/sendai"
+    ],
+    "73,279": [
+      "jp/tochigi/nikko"
+    ],
+    "71,279": [
+      "jp/tokyo/tokyo"
+    ],
+    "70,279": [
+      "jp/kanagawa/kamakura",
+      "jp/kanagawa/yokohama"
+    ],
+    "70,278": [
+      "jp/kanagawa/hakone"
+    ],
+    "73,273": [
+      "jp/ishikawa/kanazawa"
+    ],
+    "70,277": [
+      "jp/yamanashi/kawaguchiko"
+    ],
+    "71,277": [
+      "jp/yamanashi/kawaguchiko"
+    ],
+    "72,275": [
+      "jp/nagano/matsumoto"
+    ],
+    "73,276": [
+      "jp/nagano/nagano"
+    ],
+    "72,274": [
+      "jp/gifu/takayama"
+    ],
+    "72,273": [
+      "jp/gifu/shirakawa-go"
+    ],
+    "70,273": [
+      "jp/aichi/nagoya"
+    ],
+    "68,273": [
+      "jp/mie/ise"
+    ],
+    "69,271": [
+      "jp/kyoto/kyoto",
+      "jp/nara/nara",
+      "jp/osaka/osaka"
+    ],
+    "70,271": [
+      "jp/kyoto/kyoto"
+    ],
+    "69,270": [
+      "jp/hyogo/kobe",
+      "jp/osaka/osaka"
+    ],
+    "69,269": [
+      "jp/hyogo/himeji"
+    ],
+    "68,271": [
+      "jp/wakayama/koyasan"
+    ],
+    "69,267": [
+      "jp/okayama/kurashiki",
+      "jp/okayama/okayama"
+    ],
+    "68,264": [
+      "jp/hiroshima/hiroshima",
+      "jp/hiroshima/miyajima"
+    ],
+    "68,268": [
+      "jp/kagawa/naoshima",
+      "jp/kagawa/takamatsu"
+    ],
+    "68,267": [
+      "jp/kagawa/naoshima"
+    ],
+    "67,265": [
+      "jp/ehime/matsuyama"
+    ],
+    "67,260": [
+      "jp/fukuoka/fukuoka"
+    ],
+    "65,259": [
+      "jp/nagasaki/nagasaki"
+    ],
+    "65,261": [
+      "jp/kumamoto/kumamoto"
+    ],
+    "66,262": [
+      "jp/oita/beppu"
+    ],
+    "66,263": [
+      "jp/oita/beppu"
+    ],
+    "63,261": [
+      "jp/kagoshima/kagoshima"
+    ],
+    "52,255": [
+      "jp/okinawa/naha"
+    ],
+    "48,248": [
+      "jp/okinawa/ishigaki"
     ]
   }
 }

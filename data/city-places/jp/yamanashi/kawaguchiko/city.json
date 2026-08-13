@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/yamanashi/kawaguchiko",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "19",
+  "stateName": "Yamanashi",
+  "cityName": "Kawaguchiko",
+  "bbox": {
+    "minLat": 35.48,
+    "minLng": 138.74,
+    "maxLat": 35.52,
+    "maxLng": 138.78
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chureito-pagoda",
+      "name": "Chureito Pagoda",
+      "lat": 35.5005,
+      "lng": 138.7695,
+      "radiusM": 120,
+      "address": "Arakurayama Sengen Park",
+      "howTo": "Visit Chureito Pagoda.",
+      "badge": "badges/chureito-pagoda.png"
+    },
+    {
+      "id": "lake-kawaguchi",
+      "name": "Lake Kawaguchi",
+      "lat": 35.5085,
+      "lng": 138.7565,
+      "radiusM": 300,
+      "address": "Lake Kawaguchi",
+      "howTo": "Visit Lake Kawaguchi.",
+      "badge": "badges/lake-kawaguchi.png"
+    },
+    {
+      "id": "fuji-q-highland",
+      "name": "Fuji-Q Highland",
+      "lat": 35.4875,
+      "lng": 138.7805,
+      "radiusM": 250,
+      "address": "Fuji-Q Highland",
+      "howTo": "Visit Fuji-Q Highland.",
+      "badge": "badges/fuji-q-highland.png"
+    },
+    {
+      "id": "fuji-viewpoint",
+      "name": "Mount Fuji Viewpoint",
+      "lat": 35.4655,
+      "lng": 138.7455,
+      "radiusM": 200,
+      "address": "Fuji viewpoint near Kawaguchiko",
+      "howTo": "Visit Mount Fuji Viewpoint.",
+      "badge": "badges/fuji-viewpoint.png"
+    }
+  ]
+}

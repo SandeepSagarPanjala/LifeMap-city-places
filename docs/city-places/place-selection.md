@@ -22,7 +22,7 @@ Only add **popular / destination cities** to `index.json`:
 - Famous tourist towns (e.g. Sedona, Savannah, Bar Harbor, Moab)
 - Skip ordinary suburbs, tiny towns, and places with no clear visitor draw
 
-Rough scale: **a few cities per state** (often ~2–8), not hundreds. Worldwide: expand **country by country**; United States and India are complete; next is **Japan**. Each babysit `go` should **start and finish one country** (not a partial state slice).
+Rough scale: **a few cities per state** (often ~2–8), not hundreds. Worldwide: expand **country by country**; United States, India, and Japan are complete. Each babysit `go` should **start and finish one country** (not a partial state slice).
 
 Cities not in the index simply have no city-places pack. Category achievements still work everywhere.
 

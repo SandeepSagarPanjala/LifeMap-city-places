@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/wakayama/koyasan",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "30",
+  "stateName": "Wakayama",
+  "cityName": "Koyasan",
+  "bbox": {
+    "minLat": 34.21,
+    "minLng": 135.58,
+    "maxLat": 34.22,
+    "maxLng": 135.6
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "okunoin",
+      "name": "Okunoin Cemetery",
+      "lat": 34.2145,
+      "lng": 135.5985,
+      "radiusM": 250,
+      "address": "Okunoin, Koyasan",
+      "howTo": "Visit Okunoin Cemetery.",
+      "badge": "badges/okunoin.png"
+    },
+    {
+      "id": "kongobuji",
+      "name": "Kongobu-ji",
+      "lat": 34.2135,
+      "lng": 135.5845,
+      "radiusM": 120,
+      "address": "Kongobu-ji, Koyasan",
+      "howTo": "Visit Kongobu-ji.",
+      "badge": "badges/kongobuji.png"
+    },
+    {
+      "id": "danjo-garan",
+      "name": "Danjo Garan",
+      "lat": 34.214,
+      "lng": 135.5805,
+      "radiusM": 150,
+      "address": "Danjo Garan, Koyasan",
+      "howTo": "Visit Danjo Garan.",
+      "badge": "badges/danjo-garan.png"
+    }
+  ]
+}

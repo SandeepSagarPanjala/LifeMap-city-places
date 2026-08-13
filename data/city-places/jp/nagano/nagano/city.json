@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/nagano/nagano",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "20",
+  "stateName": "Nagano",
+  "cityName": "Nagano",
+  "bbox": {
+    "minLat": 36.64,
+    "minLng": 138.18,
+    "maxLat": 36.67,
+    "maxLng": 138.2
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zenkoji",
+      "name": "Zenko-ji Temple",
+      "lat": 36.6615,
+      "lng": 138.1875,
+      "radiusM": 150,
+      "address": "Zenko-ji, Nagano",
+      "howTo": "Visit Zenko-ji Temple.",
+      "badge": "badges/zenkoji.png"
+    },
+    {
+      "id": "joyama-park",
+      "name": "Joyama Park",
+      "lat": 36.6625,
+      "lng": 138.1865,
+      "radiusM": 150,
+      "address": "Joyama Park, Nagano",
+      "howTo": "Visit Joyama Park.",
+      "badge": "badges/joyama-park.png"
+    },
+    {
+      "id": "togakushi-shrine",
+      "name": "Togakushi Shrine",
+      "lat": 36.7435,
+      "lng": 138.0835,
+      "radiusM": 200,
+      "address": "Togakushi Shrine, Nagano",
+      "howTo": "Visit Togakushi Shrine.",
+      "badge": "badges/togakushi-shrine.png"
+    }
+  ]
+}

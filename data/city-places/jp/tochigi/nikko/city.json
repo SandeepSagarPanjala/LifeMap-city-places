@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/tochigi/nikko",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "09",
+  "stateName": "Tochigi",
+  "cityName": "Nikko",
+  "bbox": {
+    "minLat": 36.74,
+    "minLng": 139.58,
+    "maxLat": 36.78,
+    "maxLng": 139.62
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "toshogu-shrine",
+      "name": "Nikko Toshogu",
+      "lat": 36.7575,
+      "lng": 139.5985,
+      "radiusM": 200,
+      "address": "Toshogu Shrine, Nikko",
+      "howTo": "Visit Nikko Toshogu.",
+      "badge": "badges/toshogu-shrine.png"
+    },
+    {
+      "id": "shinkyo-bridge",
+      "name": "Shinkyo Bridge",
+      "lat": 36.7535,
+      "lng": 139.6015,
+      "radiusM": 100,
+      "address": "Shinkyo Bridge, Nikko",
+      "howTo": "Visit Shinkyo Bridge.",
+      "badge": "badges/shinkyo-bridge.png"
+    },
+    {
+      "id": "rinnoji-nikko",
+      "name": "Rinno-ji Temple",
+      "lat": 36.7545,
+      "lng": 139.5985,
+      "radiusM": 150,
+      "address": "Rinno-ji, Nikko",
+      "howTo": "Visit Rinno-ji Temple.",
+      "badge": "badges/rinnoji-nikko.png"
+    },
+    {
+      "id": "kegon-falls",
+      "name": "Kegon Falls",
+      "lat": 36.7385,
+      "lng": 139.4985,
+      "radiusM": 150,
+      "address": "Kegon Falls, Nikko",
+      "howTo": "Visit Kegon Falls.",
+      "badge": "badges/kegon-falls.png"
+    },
+    {
+      "id": "lake-chuzenji",
+      "name": "Lake Chuzenji",
+      "lat": 36.7395,
+      "lng": 139.4625,
+      "radiusM": 300,
+      "address": "Lake Chuzenji, Nikko",
+      "howTo": "Visit Lake Chuzenji.",
+      "badge": "badges/lake-chuzenji.png"
+    }
+  ]
+}

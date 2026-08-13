@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/gifu/shirakawa-go",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "21",
+  "stateName": "Gifu",
+  "cityName": "Shirakawa-go",
+  "bbox": {
+    "minLat": 36.25,
+    "minLng": 136.9,
+    "maxLat": 36.27,
+    "maxLng": 136.91
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ogimachi-village",
+      "name": "Ogimachi Village",
+      "lat": 36.2575,
+      "lng": 136.9065,
+      "radiusM": 250,
+      "address": "Ogimachi, Shirakawa-go",
+      "howTo": "Visit Ogimachi Village.",
+      "badge": "badges/ogimachi-village.png"
+    },
+    {
+      "id": "shiroyama-viewpoint",
+      "name": "Shiroyama Viewpoint",
+      "lat": 36.2585,
+      "lng": 136.9045,
+      "radiusM": 120,
+      "address": "Shiroyama Tenbodai, Shirakawa-go",
+      "howTo": "Visit Shiroyama Viewpoint.",
+      "badge": "badges/shiroyama-viewpoint.png"
+    },
+    {
+      "id": "wada-house",
+      "name": "Wada House",
+      "lat": 36.2565,
+      "lng": 136.9055,
+      "radiusM": 80,
+      "address": "Wada House, Shirakawa-go",
+      "howTo": "Visit Wada House.",
+      "badge": "badges/wada-house.png"
+    }
+  ]
+}

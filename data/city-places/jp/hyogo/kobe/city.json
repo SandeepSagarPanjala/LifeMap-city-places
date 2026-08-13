@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hyogo/kobe",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "28",
+  "stateName": "Hyogo",
+  "cityName": "Kobe",
+  "bbox": {
+    "minLat": 34.68,
+    "minLng": 135.17,
+    "maxLat": 34.72,
+    "maxLng": 135.22
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kobe-harborland",
+      "name": "Kobe Harborland",
+      "lat": 34.6815,
+      "lng": 135.1865,
+      "radiusM": 200,
+      "address": "Harborland, Kobe",
+      "howTo": "Visit Kobe Harborland.",
+      "badge": "badges/kobe-harborland.png"
+    },
+    {
+      "id": "nunobiki-falls",
+      "name": "Nunobiki Falls",
+      "lat": 34.7115,
+      "lng": 135.1925,
+      "radiusM": 150,
+      "address": "Nunobiki Falls, Kobe",
+      "howTo": "Visit Nunobiki Falls.",
+      "badge": "badges/nunobiki-falls.png"
+    },
+    {
+      "id": "kitano-ijinkan",
+      "name": "Kitano Ijinkan",
+      "lat": 34.6985,
+      "lng": 135.1905,
+      "radiusM": 150,
+      "address": "Kitano Foreigners Houses, Kobe",
+      "howTo": "Visit Kitano Ijinkan.",
+      "badge": "badges/kitano-ijinkan.png"
+    },
+    {
+      "id": "meriken-park",
+      "name": "Meriken Park",
+      "lat": 34.6825,
+      "lng": 135.1885,
+      "radiusM": 150,
+      "address": "Meriken Park, Kobe",
+      "howTo": "Visit Meriken Park.",
+      "badge": "badges/meriken-park.png"
+    }
+  ]
+}

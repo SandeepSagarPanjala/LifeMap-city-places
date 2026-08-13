@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/miyagi/sendai",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "04",
+  "stateName": "Miyagi",
+  "cityName": "Sendai",
+  "bbox": {
+    "minLat": 38.24,
+    "minLng": 140.85,
+    "maxLat": 38.28,
+    "maxLng": 140.9
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sendai-castle",
+      "name": "Sendai Castle Ruins",
+      "lat": 38.2525,
+      "lng": 140.8565,
+      "radiusM": 200,
+      "address": "Aoba Castle, Sendai",
+      "howTo": "Visit Sendai Castle Ruins.",
+      "badge": "badges/sendai-castle.png"
+    },
+    {
+      "id": "osaki-hachimangu",
+      "name": "Osaki Hachimangu",
+      "lat": 38.2725,
+      "lng": 140.8455,
+      "radiusM": 120,
+      "address": "Osaki Hachimangu, Sendai",
+      "howTo": "Visit Osaki Hachimangu.",
+      "badge": "badges/osaki-hachimangu.png"
+    },
+    {
+      "id": "jozenji-dori",
+      "name": "Jozenji-dori Avenue",
+      "lat": 38.2655,
+      "lng": 140.8705,
+      "radiusM": 150,
+      "address": "Jozenji-dori, Sendai",
+      "howTo": "Visit Jozenji-dori Avenue.",
+      "badge": "badges/jozenji-dori.png"
+    },
+    {
+      "id": "rinnoji-sendai",
+      "name": "Rinno-ji Temple",
+      "lat": 38.2785,
+      "lng": 140.8525,
+      "radiusM": 120,
+      "address": "Rinno-ji, Sendai",
+      "howTo": "Visit Rinno-ji Temple.",
+      "badge": "badges/rinnoji-sendai.png"
+    }
+  ]
+}

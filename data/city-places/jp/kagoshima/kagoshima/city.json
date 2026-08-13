@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kagoshima/kagoshima",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "46",
+  "stateName": "Kagoshima",
+  "cityName": "Kagoshima",
+  "bbox": {
+    "minLat": 31.58,
+    "minLng": 130.54,
+    "maxLat": 31.61,
+    "maxLng": 130.57
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sakurajima",
+      "name": "Sakurajima",
+      "lat": 31.5905,
+      "lng": 130.6575,
+      "radiusM": 300,
+      "address": "Sakurajima ferry / viewpoint",
+      "howTo": "Visit Sakurajima.",
+      "badge": "badges/sakurajima.png"
+    },
+    {
+      "id": "senganen",
+      "name": "Sengan-en",
+      "lat": 31.6175,
+      "lng": 130.5765,
+      "radiusM": 200,
+      "address": "Sengan-en Garden, Kagoshima",
+      "howTo": "Visit Sengan-en.",
+      "badge": "badges/senganen.png"
+    },
+    {
+      "id": "shiroyama-observatory",
+      "name": "Shiroyama Observatory",
+      "lat": 31.5965,
+      "lng": 130.5505,
+      "radiusM": 120,
+      "address": "Shiroyama Observatory, Kagoshima",
+      "howTo": "Visit Shiroyama Observatory.",
+      "badge": "badges/shiroyama-observatory.png"
+    }
+  ]
+}

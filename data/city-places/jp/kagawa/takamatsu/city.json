@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kagawa/takamatsu",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "37",
+  "stateName": "Kagawa",
+  "cityName": "Takamatsu",
+  "bbox": {
+    "minLat": 34.33,
+    "minLng": 134.04,
+    "maxLat": 34.35,
+    "maxLng": 134.06
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ritsurin-garden",
+      "name": "Ritsurin Garden",
+      "lat": 34.3295,
+      "lng": 134.0445,
+      "radiusM": 250,
+      "address": "Ritsurin Garden, Takamatsu",
+      "howTo": "Visit Ritsurin Garden.",
+      "badge": "badges/ritsurin-garden.png"
+    },
+    {
+      "id": "takamatsu-castle",
+      "name": "Takamatsu Castle",
+      "lat": 34.3505,
+      "lng": 134.0515,
+      "radiusM": 150,
+      "address": "Takamatsu Castle / Tamamo Park",
+      "howTo": "Visit Takamatsu Castle.",
+      "badge": "badges/takamatsu-castle.png"
+    },
+    {
+      "id": "yashima",
+      "name": "Yashima",
+      "lat": 34.3555,
+      "lng": 134.1185,
+      "radiusM": 200,
+      "address": "Yashima Plateau, Takamatsu",
+      "howTo": "Visit Yashima.",
+      "badge": "badges/yashima.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/ehime/matsuyama",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "38",
+  "stateName": "Ehime",
+  "cityName": "Matsuyama",
+  "bbox": {
+    "minLat": 33.83,
+    "minLng": 132.75,
+    "maxLat": 33.86,
+    "maxLng": 132.78
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "matsuyama-castle",
+      "name": "Matsuyama Castle",
+      "lat": 33.8455,
+      "lng": 132.7655,
+      "radiusM": 200,
+      "address": "Matsuyama Castle",
+      "howTo": "Visit Matsuyama Castle.",
+      "badge": "badges/matsuyama-castle.png"
+    },
+    {
+      "id": "dogo-onsen",
+      "name": "Dogo Onsen Honkan",
+      "lat": 33.8515,
+      "lng": 132.7865,
+      "radiusM": 120,
+      "address": "Dogo Onsen, Matsuyama",
+      "howTo": "Visit Dogo Onsen Honkan.",
+      "badge": "badges/dogo-onsen.png"
+    },
+    {
+      "id": "ishiteji",
+      "name": "Ishite-ji Temple",
+      "lat": 33.8505,
+      "lng": 132.7965,
+      "radiusM": 120,
+      "address": "Ishite-ji, Matsuyama",
+      "howTo": "Visit Ishite-ji Temple.",
+      "badge": "badges/ishiteji.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/aichi/nagoya",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "23",
+  "stateName": "Aichi",
+  "cityName": "Nagoya",
+  "bbox": {
+    "minLat": 35.15,
+    "minLng": 136.88,
+    "maxLat": 35.2,
+    "maxLng": 136.95
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nagoya-castle",
+      "name": "Nagoya Castle",
+      "lat": 35.1855,
+      "lng": 136.8995,
+      "radiusM": 200,
+      "address": "Nagoya Castle",
+      "howTo": "Visit Nagoya Castle.",
+      "badge": "badges/nagoya-castle.png"
+    },
+    {
+      "id": "atsuta-jingu",
+      "name": "Atsuta Shrine",
+      "lat": 35.1275,
+      "lng": 136.9075,
+      "radiusM": 200,
+      "address": "Atsuta Jingu, Nagoya",
+      "howTo": "Visit Atsuta Shrine.",
+      "badge": "badges/atsuta-jingu.png"
+    },
+    {
+      "id": "oasis-21",
+      "name": "Oasis 21",
+      "lat": 35.1705,
+      "lng": 136.9085,
+      "radiusM": 120,
+      "address": "Oasis 21, Sakae, Nagoya",
+      "howTo": "Visit Oasis 21.",
+      "badge": "badges/oasis-21.png"
+    },
+    {
+      "id": "toyota-commemorative",
+      "name": "Toyota Commemorative Museum",
+      "lat": 35.1835,
+      "lng": 136.8685,
+      "radiusM": 150,
+      "address": "Toyota Commemorative Museum of Industry and Technology",
+      "howTo": "Visit Toyota Commemorative Museum.",
+      "badge": "badges/toyota-commemorative.png"
+    },
+    {
+      "id": "scmaglev-park",
+      "name": "SCMaglev and Railway Park",
+      "lat": 35.0475,
+      "lng": 136.8435,
+      "radiusM": 200,
+      "address": "SCMaglev and Railway Park, Nagoya",
+      "howTo": "Visit SCMaglev and Railway Park.",
+      "badge": "badges/scmaglev-park.png"
+    }
+  ]
+}

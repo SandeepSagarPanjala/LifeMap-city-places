@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kagawa/naoshima",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "37",
+  "stateName": "Kagawa",
+  "cityName": "Naoshima",
+  "bbox": {
+    "minLat": 34.45,
+    "minLng": 133.98,
+    "maxLat": 34.47,
+    "maxLng": 134.01
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chichu-art-museum",
+      "name": "Chichu Art Museum",
+      "lat": 34.4505,
+      "lng": 133.9875,
+      "radiusM": 120,
+      "address": "Chichu Art Museum, Naoshima",
+      "howTo": "Visit Chichu Art Museum.",
+      "badge": "badges/chichu-art-museum.png"
+    },
+    {
+      "id": "yellow-pumpkin",
+      "name": "Yellow Pumpkin",
+      "lat": 34.4585,
+      "lng": 133.9955,
+      "radiusM": 80,
+      "address": "Yayoi Kusama Yellow Pumpkin, Naoshima",
+      "howTo": "Visit Yellow Pumpkin.",
+      "badge": "badges/yellow-pumpkin.png"
+    },
+    {
+      "id": "benesse-house",
+      "name": "Benesse House Museum",
+      "lat": 34.4475,
+      "lng": 133.9885,
+      "radiusM": 120,
+      "address": "Benesse House Museum, Naoshima",
+      "howTo": "Visit Benesse House Museum.",
+      "badge": "badges/benesse-house.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kanagawa/hakone",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "14",
+  "stateName": "Kanagawa",
+  "cityName": "Hakone",
+  "bbox": {
+    "minLat": 35.22,
+    "minLng": 139.02,
+    "maxLat": 35.26,
+    "maxLng": 139.08
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hakone-shrine",
+      "name": "Hakone Shrine",
+      "lat": 35.2045,
+      "lng": 139.0255,
+      "radiusM": 150,
+      "address": "Hakone Shrine, Lake Ashi",
+      "howTo": "Visit Hakone Shrine.",
+      "badge": "badges/hakone-shrine.png"
+    },
+    {
+      "id": "lake-ashi",
+      "name": "Lake Ashi",
+      "lat": 35.2085,
+      "lng": 139.0255,
+      "radiusM": 300,
+      "address": "Lake Ashi, Hakone",
+      "howTo": "Visit Lake Ashi.",
+      "badge": "badges/lake-ashi.png"
+    },
+    {
+      "id": "hakone-open-air-museum",
+      "name": "Hakone Open-Air Museum",
+      "lat": 35.2455,
+      "lng": 139.0515,
+      "radiusM": 200,
+      "address": "Open-Air Museum, Hakone",
+      "howTo": "Visit Hakone Open-Air Museum.",
+      "badge": "badges/hakone-open-air-museum.png"
+    },
+    {
+      "id": "owakudani",
+      "name": "Owakudani",
+      "lat": 35.2425,
+      "lng": 139.0195,
+      "radiusM": 200,
+      "address": "Owakudani Valley, Hakone",
+      "howTo": "Visit Owakudani.",
+      "badge": "badges/owakudani.png"
+    }
+  ]
+}

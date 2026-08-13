@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kyoto/kyoto",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "26",
+  "stateName": "Kyoto",
+  "cityName": "Kyoto",
+  "bbox": {
+    "minLat": 34.98,
+    "minLng": 135.74,
+    "maxLat": 35.05,
+    "maxLng": 135.8
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fushimi-inari",
+      "name": "Fushimi Inari Taisha",
+      "lat": 34.9671,
+      "lng": 135.7727,
+      "radiusM": 250,
+      "address": "Fushimi Inari, Kyoto",
+      "howTo": "Visit Fushimi Inari Taisha.",
+      "badge": "badges/fushimi-inari.png"
+    },
+    {
+      "id": "kinkakuji",
+      "name": "Kinkaku-ji",
+      "lat": 35.0394,
+      "lng": 135.7292,
+      "radiusM": 150,
+      "address": "Golden Pavilion, Kyoto",
+      "howTo": "Visit Kinkaku-ji.",
+      "badge": "badges/kinkakuji.png"
+    },
+    {
+      "id": "kiyomizu-dera",
+      "name": "Kiyomizu-dera",
+      "lat": 34.9949,
+      "lng": 135.785,
+      "radiusM": 150,
+      "address": "Kiyomizu-dera, Kyoto",
+      "howTo": "Visit Kiyomizu-dera.",
+      "badge": "badges/kiyomizu-dera.png"
+    },
+    {
+      "id": "arashiyama-bamboo",
+      "name": "Arashiyama Bamboo Grove",
+      "lat": 35.017,
+      "lng": 135.672,
+      "radiusM": 150,
+      "address": "Arashiyama Bamboo Grove",
+      "howTo": "Visit Arashiyama Bamboo Grove.",
+      "badge": "badges/arashiyama-bamboo.png"
+    },
+    {
+      "id": "gion",
+      "name": "Gion District",
+      "lat": 35.0035,
+      "lng": 135.775,
+      "radiusM": 200,
+      "address": "Gion, Kyoto",
+      "howTo": "Visit Gion District.",
+      "badge": "badges/gion.png"
+    },
+    {
+      "id": "nijo-castle",
+      "name": "Nijo Castle",
+      "lat": 35.0142,
+      "lng": 135.7482,
+      "radiusM": 200,
+      "address": "Nijo Castle, Kyoto",
+      "howTo": "Visit Nijo Castle.",
+      "badge": "badges/nijo-castle.png"
+    },
+    {
+      "id": "philosopher-path",
+      "name": "Philosopher Path",
+      "lat": 35.0265,
+      "lng": 135.7955,
+      "radiusM": 200,
+      "address": "Philosopher Path, Kyoto",
+      "howTo": "Visit Philosopher Path.",
+      "badge": "badges/philosopher-path.png"
+    },
+    {
+      "id": "yasaka-shrine",
+      "name": "Yasaka Shrine",
+      "lat": 35.0036,
+      "lng": 135.7786,
+      "radiusM": 120,
+      "address": "Yasaka Shrine, Kyoto",
+      "howTo": "Visit Yasaka Shrine.",
+      "badge": "badges/yasaka-shrine.png"
+    }
+  ]
+}

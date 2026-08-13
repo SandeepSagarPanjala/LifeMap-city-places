@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/nagano/matsumoto",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "20",
+  "stateName": "Nagano",
+  "cityName": "Matsumoto",
+  "bbox": {
+    "minLat": 36.23,
+    "minLng": 137.96,
+    "maxLat": 36.25,
+    "maxLng": 137.98
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "matsumoto-castle",
+      "name": "Matsumoto Castle",
+      "lat": 36.2385,
+      "lng": 137.969,
+      "radiusM": 150,
+      "address": "Matsumoto Castle",
+      "howTo": "Visit Matsumoto Castle.",
+      "badge": "badges/matsumoto-castle.png"
+    },
+    {
+      "id": "nakamachi-street",
+      "name": "Nakamachi Street",
+      "lat": 36.2355,
+      "lng": 137.9725,
+      "radiusM": 120,
+      "address": "Nakamachi, Matsumoto",
+      "howTo": "Visit Nakamachi Street.",
+      "badge": "badges/nakamachi-street.png"
+    },
+    {
+      "id": "kaichi-school",
+      "name": "Former Kaichi School",
+      "lat": 36.2415,
+      "lng": 137.9715,
+      "radiusM": 100,
+      "address": "Kaichi School Museum, Matsumoto",
+      "howTo": "Visit Former Kaichi School.",
+      "badge": "badges/kaichi-school.png"
+    }
+  ]
+}

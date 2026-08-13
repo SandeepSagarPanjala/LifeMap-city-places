@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/okinawa/ishigaki",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "47",
+  "stateName": "Okinawa",
+  "cityName": "Ishigaki",
+  "bbox": {
+    "minLat": 24.33,
+    "minLng": 124.15,
+    "maxLat": 24.38,
+    "maxLng": 124.18
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kabira-bay",
+      "name": "Kabira Bay",
+      "lat": 24.4525,
+      "lng": 124.1455,
+      "radiusM": 200,
+      "address": "Kabira Bay, Ishigaki",
+      "howTo": "Visit Kabira Bay.",
+      "badge": "badges/kabira-bay.png"
+    },
+    {
+      "id": "ishigaki-sunset-beach",
+      "name": "Sunset Beach Ishigaki",
+      "lat": 24.4485,
+      "lng": 124.1255,
+      "radiusM": 200,
+      "address": "Sunset Beach, Ishigaki",
+      "howTo": "Visit Sunset Beach Ishigaki.",
+      "badge": "badges/ishigaki-sunset-beach.png"
+    },
+    {
+      "id": "tamatorizaki",
+      "name": "Tamatorizaki Observatory",
+      "lat": 24.4565,
+      "lng": 124.1785,
+      "radiusM": 120,
+      "address": "Tamatorizaki Observatory, Ishigaki",
+      "howTo": "Visit Tamatorizaki Observatory.",
+      "badge": "badges/tamatorizaki.png"
+    }
+  ]
+}

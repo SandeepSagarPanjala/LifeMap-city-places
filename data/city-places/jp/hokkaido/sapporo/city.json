@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hokkaido/sapporo",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "01",
+  "stateName": "Hokkaido",
+  "cityName": "Sapporo",
+  "bbox": {
+    "minLat": 43.02,
+    "minLng": 141.3,
+    "maxLat": 43.1,
+    "maxLng": 141.42
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "odori-park",
+      "name": "Odori Park",
+      "lat": 43.0605,
+      "lng": 141.3535,
+      "radiusM": 250,
+      "address": "Odori Park, Sapporo",
+      "howTo": "Visit Odori Park.",
+      "badge": "badges/odori-park.png"
+    },
+    {
+      "id": "sapporo-tv-tower",
+      "name": "Sapporo TV Tower",
+      "lat": 43.061,
+      "lng": 141.3565,
+      "radiusM": 100,
+      "address": "Odori Nishi, Sapporo",
+      "howTo": "Visit Sapporo TV Tower.",
+      "badge": "badges/sapporo-tv-tower.png"
+    },
+    {
+      "id": "susukino",
+      "name": "Susukino",
+      "lat": 43.0555,
+      "lng": 141.3535,
+      "radiusM": 150,
+      "address": "Susukino, Sapporo",
+      "howTo": "Visit Susukino.",
+      "badge": "badges/susukino.png"
+    },
+    {
+      "id": "sapporo-clock-tower",
+      "name": "Sapporo Clock Tower",
+      "lat": 43.0625,
+      "lng": 141.3535,
+      "radiusM": 80,
+      "address": "Clock Tower, Sapporo",
+      "howTo": "Visit Sapporo Clock Tower.",
+      "badge": "badges/sapporo-clock-tower.png"
+    },
+    {
+      "id": "moerenuma-park",
+      "name": "Moerenuma Park",
+      "lat": 43.1235,
+      "lng": 141.4265,
+      "radiusM": 300,
+      "address": "Moerenuma Park, Sapporo",
+      "howTo": "Visit Moerenuma Park.",
+      "badge": "badges/moerenuma-park.png"
+    }
+  ]
+}

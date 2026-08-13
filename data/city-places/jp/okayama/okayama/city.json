@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/okayama/okayama",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "33",
+  "stateName": "Okayama",
+  "cityName": "Okayama",
+  "bbox": {
+    "minLat": 34.66,
+    "minLng": 133.92,
+    "maxLat": 34.68,
+    "maxLng": 133.95
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "okayama-castle",
+      "name": "Okayama Castle",
+      "lat": 34.6655,
+      "lng": 133.9365,
+      "radiusM": 150,
+      "address": "Okayama Castle",
+      "howTo": "Visit Okayama Castle.",
+      "badge": "badges/okayama-castle.png"
+    },
+    {
+      "id": "korakuen",
+      "name": "Korakuen Garden",
+      "lat": 34.6675,
+      "lng": 133.9355,
+      "radiusM": 200,
+      "address": "Korakuen, Okayama",
+      "howTo": "Visit Korakuen Garden.",
+      "badge": "badges/korakuen.png"
+    },
+    {
+      "id": "kibitsu-shrine",
+      "name": "Kibitsu Shrine",
+      "lat": 34.6715,
+      "lng": 133.8515,
+      "radiusM": 150,
+      "address": "Kibitsu Shrine, Okayama",
+      "howTo": "Visit Kibitsu Shrine.",
+      "badge": "badges/kibitsu-shrine.png"
+    }
+  ]
+}

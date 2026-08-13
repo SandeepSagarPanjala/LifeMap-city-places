@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hiroshima/miyajima",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "34",
+  "stateName": "Hiroshima",
+  "cityName": "Miyajima",
+  "bbox": {
+    "minLat": 34.29,
+    "minLng": 132.31,
+    "maxLat": 34.3,
+    "maxLng": 132.33
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "itsukushima-shrine",
+      "name": "Itsukushima Shrine",
+      "lat": 34.296,
+      "lng": 132.3199,
+      "radiusM": 150,
+      "address": "Itsukushima Shrine, Miyajima",
+      "howTo": "Visit Itsukushima Shrine.",
+      "badge": "badges/itsukushima-shrine.png"
+    },
+    {
+      "id": "great-torii-miyajima",
+      "name": "Great Torii",
+      "lat": 34.2975,
+      "lng": 132.3185,
+      "radiusM": 120,
+      "address": "Floating Torii, Miyajima",
+      "howTo": "Visit Great Torii.",
+      "badge": "badges/great-torii-miyajima.png"
+    },
+    {
+      "id": "mount-misen",
+      "name": "Mount Misen",
+      "lat": 34.2725,
+      "lng": 132.3165,
+      "radiusM": 250,
+      "address": "Mount Misen, Miyajima",
+      "howTo": "Visit Mount Misen.",
+      "badge": "badges/mount-misen.png"
+    },
+    {
+      "id": "daisho-in",
+      "name": "Daisho-in Temple",
+      "lat": 34.2925,
+      "lng": 132.3215,
+      "radiusM": 120,
+      "address": "Daisho-in, Miyajima",
+      "howTo": "Visit Daisho-in Temple.",
+      "badge": "badges/daisho-in.png"
+    }
+  ]
+}

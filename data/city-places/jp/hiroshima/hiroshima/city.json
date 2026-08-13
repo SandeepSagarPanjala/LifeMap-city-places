@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hiroshima/hiroshima",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "34",
+  "stateName": "Hiroshima",
+  "cityName": "Hiroshima",
+  "bbox": {
+    "minLat": 34.38,
+    "minLng": 132.44,
+    "maxLat": 34.41,
+    "maxLng": 132.48
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "atomic-bomb-dome",
+      "name": "Atomic Bomb Dome",
+      "lat": 34.3955,
+      "lng": 132.4536,
+      "radiusM": 100,
+      "address": "Atomic Bomb Dome, Hiroshima",
+      "howTo": "Visit Atomic Bomb Dome.",
+      "badge": "badges/atomic-bomb-dome.png"
+    },
+    {
+      "id": "peace-memorial-park-hiroshima",
+      "name": "Peace Memorial Park",
+      "lat": 34.3925,
+      "lng": 132.4525,
+      "radiusM": 200,
+      "address": "Peace Memorial Park, Hiroshima",
+      "howTo": "Visit Peace Memorial Park.",
+      "badge": "badges/peace-memorial-park-hiroshima.png"
+    },
+    {
+      "id": "hiroshima-castle",
+      "name": "Hiroshima Castle",
+      "lat": 34.4025,
+      "lng": 132.4595,
+      "radiusM": 150,
+      "address": "Hiroshima Castle",
+      "howTo": "Visit Hiroshima Castle.",
+      "badge": "badges/hiroshima-castle.png"
+    },
+    {
+      "id": "shukkeien",
+      "name": "Shukkeien Garden",
+      "lat": 34.4005,
+      "lng": 132.4675,
+      "radiusM": 150,
+      "address": "Shukkeien, Hiroshima",
+      "howTo": "Visit Shukkeien Garden.",
+      "badge": "badges/shukkeien.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/kumamoto/kumamoto",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "43",
+  "stateName": "Kumamoto",
+  "cityName": "Kumamoto",
+  "bbox": {
+    "minLat": 32.79,
+    "minLng": 130.68,
+    "maxLat": 32.81,
+    "maxLng": 130.71
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kumamoto-castle",
+      "name": "Kumamoto Castle",
+      "lat": 32.8065,
+      "lng": 130.7055,
+      "radiusM": 250,
+      "address": "Kumamoto Castle",
+      "howTo": "Visit Kumamoto Castle.",
+      "badge": "badges/kumamoto-castle.png"
+    },
+    {
+      "id": "suizenji-jojuen",
+      "name": "Suizenji Jojuen",
+      "lat": 32.7915,
+      "lng": 130.7345,
+      "radiusM": 150,
+      "address": "Suizenji Garden, Kumamoto",
+      "howTo": "Visit Suizenji Jojuen.",
+      "badge": "badges/suizenji-jojuen.png"
+    },
+    {
+      "id": "kato-shrine",
+      "name": "Kato Shrine",
+      "lat": 32.8075,
+      "lng": 130.7065,
+      "radiusM": 100,
+      "address": "Kato Shrine, Kumamoto",
+      "howTo": "Visit Kato Shrine.",
+      "badge": "badges/kato-shrine.png"
+    }
+  ]
+}

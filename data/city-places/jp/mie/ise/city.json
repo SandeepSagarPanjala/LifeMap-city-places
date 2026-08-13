@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/mie/ise",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "24",
+  "stateName": "Mie",
+  "cityName": "Ise",
+  "bbox": {
+    "minLat": 34.45,
+    "minLng": 136.72,
+    "maxLat": 34.49,
+    "maxLng": 136.74
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ise-jingu",
+      "name": "Ise Grand Shrine",
+      "lat": 34.455,
+      "lng": 136.7258,
+      "radiusM": 250,
+      "address": "Ise Jingu Naiku",
+      "howTo": "Visit Ise Grand Shrine.",
+      "badge": "badges/ise-jingu.png"
+    },
+    {
+      "id": "oharaimachi",
+      "name": "Oharaimachi",
+      "lat": 34.4585,
+      "lng": 136.7285,
+      "radiusM": 150,
+      "address": "Oharaimachi Street, Ise",
+      "howTo": "Visit Oharaimachi.",
+      "badge": "badges/oharaimachi.png"
+    },
+    {
+      "id": "meoto-iwa",
+      "name": "Meoto Iwa",
+      "lat": 34.5085,
+      "lng": 136.7885,
+      "radiusM": 120,
+      "address": "Wedded Rocks, Futami, Ise",
+      "howTo": "Visit Meoto Iwa.",
+      "badge": "badges/meoto-iwa.png"
+    }
+  ]
+}

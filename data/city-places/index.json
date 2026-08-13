@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-12T08:30:00.000Z",
-  "notes": "USA complete. India complete. Next country: Japan (one country per go). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T12:00:00.000Z",
+  "notes": "USA complete. India complete. Japan complete. Next country TBD (one country per go). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -4331,6 +4331,713 @@
                 "minLng": 79.81,
                 "maxLat": 11.95,
                 "maxLng": 79.85
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jp",
+      "countryCode": "JP",
+      "name": "Japan",
+      "states": [
+        {
+          "id": "hokkaido",
+          "stateCode": "01",
+          "name": "Hokkaido",
+          "cities": [
+            {
+              "id": "sapporo",
+              "name": "Sapporo",
+              "status": "complete",
+              "packPath": "jp/hokkaido/sapporo/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 43.02,
+                "minLng": 141.3,
+                "maxLat": 43.1,
+                "maxLng": 141.42
+              }
+            },
+            {
+              "id": "hakodate",
+              "name": "Hakodate",
+              "status": "complete",
+              "packPath": "jp/hokkaido/hakodate/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 41.75,
+                "minLng": 140.7,
+                "maxLat": 41.8,
+                "maxLng": 140.76
+              }
+            },
+            {
+              "id": "otaru",
+              "name": "Otaru",
+              "status": "complete",
+              "packPath": "jp/hokkaido/otaru/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 43.18,
+                "minLng": 140.98,
+                "maxLat": 43.21,
+                "maxLng": 141.02
+              }
+            }
+          ]
+        },
+        {
+          "id": "miyagi",
+          "stateCode": "04",
+          "name": "Miyagi",
+          "cities": [
+            {
+              "id": "sendai",
+              "name": "Sendai",
+              "status": "complete",
+              "packPath": "jp/miyagi/sendai/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 38.24,
+                "minLng": 140.85,
+                "maxLat": 38.28,
+                "maxLng": 140.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "tochigi",
+          "stateCode": "09",
+          "name": "Tochigi",
+          "cities": [
+            {
+              "id": "nikko",
+              "name": "Nikko",
+              "status": "complete",
+              "packPath": "jp/tochigi/nikko/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.74,
+                "minLng": 139.58,
+                "maxLat": 36.78,
+                "maxLng": 139.62
+              }
+            }
+          ]
+        },
+        {
+          "id": "tokyo",
+          "stateCode": "13",
+          "name": "Tokyo",
+          "cities": [
+            {
+              "id": "tokyo",
+              "name": "Tokyo",
+              "status": "complete",
+              "packPath": "jp/tokyo/tokyo/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.62,
+                "minLng": 139.7,
+                "maxLat": 35.72,
+                "maxLng": 139.82
+              }
+            }
+          ]
+        },
+        {
+          "id": "kanagawa",
+          "stateCode": "14",
+          "name": "Kanagawa",
+          "cities": [
+            {
+              "id": "yokohama",
+              "name": "Yokohama",
+              "status": "complete",
+              "packPath": "jp/kanagawa/yokohama/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.43,
+                "minLng": 139.62,
+                "maxLat": 35.47,
+                "maxLng": 139.66
+              }
+            },
+            {
+              "id": "kamakura",
+              "name": "Kamakura",
+              "status": "complete",
+              "packPath": "jp/kanagawa/kamakura/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.3,
+                "minLng": 139.53,
+                "maxLat": 35.34,
+                "maxLng": 139.57
+              }
+            },
+            {
+              "id": "hakone",
+              "name": "Hakone",
+              "status": "complete",
+              "packPath": "jp/kanagawa/hakone/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.22,
+                "minLng": 139.02,
+                "maxLat": 35.26,
+                "maxLng": 139.08
+              }
+            }
+          ]
+        },
+        {
+          "id": "ishikawa",
+          "stateCode": "17",
+          "name": "Ishikawa",
+          "cities": [
+            {
+              "id": "kanazawa",
+              "name": "Kanazawa",
+              "status": "complete",
+              "packPath": "jp/ishikawa/kanazawa/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.55,
+                "minLng": 136.64,
+                "maxLat": 36.58,
+                "maxLng": 136.68
+              }
+            }
+          ]
+        },
+        {
+          "id": "yamanashi",
+          "stateCode": "19",
+          "name": "Yamanashi",
+          "cities": [
+            {
+              "id": "kawaguchiko",
+              "name": "Kawaguchiko",
+              "status": "complete",
+              "packPath": "jp/yamanashi/kawaguchiko/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.48,
+                "minLng": 138.74,
+                "maxLat": 35.52,
+                "maxLng": 138.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "nagano",
+          "stateCode": "20",
+          "name": "Nagano",
+          "cities": [
+            {
+              "id": "matsumoto",
+              "name": "Matsumoto",
+              "status": "complete",
+              "packPath": "jp/nagano/matsumoto/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.23,
+                "minLng": 137.96,
+                "maxLat": 36.25,
+                "maxLng": 137.98
+              }
+            },
+            {
+              "id": "nagano",
+              "name": "Nagano",
+              "status": "complete",
+              "packPath": "jp/nagano/nagano/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.64,
+                "minLng": 138.18,
+                "maxLat": 36.67,
+                "maxLng": 138.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "gifu",
+          "stateCode": "21",
+          "name": "Gifu",
+          "cities": [
+            {
+              "id": "takayama",
+              "name": "Takayama",
+              "status": "complete",
+              "packPath": "jp/gifu/takayama/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.13,
+                "minLng": 137.24,
+                "maxLat": 36.15,
+                "maxLng": 137.27
+              }
+            },
+            {
+              "id": "shirakawa-go",
+              "name": "Shirakawa-go",
+              "status": "complete",
+              "packPath": "jp/gifu/shirakawa-go/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 36.25,
+                "minLng": 136.9,
+                "maxLat": 36.27,
+                "maxLng": 136.91
+              }
+            }
+          ]
+        },
+        {
+          "id": "aichi",
+          "stateCode": "23",
+          "name": "Aichi",
+          "cities": [
+            {
+              "id": "nagoya",
+              "name": "Nagoya",
+              "status": "complete",
+              "packPath": "jp/aichi/nagoya/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 35.15,
+                "minLng": 136.88,
+                "maxLat": 35.2,
+                "maxLng": 136.95
+              }
+            }
+          ]
+        },
+        {
+          "id": "mie",
+          "stateCode": "24",
+          "name": "Mie",
+          "cities": [
+            {
+              "id": "ise",
+              "name": "Ise",
+              "status": "complete",
+              "packPath": "jp/mie/ise/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.45,
+                "minLng": 136.72,
+                "maxLat": 34.49,
+                "maxLng": 136.74
+              }
+            }
+          ]
+        },
+        {
+          "id": "kyoto",
+          "stateCode": "26",
+          "name": "Kyoto",
+          "cities": [
+            {
+              "id": "kyoto",
+              "name": "Kyoto",
+              "status": "complete",
+              "packPath": "jp/kyoto/kyoto/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.98,
+                "minLng": 135.74,
+                "maxLat": 35.05,
+                "maxLng": 135.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "osaka",
+          "stateCode": "27",
+          "name": "Osaka",
+          "cities": [
+            {
+              "id": "osaka",
+              "name": "Osaka",
+              "status": "complete",
+              "packPath": "jp/osaka/osaka/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.64,
+                "minLng": 135.48,
+                "maxLat": 34.7,
+                "maxLng": 135.53
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyogo",
+          "stateCode": "28",
+          "name": "Hyogo",
+          "cities": [
+            {
+              "id": "kobe",
+              "name": "Kobe",
+              "status": "complete",
+              "packPath": "jp/hyogo/kobe/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.68,
+                "minLng": 135.17,
+                "maxLat": 34.72,
+                "maxLng": 135.22
+              }
+            },
+            {
+              "id": "himeji",
+              "name": "Himeji",
+              "status": "complete",
+              "packPath": "jp/hyogo/himeji/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.83,
+                "minLng": 134.68,
+                "maxLat": 34.85,
+                "maxLng": 134.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "nara",
+          "stateCode": "29",
+          "name": "Nara",
+          "cities": [
+            {
+              "id": "nara",
+              "name": "Nara",
+              "status": "complete",
+              "packPath": "jp/nara/nara/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.67,
+                "minLng": 135.82,
+                "maxLat": 34.7,
+                "maxLng": 135.85
+              }
+            }
+          ]
+        },
+        {
+          "id": "wakayama",
+          "stateCode": "30",
+          "name": "Wakayama",
+          "cities": [
+            {
+              "id": "koyasan",
+              "name": "Koyasan",
+              "status": "complete",
+              "packPath": "jp/wakayama/koyasan/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.21,
+                "minLng": 135.58,
+                "maxLat": 34.22,
+                "maxLng": 135.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "okayama",
+          "stateCode": "33",
+          "name": "Okayama",
+          "cities": [
+            {
+              "id": "okayama",
+              "name": "Okayama",
+              "status": "complete",
+              "packPath": "jp/okayama/okayama/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.66,
+                "minLng": 133.92,
+                "maxLat": 34.68,
+                "maxLng": 133.95
+              }
+            },
+            {
+              "id": "kurashiki",
+              "name": "Kurashiki",
+              "status": "complete",
+              "packPath": "jp/okayama/kurashiki/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.59,
+                "minLng": 133.76,
+                "maxLat": 34.6,
+                "maxLng": 133.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "hiroshima",
+          "stateCode": "34",
+          "name": "Hiroshima",
+          "cities": [
+            {
+              "id": "hiroshima",
+              "name": "Hiroshima",
+              "status": "complete",
+              "packPath": "jp/hiroshima/hiroshima/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.38,
+                "minLng": 132.44,
+                "maxLat": 34.41,
+                "maxLng": 132.48
+              }
+            },
+            {
+              "id": "miyajima",
+              "name": "Miyajima",
+              "status": "complete",
+              "packPath": "jp/hiroshima/miyajima/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.29,
+                "minLng": 132.31,
+                "maxLat": 34.3,
+                "maxLng": 132.33
+              }
+            }
+          ]
+        },
+        {
+          "id": "kagawa",
+          "stateCode": "37",
+          "name": "Kagawa",
+          "cities": [
+            {
+              "id": "takamatsu",
+              "name": "Takamatsu",
+              "status": "complete",
+              "packPath": "jp/kagawa/takamatsu/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.33,
+                "minLng": 134.04,
+                "maxLat": 34.35,
+                "maxLng": 134.06
+              }
+            },
+            {
+              "id": "naoshima",
+              "name": "Naoshima",
+              "status": "complete",
+              "packPath": "jp/kagawa/naoshima/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 34.45,
+                "minLng": 133.98,
+                "maxLat": 34.47,
+                "maxLng": 134.01
+              }
+            }
+          ]
+        },
+        {
+          "id": "ehime",
+          "stateCode": "38",
+          "name": "Ehime",
+          "cities": [
+            {
+              "id": "matsuyama",
+              "name": "Matsuyama",
+              "status": "complete",
+              "packPath": "jp/ehime/matsuyama/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 33.83,
+                "minLng": 132.75,
+                "maxLat": 33.86,
+                "maxLng": 132.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "fukuoka",
+          "stateCode": "40",
+          "name": "Fukuoka",
+          "cities": [
+            {
+              "id": "fukuoka",
+              "name": "Fukuoka",
+              "status": "complete",
+              "packPath": "jp/fukuoka/fukuoka/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 33.57,
+                "minLng": 130.38,
+                "maxLat": 33.61,
+                "maxLng": 130.43
+              }
+            }
+          ]
+        },
+        {
+          "id": "nagasaki",
+          "stateCode": "42",
+          "name": "Nagasaki",
+          "cities": [
+            {
+              "id": "nagasaki",
+              "name": "Nagasaki",
+              "status": "complete",
+              "packPath": "jp/nagasaki/nagasaki/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 32.73,
+                "minLng": 129.86,
+                "maxLat": 32.76,
+                "maxLng": 129.89
+              }
+            }
+          ]
+        },
+        {
+          "id": "kumamoto",
+          "stateCode": "43",
+          "name": "Kumamoto",
+          "cities": [
+            {
+              "id": "kumamoto",
+              "name": "Kumamoto",
+              "status": "complete",
+              "packPath": "jp/kumamoto/kumamoto/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 32.79,
+                "minLng": 130.68,
+                "maxLat": 32.81,
+                "maxLng": 130.71
+              }
+            }
+          ]
+        },
+        {
+          "id": "oita",
+          "stateCode": "44",
+          "name": "Oita",
+          "cities": [
+            {
+              "id": "beppu",
+              "name": "Beppu",
+              "status": "complete",
+              "packPath": "jp/oita/beppu/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 33.27,
+                "minLng": 131.48,
+                "maxLat": 33.3,
+                "maxLng": 131.51
+              }
+            }
+          ]
+        },
+        {
+          "id": "kagoshima",
+          "stateCode": "46",
+          "name": "Kagoshima",
+          "cities": [
+            {
+              "id": "kagoshima",
+              "name": "Kagoshima",
+              "status": "complete",
+              "packPath": "jp/kagoshima/kagoshima/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 31.58,
+                "minLng": 130.54,
+                "maxLat": 31.61,
+                "maxLng": 130.57
+              }
+            }
+          ]
+        },
+        {
+          "id": "okinawa",
+          "stateCode": "47",
+          "name": "Okinawa",
+          "cities": [
+            {
+              "id": "naha",
+              "name": "Naha",
+              "status": "complete",
+              "packPath": "jp/okinawa/naha/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 26.2,
+                "minLng": 127.67,
+                "maxLat": 26.23,
+                "maxLng": 127.72
+              }
+            },
+            {
+              "id": "ishigaki",
+              "name": "Ishigaki",
+              "status": "complete",
+              "packPath": "jp/okinawa/ishigaki/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T12:00:00.000Z",
+              "bbox": {
+                "minLat": 24.33,
+                "minLng": 124.15,
+                "maxLat": 24.38,
+                "maxLng": 124.18
               }
             }
           ]

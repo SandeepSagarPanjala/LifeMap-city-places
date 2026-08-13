@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hyogo/himeji",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "28",
+  "stateName": "Hyogo",
+  "cityName": "Himeji",
+  "bbox": {
+    "minLat": 34.83,
+    "minLng": 134.68,
+    "maxLat": 34.85,
+    "maxLng": 134.7
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "himeji-castle",
+      "name": "Himeji Castle",
+      "lat": 34.8394,
+      "lng": 134.6939,
+      "radiusM": 250,
+      "address": "Himeji Castle",
+      "howTo": "Visit Himeji Castle.",
+      "badge": "badges/himeji-castle.png"
+    },
+    {
+      "id": "kokoen",
+      "name": "Koko-en Garden",
+      "lat": 34.8375,
+      "lng": 134.6915,
+      "radiusM": 150,
+      "address": "Koko-en, Himeji",
+      "howTo": "Visit Koko-en Garden.",
+      "badge": "badges/kokoen.png"
+    },
+    {
+      "id": "mount-shosha",
+      "name": "Mount Shosha Engyo-ji",
+      "lat": 34.8925,
+      "lng": 134.6585,
+      "radiusM": 250,
+      "address": "Engyo-ji, Mount Shosha",
+      "howTo": "Visit Mount Shosha Engyo-ji.",
+      "badge": "badges/mount-shosha.png"
+    }
+  ]
+}

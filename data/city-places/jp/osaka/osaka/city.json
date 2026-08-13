@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/osaka/osaka",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "27",
+  "stateName": "Osaka",
+  "cityName": "Osaka",
+  "bbox": {
+    "minLat": 34.64,
+    "minLng": 135.48,
+    "maxLat": 34.7,
+    "maxLng": 135.53
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "osaka-castle",
+      "name": "Osaka Castle",
+      "lat": 34.6873,
+      "lng": 135.5262,
+      "radiusM": 250,
+      "address": "Osaka Castle",
+      "howTo": "Visit Osaka Castle.",
+      "badge": "badges/osaka-castle.png"
+    },
+    {
+      "id": "dotonbori",
+      "name": "Dotonbori",
+      "lat": 34.6687,
+      "lng": 135.5013,
+      "radiusM": 150,
+      "address": "Dotonbori, Osaka",
+      "howTo": "Visit Dotonbori.",
+      "badge": "badges/dotonbori.png"
+    },
+    {
+      "id": "shinsaibashi",
+      "name": "Shinsaibashi",
+      "lat": 34.6745,
+      "lng": 135.5015,
+      "radiusM": 150,
+      "address": "Shinsaibashi, Osaka",
+      "howTo": "Visit Shinsaibashi.",
+      "badge": "badges/shinsaibashi.png"
+    },
+    {
+      "id": "universal-studios-japan",
+      "name": "Universal Studios Japan",
+      "lat": 34.6654,
+      "lng": 135.4323,
+      "radiusM": 300,
+      "address": "USJ, Osaka",
+      "howTo": "Visit Universal Studios Japan.",
+      "badge": "badges/universal-studios-japan.png"
+    },
+    {
+      "id": "shinsekai",
+      "name": "Shinsekai",
+      "lat": 34.6525,
+      "lng": 135.5065,
+      "radiusM": 150,
+      "address": "Shinsekai / Tsutenkaku area",
+      "howTo": "Visit Shinsekai.",
+      "badge": "badges/shinsekai.png"
+    },
+    {
+      "id": "sumiyoshi-taisha",
+      "name": "Sumiyoshi Taisha",
+      "lat": 34.6125,
+      "lng": 135.4935,
+      "radiusM": 150,
+      "address": "Sumiyoshi Taisha, Osaka",
+      "howTo": "Visit Sumiyoshi Taisha.",
+      "badge": "badges/sumiyoshi-taisha.png"
+    }
+  ]
+}

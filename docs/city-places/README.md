@@ -40,7 +40,7 @@ If you are an agent and the user pointed you at this file (or said `go` / `conti
 
 ### Then do one work unit
 
-1. Ensure `data/city-places/` exists. **Current geography focus: Japan** (curated popular cities only). United States and India are complete. Do not add every municipality.
+1. Ensure `data/city-places/` exists. **Current geography focus: next country TBD** (curated popular cities only). United States, India, and Japan are complete. Do not add every municipality.
 2. Open `data/city-places/index.json`.
 3. Decide work from the index:
    - `cursor` is `null` / no incomplete country → pick the **next country** (see Current focus / notes), bootstrap Phase A+B for that country, then run Phase C for **all** of its curated cities in the **same** `go`.
@@ -98,7 +98,7 @@ Work in order. Do not jump to place badges before the geography under the cursor
 
 Populate `data/city-places/index.json` with countries and first-level subdivisions.
 
-**Current focus:** **Japan** (prefectures, popular cities only). United States and India are complete.
+**Current focus:** United States, India, and Japan are complete. Pick the next country with the human (one country per `go`).
 
 ### Phase B — Popular cities only (not every city)
 

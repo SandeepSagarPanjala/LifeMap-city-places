@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/nagasaki/nagasaki",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "42",
+  "stateName": "Nagasaki",
+  "cityName": "Nagasaki",
+  "bbox": {
+    "minLat": 32.73,
+    "minLng": 129.86,
+    "maxLat": 32.76,
+    "maxLng": 129.89
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "peace-park-nagasaki",
+      "name": "Nagasaki Peace Park",
+      "lat": 32.7755,
+      "lng": 129.8635,
+      "radiusM": 200,
+      "address": "Peace Park, Nagasaki",
+      "howTo": "Visit Nagasaki Peace Park.",
+      "badge": "badges/peace-park-nagasaki.png"
+    },
+    {
+      "id": "glover-garden",
+      "name": "Glover Garden",
+      "lat": 32.7345,
+      "lng": 129.8695,
+      "radiusM": 150,
+      "address": "Glover Garden, Nagasaki",
+      "howTo": "Visit Glover Garden.",
+      "badge": "badges/glover-garden.png"
+    },
+    {
+      "id": "oura-cathedral",
+      "name": "Oura Cathedral",
+      "lat": 32.734,
+      "lng": 129.8705,
+      "radiusM": 100,
+      "address": "Oura Cathedral, Nagasaki",
+      "howTo": "Visit Oura Cathedral.",
+      "badge": "badges/oura-cathedral.png"
+    },
+    {
+      "id": "dejima",
+      "name": "Dejima",
+      "lat": 32.7435,
+      "lng": 129.8735,
+      "radiusM": 120,
+      "address": "Dejima, Nagasaki",
+      "howTo": "Visit Dejima.",
+      "badge": "badges/dejima.png"
+    },
+    {
+      "id": "mount-inasa",
+      "name": "Mount Inasa",
+      "lat": 32.7535,
+      "lng": 129.8495,
+      "radiusM": 150,
+      "address": "Mount Inasa Observatory",
+      "howTo": "Visit Mount Inasa.",
+      "badge": "badges/mount-inasa.png"
+    }
+  ]
+}

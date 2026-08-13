@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/okinawa/naha",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "47",
+  "stateName": "Okinawa",
+  "cityName": "Naha",
+  "bbox": {
+    "minLat": 26.2,
+    "minLng": 127.67,
+    "maxLat": 26.23,
+    "maxLng": 127.72
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shuri-castle",
+      "name": "Shuri Castle",
+      "lat": 26.217,
+      "lng": 127.7193,
+      "radiusM": 200,
+      "address": "Shuri Castle, Naha",
+      "howTo": "Visit Shuri Castle.",
+      "badge": "badges/shuri-castle.png"
+    },
+    {
+      "id": "kokusai-dori",
+      "name": "Kokusai Street",
+      "lat": 26.2145,
+      "lng": 127.6885,
+      "radiusM": 200,
+      "address": "Kokusai-dori, Naha",
+      "howTo": "Visit Kokusai Street.",
+      "badge": "badges/kokusai-dori.png"
+    },
+    {
+      "id": "shikinaen",
+      "name": "Shikinaen Garden",
+      "lat": 26.2035,
+      "lng": 127.7145,
+      "radiusM": 150,
+      "address": "Shikinaen, Naha",
+      "howTo": "Visit Shikinaen Garden.",
+      "badge": "badges/shikinaen.png"
+    },
+    {
+      "id": "naminoue-shrine",
+      "name": "Naminoue Shrine",
+      "lat": 26.2185,
+      "lng": 127.6705,
+      "radiusM": 100,
+      "address": "Naminoue Shrine, Naha",
+      "howTo": "Visit Naminoue Shrine.",
+      "badge": "badges/naminoue-shrine.png"
+    }
+  ]
+}

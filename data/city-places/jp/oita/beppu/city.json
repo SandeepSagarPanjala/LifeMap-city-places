@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/oita/beppu",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "44",
+  "stateName": "Oita",
+  "cityName": "Beppu",
+  "bbox": {
+    "minLat": 33.27,
+    "minLng": 131.48,
+    "maxLat": 33.3,
+    "maxLng": 131.51
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jigoku-meguri",
+      "name": "Beppu Hells",
+      "lat": 33.2835,
+      "lng": 131.4865,
+      "radiusM": 250,
+      "address": "Jigoku Meguri, Beppu",
+      "howTo": "Visit Beppu Hells.",
+      "badge": "badges/jigoku-meguri.png"
+    },
+    {
+      "id": "beppu-tower",
+      "name": "Beppu Tower",
+      "lat": 33.2795,
+      "lng": 131.5065,
+      "radiusM": 80,
+      "address": "Beppu Tower",
+      "howTo": "Visit Beppu Tower.",
+      "badge": "badges/beppu-tower.png"
+    },
+    {
+      "id": "kannawa-onsen",
+      "name": "Kannawa Onsen",
+      "lat": 33.2925,
+      "lng": 131.4755,
+      "radiusM": 200,
+      "address": "Kannawa Onsen District, Beppu",
+      "howTo": "Visit Kannawa Onsen.",
+      "badge": "badges/kannawa-onsen.png"
+    }
+  ]
+}

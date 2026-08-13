@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/fukuoka/fukuoka",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "40",
+  "stateName": "Fukuoka",
+  "cityName": "Fukuoka",
+  "bbox": {
+    "minLat": 33.57,
+    "minLng": 130.38,
+    "maxLat": 33.61,
+    "maxLng": 130.43
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fukuoka-tower",
+      "name": "Fukuoka Tower",
+      "lat": 33.5935,
+      "lng": 130.3515,
+      "radiusM": 120,
+      "address": "Fukuoka Tower",
+      "howTo": "Visit Fukuoka Tower.",
+      "badge": "badges/fukuoka-tower.png"
+    },
+    {
+      "id": "ohori-park",
+      "name": "Ohori Park",
+      "lat": 33.5865,
+      "lng": 130.3765,
+      "radiusM": 250,
+      "address": "Ohori Park, Fukuoka",
+      "howTo": "Visit Ohori Park.",
+      "badge": "badges/ohori-park.png"
+    },
+    {
+      "id": "kushida-shrine",
+      "name": "Kushida Shrine",
+      "lat": 33.5935,
+      "lng": 130.4105,
+      "radiusM": 100,
+      "address": "Kushida Shrine, Fukuoka",
+      "howTo": "Visit Kushida Shrine.",
+      "badge": "badges/kushida-shrine.png"
+    },
+    {
+      "id": "canal-city",
+      "name": "Canal City Hakata",
+      "lat": 33.5895,
+      "lng": 130.4115,
+      "radiusM": 150,
+      "address": "Canal City, Fukuoka",
+      "howTo": "Visit Canal City Hakata.",
+      "badge": "badges/canal-city.png"
+    },
+    {
+      "id": "tenjin",
+      "name": "Tenjin",
+      "lat": 33.5905,
+      "lng": 130.3995,
+      "radiusM": 150,
+      "address": "Tenjin District, Fukuoka",
+      "howTo": "Visit Tenjin.",
+      "badge": "badges/tenjin.png"
+    }
+  ]
+}

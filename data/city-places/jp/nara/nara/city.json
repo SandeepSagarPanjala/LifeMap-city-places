@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/nara/nara",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "29",
+  "stateName": "Nara",
+  "cityName": "Nara",
+  "bbox": {
+    "minLat": 34.67,
+    "minLng": 135.82,
+    "maxLat": 34.7,
+    "maxLng": 135.85
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "todaiji",
+      "name": "Todai-ji Temple",
+      "lat": 34.689,
+      "lng": 135.8398,
+      "radiusM": 200,
+      "address": "Todai-ji, Nara",
+      "howTo": "Visit Todai-ji Temple.",
+      "badge": "badges/todaiji.png"
+    },
+    {
+      "id": "nara-park",
+      "name": "Nara Park",
+      "lat": 34.6855,
+      "lng": 135.8435,
+      "radiusM": 300,
+      "address": "Nara Park",
+      "howTo": "Visit Nara Park.",
+      "badge": "badges/nara-park.png"
+    },
+    {
+      "id": "kasuga-taisha",
+      "name": "Kasuga Taisha",
+      "lat": 34.6815,
+      "lng": 135.8485,
+      "radiusM": 150,
+      "address": "Kasuga Taisha, Nara",
+      "howTo": "Visit Kasuga Taisha.",
+      "badge": "badges/kasuga-taisha.png"
+    },
+    {
+      "id": "kofukuji",
+      "name": "Kofuku-ji",
+      "lat": 34.6835,
+      "lng": 135.8315,
+      "radiusM": 120,
+      "address": "Kofuku-ji, Nara",
+      "howTo": "Visit Kofuku-ji.",
+      "badge": "badges/kofukuji.png"
+    }
+  ]
+}

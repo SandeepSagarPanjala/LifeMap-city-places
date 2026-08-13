@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/ishikawa/kanazawa",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "17",
+  "stateName": "Ishikawa",
+  "cityName": "Kanazawa",
+  "bbox": {
+    "minLat": 36.55,
+    "minLng": 136.64,
+    "maxLat": 36.58,
+    "maxLng": 136.68
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kenrokuen",
+      "name": "Kenrokuen Garden",
+      "lat": 36.562,
+      "lng": 136.6625,
+      "radiusM": 200,
+      "address": "Kenrokuen, Kanazawa",
+      "howTo": "Visit Kenrokuen Garden.",
+      "badge": "badges/kenrokuen.png"
+    },
+    {
+      "id": "kanazawa-castle",
+      "name": "Kanazawa Castle",
+      "lat": 36.5645,
+      "lng": 136.6595,
+      "radiusM": 200,
+      "address": "Kanazawa Castle Park",
+      "howTo": "Visit Kanazawa Castle.",
+      "badge": "badges/kanazawa-castle.png"
+    },
+    {
+      "id": "higashi-chaya",
+      "name": "Higashi Chaya District",
+      "lat": 36.5725,
+      "lng": 136.6665,
+      "radiusM": 150,
+      "address": "Higashi Chaya, Kanazawa",
+      "howTo": "Visit Higashi Chaya District.",
+      "badge": "badges/higashi-chaya.png"
+    },
+    {
+      "id": "21st-century-museum",
+      "name": "21st Century Museum",
+      "lat": 36.5605,
+      "lng": 136.6585,
+      "radiusM": 120,
+      "address": "21st Century Museum of Contemporary Art, Kanazawa",
+      "howTo": "Visit 21st Century Museum.",
+      "badge": "badges/21st-century-museum.png"
+    }
+  ]
+}

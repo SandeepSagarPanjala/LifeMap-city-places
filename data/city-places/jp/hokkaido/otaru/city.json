@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jp/hokkaido/otaru",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "stateCode": "01",
+  "stateName": "Hokkaido",
+  "cityName": "Otaru",
+  "bbox": {
+    "minLat": 43.18,
+    "minLng": 140.98,
+    "maxLat": 43.21,
+    "maxLng": 141.02
+  },
+  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "otaru-canal",
+      "name": "Otaru Canal",
+      "lat": 43.1985,
+      "lng": 141.0025,
+      "radiusM": 200,
+      "address": "Otaru Canal",
+      "howTo": "Visit Otaru Canal.",
+      "badge": "badges/otaru-canal.png"
+    },
+    {
+      "id": "sakaimachi-street",
+      "name": "Sakaimachi Street",
+      "lat": 43.1905,
+      "lng": 141.0035,
+      "radiusM": 150,
+      "address": "Sakaimachi, Otaru",
+      "howTo": "Visit Sakaimachi Street.",
+      "badge": "badges/sakaimachi-street.png"
+    },
+    {
+      "id": "otaru-music-box-museum",
+      "name": "Otaru Music Box Museum",
+      "lat": 43.1915,
+      "lng": 141.0055,
+      "radiusM": 100,
+      "address": "Music Box Museum, Otaru",
+      "howTo": "Visit Otaru Music Box Museum.",
+      "badge": "badges/otaru-music-box-museum.png"
+    }
+  ]
+}
