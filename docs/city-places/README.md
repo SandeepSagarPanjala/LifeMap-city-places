@@ -23,13 +23,15 @@ That is enough. The agent must follow **START HERE** below. Optional: use Cursor
 
 **Batching:** each `go` **starts and finishes one country** (bootstrap geography if needed, then every curated city in that country through Phase C). Do not stop after a state slice or a city count cap. Long runs are expected and OK.
 
+**Always run / chain countries:** When a country is fully complete (catalog + commit + push `main`), **immediately** start the next country in the queue — do **not** ask the human which country, whether to continue, or for another `go`. Keep working until the session is interrupted or the queue is empty. Do not wait for “ok start” between countries.
+
 Do **not** paste research instructions, schemas, or checklists — they live in this doc and its links.
 
 ---
 
 ## START HERE (Cursor agent)
 
-If you are an agent and the user pointed you at this file (or said `go` / `continue` / `next city`), **execute immediately**. Do not wait for a longer prompt. Do not ask “what should I do?”
+If you are an agent and the user pointed you at this file (or said `go` / `continue` / `next city` / `start` / granted ongoing run permission), **execute immediately**. Do not wait for a longer prompt. Do not ask “what should I do?”, “which country next?”, or “should I continue?”.
 
 ### Mandatory reads (do these first)
 
@@ -38,34 +40,54 @@ If you are an agent and the user pointed you at this file (or said `go` / `conti
 3. [badge-art.md](./badge-art.md) — scene → gold frame pipeline.
 4. Framing details live in [badge-art.md](./badge-art.md) (shared gold-frame script in this repo).
 
-### Then do one work unit
+### Country queue (auto-advance)
 
-1. Ensure `data/city-places/` exists. **Current geography focus: next country TBD** (curated popular cities only). United States, India, and Japan are complete. Do not add every municipality.
+Skip countries already `complete` in `index.json`. Take the first incomplete entry:
+
+1. `us` — United States (**complete**)
+2. `in` — India (**complete**)
+3. `jp` — Japan (**complete**)
+4. `gb` — United Kingdom
+5. `fr` — France
+6. `it` — Italy
+7. `es` — Spain
+8. `de` — Germany
+9. `au` — Australia
+10. `ca` — Canada
+11. `th` — Thailand
+12. `kr` — South Korea
+
+When the queue is exhausted, extend it with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
+
+### Then do work (loop)
+
+1. Ensure `data/city-places/` exists. Curated popular cities only — do not add every municipality.
 2. Open `data/city-places/index.json`.
 3. Decide work from the index:
-   - `cursor` is `null` / no incomplete country → pick the **next country** (see Current focus / notes), bootstrap Phase A+B for that country, then run Phase C for **all** of its curated cities in the **same** `go`.
-   - Incomplete cities remain under the focused country → finish that country (Phase C for every pending city) before starting another.
+   - Incomplete cities under a country → finish that country (Phase C for every pending city).
+   - `cursor` is `null` / no incomplete country → take the **next queue country**, bootstrap Phase A+B, then Phase C for **all** curated cities.
 4. Follow [place-selection.md](./place-selection.md). If its status is TBD → **stop** and tell the human; do not invent places.
 5. For Phase C: research (web), write `city.json` + badge PNGs, mark each city `complete` **including copying `bbox` onto the index row**, run `pnpm city-places:catalog`, advance `cursor`.
-6. When the country’s last pending city is complete, set `cursor` to `null` (or the first city of the next agreed country if already bootstrapped), update notes, catalog, commit, **push `main`**.
-7. End the run with a short summary: country completed, city/place counts, next `cursor`.
+6. When the country’s last pending city is complete: update notes, catalog, commit, **push `main`**, summarize briefly, then **immediately start the next queue country** in the same session (do not wait for another human message).
+7. Keep looping until interrupted or no more countries remain to pack.
 
 ### Country batch rule (important)
 
-| Situation | What to complete this `go` |
+| Situation | What to do |
 | --- | --- |
-| New / incomplete country under focus | **The entire country** — all curated pending cities (and bootstrap A+B if missing) |
-| First-ever pack in a brand-new empty repo (zero completes worldwide) | Still finish the **first city’s** pack quality bar, then continue the rest of that country in the **same** `go` unless the human stops you |
-| Do **not** | Cap at 10 states, 50 cities, or otherwise leave a country half-done mid-`go` |
+| New / incomplete country under focus | Finish **the entire country** (A+B if needed + all curated cities) |
+| Country just finished + pushed | **Immediately** start the next queue country — no ask |
+| Do **not** | Cap at 10 states / 50 cities, leave a country half-done, or pause for “which country?” |
 
-Long sessions and many badge generations are expected. Prefer finishing the country over stopping early for batch size.
+Long sessions and many badge generations are expected. Prefer finishing and chaining over stopping early.
 
 ### Hard stops
 
-- Never leave the focused country with pending curated cities when ending a successful `go` (unless the human explicitly stops the session).
+- Never leave the focused country with pending curated cities when ending a successful country (unless the human explicitly interrupts the session).
 - Never edit another `in_progress` city.
 - Never rename completed slugs.
 - Never open or modify the private LifeMap app repo for pack work unless a human explicitly asks for app/runtime changes.
+- Never ask the human for permission to continue to the next country.
 
 Related docs:
 
@@ -81,7 +103,7 @@ Data lives under `data/city-places/` in **this** repository (see layout below).
 
 1. **0–20 places per city** (cap, not a target). Empty cities are valid: `status: complete` with `places: []`.
 2. **Never invent place-selection criteria.** Follow [place-selection.md](./place-selection.md). If that doc still says TBD, **stop and ask a human** before listing places.
-3. **One country per `go`:** start and finish the focused country (all curated cities). Do not touch another city’s pack while it is `in_progress`.
+3. **Finish country, then chain:** complete the focused country (all curated cities), push `main`, then immediately start the next queue country. Do not touch another city’s pack while it is `in_progress`. Do not ask the human between countries.
 4. **Stable slugs forever.** Never rename a completed `country` / `state` / `city` / `place` id. Fix typos only via a new place id + deprecate note (do not silently rewrite history).
 5. **Ids are lowercase ASCII:** `[a-z0-9-]+` only. Example city id: `us/california/san-francisco`. Example place id: `golden-gate-bridge`.
 6. **Badge art matches achievements.** Scene → shared gold frame script → 512×512 PNG. See [badge-art.md](./badge-art.md).
@@ -98,7 +120,7 @@ Work in order. Do not jump to place badges before the geography under the cursor
 
 Populate `data/city-places/index.json` with countries and first-level subdivisions.
 
-**Current focus:** United States, India, and Japan are complete. Pick the next country with the human (one country per `go`).
+**Current focus:** follow the **Country queue** above. Complete countries: US, India, Japan. Next: United Kingdom (`gb`), then continue the queue without asking.
 
 ### Phase B — Popular cities only (not every city)
 
@@ -108,7 +130,7 @@ Do **not** dump every census place. Still no place badges in this phase — geog
 
 ### Phase C — Places + badges (daily babysit)
 
-For each **pending** city in the curated list, research and write the pack (0–20 places + badges), then mark `complete`. Per `go`: finish **every** pending city in the focused country (no city-count cap).
+For each **pending** city in the curated list, research and write the pack (0–20 places + badges), then mark `complete`. Finish **every** pending city in the focused country (no city-count cap), then chain to the next country.
 
 ---
 
@@ -330,9 +352,9 @@ So cost stays ~O(1) per cell change, not O(number of cities). A naive scan of al
 Agents: run this checklist without the human re-pasting it (see **START HERE**).
 
 1. **Read** this README + [place-selection.md](./place-selection.md) + [badge-art.md](./badge-art.md).
-2. **Open** `data/city-places/index.json`. Identify the focused country (notes / incomplete cities / next country to bootstrap). Scope = **that whole country**.
+2. **Open** `data/city-places/index.json`. Identify the focused country (incomplete cities, or next queue country). Scope = **that whole country**.
 3. If [place-selection.md](./place-selection.md) is still TBD → **stop** and ask a human.
-4. If the country is missing from the index → Phase A+B (subdivisions + curated cities) first, then Phase C in the same `go`.
+4. If the country is missing from the index → Phase A+B (subdivisions + curated cities) first, then Phase C in the same session.
 5. For each pending city in that country (cursor / pending order):
    1. Set city to `in_progress`. Update `updatedAt`.
    2. **Research** popular places (web search). Apply place-selection rules. Cap at 20; 0 is OK; do not pad.
@@ -340,8 +362,8 @@ Agents: run this checklist without the human re-pasting it (see **START HERE**).
    4. **Create badges** per [badge-art.md](./badge-art.md) (scene → frame → `badges/{id}.png`).
    5. Write `data/city-places/{country}/{state}/{city}/city.json`.
    6. Set city `status: complete`, `placeCount`, `completedAt`, copy `bbox` from `city.json` onto the index row, run `pnpm city-places:catalog`, advance `cursor`.
-6. When the country has no pending curated cities left: set notes, `cursor` null (unless next country already queued), catalog, commit, push `main`.
-7. Summarize: country done, cities/places counts, next `cursor`, any uncertainties.
+6. When the country has no pending curated cities left: update notes, catalog, commit, push `main`, brief summary.
+7. **Immediately** take the next country from the queue and repeat from step 2 — do not ask the human.
 
 ### Conflict / safety
 

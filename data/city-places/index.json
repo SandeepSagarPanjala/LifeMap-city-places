@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "cursor": null,
   "updatedAt": "2026-08-13T12:00:00.000Z",
-  "notes": "USA complete. India complete. Japan complete. Next country TBD (one country per go). Complete cities must include bbox on the index row (Option A).",
+  "notes": "USA complete. India complete. Japan complete. Next: United Kingdom (gb). Chain countries automatically — do not wait for human between countries. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
