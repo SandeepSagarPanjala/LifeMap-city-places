@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/liverpool",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Liverpool",
+  "bbox": {
+    "minLat": 53.39,
+    "minLng": -2.99,
+    "maxLat": 53.42,
+    "maxLng": -2.96
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "albert-dock",
+      "name": "Royal Albert Dock",
+      "lat": 53.3995,
+      "lng": -2.9915,
+      "radiusM": 200,
+      "address": "Albert Dock, Liverpool",
+      "howTo": "Visit Royal Albert Dock.",
+      "badge": "badges/albert-dock.png"
+    },
+    {
+      "id": "liver-building",
+      "name": "Royal Liver Building",
+      "lat": 53.4058,
+      "lng": -2.9958,
+      "radiusM": 100,
+      "address": "Pier Head, Liverpool",
+      "howTo": "Visit Royal Liver Building.",
+      "badge": "badges/liver-building.png"
+    },
+    {
+      "id": "liverpool-cathedral",
+      "name": "Liverpool Cathedral",
+      "lat": 53.3975,
+      "lng": -2.9735,
+      "radiusM": 150,
+      "address": "Liverpool Cathedral",
+      "howTo": "Visit Liverpool Cathedral.",
+      "badge": "badges/liverpool-cathedral.png"
+    },
+    {
+      "id": "beatles-story",
+      "name": "The Beatles Story",
+      "lat": 53.399,
+      "lng": -2.991,
+      "radiusM": 100,
+      "address": "Beatles Story, Albert Dock",
+      "howTo": "Visit The Beatles Story.",
+      "badge": "badges/beatles-story.png"
+    }
+  ]
+}

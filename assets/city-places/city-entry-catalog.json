@@ -1,9 +1,225 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T16:53:16.380Z",
+  "generatedAt": "2026-08-13T17:33:08.695Z",
   "cellDeg": 0.5,
-  "cityCount": 302,
+  "cityCount": 326,
   "cities": {
+    "gb/england/bath": {
+      "name": "Bath",
+      "bbox": {
+        "minLat": 51.37,
+        "minLng": -2.38,
+        "maxLat": 51.39,
+        "maxLng": -2.34
+      }
+    },
+    "gb/england/brighton": {
+      "name": "Brighton",
+      "bbox": {
+        "minLat": 50.81,
+        "minLng": -0.16,
+        "maxLat": 50.84,
+        "maxLng": -0.12
+      }
+    },
+    "gb/england/bristol": {
+      "name": "Bristol",
+      "bbox": {
+        "minLat": 51.44,
+        "minLng": -2.63,
+        "maxLat": 51.46,
+        "maxLng": -2.58
+      }
+    },
+    "gb/england/cambridge": {
+      "name": "Cambridge",
+      "bbox": {
+        "minLat": 52.19,
+        "minLng": 0.1,
+        "maxLat": 52.22,
+        "maxLng": 0.13
+      }
+    },
+    "gb/england/canterbury": {
+      "name": "Canterbury",
+      "bbox": {
+        "minLat": 51.27,
+        "minLng": 1.07,
+        "maxLat": 51.29,
+        "maxLng": 1.09
+      }
+    },
+    "gb/england/cornwall": {
+      "name": "Cornwall",
+      "bbox": {
+        "minLat": 50.08,
+        "minLng": -5.72,
+        "maxLat": 50.22,
+        "maxLng": -5.05
+      }
+    },
+    "gb/england/durham": {
+      "name": "Durham",
+      "bbox": {
+        "minLat": 54.77,
+        "minLng": -1.58,
+        "maxLat": 54.78,
+        "maxLng": -1.57
+      }
+    },
+    "gb/england/liverpool": {
+      "name": "Liverpool",
+      "bbox": {
+        "minLat": 53.39,
+        "minLng": -2.99,
+        "maxLat": 53.42,
+        "maxLng": -2.96
+      }
+    },
+    "gb/england/london": {
+      "name": "London",
+      "bbox": {
+        "minLat": 51.48,
+        "minLng": -0.2,
+        "maxLat": 51.55,
+        "maxLng": 0.02
+      }
+    },
+    "gb/england/manchester": {
+      "name": "Manchester",
+      "bbox": {
+        "minLat": 53.46,
+        "minLng": -2.26,
+        "maxLat": 53.49,
+        "maxLng": -2.22
+      }
+    },
+    "gb/england/oxford": {
+      "name": "Oxford",
+      "bbox": {
+        "minLat": 51.74,
+        "minLng": -1.27,
+        "maxLat": 51.76,
+        "maxLng": -1.24
+      }
+    },
+    "gb/england/stratford-upon-avon": {
+      "name": "Stratford-upon-Avon",
+      "bbox": {
+        "minLat": 52.18,
+        "minLng": -1.72,
+        "maxLat": 52.2,
+        "maxLng": -1.7
+      }
+    },
+    "gb/england/windsor": {
+      "name": "Windsor",
+      "bbox": {
+        "minLat": 51.48,
+        "minLng": -0.62,
+        "maxLat": 51.49,
+        "maxLng": -0.6
+      }
+    },
+    "gb/england/york": {
+      "name": "York",
+      "bbox": {
+        "minLat": 53.95,
+        "minLng": -1.1,
+        "maxLat": 53.97,
+        "maxLng": -1.07
+      }
+    },
+    "gb/northern-ireland/belfast": {
+      "name": "Belfast",
+      "bbox": {
+        "minLat": 54.58,
+        "minLng": -5.95,
+        "maxLat": 54.61,
+        "maxLng": -5.9
+      }
+    },
+    "gb/northern-ireland/giants-causeway": {
+      "name": "Giant's Causeway",
+      "bbox": {
+        "minLat": 55.23,
+        "minLng": -6.52,
+        "maxLat": 55.25,
+        "maxLng": -6.5
+      }
+    },
+    "gb/scotland/edinburgh": {
+      "name": "Edinburgh",
+      "bbox": {
+        "minLat": 55.94,
+        "minLng": -3.22,
+        "maxLat": 55.96,
+        "maxLng": -3.16
+      }
+    },
+    "gb/scotland/glasgow": {
+      "name": "Glasgow",
+      "bbox": {
+        "minLat": 55.85,
+        "minLng": -4.28,
+        "maxLat": 55.87,
+        "maxLng": -4.23
+      }
+    },
+    "gb/scotland/inverness": {
+      "name": "Inverness",
+      "bbox": {
+        "minLat": 57.46,
+        "minLng": -4.25,
+        "maxLat": 57.49,
+        "maxLng": -4.2
+      }
+    },
+    "gb/scotland/st-andrews": {
+      "name": "St Andrews",
+      "bbox": {
+        "minLat": 56.33,
+        "minLng": -2.81,
+        "maxLat": 56.35,
+        "maxLng": -2.78
+      }
+    },
+    "gb/scotland/stirling": {
+      "name": "Stirling",
+      "bbox": {
+        "minLat": 56.11,
+        "minLng": -3.95,
+        "maxLat": 56.13,
+        "maxLng": -3.93
+      }
+    },
+    "gb/wales/cardiff": {
+      "name": "Cardiff",
+      "bbox": {
+        "minLat": 51.46,
+        "minLng": -3.19,
+        "maxLat": 51.49,
+        "maxLng": -3.15
+      }
+    },
+    "gb/wales/conwy": {
+      "name": "Conwy",
+      "bbox": {
+        "minLat": 53.27,
+        "minLng": -3.84,
+        "maxLat": 53.29,
+        "maxLng": -3.82
+      }
+    },
+    "gb/wales/snowdonia": {
+      "name": "Snowdonia",
+      "bbox": {
+        "minLat": 53.05,
+        "minLng": -4.1,
+        "maxLat": 53.12,
+        "maxLng": -3.95
+      }
+    },
     "in/andaman-and-nicobar/port-blair": {
       "name": "Port Blair",
       "bbox": {
@@ -4040,6 +4256,94 @@
     ],
     "48,248": [
       "jp/okinawa/ishigaki"
+    ],
+    "102,-1": [
+      "gb/england/london"
+    ],
+    "102,0": [
+      "gb/england/london"
+    ],
+    "103,-1": [
+      "gb/england/london"
+    ],
+    "103,0": [
+      "gb/england/london"
+    ],
+    "102,-5": [
+      "gb/england/bath"
+    ],
+    "103,-3": [
+      "gb/england/oxford"
+    ],
+    "104,0": [
+      "gb/england/cambridge"
+    ],
+    "107,-3": [
+      "gb/england/york"
+    ],
+    "106,-5": [
+      "gb/england/manchester"
+    ],
+    "106,-6": [
+      "gb/england/liverpool"
+    ],
+    "101,-1": [
+      "gb/england/brighton"
+    ],
+    "102,2": [
+      "gb/england/canterbury"
+    ],
+    "102,-6": [
+      "gb/england/bristol"
+    ],
+    "109,-4": [
+      "gb/england/durham"
+    ],
+    "104,-4": [
+      "gb/england/stratford-upon-avon"
+    ],
+    "102,-2": [
+      "gb/england/windsor"
+    ],
+    "100,-12": [
+      "gb/england/cornwall"
+    ],
+    "100,-11": [
+      "gb/england/cornwall"
+    ],
+    "111,-7": [
+      "gb/scotland/edinburgh"
+    ],
+    "111,-9": [
+      "gb/scotland/glasgow"
+    ],
+    "114,-9": [
+      "gb/scotland/inverness"
+    ],
+    "112,-8": [
+      "gb/scotland/stirling"
+    ],
+    "112,-6": [
+      "gb/scotland/st-andrews"
+    ],
+    "102,-7": [
+      "gb/wales/cardiff"
+    ],
+    "106,-8": [
+      "gb/wales/conwy",
+      "gb/wales/snowdonia"
+    ],
+    "106,-9": [
+      "gb/wales/snowdonia"
+    ],
+    "109,-12": [
+      "gb/northern-ireland/belfast"
+    ],
+    "110,-14": [
+      "gb/northern-ireland/giants-causeway"
+    ],
+    "110,-13": [
+      "gb/northern-ireland/giants-causeway"
     ]
   }
 }

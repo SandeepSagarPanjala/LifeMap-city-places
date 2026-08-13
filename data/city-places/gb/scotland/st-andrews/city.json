@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/scotland/st-andrews",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "SCT",
+  "stateName": "Scotland",
+  "cityName": "St Andrews",
+  "bbox": {
+    "minLat": 56.33,
+    "minLng": -2.81,
+    "maxLat": 56.35,
+    "maxLng": -2.78
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-andrews-cathedral",
+      "name": "St Andrews Cathedral",
+      "lat": 56.34,
+      "lng": -2.788,
+      "radiusM": 150,
+      "address": "St Andrews Cathedral",
+      "howTo": "Visit St Andrews Cathedral.",
+      "badge": "badges/st-andrews-cathedral.png"
+    },
+    {
+      "id": "st-andrews-castle",
+      "name": "St Andrews Castle",
+      "lat": 56.3415,
+      "lng": -2.787,
+      "radiusM": 100,
+      "address": "St Andrews Castle",
+      "howTo": "Visit St Andrews Castle.",
+      "badge": "badges/st-andrews-castle.png"
+    },
+    {
+      "id": "old-course-st-andrews",
+      "name": "Old Course St Andrews",
+      "lat": 56.3435,
+      "lng": -2.8025,
+      "radiusM": 250,
+      "address": "Old Course, St Andrews",
+      "howTo": "Visit Old Course St Andrews.",
+      "badge": "badges/old-course-st-andrews.png"
+    }
+  ]
+}

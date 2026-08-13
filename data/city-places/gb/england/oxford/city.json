@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/oxford",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Oxford",
+  "bbox": {
+    "minLat": 51.74,
+    "minLng": -1.27,
+    "maxLat": 51.76,
+    "maxLng": -1.24
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "radcliffe-camera",
+      "name": "Radcliffe Camera",
+      "lat": 51.7534,
+      "lng": -1.254,
+      "radiusM": 80,
+      "address": "Radcliffe Camera, Oxford",
+      "howTo": "Visit Radcliffe Camera.",
+      "badge": "badges/radcliffe-camera.png"
+    },
+    {
+      "id": "christ-church-oxford",
+      "name": "Christ Church",
+      "lat": 51.7502,
+      "lng": -1.2554,
+      "radiusM": 150,
+      "address": "Christ Church College, Oxford",
+      "howTo": "Visit Christ Church.",
+      "badge": "badges/christ-church-oxford.png"
+    },
+    {
+      "id": "bodleian-library",
+      "name": "Bodleian Library",
+      "lat": 51.754,
+      "lng": -1.2544,
+      "radiusM": 100,
+      "address": "Bodleian Library, Oxford",
+      "howTo": "Visit Bodleian Library.",
+      "badge": "badges/bodleian-library.png"
+    },
+    {
+      "id": "oxford-botanic-garden",
+      "name": "University of Oxford Botanic Garden",
+      "lat": 51.751,
+      "lng": -1.2475,
+      "radiusM": 150,
+      "address": "Botanic Garden, Oxford",
+      "howTo": "Visit University of Oxford Botanic Garden.",
+      "badge": "badges/oxford-botanic-garden.png"
+    }
+  ]
+}

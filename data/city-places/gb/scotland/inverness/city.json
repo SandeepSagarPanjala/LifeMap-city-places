@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/scotland/inverness",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "SCT",
+  "stateName": "Scotland",
+  "cityName": "Inverness",
+  "bbox": {
+    "minLat": 57.46,
+    "minLng": -4.25,
+    "maxLat": 57.49,
+    "maxLng": -4.2
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "inverness-castle",
+      "name": "Inverness Castle",
+      "lat": 57.4765,
+      "lng": -4.2255,
+      "radiusM": 100,
+      "address": "Inverness Castle",
+      "howTo": "Visit Inverness Castle.",
+      "badge": "badges/inverness-castle.png"
+    },
+    {
+      "id": "loch-ness",
+      "name": "Loch Ness",
+      "lat": 57.3225,
+      "lng": -4.4245,
+      "radiusM": 400,
+      "address": "Loch Ness / Urquhart area",
+      "howTo": "Visit Loch Ness.",
+      "badge": "badges/loch-ness.png"
+    },
+    {
+      "id": "culloden",
+      "name": "Culloden Battlefield",
+      "lat": 57.4875,
+      "lng": -4.0975,
+      "radiusM": 250,
+      "address": "Culloden Battlefield",
+      "howTo": "Visit Culloden Battlefield.",
+      "badge": "badges/culloden.png"
+    },
+    {
+      "id": "clava-cairns",
+      "name": "Clava Cairns",
+      "lat": 57.4735,
+      "lng": -4.0745,
+      "radiusM": 150,
+      "address": "Clava Cairns",
+      "howTo": "Visit Clava Cairns.",
+      "badge": "badges/clava-cairns.png"
+    }
+  ]
+}

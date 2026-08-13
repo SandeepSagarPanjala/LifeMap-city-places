@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/scotland/edinburgh",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "SCT",
+  "stateName": "Scotland",
+  "cityName": "Edinburgh",
+  "bbox": {
+    "minLat": 55.94,
+    "minLng": -3.22,
+    "maxLat": 55.96,
+    "maxLng": -3.16
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "edinburgh-castle",
+      "name": "Edinburgh Castle",
+      "lat": 55.9486,
+      "lng": -3.1999,
+      "radiusM": 200,
+      "address": "Edinburgh Castle",
+      "howTo": "Visit Edinburgh Castle.",
+      "badge": "badges/edinburgh-castle.png"
+    },
+    {
+      "id": "royal-mile",
+      "name": "Royal Mile",
+      "lat": 55.9502,
+      "lng": -3.1875,
+      "radiusM": 200,
+      "address": "Royal Mile, Edinburgh",
+      "howTo": "Visit Royal Mile.",
+      "badge": "badges/royal-mile.png"
+    },
+    {
+      "id": "arthurs-seat",
+      "name": "Arthur's Seat",
+      "lat": 55.944,
+      "lng": -3.162,
+      "radiusM": 300,
+      "address": "Arthur's Seat, Holyrood Park",
+      "howTo": "Visit Arthur's Seat.",
+      "badge": "badges/arthurs-seat.png"
+    },
+    {
+      "id": "holyrood-palace",
+      "name": "Palace of Holyroodhouse",
+      "lat": 55.9525,
+      "lng": -3.172,
+      "radiusM": 150,
+      "address": "Holyrood Palace",
+      "howTo": "Visit Palace of Holyroodhouse.",
+      "badge": "badges/holyrood-palace.png"
+    },
+    {
+      "id": "calton-hill",
+      "name": "Calton Hill",
+      "lat": 55.955,
+      "lng": -3.1825,
+      "radiusM": 150,
+      "address": "Calton Hill, Edinburgh",
+      "howTo": "Visit Calton Hill.",
+      "badge": "badges/calton-hill.png"
+    },
+    {
+      "id": "national-museum-scotland",
+      "name": "National Museum of Scotland",
+      "lat": 55.947,
+      "lng": -3.1895,
+      "radiusM": 120,
+      "address": "National Museum of Scotland",
+      "howTo": "Visit National Museum of Scotland.",
+      "badge": "badges/national-museum-scotland.png"
+    }
+  ]
+}

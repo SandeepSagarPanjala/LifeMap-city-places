@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/bath",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Bath",
+  "bbox": {
+    "minLat": 51.37,
+    "minLng": -2.38,
+    "maxLat": 51.39,
+    "maxLng": -2.34
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "roman-baths",
+      "name": "Roman Baths",
+      "lat": 51.381,
+      "lng": -2.3595,
+      "radiusM": 120,
+      "address": "Roman Baths, Bath",
+      "howTo": "Visit Roman Baths.",
+      "badge": "badges/roman-baths.png"
+    },
+    {
+      "id": "bath-abbey",
+      "name": "Bath Abbey",
+      "lat": 51.3815,
+      "lng": -2.3588,
+      "radiusM": 100,
+      "address": "Bath Abbey",
+      "howTo": "Visit Bath Abbey.",
+      "badge": "badges/bath-abbey.png"
+    },
+    {
+      "id": "royal-crescent",
+      "name": "Royal Crescent",
+      "lat": 51.387,
+      "lng": -2.368,
+      "radiusM": 150,
+      "address": "Royal Crescent, Bath",
+      "howTo": "Visit Royal Crescent.",
+      "badge": "badges/royal-crescent.png"
+    },
+    {
+      "id": "pump-room",
+      "name": "Pump Room",
+      "lat": 51.3812,
+      "lng": -2.3597,
+      "radiusM": 80,
+      "address": "Pump Room, Bath",
+      "howTo": "Visit Pump Room.",
+      "badge": "badges/pump-room.png"
+    }
+  ]
+}

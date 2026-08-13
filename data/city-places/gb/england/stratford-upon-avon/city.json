@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/stratford-upon-avon",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Stratford-upon-Avon",
+  "bbox": {
+    "minLat": 52.18,
+    "minLng": -1.72,
+    "maxLat": 52.2,
+    "maxLng": -1.7
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shakespeares-birthplace",
+      "name": "Shakespeare's Birthplace",
+      "lat": 52.1935,
+      "lng": -1.7075,
+      "radiusM": 80,
+      "address": "Henley Street, Stratford",
+      "howTo": "Visit Shakespeare's Birthplace.",
+      "badge": "badges/shakespeares-birthplace.png"
+    },
+    {
+      "id": "holy-trinity-stratford",
+      "name": "Holy Trinity Church",
+      "lat": 52.1865,
+      "lng": -1.707,
+      "radiusM": 100,
+      "address": "Holy Trinity Church, Stratford",
+      "howTo": "Visit Holy Trinity Church.",
+      "badge": "badges/holy-trinity-stratford.png"
+    },
+    {
+      "id": "rsc-theatre",
+      "name": "Royal Shakespeare Theatre",
+      "lat": 52.1905,
+      "lng": -1.7035,
+      "radiusM": 100,
+      "address": "RSC Theatre, Stratford",
+      "howTo": "Visit Royal Shakespeare Theatre.",
+      "badge": "badges/rsc-theatre.png"
+    }
+  ]
+}

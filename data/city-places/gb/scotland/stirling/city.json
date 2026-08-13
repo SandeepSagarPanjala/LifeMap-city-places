@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/scotland/stirling",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "SCT",
+  "stateName": "Scotland",
+  "cityName": "Stirling",
+  "bbox": {
+    "minLat": 56.11,
+    "minLng": -3.95,
+    "maxLat": 56.13,
+    "maxLng": -3.93
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "stirling-castle",
+      "name": "Stirling Castle",
+      "lat": 56.1235,
+      "lng": -3.9485,
+      "radiusM": 200,
+      "address": "Stirling Castle",
+      "howTo": "Visit Stirling Castle.",
+      "badge": "badges/stirling-castle.png"
+    },
+    {
+      "id": "wallace-monument",
+      "name": "National Wallace Monument",
+      "lat": 56.1385,
+      "lng": -3.9205,
+      "radiusM": 150,
+      "address": "Wallace Monument",
+      "howTo": "Visit National Wallace Monument.",
+      "badge": "badges/wallace-monument.png"
+    },
+    {
+      "id": "old-town-jail-stirling",
+      "name": "Old Town Jail",
+      "lat": 56.1205,
+      "lng": -3.9405,
+      "radiusM": 80,
+      "address": "Old Town Jail, Stirling",
+      "howTo": "Visit Old Town Jail.",
+      "badge": "badges/old-town-jail-stirling.png"
+    }
+  ]
+}

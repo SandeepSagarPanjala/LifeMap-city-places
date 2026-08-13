@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/durham",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Durham",
+  "bbox": {
+    "minLat": 54.77,
+    "minLng": -1.58,
+    "maxLat": 54.78,
+    "maxLng": -1.57
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "durham-cathedral",
+      "name": "Durham Cathedral",
+      "lat": 54.7735,
+      "lng": -1.576,
+      "radiusM": 150,
+      "address": "Durham Cathedral",
+      "howTo": "Visit Durham Cathedral.",
+      "badge": "badges/durham-cathedral.png"
+    },
+    {
+      "id": "durham-castle",
+      "name": "Durham Castle",
+      "lat": 54.775,
+      "lng": -1.5765,
+      "radiusM": 120,
+      "address": "Durham Castle",
+      "howTo": "Visit Durham Castle.",
+      "badge": "badges/durham-castle.png"
+    },
+    {
+      "id": "river-wear-walk",
+      "name": "River Wear Walk",
+      "lat": 54.774,
+      "lng": -1.5745,
+      "radiusM": 200,
+      "address": "River Wear, Durham",
+      "howTo": "Visit River Wear Walk.",
+      "badge": "badges/river-wear-walk.png"
+    }
+  ]
+}

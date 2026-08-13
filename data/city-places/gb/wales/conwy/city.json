@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/wales/conwy",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "WLS",
+  "stateName": "Wales",
+  "cityName": "Conwy",
+  "bbox": {
+    "minLat": 53.27,
+    "minLng": -3.84,
+    "maxLat": 53.29,
+    "maxLng": -3.82
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "conwy-castle",
+      "name": "Conwy Castle",
+      "lat": 53.28,
+      "lng": -3.8255,
+      "radiusM": 150,
+      "address": "Conwy Castle",
+      "howTo": "Visit Conwy Castle.",
+      "badge": "badges/conwy-castle.png"
+    },
+    {
+      "id": "conwy-town-walls",
+      "name": "Conwy Town Walls",
+      "lat": 53.2815,
+      "lng": -3.8295,
+      "radiusM": 200,
+      "address": "Conwy Town Walls",
+      "howTo": "Visit Conwy Town Walls.",
+      "badge": "badges/conwy-town-walls.png"
+    },
+    {
+      "id": "smallest-house",
+      "name": "Smallest House in Great Britain",
+      "lat": 53.281,
+      "lng": -3.8285,
+      "radiusM": 60,
+      "address": "The Quay, Conwy",
+      "howTo": "Visit Smallest House in Great Britain.",
+      "badge": "badges/smallest-house.png"
+    }
+  ]
+}

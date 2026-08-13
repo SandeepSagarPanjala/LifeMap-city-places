@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/northern-ireland/belfast",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "NIR",
+  "stateName": "Northern Ireland",
+  "cityName": "Belfast",
+  "bbox": {
+    "minLat": 54.58,
+    "minLng": -5.95,
+    "maxLat": 54.61,
+    "maxLng": -5.9
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "titanic-belfast",
+      "name": "Titanic Belfast",
+      "lat": 54.608,
+      "lng": -5.91,
+      "radiusM": 150,
+      "address": "Titanic Belfast",
+      "howTo": "Visit Titanic Belfast.",
+      "badge": "badges/titanic-belfast.png"
+    },
+    {
+      "id": "belfast-city-hall",
+      "name": "Belfast City Hall",
+      "lat": 54.5965,
+      "lng": -5.93,
+      "radiusM": 100,
+      "address": "City Hall, Belfast",
+      "howTo": "Visit Belfast City Hall.",
+      "badge": "badges/belfast-city-hall.png"
+    },
+    {
+      "id": "botanic-gardens-belfast",
+      "name": "Botanic Gardens",
+      "lat": 54.582,
+      "lng": -5.9325,
+      "radiusM": 200,
+      "address": "Botanic Gardens, Belfast",
+      "howTo": "Visit Botanic Gardens.",
+      "badge": "badges/botanic-gardens-belfast.png"
+    },
+    {
+      "id": "cave-hill",
+      "name": "Cave Hill",
+      "lat": 54.6475,
+      "lng": -5.9515,
+      "radiusM": 250,
+      "address": "Cave Hill Country Park",
+      "howTo": "Visit Cave Hill.",
+      "badge": "badges/cave-hill.png"
+    }
+  ]
+}

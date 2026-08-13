@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T12:00:00.000Z",
-  "notes": "USA complete. India complete. Japan complete. Next: United Kingdom (gb). Chain countries automatically — do not wait for human between countries. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T17:29:58.000Z",
+  "notes": "USA/India/Japan/United Kingdom complete. Next: France (fr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -5038,6 +5038,377 @@
                 "minLng": 124.15,
                 "maxLat": 24.38,
                 "maxLng": 124.18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gb",
+      "countryCode": "GB",
+      "name": "United Kingdom",
+      "states": [
+        {
+          "id": "england",
+          "stateCode": "ENG",
+          "name": "England",
+          "cities": [
+            {
+              "id": "london",
+              "name": "London",
+              "status": "complete",
+              "packPath": "gb/england/london/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.48,
+                "minLng": -0.2,
+                "maxLat": 51.55,
+                "maxLng": 0.02
+              }
+            },
+            {
+              "id": "bath",
+              "name": "Bath",
+              "status": "complete",
+              "packPath": "gb/england/bath/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.37,
+                "minLng": -2.38,
+                "maxLat": 51.39,
+                "maxLng": -2.34
+              }
+            },
+            {
+              "id": "oxford",
+              "name": "Oxford",
+              "status": "complete",
+              "packPath": "gb/england/oxford/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.74,
+                "minLng": -1.27,
+                "maxLat": 51.76,
+                "maxLng": -1.24
+              }
+            },
+            {
+              "id": "cambridge",
+              "name": "Cambridge",
+              "status": "complete",
+              "packPath": "gb/england/cambridge/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 52.19,
+                "minLng": 0.1,
+                "maxLat": 52.22,
+                "maxLng": 0.13
+              }
+            },
+            {
+              "id": "york",
+              "name": "York",
+              "status": "complete",
+              "packPath": "gb/england/york/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 53.95,
+                "minLng": -1.1,
+                "maxLat": 53.97,
+                "maxLng": -1.07
+              }
+            },
+            {
+              "id": "manchester",
+              "name": "Manchester",
+              "status": "complete",
+              "packPath": "gb/england/manchester/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 53.46,
+                "minLng": -2.26,
+                "maxLat": 53.49,
+                "maxLng": -2.22
+              }
+            },
+            {
+              "id": "liverpool",
+              "name": "Liverpool",
+              "status": "complete",
+              "packPath": "gb/england/liverpool/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 53.39,
+                "minLng": -2.99,
+                "maxLat": 53.42,
+                "maxLng": -2.96
+              }
+            },
+            {
+              "id": "brighton",
+              "name": "Brighton",
+              "status": "complete",
+              "packPath": "gb/england/brighton/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 50.81,
+                "minLng": -0.16,
+                "maxLat": 50.84,
+                "maxLng": -0.12
+              }
+            },
+            {
+              "id": "canterbury",
+              "name": "Canterbury",
+              "status": "complete",
+              "packPath": "gb/england/canterbury/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.27,
+                "minLng": 1.07,
+                "maxLat": 51.29,
+                "maxLng": 1.09
+              }
+            },
+            {
+              "id": "bristol",
+              "name": "Bristol",
+              "status": "complete",
+              "packPath": "gb/england/bristol/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.44,
+                "minLng": -2.63,
+                "maxLat": 51.46,
+                "maxLng": -2.58
+              }
+            },
+            {
+              "id": "durham",
+              "name": "Durham",
+              "status": "complete",
+              "packPath": "gb/england/durham/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 54.77,
+                "minLng": -1.58,
+                "maxLat": 54.78,
+                "maxLng": -1.57
+              }
+            },
+            {
+              "id": "stratford-upon-avon",
+              "name": "Stratford-upon-Avon",
+              "status": "complete",
+              "packPath": "gb/england/stratford-upon-avon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 52.18,
+                "minLng": -1.72,
+                "maxLat": 52.2,
+                "maxLng": -1.7
+              }
+            },
+            {
+              "id": "windsor",
+              "name": "Windsor",
+              "status": "complete",
+              "packPath": "gb/england/windsor/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.48,
+                "minLng": -0.62,
+                "maxLat": 51.49,
+                "maxLng": -0.6
+              }
+            },
+            {
+              "id": "cornwall",
+              "name": "Cornwall",
+              "status": "complete",
+              "packPath": "gb/england/cornwall/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 50.08,
+                "minLng": -5.72,
+                "maxLat": 50.22,
+                "maxLng": -5.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "scotland",
+          "stateCode": "SCT",
+          "name": "Scotland",
+          "cities": [
+            {
+              "id": "edinburgh",
+              "name": "Edinburgh",
+              "status": "complete",
+              "packPath": "gb/scotland/edinburgh/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 55.94,
+                "minLng": -3.22,
+                "maxLat": 55.96,
+                "maxLng": -3.16
+              }
+            },
+            {
+              "id": "glasgow",
+              "name": "Glasgow",
+              "status": "complete",
+              "packPath": "gb/scotland/glasgow/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 55.85,
+                "minLng": -4.28,
+                "maxLat": 55.87,
+                "maxLng": -4.23
+              }
+            },
+            {
+              "id": "inverness",
+              "name": "Inverness",
+              "status": "complete",
+              "packPath": "gb/scotland/inverness/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 57.46,
+                "minLng": -4.25,
+                "maxLat": 57.49,
+                "maxLng": -4.2
+              }
+            },
+            {
+              "id": "stirling",
+              "name": "Stirling",
+              "status": "complete",
+              "packPath": "gb/scotland/stirling/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 56.11,
+                "minLng": -3.95,
+                "maxLat": 56.13,
+                "maxLng": -3.93
+              }
+            },
+            {
+              "id": "st-andrews",
+              "name": "St Andrews",
+              "status": "complete",
+              "packPath": "gb/scotland/st-andrews/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 56.33,
+                "minLng": -2.81,
+                "maxLat": 56.35,
+                "maxLng": -2.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "wales",
+          "stateCode": "WLS",
+          "name": "Wales",
+          "cities": [
+            {
+              "id": "cardiff",
+              "name": "Cardiff",
+              "status": "complete",
+              "packPath": "gb/wales/cardiff/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 51.46,
+                "minLng": -3.19,
+                "maxLat": 51.49,
+                "maxLng": -3.15
+              }
+            },
+            {
+              "id": "conwy",
+              "name": "Conwy",
+              "status": "complete",
+              "packPath": "gb/wales/conwy/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 53.27,
+                "minLng": -3.84,
+                "maxLat": 53.29,
+                "maxLng": -3.82
+              }
+            },
+            {
+              "id": "snowdonia",
+              "name": "Snowdonia",
+              "status": "complete",
+              "packPath": "gb/wales/snowdonia/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 53.05,
+                "minLng": -4.1,
+                "maxLat": 53.12,
+                "maxLng": -3.95
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern-ireland",
+          "stateCode": "NIR",
+          "name": "Northern Ireland",
+          "cities": [
+            {
+              "id": "belfast",
+              "name": "Belfast",
+              "status": "complete",
+              "packPath": "gb/northern-ireland/belfast/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 54.58,
+                "minLng": -5.95,
+                "maxLat": 54.61,
+                "maxLng": -5.9
+              }
+            },
+            {
+              "id": "giants-causeway",
+              "name": "Giant's Causeway",
+              "status": "complete",
+              "packPath": "gb/northern-ireland/giants-causeway/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:05:00.000Z",
+              "bbox": {
+                "minLat": 55.23,
+                "minLng": -6.52,
+                "maxLat": 55.25,
+                "maxLng": -6.5
               }
             }
           ]

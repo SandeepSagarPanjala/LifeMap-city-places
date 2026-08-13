@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/scotland/glasgow",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "SCT",
+  "stateName": "Scotland",
+  "cityName": "Glasgow",
+  "bbox": {
+    "minLat": 55.85,
+    "minLng": -4.28,
+    "maxLat": 55.87,
+    "maxLng": -4.23
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "glasgow-cathedral",
+      "name": "Glasgow Cathedral",
+      "lat": 55.8628,
+      "lng": -4.2345,
+      "radiusM": 120,
+      "address": "Glasgow Cathedral",
+      "howTo": "Visit Glasgow Cathedral.",
+      "badge": "badges/glasgow-cathedral.png"
+    },
+    {
+      "id": "kelvingrove",
+      "name": "Kelvingrove Art Gallery",
+      "lat": 55.8685,
+      "lng": -4.2905,
+      "radiusM": 150,
+      "address": "Kelvingrove, Glasgow",
+      "howTo": "Visit Kelvingrove Art Gallery.",
+      "badge": "badges/kelvingrove.png"
+    },
+    {
+      "id": "university-of-glasgow",
+      "name": "University of Glasgow",
+      "lat": 55.872,
+      "lng": -4.288,
+      "radiusM": 200,
+      "address": "University of Glasgow",
+      "howTo": "Visit University of Glasgow.",
+      "badge": "badges/university-of-glasgow.png"
+    },
+    {
+      "id": "necropolis-glasgow",
+      "name": "Glasgow Necropolis",
+      "lat": 55.862,
+      "lng": -4.231,
+      "radiusM": 150,
+      "address": "Necropolis, Glasgow",
+      "howTo": "Visit Glasgow Necropolis.",
+      "badge": "badges/necropolis-glasgow.png"
+    }
+  ]
+}

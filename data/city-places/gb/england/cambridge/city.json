@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/cambridge",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Cambridge",
+  "bbox": {
+    "minLat": 52.19,
+    "minLng": 0.1,
+    "maxLat": 52.22,
+    "maxLng": 0.13
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kings-college-chapel",
+      "name": "King's College Chapel",
+      "lat": 52.2043,
+      "lng": 0.1166,
+      "radiusM": 120,
+      "address": "King's College, Cambridge",
+      "howTo": "Visit King's College Chapel.",
+      "badge": "badges/kings-college-chapel.png"
+    },
+    {
+      "id": "mathematical-bridge",
+      "name": "Mathematical Bridge",
+      "lat": 52.2022,
+      "lng": 0.115,
+      "radiusM": 80,
+      "address": "Queens' College, Cambridge",
+      "howTo": "Visit Mathematical Bridge.",
+      "badge": "badges/mathematical-bridge.png"
+    },
+    {
+      "id": "fitzwilliam-museum",
+      "name": "Fitzwilliam Museum",
+      "lat": 52.2,
+      "lng": 0.1195,
+      "radiusM": 100,
+      "address": "Fitzwilliam Museum, Cambridge",
+      "howTo": "Visit Fitzwilliam Museum.",
+      "badge": "badges/fitzwilliam-museum.png"
+    },
+    {
+      "id": "the-backs",
+      "name": "The Backs",
+      "lat": 52.2045,
+      "lng": 0.114,
+      "radiusM": 200,
+      "address": "The Backs, Cambridge",
+      "howTo": "Visit The Backs.",
+      "badge": "badges/the-backs.png"
+    }
+  ]
+}

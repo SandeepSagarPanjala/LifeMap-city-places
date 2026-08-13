@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/northern-ireland/giants-causeway",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "NIR",
+  "stateName": "Northern Ireland",
+  "cityName": "Giant's Causeway",
+  "bbox": {
+    "minLat": 55.23,
+    "minLng": -6.52,
+    "maxLat": 55.25,
+    "maxLng": -6.5
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "giants-causeway-stones",
+      "name": "Giant's Causeway",
+      "lat": 55.2408,
+      "lng": -6.5116,
+      "radiusM": 250,
+      "address": "Giant's Causeway stones",
+      "howTo": "Visit Giant's Causeway.",
+      "badge": "badges/giants-causeway-stones.png"
+    },
+    {
+      "id": "causeway-coastal-path",
+      "name": "Causeway Coastal Path",
+      "lat": 55.2395,
+      "lng": -6.5085,
+      "radiusM": 200,
+      "address": "Causeway Coastal Route",
+      "howTo": "Visit Causeway Coastal Path.",
+      "badge": "badges/causeway-coastal-path.png"
+    },
+    {
+      "id": "carrick-a-rede",
+      "name": "Carrick-a-Rede Rope Bridge",
+      "lat": 55.239,
+      "lng": -6.3315,
+      "radiusM": 150,
+      "address": "Carrick-a-Rede",
+      "howTo": "Visit Carrick-a-Rede Rope Bridge.",
+      "badge": "badges/carrick-a-rede.png"
+    }
+  ]
+}

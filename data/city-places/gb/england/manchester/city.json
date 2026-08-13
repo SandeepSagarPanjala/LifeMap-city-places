@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/manchester",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Manchester",
+  "bbox": {
+    "minLat": 53.46,
+    "minLng": -2.26,
+    "maxLat": 53.49,
+    "maxLng": -2.22
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "manchester-cathedral",
+      "name": "Manchester Cathedral",
+      "lat": 53.485,
+      "lng": -2.2445,
+      "radiusM": 100,
+      "address": "Manchester Cathedral",
+      "howTo": "Visit Manchester Cathedral.",
+      "badge": "badges/manchester-cathedral.png"
+    },
+    {
+      "id": "john-rylands-library",
+      "name": "John Rylands Library",
+      "lat": 53.48,
+      "lng": -2.2485,
+      "radiusM": 100,
+      "address": "John Rylands Library",
+      "howTo": "Visit John Rylands Library.",
+      "badge": "badges/john-rylands-library.png"
+    },
+    {
+      "id": "science-and-industry-museum",
+      "name": "Science and Industry Museum",
+      "lat": 53.477,
+      "lng": -2.2545,
+      "radiusM": 150,
+      "address": "MOSI, Manchester",
+      "howTo": "Visit Science and Industry Museum.",
+      "badge": "badges/science-and-industry-museum.png"
+    },
+    {
+      "id": "heaton-park",
+      "name": "Heaton Park",
+      "lat": 53.5355,
+      "lng": -2.2565,
+      "radiusM": 300,
+      "address": "Heaton Park, Manchester",
+      "howTo": "Visit Heaton Park.",
+      "badge": "badges/heaton-park.png"
+    }
+  ]
+}

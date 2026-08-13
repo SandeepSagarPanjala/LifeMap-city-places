@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/wales/snowdonia",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "WLS",
+  "stateName": "Wales",
+  "cityName": "Snowdonia",
+  "bbox": {
+    "minLat": 53.05,
+    "minLng": -4.1,
+    "maxLat": 53.12,
+    "maxLng": -3.95
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-snowdon",
+      "name": "Mount Snowdon / Yr Wyddfa",
+      "lat": 53.0685,
+      "lng": -4.0765,
+      "radiusM": 300,
+      "address": "Snowdon summit area",
+      "howTo": "Visit Mount Snowdon / Yr Wyddfa.",
+      "badge": "badges/mount-snowdon.png"
+    },
+    {
+      "id": "llanberis-lake",
+      "name": "Llyn Padarn / Llanberis",
+      "lat": 53.1185,
+      "lng": -4.1285,
+      "radiusM": 250,
+      "address": "Llanberis, Snowdonia",
+      "howTo": "Visit Llyn Padarn / Llanberis.",
+      "badge": "badges/llanberis-lake.png"
+    },
+    {
+      "id": "portmeirion",
+      "name": "Portmeirion",
+      "lat": 52.9135,
+      "lng": -4.0995,
+      "radiusM": 200,
+      "address": "Portmeirion Village",
+      "howTo": "Visit Portmeirion.",
+      "badge": "badges/portmeirion.png"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/london",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "London",
+  "bbox": {
+    "minLat": 51.48,
+    "minLng": -0.2,
+    "maxLat": 51.55,
+    "maxLng": 0.02
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "big-ben",
+      "name": "Big Ben / Elizabeth Tower",
+      "lat": 51.5007,
+      "lng": -0.1246,
+      "radiusM": 120,
+      "address": "Westminster, London",
+      "howTo": "Visit Big Ben / Elizabeth Tower.",
+      "badge": "badges/big-ben.png"
+    },
+    {
+      "id": "tower-of-london",
+      "name": "Tower of London",
+      "lat": 51.5081,
+      "lng": -0.0759,
+      "radiusM": 200,
+      "address": "Tower of London",
+      "howTo": "Visit Tower of London.",
+      "badge": "badges/tower-of-london.png"
+    },
+    {
+      "id": "tower-bridge",
+      "name": "Tower Bridge",
+      "lat": 51.5055,
+      "lng": -0.0754,
+      "radiusM": 150,
+      "address": "Tower Bridge, London",
+      "howTo": "Visit Tower Bridge.",
+      "badge": "badges/tower-bridge.png"
+    },
+    {
+      "id": "buckingham-palace",
+      "name": "Buckingham Palace",
+      "lat": 51.5014,
+      "lng": -0.1419,
+      "radiusM": 200,
+      "address": "Buckingham Palace",
+      "howTo": "Visit Buckingham Palace.",
+      "badge": "badges/buckingham-palace.png"
+    },
+    {
+      "id": "british-museum",
+      "name": "British Museum",
+      "lat": 51.5194,
+      "lng": -0.127,
+      "radiusM": 150,
+      "address": "British Museum, Bloomsbury",
+      "howTo": "Visit British Museum.",
+      "badge": "badges/british-museum.png"
+    },
+    {
+      "id": "london-eye",
+      "name": "London Eye",
+      "lat": 51.5033,
+      "lng": -0.1196,
+      "radiusM": 120,
+      "address": "South Bank, London",
+      "howTo": "Visit London Eye.",
+      "badge": "badges/london-eye.png"
+    },
+    {
+      "id": "westminster-abbey",
+      "name": "Westminster Abbey",
+      "lat": 51.4994,
+      "lng": -0.1273,
+      "radiusM": 120,
+      "address": "Westminster Abbey",
+      "howTo": "Visit Westminster Abbey.",
+      "badge": "badges/westminster-abbey.png"
+    },
+    {
+      "id": "st-pauls-cathedral",
+      "name": "St Paul's Cathedral",
+      "lat": 51.5138,
+      "lng": -0.0984,
+      "radiusM": 120,
+      "address": "St Paul's Cathedral",
+      "howTo": "Visit St Paul's Cathedral.",
+      "badge": "badges/st-pauls-cathedral.png"
+    },
+    {
+      "id": "hyde-park-london",
+      "name": "Hyde Park",
+      "lat": 51.5073,
+      "lng": -0.1657,
+      "radiusM": 300,
+      "address": "Hyde Park, London",
+      "howTo": "Visit Hyde Park.",
+      "badge": "badges/hyde-park-london.png"
+    },
+    {
+      "id": "trafalgar-square",
+      "name": "Trafalgar Square",
+      "lat": 51.508,
+      "lng": -0.1281,
+      "radiusM": 120,
+      "address": "Trafalgar Square",
+      "howTo": "Visit Trafalgar Square.",
+      "badge": "badges/trafalgar-square.png"
+    }
+  ]
+}

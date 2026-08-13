@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/bristol",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Bristol",
+  "bbox": {
+    "minLat": 51.44,
+    "minLng": -2.63,
+    "maxLat": 51.46,
+    "maxLng": -2.58
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clifton-suspension-bridge",
+      "name": "Clifton Suspension Bridge",
+      "lat": 51.455,
+      "lng": -2.6275,
+      "radiusM": 150,
+      "address": "Clifton Suspension Bridge",
+      "howTo": "Visit Clifton Suspension Bridge.",
+      "badge": "badges/clifton-suspension-bridge.png"
+    },
+    {
+      "id": "ss-great-britain",
+      "name": "SS Great Britain",
+      "lat": 51.449,
+      "lng": -2.6085,
+      "radiusM": 120,
+      "address": "SS Great Britain, Bristol",
+      "howTo": "Visit SS Great Britain.",
+      "badge": "badges/ss-great-britain.png"
+    },
+    {
+      "id": "bristol-cathedral",
+      "name": "Bristol Cathedral",
+      "lat": 51.4515,
+      "lng": -2.6005,
+      "radiusM": 100,
+      "address": "Bristol Cathedral",
+      "howTo": "Visit Bristol Cathedral.",
+      "badge": "badges/bristol-cathedral.png"
+    },
+    {
+      "id": "brandon-hill",
+      "name": "Brandon Hill / Cabot Tower",
+      "lat": 51.4545,
+      "lng": -2.6075,
+      "radiusM": 150,
+      "address": "Brandon Hill, Bristol",
+      "howTo": "Visit Brandon Hill / Cabot Tower.",
+      "badge": "badges/brandon-hill.png"
+    }
+  ]
+}

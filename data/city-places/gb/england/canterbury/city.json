@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/canterbury",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Canterbury",
+  "bbox": {
+    "minLat": 51.27,
+    "minLng": 1.07,
+    "maxLat": 51.29,
+    "maxLng": 1.09
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "canterbury-cathedral",
+      "name": "Canterbury Cathedral",
+      "lat": 51.2797,
+      "lng": 1.0829,
+      "radiusM": 150,
+      "address": "Canterbury Cathedral",
+      "howTo": "Visit Canterbury Cathedral.",
+      "badge": "badges/canterbury-cathedral.png"
+    },
+    {
+      "id": "st-augustines-abbey",
+      "name": "St Augustine's Abbey",
+      "lat": 51.2785,
+      "lng": 1.0885,
+      "radiusM": 150,
+      "address": "St Augustine's Abbey",
+      "howTo": "Visit St Augustine's Abbey.",
+      "badge": "badges/st-augustines-abbey.png"
+    },
+    {
+      "id": "westgate-towers",
+      "name": "Westgate Towers",
+      "lat": 51.2815,
+      "lng": 1.0755,
+      "radiusM": 80,
+      "address": "Westgate Towers, Canterbury",
+      "howTo": "Visit Westgate Towers.",
+      "badge": "badges/westgate-towers.png"
+    }
+  ]
+}

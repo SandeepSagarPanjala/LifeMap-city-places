@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/cornwall",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Cornwall",
+  "bbox": {
+    "minLat": 50.08,
+    "minLng": -5.72,
+    "maxLat": 50.22,
+    "maxLng": -5.05
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-michaels-mount",
+      "name": "St Michael's Mount",
+      "lat": 50.1175,
+      "lng": -5.4775,
+      "radiusM": 200,
+      "address": "St Michael's Mount, Marazion",
+      "howTo": "Visit St Michael's Mount.",
+      "badge": "badges/st-michaels-mount.png"
+    },
+    {
+      "id": "lands-end",
+      "name": "Land's End",
+      "lat": 50.066,
+      "lng": -5.7165,
+      "radiusM": 200,
+      "address": "Land's End, Cornwall",
+      "howTo": "Visit Land's End.",
+      "badge": "badges/lands-end.png"
+    },
+    {
+      "id": "tintagel-castle",
+      "name": "Tintagel Castle",
+      "lat": 50.6685,
+      "lng": -4.7595,
+      "radiusM": 200,
+      "address": "Tintagel Castle",
+      "howTo": "Visit Tintagel Castle.",
+      "badge": "badges/tintagel-castle.png"
+    },
+    {
+      "id": "eden-project",
+      "name": "Eden Project",
+      "lat": 50.3615,
+      "lng": -4.7445,
+      "radiusM": 250,
+      "address": "Eden Project, Cornwall",
+      "howTo": "Visit Eden Project.",
+      "badge": "badges/eden-project.png"
+    }
+  ]
+}

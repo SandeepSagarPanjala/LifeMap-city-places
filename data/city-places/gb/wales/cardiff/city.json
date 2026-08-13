@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/wales/cardiff",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "WLS",
+  "stateName": "Wales",
+  "cityName": "Cardiff",
+  "bbox": {
+    "minLat": 51.46,
+    "minLng": -3.19,
+    "maxLat": 51.49,
+    "maxLng": -3.15
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cardiff-castle",
+      "name": "Cardiff Castle",
+      "lat": 51.4815,
+      "lng": -3.1815,
+      "radiusM": 150,
+      "address": "Cardiff Castle",
+      "howTo": "Visit Cardiff Castle.",
+      "badge": "badges/cardiff-castle.png"
+    },
+    {
+      "id": "principality-stadium",
+      "name": "Principality Stadium",
+      "lat": 51.4785,
+      "lng": -3.1825,
+      "radiusM": 150,
+      "address": "Principality Stadium",
+      "howTo": "Visit Principality Stadium.",
+      "badge": "badges/principality-stadium.png"
+    },
+    {
+      "id": "cardiff-bay",
+      "name": "Cardiff Bay",
+      "lat": 51.4625,
+      "lng": -3.1635,
+      "radiusM": 250,
+      "address": "Cardiff Bay",
+      "howTo": "Visit Cardiff Bay.",
+      "badge": "badges/cardiff-bay.png"
+    },
+    {
+      "id": "national-museum-cardiff",
+      "name": "National Museum Cardiff",
+      "lat": 51.4855,
+      "lng": -3.1775,
+      "radiusM": 120,
+      "address": "National Museum Cardiff",
+      "howTo": "Visit National Museum Cardiff.",
+      "badge": "badges/national-museum-cardiff.png"
+    }
+  ]
+}

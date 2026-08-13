@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/brighton",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Brighton",
+  "bbox": {
+    "minLat": 50.81,
+    "minLng": -0.16,
+    "maxLat": 50.84,
+    "maxLng": -0.12
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "brighton-pier",
+      "name": "Brighton Palace Pier",
+      "lat": 50.8168,
+      "lng": -0.137,
+      "radiusM": 150,
+      "address": "Brighton Pier",
+      "howTo": "Visit Brighton Palace Pier.",
+      "badge": "badges/brighton-pier.png"
+    },
+    {
+      "id": "royal-pavilion",
+      "name": "Royal Pavilion",
+      "lat": 50.8225,
+      "lng": -0.1375,
+      "radiusM": 120,
+      "address": "Royal Pavilion, Brighton",
+      "howTo": "Visit Royal Pavilion.",
+      "badge": "badges/royal-pavilion.png"
+    },
+    {
+      "id": "brighton-i360",
+      "name": "British Airways i360",
+      "lat": 50.8215,
+      "lng": -0.1535,
+      "radiusM": 100,
+      "address": "i360, Brighton",
+      "howTo": "Visit British Airways i360.",
+      "badge": "badges/brighton-i360.png"
+    },
+    {
+      "id": "the-lanes-brighton",
+      "name": "The Lanes",
+      "lat": 50.821,
+      "lng": -0.1405,
+      "radiusM": 120,
+      "address": "The Lanes, Brighton",
+      "howTo": "Visit The Lanes.",
+      "badge": "badges/the-lanes-brighton.png"
+    }
+  ]
+}

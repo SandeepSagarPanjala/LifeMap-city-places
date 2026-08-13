@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/windsor",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "Windsor",
+  "bbox": {
+    "minLat": 51.48,
+    "minLng": -0.62,
+    "maxLat": 51.49,
+    "maxLng": -0.6
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "windsor-castle",
+      "name": "Windsor Castle",
+      "lat": 51.4839,
+      "lng": -0.6044,
+      "radiusM": 250,
+      "address": "Windsor Castle",
+      "howTo": "Visit Windsor Castle.",
+      "badge": "badges/windsor-castle.png"
+    },
+    {
+      "id": "eton-college",
+      "name": "Eton College",
+      "lat": 51.492,
+      "lng": -0.6085,
+      "radiusM": 150,
+      "address": "Eton College",
+      "howTo": "Visit Eton College.",
+      "badge": "badges/eton-college.png"
+    },
+    {
+      "id": "windsor-great-park",
+      "name": "Windsor Great Park",
+      "lat": 51.4305,
+      "lng": -0.6205,
+      "radiusM": 300,
+      "address": "Windsor Great Park",
+      "howTo": "Visit Windsor Great Park.",
+      "badge": "badges/windsor-great-park.png"
+    }
+  ]
+}

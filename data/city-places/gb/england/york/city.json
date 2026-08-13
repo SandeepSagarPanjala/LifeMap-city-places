@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "gb/england/york",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "stateCode": "ENG",
+  "stateName": "England",
+  "cityName": "York",
+  "bbox": {
+    "minLat": 53.95,
+    "minLng": -1.1,
+    "maxLat": 53.97,
+    "maxLng": -1.07
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "york-minster",
+      "name": "York Minster",
+      "lat": 53.9623,
+      "lng": -1.0819,
+      "radiusM": 150,
+      "address": "York Minster",
+      "howTo": "Visit York Minster.",
+      "badge": "badges/york-minster.png"
+    },
+    {
+      "id": "shambles",
+      "name": "The Shambles",
+      "lat": 53.9587,
+      "lng": -1.0805,
+      "radiusM": 100,
+      "address": "The Shambles, York",
+      "howTo": "Visit The Shambles.",
+      "badge": "badges/shambles.png"
+    },
+    {
+      "id": "cliffords-tower",
+      "name": "Clifford's Tower",
+      "lat": 53.9558,
+      "lng": -1.08,
+      "radiusM": 100,
+      "address": "Clifford's Tower, York",
+      "howTo": "Visit Clifford's Tower.",
+      "badge": "badges/cliffords-tower.png"
+    },
+    {
+      "id": "york-city-walls",
+      "name": "York City Walls",
+      "lat": 53.9615,
+      "lng": -1.087,
+      "radiusM": 200,
+      "address": "York City Walls",
+      "howTo": "Visit York City Walls.",
+      "badge": "badges/york-city-walls.png"
+    }
+  ]
+}
