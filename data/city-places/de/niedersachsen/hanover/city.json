@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/niedersachsen/hanover",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "NI",
+  "stateName": "Niedersachsen",
+  "cityName": "Hanover",
+  "bbox": {
+    "minLat": 52.36,
+    "minLng": 9.73,
+    "maxLat": 52.38,
+    "maxLng": 9.75
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "new-town-hall-hanover",
+      "name": "New Town Hall",
+      "lat": 52.3675,
+      "lng": 9.7385,
+      "radiusM": 120,
+      "address": "Neues Rathaus",
+      "howTo": "Visit New Town Hall.",
+      "badge": "badges/new-town-hall-hanover.png"
+    },
+    {
+      "id": "herrenhausen-gardens",
+      "name": "Herrenhausen Gardens",
+      "lat": 52.3915,
+      "lng": 9.6985,
+      "radiusM": 250,
+      "address": "Herrenh\u00e4user G\u00e4rten",
+      "howTo": "Visit Herrenhausen Gardens.",
+      "badge": "badges/herrenhausen-gardens.png"
+    },
+    {
+      "id": "marktkirche-hanover",
+      "name": "Marktkirche",
+      "lat": 52.3725,
+      "lng": 9.7385,
+      "radiusM": 80,
+      "address": "Marktkirche",
+      "howTo": "Visit Marktkirche.",
+      "badge": "badges/marktkirche-hanover.png"
+    }
+  ]
+}

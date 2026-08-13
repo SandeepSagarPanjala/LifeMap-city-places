@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/schleswig-holstein/lubeck",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "SH",
+  "stateName": "Schleswig-Holstein",
+  "cityName": "L\u00fcbeck",
+  "bbox": {
+    "minLat": 53.86,
+    "minLng": 10.68,
+    "maxLat": 53.87,
+    "maxLng": 10.69
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "holstentor",
+      "name": "Holstentor",
+      "lat": 53.8663,
+      "lng": 10.6798,
+      "radiusM": 80,
+      "address": "Holstentor",
+      "howTo": "Visit Holstentor.",
+      "badge": "badges/holstentor.png"
+    },
+    {
+      "id": "lubeck-cathedral",
+      "name": "L\u00fcbeck Cathedral",
+      "lat": 53.8605,
+      "lng": 10.6855,
+      "radiusM": 100,
+      "address": "L\u00fcbecker Dom",
+      "howTo": "Visit L\u00fcbeck Cathedral.",
+      "badge": "badges/lubeck-cathedral.png"
+    },
+    {
+      "id": "marienkirche-lubeck",
+      "name": "St. Mary's Church",
+      "lat": 53.8675,
+      "lng": 10.6855,
+      "radiusM": 100,
+      "address": "Marienkirche",
+      "howTo": "Visit St. Mary's Church.",
+      "badge": "badges/marienkirche-lubeck.png"
+    }
+  ]
+}

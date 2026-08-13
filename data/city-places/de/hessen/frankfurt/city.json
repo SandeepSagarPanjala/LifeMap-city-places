@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/hessen/frankfurt",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "HE",
+  "stateName": "Hessen",
+  "cityName": "Frankfurt",
+  "bbox": {
+    "minLat": 50.1,
+    "minLng": 8.67,
+    "maxLat": 50.12,
+    "maxLng": 8.69
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "roemerberg",
+      "name": "R\u00f6merberg",
+      "lat": 50.1105,
+      "lng": 8.682,
+      "radiusM": 100,
+      "address": "R\u00f6merberg",
+      "howTo": "Visit R\u00f6merberg.",
+      "badge": "badges/roemerberg.png"
+    },
+    {
+      "id": "frankfurt-cathedral",
+      "name": "Frankfurt Cathedral",
+      "lat": 50.1105,
+      "lng": 8.6855,
+      "radiusM": 80,
+      "address": "Kaiserdom St. Bartholom\u00e4us",
+      "howTo": "Visit Frankfurt Cathedral.",
+      "badge": "badges/frankfurt-cathedral.png"
+    },
+    {
+      "id": "staedel",
+      "name": "St\u00e4del Museum",
+      "lat": 50.1035,
+      "lng": 8.6755,
+      "radiusM": 100,
+      "address": "St\u00e4del",
+      "howTo": "Visit St\u00e4del Museum.",
+      "badge": "badges/staedel.png"
+    },
+    {
+      "id": "main-tower",
+      "name": "Main Tower",
+      "lat": 50.1125,
+      "lng": 8.6725,
+      "radiusM": 80,
+      "address": "Main Tower viewpoint",
+      "howTo": "Visit Main Tower.",
+      "badge": "badges/main-tower.png"
+    }
+  ]
+}

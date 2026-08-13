@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/rheinland-pfalz/trier",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "RP",
+  "stateName": "Rheinland-Pfalz",
+  "cityName": "Trier",
+  "bbox": {
+    "minLat": 49.75,
+    "minLng": 6.62,
+    "maxLat": 49.76,
+    "maxLng": 6.64
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "porta-nigra",
+      "name": "Porta Nigra",
+      "lat": 49.7596,
+      "lng": 6.644,
+      "radiusM": 100,
+      "address": "Porta Nigra",
+      "howTo": "Visit Porta Nigra.",
+      "badge": "badges/porta-nigra.png"
+    },
+    {
+      "id": "trier-cathedral",
+      "name": "Trier Cathedral",
+      "lat": 49.7565,
+      "lng": 6.6435,
+      "radiusM": 100,
+      "address": "Trierer Dom",
+      "howTo": "Visit Trier Cathedral.",
+      "badge": "badges/trier-cathedral.png"
+    },
+    {
+      "id": "kaiserthermen",
+      "name": "Kaiserthermen",
+      "lat": 49.7495,
+      "lng": 6.6445,
+      "radiusM": 150,
+      "address": "Imperial Baths",
+      "howTo": "Visit Kaiserthermen.",
+      "badge": "badges/kaiserthermen.png"
+    }
+  ]
+}

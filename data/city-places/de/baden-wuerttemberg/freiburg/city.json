@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/baden-wuerttemberg/freiburg",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BW",
+  "stateName": "Baden-W\u00fcrttemberg",
+  "cityName": "Freiburg",
+  "bbox": {
+    "minLat": 47.99,
+    "minLng": 7.84,
+    "maxLat": 48.0,
+    "maxLng": 7.86
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "freiburg-minster",
+      "name": "Freiburg Minster",
+      "lat": 47.9955,
+      "lng": 7.8525,
+      "radiusM": 100,
+      "address": "Freiburger M\u00fcnster",
+      "howTo": "Visit Freiburg Minster.",
+      "badge": "badges/freiburg-minster.png"
+    },
+    {
+      "id": "schwabentor",
+      "name": "Schwabentor",
+      "lat": 47.9935,
+      "lng": 7.8535,
+      "radiusM": 60,
+      "address": "Schwabentor",
+      "howTo": "Visit Schwabentor.",
+      "badge": "badges/schwabentor.png"
+    },
+    {
+      "id": "augustinerplatz",
+      "name": "Augustinerplatz",
+      "lat": 47.9945,
+      "lng": 7.8515,
+      "radiusM": 80,
+      "address": "Augustinerplatz",
+      "howTo": "Visit Augustinerplatz.",
+      "badge": "badges/augustinerplatz.png"
+    }
+  ]
+}

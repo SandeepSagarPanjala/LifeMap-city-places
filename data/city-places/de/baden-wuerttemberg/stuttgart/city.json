@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/baden-wuerttemberg/stuttgart",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BW",
+  "stateName": "Baden-W\u00fcrttemberg",
+  "cityName": "Stuttgart",
+  "bbox": {
+    "minLat": 48.77,
+    "minLng": 9.17,
+    "maxLat": 48.79,
+    "maxLng": 9.19
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "schlossplatz-stuttgart",
+      "name": "Schlossplatz",
+      "lat": 48.7785,
+      "lng": 9.18,
+      "radiusM": 120,
+      "address": "Schlossplatz",
+      "howTo": "Visit Schlossplatz.",
+      "badge": "badges/schlossplatz-stuttgart.png"
+    },
+    {
+      "id": "mercedes-benz-museum",
+      "name": "Mercedes-Benz Museum",
+      "lat": 48.7885,
+      "lng": 9.2345,
+      "radiusM": 150,
+      "address": "Mercedes-Benz Museum",
+      "howTo": "Visit Mercedes-Benz Museum.",
+      "badge": "badges/mercedes-benz-museum.png"
+    },
+    {
+      "id": "wilhelma",
+      "name": "Wilhelma",
+      "lat": 48.8055,
+      "lng": 9.2075,
+      "radiusM": 250,
+      "address": "Wilhelma Zoological-Botanical Garden",
+      "howTo": "Visit Wilhelma.",
+      "badge": "badges/wilhelma.png"
+    }
+  ]
+}

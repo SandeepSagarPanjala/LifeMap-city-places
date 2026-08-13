@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/bremen/bremen",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "HB",
+  "stateName": "Bremen",
+  "cityName": "Bremen",
+  "bbox": {
+    "minLat": 53.07,
+    "minLng": 8.8,
+    "maxLat": 53.08,
+    "maxLng": 8.81
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bremen-town-musicians",
+      "name": "Town Musicians of Bremen",
+      "lat": 53.0758,
+      "lng": 8.8075,
+      "radiusM": 40,
+      "address": "Bremer Stadtmusikanten",
+      "howTo": "Visit Town Musicians of Bremen.",
+      "badge": "badges/bremen-town-musicians.png"
+    },
+    {
+      "id": "marktplatz-bremen",
+      "name": "Marktplatz",
+      "lat": 53.0758,
+      "lng": 8.8075,
+      "radiusM": 100,
+      "address": "Marktplatz Bremen",
+      "howTo": "Visit Marktplatz.",
+      "badge": "badges/marktplatz-bremen.png"
+    },
+    {
+      "id": "schnoor",
+      "name": "Schnoor Quarter",
+      "lat": 53.0725,
+      "lng": 8.8095,
+      "radiusM": 150,
+      "address": "Schnoor",
+      "howTo": "Visit Schnoor Quarter.",
+      "badge": "badges/schnoor.png"
+    }
+  ]
+}

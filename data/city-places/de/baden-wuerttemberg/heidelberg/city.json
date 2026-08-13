@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/baden-wuerttemberg/heidelberg",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BW",
+  "stateName": "Baden-W\u00fcrttemberg",
+  "cityName": "Heidelberg",
+  "bbox": {
+    "minLat": 49.4,
+    "minLng": 8.69,
+    "maxLat": 49.42,
+    "maxLng": 8.72
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "heidelberg-castle",
+      "name": "Heidelberg Castle",
+      "lat": 49.4106,
+      "lng": 8.7153,
+      "radiusM": 200,
+      "address": "Schloss Heidelberg",
+      "howTo": "Visit Heidelberg Castle.",
+      "badge": "badges/heidelberg-castle.png"
+    },
+    {
+      "id": "alte-brucke-heidelberg",
+      "name": "Alte Br\u00fccke",
+      "lat": 49.4145,
+      "lng": 8.7095,
+      "radiusM": 100,
+      "address": "Old Bridge",
+      "howTo": "Visit Alte Br\u00fccke.",
+      "badge": "badges/alte-brucke-heidelberg.png"
+    },
+    {
+      "id": "philosophenweg",
+      "name": "Philosophenweg",
+      "lat": 49.4175,
+      "lng": 8.7055,
+      "radiusM": 200,
+      "address": "Philosophers' Walk",
+      "howTo": "Visit Philosophenweg.",
+      "badge": "badges/philosophenweg.png"
+    }
+  ]
+}

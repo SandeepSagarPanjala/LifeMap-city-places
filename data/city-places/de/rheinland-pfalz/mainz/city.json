@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/rheinland-pfalz/mainz",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "RP",
+  "stateName": "Rheinland-Pfalz",
+  "cityName": "Mainz",
+  "bbox": {
+    "minLat": 49.99,
+    "minLng": 8.26,
+    "maxLat": 50.01,
+    "maxLng": 8.28
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mainz-cathedral",
+      "name": "Mainz Cathedral",
+      "lat": 49.9988,
+      "lng": 8.2735,
+      "radiusM": 120,
+      "address": "Mainzer Dom",
+      "howTo": "Visit Mainz Cathedral.",
+      "badge": "badges/mainz-cathedral.png"
+    },
+    {
+      "id": "gutenberg-museum",
+      "name": "Gutenberg Museum",
+      "lat": 49.9995,
+      "lng": 8.2745,
+      "radiusM": 80,
+      "address": "Gutenberg-Museum",
+      "howTo": "Visit Gutenberg Museum.",
+      "badge": "badges/gutenberg-museum.png"
+    },
+    {
+      "id": "rheinufer-mainz",
+      "name": "Rhine Promenade",
+      "lat": 50.0015,
+      "lng": 8.2775,
+      "radiusM": 200,
+      "address": "Rheinufer",
+      "howTo": "Visit Rhine Promenade.",
+      "badge": "badges/rheinufer-mainz.png"
+    }
+  ]
+}

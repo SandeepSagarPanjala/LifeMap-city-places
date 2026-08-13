@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/nordrhein-westfalen/dusseldorf",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "NW",
+  "stateName": "Nordrhein-Westfalen",
+  "cityName": "D\u00fcsseldorf",
+  "bbox": {
+    "minLat": 51.22,
+    "minLng": 6.76,
+    "maxLat": 51.23,
+    "maxLng": 6.79
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rheinturm",
+      "name": "Rheinturm",
+      "lat": 51.2175,
+      "lng": 6.7615,
+      "radiusM": 100,
+      "address": "Rheinturm",
+      "howTo": "Visit Rheinturm.",
+      "badge": "badges/rheinturm.png"
+    },
+    {
+      "id": "altstadt-dusseldorf",
+      "name": "Altstadt D\u00fcsseldorf",
+      "lat": 51.2265,
+      "lng": 6.7725,
+      "radiusM": 150,
+      "address": "Altstadt",
+      "howTo": "Visit Altstadt D\u00fcsseldorf.",
+      "badge": "badges/altstadt-dusseldorf.png"
+    },
+    {
+      "id": "konigsallee",
+      "name": "K\u00f6nigsallee",
+      "lat": 51.2245,
+      "lng": 6.7805,
+      "radiusM": 150,
+      "address": "K\u00f6nigsallee",
+      "howTo": "Visit K\u00f6nigsallee.",
+      "badge": "badges/konigsallee.png"
+    }
+  ]
+}

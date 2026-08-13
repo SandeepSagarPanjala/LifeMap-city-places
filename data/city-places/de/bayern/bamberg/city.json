@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/bayern/bamberg",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BY",
+  "stateName": "Bayern",
+  "cityName": "Bamberg",
+  "bbox": {
+    "minLat": 49.88,
+    "minLng": 10.88,
+    "maxLat": 49.9,
+    "maxLng": 10.89
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bamberg-cathedral",
+      "name": "Bamberg Cathedral",
+      "lat": 49.8908,
+      "lng": 10.8825,
+      "radiusM": 100,
+      "address": "Bamberger Dom",
+      "howTo": "Visit Bamberg Cathedral.",
+      "badge": "badges/bamberg-cathedral.png"
+    },
+    {
+      "id": "alte-rathaus-bamberg",
+      "name": "Altes Rathaus",
+      "lat": 49.8915,
+      "lng": 10.8865,
+      "radiusM": 80,
+      "address": "Altes Rathaus",
+      "howTo": "Visit Altes Rathaus.",
+      "badge": "badges/alte-rathaus-bamberg.png"
+    },
+    {
+      "id": "kleine-venedig-bamberg",
+      "name": "Klein Venedig",
+      "lat": 49.8925,
+      "lng": 10.8875,
+      "radiusM": 150,
+      "address": "Little Venice",
+      "howTo": "Visit Klein Venedig.",
+      "badge": "badges/kleine-venedig-bamberg.png"
+    }
+  ]
+}

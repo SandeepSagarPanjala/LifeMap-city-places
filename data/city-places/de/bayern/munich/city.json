@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "de/bayern/munich",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BY",
+  "stateName": "Bayern",
+  "cityName": "Munich",
+  "bbox": {
+    "minLat": 48.13,
+    "minLng": 11.54,
+    "maxLat": 48.16,
+    "maxLng": 11.59
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "marienplatz",
+      "name": "Marienplatz",
+      "lat": 48.1374,
+      "lng": 11.5755,
+      "radiusM": 100,
+      "address": "Marienplatz",
+      "howTo": "Visit Marienplatz.",
+      "badge": "badges/marienplatz.png"
+    },
+    {
+      "id": "frauenkirche-munich",
+      "name": "Frauenkirche",
+      "lat": 48.1386,
+      "lng": 11.5735,
+      "radiusM": 100,
+      "address": "Frauenkirche",
+      "howTo": "Visit Frauenkirche.",
+      "badge": "badges/frauenkirche-munich.png"
+    },
+    {
+      "id": "englischer-garten",
+      "name": "Englischer Garten",
+      "lat": 48.1642,
+      "lng": 11.6055,
+      "radiusM": 300,
+      "address": "Englischer Garten",
+      "howTo": "Visit Englischer Garten.",
+      "badge": "badges/englischer-garten.png"
+    },
+    {
+      "id": "nymphenburg",
+      "name": "Nymphenburg Palace",
+      "lat": 48.1583,
+      "lng": 11.5033,
+      "radiusM": 250,
+      "address": "Schloss Nymphenburg",
+      "howTo": "Visit Nymphenburg Palace.",
+      "badge": "badges/nymphenburg.png"
+    },
+    {
+      "id": "residenz-munich",
+      "name": "Munich Residenz",
+      "lat": 48.1415,
+      "lng": 11.58,
+      "radiusM": 150,
+      "address": "Residenz M\u00fcnchen",
+      "howTo": "Visit Munich Residenz.",
+      "badge": "badges/residenz-munich.png"
+    },
+    {
+      "id": "olympiapark-munich",
+      "name": "Olympiapark",
+      "lat": 48.1755,
+      "lng": 11.5517,
+      "radiusM": 250,
+      "address": "Olympiapark",
+      "howTo": "Visit Olympiapark.",
+      "badge": "badges/olympiapark-munich.png"
+    }
+  ]
+}

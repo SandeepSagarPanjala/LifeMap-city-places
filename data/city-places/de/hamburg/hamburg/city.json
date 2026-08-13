@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "de/hamburg/hamburg",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "HH",
+  "stateName": "Hamburg",
+  "cityName": "Hamburg",
+  "bbox": {
+    "minLat": 53.54,
+    "minLng": 9.96,
+    "maxLat": 53.56,
+    "maxLng": 10.01
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "elbe-philharmonic",
+      "name": "Elbphilharmonie",
+      "lat": 53.5413,
+      "lng": 9.9841,
+      "radiusM": 120,
+      "address": "Elbphilharmonie",
+      "howTo": "Visit Elbphilharmonie.",
+      "badge": "badges/elbe-philharmonic.png"
+    },
+    {
+      "id": "speicherstadt",
+      "name": "Speicherstadt",
+      "lat": 53.5445,
+      "lng": 9.9985,
+      "radiusM": 200,
+      "address": "Speicherstadt",
+      "howTo": "Visit Speicherstadt.",
+      "badge": "badges/speicherstadt.png"
+    },
+    {
+      "id": "st-michaelis-hamburg",
+      "name": "St. Michaelis Church",
+      "lat": 53.5485,
+      "lng": 9.9785,
+      "radiusM": 100,
+      "address": "Michel",
+      "howTo": "Visit St. Michaelis Church.",
+      "badge": "badges/st-michaelis-hamburg.png"
+    },
+    {
+      "id": "rathaus-hamburg",
+      "name": "Hamburg City Hall",
+      "lat": 53.5505,
+      "lng": 9.9925,
+      "radiusM": 100,
+      "address": "Rathaus",
+      "howTo": "Visit Hamburg City Hall.",
+      "badge": "badges/rathaus-hamburg.png"
+    },
+    {
+      "id": "miniatur-wunderland",
+      "name": "Miniatur Wunderland",
+      "lat": 53.5435,
+      "lng": 9.9885,
+      "radiusM": 100,
+      "address": "Miniatur Wunderland",
+      "howTo": "Visit Miniatur Wunderland.",
+      "badge": "badges/miniatur-wunderland.png"
+    }
+  ]
+}

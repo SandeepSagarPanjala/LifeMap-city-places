@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/brandenburg/potsdam",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BB",
+  "stateName": "Brandenburg",
+  "cityName": "Potsdam",
+  "bbox": {
+    "minLat": 52.39,
+    "minLng": 13.03,
+    "maxLat": 52.41,
+    "maxLng": 13.07
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sanssouci",
+      "name": "Sanssouci Palace",
+      "lat": 52.4043,
+      "lng": 13.0385,
+      "radiusM": 250,
+      "address": "Schloss Sanssouci",
+      "howTo": "Visit Sanssouci Palace.",
+      "badge": "badges/sanssouci.png"
+    },
+    {
+      "id": "sanssouci-park",
+      "name": "Park Sanssouci",
+      "lat": 52.4035,
+      "lng": 13.0355,
+      "radiusM": 300,
+      "address": "Park Sanssouci",
+      "howTo": "Visit Park Sanssouci.",
+      "badge": "badges/sanssouci-park.png"
+    },
+    {
+      "id": "cecilienhof",
+      "name": "Cecilienhof Palace",
+      "lat": 52.4195,
+      "lng": 13.0705,
+      "radiusM": 150,
+      "address": "Schloss Cecilienhof",
+      "howTo": "Visit Cecilienhof Palace.",
+      "badge": "badges/cecilienhof.png"
+    },
+    {
+      "id": "nederlandisches-viertel",
+      "name": "Dutch Quarter",
+      "lat": 52.4015,
+      "lng": 13.0605,
+      "radiusM": 150,
+      "address": "Holl\u00e4ndisches Viertel",
+      "howTo": "Visit Dutch Quarter.",
+      "badge": "badges/nederlandisches-viertel.png"
+    }
+  ]
+}

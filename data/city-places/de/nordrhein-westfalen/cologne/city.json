@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/nordrhein-westfalen/cologne",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "NW",
+  "stateName": "Nordrhein-Westfalen",
+  "cityName": "Cologne",
+  "bbox": {
+    "minLat": 50.93,
+    "minLng": 6.94,
+    "maxLat": 50.95,
+    "maxLng": 6.97
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cologne-cathedral",
+      "name": "Cologne Cathedral",
+      "lat": 50.9413,
+      "lng": 6.9583,
+      "radiusM": 150,
+      "address": "K\u00f6lner Dom",
+      "howTo": "Visit Cologne Cathedral.",
+      "badge": "badges/cologne-cathedral.png"
+    },
+    {
+      "id": "hohenzollern-bridge",
+      "name": "Hohenzollern Bridge",
+      "lat": 50.9415,
+      "lng": 6.9655,
+      "radiusM": 150,
+      "address": "Hohenzollernbr\u00fccke",
+      "howTo": "Visit Hohenzollern Bridge.",
+      "badge": "badges/hohenzollern-bridge.png"
+    },
+    {
+      "id": "old-town-cologne",
+      "name": "Altstadt Cologne",
+      "lat": 50.9375,
+      "lng": 6.9605,
+      "radiusM": 200,
+      "address": "Altstadt",
+      "howTo": "Visit Altstadt Cologne.",
+      "badge": "badges/old-town-cologne.png"
+    },
+    {
+      "id": "museum-ludwig",
+      "name": "Museum Ludwig",
+      "lat": 50.9405,
+      "lng": 6.9605,
+      "radiusM": 100,
+      "address": "Museum Ludwig",
+      "howTo": "Visit Museum Ludwig.",
+      "badge": "badges/museum-ludwig.png"
+    }
+  ]
+}

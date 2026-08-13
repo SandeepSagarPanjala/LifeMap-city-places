@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T21:21:23.000Z",
-  "notes": "USA/India/Japan/UK/France/Italy/Spain complete. Next: Germany (de) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T21:47:04.000Z",
+  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany complete. Next: Australia (au) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -6683,6 +6683,391 @@
                 "minLng": -16.26,
                 "maxLat": 28.48,
                 "maxLng": -16.24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de",
+      "countryCode": "DE",
+      "name": "Germany",
+      "states": [
+        {
+          "id": "berlin",
+          "stateCode": "BE",
+          "name": "Berlin",
+          "cities": [
+            {
+              "id": "berlin",
+              "name": "Berlin",
+              "status": "complete",
+              "packPath": "de/berlin/berlin/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 52.5,
+                "minLng": 13.35,
+                "maxLat": 52.54,
+                "maxLng": 13.45
+              }
+            }
+          ]
+        },
+        {
+          "id": "bayern",
+          "stateCode": "BY",
+          "name": "Bayern",
+          "cities": [
+            {
+              "id": "munich",
+              "name": "Munich",
+              "status": "complete",
+              "packPath": "de/bayern/munich/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 48.13,
+                "minLng": 11.54,
+                "maxLat": 48.16,
+                "maxLng": 11.59
+              }
+            },
+            {
+              "id": "nuremberg",
+              "name": "Nuremberg",
+              "status": "complete",
+              "packPath": "de/bayern/nuremberg/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 49.44,
+                "minLng": 11.06,
+                "maxLat": 49.46,
+                "maxLng": 11.09
+              }
+            },
+            {
+              "id": "neuschwanstein",
+              "name": "Neuschwanstein",
+              "status": "complete",
+              "packPath": "de/bayern/neuschwanstein/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 47.55,
+                "minLng": 10.74,
+                "maxLat": 47.56,
+                "maxLng": 10.76
+              }
+            },
+            {
+              "id": "bamberg",
+              "name": "Bamberg",
+              "status": "complete",
+              "packPath": "de/bayern/bamberg/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 49.88,
+                "minLng": 10.88,
+                "maxLat": 49.9,
+                "maxLng": 10.89
+              }
+            }
+          ]
+        },
+        {
+          "id": "baden-wuerttemberg",
+          "stateCode": "BW",
+          "name": "Baden-W\u00fcrttemberg",
+          "cities": [
+            {
+              "id": "heidelberg",
+              "name": "Heidelberg",
+              "status": "complete",
+              "packPath": "de/baden-wuerttemberg/heidelberg/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 49.4,
+                "minLng": 8.69,
+                "maxLat": 49.42,
+                "maxLng": 8.72
+              }
+            },
+            {
+              "id": "stuttgart",
+              "name": "Stuttgart",
+              "status": "complete",
+              "packPath": "de/baden-wuerttemberg/stuttgart/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 48.77,
+                "minLng": 9.17,
+                "maxLat": 48.79,
+                "maxLng": 9.19
+              }
+            },
+            {
+              "id": "freiburg",
+              "name": "Freiburg",
+              "status": "complete",
+              "packPath": "de/baden-wuerttemberg/freiburg/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 47.99,
+                "minLng": 7.84,
+                "maxLat": 48.0,
+                "maxLng": 7.86
+              }
+            }
+          ]
+        },
+        {
+          "id": "hamburg",
+          "stateCode": "HH",
+          "name": "Hamburg",
+          "cities": [
+            {
+              "id": "hamburg",
+              "name": "Hamburg",
+              "status": "complete",
+              "packPath": "de/hamburg/hamburg/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 53.54,
+                "minLng": 9.96,
+                "maxLat": 53.56,
+                "maxLng": 10.01
+              }
+            }
+          ]
+        },
+        {
+          "id": "nordrhein-westfalen",
+          "stateCode": "NW",
+          "name": "Nordrhein-Westfalen",
+          "cities": [
+            {
+              "id": "cologne",
+              "name": "Cologne",
+              "status": "complete",
+              "packPath": "de/nordrhein-westfalen/cologne/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 50.93,
+                "minLng": 6.94,
+                "maxLat": 50.95,
+                "maxLng": 6.97
+              }
+            },
+            {
+              "id": "dusseldorf",
+              "name": "D\u00fcsseldorf",
+              "status": "complete",
+              "packPath": "de/nordrhein-westfalen/dusseldorf/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 51.22,
+                "minLng": 6.76,
+                "maxLat": 51.23,
+                "maxLng": 6.79
+              }
+            },
+            {
+              "id": "aachen",
+              "name": "Aachen",
+              "status": "complete",
+              "packPath": "de/nordrhein-westfalen/aachen/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 50.77,
+                "minLng": 6.08,
+                "maxLat": 50.78,
+                "maxLng": 6.09
+              }
+            }
+          ]
+        },
+        {
+          "id": "sachsen",
+          "stateCode": "SN",
+          "name": "Sachsen",
+          "cities": [
+            {
+              "id": "dresden",
+              "name": "Dresden",
+              "status": "complete",
+              "packPath": "de/sachsen/dresden/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 51.04,
+                "minLng": 13.73,
+                "maxLat": 51.06,
+                "maxLng": 13.75
+              }
+            },
+            {
+              "id": "leipzig",
+              "name": "Leipzig",
+              "status": "complete",
+              "packPath": "de/sachsen/leipzig/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 51.33,
+                "minLng": 12.37,
+                "maxLat": 51.34,
+                "maxLng": 12.39
+              }
+            }
+          ]
+        },
+        {
+          "id": "hessen",
+          "stateCode": "HE",
+          "name": "Hessen",
+          "cities": [
+            {
+              "id": "frankfurt",
+              "name": "Frankfurt",
+              "status": "complete",
+              "packPath": "de/hessen/frankfurt/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 50.1,
+                "minLng": 8.67,
+                "maxLat": 50.12,
+                "maxLng": 8.69
+              }
+            }
+          ]
+        },
+        {
+          "id": "niedersachsen",
+          "stateCode": "NI",
+          "name": "Niedersachsen",
+          "cities": [
+            {
+              "id": "hanover",
+              "name": "Hanover",
+              "status": "complete",
+              "packPath": "de/niedersachsen/hanover/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 52.36,
+                "minLng": 9.73,
+                "maxLat": 52.38,
+                "maxLng": 9.75
+              }
+            }
+          ]
+        },
+        {
+          "id": "rheinland-pfalz",
+          "stateCode": "RP",
+          "name": "Rheinland-Pfalz",
+          "cities": [
+            {
+              "id": "trier",
+              "name": "Trier",
+              "status": "complete",
+              "packPath": "de/rheinland-pfalz/trier/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 49.75,
+                "minLng": 6.62,
+                "maxLat": 49.76,
+                "maxLng": 6.64
+              }
+            },
+            {
+              "id": "mainz",
+              "name": "Mainz",
+              "status": "complete",
+              "packPath": "de/rheinland-pfalz/mainz/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 49.99,
+                "minLng": 8.26,
+                "maxLat": 50.01,
+                "maxLng": 8.28
+              }
+            }
+          ]
+        },
+        {
+          "id": "schleswig-holstein",
+          "stateCode": "SH",
+          "name": "Schleswig-Holstein",
+          "cities": [
+            {
+              "id": "lubeck",
+              "name": "L\u00fcbeck",
+              "status": "complete",
+              "packPath": "de/schleswig-holstein/lubeck/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 53.86,
+                "minLng": 10.68,
+                "maxLat": 53.87,
+                "maxLng": 10.69
+              }
+            }
+          ]
+        },
+        {
+          "id": "bremen",
+          "stateCode": "HB",
+          "name": "Bremen",
+          "cities": [
+            {
+              "id": "bremen",
+              "name": "Bremen",
+              "status": "complete",
+              "packPath": "de/bremen/bremen/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 53.07,
+                "minLng": 8.8,
+                "maxLat": 53.08,
+                "maxLng": 8.81
+              }
+            }
+          ]
+        },
+        {
+          "id": "brandenburg",
+          "stateCode": "BB",
+          "name": "Brandenburg",
+          "cities": [
+            {
+              "id": "potsdam",
+              "name": "Potsdam",
+              "status": "complete",
+              "packPath": "de/brandenburg/potsdam/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:30:00.000Z",
+              "bbox": {
+                "minLat": 52.39,
+                "minLng": 13.03,
+                "maxLat": 52.41,
+                "maxLng": 13.07
               }
             }
           ]

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/sachsen/dresden",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "SN",
+  "stateName": "Sachsen",
+  "cityName": "Dresden",
+  "bbox": {
+    "minLat": 51.04,
+    "minLng": 13.73,
+    "maxLat": 51.06,
+    "maxLng": 13.75
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "frauenkirche-dresden",
+      "name": "Frauenkirche",
+      "lat": 51.0518,
+      "lng": 13.7416,
+      "radiusM": 100,
+      "address": "Frauenkirche Dresden",
+      "howTo": "Visit Frauenkirche.",
+      "badge": "badges/frauenkirche-dresden.png"
+    },
+    {
+      "id": "zwinger",
+      "name": "Zwinger",
+      "lat": 51.053,
+      "lng": 13.734,
+      "radiusM": 200,
+      "address": "Zwinger Palace",
+      "howTo": "Visit Zwinger.",
+      "badge": "badges/zwinger.png"
+    },
+    {
+      "id": "semperoper",
+      "name": "Semperoper",
+      "lat": 51.0545,
+      "lng": 13.7355,
+      "radiusM": 100,
+      "address": "Semperoper",
+      "howTo": "Visit Semperoper.",
+      "badge": "badges/semperoper.png"
+    },
+    {
+      "id": "furstenzug",
+      "name": "F\u00fcrstenzug",
+      "lat": 51.0525,
+      "lng": 13.7385,
+      "radiusM": 100,
+      "address": "Procession of Princes",
+      "howTo": "Visit F\u00fcrstenzug.",
+      "badge": "badges/furstenzug.png"
+    }
+  ]
+}

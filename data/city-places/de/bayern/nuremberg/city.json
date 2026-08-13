@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/bayern/nuremberg",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BY",
+  "stateName": "Bayern",
+  "cityName": "Nuremberg",
+  "bbox": {
+    "minLat": 49.44,
+    "minLng": 11.06,
+    "maxLat": 49.46,
+    "maxLng": 11.09
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nuremberg-castle",
+      "name": "Nuremberg Castle",
+      "lat": 49.4578,
+      "lng": 11.0755,
+      "radiusM": 200,
+      "address": "Kaiserburg",
+      "howTo": "Visit Nuremberg Castle.",
+      "badge": "badges/nuremberg-castle.png"
+    },
+    {
+      "id": "hauptmarkt-nuremberg",
+      "name": "Hauptmarkt",
+      "lat": 49.454,
+      "lng": 11.077,
+      "radiusM": 100,
+      "address": "Hauptmarkt",
+      "howTo": "Visit Hauptmarkt.",
+      "badge": "badges/hauptmarkt-nuremberg.png"
+    },
+    {
+      "id": "st-lorenz-nuremberg",
+      "name": "St. Lorenz",
+      "lat": 49.4505,
+      "lng": 11.0785,
+      "radiusM": 100,
+      "address": "Lorenzkirche",
+      "howTo": "Visit St. Lorenz.",
+      "badge": "badges/st-lorenz-nuremberg.png"
+    },
+    {
+      "id": "dokumentationszentrum",
+      "name": "Documentation Center Nazi Party Rally Grounds",
+      "lat": 49.4325,
+      "lng": 11.1185,
+      "radiusM": 150,
+      "address": "Dokumentationszentrum",
+      "howTo": "Visit Documentation Center Nazi Party Rally Grounds.",
+      "badge": "badges/dokumentationszentrum.png"
+    }
+  ]
+}

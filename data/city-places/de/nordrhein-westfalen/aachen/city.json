@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/nordrhein-westfalen/aachen",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "NW",
+  "stateName": "Nordrhein-Westfalen",
+  "cityName": "Aachen",
+  "bbox": {
+    "minLat": 50.77,
+    "minLng": 6.08,
+    "maxLat": 50.78,
+    "maxLng": 6.09
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aachen-cathedral",
+      "name": "Aachen Cathedral",
+      "lat": 50.7745,
+      "lng": 6.0835,
+      "radiusM": 120,
+      "address": "Aachener Dom",
+      "howTo": "Visit Aachen Cathedral.",
+      "badge": "badges/aachen-cathedral.png"
+    },
+    {
+      "id": "rathaus-aachen",
+      "name": "Aachen Town Hall",
+      "lat": 50.776,
+      "lng": 6.0835,
+      "radiusM": 80,
+      "address": "Rathaus Aachen",
+      "howTo": "Visit Aachen Town Hall.",
+      "badge": "badges/rathaus-aachen.png"
+    },
+    {
+      "id": "elisenbrunnen",
+      "name": "Elisenbrunnen",
+      "lat": 50.775,
+      "lng": 6.0875,
+      "radiusM": 80,
+      "address": "Elisenbrunnen",
+      "howTo": "Visit Elisenbrunnen.",
+      "badge": "badges/elisenbrunnen.png"
+    }
+  ]
+}

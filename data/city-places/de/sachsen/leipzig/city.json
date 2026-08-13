@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "de/sachsen/leipzig",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "SN",
+  "stateName": "Sachsen",
+  "cityName": "Leipzig",
+  "bbox": {
+    "minLat": 51.33,
+    "minLng": 12.37,
+    "maxLat": 51.34,
+    "maxLng": 12.39
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-thomas-church",
+      "name": "St. Thomas Church",
+      "lat": 51.339,
+      "lng": 12.3725,
+      "radiusM": 80,
+      "address": "Thomaskirche",
+      "howTo": "Visit St. Thomas Church.",
+      "badge": "badges/st-thomas-church.png"
+    },
+    {
+      "id": "leipzig-opera",
+      "name": "Leipzig Opera",
+      "lat": 51.3405,
+      "lng": 12.3815,
+      "radiusM": 100,
+      "address": "Oper Leipzig",
+      "howTo": "Visit Leipzig Opera.",
+      "badge": "badges/leipzig-opera.png"
+    },
+    {
+      "id": "markt-leipzig",
+      "name": "Markt",
+      "lat": 51.3405,
+      "lng": 12.3755,
+      "radiusM": 100,
+      "address": "Marktplatz",
+      "howTo": "Visit Markt.",
+      "badge": "badges/markt-leipzig.png"
+    },
+    {
+      "id": "voelkerschlachtdenkmal",
+      "name": "Monument to the Battle of the Nations",
+      "lat": 51.3115,
+      "lng": 12.3975,
+      "radiusM": 200,
+      "address": "V\u00f6lkerschlachtdenkmal",
+      "howTo": "Visit Monument to the Battle of the Nations.",
+      "badge": "badges/voelkerschlachtdenkmal.png"
+    }
+  ]
+}

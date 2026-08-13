@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "de/berlin/berlin",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BE",
+  "stateName": "Berlin",
+  "cityName": "Berlin",
+  "bbox": {
+    "minLat": 52.5,
+    "minLng": 13.35,
+    "maxLat": 52.54,
+    "maxLng": 13.45
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "brandenburg-gate",
+      "name": "Brandenburg Gate",
+      "lat": 52.5163,
+      "lng": 13.3777,
+      "radiusM": 100,
+      "address": "Brandenburger Tor",
+      "howTo": "Visit Brandenburg Gate.",
+      "badge": "badges/brandenburg-gate.png"
+    },
+    {
+      "id": "reichstag",
+      "name": "Reichstag",
+      "lat": 52.5186,
+      "lng": 13.3762,
+      "radiusM": 120,
+      "address": "Reichstagsgeb\u00e4ude",
+      "howTo": "Visit Reichstag.",
+      "badge": "badges/reichstag.png"
+    },
+    {
+      "id": "museum-island",
+      "name": "Museum Island",
+      "lat": 52.5169,
+      "lng": 13.401,
+      "radiusM": 200,
+      "address": "Museumsinsel",
+      "howTo": "Visit Museum Island.",
+      "badge": "badges/museum-island.png"
+    },
+    {
+      "id": "berlin-cathedral",
+      "name": "Berlin Cathedral",
+      "lat": 52.5192,
+      "lng": 13.4011,
+      "radiusM": 100,
+      "address": "Berliner Dom",
+      "howTo": "Visit Berlin Cathedral.",
+      "badge": "badges/berlin-cathedral.png"
+    },
+    {
+      "id": "checkpoint-charlie",
+      "name": "Checkpoint Charlie",
+      "lat": 52.5075,
+      "lng": 13.3904,
+      "radiusM": 80,
+      "address": "Checkpoint Charlie",
+      "howTo": "Visit Checkpoint Charlie.",
+      "badge": "badges/checkpoint-charlie.png"
+    },
+    {
+      "id": "east-side-gallery",
+      "name": "East Side Gallery",
+      "lat": 52.5055,
+      "lng": 13.4395,
+      "radiusM": 200,
+      "address": "East Side Gallery",
+      "howTo": "Visit East Side Gallery.",
+      "badge": "badges/east-side-gallery.png"
+    },
+    {
+      "id": "charlottenburg-palace",
+      "name": "Charlottenburg Palace",
+      "lat": 52.5208,
+      "lng": 13.2958,
+      "radiusM": 200,
+      "address": "Schloss Charlottenburg",
+      "howTo": "Visit Charlottenburg Palace.",
+      "badge": "badges/charlottenburg-palace.png"
+    },
+    {
+      "id": "tiergarten",
+      "name": "Tiergarten",
+      "lat": 52.5145,
+      "lng": 13.3501,
+      "radiusM": 300,
+      "address": "Gro\u00dfer Tiergarten",
+      "howTo": "Visit Tiergarten.",
+      "badge": "badges/tiergarten.png"
+    }
+  ]
+}

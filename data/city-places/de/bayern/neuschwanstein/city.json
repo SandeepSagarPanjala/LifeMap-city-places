@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "de/bayern/neuschwanstein",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "stateCode": "BY",
+  "stateName": "Bayern",
+  "cityName": "Neuschwanstein",
+  "bbox": {
+    "minLat": 47.55,
+    "minLng": 10.74,
+    "maxLat": 47.56,
+    "maxLng": 10.76
+  },
+  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "neuschwanstein-castle",
+      "name": "Neuschwanstein Castle",
+      "lat": 47.5576,
+      "lng": 10.7498,
+      "radiusM": 200,
+      "address": "Schloss Neuschwanstein",
+      "howTo": "Visit Neuschwanstein Castle.",
+      "badge": "badges/neuschwanstein-castle.png"
+    },
+    {
+      "id": "hohenschwangau-castle",
+      "name": "Hohenschwangau Castle",
+      "lat": 47.557,
+      "lng": 10.7365,
+      "radiusM": 150,
+      "address": "Schloss Hohenschwangau",
+      "howTo": "Visit Hohenschwangau Castle.",
+      "badge": "badges/hohenschwangau-castle.png"
+    },
+    {
+      "id": "marienbrucke",
+      "name": "Marienbr\u00fccke",
+      "lat": 47.5555,
+      "lng": 10.7525,
+      "radiusM": 80,
+      "address": "Marienbr\u00fccke viewpoint",
+      "howTo": "Visit Marienbr\u00fccke.",
+      "badge": "badges/marienbrucke.png"
+    }
+  ]
+}
