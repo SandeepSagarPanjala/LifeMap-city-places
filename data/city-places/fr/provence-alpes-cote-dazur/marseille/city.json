@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/provence-alpes-cote-dazur/marseille",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PAC",
+  "stateName": "Provence-Alpes-C\u00f4te d'Azur",
+  "cityName": "Marseille",
+  "bbox": {
+    "minLat": 43.28,
+    "minLng": 5.35,
+    "maxLat": 43.31,
+    "maxLng": 5.39
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vieux-port-marseille",
+      "name": "Vieux-Port",
+      "lat": 43.2951,
+      "lng": 5.3735,
+      "radiusM": 200,
+      "address": "Old Port of Marseille",
+      "howTo": "Visit Vieux-Port.",
+      "badge": "badges/vieux-port-marseille.png"
+    },
+    {
+      "id": "notre-dame-de-la-garde",
+      "name": "Notre-Dame de la Garde",
+      "lat": 43.284,
+      "lng": 5.371,
+      "radiusM": 150,
+      "address": "Notre-Dame de la Garde",
+      "howTo": "Visit Notre-Dame de la Garde.",
+      "badge": "badges/notre-dame-de-la-garde.png"
+    },
+    {
+      "id": "mucem",
+      "name": "MuCEM",
+      "lat": 43.2965,
+      "lng": 5.361,
+      "radiusM": 120,
+      "address": "MuCEM, Marseille",
+      "howTo": "Visit MuCEM.",
+      "badge": "badges/mucem.png"
+    },
+    {
+      "id": "calanques-marseille",
+      "name": "Calanques National Park",
+      "lat": 43.21,
+      "lng": 5.43,
+      "radiusM": 400,
+      "address": "Calanques near Marseille",
+      "howTo": "Visit Calanques National Park.",
+      "badge": "badges/calanques-marseille.png"
+    }
+  ]
+}

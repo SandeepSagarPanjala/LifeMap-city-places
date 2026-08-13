@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/provence-alpes-cote-dazur/nice",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PAC",
+  "stateName": "Provence-Alpes-C\u00f4te d'Azur",
+  "cityName": "Nice",
+  "bbox": {
+    "minLat": 43.68,
+    "minLng": 7.24,
+    "maxLat": 43.72,
+    "maxLng": 7.28
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "promenade-des-anglais",
+      "name": "Promenade des Anglais",
+      "lat": 43.695,
+      "lng": 7.265,
+      "radiusM": 250,
+      "address": "Promenade des Anglais",
+      "howTo": "Visit Promenade des Anglais.",
+      "badge": "badges/promenade-des-anglais.png"
+    },
+    {
+      "id": "castle-hill-nice",
+      "name": "Castle Hill",
+      "lat": 43.6955,
+      "lng": 7.2795,
+      "radiusM": 200,
+      "address": "Colline du Ch\u00e2teau",
+      "howTo": "Visit Castle Hill.",
+      "badge": "badges/castle-hill-nice.png"
+    },
+    {
+      "id": "cours-saleya",
+      "name": "Cours Saleya",
+      "lat": 43.6955,
+      "lng": 7.2755,
+      "radiusM": 120,
+      "address": "Cours Saleya Market",
+      "howTo": "Visit Cours Saleya.",
+      "badge": "badges/cours-saleya.png"
+    },
+    {
+      "id": "musee-matisse",
+      "name": "Mus\u00e9e Matisse",
+      "lat": 43.7195,
+      "lng": 7.2765,
+      "radiusM": 100,
+      "address": "Mus\u00e9e Matisse, Nice",
+      "howTo": "Visit Mus\u00e9e Matisse.",
+      "badge": "badges/musee-matisse.png"
+    }
+  ]
+}

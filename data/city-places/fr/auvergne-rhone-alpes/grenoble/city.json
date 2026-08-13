@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/auvergne-rhone-alpes/grenoble",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "ARA",
+  "stateName": "Auvergne-Rh\u00f4ne-Alpes",
+  "cityName": "Grenoble",
+  "bbox": {
+    "minLat": 45.18,
+    "minLng": 5.71,
+    "maxLat": 45.2,
+    "maxLng": 5.74
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bastille-grenoble",
+      "name": "Bastille Grenoble",
+      "lat": 45.1985,
+      "lng": 5.7255,
+      "radiusM": 150,
+      "address": "Fort de la Bastille",
+      "howTo": "Visit Bastille Grenoble.",
+      "badge": "badges/bastille-grenoble.png"
+    },
+    {
+      "id": "cable-car-grenoble",
+      "name": "Grenoble Cable Car",
+      "lat": 45.193,
+      "lng": 5.7265,
+      "radiusM": 100,
+      "address": "T\u00e9l\u00e9ph\u00e9rique",
+      "howTo": "Visit Grenoble Cable Car.",
+      "badge": "badges/cable-car-grenoble.png"
+    },
+    {
+      "id": "musee-de-grenoble",
+      "name": "Mus\u00e9e de Grenoble",
+      "lat": 45.1935,
+      "lng": 5.7325,
+      "radiusM": 100,
+      "address": "Mus\u00e9e de Grenoble",
+      "howTo": "Visit Mus\u00e9e de Grenoble.",
+      "badge": "badges/musee-de-grenoble.png"
+    }
+  ]
+}

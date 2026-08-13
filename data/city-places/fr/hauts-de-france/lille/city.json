@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/hauts-de-france/lille",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "HDF",
+  "stateName": "Hauts-de-France",
+  "cityName": "Lille",
+  "bbox": {
+    "minLat": 50.62,
+    "minLng": 3.05,
+    "maxLat": 50.64,
+    "maxLng": 3.08
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grand-place-lille",
+      "name": "Grand Place",
+      "lat": 50.637,
+      "lng": 3.0635,
+      "radiusM": 120,
+      "address": "Place du G\u00e9n\u00e9ral-de-Gaulle",
+      "howTo": "Visit Grand Place.",
+      "badge": "badges/grand-place-lille.png"
+    },
+    {
+      "id": "vieille-bourse",
+      "name": "Vieille Bourse",
+      "lat": 50.6375,
+      "lng": 3.0645,
+      "radiusM": 80,
+      "address": "Vieille Bourse",
+      "howTo": "Visit Vieille Bourse.",
+      "badge": "badges/vieille-bourse.png"
+    },
+    {
+      "id": "palais-des-beaux-arts-lille",
+      "name": "Palais des Beaux-Arts",
+      "lat": 50.632,
+      "lng": 3.0625,
+      "radiusM": 120,
+      "address": "Palais des Beaux-Arts",
+      "howTo": "Visit Palais des Beaux-Arts.",
+      "badge": "badges/palais-des-beaux-arts-lille.png"
+    }
+  ]
+}

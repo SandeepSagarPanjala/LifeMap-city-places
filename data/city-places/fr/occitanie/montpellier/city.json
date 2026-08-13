@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/occitanie/montpellier",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "OCC",
+  "stateName": "Occitanie",
+  "cityName": "Montpellier",
+  "bbox": {
+    "minLat": 43.6,
+    "minLng": 3.86,
+    "maxLat": 43.62,
+    "maxLng": 3.89
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "place-de-la-comedie",
+      "name": "Place de la Com\u00e9die",
+      "lat": 43.6085,
+      "lng": 3.8795,
+      "radiusM": 120,
+      "address": "Place de la Com\u00e9die",
+      "howTo": "Visit Place de la Com\u00e9die.",
+      "badge": "badges/place-de-la-comedie.png"
+    },
+    {
+      "id": "promenade-du-peyrou",
+      "name": "Promenade du Peyrou",
+      "lat": 43.6115,
+      "lng": 3.8705,
+      "radiusM": 150,
+      "address": "Promenade du Peyrou",
+      "howTo": "Visit Promenade du Peyrou.",
+      "badge": "badges/promenade-du-peyrou.png"
+    },
+    {
+      "id": "musee-fabre",
+      "name": "Mus\u00e9e Fabre",
+      "lat": 43.611,
+      "lng": 3.8805,
+      "radiusM": 100,
+      "address": "Mus\u00e9e Fabre",
+      "howTo": "Visit Mus\u00e9e Fabre.",
+      "badge": "badges/musee-fabre.png"
+    }
+  ]
+}

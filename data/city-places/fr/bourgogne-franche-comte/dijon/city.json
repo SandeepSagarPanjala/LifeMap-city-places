@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/bourgogne-franche-comte/dijon",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "BFC",
+  "stateName": "Bourgogne-Franche-Comt\u00e9",
+  "cityName": "Dijon",
+  "bbox": {
+    "minLat": 47.31,
+    "minLng": 5.03,
+    "maxLat": 47.33,
+    "maxLng": 5.05
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palais-des-ducs-dijon",
+      "name": "Palais des Ducs",
+      "lat": 47.3215,
+      "lng": 5.0415,
+      "radiusM": 120,
+      "address": "Palais des Ducs de Bourgogne",
+      "howTo": "Visit Palais des Ducs.",
+      "badge": "badges/palais-des-ducs-dijon.png"
+    },
+    {
+      "id": "eglise-notre-dame-dijon",
+      "name": "\u00c9glise Notre-Dame",
+      "lat": 47.3225,
+      "lng": 5.041,
+      "radiusM": 80,
+      "address": "\u00c9glise Notre-Dame de Dijon",
+      "howTo": "Visit \u00c9glise Notre-Dame.",
+      "badge": "badges/eglise-notre-dame-dijon.png"
+    },
+    {
+      "id": "musee-des-beaux-arts-dijon",
+      "name": "Mus\u00e9e des Beaux-Arts",
+      "lat": 47.3215,
+      "lng": 5.0415,
+      "radiusM": 100,
+      "address": "Mus\u00e9e des Beaux-Arts de Dijon",
+      "howTo": "Visit Mus\u00e9e des Beaux-Arts.",
+      "badge": "badges/musee-des-beaux-arts-dijon.png"
+    }
+  ]
+}

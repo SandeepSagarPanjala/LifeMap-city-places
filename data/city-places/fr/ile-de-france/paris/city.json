@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/ile-de-france/paris",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "IDF",
+  "stateName": "\u00cele-de-France",
+  "cityName": "Paris",
+  "bbox": {
+    "minLat": 48.84,
+    "minLng": 2.28,
+    "maxLat": 48.89,
+    "maxLng": 2.38
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "eiffel-tower",
+      "name": "Eiffel Tower",
+      "lat": 48.8584,
+      "lng": 2.2945,
+      "radiusM": 200,
+      "address": "Champ de Mars, Paris",
+      "howTo": "Visit Eiffel Tower.",
+      "badge": "badges/eiffel-tower.png"
+    },
+    {
+      "id": "louvre",
+      "name": "Louvre Museum",
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "radiusM": 200,
+      "address": "Mus\u00e9e du Louvre",
+      "howTo": "Visit Louvre Museum.",
+      "badge": "badges/louvre.png"
+    },
+    {
+      "id": "notre-dame-paris",
+      "name": "Notre-Dame de Paris",
+      "lat": 48.853,
+      "lng": 2.3499,
+      "radiusM": 120,
+      "address": "\u00cele de la Cit\u00e9",
+      "howTo": "Visit Notre-Dame de Paris.",
+      "badge": "badges/notre-dame-paris.png"
+    },
+    {
+      "id": "arc-de-triomphe",
+      "name": "Arc de Triomphe",
+      "lat": 48.8738,
+      "lng": 2.295,
+      "radiusM": 100,
+      "address": "Place Charles de Gaulle",
+      "howTo": "Visit Arc de Triomphe.",
+      "badge": "badges/arc-de-triomphe.png"
+    },
+    {
+      "id": "sacre-coeur",
+      "name": "Sacr\u00e9-C\u0153ur",
+      "lat": 48.8867,
+      "lng": 2.3431,
+      "radiusM": 120,
+      "address": "Montmartre, Paris",
+      "howTo": "Visit Sacr\u00e9-C\u0153ur.",
+      "badge": "badges/sacre-coeur.png"
+    },
+    {
+      "id": "musee-orsay",
+      "name": "Mus\u00e9e d'Orsay",
+      "lat": 48.86,
+      "lng": 2.3266,
+      "radiusM": 120,
+      "address": "Mus\u00e9e d'Orsay",
+      "howTo": "Visit Mus\u00e9e d'Orsay.",
+      "badge": "badges/musee-orsay.png"
+    },
+    {
+      "id": "jardin-du-luxembourg",
+      "name": "Jardin du Luxembourg",
+      "lat": 48.8462,
+      "lng": 2.3372,
+      "radiusM": 250,
+      "address": "Luxembourg Gardens",
+      "howTo": "Visit Jardin du Luxembourg.",
+      "badge": "badges/jardin-du-luxembourg.png"
+    },
+    {
+      "id": "centre-pompidou",
+      "name": "Centre Pompidou",
+      "lat": 48.8606,
+      "lng": 2.3522,
+      "radiusM": 120,
+      "address": "Centre Pompidou",
+      "howTo": "Visit Centre Pompidou.",
+      "badge": "badges/centre-pompidou.png"
+    },
+    {
+      "id": "sainte-chapelle",
+      "name": "Sainte-Chapelle",
+      "lat": 48.8554,
+      "lng": 2.345,
+      "radiusM": 80,
+      "address": "Sainte-Chapelle",
+      "howTo": "Visit Sainte-Chapelle.",
+      "badge": "badges/sainte-chapelle.png"
+    },
+    {
+      "id": "pont-alexandre-iii",
+      "name": "Pont Alexandre III",
+      "lat": 48.8638,
+      "lng": 2.3135,
+      "radiusM": 100,
+      "address": "Pont Alexandre III",
+      "howTo": "Visit Pont Alexandre III.",
+      "badge": "badges/pont-alexandre-iii.png"
+    }
+  ]
+}

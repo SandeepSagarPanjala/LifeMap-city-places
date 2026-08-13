@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/provence-alpes-cote-dazur/aix-en-provence",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PAC",
+  "stateName": "Provence-Alpes-C\u00f4te d'Azur",
+  "cityName": "Aix-en-Provence",
+  "bbox": {
+    "minLat": 43.52,
+    "minLng": 5.43,
+    "maxLat": 43.54,
+    "maxLng": 5.46
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cours-mirabeau",
+      "name": "Cours Mirabeau",
+      "lat": 43.5265,
+      "lng": 5.4475,
+      "radiusM": 150,
+      "address": "Cours Mirabeau",
+      "howTo": "Visit Cours Mirabeau.",
+      "badge": "badges/cours-mirabeau.png"
+    },
+    {
+      "id": "cathedrale-saint-sauveur",
+      "name": "Cath\u00e9drale Saint-Sauveur",
+      "lat": 43.5315,
+      "lng": 5.447,
+      "radiusM": 100,
+      "address": "Cath\u00e9drale Saint-Sauveur",
+      "howTo": "Visit Cath\u00e9drale Saint-Sauveur.",
+      "badge": "badges/cathedrale-saint-sauveur.png"
+    },
+    {
+      "id": "atelier-cezanne",
+      "name": "Atelier de C\u00e9zanne",
+      "lat": 43.5385,
+      "lng": 5.4515,
+      "radiusM": 80,
+      "address": "Atelier C\u00e9zanne",
+      "howTo": "Visit Atelier de C\u00e9zanne.",
+      "badge": "badges/atelier-cezanne.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/auvergne-rhone-alpes/annecy",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "ARA",
+  "stateName": "Auvergne-Rh\u00f4ne-Alpes",
+  "cityName": "Annecy",
+  "bbox": {
+    "minLat": 45.89,
+    "minLng": 6.11,
+    "maxLat": 45.91,
+    "maxLng": 6.14
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-annecy",
+      "name": "Lake Annecy",
+      "lat": 45.9,
+      "lng": 6.13,
+      "radiusM": 300,
+      "address": "Lac d'Annecy",
+      "howTo": "Visit Lake Annecy.",
+      "badge": "badges/lake-annecy.png"
+    },
+    {
+      "id": "palais-de-dile",
+      "name": "Palais de l'Isle",
+      "lat": 45.899,
+      "lng": 6.1265,
+      "radiusM": 80,
+      "address": "Palais de l'Isle",
+      "howTo": "Visit Palais de l'Isle.",
+      "badge": "badges/palais-de-dile.png"
+    },
+    {
+      "id": "chateau-annecy",
+      "name": "Ch\u00e2teau d'Annecy",
+      "lat": 45.898,
+      "lng": 6.1255,
+      "radiusM": 120,
+      "address": "Ch\u00e2teau d'Annecy",
+      "howTo": "Visit Ch\u00e2teau d'Annecy.",
+      "badge": "badges/chateau-annecy.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/ile-de-france/versailles",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "IDF",
+  "stateName": "\u00cele-de-France",
+  "cityName": "Versailles",
+  "bbox": {
+    "minLat": 48.8,
+    "minLng": 2.08,
+    "maxLat": 48.82,
+    "maxLng": 2.13
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palace-of-versailles",
+      "name": "Palace of Versailles",
+      "lat": 48.8049,
+      "lng": 2.1204,
+      "radiusM": 250,
+      "address": "Ch\u00e2teau de Versailles",
+      "howTo": "Visit Palace of Versailles.",
+      "badge": "badges/palace-of-versailles.png"
+    },
+    {
+      "id": "hall-of-mirrors",
+      "name": "Hall of Mirrors",
+      "lat": 48.8048,
+      "lng": 2.1205,
+      "radiusM": 80,
+      "address": "Galerie des Glaces",
+      "howTo": "Visit Hall of Mirrors.",
+      "badge": "badges/hall-of-mirrors.png"
+    },
+    {
+      "id": "versailles-gardens",
+      "name": "Gardens of Versailles",
+      "lat": 48.806,
+      "lng": 2.112,
+      "radiusM": 300,
+      "address": "Jardins de Versailles",
+      "howTo": "Visit Gardens of Versailles.",
+      "badge": "badges/versailles-gardens.png"
+    },
+    {
+      "id": "grand-trianon",
+      "name": "Grand Trianon",
+      "lat": 48.815,
+      "lng": 2.1045,
+      "radiusM": 150,
+      "address": "Grand Trianon",
+      "howTo": "Visit Grand Trianon.",
+      "badge": "badges/grand-trianon.png"
+    }
+  ]
+}

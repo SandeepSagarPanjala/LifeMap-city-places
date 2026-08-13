@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/corse/ajaccio",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "COR",
+  "stateName": "Corse",
+  "cityName": "Ajaccio",
+  "bbox": {
+    "minLat": 41.91,
+    "minLng": 8.72,
+    "maxLat": 41.93,
+    "maxLng": 8.74
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maison-bonaparte",
+      "name": "Maison Bonaparte",
+      "lat": 41.9185,
+      "lng": 8.7385,
+      "radiusM": 80,
+      "address": "Maison Bonaparte",
+      "howTo": "Visit Maison Bonaparte.",
+      "badge": "badges/maison-bonaparte.png"
+    },
+    {
+      "id": "cathedrale-ajaccio",
+      "name": "Cath\u00e9drale Notre-Dame-de-l'Assomption",
+      "lat": 41.9175,
+      "lng": 8.738,
+      "radiusM": 80,
+      "address": "Ajaccio Cathedral",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame-de-l'Assomption.",
+      "badge": "badges/cathedrale-ajaccio.png"
+    },
+    {
+      "id": "citadelle-ajaccio",
+      "name": "Citadelle d'Ajaccio",
+      "lat": 41.9165,
+      "lng": 8.7405,
+      "radiusM": 120,
+      "address": "Citadelle",
+      "howTo": "Visit Citadelle d'Ajaccio.",
+      "badge": "badges/citadelle-ajaccio.png"
+    }
+  ]
+}

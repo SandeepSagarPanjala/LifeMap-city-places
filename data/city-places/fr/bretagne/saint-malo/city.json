@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/bretagne/saint-malo",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "BRE",
+  "stateName": "Bretagne",
+  "cityName": "Saint-Malo",
+  "bbox": {
+    "minLat": 48.64,
+    "minLng": -2.03,
+    "maxLat": 48.66,
+    "maxLng": -2.01
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "intra-muros-saint-malo",
+      "name": "Intra-Muros",
+      "lat": 48.6495,
+      "lng": -2.0255,
+      "radiusM": 200,
+      "address": "Walled city of Saint-Malo",
+      "howTo": "Visit Intra-Muros.",
+      "badge": "badges/intra-muros-saint-malo.png"
+    },
+    {
+      "id": "fort-national",
+      "name": "Fort National",
+      "lat": 48.6555,
+      "lng": -2.0235,
+      "radiusM": 100,
+      "address": "Fort National",
+      "howTo": "Visit Fort National.",
+      "badge": "badges/fort-national.png"
+    },
+    {
+      "id": "plage-du-sillon",
+      "name": "Plage du Sillon",
+      "lat": 48.655,
+      "lng": -2.0155,
+      "radiusM": 200,
+      "address": "Plage du Sillon",
+      "howTo": "Visit Plage du Sillon.",
+      "badge": "badges/plage-du-sillon.png"
+    }
+  ]
+}

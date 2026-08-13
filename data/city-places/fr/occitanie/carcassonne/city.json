@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/occitanie/carcassonne",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "OCC",
+  "stateName": "Occitanie",
+  "cityName": "Carcassonne",
+  "bbox": {
+    "minLat": 43.2,
+    "minLng": 2.35,
+    "maxLat": 43.22,
+    "maxLng": 2.37
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cite-de-carcassonne",
+      "name": "Cit\u00e9 de Carcassonne",
+      "lat": 43.2065,
+      "lng": 2.364,
+      "radiusM": 250,
+      "address": "Medieval Cit\u00e9",
+      "howTo": "Visit Cit\u00e9 de Carcassonne.",
+      "badge": "badges/cite-de-carcassonne.png"
+    },
+    {
+      "id": "basilique-saint-nazaire",
+      "name": "Basilique Saint-Nazaire",
+      "lat": 43.2055,
+      "lng": 2.3635,
+      "radiusM": 100,
+      "address": "Basilique Saint-Nazaire",
+      "howTo": "Visit Basilique Saint-Nazaire.",
+      "badge": "badges/basilique-saint-nazaire.png"
+    },
+    {
+      "id": "pont-vieux-carcassonne",
+      "name": "Pont Vieux",
+      "lat": 43.2115,
+      "lng": 2.3585,
+      "radiusM": 100,
+      "address": "Pont Vieux",
+      "howTo": "Visit Pont Vieux.",
+      "badge": "badges/pont-vieux-carcassonne.png"
+    }
+  ]
+}

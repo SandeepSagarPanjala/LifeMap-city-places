@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/centre-val-de-loire/tours",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "CVL",
+  "stateName": "Centre-Val de Loire",
+  "cityName": "Tours",
+  "bbox": {
+    "minLat": 47.38,
+    "minLng": 0.68,
+    "maxLat": 47.4,
+    "maxLng": 0.7
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedrale-tours",
+      "name": "Cath\u00e9drale Saint-Gatien",
+      "lat": 47.3955,
+      "lng": 0.6945,
+      "radiusM": 100,
+      "address": "Cath\u00e9drale de Tours",
+      "howTo": "Visit Cath\u00e9drale Saint-Gatien.",
+      "badge": "badges/cathedrale-tours.png"
+    },
+    {
+      "id": "place-plumereau",
+      "name": "Place Plumereau",
+      "lat": 47.3965,
+      "lng": 0.6815,
+      "radiusM": 100,
+      "address": "Place Plumereau",
+      "howTo": "Visit Place Plumereau.",
+      "badge": "badges/place-plumereau.png"
+    },
+    {
+      "id": "chateau-de-tours",
+      "name": "Ch\u00e2teau de Tours",
+      "lat": 47.397,
+      "lng": 0.6935,
+      "radiusM": 100,
+      "address": "Ch\u00e2teau de Tours",
+      "howTo": "Visit Ch\u00e2teau de Tours.",
+      "badge": "badges/chateau-de-tours.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/grand-est/reims",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "GES",
+  "stateName": "Grand Est",
+  "cityName": "Reims",
+  "bbox": {
+    "minLat": 49.24,
+    "minLng": 4.02,
+    "maxLat": 49.26,
+    "maxLng": 4.04
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedrale-reims",
+      "name": "Cath\u00e9drale Notre-Dame de Reims",
+      "lat": 49.2535,
+      "lng": 4.034,
+      "radiusM": 120,
+      "address": "Reims Cathedral",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame de Reims.",
+      "badge": "badges/cathedrale-reims.png"
+    },
+    {
+      "id": "palais-du-tau",
+      "name": "Palais du Tau",
+      "lat": 49.253,
+      "lng": 4.0345,
+      "radiusM": 100,
+      "address": "Palais du Tau",
+      "howTo": "Visit Palais du Tau.",
+      "badge": "badges/palais-du-tau.png"
+    },
+    {
+      "id": "basilique-saint-remi",
+      "name": "Basilique Saint-Remi",
+      "lat": 49.243,
+      "lng": 4.032,
+      "radiusM": 120,
+      "address": "Basilique Saint-Remi",
+      "howTo": "Visit Basilique Saint-Remi.",
+      "badge": "badges/basilique-saint-remi.png"
+    }
+  ]
+}

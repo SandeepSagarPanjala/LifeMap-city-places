@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/provence-alpes-cote-dazur/cannes",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PAC",
+  "stateName": "Provence-Alpes-C\u00f4te d'Azur",
+  "cityName": "Cannes",
+  "bbox": {
+    "minLat": 43.54,
+    "minLng": 7.01,
+    "maxLat": 43.56,
+    "maxLng": 7.04
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boulevard-de-la-croisette",
+      "name": "Boulevard de la Croisette",
+      "lat": 43.5495,
+      "lng": 7.0265,
+      "radiusM": 200,
+      "address": "La Croisette",
+      "howTo": "Visit Boulevard de la Croisette.",
+      "badge": "badges/boulevard-de-la-croisette.png"
+    },
+    {
+      "id": "palais-des-festivals",
+      "name": "Palais des Festivals",
+      "lat": 43.551,
+      "lng": 7.0175,
+      "radiusM": 120,
+      "address": "Palais des Festivals",
+      "howTo": "Visit Palais des Festivals.",
+      "badge": "badges/palais-des-festivals.png"
+    },
+    {
+      "id": "le-suquet",
+      "name": "Le Suquet",
+      "lat": 43.5505,
+      "lng": 7.0125,
+      "radiusM": 150,
+      "address": "Old Town / Le Suquet",
+      "howTo": "Visit Le Suquet.",
+      "badge": "badges/le-suquet.png"
+    }
+  ]
+}

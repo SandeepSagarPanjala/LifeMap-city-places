@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/nouvelle-aquitaine/bordeaux",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "NAQ",
+  "stateName": "Nouvelle-Aquitaine",
+  "cityName": "Bordeaux",
+  "bbox": {
+    "minLat": 44.83,
+    "minLng": -0.59,
+    "maxLat": 44.85,
+    "maxLng": -0.56
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "place-de-la-bourse",
+      "name": "Place de la Bourse",
+      "lat": 44.8415,
+      "lng": -0.5695,
+      "radiusM": 150,
+      "address": "Place de la Bourse / Miroir d'eau",
+      "howTo": "Visit Place de la Bourse.",
+      "badge": "badges/place-de-la-bourse.png"
+    },
+    {
+      "id": "cathedrale-saint-andre-bordeaux",
+      "name": "Cath\u00e9drale Saint-Andr\u00e9",
+      "lat": 44.8375,
+      "lng": -0.5775,
+      "radiusM": 100,
+      "address": "Cath\u00e9drale Saint-Andr\u00e9",
+      "howTo": "Visit Cath\u00e9drale Saint-Andr\u00e9.",
+      "badge": "badges/cathedrale-saint-andre-bordeaux.png"
+    },
+    {
+      "id": "grand-theatre-bordeaux",
+      "name": "Grand Th\u00e9\u00e2tre",
+      "lat": 44.8425,
+      "lng": -0.5745,
+      "radiusM": 80,
+      "address": "Grand Th\u00e9\u00e2tre de Bordeaux",
+      "howTo": "Visit Grand Th\u00e9\u00e2tre.",
+      "badge": "badges/grand-theatre-bordeaux.png"
+    },
+    {
+      "id": "cite-du-vin",
+      "name": "Cit\u00e9 du Vin",
+      "lat": 44.8625,
+      "lng": -0.5505,
+      "radiusM": 120,
+      "address": "Cit\u00e9 du Vin",
+      "howTo": "Visit Cit\u00e9 du Vin.",
+      "badge": "badges/cite-du-vin.png"
+    }
+  ]
+}

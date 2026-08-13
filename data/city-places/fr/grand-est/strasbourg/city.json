@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/grand-est/strasbourg",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "GES",
+  "stateName": "Grand Est",
+  "cityName": "Strasbourg",
+  "bbox": {
+    "minLat": 48.57,
+    "minLng": 7.73,
+    "maxLat": 48.59,
+    "maxLng": 7.76
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedrale-strasbourg",
+      "name": "Cath\u00e9drale Notre-Dame de Strasbourg",
+      "lat": 48.5819,
+      "lng": 7.751,
+      "radiusM": 120,
+      "address": "Strasbourg Cathedral",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame de Strasbourg.",
+      "badge": "badges/cathedrale-strasbourg.png"
+    },
+    {
+      "id": "la-petite-france",
+      "name": "La Petite France",
+      "lat": 48.5795,
+      "lng": 7.7415,
+      "radiusM": 150,
+      "address": "Petite France quarter",
+      "howTo": "Visit La Petite France.",
+      "badge": "badges/la-petite-france.png"
+    },
+    {
+      "id": "palais-rohan-strasbourg",
+      "name": "Palais Rohan",
+      "lat": 48.5805,
+      "lng": 7.7525,
+      "radiusM": 100,
+      "address": "Palais Rohan",
+      "howTo": "Visit Palais Rohan.",
+      "badge": "badges/palais-rohan-strasbourg.png"
+    },
+    {
+      "id": "european-parliament",
+      "name": "European Parliament",
+      "lat": 48.5975,
+      "lng": 7.769,
+      "radiusM": 150,
+      "address": "European Parliament, Strasbourg",
+      "howTo": "Visit European Parliament.",
+      "badge": "badges/european-parliament.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/nouvelle-aquitaine/biarritz",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "NAQ",
+  "stateName": "Nouvelle-Aquitaine",
+  "cityName": "Biarritz",
+  "bbox": {
+    "minLat": 43.47,
+    "minLng": -1.57,
+    "maxLat": 43.49,
+    "maxLng": -1.54
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grande-plage-biarritz",
+      "name": "Grande Plage",
+      "lat": 43.4835,
+      "lng": -1.5585,
+      "radiusM": 200,
+      "address": "Grande Plage, Biarritz",
+      "howTo": "Visit Grande Plage.",
+      "badge": "badges/grande-plage-biarritz.png"
+    },
+    {
+      "id": "rocher-de-la-vierge",
+      "name": "Rocher de la Vierge",
+      "lat": 43.483,
+      "lng": -1.5675,
+      "radiusM": 100,
+      "address": "Rocher de la Vierge",
+      "howTo": "Visit Rocher de la Vierge.",
+      "badge": "badges/rocher-de-la-vierge.png"
+    },
+    {
+      "id": "phare-de-biarritz",
+      "name": "Phare de Biarritz",
+      "lat": 43.4945,
+      "lng": -1.5525,
+      "radiusM": 80,
+      "address": "Biarritz Lighthouse",
+      "howTo": "Visit Phare de Biarritz.",
+      "badge": "badges/phare-de-biarritz.png"
+    }
+  ]
+}

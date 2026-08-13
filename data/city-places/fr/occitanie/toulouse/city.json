@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/occitanie/toulouse",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "OCC",
+  "stateName": "Occitanie",
+  "cityName": "Toulouse",
+  "bbox": {
+    "minLat": 43.59,
+    "minLng": 1.43,
+    "maxLat": 43.61,
+    "maxLng": 1.46
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "capitole-toulouse",
+      "name": "Place du Capitole",
+      "lat": 43.6045,
+      "lng": 1.444,
+      "radiusM": 120,
+      "address": "Capitole, Toulouse",
+      "howTo": "Visit Place du Capitole.",
+      "badge": "badges/capitole-toulouse.png"
+    },
+    {
+      "id": "basilique-saint-sernin",
+      "name": "Basilique Saint-Sernin",
+      "lat": 43.6085,
+      "lng": 1.4415,
+      "radiusM": 120,
+      "address": "Basilique Saint-Sernin",
+      "howTo": "Visit Basilique Saint-Sernin.",
+      "badge": "badges/basilique-saint-sernin.png"
+    },
+    {
+      "id": "canal-du-midi-toulouse",
+      "name": "Canal du Midi",
+      "lat": 43.6005,
+      "lng": 1.4555,
+      "radiusM": 200,
+      "address": "Canal du Midi, Toulouse",
+      "howTo": "Visit Canal du Midi.",
+      "badge": "badges/canal-du-midi-toulouse.png"
+    },
+    {
+      "id": "cite-de-lespace",
+      "name": "Cit\u00e9 de l'Espace",
+      "lat": 43.587,
+      "lng": 1.4925,
+      "radiusM": 200,
+      "address": "Cit\u00e9 de l'Espace",
+      "howTo": "Visit Cit\u00e9 de l'Espace.",
+      "badge": "badges/cite-de-lespace.png"
+    }
+  ]
+}

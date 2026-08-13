@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/provence-alpes-cote-dazur/avignon",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PAC",
+  "stateName": "Provence-Alpes-C\u00f4te d'Azur",
+  "cityName": "Avignon",
+  "bbox": {
+    "minLat": 43.94,
+    "minLng": 4.8,
+    "maxLat": 43.96,
+    "maxLng": 4.82
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palais-des-papes",
+      "name": "Palais des Papes",
+      "lat": 43.9508,
+      "lng": 4.8075,
+      "radiusM": 150,
+      "address": "Palais des Papes",
+      "howTo": "Visit Palais des Papes.",
+      "badge": "badges/palais-des-papes.png"
+    },
+    {
+      "id": "pont-davignon",
+      "name": "Pont Saint-B\u00e9n\u00e9zet",
+      "lat": 43.9535,
+      "lng": 4.8045,
+      "radiusM": 100,
+      "address": "Pont d'Avignon",
+      "howTo": "Visit Pont Saint-B\u00e9n\u00e9zet.",
+      "badge": "badges/pont-davignon.png"
+    },
+    {
+      "id": "avignon-ramparts",
+      "name": "Avignon Ramparts",
+      "lat": 43.9495,
+      "lng": 4.8055,
+      "radiusM": 200,
+      "address": "Remparts d'Avignon",
+      "howTo": "Visit Avignon Ramparts.",
+      "badge": "badges/avignon-ramparts.png"
+    }
+  ]
+}

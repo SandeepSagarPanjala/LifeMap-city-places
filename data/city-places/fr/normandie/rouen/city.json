@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/normandie/rouen",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "NOR",
+  "stateName": "Normandie",
+  "cityName": "Rouen",
+  "bbox": {
+    "minLat": 49.43,
+    "minLng": 1.08,
+    "maxLat": 49.45,
+    "maxLng": 1.1
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedrale-rouen",
+      "name": "Cath\u00e9drale Notre-Dame de Rouen",
+      "lat": 49.4402,
+      "lng": 1.095,
+      "radiusM": 120,
+      "address": "Rouen Cathedral",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame de Rouen.",
+      "badge": "badges/cathedrale-rouen.png"
+    },
+    {
+      "id": "gros-horloge",
+      "name": "Gros-Horloge",
+      "lat": 49.4415,
+      "lng": 1.0915,
+      "radiusM": 60,
+      "address": "Gros-Horloge",
+      "howTo": "Visit Gros-Horloge.",
+      "badge": "badges/gros-horloge.png"
+    },
+    {
+      "id": "abbaye-saint-ouen",
+      "name": "Abbaye Saint-Ouen",
+      "lat": 49.4435,
+      "lng": 1.0995,
+      "radiusM": 120,
+      "address": "Abbaye Saint-Ouen",
+      "howTo": "Visit Abbaye Saint-Ouen.",
+      "badge": "badges/abbaye-saint-ouen.png"
+    }
+  ]
+}

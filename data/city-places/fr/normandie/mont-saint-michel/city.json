@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/normandie/mont-saint-michel",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "NOR",
+  "stateName": "Normandie",
+  "cityName": "Mont-Saint-Michel",
+  "bbox": {
+    "minLat": 48.63,
+    "minLng": -1.52,
+    "maxLat": 48.64,
+    "maxLng": -1.5
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mont-saint-michel-abbey",
+      "name": "Mont-Saint-Michel Abbey",
+      "lat": 48.6361,
+      "lng": -1.5115,
+      "radiusM": 200,
+      "address": "Abbaye du Mont-Saint-Michel",
+      "howTo": "Visit Mont-Saint-Michel Abbey.",
+      "badge": "badges/mont-saint-michel-abbey.png"
+    },
+    {
+      "id": "mont-saint-michel-village",
+      "name": "Mont-Saint-Michel Village",
+      "lat": 48.6355,
+      "lng": -1.5105,
+      "radiusM": 150,
+      "address": "Medieval village streets",
+      "howTo": "Visit Mont-Saint-Michel Village.",
+      "badge": "badges/mont-saint-michel-village.png"
+    },
+    {
+      "id": "bay-of-mont-saint-michel",
+      "name": "Bay of Mont-Saint-Michel",
+      "lat": 48.634,
+      "lng": -1.508,
+      "radiusM": 300,
+      "address": "Bay / tidal flats view",
+      "howTo": "Visit Bay of Mont-Saint-Michel.",
+      "badge": "badges/bay-of-mont-saint-michel.png"
+    }
+  ]
+}

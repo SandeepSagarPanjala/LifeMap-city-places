@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/pays-de-la-loire/nantes",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "PDL",
+  "stateName": "Pays de la Loire",
+  "cityName": "Nantes",
+  "bbox": {
+    "minLat": 47.2,
+    "minLng": -1.58,
+    "maxLat": 47.22,
+    "maxLng": -1.54
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chateau-des-ducs",
+      "name": "Ch\u00e2teau des Ducs de Bretagne",
+      "lat": 47.2165,
+      "lng": -1.5495,
+      "radiusM": 150,
+      "address": "Ch\u00e2teau des Ducs",
+      "howTo": "Visit Ch\u00e2teau des Ducs de Bretagne.",
+      "badge": "badges/chateau-des-ducs.png"
+    },
+    {
+      "id": "machines-de-lile",
+      "name": "Les Machines de l'\u00eele",
+      "lat": 47.2065,
+      "lng": -1.5645,
+      "radiusM": 150,
+      "address": "Machines de l'\u00eele",
+      "howTo": "Visit Les Machines de l'\u00eele.",
+      "badge": "badges/machines-de-lile.png"
+    },
+    {
+      "id": "cathedrale-nantes",
+      "name": "Cath\u00e9drale Saint-Pierre-et-Saint-Paul",
+      "lat": 47.218,
+      "lng": -1.5515,
+      "radiusM": 100,
+      "address": "Nantes Cathedral",
+      "howTo": "Visit Cath\u00e9drale Saint-Pierre-et-Saint-Paul.",
+      "badge": "badges/cathedrale-nantes.png"
+    }
+  ]
+}

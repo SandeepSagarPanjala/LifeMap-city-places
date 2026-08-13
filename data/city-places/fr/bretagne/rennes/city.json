@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/bretagne/rennes",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "BRE",
+  "stateName": "Bretagne",
+  "cityName": "Rennes",
+  "bbox": {
+    "minLat": 48.1,
+    "minLng": -1.69,
+    "maxLat": 48.12,
+    "maxLng": -1.66
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parlement-de-bretagne",
+      "name": "Parlement de Bretagne",
+      "lat": 48.1115,
+      "lng": -1.6775,
+      "radiusM": 100,
+      "address": "Parlement de Bretagne",
+      "howTo": "Visit Parlement de Bretagne.",
+      "badge": "badges/parlement-de-bretagne.png"
+    },
+    {
+      "id": "place-des-lices",
+      "name": "Place des Lices",
+      "lat": 48.1135,
+      "lng": -1.6825,
+      "radiusM": 120,
+      "address": "Place des Lices",
+      "howTo": "Visit Place des Lices.",
+      "badge": "badges/place-des-lices.png"
+    },
+    {
+      "id": "parc-du-thabor",
+      "name": "Parc du Thabor",
+      "lat": 48.1145,
+      "lng": -1.6695,
+      "radiusM": 250,
+      "address": "Parc du Thabor",
+      "howTo": "Visit Parc du Thabor.",
+      "badge": "badges/parc-du-thabor.png"
+    }
+  ]
+}

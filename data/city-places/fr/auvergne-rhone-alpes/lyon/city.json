@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/auvergne-rhone-alpes/lyon",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "ARA",
+  "stateName": "Auvergne-Rh\u00f4ne-Alpes",
+  "cityName": "Lyon",
+  "bbox": {
+    "minLat": 45.75,
+    "minLng": 4.81,
+    "maxLat": 45.77,
+    "maxLng": 4.86
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilique-fourviere",
+      "name": "Basilique Notre-Dame de Fourvi\u00e8re",
+      "lat": 45.7622,
+      "lng": 4.8226,
+      "radiusM": 120,
+      "address": "Fourvi\u00e8re, Lyon",
+      "howTo": "Visit Basilique Notre-Dame de Fourvi\u00e8re.",
+      "badge": "badges/basilique-fourviere.png"
+    },
+    {
+      "id": "vieux-lyon",
+      "name": "Vieux Lyon",
+      "lat": 45.7625,
+      "lng": 4.8275,
+      "radiusM": 200,
+      "address": "Old Lyon",
+      "howTo": "Visit Vieux Lyon.",
+      "badge": "badges/vieux-lyon.png"
+    },
+    {
+      "id": "place-bellecour",
+      "name": "Place Bellecour",
+      "lat": 45.7578,
+      "lng": 4.832,
+      "radiusM": 150,
+      "address": "Place Bellecour",
+      "howTo": "Visit Place Bellecour.",
+      "badge": "badges/place-bellecour.png"
+    },
+    {
+      "id": "parc-de-la-tete-dor",
+      "name": "Parc de la T\u00eate d'Or",
+      "lat": 45.7795,
+      "lng": 4.8545,
+      "radiusM": 300,
+      "address": "Parc de la T\u00eate d'Or",
+      "howTo": "Visit Parc de la T\u00eate d'Or.",
+      "badge": "badges/parc-de-la-tete-dor.png"
+    }
+  ]
+}

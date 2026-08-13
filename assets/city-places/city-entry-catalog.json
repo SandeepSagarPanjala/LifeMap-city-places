@@ -1,9 +1,252 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T17:33:08.695Z",
+  "generatedAt": "2026-08-13T17:56:53.321Z",
   "cellDeg": 0.5,
-  "cityCount": 326,
+  "cityCount": 353,
   "cities": {
+    "fr/auvergne-rhone-alpes/annecy": {
+      "name": "Annecy",
+      "bbox": {
+        "minLat": 45.89,
+        "minLng": 6.11,
+        "maxLat": 45.91,
+        "maxLng": 6.14
+      }
+    },
+    "fr/auvergne-rhone-alpes/grenoble": {
+      "name": "Grenoble",
+      "bbox": {
+        "minLat": 45.18,
+        "minLng": 5.71,
+        "maxLat": 45.2,
+        "maxLng": 5.74
+      }
+    },
+    "fr/auvergne-rhone-alpes/lyon": {
+      "name": "Lyon",
+      "bbox": {
+        "minLat": 45.75,
+        "minLng": 4.81,
+        "maxLat": 45.77,
+        "maxLng": 4.86
+      }
+    },
+    "fr/bourgogne-franche-comte/dijon": {
+      "name": "Dijon",
+      "bbox": {
+        "minLat": 47.31,
+        "minLng": 5.03,
+        "maxLat": 47.33,
+        "maxLng": 5.05
+      }
+    },
+    "fr/bretagne/rennes": {
+      "name": "Rennes",
+      "bbox": {
+        "minLat": 48.1,
+        "minLng": -1.69,
+        "maxLat": 48.12,
+        "maxLng": -1.66
+      }
+    },
+    "fr/bretagne/saint-malo": {
+      "name": "Saint-Malo",
+      "bbox": {
+        "minLat": 48.64,
+        "minLng": -2.03,
+        "maxLat": 48.66,
+        "maxLng": -2.01
+      }
+    },
+    "fr/centre-val-de-loire/orleans": {
+      "name": "Orléans",
+      "bbox": {
+        "minLat": 47.89,
+        "minLng": 1.9,
+        "maxLat": 47.91,
+        "maxLng": 1.92
+      }
+    },
+    "fr/centre-val-de-loire/tours": {
+      "name": "Tours",
+      "bbox": {
+        "minLat": 47.38,
+        "minLng": 0.68,
+        "maxLat": 47.4,
+        "maxLng": 0.7
+      }
+    },
+    "fr/corse/ajaccio": {
+      "name": "Ajaccio",
+      "bbox": {
+        "minLat": 41.91,
+        "minLng": 8.72,
+        "maxLat": 41.93,
+        "maxLng": 8.74
+      }
+    },
+    "fr/grand-est/reims": {
+      "name": "Reims",
+      "bbox": {
+        "minLat": 49.24,
+        "minLng": 4.02,
+        "maxLat": 49.26,
+        "maxLng": 4.04
+      }
+    },
+    "fr/grand-est/strasbourg": {
+      "name": "Strasbourg",
+      "bbox": {
+        "minLat": 48.57,
+        "minLng": 7.73,
+        "maxLat": 48.59,
+        "maxLng": 7.76
+      }
+    },
+    "fr/hauts-de-france/lille": {
+      "name": "Lille",
+      "bbox": {
+        "minLat": 50.62,
+        "minLng": 3.05,
+        "maxLat": 50.64,
+        "maxLng": 3.08
+      }
+    },
+    "fr/ile-de-france/paris": {
+      "name": "Paris",
+      "bbox": {
+        "minLat": 48.84,
+        "minLng": 2.28,
+        "maxLat": 48.89,
+        "maxLng": 2.38
+      }
+    },
+    "fr/ile-de-france/versailles": {
+      "name": "Versailles",
+      "bbox": {
+        "minLat": 48.8,
+        "minLng": 2.08,
+        "maxLat": 48.82,
+        "maxLng": 2.13
+      }
+    },
+    "fr/normandie/mont-saint-michel": {
+      "name": "Mont-Saint-Michel",
+      "bbox": {
+        "minLat": 48.63,
+        "minLng": -1.52,
+        "maxLat": 48.64,
+        "maxLng": -1.5
+      }
+    },
+    "fr/normandie/rouen": {
+      "name": "Rouen",
+      "bbox": {
+        "minLat": 49.43,
+        "minLng": 1.08,
+        "maxLat": 49.45,
+        "maxLng": 1.1
+      }
+    },
+    "fr/nouvelle-aquitaine/biarritz": {
+      "name": "Biarritz",
+      "bbox": {
+        "minLat": 43.47,
+        "minLng": -1.57,
+        "maxLat": 43.49,
+        "maxLng": -1.54
+      }
+    },
+    "fr/nouvelle-aquitaine/bordeaux": {
+      "name": "Bordeaux",
+      "bbox": {
+        "minLat": 44.83,
+        "minLng": -0.59,
+        "maxLat": 44.85,
+        "maxLng": -0.56
+      }
+    },
+    "fr/occitanie/carcassonne": {
+      "name": "Carcassonne",
+      "bbox": {
+        "minLat": 43.2,
+        "minLng": 2.35,
+        "maxLat": 43.22,
+        "maxLng": 2.37
+      }
+    },
+    "fr/occitanie/montpellier": {
+      "name": "Montpellier",
+      "bbox": {
+        "minLat": 43.6,
+        "minLng": 3.86,
+        "maxLat": 43.62,
+        "maxLng": 3.89
+      }
+    },
+    "fr/occitanie/toulouse": {
+      "name": "Toulouse",
+      "bbox": {
+        "minLat": 43.59,
+        "minLng": 1.43,
+        "maxLat": 43.61,
+        "maxLng": 1.46
+      }
+    },
+    "fr/pays-de-la-loire/nantes": {
+      "name": "Nantes",
+      "bbox": {
+        "minLat": 47.2,
+        "minLng": -1.58,
+        "maxLat": 47.22,
+        "maxLng": -1.54
+      }
+    },
+    "fr/provence-alpes-cote-dazur/aix-en-provence": {
+      "name": "Aix-en-Provence",
+      "bbox": {
+        "minLat": 43.52,
+        "minLng": 5.43,
+        "maxLat": 43.54,
+        "maxLng": 5.46
+      }
+    },
+    "fr/provence-alpes-cote-dazur/avignon": {
+      "name": "Avignon",
+      "bbox": {
+        "minLat": 43.94,
+        "minLng": 4.8,
+        "maxLat": 43.96,
+        "maxLng": 4.82
+      }
+    },
+    "fr/provence-alpes-cote-dazur/cannes": {
+      "name": "Cannes",
+      "bbox": {
+        "minLat": 43.54,
+        "minLng": 7.01,
+        "maxLat": 43.56,
+        "maxLng": 7.04
+      }
+    },
+    "fr/provence-alpes-cote-dazur/marseille": {
+      "name": "Marseille",
+      "bbox": {
+        "minLat": 43.28,
+        "minLng": 5.35,
+        "maxLat": 43.31,
+        "maxLng": 5.39
+      }
+    },
+    "fr/provence-alpes-cote-dazur/nice": {
+      "name": "Nice",
+      "bbox": {
+        "minLat": 43.68,
+        "minLng": 7.24,
+        "maxLat": 43.72,
+        "maxLng": 7.28
+      }
+    },
     "gb/england/bath": {
       "name": "Bath",
       "bbox": {
@@ -4344,6 +4587,86 @@
     ],
     "110,-13": [
       "gb/northern-ireland/giants-causeway"
+    ],
+    "97,4": [
+      "fr/ile-de-france/paris",
+      "fr/ile-de-france/versailles"
+    ],
+    "87,14": [
+      "fr/provence-alpes-cote-dazur/cannes",
+      "fr/provence-alpes-cote-dazur/nice"
+    ],
+    "86,10": [
+      "fr/provence-alpes-cote-dazur/marseille"
+    ],
+    "87,9": [
+      "fr/provence-alpes-cote-dazur/avignon"
+    ],
+    "87,10": [
+      "fr/provence-alpes-cote-dazur/aix-en-provence"
+    ],
+    "91,9": [
+      "fr/auvergne-rhone-alpes/lyon"
+    ],
+    "91,12": [
+      "fr/auvergne-rhone-alpes/annecy"
+    ],
+    "90,11": [
+      "fr/auvergne-rhone-alpes/grenoble"
+    ],
+    "87,2": [
+      "fr/occitanie/toulouse"
+    ],
+    "87,7": [
+      "fr/occitanie/montpellier"
+    ],
+    "86,4": [
+      "fr/occitanie/carcassonne"
+    ],
+    "89,-2": [
+      "fr/nouvelle-aquitaine/bordeaux"
+    ],
+    "86,-4": [
+      "fr/nouvelle-aquitaine/biarritz"
+    ],
+    "94,-4": [
+      "fr/pays-de-la-loire/nantes"
+    ],
+    "96,-4": [
+      "fr/bretagne/rennes"
+    ],
+    "97,-5": [
+      "fr/bretagne/saint-malo"
+    ],
+    "98,2": [
+      "fr/normandie/rouen"
+    ],
+    "97,-4": [
+      "fr/normandie/mont-saint-michel"
+    ],
+    "97,-3": [
+      "fr/normandie/mont-saint-michel"
+    ],
+    "97,15": [
+      "fr/grand-est/strasbourg"
+    ],
+    "98,8": [
+      "fr/grand-est/reims"
+    ],
+    "101,6": [
+      "fr/hauts-de-france/lille"
+    ],
+    "94,10": [
+      "fr/bourgogne-franche-comte/dijon"
+    ],
+    "94,1": [
+      "fr/centre-val-de-loire/tours"
+    ],
+    "95,3": [
+      "fr/centre-val-de-loire/orleans"
+    ],
+    "83,17": [
+      "fr/corse/ajaccio"
     ]
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "fr/centre-val-de-loire/orleans",
+  "countryCode": "FR",
+  "countryName": "France",
+  "stateCode": "CVL",
+  "stateName": "Centre-Val de Loire",
+  "cityName": "Orl\u00e9ans",
+  "bbox": {
+    "minLat": 47.89,
+    "minLng": 1.9,
+    "maxLat": 47.91,
+    "maxLng": 1.92
+  },
+  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedrale-orleans",
+      "name": "Cath\u00e9drale Sainte-Croix",
+      "lat": 47.902,
+      "lng": 1.9105,
+      "radiusM": 120,
+      "address": "Orl\u00e9ans Cathedral",
+      "howTo": "Visit Cath\u00e9drale Sainte-Croix.",
+      "badge": "badges/cathedrale-orleans.png"
+    },
+    {
+      "id": "place-du-martroi",
+      "name": "Place du Martroi",
+      "lat": 47.9025,
+      "lng": 1.9045,
+      "radiusM": 100,
+      "address": "Place du Martroi",
+      "howTo": "Visit Place du Martroi.",
+      "badge": "badges/place-du-martroi.png"
+    },
+    {
+      "id": "parc-floral-orleans",
+      "name": "Parc Floral de la Source",
+      "lat": 47.8435,
+      "lng": 1.9375,
+      "radiusM": 250,
+      "address": "Parc Floral",
+      "howTo": "Visit Parc Floral de la Source.",
+      "badge": "badges/parc-floral-orleans.png"
+    }
+  ]
+}

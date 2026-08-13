@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T17:29:58.000Z",
-  "notes": "USA/India/Japan/United Kingdom complete. Next: France (fr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T17:56:53.000Z",
+  "notes": "USA/India/Japan/UK/France complete. Next: Italy (it) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -5409,6 +5409,482 @@
                 "minLng": -6.52,
                 "maxLat": 55.25,
                 "maxLng": -6.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr",
+      "countryCode": "FR",
+      "name": "France",
+      "states": [
+        {
+          "id": "ile-de-france",
+          "stateCode": "IDF",
+          "name": "\u00cele-de-France",
+          "cities": [
+            {
+              "id": "paris",
+              "name": "Paris",
+              "status": "complete",
+              "packPath": "fr/ile-de-france/paris/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.84,
+                "minLng": 2.28,
+                "maxLat": 48.89,
+                "maxLng": 2.38
+              }
+            },
+            {
+              "id": "versailles",
+              "name": "Versailles",
+              "status": "complete",
+              "packPath": "fr/ile-de-france/versailles/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.8,
+                "minLng": 2.08,
+                "maxLat": 48.82,
+                "maxLng": 2.13
+              }
+            }
+          ]
+        },
+        {
+          "id": "provence-alpes-cote-dazur",
+          "stateCode": "PAC",
+          "name": "Provence-Alpes-C\u00f4te d'Azur",
+          "cities": [
+            {
+              "id": "nice",
+              "name": "Nice",
+              "status": "complete",
+              "packPath": "fr/provence-alpes-cote-dazur/nice/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.68,
+                "minLng": 7.24,
+                "maxLat": 43.72,
+                "maxLng": 7.28
+              }
+            },
+            {
+              "id": "marseille",
+              "name": "Marseille",
+              "status": "complete",
+              "packPath": "fr/provence-alpes-cote-dazur/marseille/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.28,
+                "minLng": 5.35,
+                "maxLat": 43.31,
+                "maxLng": 5.39
+              }
+            },
+            {
+              "id": "avignon",
+              "name": "Avignon",
+              "status": "complete",
+              "packPath": "fr/provence-alpes-cote-dazur/avignon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.94,
+                "minLng": 4.8,
+                "maxLat": 43.96,
+                "maxLng": 4.82
+              }
+            },
+            {
+              "id": "aix-en-provence",
+              "name": "Aix-en-Provence",
+              "status": "complete",
+              "packPath": "fr/provence-alpes-cote-dazur/aix-en-provence/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.52,
+                "minLng": 5.43,
+                "maxLat": 43.54,
+                "maxLng": 5.46
+              }
+            },
+            {
+              "id": "cannes",
+              "name": "Cannes",
+              "status": "complete",
+              "packPath": "fr/provence-alpes-cote-dazur/cannes/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.54,
+                "minLng": 7.01,
+                "maxLat": 43.56,
+                "maxLng": 7.04
+              }
+            }
+          ]
+        },
+        {
+          "id": "auvergne-rhone-alpes",
+          "stateCode": "ARA",
+          "name": "Auvergne-Rh\u00f4ne-Alpes",
+          "cities": [
+            {
+              "id": "lyon",
+              "name": "Lyon",
+              "status": "complete",
+              "packPath": "fr/auvergne-rhone-alpes/lyon/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 45.75,
+                "minLng": 4.81,
+                "maxLat": 45.77,
+                "maxLng": 4.86
+              }
+            },
+            {
+              "id": "annecy",
+              "name": "Annecy",
+              "status": "complete",
+              "packPath": "fr/auvergne-rhone-alpes/annecy/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 45.89,
+                "minLng": 6.11,
+                "maxLat": 45.91,
+                "maxLng": 6.14
+              }
+            },
+            {
+              "id": "grenoble",
+              "name": "Grenoble",
+              "status": "complete",
+              "packPath": "fr/auvergne-rhone-alpes/grenoble/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 45.18,
+                "minLng": 5.71,
+                "maxLat": 45.2,
+                "maxLng": 5.74
+              }
+            }
+          ]
+        },
+        {
+          "id": "occitanie",
+          "stateCode": "OCC",
+          "name": "Occitanie",
+          "cities": [
+            {
+              "id": "toulouse",
+              "name": "Toulouse",
+              "status": "complete",
+              "packPath": "fr/occitanie/toulouse/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.59,
+                "minLng": 1.43,
+                "maxLat": 43.61,
+                "maxLng": 1.46
+              }
+            },
+            {
+              "id": "montpellier",
+              "name": "Montpellier",
+              "status": "complete",
+              "packPath": "fr/occitanie/montpellier/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.6,
+                "minLng": 3.86,
+                "maxLat": 43.62,
+                "maxLng": 3.89
+              }
+            },
+            {
+              "id": "carcassonne",
+              "name": "Carcassonne",
+              "status": "complete",
+              "packPath": "fr/occitanie/carcassonne/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.2,
+                "minLng": 2.35,
+                "maxLat": 43.22,
+                "maxLng": 2.37
+              }
+            }
+          ]
+        },
+        {
+          "id": "nouvelle-aquitaine",
+          "stateCode": "NAQ",
+          "name": "Nouvelle-Aquitaine",
+          "cities": [
+            {
+              "id": "bordeaux",
+              "name": "Bordeaux",
+              "status": "complete",
+              "packPath": "fr/nouvelle-aquitaine/bordeaux/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 44.83,
+                "minLng": -0.59,
+                "maxLat": 44.85,
+                "maxLng": -0.56
+              }
+            },
+            {
+              "id": "biarritz",
+              "name": "Biarritz",
+              "status": "complete",
+              "packPath": "fr/nouvelle-aquitaine/biarritz/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 43.47,
+                "minLng": -1.57,
+                "maxLat": 43.49,
+                "maxLng": -1.54
+              }
+            }
+          ]
+        },
+        {
+          "id": "pays-de-la-loire",
+          "stateCode": "PDL",
+          "name": "Pays de la Loire",
+          "cities": [
+            {
+              "id": "nantes",
+              "name": "Nantes",
+              "status": "complete",
+              "packPath": "fr/pays-de-la-loire/nantes/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 47.2,
+                "minLng": -1.58,
+                "maxLat": 47.22,
+                "maxLng": -1.54
+              }
+            }
+          ]
+        },
+        {
+          "id": "bretagne",
+          "stateCode": "BRE",
+          "name": "Bretagne",
+          "cities": [
+            {
+              "id": "rennes",
+              "name": "Rennes",
+              "status": "complete",
+              "packPath": "fr/bretagne/rennes/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.1,
+                "minLng": -1.69,
+                "maxLat": 48.12,
+                "maxLng": -1.66
+              }
+            },
+            {
+              "id": "saint-malo",
+              "name": "Saint-Malo",
+              "status": "complete",
+              "packPath": "fr/bretagne/saint-malo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.64,
+                "minLng": -2.03,
+                "maxLat": 48.66,
+                "maxLng": -2.01
+              }
+            }
+          ]
+        },
+        {
+          "id": "normandie",
+          "stateCode": "NOR",
+          "name": "Normandie",
+          "cities": [
+            {
+              "id": "rouen",
+              "name": "Rouen",
+              "status": "complete",
+              "packPath": "fr/normandie/rouen/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 49.43,
+                "minLng": 1.08,
+                "maxLat": 49.45,
+                "maxLng": 1.1
+              }
+            },
+            {
+              "id": "mont-saint-michel",
+              "name": "Mont-Saint-Michel",
+              "status": "complete",
+              "packPath": "fr/normandie/mont-saint-michel/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.63,
+                "minLng": -1.52,
+                "maxLat": 48.64,
+                "maxLng": -1.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "grand-est",
+          "stateCode": "GES",
+          "name": "Grand Est",
+          "cities": [
+            {
+              "id": "strasbourg",
+              "name": "Strasbourg",
+              "status": "complete",
+              "packPath": "fr/grand-est/strasbourg/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 48.57,
+                "minLng": 7.73,
+                "maxLat": 48.59,
+                "maxLng": 7.76
+              }
+            },
+            {
+              "id": "reims",
+              "name": "Reims",
+              "status": "complete",
+              "packPath": "fr/grand-est/reims/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 49.24,
+                "minLng": 4.02,
+                "maxLat": 49.26,
+                "maxLng": 4.04
+              }
+            }
+          ]
+        },
+        {
+          "id": "hauts-de-france",
+          "stateCode": "HDF",
+          "name": "Hauts-de-France",
+          "cities": [
+            {
+              "id": "lille",
+              "name": "Lille",
+              "status": "complete",
+              "packPath": "fr/hauts-de-france/lille/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 50.62,
+                "minLng": 3.05,
+                "maxLat": 50.64,
+                "maxLng": 3.08
+              }
+            }
+          ]
+        },
+        {
+          "id": "bourgogne-franche-comte",
+          "stateCode": "BFC",
+          "name": "Bourgogne-Franche-Comt\u00e9",
+          "cities": [
+            {
+              "id": "dijon",
+              "name": "Dijon",
+              "status": "complete",
+              "packPath": "fr/bourgogne-franche-comte/dijon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 47.31,
+                "minLng": 5.03,
+                "maxLat": 47.33,
+                "maxLng": 5.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "centre-val-de-loire",
+          "stateCode": "CVL",
+          "name": "Centre-Val de Loire",
+          "cities": [
+            {
+              "id": "tours",
+              "name": "Tours",
+              "status": "complete",
+              "packPath": "fr/centre-val-de-loire/tours/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 47.38,
+                "minLng": 0.68,
+                "maxLat": 47.4,
+                "maxLng": 0.7
+              }
+            },
+            {
+              "id": "orleans",
+              "name": "Orl\u00e9ans",
+              "status": "complete",
+              "packPath": "fr/centre-val-de-loire/orleans/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 47.89,
+                "minLng": 1.9,
+                "maxLat": 47.91,
+                "maxLng": 1.92
+              }
+            }
+          ]
+        },
+        {
+          "id": "corse",
+          "stateCode": "COR",
+          "name": "Corse",
+          "cities": [
+            {
+              "id": "ajaccio",
+              "name": "Ajaccio",
+              "status": "complete",
+              "packPath": "fr/corse/ajaccio/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T17:40:00.000Z",
+              "bbox": {
+                "minLat": 41.91,
+                "minLng": 8.72,
+                "maxLat": 41.93,
+                "maxLng": 8.74
               }
             }
           ]
