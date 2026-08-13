@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "au/queensland/brisbane",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "QLD",
+  "stateName": "Queensland",
+  "cityName": "Brisbane",
+  "bbox": {
+    "minLat": -27.48,
+    "minLng": 153.01,
+    "maxLat": -27.45,
+    "maxLng": 153.04
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "south-bank-brisbane",
+      "name": "South Bank Parklands",
+      "lat": -27.4765,
+      "lng": 153.0225,
+      "radiusM": 250,
+      "address": "South Bank",
+      "howTo": "Visit South Bank Parklands.",
+      "badge": "badges/south-bank-brisbane.png"
+    },
+    {
+      "id": "story-bridge",
+      "name": "Story Bridge",
+      "lat": -27.4675,
+      "lng": 153.0355,
+      "radiusM": 150,
+      "address": "Story Bridge",
+      "howTo": "Visit Story Bridge.",
+      "badge": "badges/story-bridge.png"
+    },
+    {
+      "id": "lone-pine-koala",
+      "name": "Lone Pine Koala Sanctuary",
+      "lat": -27.5335,
+      "lng": 152.9695,
+      "radiusM": 200,
+      "address": "Lone Pine",
+      "howTo": "Visit Lone Pine Koala Sanctuary.",
+      "badge": "badges/lone-pine-koala.png"
+    },
+    {
+      "id": "city-botanic-gardens-brisbane",
+      "name": "City Botanic Gardens",
+      "lat": -27.4755,
+      "lng": 153.0295,
+      "radiusM": 200,
+      "address": "City Botanic Gardens",
+      "howTo": "Visit City Botanic Gardens.",
+      "badge": "badges/city-botanic-gardens-brisbane.png"
+    }
+  ]
+}

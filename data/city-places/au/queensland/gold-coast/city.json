@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/queensland/gold-coast",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "QLD",
+  "stateName": "Queensland",
+  "cityName": "Gold Coast",
+  "bbox": {
+    "minLat": -28.02,
+    "minLng": 153.4,
+    "maxLat": -27.98,
+    "maxLng": 153.44
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "surfers-paradise",
+      "name": "Surfers Paradise Beach",
+      "lat": -28.002,
+      "lng": 153.4295,
+      "radiusM": 250,
+      "address": "Surfers Paradise",
+      "howTo": "Visit Surfers Paradise Beach.",
+      "badge": "badges/surfers-paradise.png"
+    },
+    {
+      "id": "burleigh-heads",
+      "name": "Burleigh Heads",
+      "lat": -28.0905,
+      "lng": 153.4555,
+      "radiusM": 200,
+      "address": "Burleigh Head National Park",
+      "howTo": "Visit Burleigh Heads.",
+      "badge": "badges/burleigh-heads.png"
+    },
+    {
+      "id": "currumbin-wildlife",
+      "name": "Currumbin Wildlife Sanctuary",
+      "lat": -28.1365,
+      "lng": 153.4865,
+      "radiusM": 200,
+      "address": "Currumbin Wildlife Sanctuary",
+      "howTo": "Visit Currumbin Wildlife Sanctuary.",
+      "badge": "badges/currumbin-wildlife.png"
+    }
+  ]
+}

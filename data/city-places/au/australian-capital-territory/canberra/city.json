@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "au/australian-capital-territory/canberra",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "ACT",
+  "stateName": "Australian Capital Territory",
+  "cityName": "Canberra",
+  "bbox": {
+    "minLat": -35.31,
+    "minLng": 149.11,
+    "maxLat": -35.28,
+    "maxLng": 149.14
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parliament-house-canberra",
+      "name": "Parliament House",
+      "lat": -35.308,
+      "lng": 149.1245,
+      "radiusM": 200,
+      "address": "Parliament House",
+      "howTo": "Visit Parliament House.",
+      "badge": "badges/parliament-house-canberra.png"
+    },
+    {
+      "id": "australian-war-memorial",
+      "name": "Australian War Memorial",
+      "lat": -35.2805,
+      "lng": 149.149,
+      "radiusM": 150,
+      "address": "Australian War Memorial",
+      "howTo": "Visit Australian War Memorial.",
+      "badge": "badges/australian-war-memorial.png"
+    },
+    {
+      "id": "national-gallery-australia",
+      "name": "National Gallery of Australia",
+      "lat": -35.3005,
+      "lng": 149.1365,
+      "radiusM": 120,
+      "address": "National Gallery",
+      "howTo": "Visit National Gallery of Australia.",
+      "badge": "badges/national-gallery-australia.png"
+    },
+    {
+      "id": "lake-burley-griffin",
+      "name": "Lake Burley Griffin",
+      "lat": -35.2985,
+      "lng": 149.1305,
+      "radiusM": 300,
+      "address": "Lake Burley Griffin",
+      "howTo": "Visit Lake Burley Griffin.",
+      "badge": "badges/lake-burley-griffin.png"
+    }
+  ]
+}

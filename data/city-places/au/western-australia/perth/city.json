@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "au/western-australia/perth",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "WA",
+  "stateName": "Western Australia",
+  "cityName": "Perth",
+  "bbox": {
+    "minLat": -31.98,
+    "minLng": 115.84,
+    "maxLat": -31.94,
+    "maxLng": 115.88
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kings-park-perth",
+      "name": "Kings Park",
+      "lat": -31.9595,
+      "lng": 115.8425,
+      "radiusM": 300,
+      "address": "Kings Park and Botanic Garden",
+      "howTo": "Visit Kings Park.",
+      "badge": "badges/kings-park-perth.png"
+    },
+    {
+      "id": "elizabeth-quay",
+      "name": "Elizabeth Quay",
+      "lat": -31.9575,
+      "lng": 115.8575,
+      "radiusM": 150,
+      "address": "Elizabeth Quay",
+      "howTo": "Visit Elizabeth Quay.",
+      "badge": "badges/elizabeth-quay.png"
+    },
+    {
+      "id": "cottesloe-beach",
+      "name": "Cottesloe Beach",
+      "lat": -31.9945,
+      "lng": 115.7515,
+      "radiusM": 200,
+      "address": "Cottesloe Beach",
+      "howTo": "Visit Cottesloe Beach.",
+      "badge": "badges/cottesloe-beach.png"
+    },
+    {
+      "id": "perth-mint",
+      "name": "Perth Mint",
+      "lat": -31.9565,
+      "lng": 115.8635,
+      "radiusM": 80,
+      "address": "The Perth Mint",
+      "howTo": "Visit Perth Mint.",
+      "badge": "badges/perth-mint.png"
+    }
+  ]
+}

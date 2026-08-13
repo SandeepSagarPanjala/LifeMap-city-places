@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/new-south-wales/blue-mountains",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "NSW",
+  "stateName": "New South Wales",
+  "cityName": "Blue Mountains",
+  "bbox": {
+    "minLat": -33.75,
+    "minLng": 150.28,
+    "maxLat": -33.7,
+    "maxLng": 150.35
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "three-sisters",
+      "name": "Three Sisters",
+      "lat": -33.739,
+      "lng": 150.3125,
+      "radiusM": 200,
+      "address": "Echo Point / Three Sisters",
+      "howTo": "Visit Three Sisters.",
+      "badge": "badges/three-sisters.png"
+    },
+    {
+      "id": "scenic-world",
+      "name": "Scenic World",
+      "lat": -33.7285,
+      "lng": 150.3015,
+      "radiusM": 150,
+      "address": "Scenic World Katoomba",
+      "howTo": "Visit Scenic World.",
+      "badge": "badges/scenic-world.png"
+    },
+    {
+      "id": "wentworth-falls",
+      "name": "Wentworth Falls",
+      "lat": -33.7275,
+      "lng": 150.3725,
+      "radiusM": 200,
+      "address": "Wentworth Falls",
+      "howTo": "Visit Wentworth Falls.",
+      "badge": "badges/wentworth-falls.png"
+    }
+  ]
+}

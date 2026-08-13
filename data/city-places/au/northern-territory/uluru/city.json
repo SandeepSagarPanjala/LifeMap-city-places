@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/northern-territory/uluru",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "NT",
+  "stateName": "Northern Territory",
+  "cityName": "Uluru",
+  "bbox": {
+    "minLat": -25.36,
+    "minLng": 131.0,
+    "maxLat": -25.32,
+    "maxLng": 131.06
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uluru-rock",
+      "name": "Uluru",
+      "lat": -25.3444,
+      "lng": 131.0369,
+      "radiusM": 400,
+      "address": "Uluru / Ayers Rock",
+      "howTo": "Visit Uluru.",
+      "badge": "badges/uluru-rock.png"
+    },
+    {
+      "id": "kata-tjuta",
+      "name": "Kata Tjuta",
+      "lat": -25.3005,
+      "lng": 130.7355,
+      "radiusM": 400,
+      "address": "Kata Tjuta / The Olgas",
+      "howTo": "Visit Kata Tjuta.",
+      "badge": "badges/kata-tjuta.png"
+    },
+    {
+      "id": "uluru-cultural-centre",
+      "name": "Uluru Cultural Centre",
+      "lat": -25.3755,
+      "lng": 131.0295,
+      "radiusM": 150,
+      "address": "Cultural Centre",
+      "howTo": "Visit Uluru Cultural Centre.",
+      "badge": "badges/uluru-cultural-centre.png"
+    }
+  ]
+}

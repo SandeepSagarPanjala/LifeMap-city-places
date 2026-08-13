@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/northern-territory/darwin",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "NT",
+  "stateName": "Northern Territory",
+  "cityName": "Darwin",
+  "bbox": {
+    "minLat": -12.47,
+    "minLng": 130.83,
+    "maxLat": -12.45,
+    "maxLng": 130.85
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mindil-beach",
+      "name": "Mindil Beach",
+      "lat": -12.4455,
+      "lng": 130.8325,
+      "radiusM": 200,
+      "address": "Mindil Beach",
+      "howTo": "Visit Mindil Beach.",
+      "badge": "badges/mindil-beach.png"
+    },
+    {
+      "id": "crocosaurus-cove",
+      "name": "Crocosaurus Cove",
+      "lat": -12.4625,
+      "lng": 130.8415,
+      "radiusM": 80,
+      "address": "Crocosaurus Cove",
+      "howTo": "Visit Crocosaurus Cove.",
+      "badge": "badges/crocosaurus-cove.png"
+    },
+    {
+      "id": "george-brown-botanic",
+      "name": "George Brown Darwin Botanic Gardens",
+      "lat": -12.4425,
+      "lng": 130.8355,
+      "radiusM": 200,
+      "address": "Botanic Gardens",
+      "howTo": "Visit George Brown Darwin Botanic Gardens.",
+      "badge": "badges/george-brown-botanic.png"
+    }
+  ]
+}

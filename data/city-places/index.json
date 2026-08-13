@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T21:47:04.000Z",
-  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany complete. Next: Australia (au) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T21:59:16.000Z",
+  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany/Australia complete. Next: Canada (ca) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -7068,6 +7068,265 @@
                 "minLng": 13.03,
                 "maxLat": 52.41,
                 "maxLng": 13.07
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "au",
+      "countryCode": "AU",
+      "name": "Australia",
+      "states": [
+        {
+          "id": "new-south-wales",
+          "stateCode": "NSW",
+          "name": "New South Wales",
+          "cities": [
+            {
+              "id": "sydney",
+              "name": "Sydney",
+              "status": "complete",
+              "packPath": "au/new-south-wales/sydney/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -33.9,
+                "minLng": 151.17,
+                "maxLat": -33.84,
+                "maxLng": 151.25
+              }
+            },
+            {
+              "id": "blue-mountains",
+              "name": "Blue Mountains",
+              "status": "complete",
+              "packPath": "au/new-south-wales/blue-mountains/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -33.75,
+                "minLng": 150.28,
+                "maxLat": -33.7,
+                "maxLng": 150.35
+              }
+            },
+            {
+              "id": "byron-bay",
+              "name": "Byron Bay",
+              "status": "complete",
+              "packPath": "au/new-south-wales/byron-bay/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -28.65,
+                "minLng": 153.6,
+                "maxLat": -28.63,
+                "maxLng": 153.64
+              }
+            }
+          ]
+        },
+        {
+          "id": "victoria",
+          "stateCode": "VIC",
+          "name": "Victoria",
+          "cities": [
+            {
+              "id": "melbourne",
+              "name": "Melbourne",
+              "status": "complete",
+              "packPath": "au/victoria/melbourne/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -37.84,
+                "minLng": 144.94,
+                "maxLat": -37.8,
+                "maxLng": 144.99
+              }
+            },
+            {
+              "id": "great-ocean-road",
+              "name": "Great Ocean Road",
+              "status": "complete",
+              "packPath": "au/victoria/great-ocean-road/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -38.68,
+                "minLng": 143.05,
+                "maxLat": -38.65,
+                "maxLng": 143.12
+              }
+            }
+          ]
+        },
+        {
+          "id": "queensland",
+          "stateCode": "QLD",
+          "name": "Queensland",
+          "cities": [
+            {
+              "id": "brisbane",
+              "name": "Brisbane",
+              "status": "complete",
+              "packPath": "au/queensland/brisbane/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -27.48,
+                "minLng": 153.01,
+                "maxLat": -27.45,
+                "maxLng": 153.04
+              }
+            },
+            {
+              "id": "gold-coast",
+              "name": "Gold Coast",
+              "status": "complete",
+              "packPath": "au/queensland/gold-coast/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -28.02,
+                "minLng": 153.4,
+                "maxLat": -27.98,
+                "maxLng": 153.44
+              }
+            },
+            {
+              "id": "cairns",
+              "name": "Cairns",
+              "status": "complete",
+              "packPath": "au/queensland/cairns/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -16.93,
+                "minLng": 145.76,
+                "maxLat": -16.9,
+                "maxLng": 145.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "western-australia",
+          "stateCode": "WA",
+          "name": "Western Australia",
+          "cities": [
+            {
+              "id": "perth",
+              "name": "Perth",
+              "status": "complete",
+              "packPath": "au/western-australia/perth/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -31.98,
+                "minLng": 115.84,
+                "maxLat": -31.94,
+                "maxLng": 115.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "south-australia",
+          "stateCode": "SA",
+          "name": "South Australia",
+          "cities": [
+            {
+              "id": "adelaide",
+              "name": "Adelaide",
+              "status": "complete",
+              "packPath": "au/south-australia/adelaide/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -34.94,
+                "minLng": 138.59,
+                "maxLat": -34.91,
+                "maxLng": 138.61
+              }
+            }
+          ]
+        },
+        {
+          "id": "tasmania",
+          "stateCode": "TAS",
+          "name": "Tasmania",
+          "cities": [
+            {
+              "id": "hobart",
+              "name": "Hobart",
+              "status": "complete",
+              "packPath": "au/tasmania/hobart/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -42.9,
+                "minLng": 147.32,
+                "maxLat": -42.87,
+                "maxLng": 147.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern-territory",
+          "stateCode": "NT",
+          "name": "Northern Territory",
+          "cities": [
+            {
+              "id": "uluru",
+              "name": "Uluru",
+              "status": "complete",
+              "packPath": "au/northern-territory/uluru/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -25.36,
+                "minLng": 131.0,
+                "maxLat": -25.32,
+                "maxLng": 131.06
+              }
+            },
+            {
+              "id": "darwin",
+              "name": "Darwin",
+              "status": "complete",
+              "packPath": "au/northern-territory/darwin/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -12.47,
+                "minLng": 130.83,
+                "maxLat": -12.45,
+                "maxLng": 130.85
+              }
+            }
+          ]
+        },
+        {
+          "id": "australian-capital-territory",
+          "stateCode": "ACT",
+          "name": "Australian Capital Territory",
+          "cities": [
+            {
+              "id": "canberra",
+              "name": "Canberra",
+              "status": "complete",
+              "packPath": "au/australian-capital-territory/canberra/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T21:50:00.000Z",
+              "bbox": {
+                "minLat": -35.31,
+                "minLng": 149.11,
+                "maxLat": -35.28,
+                "maxLng": 149.14
               }
             }
           ]

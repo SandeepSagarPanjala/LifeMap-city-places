@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/queensland/cairns",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "QLD",
+  "stateName": "Queensland",
+  "cityName": "Cairns",
+  "bbox": {
+    "minLat": -16.93,
+    "minLng": 145.76,
+    "maxLat": -16.9,
+    "maxLng": 145.78
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "esplanade-cairns",
+      "name": "Cairns Esplanade",
+      "lat": -16.9205,
+      "lng": 145.7785,
+      "radiusM": 200,
+      "address": "The Esplanade",
+      "howTo": "Visit Cairns Esplanade.",
+      "badge": "badges/esplanade-cairns.png"
+    },
+    {
+      "id": "reef-fleet-terminal",
+      "name": "Reef Fleet Terminal",
+      "lat": -16.9225,
+      "lng": 145.7805,
+      "radiusM": 100,
+      "address": "Great Barrier Reef departure",
+      "howTo": "Visit Reef Fleet Terminal.",
+      "badge": "badges/reef-fleet-terminal.png"
+    },
+    {
+      "id": "botanic-gardens-cairns",
+      "name": "Flecker Botanic Gardens",
+      "lat": -16.9005,
+      "lng": 145.7485,
+      "radiusM": 200,
+      "address": "Cairns Botanic Gardens",
+      "howTo": "Visit Flecker Botanic Gardens.",
+      "badge": "badges/botanic-gardens-cairns.png"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "au/victoria/melbourne",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "VIC",
+  "stateName": "Victoria",
+  "cityName": "Melbourne",
+  "bbox": {
+    "minLat": -37.84,
+    "minLng": 144.94,
+    "maxLat": -37.8,
+    "maxLng": 144.99
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "federation-square",
+      "name": "Federation Square",
+      "lat": -37.818,
+      "lng": 144.969,
+      "radiusM": 120,
+      "address": "Fed Square",
+      "howTo": "Visit Federation Square.",
+      "badge": "badges/federation-square.png"
+    },
+    {
+      "id": "royal-botanic-gardens-melbourne",
+      "name": "Royal Botanic Gardens Victoria",
+      "lat": -37.83,
+      "lng": 144.98,
+      "radiusM": 250,
+      "address": "RBG Melbourne",
+      "howTo": "Visit Royal Botanic Gardens Victoria.",
+      "badge": "badges/royal-botanic-gardens-melbourne.png"
+    },
+    {
+      "id": "flinders-street-station",
+      "name": "Flinders Street Station",
+      "lat": -37.8183,
+      "lng": 144.9671,
+      "radiusM": 100,
+      "address": "Flinders Street Station",
+      "howTo": "Visit Flinders Street Station.",
+      "badge": "badges/flinders-street-station.png"
+    },
+    {
+      "id": "st-kilda-beach",
+      "name": "St Kilda Beach",
+      "lat": -37.8675,
+      "lng": 144.974,
+      "radiusM": 200,
+      "address": "St Kilda Beach",
+      "howTo": "Visit St Kilda Beach.",
+      "badge": "badges/st-kilda-beach.png"
+    },
+    {
+      "id": "queen-victoria-market",
+      "name": "Queen Victoria Market",
+      "lat": -37.8075,
+      "lng": 144.9565,
+      "radiusM": 150,
+      "address": "Queen Victoria Market",
+      "howTo": "Visit Queen Victoria Market.",
+      "badge": "badges/queen-victoria-market.png"
+    },
+    {
+      "id": "eureka-skydeck",
+      "name": "Eureka Skydeck",
+      "lat": -37.8215,
+      "lng": 144.9645,
+      "radiusM": 80,
+      "address": "Eureka Tower",
+      "howTo": "Visit Eureka Skydeck.",
+      "badge": "badges/eureka-skydeck.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/victoria/great-ocean-road",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "VIC",
+  "stateName": "Victoria",
+  "cityName": "Great Ocean Road",
+  "bbox": {
+    "minLat": -38.68,
+    "minLng": 143.05,
+    "maxLat": -38.65,
+    "maxLng": 143.12
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "twelve-apostles",
+      "name": "Twelve Apostles",
+      "lat": -38.6655,
+      "lng": 143.1045,
+      "radiusM": 250,
+      "address": "Twelve Apostles lookout",
+      "howTo": "Visit Twelve Apostles.",
+      "badge": "badges/twelve-apostles.png"
+    },
+    {
+      "id": "loch-ard-gorge",
+      "name": "Loch Ard Gorge",
+      "lat": -38.6475,
+      "lng": 143.0715,
+      "radiusM": 150,
+      "address": "Loch Ard Gorge",
+      "howTo": "Visit Loch Ard Gorge.",
+      "badge": "badges/loch-ard-gorge.png"
+    },
+    {
+      "id": "london-bridge-port-campbell",
+      "name": "London Bridge",
+      "lat": -38.6225,
+      "lng": 142.9905,
+      "radiusM": 150,
+      "address": "London Bridge Port Campbell",
+      "howTo": "Visit London Bridge.",
+      "badge": "badges/london-bridge-port-campbell.png"
+    }
+  ]
+}

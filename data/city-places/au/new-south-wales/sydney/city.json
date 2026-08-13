@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "au/new-south-wales/sydney",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "NSW",
+  "stateName": "New South Wales",
+  "cityName": "Sydney",
+  "bbox": {
+    "minLat": -33.9,
+    "minLng": 151.17,
+    "maxLat": -33.84,
+    "maxLng": 151.25
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sydney-opera-house",
+      "name": "Sydney Opera House",
+      "lat": -33.8568,
+      "lng": 151.2153,
+      "radiusM": 150,
+      "address": "Bennelong Point",
+      "howTo": "Visit Sydney Opera House.",
+      "badge": "badges/sydney-opera-house.png"
+    },
+    {
+      "id": "sydney-harbour-bridge",
+      "name": "Sydney Harbour Bridge",
+      "lat": -33.8523,
+      "lng": 151.2108,
+      "radiusM": 200,
+      "address": "Harbour Bridge",
+      "howTo": "Visit Sydney Harbour Bridge.",
+      "badge": "badges/sydney-harbour-bridge.png"
+    },
+    {
+      "id": "bondi-beach",
+      "name": "Bondi Beach",
+      "lat": -33.8915,
+      "lng": 151.2767,
+      "radiusM": 250,
+      "address": "Bondi Beach",
+      "howTo": "Visit Bondi Beach.",
+      "badge": "badges/bondi-beach.png"
+    },
+    {
+      "id": "royal-botanic-garden-sydney",
+      "name": "Royal Botanic Garden",
+      "lat": -33.8642,
+      "lng": 151.2166,
+      "radiusM": 250,
+      "address": "Royal Botanic Garden Sydney",
+      "howTo": "Visit Royal Botanic Garden.",
+      "badge": "badges/royal-botanic-garden-sydney.png"
+    },
+    {
+      "id": "the-rocks",
+      "name": "The Rocks",
+      "lat": -33.8595,
+      "lng": 151.2085,
+      "radiusM": 150,
+      "address": "The Rocks",
+      "howTo": "Visit The Rocks.",
+      "badge": "badges/the-rocks.png"
+    },
+    {
+      "id": "taronga-zoo",
+      "name": "Taronga Zoo",
+      "lat": -33.8435,
+      "lng": 151.241,
+      "radiusM": 200,
+      "address": "Taronga Zoo",
+      "howTo": "Visit Taronga Zoo.",
+      "badge": "badges/taronga-zoo.png"
+    },
+    {
+      "id": "manly-beach",
+      "name": "Manly Beach",
+      "lat": -33.7969,
+      "lng": 151.287,
+      "radiusM": 250,
+      "address": "Manly Beach",
+      "howTo": "Visit Manly Beach.",
+      "badge": "badges/manly-beach.png"
+    },
+    {
+      "id": "queen-victoria-building",
+      "name": "Queen Victoria Building",
+      "lat": -33.8715,
+      "lng": 151.2065,
+      "radiusM": 100,
+      "address": "QVB",
+      "howTo": "Visit Queen Victoria Building.",
+      "badge": "badges/queen-victoria-building.png"
+    }
+  ]
+}

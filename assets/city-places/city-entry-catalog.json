@@ -1,9 +1,135 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T21:47:04.890Z",
+  "generatedAt": "2026-08-13T21:59:16.504Z",
   "cellDeg": 0.5,
-  "cityCount": 419,
+  "cityCount": 433,
   "cities": {
+    "au/australian-capital-territory/canberra": {
+      "name": "Canberra",
+      "bbox": {
+        "minLat": -35.31,
+        "minLng": 149.11,
+        "maxLat": -35.28,
+        "maxLng": 149.14
+      }
+    },
+    "au/new-south-wales/blue-mountains": {
+      "name": "Blue Mountains",
+      "bbox": {
+        "minLat": -33.75,
+        "minLng": 150.28,
+        "maxLat": -33.7,
+        "maxLng": 150.35
+      }
+    },
+    "au/new-south-wales/byron-bay": {
+      "name": "Byron Bay",
+      "bbox": {
+        "minLat": -28.65,
+        "minLng": 153.6,
+        "maxLat": -28.63,
+        "maxLng": 153.64
+      }
+    },
+    "au/new-south-wales/sydney": {
+      "name": "Sydney",
+      "bbox": {
+        "minLat": -33.9,
+        "minLng": 151.17,
+        "maxLat": -33.84,
+        "maxLng": 151.25
+      }
+    },
+    "au/northern-territory/darwin": {
+      "name": "Darwin",
+      "bbox": {
+        "minLat": -12.47,
+        "minLng": 130.83,
+        "maxLat": -12.45,
+        "maxLng": 130.85
+      }
+    },
+    "au/northern-territory/uluru": {
+      "name": "Uluru",
+      "bbox": {
+        "minLat": -25.36,
+        "minLng": 131,
+        "maxLat": -25.32,
+        "maxLng": 131.06
+      }
+    },
+    "au/queensland/brisbane": {
+      "name": "Brisbane",
+      "bbox": {
+        "minLat": -27.48,
+        "minLng": 153.01,
+        "maxLat": -27.45,
+        "maxLng": 153.04
+      }
+    },
+    "au/queensland/cairns": {
+      "name": "Cairns",
+      "bbox": {
+        "minLat": -16.93,
+        "minLng": 145.76,
+        "maxLat": -16.9,
+        "maxLng": 145.78
+      }
+    },
+    "au/queensland/gold-coast": {
+      "name": "Gold Coast",
+      "bbox": {
+        "minLat": -28.02,
+        "minLng": 153.4,
+        "maxLat": -27.98,
+        "maxLng": 153.44
+      }
+    },
+    "au/south-australia/adelaide": {
+      "name": "Adelaide",
+      "bbox": {
+        "minLat": -34.94,
+        "minLng": 138.59,
+        "maxLat": -34.91,
+        "maxLng": 138.61
+      }
+    },
+    "au/tasmania/hobart": {
+      "name": "Hobart",
+      "bbox": {
+        "minLat": -42.9,
+        "minLng": 147.32,
+        "maxLat": -42.87,
+        "maxLng": 147.35
+      }
+    },
+    "au/victoria/great-ocean-road": {
+      "name": "Great Ocean Road",
+      "bbox": {
+        "minLat": -38.68,
+        "minLng": 143.05,
+        "maxLat": -38.65,
+        "maxLng": 143.12
+      }
+    },
+    "au/victoria/melbourne": {
+      "name": "Melbourne",
+      "bbox": {
+        "minLat": -37.84,
+        "minLng": 144.94,
+        "maxLat": -37.8,
+        "maxLng": 144.99
+      }
+    },
+    "au/western-australia/perth": {
+      "name": "Perth",
+      "bbox": {
+        "minLat": -31.98,
+        "minLng": 115.84,
+        "maxLat": -31.94,
+        "maxLng": 115.88
+      }
+    },
     "de/baden-wuerttemberg/freiburg": {
       "name": "Freiburg",
       "bbox": {
@@ -5468,6 +5594,51 @@
     ],
     "104,26": [
       "de/brandenburg/potsdam"
+    ],
+    "-68,302": [
+      "au/new-south-wales/sydney"
+    ],
+    "-68,300": [
+      "au/new-south-wales/blue-mountains"
+    ],
+    "-58,307": [
+      "au/new-south-wales/byron-bay"
+    ],
+    "-76,289": [
+      "au/victoria/melbourne"
+    ],
+    "-78,286": [
+      "au/victoria/great-ocean-road"
+    ],
+    "-55,306": [
+      "au/queensland/brisbane"
+    ],
+    "-57,306": [
+      "au/queensland/gold-coast"
+    ],
+    "-56,306": [
+      "au/queensland/gold-coast"
+    ],
+    "-34,291": [
+      "au/queensland/cairns"
+    ],
+    "-64,231": [
+      "au/western-australia/perth"
+    ],
+    "-70,277": [
+      "au/south-australia/adelaide"
+    ],
+    "-86,294": [
+      "au/tasmania/hobart"
+    ],
+    "-51,262": [
+      "au/northern-territory/uluru"
+    ],
+    "-25,261": [
+      "au/northern-territory/darwin"
+    ],
+    "-71,298": [
+      "au/australian-capital-territory/canberra"
     ]
   }
 }

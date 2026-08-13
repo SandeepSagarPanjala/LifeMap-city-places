@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "au/new-south-wales/byron-bay",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "NSW",
+  "stateName": "New South Wales",
+  "cityName": "Byron Bay",
+  "bbox": {
+    "minLat": -28.65,
+    "minLng": 153.6,
+    "maxLat": -28.63,
+    "maxLng": 153.64
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cape-byron-lighthouse",
+      "name": "Cape Byron Lighthouse",
+      "lat": -28.6385,
+      "lng": 153.6385,
+      "radiusM": 100,
+      "address": "Cape Byron Lightstation",
+      "howTo": "Visit Cape Byron Lighthouse.",
+      "badge": "badges/cape-byron-lighthouse.png"
+    },
+    {
+      "id": "main-beach-byron",
+      "name": "Main Beach",
+      "lat": -28.6425,
+      "lng": 153.6155,
+      "radiusM": 200,
+      "address": "Main Beach Byron Bay",
+      "howTo": "Visit Main Beach.",
+      "badge": "badges/main-beach-byron.png"
+    },
+    {
+      "id": "wategos-beach",
+      "name": "Wategos Beach",
+      "lat": -28.6355,
+      "lng": 153.6345,
+      "radiusM": 150,
+      "address": "Wategos Beach",
+      "howTo": "Visit Wategos Beach.",
+      "badge": "badges/wategos-beach.png"
+    }
+  ]
+}

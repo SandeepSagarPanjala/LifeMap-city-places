@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "au/tasmania/hobart",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "TAS",
+  "stateName": "Tasmania",
+  "cityName": "Hobart",
+  "bbox": {
+    "minLat": -42.9,
+    "minLng": 147.32,
+    "maxLat": -42.87,
+    "maxLng": 147.35
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "salamanca-place",
+      "name": "Salamanca Place",
+      "lat": -42.8865,
+      "lng": 147.3315,
+      "radiusM": 150,
+      "address": "Salamanca Place",
+      "howTo": "Visit Salamanca Place.",
+      "badge": "badges/salamanca-place.png"
+    },
+    {
+      "id": "mount-wellington",
+      "name": "kunanyi / Mount Wellington",
+      "lat": -42.8965,
+      "lng": 147.2365,
+      "radiusM": 250,
+      "address": "Mount Wellington summit area",
+      "howTo": "Visit kunanyi / Mount Wellington.",
+      "badge": "badges/mount-wellington.png"
+    },
+    {
+      "id": "mona-hobart",
+      "name": "MONA",
+      "lat": -42.8425,
+      "lng": 147.2605,
+      "radiusM": 150,
+      "address": "Museum of Old and New Art",
+      "howTo": "Visit MONA.",
+      "badge": "badges/mona-hobart.png"
+    },
+    {
+      "id": "battery-point",
+      "name": "Battery Point",
+      "lat": -42.8895,
+      "lng": 147.3335,
+      "radiusM": 150,
+      "address": "Battery Point",
+      "howTo": "Visit Battery Point.",
+      "badge": "badges/battery-point.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "au/south-australia/adelaide",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "stateCode": "SA",
+  "stateName": "South Australia",
+  "cityName": "Adelaide",
+  "bbox": {
+    "minLat": -34.94,
+    "minLng": 138.59,
+    "maxLat": -34.91,
+    "maxLng": 138.61
+  },
+  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "adelaide-botanic-garden",
+      "name": "Adelaide Botanic Garden",
+      "lat": -34.9185,
+      "lng": 138.6105,
+      "radiusM": 200,
+      "address": "Botanic Garden",
+      "howTo": "Visit Adelaide Botanic Garden.",
+      "badge": "badges/adelaide-botanic-garden.png"
+    },
+    {
+      "id": "adelaide-oval",
+      "name": "Adelaide Oval",
+      "lat": -34.9155,
+      "lng": 138.5965,
+      "radiusM": 150,
+      "address": "Adelaide Oval",
+      "howTo": "Visit Adelaide Oval.",
+      "badge": "badges/adelaide-oval.png"
+    },
+    {
+      "id": "central-market-adelaide",
+      "name": "Adelaide Central Market",
+      "lat": -34.9295,
+      "lng": 138.5975,
+      "radiusM": 100,
+      "address": "Central Market",
+      "howTo": "Visit Adelaide Central Market.",
+      "badge": "badges/central-market-adelaide.png"
+    },
+    {
+      "id": "glenelg-beach",
+      "name": "Glenelg Beach",
+      "lat": -34.9805,
+      "lng": 138.5125,
+      "radiusM": 200,
+      "address": "Glenelg Beach",
+      "howTo": "Visit Glenelg Beach.",
+      "badge": "badges/glenelg-beach.png"
+    }
+  ]
+}
