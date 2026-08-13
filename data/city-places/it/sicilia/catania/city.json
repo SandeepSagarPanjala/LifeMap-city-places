@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/sicilia/catania",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "SIC",
+  "stateName": "Sicilia",
+  "cityName": "Catania",
+  "bbox": {
+    "minLat": 37.5,
+    "minLng": 15.08,
+    "maxLat": 37.51,
+    "maxLng": 15.09
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "catania-cathedral",
+      "name": "Catania Cathedral",
+      "lat": 37.5025,
+      "lng": 15.0875,
+      "radiusM": 100,
+      "address": "Cattedrale di Sant'Agata",
+      "howTo": "Visit Catania Cathedral.",
+      "badge": "badges/catania-cathedral.png"
+    },
+    {
+      "id": "teatro-romano-catania",
+      "name": "Roman Theatre of Catania",
+      "lat": 37.5035,
+      "lng": 15.0835,
+      "radiusM": 100,
+      "address": "Teatro Romano",
+      "howTo": "Visit Roman Theatre of Catania.",
+      "badge": "badges/teatro-romano-catania.png"
+    },
+    {
+      "id": "etna",
+      "name": "Mount Etna",
+      "lat": 37.751,
+      "lng": 14.9934,
+      "radiusM": 400,
+      "address": "Etna viewpoint / Rifugio area",
+      "howTo": "Visit Mount Etna.",
+      "badge": "badges/etna.png"
+    }
+  ]
+}

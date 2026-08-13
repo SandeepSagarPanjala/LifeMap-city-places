@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/liguria/genoa",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LIG",
+  "stateName": "Liguria",
+  "cityName": "Genoa",
+  "bbox": {
+    "minLat": 44.4,
+    "minLng": 8.92,
+    "maxLat": 44.42,
+    "maxLng": 8.94
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "porto-antico-genoa",
+      "name": "Porto Antico",
+      "lat": 44.4105,
+      "lng": 8.9265,
+      "radiusM": 200,
+      "address": "Old Port",
+      "howTo": "Visit Porto Antico.",
+      "badge": "badges/porto-antico-genoa.png"
+    },
+    {
+      "id": "palazzo-ducale-genoa",
+      "name": "Palazzo Ducale",
+      "lat": 44.4075,
+      "lng": 8.9335,
+      "radiusM": 100,
+      "address": "Palazzo Ducale",
+      "howTo": "Visit Palazzo Ducale.",
+      "badge": "badges/palazzo-ducale-genoa.png"
+    },
+    {
+      "id": "via-garibaldi-genoa",
+      "name": "Via Garibaldi",
+      "lat": 44.4115,
+      "lng": 8.9325,
+      "radiusM": 120,
+      "address": "Strade Nuove",
+      "howTo": "Visit Via Garibaldi.",
+      "badge": "badges/via-garibaldi-genoa.png"
+    }
+  ]
+}

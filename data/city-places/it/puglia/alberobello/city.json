@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/puglia/alberobello",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "PUG",
+  "stateName": "Puglia",
+  "cityName": "Alberobello",
+  "bbox": {
+    "minLat": 40.78,
+    "minLng": 17.23,
+    "maxLat": 40.79,
+    "maxLng": 17.24
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "trulli-rione-monti",
+      "name": "Trulli of Rione Monti",
+      "lat": 40.7865,
+      "lng": 17.2375,
+      "radiusM": 200,
+      "address": "Rione Monti",
+      "howTo": "Visit Trulli of Rione Monti.",
+      "badge": "badges/trulli-rione-monti.png"
+    },
+    {
+      "id": "trullo-sovrano",
+      "name": "Trullo Sovrano",
+      "lat": 40.7845,
+      "lng": 17.2385,
+      "radiusM": 80,
+      "address": "Trullo Sovrano",
+      "howTo": "Visit Trullo Sovrano.",
+      "badge": "badges/trullo-sovrano.png"
+    },
+    {
+      "id": "church-of-saint-anthony-alberobello",
+      "name": "Church of Saint Anthony",
+      "lat": 40.7855,
+      "lng": 17.2365,
+      "radiusM": 80,
+      "address": "Chiesa di Sant'Antonio",
+      "howTo": "Visit Church of Saint Anthony.",
+      "badge": "badges/church-of-saint-anthony-alberobello.png"
+    }
+  ]
+}

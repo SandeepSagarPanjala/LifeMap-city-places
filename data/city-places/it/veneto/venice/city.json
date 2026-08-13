@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "it/veneto/venice",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "VEN",
+  "stateName": "Veneto",
+  "cityName": "Venice",
+  "bbox": {
+    "minLat": 45.42,
+    "minLng": 12.32,
+    "maxLat": 45.45,
+    "maxLng": 12.36
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-marks-basilica",
+      "name": "St. Mark's Basilica",
+      "lat": 45.4345,
+      "lng": 12.3397,
+      "radiusM": 100,
+      "address": "Basilica di San Marco",
+      "howTo": "Visit St. Mark's Basilica.",
+      "badge": "badges/st-marks-basilica.png"
+    },
+    {
+      "id": "doges-palace",
+      "name": "Doge's Palace",
+      "lat": 45.4339,
+      "lng": 12.3402,
+      "radiusM": 100,
+      "address": "Palazzo Ducale",
+      "howTo": "Visit Doge's Palace.",
+      "badge": "badges/doges-palace.png"
+    },
+    {
+      "id": "rialto-bridge",
+      "name": "Rialto Bridge",
+      "lat": 45.438,
+      "lng": 12.3358,
+      "radiusM": 80,
+      "address": "Ponte di Rialto",
+      "howTo": "Visit Rialto Bridge.",
+      "badge": "badges/rialto-bridge.png"
+    },
+    {
+      "id": "grand-canal",
+      "name": "Grand Canal",
+      "lat": 45.4375,
+      "lng": 12.3345,
+      "radiusM": 200,
+      "address": "Canal Grande",
+      "howTo": "Visit Grand Canal.",
+      "badge": "badges/grand-canal.png"
+    },
+    {
+      "id": "bridge-of-sighs",
+      "name": "Bridge of Sighs",
+      "lat": 45.434,
+      "lng": 12.3409,
+      "radiusM": 60,
+      "address": "Ponte dei Sospiri",
+      "howTo": "Visit Bridge of Sighs.",
+      "badge": "badges/bridge-of-sighs.png"
+    },
+    {
+      "id": "santa-maria-della-salute",
+      "name": "Santa Maria della Salute",
+      "lat": 45.4308,
+      "lng": 12.3345,
+      "radiusM": 100,
+      "address": "Basilica della Salute",
+      "howTo": "Visit Santa Maria della Salute.",
+      "badge": "badges/santa-maria-della-salute.png"
+    }
+  ]
+}

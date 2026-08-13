@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "it/veneto/verona",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "VEN",
+  "stateName": "Veneto",
+  "cityName": "Verona",
+  "bbox": {
+    "minLat": 45.43,
+    "minLng": 10.98,
+    "maxLat": 45.45,
+    "maxLng": 11.01
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "arena-di-verona",
+      "name": "Arena di Verona",
+      "lat": 45.439,
+      "lng": 10.994,
+      "radiusM": 150,
+      "address": "Arena di Verona",
+      "howTo": "Visit Arena di Verona.",
+      "badge": "badges/arena-di-verona.png"
+    },
+    {
+      "id": "casa-di-giulietta",
+      "name": "Casa di Giulietta",
+      "lat": 45.4415,
+      "lng": 10.9985,
+      "radiusM": 60,
+      "address": "Juliet's House",
+      "howTo": "Visit Casa di Giulietta.",
+      "badge": "badges/casa-di-giulietta.png"
+    },
+    {
+      "id": "piazza-delle-erbe",
+      "name": "Piazza delle Erbe",
+      "lat": 45.443,
+      "lng": 10.9975,
+      "radiusM": 100,
+      "address": "Piazza delle Erbe",
+      "howTo": "Visit Piazza delle Erbe.",
+      "badge": "badges/piazza-delle-erbe.png"
+    },
+    {
+      "id": "castelvecchio",
+      "name": "Castelvecchio",
+      "lat": 45.44,
+      "lng": 10.9875,
+      "radiusM": 150,
+      "address": "Castelvecchio",
+      "howTo": "Visit Castelvecchio.",
+      "badge": "badges/castelvecchio.png"
+    }
+  ]
+}

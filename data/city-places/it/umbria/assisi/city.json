@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/umbria/assisi",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "UMB",
+  "stateName": "Umbria",
+  "cityName": "Assisi",
+  "bbox": {
+    "minLat": 43.07,
+    "minLng": 12.61,
+    "maxLat": 43.08,
+    "maxLng": 12.62
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-of-saint-francis",
+      "name": "Basilica of Saint Francis",
+      "lat": 43.0749,
+      "lng": 12.6068,
+      "radiusM": 150,
+      "address": "Basilica di San Francesco",
+      "howTo": "Visit Basilica of Saint Francis.",
+      "badge": "badges/basilica-of-saint-francis.png"
+    },
+    {
+      "id": "basilica-santa-chiara",
+      "name": "Basilica of Santa Chiara",
+      "lat": 43.0705,
+      "lng": 12.6185,
+      "radiusM": 100,
+      "address": "Santa Chiara",
+      "howTo": "Visit Basilica of Santa Chiara.",
+      "badge": "badges/basilica-santa-chiara.png"
+    },
+    {
+      "id": "rocco-maggiore",
+      "name": "Rocca Maggiore",
+      "lat": 43.0735,
+      "lng": 12.6165,
+      "radiusM": 120,
+      "address": "Rocca Maggiore",
+      "howTo": "Visit Rocca Maggiore.",
+      "badge": "badges/rocco-maggiore.png"
+    }
+  ]
+}

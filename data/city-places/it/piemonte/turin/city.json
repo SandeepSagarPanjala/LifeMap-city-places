@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "it/piemonte/turin",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "PIE",
+  "stateName": "Piemonte",
+  "cityName": "Turin",
+  "bbox": {
+    "minLat": 45.06,
+    "minLng": 7.67,
+    "maxLat": 45.08,
+    "maxLng": 7.7
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mole-antonelliana",
+      "name": "Mole Antonelliana",
+      "lat": 45.069,
+      "lng": 7.693,
+      "radiusM": 100,
+      "address": "Mole Antonelliana",
+      "howTo": "Visit Mole Antonelliana.",
+      "badge": "badges/mole-antonelliana.png"
+    },
+    {
+      "id": "egyptian-museum-turin",
+      "name": "Egyptian Museum",
+      "lat": 45.0685,
+      "lng": 7.6845,
+      "radiusM": 100,
+      "address": "Museo Egizio",
+      "howTo": "Visit Egyptian Museum.",
+      "badge": "badges/egyptian-museum-turin.png"
+    },
+    {
+      "id": "piazza-castello-turin",
+      "name": "Piazza Castello",
+      "lat": 45.071,
+      "lng": 7.6855,
+      "radiusM": 120,
+      "address": "Piazza Castello",
+      "howTo": "Visit Piazza Castello.",
+      "badge": "badges/piazza-castello-turin.png"
+    },
+    {
+      "id": "royal-palace-turin",
+      "name": "Royal Palace of Turin",
+      "lat": 45.0725,
+      "lng": 7.6865,
+      "radiusM": 120,
+      "address": "Palazzo Reale",
+      "howTo": "Visit Royal Palace of Turin.",
+      "badge": "badges/royal-palace-turin.png"
+    }
+  ]
+}

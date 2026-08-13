@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/umbria/perugia",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "UMB",
+  "stateName": "Umbria",
+  "cityName": "Perugia",
+  "bbox": {
+    "minLat": 43.1,
+    "minLng": 12.38,
+    "maxLat": 43.12,
+    "maxLng": 12.4
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "piazza-iv-novembre",
+      "name": "Piazza IV Novembre",
+      "lat": 43.112,
+      "lng": 12.3885,
+      "radiusM": 100,
+      "address": "Piazza IV Novembre",
+      "howTo": "Visit Piazza IV Novembre.",
+      "badge": "badges/piazza-iv-novembre.png"
+    },
+    {
+      "id": "palazzo-dei-priori",
+      "name": "Palazzo dei Priori",
+      "lat": 43.1115,
+      "lng": 12.388,
+      "radiusM": 80,
+      "address": "Palazzo dei Priori",
+      "howTo": "Visit Palazzo dei Priori.",
+      "badge": "badges/palazzo-dei-priori.png"
+    },
+    {
+      "id": "corso-vannucci",
+      "name": "Corso Vannucci",
+      "lat": 43.1105,
+      "lng": 12.3885,
+      "radiusM": 150,
+      "address": "Corso Vannucci",
+      "howTo": "Visit Corso Vannucci.",
+      "badge": "badges/corso-vannucci.png"
+    }
+  ]
+}

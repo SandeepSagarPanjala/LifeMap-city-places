@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "it/sicilia/palermo",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "SIC",
+  "stateName": "Sicilia",
+  "cityName": "Palermo",
+  "bbox": {
+    "minLat": 38.11,
+    "minLng": 13.35,
+    "maxLat": 38.13,
+    "maxLng": 13.37
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palermo-cathedral",
+      "name": "Palermo Cathedral",
+      "lat": 38.1145,
+      "lng": 13.3565,
+      "radiusM": 120,
+      "address": "Cattedrale di Palermo",
+      "howTo": "Visit Palermo Cathedral.",
+      "badge": "badges/palermo-cathedral.png"
+    },
+    {
+      "id": "palazzo-dei-normanni",
+      "name": "Palazzo dei Normanni",
+      "lat": 38.1105,
+      "lng": 13.3535,
+      "radiusM": 120,
+      "address": "Norman Palace",
+      "howTo": "Visit Palazzo dei Normanni.",
+      "badge": "badges/palazzo-dei-normanni.png"
+    },
+    {
+      "id": "teatro-massimo",
+      "name": "Teatro Massimo",
+      "lat": 38.1205,
+      "lng": 13.3575,
+      "radiusM": 100,
+      "address": "Teatro Massimo",
+      "howTo": "Visit Teatro Massimo.",
+      "badge": "badges/teatro-massimo.png"
+    },
+    {
+      "id": "quattro-canti",
+      "name": "Quattro Canti",
+      "lat": 38.1155,
+      "lng": 13.3615,
+      "radiusM": 60,
+      "address": "Quattro Canti",
+      "howTo": "Visit Quattro Canti.",
+      "badge": "badges/quattro-canti.png"
+    }
+  ]
+}

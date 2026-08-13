@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/emilia-romagna/ravenna",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "EMR",
+  "stateName": "Emilia-Romagna",
+  "cityName": "Ravenna",
+  "bbox": {
+    "minLat": 44.41,
+    "minLng": 12.19,
+    "maxLat": 44.42,
+    "maxLng": 12.21
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-san-vitale",
+      "name": "Basilica di San Vitale",
+      "lat": 44.4205,
+      "lng": 12.1965,
+      "radiusM": 100,
+      "address": "San Vitale",
+      "howTo": "Visit Basilica di San Vitale.",
+      "badge": "badges/basilica-san-vitale.png"
+    },
+    {
+      "id": "mausoleum-galla-placidia",
+      "name": "Mausoleum of Galla Placidia",
+      "lat": 44.4208,
+      "lng": 12.197,
+      "radiusM": 60,
+      "address": "Galla Placidia",
+      "howTo": "Visit Mausoleum of Galla Placidia.",
+      "badge": "badges/mausoleum-galla-placidia.png"
+    },
+    {
+      "id": "basilica-sant-apollinare-nuovo",
+      "name": "Sant'Apollinare Nuovo",
+      "lat": 44.4165,
+      "lng": 12.2045,
+      "radiusM": 80,
+      "address": "Sant'Apollinare Nuovo",
+      "howTo": "Visit Sant'Apollinare Nuovo.",
+      "badge": "badges/basilica-sant-apollinare-nuovo.png"
+    }
+  ]
+}

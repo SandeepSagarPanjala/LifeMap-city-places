@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/campania/capri",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "CAM",
+  "stateName": "Campania",
+  "cityName": "Capri",
+  "bbox": {
+    "minLat": 40.54,
+    "minLng": 14.22,
+    "maxLat": 40.56,
+    "maxLng": 14.25
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "faraglioni",
+      "name": "Faraglioni",
+      "lat": 40.542,
+      "lng": 14.253,
+      "radiusM": 200,
+      "address": "Faraglioni rocks",
+      "howTo": "Visit Faraglioni.",
+      "badge": "badges/faraglioni.png"
+    },
+    {
+      "id": "blue-grotto",
+      "name": "Blue Grotto",
+      "lat": 40.5605,
+      "lng": 14.2045,
+      "radiusM": 100,
+      "address": "Grotta Azzurra",
+      "howTo": "Visit Blue Grotto.",
+      "badge": "badges/blue-grotto.png"
+    },
+    {
+      "id": "piazzetta-capri",
+      "name": "Piazzetta di Capri",
+      "lat": 40.5505,
+      "lng": 14.2425,
+      "radiusM": 80,
+      "address": "Piazzetta",
+      "howTo": "Visit Piazzetta di Capri.",
+      "badge": "badges/piazzetta-capri.png"
+    }
+  ]
+}

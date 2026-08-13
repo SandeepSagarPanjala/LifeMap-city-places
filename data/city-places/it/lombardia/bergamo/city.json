@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/lombardia/bergamo",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LOM",
+  "stateName": "Lombardia",
+  "cityName": "Bergamo",
+  "bbox": {
+    "minLat": 45.7,
+    "minLng": 9.65,
+    "maxLat": 45.71,
+    "maxLng": 9.67
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "citta-alta-bergamo",
+      "name": "Citt\u00e0 Alta",
+      "lat": 45.7045,
+      "lng": 9.6625,
+      "radiusM": 200,
+      "address": "Upper Town Bergamo",
+      "howTo": "Visit Citt\u00e0 Alta.",
+      "badge": "badges/citta-alta-bergamo.png"
+    },
+    {
+      "id": "piazza-vecchia-bergamo",
+      "name": "Piazza Vecchia",
+      "lat": 45.704,
+      "lng": 9.6625,
+      "radiusM": 80,
+      "address": "Piazza Vecchia",
+      "howTo": "Visit Piazza Vecchia.",
+      "badge": "badges/piazza-vecchia-bergamo.png"
+    },
+    {
+      "id": "basilica-santa-maria-maggiore-bergamo",
+      "name": "Basilica di Santa Maria Maggiore",
+      "lat": 45.7035,
+      "lng": 9.6615,
+      "radiusM": 80,
+      "address": "Santa Maria Maggiore",
+      "howTo": "Visit Basilica di Santa Maria Maggiore.",
+      "badge": "badges/basilica-santa-maria-maggiore-bergamo.png"
+    }
+  ]
+}

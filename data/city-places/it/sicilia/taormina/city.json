@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/sicilia/taormina",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "SIC",
+  "stateName": "Sicilia",
+  "cityName": "Taormina",
+  "bbox": {
+    "minLat": 37.85,
+    "minLng": 15.28,
+    "maxLat": 37.86,
+    "maxLng": 15.29
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "teatro-antico-taormina",
+      "name": "Ancient Theatre of Taormina",
+      "lat": 37.8525,
+      "lng": 15.292,
+      "radiusM": 120,
+      "address": "Teatro Antico",
+      "howTo": "Visit Ancient Theatre of Taormina.",
+      "badge": "badges/teatro-antico-taormina.png"
+    },
+    {
+      "id": "corso-umberto-taormina",
+      "name": "Corso Umberto",
+      "lat": 37.8535,
+      "lng": 15.2865,
+      "radiusM": 150,
+      "address": "Corso Umberto",
+      "howTo": "Visit Corso Umberto.",
+      "badge": "badges/corso-umberto-taormina.png"
+    },
+    {
+      "id": "isola-bella-taormina",
+      "name": "Isola Bella",
+      "lat": 37.8505,
+      "lng": 15.3005,
+      "radiusM": 150,
+      "address": "Isola Bella",
+      "howTo": "Visit Isola Bella.",
+      "badge": "badges/isola-bella-taormina.png"
+    }
+  ]
+}

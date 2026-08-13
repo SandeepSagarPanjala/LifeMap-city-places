@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/liguria/cinque-terre",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LIG",
+  "stateName": "Liguria",
+  "cityName": "Cinque Terre",
+  "bbox": {
+    "minLat": 44.1,
+    "minLng": 9.65,
+    "maxLat": 44.15,
+    "maxLng": 9.73
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "manarola",
+      "name": "Manarola",
+      "lat": 44.107,
+      "lng": 9.728,
+      "radiusM": 200,
+      "address": "Manarola village",
+      "howTo": "Visit Manarola.",
+      "badge": "badges/manarola.png"
+    },
+    {
+      "id": "vernazza",
+      "name": "Vernazza",
+      "lat": 44.135,
+      "lng": 9.6835,
+      "radiusM": 200,
+      "address": "Vernazza harbour",
+      "howTo": "Visit Vernazza.",
+      "badge": "badges/vernazza.png"
+    },
+    {
+      "id": "riomaggiore",
+      "name": "Riomaggiore",
+      "lat": 44.0995,
+      "lng": 9.7375,
+      "radiusM": 200,
+      "address": "Riomaggiore",
+      "howTo": "Visit Riomaggiore.",
+      "badge": "badges/riomaggiore.png"
+    }
+  ]
+}

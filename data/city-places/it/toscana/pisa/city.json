@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/toscana/pisa",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "TOS",
+  "stateName": "Toscana",
+  "cityName": "Pisa",
+  "bbox": {
+    "minLat": 43.72,
+    "minLng": 10.39,
+    "maxLat": 43.73,
+    "maxLng": 10.4
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "leaning-tower-pisa",
+      "name": "Leaning Tower of Pisa",
+      "lat": 43.723,
+      "lng": 10.3966,
+      "radiusM": 100,
+      "address": "Torre Pendente",
+      "howTo": "Visit Leaning Tower of Pisa.",
+      "badge": "badges/leaning-tower-pisa.png"
+    },
+    {
+      "id": "pisa-cathedral",
+      "name": "Pisa Cathedral",
+      "lat": 43.7233,
+      "lng": 10.3957,
+      "radiusM": 100,
+      "address": "Duomo di Pisa",
+      "howTo": "Visit Pisa Cathedral.",
+      "badge": "badges/pisa-cathedral.png"
+    },
+    {
+      "id": "baptistery-pisa",
+      "name": "Baptistery of St. John",
+      "lat": 43.7231,
+      "lng": 10.3947,
+      "radiusM": 80,
+      "address": "Battistero",
+      "howTo": "Visit Baptistery of St. John.",
+      "badge": "badges/baptistery-pisa.png"
+    }
+  ]
+}

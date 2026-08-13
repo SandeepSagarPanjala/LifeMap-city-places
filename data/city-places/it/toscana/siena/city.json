@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/toscana/siena",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "TOS",
+  "stateName": "Toscana",
+  "cityName": "Siena",
+  "bbox": {
+    "minLat": 43.31,
+    "minLng": 11.32,
+    "maxLat": 43.33,
+    "maxLng": 11.34
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "piazza-del-campo",
+      "name": "Piazza del Campo",
+      "lat": 43.3186,
+      "lng": 11.3315,
+      "radiusM": 120,
+      "address": "Piazza del Campo",
+      "howTo": "Visit Piazza del Campo.",
+      "badge": "badges/piazza-del-campo.png"
+    },
+    {
+      "id": "duomo-siena",
+      "name": "Siena Cathedral",
+      "lat": 43.3178,
+      "lng": 11.329,
+      "radiusM": 100,
+      "address": "Duomo di Siena",
+      "howTo": "Visit Siena Cathedral.",
+      "badge": "badges/duomo-siena.png"
+    },
+    {
+      "id": "torre-del-mangia",
+      "name": "Torre del Mangia",
+      "lat": 43.3183,
+      "lng": 11.3318,
+      "radiusM": 80,
+      "address": "Torre del Mangia",
+      "howTo": "Visit Torre del Mangia.",
+      "badge": "badges/torre-del-mangia.png"
+    }
+  ]
+}

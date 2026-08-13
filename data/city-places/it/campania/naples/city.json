@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "it/campania/naples",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "CAM",
+  "stateName": "Campania",
+  "cityName": "Naples",
+  "bbox": {
+    "minLat": 40.83,
+    "minLng": 14.23,
+    "maxLat": 40.86,
+    "maxLng": 14.27
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "spaccanapoli",
+      "name": "Spaccanapoli",
+      "lat": 40.8495,
+      "lng": 14.2555,
+      "radiusM": 200,
+      "address": "Spaccanapoli",
+      "howTo": "Visit Spaccanapoli.",
+      "badge": "badges/spaccanapoli.png"
+    },
+    {
+      "id": "castel-dell-ovo",
+      "name": "Castel dell'Ovo",
+      "lat": 40.8285,
+      "lng": 14.2475,
+      "radiusM": 120,
+      "address": "Castel dell'Ovo",
+      "howTo": "Visit Castel dell'Ovo.",
+      "badge": "badges/castel-dell-ovo.png"
+    },
+    {
+      "id": "vesuvius",
+      "name": "Mount Vesuvius",
+      "lat": 40.822,
+      "lng": 14.4289,
+      "radiusM": 300,
+      "address": "Vesuvius crater area",
+      "howTo": "Visit Mount Vesuvius.",
+      "badge": "badges/vesuvius.png"
+    },
+    {
+      "id": "national-archaeological-museum-naples",
+      "name": "National Archaeological Museum",
+      "lat": 40.8535,
+      "lng": 14.2505,
+      "radiusM": 120,
+      "address": "MANN",
+      "howTo": "Visit National Archaeological Museum.",
+      "badge": "badges/national-archaeological-museum-naples.png"
+    }
+  ]
+}

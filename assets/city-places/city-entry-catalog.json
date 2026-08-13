@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T17:56:53.321Z",
+  "generatedAt": "2026-08-13T19:21:43.529Z",
   "cellDeg": 0.5,
-  "cityCount": 353,
+  "cityCount": 379,
   "cities": {
     "fr/auvergne-rhone-alpes/annecy": {
       "name": "Annecy",
@@ -1244,6 +1244,240 @@
         "minLng": 88.3,
         "maxLat": 22.6,
         "maxLng": 88.4
+      }
+    },
+    "it/campania/amalfi": {
+      "name": "Amalfi",
+      "bbox": {
+        "minLat": 40.63,
+        "minLng": 14.6,
+        "maxLat": 40.64,
+        "maxLng": 14.61
+      }
+    },
+    "it/campania/capri": {
+      "name": "Capri",
+      "bbox": {
+        "minLat": 40.54,
+        "minLng": 14.22,
+        "maxLat": 40.56,
+        "maxLng": 14.25
+      }
+    },
+    "it/campania/naples": {
+      "name": "Naples",
+      "bbox": {
+        "minLat": 40.83,
+        "minLng": 14.23,
+        "maxLat": 40.86,
+        "maxLng": 14.27
+      }
+    },
+    "it/campania/pompeii": {
+      "name": "Pompeii",
+      "bbox": {
+        "minLat": 40.74,
+        "minLng": 14.48,
+        "maxLat": 40.76,
+        "maxLng": 14.5
+      }
+    },
+    "it/emilia-romagna/bologna": {
+      "name": "Bologna",
+      "bbox": {
+        "minLat": 44.49,
+        "minLng": 11.33,
+        "maxLat": 44.5,
+        "maxLng": 11.35
+      }
+    },
+    "it/emilia-romagna/ravenna": {
+      "name": "Ravenna",
+      "bbox": {
+        "minLat": 44.41,
+        "minLng": 12.19,
+        "maxLat": 44.42,
+        "maxLng": 12.21
+      }
+    },
+    "it/lazio/rome": {
+      "name": "Rome",
+      "bbox": {
+        "minLat": 41.88,
+        "minLng": 12.45,
+        "maxLat": 41.91,
+        "maxLng": 12.51
+      }
+    },
+    "it/lazio/vatican-city": {
+      "name": "Vatican City",
+      "bbox": {
+        "minLat": 41.9,
+        "minLng": 12.44,
+        "maxLat": 41.91,
+        "maxLng": 12.46
+      }
+    },
+    "it/liguria/cinque-terre": {
+      "name": "Cinque Terre",
+      "bbox": {
+        "minLat": 44.1,
+        "minLng": 9.65,
+        "maxLat": 44.15,
+        "maxLng": 9.73
+      }
+    },
+    "it/liguria/genoa": {
+      "name": "Genoa",
+      "bbox": {
+        "minLat": 44.4,
+        "minLng": 8.92,
+        "maxLat": 44.42,
+        "maxLng": 8.94
+      }
+    },
+    "it/lombardia/bergamo": {
+      "name": "Bergamo",
+      "bbox": {
+        "minLat": 45.7,
+        "minLng": 9.65,
+        "maxLat": 45.71,
+        "maxLng": 9.67
+      }
+    },
+    "it/lombardia/milan": {
+      "name": "Milan",
+      "bbox": {
+        "minLat": 45.45,
+        "minLng": 9.17,
+        "maxLat": 45.48,
+        "maxLng": 9.2
+      }
+    },
+    "it/piemonte/turin": {
+      "name": "Turin",
+      "bbox": {
+        "minLat": 45.06,
+        "minLng": 7.67,
+        "maxLat": 45.08,
+        "maxLng": 7.7
+      }
+    },
+    "it/puglia/alberobello": {
+      "name": "Alberobello",
+      "bbox": {
+        "minLat": 40.78,
+        "minLng": 17.23,
+        "maxLat": 40.79,
+        "maxLng": 17.24
+      }
+    },
+    "it/puglia/bari": {
+      "name": "Bari",
+      "bbox": {
+        "minLat": 41.12,
+        "minLng": 16.86,
+        "maxLat": 41.13,
+        "maxLng": 16.88
+      }
+    },
+    "it/sardegna/cagliari": {
+      "name": "Cagliari",
+      "bbox": {
+        "minLat": 39.21,
+        "minLng": 9.1,
+        "maxLat": 39.23,
+        "maxLng": 9.12
+      }
+    },
+    "it/sicilia/catania": {
+      "name": "Catania",
+      "bbox": {
+        "minLat": 37.5,
+        "minLng": 15.08,
+        "maxLat": 37.51,
+        "maxLng": 15.09
+      }
+    },
+    "it/sicilia/palermo": {
+      "name": "Palermo",
+      "bbox": {
+        "minLat": 38.11,
+        "minLng": 13.35,
+        "maxLat": 38.13,
+        "maxLng": 13.37
+      }
+    },
+    "it/sicilia/taormina": {
+      "name": "Taormina",
+      "bbox": {
+        "minLat": 37.85,
+        "minLng": 15.28,
+        "maxLat": 37.86,
+        "maxLng": 15.29
+      }
+    },
+    "it/toscana/florence": {
+      "name": "Florence",
+      "bbox": {
+        "minLat": 43.76,
+        "minLng": 11.24,
+        "maxLat": 43.78,
+        "maxLng": 11.27
+      }
+    },
+    "it/toscana/pisa": {
+      "name": "Pisa",
+      "bbox": {
+        "minLat": 43.72,
+        "minLng": 10.39,
+        "maxLat": 43.73,
+        "maxLng": 10.4
+      }
+    },
+    "it/toscana/siena": {
+      "name": "Siena",
+      "bbox": {
+        "minLat": 43.31,
+        "minLng": 11.32,
+        "maxLat": 43.33,
+        "maxLng": 11.34
+      }
+    },
+    "it/umbria/assisi": {
+      "name": "Assisi",
+      "bbox": {
+        "minLat": 43.07,
+        "minLng": 12.61,
+        "maxLat": 43.08,
+        "maxLng": 12.62
+      }
+    },
+    "it/umbria/perugia": {
+      "name": "Perugia",
+      "bbox": {
+        "minLat": 43.1,
+        "minLng": 12.38,
+        "maxLat": 43.12,
+        "maxLng": 12.4
+      }
+    },
+    "it/veneto/venice": {
+      "name": "Venice",
+      "bbox": {
+        "minLat": 45.42,
+        "minLng": 12.32,
+        "maxLat": 45.45,
+        "maxLng": 12.36
+      }
+    },
+    "it/veneto/verona": {
+      "name": "Verona",
+      "bbox": {
+        "minLat": 45.43,
+        "minLng": 10.98,
+        "maxLat": 45.45,
+        "maxLng": 11.01
       }
     },
     "jp/aichi/nagoya": {
@@ -4667,6 +4901,86 @@
     ],
     "83,17": [
       "fr/corse/ajaccio"
+    ],
+    "83,24": [
+      "it/lazio/rome",
+      "it/lazio/vatican-city"
+    ],
+    "83,25": [
+      "it/lazio/rome"
+    ],
+    "87,22": [
+      "it/toscana/florence"
+    ],
+    "86,22": [
+      "it/toscana/siena"
+    ],
+    "87,20": [
+      "it/toscana/pisa"
+    ],
+    "90,24": [
+      "it/veneto/venice"
+    ],
+    "90,21": [
+      "it/veneto/verona"
+    ],
+    "90,22": [
+      "it/veneto/verona"
+    ],
+    "90,18": [
+      "it/lombardia/milan"
+    ],
+    "91,19": [
+      "it/lombardia/bergamo"
+    ],
+    "81,28": [
+      "it/campania/capri",
+      "it/campania/naples",
+      "it/campania/pompeii"
+    ],
+    "81,29": [
+      "it/campania/amalfi",
+      "it/campania/pompeii"
+    ],
+    "76,26": [
+      "it/sicilia/palermo"
+    ],
+    "75,30": [
+      "it/sicilia/catania",
+      "it/sicilia/taormina"
+    ],
+    "90,15": [
+      "it/piemonte/turin"
+    ],
+    "88,22": [
+      "it/emilia-romagna/bologna"
+    ],
+    "89,22": [
+      "it/emilia-romagna/bologna"
+    ],
+    "88,24": [
+      "it/emilia-romagna/ravenna"
+    ],
+    "88,17": [
+      "it/liguria/genoa"
+    ],
+    "88,19": [
+      "it/liguria/cinque-terre"
+    ],
+    "82,33": [
+      "it/puglia/bari"
+    ],
+    "81,34": [
+      "it/puglia/alberobello"
+    ],
+    "86,25": [
+      "it/umbria/assisi"
+    ],
+    "86,24": [
+      "it/umbria/perugia"
+    ],
+    "78,18": [
+      "it/sardegna/cagliari"
     ]
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/campania/amalfi",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "CAM",
+  "stateName": "Campania",
+  "cityName": "Amalfi",
+  "bbox": {
+    "minLat": 40.63,
+    "minLng": 14.6,
+    "maxLat": 40.64,
+    "maxLng": 14.61
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "amalfi-cathedral",
+      "name": "Amalfi Cathedral",
+      "lat": 40.634,
+      "lng": 14.6025,
+      "radiusM": 80,
+      "address": "Duomo di Amalfi",
+      "howTo": "Visit Amalfi Cathedral.",
+      "badge": "badges/amalfi-cathedral.png"
+    },
+    {
+      "id": "amalfi-coast-view",
+      "name": "Amalfi Coast Viewpoint",
+      "lat": 40.6335,
+      "lng": 14.6015,
+      "radiusM": 150,
+      "address": "Coastal terrace view",
+      "howTo": "Visit Amalfi Coast Viewpoint.",
+      "badge": "badges/amalfi-coast-view.png"
+    },
+    {
+      "id": "paper-museum-amalfi",
+      "name": "Museo della Carta",
+      "lat": 40.6355,
+      "lng": 14.6035,
+      "radiusM": 80,
+      "address": "Paper Museum",
+      "howTo": "Visit Museo della Carta.",
+      "badge": "badges/paper-museum-amalfi.png"
+    }
+  ]
+}

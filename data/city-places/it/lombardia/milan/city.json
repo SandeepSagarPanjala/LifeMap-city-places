@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "it/lombardia/milan",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LOM",
+  "stateName": "Lombardia",
+  "cityName": "Milan",
+  "bbox": {
+    "minLat": 45.45,
+    "minLng": 9.17,
+    "maxLat": 45.48,
+    "maxLng": 9.2
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "duomo-milan",
+      "name": "Milan Cathedral",
+      "lat": 45.4642,
+      "lng": 9.1919,
+      "radiusM": 150,
+      "address": "Duomo di Milano",
+      "howTo": "Visit Milan Cathedral.",
+      "badge": "badges/duomo-milan.png"
+    },
+    {
+      "id": "galleria-vittorio-emanuele",
+      "name": "Galleria Vittorio Emanuele II",
+      "lat": 45.4655,
+      "lng": 9.1899,
+      "radiusM": 100,
+      "address": "Galleria",
+      "howTo": "Visit Galleria Vittorio Emanuele II.",
+      "badge": "badges/galleria-vittorio-emanuele.png"
+    },
+    {
+      "id": "sforza-castle",
+      "name": "Sforza Castle",
+      "lat": 45.4705,
+      "lng": 9.1795,
+      "radiusM": 200,
+      "address": "Castello Sforzesco",
+      "howTo": "Visit Sforza Castle.",
+      "badge": "badges/sforza-castle.png"
+    },
+    {
+      "id": "santa-maria-delle-grazie",
+      "name": "Santa Maria delle Grazie",
+      "lat": 45.466,
+      "lng": 9.1708,
+      "radiusM": 100,
+      "address": "Last Supper church",
+      "howTo": "Visit Santa Maria delle Grazie.",
+      "badge": "badges/santa-maria-delle-grazie.png"
+    },
+    {
+      "id": "navigli",
+      "name": "Navigli",
+      "lat": 45.4495,
+      "lng": 9.1745,
+      "radiusM": 200,
+      "address": "Navigli canals",
+      "howTo": "Visit Navigli.",
+      "badge": "badges/navigli.png"
+    }
+  ]
+}

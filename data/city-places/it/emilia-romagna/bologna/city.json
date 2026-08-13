@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/emilia-romagna/bologna",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "EMR",
+  "stateName": "Emilia-Romagna",
+  "cityName": "Bologna",
+  "bbox": {
+    "minLat": 44.49,
+    "minLng": 11.33,
+    "maxLat": 44.5,
+    "maxLng": 11.35
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "piazza-maggiore",
+      "name": "Piazza Maggiore",
+      "lat": 44.4938,
+      "lng": 11.343,
+      "radiusM": 120,
+      "address": "Piazza Maggiore",
+      "howTo": "Visit Piazza Maggiore.",
+      "badge": "badges/piazza-maggiore.png"
+    },
+    {
+      "id": "towers-of-bologna",
+      "name": "Two Towers",
+      "lat": 44.4943,
+      "lng": 11.3465,
+      "radiusM": 80,
+      "address": "Asinelli & Garisenda",
+      "howTo": "Visit Two Towers.",
+      "badge": "badges/towers-of-bologna.png"
+    },
+    {
+      "id": "santo-stefano-bologna",
+      "name": "Basilica di Santo Stefano",
+      "lat": 44.492,
+      "lng": 11.3485,
+      "radiusM": 100,
+      "address": "Santo Stefano",
+      "howTo": "Visit Basilica di Santo Stefano.",
+      "badge": "badges/santo-stefano-bologna.png"
+    }
+  ]
+}

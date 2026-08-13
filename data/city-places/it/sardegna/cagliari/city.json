@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/sardegna/cagliari",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "SAR",
+  "stateName": "Sardegna",
+  "cityName": "Cagliari",
+  "bbox": {
+    "minLat": 39.21,
+    "minLng": 9.1,
+    "maxLat": 39.23,
+    "maxLng": 9.12
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bastione-saint-remy",
+      "name": "Bastione di Saint Remy",
+      "lat": 39.2165,
+      "lng": 9.1155,
+      "radiusM": 120,
+      "address": "Bastione Saint Remy",
+      "howTo": "Visit Bastione di Saint Remy.",
+      "badge": "badges/bastione-saint-remy.png"
+    },
+    {
+      "id": "cagliari-cathedral",
+      "name": "Cagliari Cathedral",
+      "lat": 39.2185,
+      "lng": 9.1165,
+      "radiusM": 80,
+      "address": "Cattedrale di Cagliari",
+      "howTo": "Visit Cagliari Cathedral.",
+      "badge": "badges/cagliari-cathedral.png"
+    },
+    {
+      "id": "poetto-beach",
+      "name": "Poetto Beach",
+      "lat": 39.2005,
+      "lng": 9.1555,
+      "radiusM": 300,
+      "address": "Spiaggia del Poetto",
+      "howTo": "Visit Poetto Beach.",
+      "badge": "badges/poetto-beach.png"
+    }
+  ]
+}

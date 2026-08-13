@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T17:56:53.000Z",
-  "notes": "USA/India/Japan/UK/France complete. Next: Italy (it) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T19:21:43.000Z",
+  "notes": "USA/India/Japan/UK/France/Italy complete. Next: Spain (es) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -5885,6 +5885,461 @@
                 "minLng": 8.72,
                 "maxLat": 41.93,
                 "maxLng": 8.74
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "countryCode": "IT",
+      "name": "Italy",
+      "states": [
+        {
+          "id": "lazio",
+          "stateCode": "LAZ",
+          "name": "Lazio",
+          "cities": [
+            {
+              "id": "rome",
+              "name": "Rome",
+              "status": "complete",
+              "packPath": "it/lazio/rome/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 41.88,
+                "minLng": 12.45,
+                "maxLat": 41.91,
+                "maxLng": 12.51
+              }
+            },
+            {
+              "id": "vatican-city",
+              "name": "Vatican City",
+              "status": "complete",
+              "packPath": "it/lazio/vatican-city/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 41.9,
+                "minLng": 12.44,
+                "maxLat": 41.91,
+                "maxLng": 12.46
+              }
+            }
+          ]
+        },
+        {
+          "id": "toscana",
+          "stateCode": "TOS",
+          "name": "Toscana",
+          "cities": [
+            {
+              "id": "florence",
+              "name": "Florence",
+              "status": "complete",
+              "packPath": "it/toscana/florence/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 43.76,
+                "minLng": 11.24,
+                "maxLat": 43.78,
+                "maxLng": 11.27
+              }
+            },
+            {
+              "id": "siena",
+              "name": "Siena",
+              "status": "complete",
+              "packPath": "it/toscana/siena/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 43.31,
+                "minLng": 11.32,
+                "maxLat": 43.33,
+                "maxLng": 11.34
+              }
+            },
+            {
+              "id": "pisa",
+              "name": "Pisa",
+              "status": "complete",
+              "packPath": "it/toscana/pisa/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 43.72,
+                "minLng": 10.39,
+                "maxLat": 43.73,
+                "maxLng": 10.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "veneto",
+          "stateCode": "VEN",
+          "name": "Veneto",
+          "cities": [
+            {
+              "id": "venice",
+              "name": "Venice",
+              "status": "complete",
+              "packPath": "it/veneto/venice/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 45.42,
+                "minLng": 12.32,
+                "maxLat": 45.45,
+                "maxLng": 12.36
+              }
+            },
+            {
+              "id": "verona",
+              "name": "Verona",
+              "status": "complete",
+              "packPath": "it/veneto/verona/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 45.43,
+                "minLng": 10.98,
+                "maxLat": 45.45,
+                "maxLng": 11.01
+              }
+            }
+          ]
+        },
+        {
+          "id": "lombardia",
+          "stateCode": "LOM",
+          "name": "Lombardia",
+          "cities": [
+            {
+              "id": "milan",
+              "name": "Milan",
+              "status": "complete",
+              "packPath": "it/lombardia/milan/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 45.45,
+                "minLng": 9.17,
+                "maxLat": 45.48,
+                "maxLng": 9.2
+              }
+            },
+            {
+              "id": "bergamo",
+              "name": "Bergamo",
+              "status": "complete",
+              "packPath": "it/lombardia/bergamo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 45.7,
+                "minLng": 9.65,
+                "maxLat": 45.71,
+                "maxLng": 9.67
+              }
+            }
+          ]
+        },
+        {
+          "id": "campania",
+          "stateCode": "CAM",
+          "name": "Campania",
+          "cities": [
+            {
+              "id": "naples",
+              "name": "Naples",
+              "status": "complete",
+              "packPath": "it/campania/naples/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 40.83,
+                "minLng": 14.23,
+                "maxLat": 40.86,
+                "maxLng": 14.27
+              }
+            },
+            {
+              "id": "pompeii",
+              "name": "Pompeii",
+              "status": "complete",
+              "packPath": "it/campania/pompeii/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 40.74,
+                "minLng": 14.48,
+                "maxLat": 40.76,
+                "maxLng": 14.5
+              }
+            },
+            {
+              "id": "amalfi",
+              "name": "Amalfi",
+              "status": "complete",
+              "packPath": "it/campania/amalfi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 40.63,
+                "minLng": 14.6,
+                "maxLat": 40.64,
+                "maxLng": 14.61
+              }
+            },
+            {
+              "id": "capri",
+              "name": "Capri",
+              "status": "complete",
+              "packPath": "it/campania/capri/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 40.54,
+                "minLng": 14.22,
+                "maxLat": 40.56,
+                "maxLng": 14.25
+              }
+            }
+          ]
+        },
+        {
+          "id": "sicilia",
+          "stateCode": "SIC",
+          "name": "Sicilia",
+          "cities": [
+            {
+              "id": "palermo",
+              "name": "Palermo",
+              "status": "complete",
+              "packPath": "it/sicilia/palermo/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 38.11,
+                "minLng": 13.35,
+                "maxLat": 38.13,
+                "maxLng": 13.37
+              }
+            },
+            {
+              "id": "catania",
+              "name": "Catania",
+              "status": "complete",
+              "packPath": "it/sicilia/catania/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 37.5,
+                "minLng": 15.08,
+                "maxLat": 37.51,
+                "maxLng": 15.09
+              }
+            },
+            {
+              "id": "taormina",
+              "name": "Taormina",
+              "status": "complete",
+              "packPath": "it/sicilia/taormina/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 37.85,
+                "minLng": 15.28,
+                "maxLat": 37.86,
+                "maxLng": 15.29
+              }
+            }
+          ]
+        },
+        {
+          "id": "piemonte",
+          "stateCode": "PIE",
+          "name": "Piemonte",
+          "cities": [
+            {
+              "id": "turin",
+              "name": "Turin",
+              "status": "complete",
+              "packPath": "it/piemonte/turin/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 45.06,
+                "minLng": 7.67,
+                "maxLat": 45.08,
+                "maxLng": 7.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "emilia-romagna",
+          "stateCode": "EMR",
+          "name": "Emilia-Romagna",
+          "cities": [
+            {
+              "id": "bologna",
+              "name": "Bologna",
+              "status": "complete",
+              "packPath": "it/emilia-romagna/bologna/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 44.49,
+                "minLng": 11.33,
+                "maxLat": 44.5,
+                "maxLng": 11.35
+              }
+            },
+            {
+              "id": "ravenna",
+              "name": "Ravenna",
+              "status": "complete",
+              "packPath": "it/emilia-romagna/ravenna/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 44.41,
+                "minLng": 12.19,
+                "maxLat": 44.42,
+                "maxLng": 12.21
+              }
+            }
+          ]
+        },
+        {
+          "id": "liguria",
+          "stateCode": "LIG",
+          "name": "Liguria",
+          "cities": [
+            {
+              "id": "genoa",
+              "name": "Genoa",
+              "status": "complete",
+              "packPath": "it/liguria/genoa/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 44.4,
+                "minLng": 8.92,
+                "maxLat": 44.42,
+                "maxLng": 8.94
+              }
+            },
+            {
+              "id": "cinque-terre",
+              "name": "Cinque Terre",
+              "status": "complete",
+              "packPath": "it/liguria/cinque-terre/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 44.1,
+                "minLng": 9.65,
+                "maxLat": 44.15,
+                "maxLng": 9.73
+              }
+            }
+          ]
+        },
+        {
+          "id": "puglia",
+          "stateCode": "PUG",
+          "name": "Puglia",
+          "cities": [
+            {
+              "id": "bari",
+              "name": "Bari",
+              "status": "complete",
+              "packPath": "it/puglia/bari/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 41.12,
+                "minLng": 16.86,
+                "maxLat": 41.13,
+                "maxLng": 16.88
+              }
+            },
+            {
+              "id": "alberobello",
+              "name": "Alberobello",
+              "status": "complete",
+              "packPath": "it/puglia/alberobello/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 40.78,
+                "minLng": 17.23,
+                "maxLat": 40.79,
+                "maxLng": 17.24
+              }
+            }
+          ]
+        },
+        {
+          "id": "umbria",
+          "stateCode": "UMB",
+          "name": "Umbria",
+          "cities": [
+            {
+              "id": "assisi",
+              "name": "Assisi",
+              "status": "complete",
+              "packPath": "it/umbria/assisi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 43.07,
+                "minLng": 12.61,
+                "maxLat": 43.08,
+                "maxLng": 12.62
+              }
+            },
+            {
+              "id": "perugia",
+              "name": "Perugia",
+              "status": "complete",
+              "packPath": "it/umbria/perugia/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 43.1,
+                "minLng": 12.38,
+                "maxLat": 43.12,
+                "maxLng": 12.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "sardegna",
+          "stateCode": "SAR",
+          "name": "Sardegna",
+          "cities": [
+            {
+              "id": "cagliari",
+              "name": "Cagliari",
+              "status": "complete",
+              "packPath": "it/sardegna/cagliari/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T18:00:00.000Z",
+              "bbox": {
+                "minLat": 39.21,
+                "minLng": 9.1,
+                "maxLat": 39.23,
+                "maxLng": 9.12
               }
             }
           ]

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "it/lazio/rome",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LAZ",
+  "stateName": "Lazio",
+  "cityName": "Rome",
+  "bbox": {
+    "minLat": 41.88,
+    "minLng": 12.45,
+    "maxLat": 41.91,
+    "maxLng": 12.51
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "colosseum",
+      "name": "Colosseum",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "radiusM": 200,
+      "address": "Piazza del Colosseo",
+      "howTo": "Visit Colosseum.",
+      "badge": "badges/colosseum.png"
+    },
+    {
+      "id": "roman-forum",
+      "name": "Roman Forum",
+      "lat": 41.8925,
+      "lng": 12.4853,
+      "radiusM": 250,
+      "address": "Foro Romano",
+      "howTo": "Visit Roman Forum.",
+      "badge": "badges/roman-forum.png"
+    },
+    {
+      "id": "pantheon-rome",
+      "name": "Pantheon",
+      "lat": 41.8986,
+      "lng": 12.4769,
+      "radiusM": 100,
+      "address": "Piazza della Rotonda",
+      "howTo": "Visit Pantheon.",
+      "badge": "badges/pantheon-rome.png"
+    },
+    {
+      "id": "trevi-fountain",
+      "name": "Trevi Fountain",
+      "lat": 41.9009,
+      "lng": 12.4833,
+      "radiusM": 80,
+      "address": "Fontana di Trevi",
+      "howTo": "Visit Trevi Fountain.",
+      "badge": "badges/trevi-fountain.png"
+    },
+    {
+      "id": "spanish-steps",
+      "name": "Spanish Steps",
+      "lat": 41.906,
+      "lng": 12.4828,
+      "radiusM": 100,
+      "address": "Piazza di Spagna",
+      "howTo": "Visit Spanish Steps.",
+      "badge": "badges/spanish-steps.png"
+    },
+    {
+      "id": "piazza-navona",
+      "name": "Piazza Navona",
+      "lat": 41.8992,
+      "lng": 12.4731,
+      "radiusM": 120,
+      "address": "Piazza Navona",
+      "howTo": "Visit Piazza Navona.",
+      "badge": "badges/piazza-navona.png"
+    },
+    {
+      "id": "castel-sant-angelo",
+      "name": "Castel Sant'Angelo",
+      "lat": 41.9031,
+      "lng": 12.4663,
+      "radiusM": 150,
+      "address": "Castel Sant'Angelo",
+      "howTo": "Visit Castel Sant'Angelo.",
+      "badge": "badges/castel-sant-angelo.png"
+    },
+    {
+      "id": "villa-borghese",
+      "name": "Villa Borghese",
+      "lat": 41.9142,
+      "lng": 12.4922,
+      "radiusM": 300,
+      "address": "Villa Borghese gardens",
+      "howTo": "Visit Villa Borghese.",
+      "badge": "badges/villa-borghese.png"
+    },
+    {
+      "id": "trastevere",
+      "name": "Trastevere",
+      "lat": 41.8897,
+      "lng": 12.4695,
+      "radiusM": 200,
+      "address": "Trastevere",
+      "howTo": "Visit Trastevere.",
+      "badge": "badges/trastevere.png"
+    },
+    {
+      "id": "altare-della-patria",
+      "name": "Altare della Patria",
+      "lat": 41.8947,
+      "lng": 12.483,
+      "radiusM": 120,
+      "address": "Piazza Venezia",
+      "howTo": "Visit Altare della Patria.",
+      "badge": "badges/altare-della-patria.png"
+    }
+  ]
+}

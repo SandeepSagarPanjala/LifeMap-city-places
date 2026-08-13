@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "it/lazio/vatican-city",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "LAZ",
+  "stateName": "Lazio",
+  "cityName": "Vatican City",
+  "bbox": {
+    "minLat": 41.9,
+    "minLng": 12.44,
+    "maxLat": 41.91,
+    "maxLng": 12.46
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-peters-basilica",
+      "name": "St. Peter's Basilica",
+      "lat": 41.9022,
+      "lng": 12.4539,
+      "radiusM": 200,
+      "address": "Basilica di San Pietro",
+      "howTo": "Visit St. Peter's Basilica.",
+      "badge": "badges/st-peters-basilica.png"
+    },
+    {
+      "id": "st-peters-square",
+      "name": "St. Peter's Square",
+      "lat": 41.9022,
+      "lng": 12.4569,
+      "radiusM": 200,
+      "address": "Piazza San Pietro",
+      "howTo": "Visit St. Peter's Square.",
+      "badge": "badges/st-peters-square.png"
+    },
+    {
+      "id": "vatican-museums",
+      "name": "Vatican Museums",
+      "lat": 41.9065,
+      "lng": 12.4536,
+      "radiusM": 200,
+      "address": "Musei Vaticani",
+      "howTo": "Visit Vatican Museums.",
+      "badge": "badges/vatican-museums.png"
+    },
+    {
+      "id": "sistine-chapel",
+      "name": "Sistine Chapel",
+      "lat": 41.9029,
+      "lng": 12.4545,
+      "radiusM": 80,
+      "address": "Cappella Sistina",
+      "howTo": "Visit Sistine Chapel.",
+      "badge": "badges/sistine-chapel.png"
+    }
+  ]
+}

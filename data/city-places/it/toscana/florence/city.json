@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "it/toscana/florence",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "TOS",
+  "stateName": "Toscana",
+  "cityName": "Florence",
+  "bbox": {
+    "minLat": 43.76,
+    "minLng": 11.24,
+    "maxLat": 43.78,
+    "maxLng": 11.27
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "duomo-florence",
+      "name": "Cathedral of Santa Maria del Fiore",
+      "lat": 43.7731,
+      "lng": 11.256,
+      "radiusM": 120,
+      "address": "Duomo di Firenze",
+      "howTo": "Visit Cathedral of Santa Maria del Fiore.",
+      "badge": "badges/duomo-florence.png"
+    },
+    {
+      "id": "ponte-vecchio",
+      "name": "Ponte Vecchio",
+      "lat": 43.768,
+      "lng": 11.2531,
+      "radiusM": 80,
+      "address": "Ponte Vecchio",
+      "howTo": "Visit Ponte Vecchio.",
+      "badge": "badges/ponte-vecchio.png"
+    },
+    {
+      "id": "uffizi",
+      "name": "Uffizi Gallery",
+      "lat": 43.7678,
+      "lng": 11.2556,
+      "radiusM": 120,
+      "address": "Galleria degli Uffizi",
+      "howTo": "Visit Uffizi Gallery.",
+      "badge": "badges/uffizi.png"
+    },
+    {
+      "id": "palazzo-vecchio",
+      "name": "Palazzo Vecchio",
+      "lat": 43.7693,
+      "lng": 11.256,
+      "radiusM": 100,
+      "address": "Piazza della Signoria",
+      "howTo": "Visit Palazzo Vecchio.",
+      "badge": "badges/palazzo-vecchio.png"
+    },
+    {
+      "id": "piazzale-michelangelo",
+      "name": "Piazzale Michelangelo",
+      "lat": 43.7629,
+      "lng": 11.265,
+      "radiusM": 150,
+      "address": "Piazzale Michelangelo",
+      "howTo": "Visit Piazzale Michelangelo.",
+      "badge": "badges/piazzale-michelangelo.png"
+    },
+    {
+      "id": "boboli-gardens",
+      "name": "Boboli Gardens",
+      "lat": 43.7625,
+      "lng": 11.2485,
+      "radiusM": 250,
+      "address": "Giardino di Boboli",
+      "howTo": "Visit Boboli Gardens.",
+      "badge": "badges/boboli-gardens.png"
+    }
+  ]
+}

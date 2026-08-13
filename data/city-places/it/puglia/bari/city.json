@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/puglia/bari",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "PUG",
+  "stateName": "Puglia",
+  "cityName": "Bari",
+  "bbox": {
+    "minLat": 41.12,
+    "minLng": 16.86,
+    "maxLat": 41.13,
+    "maxLng": 16.88
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-san-nicola",
+      "name": "Basilica di San Nicola",
+      "lat": 41.1305,
+      "lng": 16.8705,
+      "radiusM": 100,
+      "address": "San Nicola",
+      "howTo": "Visit Basilica di San Nicola.",
+      "badge": "badges/basilica-san-nicola.png"
+    },
+    {
+      "id": "bari-vecchia",
+      "name": "Bari Vecchia",
+      "lat": 41.1295,
+      "lng": 16.87,
+      "radiusM": 200,
+      "address": "Old Town Bari",
+      "howTo": "Visit Bari Vecchia.",
+      "badge": "badges/bari-vecchia.png"
+    },
+    {
+      "id": "teatro-petruzzelli",
+      "name": "Teatro Petruzzelli",
+      "lat": 41.1255,
+      "lng": 16.8725,
+      "radiusM": 80,
+      "address": "Teatro Petruzzelli",
+      "howTo": "Visit Teatro Petruzzelli.",
+      "badge": "badges/teatro-petruzzelli.png"
+    }
+  ]
+}

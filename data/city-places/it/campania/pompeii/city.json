@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "it/campania/pompeii",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "stateCode": "CAM",
+  "stateName": "Campania",
+  "cityName": "Pompeii",
+  "bbox": {
+    "minLat": 40.74,
+    "minLng": 14.48,
+    "maxLat": 40.76,
+    "maxLng": 14.5
+  },
+  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pompeii-forum",
+      "name": "Forum of Pompeii",
+      "lat": 40.7495,
+      "lng": 14.4845,
+      "radiusM": 150,
+      "address": "Foro di Pompei",
+      "howTo": "Visit Forum of Pompeii.",
+      "badge": "badges/pompeii-forum.png"
+    },
+    {
+      "id": "pompeii-amphitheatre",
+      "name": "Amphitheatre of Pompeii",
+      "lat": 40.751,
+      "lng": 14.495,
+      "radiusM": 120,
+      "address": "Anfiteatro",
+      "howTo": "Visit Amphitheatre of Pompeii.",
+      "badge": "badges/pompeii-amphitheatre.png"
+    },
+    {
+      "id": "villa-dei-misteri",
+      "name": "Villa of the Mysteries",
+      "lat": 40.7535,
+      "lng": 14.478,
+      "radiusM": 120,
+      "address": "Villa dei Misteri",
+      "howTo": "Visit Villa of the Mysteries.",
+      "badge": "badges/villa-dei-misteri.png"
+    }
+  ]
+}
