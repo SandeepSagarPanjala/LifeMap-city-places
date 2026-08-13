@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/pais-vasco/bilbao",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "PV",
+  "stateName": "Pa\u00eds Vasco",
+  "cityName": "Bilbao",
+  "bbox": {
+    "minLat": 43.26,
+    "minLng": -2.95,
+    "maxLat": 43.27,
+    "maxLng": -2.92
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "guggenheim-bilbao",
+      "name": "Guggenheim Museum Bilbao",
+      "lat": 43.2687,
+      "lng": -2.934,
+      "radiusM": 150,
+      "address": "Guggenheim Bilbao",
+      "howTo": "Visit Guggenheim Museum Bilbao.",
+      "badge": "badges/guggenheim-bilbao.png"
+    },
+    {
+      "id": "casco-viejo-bilbao",
+      "name": "Casco Viejo",
+      "lat": 43.2565,
+      "lng": -2.9235,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Casco Viejo.",
+      "badge": "badges/casco-viejo-bilbao.png"
+    },
+    {
+      "id": "bilbao-cathedral",
+      "name": "Santiago Cathedral",
+      "lat": 43.256,
+      "lng": -2.924,
+      "radiusM": 80,
+      "address": "Catedral de Santiago",
+      "howTo": "Visit Santiago Cathedral.",
+      "badge": "badges/bilbao-cathedral.png"
+    },
+    {
+      "id": "azkuna-zentroa",
+      "name": "Azkuna Zentroa",
+      "lat": 43.2595,
+      "lng": -2.9375,
+      "radiusM": 100,
+      "address": "Azkuna Zentroa",
+      "howTo": "Visit Azkuna Zentroa.",
+      "badge": "badges/azkuna-zentroa.png"
+    }
+  ]
+}

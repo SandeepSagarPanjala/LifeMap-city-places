@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-13T19:21:43.000Z",
-  "notes": "USA/India/Japan/UK/France/Italy complete. Next: Spain (es) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-13T21:21:23.000Z",
+  "notes": "USA/India/Japan/UK/France/Italy/Spain complete. Next: Germany (de) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -6340,6 +6340,349 @@
                 "minLng": 9.1,
                 "maxLat": 39.23,
                 "maxLng": 9.12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es",
+      "countryCode": "ES",
+      "name": "Spain",
+      "states": [
+        {
+          "id": "madrid",
+          "stateCode": "MD",
+          "name": "Comunidad de Madrid",
+          "cities": [
+            {
+              "id": "madrid",
+              "name": "Madrid",
+              "status": "complete",
+              "packPath": "es/madrid/madrid/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 40.4,
+                "minLng": -3.72,
+                "maxLat": 40.43,
+                "maxLng": -3.68
+              }
+            },
+            {
+              "id": "toledo",
+              "name": "Toledo",
+              "status": "complete",
+              "packPath": "es/madrid/toledo/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 39.85,
+                "minLng": -4.04,
+                "maxLat": 39.87,
+                "maxLng": -4.02
+              }
+            }
+          ]
+        },
+        {
+          "id": "catalunya",
+          "stateCode": "CT",
+          "name": "Catalunya",
+          "cities": [
+            {
+              "id": "barcelona",
+              "name": "Barcelona",
+              "status": "complete",
+              "packPath": "es/catalunya/barcelona/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 41.37,
+                "minLng": 2.14,
+                "maxLat": 41.42,
+                "maxLng": 2.19
+              }
+            },
+            {
+              "id": "girona",
+              "name": "Girona",
+              "status": "complete",
+              "packPath": "es/catalunya/girona/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 41.98,
+                "minLng": 2.81,
+                "maxLat": 41.99,
+                "maxLng": 2.83
+              }
+            }
+          ]
+        },
+        {
+          "id": "andalucia",
+          "stateCode": "AN",
+          "name": "Andaluc\u00eda",
+          "cities": [
+            {
+              "id": "seville",
+              "name": "Seville",
+              "status": "complete",
+              "packPath": "es/andalucia/seville/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 37.38,
+                "minLng": -5.99,
+                "maxLat": 37.4,
+                "maxLng": -5.98
+              }
+            },
+            {
+              "id": "granada",
+              "name": "Granada",
+              "status": "complete",
+              "packPath": "es/andalucia/granada/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 37.17,
+                "minLng": -3.6,
+                "maxLat": 37.18,
+                "maxLng": -3.58
+              }
+            },
+            {
+              "id": "cordoba",
+              "name": "C\u00f3rdoba",
+              "status": "complete",
+              "packPath": "es/andalucia/cordoba/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 37.87,
+                "minLng": -4.79,
+                "maxLat": 37.88,
+                "maxLng": -4.77
+              }
+            },
+            {
+              "id": "malaga",
+              "name": "M\u00e1laga",
+              "status": "complete",
+              "packPath": "es/andalucia/malaga/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 36.71,
+                "minLng": -4.43,
+                "maxLat": 36.73,
+                "maxLng": -4.41
+              }
+            }
+          ]
+        },
+        {
+          "id": "comunidad-valenciana",
+          "stateCode": "VC",
+          "name": "Comunidad Valenciana",
+          "cities": [
+            {
+              "id": "valencia",
+              "name": "Valencia",
+              "status": "complete",
+              "packPath": "es/comunidad-valenciana/valencia/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 39.45,
+                "minLng": -0.38,
+                "maxLat": 39.48,
+                "maxLng": -0.34
+              }
+            },
+            {
+              "id": "alicante",
+              "name": "Alicante",
+              "status": "complete",
+              "packPath": "es/comunidad-valenciana/alicante/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 38.34,
+                "minLng": -0.49,
+                "maxLat": 38.35,
+                "maxLng": -0.47
+              }
+            }
+          ]
+        },
+        {
+          "id": "pais-vasco",
+          "stateCode": "PV",
+          "name": "Pa\u00eds Vasco",
+          "cities": [
+            {
+              "id": "bilbao",
+              "name": "Bilbao",
+              "status": "complete",
+              "packPath": "es/pais-vasco/bilbao/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 43.26,
+                "minLng": -2.95,
+                "maxLat": 43.27,
+                "maxLng": -2.92
+              }
+            },
+            {
+              "id": "san-sebastian",
+              "name": "San Sebasti\u00e1n",
+              "status": "complete",
+              "packPath": "es/pais-vasco/san-sebastian/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 43.31,
+                "minLng": -1.99,
+                "maxLat": 43.33,
+                "maxLng": -1.97
+              }
+            }
+          ]
+        },
+        {
+          "id": "galicia",
+          "stateCode": "GA",
+          "name": "Galicia",
+          "cities": [
+            {
+              "id": "santiago-de-compostela",
+              "name": "Santiago de Compostela",
+              "status": "complete",
+              "packPath": "es/galicia/santiago-de-compostela/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 42.87,
+                "minLng": -8.55,
+                "maxLat": 42.89,
+                "maxLng": -8.54
+              }
+            }
+          ]
+        },
+        {
+          "id": "castilla-y-leon",
+          "stateCode": "CL",
+          "name": "Castilla y Le\u00f3n",
+          "cities": [
+            {
+              "id": "salamanca",
+              "name": "Salamanca",
+              "status": "complete",
+              "packPath": "es/castilla-y-leon/salamanca/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 40.96,
+                "minLng": -5.67,
+                "maxLat": 40.97,
+                "maxLng": -5.66
+              }
+            },
+            {
+              "id": "segovia",
+              "name": "Segovia",
+              "status": "complete",
+              "packPath": "es/castilla-y-leon/segovia/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 40.94,
+                "minLng": -4.13,
+                "maxLat": 40.95,
+                "maxLng": -4.11
+              }
+            }
+          ]
+        },
+        {
+          "id": "aragon",
+          "stateCode": "AR",
+          "name": "Arag\u00f3n",
+          "cities": [
+            {
+              "id": "zaragoza",
+              "name": "Zaragoza",
+              "status": "complete",
+              "packPath": "es/aragon/zaragoza/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 41.65,
+                "minLng": -0.89,
+                "maxLat": 41.66,
+                "maxLng": -0.87
+              }
+            }
+          ]
+        },
+        {
+          "id": "islas-baleares",
+          "stateCode": "IB",
+          "name": "Illes Balears",
+          "cities": [
+            {
+              "id": "palma",
+              "name": "Palma",
+              "status": "complete",
+              "packPath": "es/islas-baleares/palma/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 39.56,
+                "minLng": 2.64,
+                "maxLat": 39.58,
+                "maxLng": 2.66
+              }
+            }
+          ]
+        },
+        {
+          "id": "canarias",
+          "stateCode": "CN",
+          "name": "Canarias",
+          "cities": [
+            {
+              "id": "las-palmas",
+              "name": "Las Palmas",
+              "status": "complete",
+              "packPath": "es/canarias/las-palmas/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 28.12,
+                "minLng": -15.44,
+                "maxLat": 28.15,
+                "maxLng": -15.42
+              }
+            },
+            {
+              "id": "santa-cruz-tenerife",
+              "name": "Santa Cruz de Tenerife",
+              "status": "complete",
+              "packPath": "es/canarias/santa-cruz-tenerife/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-13T19:30:00.000Z",
+              "bbox": {
+                "minLat": 28.46,
+                "minLng": -16.26,
+                "maxLat": 28.48,
+                "maxLng": -16.24
               }
             }
           ]

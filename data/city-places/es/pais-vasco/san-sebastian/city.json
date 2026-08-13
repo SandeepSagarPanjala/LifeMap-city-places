@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/pais-vasco/san-sebastian",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "PV",
+  "stateName": "Pa\u00eds Vasco",
+  "cityName": "San Sebasti\u00e1n",
+  "bbox": {
+    "minLat": 43.31,
+    "minLng": -1.99,
+    "maxLat": 43.33,
+    "maxLng": -1.97
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "la-concha",
+      "name": "La Concha Beach",
+      "lat": 43.3175,
+      "lng": -1.9865,
+      "radiusM": 250,
+      "address": "Playa de la Concha",
+      "howTo": "Visit La Concha Beach.",
+      "badge": "badges/la-concha.png"
+    },
+    {
+      "id": "monte-urgull",
+      "name": "Monte Urgull",
+      "lat": 43.3255,
+      "lng": -1.9885,
+      "radiusM": 200,
+      "address": "Monte Urgull",
+      "howTo": "Visit Monte Urgull.",
+      "badge": "badges/monte-urgull.png"
+    },
+    {
+      "id": "parte-vieja",
+      "name": "Parte Vieja",
+      "lat": 43.3235,
+      "lng": -1.9865,
+      "radiusM": 150,
+      "address": "Old Town",
+      "howTo": "Visit Parte Vieja.",
+      "badge": "badges/parte-vieja.png"
+    },
+    {
+      "id": "curso-victoria-eugenia",
+      "name": "Kursaal / Zurriola",
+      "lat": 43.3245,
+      "lng": -1.9775,
+      "radiusM": 150,
+      "address": "Kursaal Bridge area",
+      "howTo": "Visit Kursaal / Zurriola.",
+      "badge": "badges/curso-victoria-eugenia.png"
+    }
+  ]
+}

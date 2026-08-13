@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "es/andalucia/seville",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "AN",
+  "stateName": "Andaluc\u00eda",
+  "cityName": "Seville",
+  "bbox": {
+    "minLat": 37.38,
+    "minLng": -5.99,
+    "maxLat": 37.4,
+    "maxLng": -5.98
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seville-cathedral",
+      "name": "Seville Cathedral",
+      "lat": 37.3858,
+      "lng": -5.993,
+      "radiusM": 150,
+      "address": "Catedral de Sevilla",
+      "howTo": "Visit Seville Cathedral.",
+      "badge": "badges/seville-cathedral.png"
+    },
+    {
+      "id": "alcazar-seville",
+      "name": "Real Alc\u00e1zar of Seville",
+      "lat": 37.383,
+      "lng": -5.9915,
+      "radiusM": 200,
+      "address": "Real Alc\u00e1zar",
+      "howTo": "Visit Real Alc\u00e1zar of Seville.",
+      "badge": "badges/alcazar-seville.png"
+    },
+    {
+      "id": "plaza-de-espana-seville",
+      "name": "Plaza de Espa\u00f1a",
+      "lat": 37.3772,
+      "lng": -5.9869,
+      "radiusM": 200,
+      "address": "Plaza de Espa\u00f1a",
+      "howTo": "Visit Plaza de Espa\u00f1a.",
+      "badge": "badges/plaza-de-espana-seville.png"
+    },
+    {
+      "id": "giralda",
+      "name": "Giralda",
+      "lat": 37.3862,
+      "lng": -5.9926,
+      "radiusM": 80,
+      "address": "La Giralda",
+      "howTo": "Visit Giralda.",
+      "badge": "badges/giralda.png"
+    },
+    {
+      "id": "metropol-parasol",
+      "name": "Metropol Parasol",
+      "lat": 37.393,
+      "lng": -5.9918,
+      "radiusM": 100,
+      "address": "Setas de Sevilla",
+      "howTo": "Visit Metropol Parasol.",
+      "badge": "badges/metropol-parasol.png"
+    }
+  ]
+}

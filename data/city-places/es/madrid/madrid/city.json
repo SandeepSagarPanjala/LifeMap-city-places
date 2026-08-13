@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "es/madrid/madrid",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "MD",
+  "stateName": "Comunidad de Madrid",
+  "cityName": "Madrid",
+  "bbox": {
+    "minLat": 40.4,
+    "minLng": -3.72,
+    "maxLat": 40.43,
+    "maxLng": -3.68
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "prado-museum",
+      "name": "Museo del Prado",
+      "lat": 40.4138,
+      "lng": -3.6921,
+      "radiusM": 150,
+      "address": "Museo del Prado",
+      "howTo": "Visit Museo del Prado.",
+      "badge": "badges/prado-museum.png"
+    },
+    {
+      "id": "retiro-park",
+      "name": "Parque del Retiro",
+      "lat": 40.4153,
+      "lng": -3.6844,
+      "radiusM": 300,
+      "address": "El Retiro",
+      "howTo": "Visit Parque del Retiro.",
+      "badge": "badges/retiro-park.png"
+    },
+    {
+      "id": "plaza-mayor-madrid",
+      "name": "Plaza Mayor",
+      "lat": 40.4154,
+      "lng": -3.7074,
+      "radiusM": 100,
+      "address": "Plaza Mayor",
+      "howTo": "Visit Plaza Mayor.",
+      "badge": "badges/plaza-mayor-madrid.png"
+    },
+    {
+      "id": "royal-palace-madrid",
+      "name": "Royal Palace of Madrid",
+      "lat": 40.418,
+      "lng": -3.7142,
+      "radiusM": 200,
+      "address": "Palacio Real",
+      "howTo": "Visit Royal Palace of Madrid.",
+      "badge": "badges/royal-palace-madrid.png"
+    },
+    {
+      "id": "puerta-del-sol",
+      "name": "Puerta del Sol",
+      "lat": 40.4169,
+      "lng": -3.7033,
+      "radiusM": 80,
+      "address": "Puerta del Sol",
+      "howTo": "Visit Puerta del Sol.",
+      "badge": "badges/puerta-del-sol.png"
+    },
+    {
+      "id": "templo-de-debod",
+      "name": "Templo de Debod",
+      "lat": 40.424,
+      "lng": -3.7178,
+      "radiusM": 100,
+      "address": "Templo de Debod",
+      "howTo": "Visit Templo de Debod.",
+      "badge": "badges/templo-de-debod.png"
+    },
+    {
+      "id": "reina-sofia",
+      "name": "Museo Reina Sof\u00eda",
+      "lat": 40.4078,
+      "lng": -3.6944,
+      "radiusM": 120,
+      "address": "Reina Sof\u00eda",
+      "howTo": "Visit Museo Reina Sof\u00eda.",
+      "badge": "badges/reina-sofia.png"
+    },
+    {
+      "id": "gran-via-madrid",
+      "name": "Gran V\u00eda",
+      "lat": 40.4203,
+      "lng": -3.7058,
+      "radiusM": 150,
+      "address": "Gran V\u00eda",
+      "howTo": "Visit Gran V\u00eda.",
+      "badge": "badges/gran-via-madrid.png"
+    }
+  ]
+}

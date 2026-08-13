@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/andalucia/cordoba",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "AN",
+  "stateName": "Andaluc\u00eda",
+  "cityName": "C\u00f3rdoba",
+  "bbox": {
+    "minLat": 37.87,
+    "minLng": -4.79,
+    "maxLat": 37.88,
+    "maxLng": -4.77
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mezquita-cordoba",
+      "name": "Mosque-Cathedral of C\u00f3rdoba",
+      "lat": 37.879,
+      "lng": -4.7795,
+      "radiusM": 200,
+      "address": "Mezquita-Catedral",
+      "howTo": "Visit Mosque-Cathedral of C\u00f3rdoba.",
+      "badge": "badges/mezquita-cordoba.png"
+    },
+    {
+      "id": "alcazar-cordoba",
+      "name": "Alc\u00e1zar de los Reyes Cristianos",
+      "lat": 37.8765,
+      "lng": -4.7825,
+      "radiusM": 150,
+      "address": "Alc\u00e1zar",
+      "howTo": "Visit Alc\u00e1zar de los Reyes Cristianos.",
+      "badge": "badges/alcazar-cordoba.png"
+    },
+    {
+      "id": "puente-romano-cordoba",
+      "name": "Roman Bridge",
+      "lat": 37.8775,
+      "lng": -4.7795,
+      "radiusM": 120,
+      "address": "Puente Romano",
+      "howTo": "Visit Roman Bridge.",
+      "badge": "badges/puente-romano-cordoba.png"
+    },
+    {
+      "id": "juderia-cordoba",
+      "name": "Juder\u00eda",
+      "lat": 37.8795,
+      "lng": -4.7835,
+      "radiusM": 150,
+      "address": "Jewish Quarter",
+      "howTo": "Visit Juder\u00eda.",
+      "badge": "badges/juderia-cordoba.png"
+    }
+  ]
+}

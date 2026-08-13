@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "es/catalunya/barcelona",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CT",
+  "stateName": "Catalunya",
+  "cityName": "Barcelona",
+  "bbox": {
+    "minLat": 41.37,
+    "minLng": 2.14,
+    "maxLat": 41.42,
+    "maxLng": 2.19
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sagrada-familia",
+      "name": "Sagrada Fam\u00edlia",
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "radiusM": 150,
+      "address": "Sagrada Fam\u00edlia",
+      "howTo": "Visit Sagrada Fam\u00edlia.",
+      "badge": "badges/sagrada-familia.png"
+    },
+    {
+      "id": "park-guell",
+      "name": "Park G\u00fcell",
+      "lat": 41.4145,
+      "lng": 2.1527,
+      "radiusM": 200,
+      "address": "Park G\u00fcell",
+      "howTo": "Visit Park G\u00fcell.",
+      "badge": "badges/park-guell.png"
+    },
+    {
+      "id": "casa-batllo",
+      "name": "Casa Batll\u00f3",
+      "lat": 41.3916,
+      "lng": 2.1649,
+      "radiusM": 80,
+      "address": "Casa Batll\u00f3",
+      "howTo": "Visit Casa Batll\u00f3.",
+      "badge": "badges/casa-batllo.png"
+    },
+    {
+      "id": "la-rambla",
+      "name": "La Rambla",
+      "lat": 41.381,
+      "lng": 2.1734,
+      "radiusM": 200,
+      "address": "La Rambla",
+      "howTo": "Visit La Rambla.",
+      "badge": "badges/la-rambla.png"
+    },
+    {
+      "id": "gothic-quarter",
+      "name": "Gothic Quarter",
+      "lat": 41.3833,
+      "lng": 2.1765,
+      "radiusM": 200,
+      "address": "Barri G\u00f2tic",
+      "howTo": "Visit Gothic Quarter.",
+      "badge": "badges/gothic-quarter.png"
+    },
+    {
+      "id": "montjuic",
+      "name": "Montju\u00efc",
+      "lat": 41.3635,
+      "lng": 2.165,
+      "radiusM": 300,
+      "address": "Montju\u00efc hill",
+      "howTo": "Visit Montju\u00efc.",
+      "badge": "badges/montjuic.png"
+    },
+    {
+      "id": "camp-nou",
+      "name": "Spotify Camp Nou",
+      "lat": 41.3809,
+      "lng": 2.1228,
+      "radiusM": 200,
+      "address": "Camp Nou",
+      "howTo": "Visit Spotify Camp Nou.",
+      "badge": "badges/camp-nou.png"
+    },
+    {
+      "id": "barcelona-cathedral",
+      "name": "Barcelona Cathedral",
+      "lat": 41.3839,
+      "lng": 2.1761,
+      "radiusM": 100,
+      "address": "Catedral de Barcelona",
+      "howTo": "Visit Barcelona Cathedral.",
+      "badge": "badges/barcelona-cathedral.png"
+    }
+  ]
+}

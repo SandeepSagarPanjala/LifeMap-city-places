@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/castilla-y-leon/salamanca",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CL",
+  "stateName": "Castilla y Le\u00f3n",
+  "cityName": "Salamanca",
+  "bbox": {
+    "minLat": 40.96,
+    "minLng": -5.67,
+    "maxLat": 40.97,
+    "maxLng": -5.66
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-mayor-salamanca",
+      "name": "Plaza Mayor",
+      "lat": 40.965,
+      "lng": -5.664,
+      "radiusM": 100,
+      "address": "Plaza Mayor de Salamanca",
+      "howTo": "Visit Plaza Mayor.",
+      "badge": "badges/plaza-mayor-salamanca.png"
+    },
+    {
+      "id": "salamanca-cathedral",
+      "name": "New Cathedral of Salamanca",
+      "lat": 40.9605,
+      "lng": -5.666,
+      "radiusM": 120,
+      "address": "Catedral Nueva",
+      "howTo": "Visit New Cathedral of Salamanca.",
+      "badge": "badges/salamanca-cathedral.png"
+    },
+    {
+      "id": "university-salamanca",
+      "name": "University of Salamanca",
+      "lat": 40.9615,
+      "lng": -5.6675,
+      "radiusM": 100,
+      "address": "Universidad de Salamanca",
+      "howTo": "Visit University of Salamanca.",
+      "badge": "badges/university-salamanca.png"
+    }
+  ]
+}

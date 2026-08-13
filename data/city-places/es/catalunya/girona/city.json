@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/catalunya/girona",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CT",
+  "stateName": "Catalunya",
+  "cityName": "Girona",
+  "bbox": {
+    "minLat": 41.98,
+    "minLng": 2.81,
+    "maxLat": 41.99,
+    "maxLng": 2.83
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "girona-cathedral",
+      "name": "Girona Cathedral",
+      "lat": 41.9875,
+      "lng": 2.8255,
+      "radiusM": 100,
+      "address": "Catedral de Girona",
+      "howTo": "Visit Girona Cathedral.",
+      "badge": "badges/girona-cathedral.png"
+    },
+    {
+      "id": "jewish-quarter-girona",
+      "name": "Call Jueu",
+      "lat": 41.9865,
+      "lng": 2.8245,
+      "radiusM": 150,
+      "address": "Jewish Quarter",
+      "howTo": "Visit Call Jueu.",
+      "badge": "badges/jewish-quarter-girona.png"
+    },
+    {
+      "id": "pont-de-les-peixateries",
+      "name": "Pont de les Peixateries Velles",
+      "lat": 41.9845,
+      "lng": 2.8255,
+      "radiusM": 80,
+      "address": "Eiffel Bridge",
+      "howTo": "Visit Pont de les Peixateries Velles.",
+      "badge": "badges/pont-de-les-peixateries.png"
+    }
+  ]
+}

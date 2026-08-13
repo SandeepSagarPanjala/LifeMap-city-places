@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/madrid/toledo",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "MD",
+  "stateName": "Comunidad de Madrid",
+  "cityName": "Toledo",
+  "bbox": {
+    "minLat": 39.85,
+    "minLng": -4.04,
+    "maxLat": 39.87,
+    "maxLng": -4.02
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "toledo-cathedral",
+      "name": "Toledo Cathedral",
+      "lat": 39.8572,
+      "lng": -4.0236,
+      "radiusM": 120,
+      "address": "Catedral de Toledo",
+      "howTo": "Visit Toledo Cathedral.",
+      "badge": "badges/toledo-cathedral.png"
+    },
+    {
+      "id": "alcazar-toledo",
+      "name": "Alc\u00e1zar of Toledo",
+      "lat": 39.8585,
+      "lng": -4.0205,
+      "radiusM": 150,
+      "address": "Alc\u00e1zar",
+      "howTo": "Visit Alc\u00e1zar of Toledo.",
+      "badge": "badges/alcazar-toledo.png"
+    },
+    {
+      "id": "synagogue-santa-maria-blanca",
+      "name": "Synagogue of Santa Mar\u00eda la Blanca",
+      "lat": 39.8555,
+      "lng": -4.0305,
+      "radiusM": 80,
+      "address": "Santa Mar\u00eda la Blanca",
+      "howTo": "Visit Synagogue of Santa Mar\u00eda la Blanca.",
+      "badge": "badges/synagogue-santa-maria-blanca.png"
+    },
+    {
+      "id": "puente-de-san-martin",
+      "name": "Puente de San Mart\u00edn",
+      "lat": 39.8565,
+      "lng": -4.0365,
+      "radiusM": 100,
+      "address": "Puente de San Mart\u00edn",
+      "howTo": "Visit Puente de San Mart\u00edn.",
+      "badge": "badges/puente-de-san-martin.png"
+    }
+  ]
+}

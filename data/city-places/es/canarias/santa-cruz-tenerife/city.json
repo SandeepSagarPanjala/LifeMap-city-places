@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/canarias/santa-cruz-tenerife",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CN",
+  "stateName": "Canarias",
+  "cityName": "Santa Cruz de Tenerife",
+  "bbox": {
+    "minLat": 28.46,
+    "minLng": -16.26,
+    "maxLat": 28.48,
+    "maxLng": -16.24
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "auditorio-tenerife",
+      "name": "Auditorio de Tenerife",
+      "lat": 28.456,
+      "lng": -16.2475,
+      "radiusM": 120,
+      "address": "Auditorio Ad\u00e1n Mart\u00edn",
+      "howTo": "Visit Auditorio de Tenerife.",
+      "badge": "badges/auditorio-tenerife.png"
+    },
+    {
+      "id": "plaza-espana-tenerife",
+      "name": "Plaza de Espa\u00f1a",
+      "lat": 28.4675,
+      "lng": -16.2485,
+      "radiusM": 100,
+      "address": "Plaza de Espa\u00f1a",
+      "howTo": "Visit Plaza de Espa\u00f1a.",
+      "badge": "badges/plaza-espana-tenerife.png"
+    },
+    {
+      "id": "teatro-guimera",
+      "name": "Teatro Guimer\u00e1",
+      "lat": 28.4655,
+      "lng": -16.2505,
+      "radiusM": 80,
+      "address": "Teatro Guimer\u00e1",
+      "howTo": "Visit Teatro Guimer\u00e1.",
+      "badge": "badges/teatro-guimera.png"
+    }
+  ]
+}

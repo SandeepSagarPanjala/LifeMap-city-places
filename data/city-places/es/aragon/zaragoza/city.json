@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/aragon/zaragoza",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "AR",
+  "stateName": "Arag\u00f3n",
+  "cityName": "Zaragoza",
+  "bbox": {
+    "minLat": 41.65,
+    "minLng": -0.89,
+    "maxLat": 41.66,
+    "maxLng": -0.87
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-del-pilar",
+      "name": "Bas\u00edlica del Pilar",
+      "lat": 41.6565,
+      "lng": -0.8785,
+      "radiusM": 150,
+      "address": "El Pilar",
+      "howTo": "Visit Bas\u00edlica del Pilar.",
+      "badge": "badges/basilica-del-pilar.png"
+    },
+    {
+      "id": "la-seo-zaragoza",
+      "name": "La Seo Cathedral",
+      "lat": 41.6545,
+      "lng": -0.8755,
+      "radiusM": 100,
+      "address": "La Seo",
+      "howTo": "Visit La Seo Cathedral.",
+      "badge": "badges/la-seo-zaragoza.png"
+    },
+    {
+      "id": "aljaferia",
+      "name": "Aljafer\u00eda Palace",
+      "lat": 41.6565,
+      "lng": -0.8975,
+      "radiusM": 150,
+      "address": "Palacio de la Aljafer\u00eda",
+      "howTo": "Visit Aljafer\u00eda Palace.",
+      "badge": "badges/aljaferia.png"
+    }
+  ]
+}

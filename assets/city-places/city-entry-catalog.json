@@ -1,9 +1,180 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T19:21:43.529Z",
+  "generatedAt": "2026-08-13T21:21:23.740Z",
   "cellDeg": 0.5,
-  "cityCount": 379,
+  "cityCount": 398,
   "cities": {
+    "es/andalucia/cordoba": {
+      "name": "Córdoba",
+      "bbox": {
+        "minLat": 37.87,
+        "minLng": -4.79,
+        "maxLat": 37.88,
+        "maxLng": -4.77
+      }
+    },
+    "es/andalucia/granada": {
+      "name": "Granada",
+      "bbox": {
+        "minLat": 37.17,
+        "minLng": -3.6,
+        "maxLat": 37.18,
+        "maxLng": -3.58
+      }
+    },
+    "es/andalucia/malaga": {
+      "name": "Málaga",
+      "bbox": {
+        "minLat": 36.71,
+        "minLng": -4.43,
+        "maxLat": 36.73,
+        "maxLng": -4.41
+      }
+    },
+    "es/andalucia/seville": {
+      "name": "Seville",
+      "bbox": {
+        "minLat": 37.38,
+        "minLng": -5.99,
+        "maxLat": 37.4,
+        "maxLng": -5.98
+      }
+    },
+    "es/aragon/zaragoza": {
+      "name": "Zaragoza",
+      "bbox": {
+        "minLat": 41.65,
+        "minLng": -0.89,
+        "maxLat": 41.66,
+        "maxLng": -0.87
+      }
+    },
+    "es/canarias/las-palmas": {
+      "name": "Las Palmas",
+      "bbox": {
+        "minLat": 28.12,
+        "minLng": -15.44,
+        "maxLat": 28.15,
+        "maxLng": -15.42
+      }
+    },
+    "es/canarias/santa-cruz-tenerife": {
+      "name": "Santa Cruz de Tenerife",
+      "bbox": {
+        "minLat": 28.46,
+        "minLng": -16.26,
+        "maxLat": 28.48,
+        "maxLng": -16.24
+      }
+    },
+    "es/castilla-y-leon/salamanca": {
+      "name": "Salamanca",
+      "bbox": {
+        "minLat": 40.96,
+        "minLng": -5.67,
+        "maxLat": 40.97,
+        "maxLng": -5.66
+      }
+    },
+    "es/castilla-y-leon/segovia": {
+      "name": "Segovia",
+      "bbox": {
+        "minLat": 40.94,
+        "minLng": -4.13,
+        "maxLat": 40.95,
+        "maxLng": -4.11
+      }
+    },
+    "es/catalunya/barcelona": {
+      "name": "Barcelona",
+      "bbox": {
+        "minLat": 41.37,
+        "minLng": 2.14,
+        "maxLat": 41.42,
+        "maxLng": 2.19
+      }
+    },
+    "es/catalunya/girona": {
+      "name": "Girona",
+      "bbox": {
+        "minLat": 41.98,
+        "minLng": 2.81,
+        "maxLat": 41.99,
+        "maxLng": 2.83
+      }
+    },
+    "es/comunidad-valenciana/alicante": {
+      "name": "Alicante",
+      "bbox": {
+        "minLat": 38.34,
+        "minLng": -0.49,
+        "maxLat": 38.35,
+        "maxLng": -0.47
+      }
+    },
+    "es/comunidad-valenciana/valencia": {
+      "name": "Valencia",
+      "bbox": {
+        "minLat": 39.45,
+        "minLng": -0.38,
+        "maxLat": 39.48,
+        "maxLng": -0.34
+      }
+    },
+    "es/galicia/santiago-de-compostela": {
+      "name": "Santiago de Compostela",
+      "bbox": {
+        "minLat": 42.87,
+        "minLng": -8.55,
+        "maxLat": 42.89,
+        "maxLng": -8.54
+      }
+    },
+    "es/islas-baleares/palma": {
+      "name": "Palma",
+      "bbox": {
+        "minLat": 39.56,
+        "minLng": 2.64,
+        "maxLat": 39.58,
+        "maxLng": 2.66
+      }
+    },
+    "es/madrid/madrid": {
+      "name": "Madrid",
+      "bbox": {
+        "minLat": 40.4,
+        "minLng": -3.72,
+        "maxLat": 40.43,
+        "maxLng": -3.68
+      }
+    },
+    "es/madrid/toledo": {
+      "name": "Toledo",
+      "bbox": {
+        "minLat": 39.85,
+        "minLng": -4.04,
+        "maxLat": 39.87,
+        "maxLng": -4.02
+      }
+    },
+    "es/pais-vasco/bilbao": {
+      "name": "Bilbao",
+      "bbox": {
+        "minLat": 43.26,
+        "minLng": -2.95,
+        "maxLat": 43.27,
+        "maxLng": -2.92
+      }
+    },
+    "es/pais-vasco/san-sebastian": {
+      "name": "San Sebastián",
+      "bbox": {
+        "minLat": 43.31,
+        "minLng": -1.99,
+        "maxLat": 43.33,
+        "maxLng": -1.97
+      }
+    },
     "fr/auvergne-rhone-alpes/annecy": {
       "name": "Annecy",
       "bbox": {
@@ -4861,6 +5032,7 @@
       "fr/nouvelle-aquitaine/bordeaux"
     ],
     "86,-4": [
+      "es/pais-vasco/san-sebastian",
       "fr/nouvelle-aquitaine/biarritz"
     ],
     "94,-4": [
@@ -4981,6 +5153,60 @@
     ],
     "78,18": [
       "it/sardegna/cagliari"
+    ],
+    "80,-8": [
+      "es/madrid/madrid"
+    ],
+    "79,-9": [
+      "es/madrid/toledo"
+    ],
+    "82,4": [
+      "es/catalunya/barcelona"
+    ],
+    "83,5": [
+      "es/catalunya/girona"
+    ],
+    "74,-12": [
+      "es/andalucia/seville"
+    ],
+    "74,-8": [
+      "es/andalucia/granada"
+    ],
+    "75,-10": [
+      "es/andalucia/cordoba"
+    ],
+    "73,-9": [
+      "es/andalucia/malaga"
+    ],
+    "78,-1": [
+      "es/comunidad-valenciana/valencia"
+    ],
+    "76,-1": [
+      "es/comunidad-valenciana/alicante"
+    ],
+    "86,-6": [
+      "es/pais-vasco/bilbao"
+    ],
+    "85,-18": [
+      "es/galicia/santiago-de-compostela"
+    ],
+    "81,-12": [
+      "es/castilla-y-leon/salamanca"
+    ],
+    "81,-9": [
+      "es/castilla-y-leon/segovia"
+    ],
+    "83,-2": [
+      "es/aragon/zaragoza"
+    ],
+    "79,5": [
+      "es/islas-baleares/palma"
+    ],
+    "56,-31": [
+      "es/canarias/las-palmas"
+    ],
+    "56,-33": [
+      "es/canarias/santa-cruz-tenerife"
     ]
   }
 }

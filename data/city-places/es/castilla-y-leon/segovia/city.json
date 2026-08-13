@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/castilla-y-leon/segovia",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CL",
+  "stateName": "Castilla y Le\u00f3n",
+  "cityName": "Segovia",
+  "bbox": {
+    "minLat": 40.94,
+    "minLng": -4.13,
+    "maxLat": 40.95,
+    "maxLng": -4.11
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "segovia-aqueduct",
+      "name": "Aqueduct of Segovia",
+      "lat": 40.948,
+      "lng": -4.1179,
+      "radiusM": 150,
+      "address": "Acueducto",
+      "howTo": "Visit Aqueduct of Segovia.",
+      "badge": "badges/segovia-aqueduct.png"
+    },
+    {
+      "id": "alcazar-segovia",
+      "name": "Alc\u00e1zar of Segovia",
+      "lat": 40.9528,
+      "lng": -4.1325,
+      "radiusM": 150,
+      "address": "Alc\u00e1zar",
+      "howTo": "Visit Alc\u00e1zar of Segovia.",
+      "badge": "badges/alcazar-segovia.png"
+    },
+    {
+      "id": "segovia-cathedral",
+      "name": "Segovia Cathedral",
+      "lat": 40.9505,
+      "lng": -4.1255,
+      "radiusM": 100,
+      "address": "Catedral de Segovia",
+      "howTo": "Visit Segovia Cathedral.",
+      "badge": "badges/segovia-cathedral.png"
+    }
+  ]
+}

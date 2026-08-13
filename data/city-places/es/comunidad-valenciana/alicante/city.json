@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/comunidad-valenciana/alicante",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "VC",
+  "stateName": "Comunidad Valenciana",
+  "cityName": "Alicante",
+  "bbox": {
+    "minLat": 38.34,
+    "minLng": -0.49,
+    "maxLat": 38.35,
+    "maxLng": -0.47
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-barbara-castle",
+      "name": "Castillo de Santa B\u00e1rbara",
+      "lat": 38.349,
+      "lng": -0.4785,
+      "radiusM": 200,
+      "address": "Santa B\u00e1rbara Castle",
+      "howTo": "Visit Castillo de Santa B\u00e1rbara.",
+      "badge": "badges/santa-barbara-castle.png"
+    },
+    {
+      "id": "explanada-alicante",
+      "name": "Explanada de Espa\u00f1a",
+      "lat": 38.3435,
+      "lng": -0.4855,
+      "radiusM": 150,
+      "address": "Explanada",
+      "howTo": "Visit Explanada de Espa\u00f1a.",
+      "badge": "badges/explanada-alicante.png"
+    },
+    {
+      "id": "basilica-santa-maria-alicante",
+      "name": "Bas\u00edlica de Santa Mar\u00eda",
+      "lat": 38.3465,
+      "lng": -0.4805,
+      "radiusM": 80,
+      "address": "Santa Mar\u00eda",
+      "howTo": "Visit Bas\u00edlica de Santa Mar\u00eda.",
+      "badge": "badges/basilica-santa-maria-alicante.png"
+    }
+  ]
+}

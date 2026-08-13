@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/canarias/las-palmas",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "CN",
+  "stateName": "Canarias",
+  "cityName": "Las Palmas",
+  "bbox": {
+    "minLat": 28.12,
+    "minLng": -15.44,
+    "maxLat": 28.15,
+    "maxLng": -15.42
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "catedral-santa-ana",
+      "name": "Catedral de Santa Ana",
+      "lat": 28.1005,
+      "lng": -15.4155,
+      "radiusM": 100,
+      "address": "Catedral de Santa Ana",
+      "howTo": "Visit Catedral de Santa Ana.",
+      "badge": "badges/catedral-santa-ana.png"
+    },
+    {
+      "id": "casa-de-colon",
+      "name": "Casa de Col\u00f3n",
+      "lat": 28.1015,
+      "lng": -15.4145,
+      "radiusM": 80,
+      "address": "Casa de Col\u00f3n",
+      "howTo": "Visit Casa de Col\u00f3n.",
+      "badge": "badges/casa-de-colon.png"
+    },
+    {
+      "id": "playa-de-las-canteras",
+      "name": "Playa de Las Canteras",
+      "lat": 28.1415,
+      "lng": -15.4365,
+      "radiusM": 250,
+      "address": "Las Canteras Beach",
+      "howTo": "Visit Playa de Las Canteras.",
+      "badge": "badges/playa-de-las-canteras.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/andalucia/malaga",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "AN",
+  "stateName": "Andaluc\u00eda",
+  "cityName": "M\u00e1laga",
+  "bbox": {
+    "minLat": 36.71,
+    "minLng": -4.43,
+    "maxLat": 36.73,
+    "maxLng": -4.41
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alcazaba-malaga",
+      "name": "Alcazaba of M\u00e1laga",
+      "lat": 36.721,
+      "lng": -4.4155,
+      "radiusM": 150,
+      "address": "Alcazaba",
+      "howTo": "Visit Alcazaba of M\u00e1laga.",
+      "badge": "badges/alcazaba-malaga.png"
+    },
+    {
+      "id": "malaga-cathedral",
+      "name": "M\u00e1laga Cathedral",
+      "lat": 36.72,
+      "lng": -4.4195,
+      "radiusM": 100,
+      "address": "Catedral de M\u00e1laga",
+      "howTo": "Visit M\u00e1laga Cathedral.",
+      "badge": "badges/malaga-cathedral.png"
+    },
+    {
+      "id": "picasso-museum-malaga",
+      "name": "Museo Picasso M\u00e1laga",
+      "lat": 36.7225,
+      "lng": -4.4175,
+      "radiusM": 80,
+      "address": "Museo Picasso",
+      "howTo": "Visit Museo Picasso M\u00e1laga.",
+      "badge": "badges/picasso-museum-malaga.png"
+    },
+    {
+      "id": "gibralfaro",
+      "name": "Castillo de Gibralfaro",
+      "lat": 36.7215,
+      "lng": -4.4115,
+      "radiusM": 150,
+      "address": "Gibralfaro Castle",
+      "howTo": "Visit Castillo de Gibralfaro.",
+      "badge": "badges/gibralfaro.png"
+    }
+  ]
+}

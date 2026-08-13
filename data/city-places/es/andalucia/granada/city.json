@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "es/andalucia/granada",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "AN",
+  "stateName": "Andaluc\u00eda",
+  "cityName": "Granada",
+  "bbox": {
+    "minLat": 37.17,
+    "minLng": -3.6,
+    "maxLat": 37.18,
+    "maxLng": -3.58
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alhambra",
+      "name": "Alhambra",
+      "lat": 37.176,
+      "lng": -3.5881,
+      "radiusM": 300,
+      "address": "Alhambra",
+      "howTo": "Visit Alhambra.",
+      "badge": "badges/alhambra.png"
+    },
+    {
+      "id": "generalife",
+      "name": "Generalife",
+      "lat": 37.1775,
+      "lng": -3.5855,
+      "radiusM": 200,
+      "address": "Generalife gardens",
+      "howTo": "Visit Generalife.",
+      "badge": "badges/generalife.png"
+    },
+    {
+      "id": "albaicin",
+      "name": "Albaic\u00edn",
+      "lat": 37.1805,
+      "lng": -3.5935,
+      "radiusM": 250,
+      "address": "Albaic\u00edn quarter",
+      "howTo": "Visit Albaic\u00edn.",
+      "badge": "badges/albaicin.png"
+    },
+    {
+      "id": "granada-cathedral",
+      "name": "Granada Cathedral",
+      "lat": 37.1765,
+      "lng": -3.599,
+      "radiusM": 100,
+      "address": "Catedral de Granada",
+      "howTo": "Visit Granada Cathedral.",
+      "badge": "badges/granada-cathedral.png"
+    }
+  ]
+}

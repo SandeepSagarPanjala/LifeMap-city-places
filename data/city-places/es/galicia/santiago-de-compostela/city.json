@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/galicia/santiago-de-compostela",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "GA",
+  "stateName": "Galicia",
+  "cityName": "Santiago de Compostela",
+  "bbox": {
+    "minLat": 42.87,
+    "minLng": -8.55,
+    "maxLat": 42.89,
+    "maxLng": -8.54
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santiago-cathedral",
+      "name": "Cathedral of Santiago",
+      "lat": 42.8806,
+      "lng": -8.5446,
+      "radiusM": 150,
+      "address": "Catedral de Santiago",
+      "howTo": "Visit Cathedral of Santiago.",
+      "badge": "badges/santiago-cathedral.png"
+    },
+    {
+      "id": "plaza-obradoiro",
+      "name": "Plaza del Obradoiro",
+      "lat": 42.8805,
+      "lng": -8.5455,
+      "radiusM": 100,
+      "address": "Obradoiro Square",
+      "howTo": "Visit Plaza del Obradoiro.",
+      "badge": "badges/plaza-obradoiro.png"
+    },
+    {
+      "id": "parque-alameda-santiago",
+      "name": "Parque de la Alameda",
+      "lat": 42.8765,
+      "lng": -8.5495,
+      "radiusM": 200,
+      "address": "Alameda Park",
+      "howTo": "Visit Parque de la Alameda.",
+      "badge": "badges/parque-alameda-santiago.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "es/islas-baleares/palma",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "stateCode": "IB",
+  "stateName": "Illes Balears",
+  "cityName": "Palma",
+  "bbox": {
+    "minLat": 39.56,
+    "minLng": 2.64,
+    "maxLat": 39.58,
+    "maxLng": 2.66
+  },
+  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palma-cathedral",
+      "name": "Cathedral of Palma",
+      "lat": 39.5675,
+      "lng": 2.648,
+      "radiusM": 120,
+      "address": "La Seu",
+      "howTo": "Visit Cathedral of Palma.",
+      "badge": "badges/palma-cathedral.png"
+    },
+    {
+      "id": "palau-de-lalmudaina",
+      "name": "Palau de l'Almudaina",
+      "lat": 39.5675,
+      "lng": 2.647,
+      "radiusM": 100,
+      "address": "Almudaina Palace",
+      "howTo": "Visit Palau de l'Almudaina.",
+      "badge": "badges/palau-de-lalmudaina.png"
+    },
+    {
+      "id": "bellver-castle",
+      "name": "Bellver Castle",
+      "lat": 39.5635,
+      "lng": 2.6195,
+      "radiusM": 150,
+      "address": "Castell de Bellver",
+      "howTo": "Visit Bellver Castle.",
+      "badge": "badges/bellver-castle.png"
+    }
+  ]
+}
