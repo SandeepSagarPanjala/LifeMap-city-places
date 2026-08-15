@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/lucerne/lucerne",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "LU",
+  "stateName": "Lucerne",
+  "cityName": "Lucerne",
+  "bbox": {
+    "minLat": 47.04,
+    "minLng": 8.29,
+    "maxLat": 47.06,
+    "maxLng": 8.32
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chapel-bridge",
+      "name": "Chapel Bridge",
+      "lat": 47.0515,
+      "lng": 8.3075,
+      "radiusM": 100,
+      "address": "Kapellbr\u00fccke",
+      "howTo": "Visit Chapel Bridge.",
+      "badge": "badges/chapel-bridge.png"
+    },
+    {
+      "id": "lion-monument",
+      "name": "Lion Monument",
+      "lat": 47.0585,
+      "lng": 8.3105,
+      "radiusM": 80,
+      "address": "L\u00f6wendenkmal",
+      "howTo": "Visit Lion Monument.",
+      "badge": "badges/lion-monument.png"
+    },
+    {
+      "id": "old-town-lucerne",
+      "name": "Lucerne Old Town",
+      "lat": 47.0525,
+      "lng": 8.3055,
+      "radiusM": 200,
+      "address": "Altstadt",
+      "howTo": "Visit Lucerne Old Town.",
+      "badge": "badges/old-town-lucerne.png"
+    },
+    {
+      "id": "pilatus",
+      "name": "Mount Pilatus",
+      "lat": 46.9795,
+      "lng": 8.2545,
+      "radiusM": 300,
+      "address": "Pilatus Kulm area",
+      "howTo": "Visit Mount Pilatus.",
+      "badge": "badges/pilatus.png"
+    }
+  ]
+}

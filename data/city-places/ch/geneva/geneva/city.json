@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/geneva/geneva",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "GE",
+  "stateName": "Geneva",
+  "cityName": "Geneva",
+  "bbox": {
+    "minLat": 46.19,
+    "minLng": 6.13,
+    "maxLat": 46.22,
+    "maxLng": 6.16
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jet-deau",
+      "name": "Jet d'Eau",
+      "lat": 46.2075,
+      "lng": 6.1555,
+      "radiusM": 100,
+      "address": "Jet d'Eau",
+      "howTo": "Visit Jet d'Eau.",
+      "badge": "badges/jet-deau.png"
+    },
+    {
+      "id": "st-pierre-cathedral",
+      "name": "St. Pierre Cathedral",
+      "lat": 46.201,
+      "lng": 6.1485,
+      "radiusM": 100,
+      "address": "Cath\u00e9drale Saint-Pierre",
+      "howTo": "Visit St. Pierre Cathedral.",
+      "badge": "badges/st-pierre-cathedral.png"
+    },
+    {
+      "id": "united-nations-geneva",
+      "name": "Palace of Nations",
+      "lat": 46.2265,
+      "lng": 6.1405,
+      "radiusM": 200,
+      "address": "Palais des Nations",
+      "howTo": "Visit Palace of Nations.",
+      "badge": "badges/united-nations-geneva.png"
+    },
+    {
+      "id": "flower-clock-geneva",
+      "name": "Flower Clock",
+      "lat": 46.207,
+      "lng": 6.1515,
+      "radiusM": 60,
+      "address": "Horloge Fleurie",
+      "howTo": "Visit Flower Clock.",
+      "badge": "badges/flower-clock-geneva.png"
+    },
+    {
+      "id": "old-town-geneva",
+      "name": "Old Town Geneva",
+      "lat": 46.2015,
+      "lng": 6.148,
+      "radiusM": 200,
+      "address": "Vieille Ville",
+      "howTo": "Visit Old Town Geneva.",
+      "badge": "badges/old-town-geneva.png"
+    }
+  ]
+}

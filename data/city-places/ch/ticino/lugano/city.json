@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/ticino/lugano",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "TI",
+  "stateName": "Ticino",
+  "cityName": "Lugano",
+  "bbox": {
+    "minLat": 46.0,
+    "minLng": 8.94,
+    "maxLat": 46.01,
+    "maxLng": 8.96
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parco-civico-lugano",
+      "name": "Parco Civico",
+      "lat": 46.0045,
+      "lng": 8.9515,
+      "radiusM": 200,
+      "address": "Parco Ciani",
+      "howTo": "Visit Parco Civico.",
+      "badge": "badges/parco-civico-lugano.png"
+    },
+    {
+      "id": "monte-bre",
+      "name": "Monte Br\u00e8",
+      "lat": 46.0095,
+      "lng": 8.9865,
+      "radiusM": 200,
+      "address": "Monte Br\u00e8",
+      "howTo": "Visit Monte Br\u00e8.",
+      "badge": "badges/monte-bre.png"
+    },
+    {
+      "id": "piazza-della-riforma",
+      "name": "Piazza della Riforma",
+      "lat": 46.0035,
+      "lng": 8.951,
+      "radiusM": 80,
+      "address": "Piazza della Riforma",
+      "howTo": "Visit Piazza della Riforma.",
+      "badge": "badges/piazza-della-riforma.png"
+    }
+  ]
+}

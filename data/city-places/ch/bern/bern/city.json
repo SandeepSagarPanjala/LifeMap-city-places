@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/bern/bern",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "BE",
+  "stateName": "Bern",
+  "cityName": "Bern",
+  "bbox": {
+    "minLat": 46.94,
+    "minLng": 7.44,
+    "maxLat": 46.95,
+    "maxLng": 7.46
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zytglogge",
+      "name": "Zytglogge",
+      "lat": 46.948,
+      "lng": 7.4475,
+      "radiusM": 60,
+      "address": "Clock Tower",
+      "howTo": "Visit Zytglogge.",
+      "badge": "badges/zytglogge.png"
+    },
+    {
+      "id": "bern-munster",
+      "name": "Bern Minster",
+      "lat": 46.947,
+      "lng": 7.4515,
+      "radiusM": 100,
+      "address": "Berner M\u00fcnster",
+      "howTo": "Visit Bern Minster.",
+      "badge": "badges/bern-munster.png"
+    },
+    {
+      "id": "federal-palace",
+      "name": "Federal Palace",
+      "lat": 46.9465,
+      "lng": 7.4445,
+      "radiusM": 120,
+      "address": "Bundeshaus",
+      "howTo": "Visit Federal Palace.",
+      "badge": "badges/federal-palace.png"
+    },
+    {
+      "id": "bear-park-bern",
+      "name": "Bear Park",
+      "lat": 46.9485,
+      "lng": 7.4595,
+      "radiusM": 150,
+      "address": "B\u00e4renpark",
+      "howTo": "Visit Bear Park.",
+      "badge": "badges/bear-park-bern.png"
+    }
+  ]
+}

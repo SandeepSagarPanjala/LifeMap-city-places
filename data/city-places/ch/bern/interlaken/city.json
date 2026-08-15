@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/bern/interlaken",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "BE",
+  "stateName": "Bern",
+  "cityName": "Interlaken",
+  "bbox": {
+    "minLat": 46.68,
+    "minLng": 7.85,
+    "maxLat": 46.69,
+    "maxLng": 7.88
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "harder-kulm",
+      "name": "Harder Kulm",
+      "lat": 46.6965,
+      "lng": 7.8665,
+      "radiusM": 150,
+      "address": "Harder Kulm viewpoint",
+      "howTo": "Visit Harder Kulm.",
+      "badge": "badges/harder-kulm.png"
+    },
+    {
+      "id": "hohenmatte",
+      "name": "H\u00f6heweg / H\u00f6hematte",
+      "lat": 46.6865,
+      "lng": 7.8635,
+      "radiusM": 200,
+      "address": "H\u00f6heweg promenade",
+      "howTo": "Visit H\u00f6heweg / H\u00f6hematte.",
+      "badge": "badges/hohenmatte.png"
+    },
+    {
+      "id": "lake-brienz-view",
+      "name": "Lake Brienz Viewpoint",
+      "lat": 46.6905,
+      "lng": 7.8705,
+      "radiusM": 200,
+      "address": "Brienzersee view",
+      "howTo": "Visit Lake Brienz Viewpoint.",
+      "badge": "badges/lake-brienz-view.png"
+    }
+  ]
+}

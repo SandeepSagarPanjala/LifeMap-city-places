@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T10:02:06.000Z",
-  "notes": "Queue through Portugal complete. Next: Switzerland (ch) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T10:21:40.000Z",
+  "notes": "Queue through Switzerland complete. Next: New Zealand (nz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8405,6 +8405,230 @@
                 "minLng": -25.68,
                 "maxLat": 37.75,
                 "maxLng": -25.66
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch",
+      "countryCode": "CH",
+      "name": "Switzerland",
+      "states": [
+        {
+          "id": "zurich",
+          "stateCode": "ZH",
+          "name": "Z\u00fcrich",
+          "cities": [
+            {
+              "id": "zurich",
+              "name": "Zurich",
+              "status": "complete",
+              "packPath": "ch/zurich/zurich/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 47.36,
+                "minLng": 8.52,
+                "maxLat": 47.39,
+                "maxLng": 8.56
+              }
+            }
+          ]
+        },
+        {
+          "id": "bern",
+          "stateCode": "BE",
+          "name": "Bern",
+          "cities": [
+            {
+              "id": "bern",
+              "name": "Bern",
+              "status": "complete",
+              "packPath": "ch/bern/bern/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.94,
+                "minLng": 7.44,
+                "maxLat": 46.95,
+                "maxLng": 7.46
+              }
+            },
+            {
+              "id": "interlaken",
+              "name": "Interlaken",
+              "status": "complete",
+              "packPath": "ch/bern/interlaken/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.68,
+                "minLng": 7.85,
+                "maxLat": 46.69,
+                "maxLng": 7.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "geneva",
+          "stateCode": "GE",
+          "name": "Geneva",
+          "cities": [
+            {
+              "id": "geneva",
+              "name": "Geneva",
+              "status": "complete",
+              "packPath": "ch/geneva/geneva/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.19,
+                "minLng": 6.13,
+                "maxLat": 46.22,
+                "maxLng": 6.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "vaud",
+          "stateCode": "VD",
+          "name": "Vaud",
+          "cities": [
+            {
+              "id": "lausanne",
+              "name": "Lausanne",
+              "status": "complete",
+              "packPath": "ch/vaud/lausanne/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.51,
+                "minLng": 6.62,
+                "maxLat": 46.53,
+                "maxLng": 6.64
+              }
+            },
+            {
+              "id": "montreux",
+              "name": "Montreux",
+              "status": "complete",
+              "packPath": "ch/vaud/montreux/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.42,
+                "minLng": 6.9,
+                "maxLat": 46.44,
+                "maxLng": 6.93
+              }
+            }
+          ]
+        },
+        {
+          "id": "lucerne",
+          "stateCode": "LU",
+          "name": "Lucerne",
+          "cities": [
+            {
+              "id": "lucerne",
+              "name": "Lucerne",
+              "status": "complete",
+              "packPath": "ch/lucerne/lucerne/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 47.04,
+                "minLng": 8.29,
+                "maxLat": 47.06,
+                "maxLng": 8.32
+              }
+            }
+          ]
+        },
+        {
+          "id": "basel-stadt",
+          "stateCode": "BS",
+          "name": "Basel-Stadt",
+          "cities": [
+            {
+              "id": "basel",
+              "name": "Basel",
+              "status": "complete",
+              "packPath": "ch/basel-stadt/basel/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 47.55,
+                "minLng": 7.58,
+                "maxLat": 47.56,
+                "maxLng": 7.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "valais",
+          "stateCode": "VS",
+          "name": "Valais",
+          "cities": [
+            {
+              "id": "zermatt",
+              "name": "Zermatt",
+              "status": "complete",
+              "packPath": "ch/valais/zermatt/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.01,
+                "minLng": 7.74,
+                "maxLat": 46.03,
+                "maxLng": 7.76
+              }
+            }
+          ]
+        },
+        {
+          "id": "graubunden",
+          "stateCode": "GR",
+          "name": "Graub\u00fcnden",
+          "cities": [
+            {
+              "id": "st-moritz",
+              "name": "St. Moritz",
+              "status": "complete",
+              "packPath": "ch/graubunden/st-moritz/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.49,
+                "minLng": 9.83,
+                "maxLat": 46.5,
+                "maxLng": 9.85
+              }
+            }
+          ]
+        },
+        {
+          "id": "ticino",
+          "stateCode": "TI",
+          "name": "Ticino",
+          "cities": [
+            {
+              "id": "lugano",
+              "name": "Lugano",
+              "status": "complete",
+              "packPath": "ch/ticino/lugano/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:10:00.000Z",
+              "bbox": {
+                "minLat": 46.0,
+                "minLng": 8.94,
+                "maxLat": 46.01,
+                "maxLng": 8.96
               }
             }
           ]

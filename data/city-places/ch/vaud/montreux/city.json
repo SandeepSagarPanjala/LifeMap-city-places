@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/vaud/montreux",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "VD",
+  "stateName": "Vaud",
+  "cityName": "Montreux",
+  "bbox": {
+    "minLat": 46.42,
+    "minLng": 6.9,
+    "maxLat": 46.44,
+    "maxLng": 6.93
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chillon-castle",
+      "name": "Chillon Castle",
+      "lat": 46.4145,
+      "lng": 6.9275,
+      "radiusM": 150,
+      "address": "Ch\u00e2teau de Chillon",
+      "howTo": "Visit Chillon Castle.",
+      "badge": "badges/chillon-castle.png"
+    },
+    {
+      "id": "montreux-promenade",
+      "name": "Montreux Lakeside Promenade",
+      "lat": 46.4315,
+      "lng": 6.9105,
+      "radiusM": 250,
+      "address": "Promenade",
+      "howTo": "Visit Montreux Lakeside Promenade.",
+      "badge": "badges/montreux-promenade.png"
+    },
+    {
+      "id": "freddie-mercury-statue",
+      "name": "Freddie Mercury Statue",
+      "lat": 46.431,
+      "lng": 6.9115,
+      "radiusM": 40,
+      "address": "Place du March\u00e9",
+      "howTo": "Visit Freddie Mercury Statue.",
+      "badge": "badges/freddie-mercury-statue.png"
+    }
+  ]
+}

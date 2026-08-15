@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/zurich/zurich",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "ZH",
+  "stateName": "Z\u00fcrich",
+  "cityName": "Zurich",
+  "bbox": {
+    "minLat": 47.36,
+    "minLng": 8.52,
+    "maxLat": 47.39,
+    "maxLng": 8.56
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grossmunster",
+      "name": "Grossm\u00fcnster",
+      "lat": 47.37,
+      "lng": 8.544,
+      "radiusM": 80,
+      "address": "Grossm\u00fcnster",
+      "howTo": "Visit Grossm\u00fcnster.",
+      "badge": "badges/grossmunster.png"
+    },
+    {
+      "id": "fraumunster",
+      "name": "Fraum\u00fcnster",
+      "lat": 47.3698,
+      "lng": 8.5415,
+      "radiusM": 80,
+      "address": "Fraum\u00fcnster",
+      "howTo": "Visit Fraum\u00fcnster.",
+      "badge": "badges/fraumunster.png"
+    },
+    {
+      "id": "bahnhofstrasse",
+      "name": "Bahnhofstrasse",
+      "lat": 47.3755,
+      "lng": 8.539,
+      "radiusM": 200,
+      "address": "Bahnhofstrasse",
+      "howTo": "Visit Bahnhofstrasse.",
+      "badge": "badges/bahnhofstrasse.png"
+    },
+    {
+      "id": "lake-zurich-promenade",
+      "name": "Lake Zurich Promenade",
+      "lat": 47.3645,
+      "lng": 8.5455,
+      "radiusM": 250,
+      "address": "Z\u00fcrichsee quay",
+      "howTo": "Visit Lake Zurich Promenade.",
+      "badge": "badges/lake-zurich-promenade.png"
+    },
+    {
+      "id": "kunsthaus-zurich",
+      "name": "Kunsthaus Z\u00fcrich",
+      "lat": 47.3705,
+      "lng": 8.5485,
+      "radiusM": 100,
+      "address": "Kunsthaus",
+      "howTo": "Visit Kunsthaus Z\u00fcrich.",
+      "badge": "badges/kunsthaus-zurich.png"
+    },
+    {
+      "id": "lindenhof",
+      "name": "Lindenhof",
+      "lat": 47.373,
+      "lng": 8.541,
+      "radiusM": 100,
+      "address": "Lindenhof hill",
+      "howTo": "Visit Lindenhof.",
+      "badge": "badges/lindenhof.png"
+    }
+  ]
+}

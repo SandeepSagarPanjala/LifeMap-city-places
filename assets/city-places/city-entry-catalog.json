@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T10:02:06.901Z",
+  "generatedAt": "2026-08-15T10:21:40.584Z",
   "cellDeg": 0.5,
-  "cityCount": 488,
+  "cityCount": 499,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -245,6 +245,105 @@
         "minLng": -71.22,
         "maxLat": 46.82,
         "maxLng": -71.2
+      }
+    },
+    "ch/basel-stadt/basel": {
+      "name": "Basel",
+      "bbox": {
+        "minLat": 47.55,
+        "minLng": 7.58,
+        "maxLat": 47.56,
+        "maxLng": 7.6
+      }
+    },
+    "ch/bern/bern": {
+      "name": "Bern",
+      "bbox": {
+        "minLat": 46.94,
+        "minLng": 7.44,
+        "maxLat": 46.95,
+        "maxLng": 7.46
+      }
+    },
+    "ch/bern/interlaken": {
+      "name": "Interlaken",
+      "bbox": {
+        "minLat": 46.68,
+        "minLng": 7.85,
+        "maxLat": 46.69,
+        "maxLng": 7.88
+      }
+    },
+    "ch/geneva/geneva": {
+      "name": "Geneva",
+      "bbox": {
+        "minLat": 46.19,
+        "minLng": 6.13,
+        "maxLat": 46.22,
+        "maxLng": 6.16
+      }
+    },
+    "ch/graubunden/st-moritz": {
+      "name": "St. Moritz",
+      "bbox": {
+        "minLat": 46.49,
+        "minLng": 9.83,
+        "maxLat": 46.5,
+        "maxLng": 9.85
+      }
+    },
+    "ch/lucerne/lucerne": {
+      "name": "Lucerne",
+      "bbox": {
+        "minLat": 47.04,
+        "minLng": 8.29,
+        "maxLat": 47.06,
+        "maxLng": 8.32
+      }
+    },
+    "ch/ticino/lugano": {
+      "name": "Lugano",
+      "bbox": {
+        "minLat": 46,
+        "minLng": 8.94,
+        "maxLat": 46.01,
+        "maxLng": 8.96
+      }
+    },
+    "ch/valais/zermatt": {
+      "name": "Zermatt",
+      "bbox": {
+        "minLat": 46.01,
+        "minLng": 7.74,
+        "maxLat": 46.03,
+        "maxLng": 7.76
+      }
+    },
+    "ch/vaud/lausanne": {
+      "name": "Lausanne",
+      "bbox": {
+        "minLat": 46.51,
+        "minLng": 6.62,
+        "maxLat": 46.53,
+        "maxLng": 6.64
+      }
+    },
+    "ch/vaud/montreux": {
+      "name": "Montreux",
+      "bbox": {
+        "minLat": 46.42,
+        "minLng": 6.9,
+        "maxLat": 46.44,
+        "maxLng": 6.93
+      }
+    },
+    "ch/zurich/zurich": {
+      "name": "Zurich",
+      "bbox": {
+        "minLat": 47.36,
+        "minLng": 8.52,
+        "maxLat": 47.39,
+        "maxLng": 8.56
       }
     },
     "de/baden-wuerttemberg/freiburg": {
@@ -6042,6 +6141,7 @@
       "de/baden-wuerttemberg/stuttgart"
     ],
     "95,15": [
+      "ch/basel-stadt/basel",
       "de/baden-wuerttemberg/freiburg"
     ],
     "96,15": [
@@ -6308,6 +6408,39 @@
     ],
     "75,-52": [
       "pt/acores/ponta-delgada"
+    ],
+    "94,17": [
+      "ch/zurich/zurich"
+    ],
+    "93,14": [
+      "ch/bern/bern"
+    ],
+    "93,15": [
+      "ch/bern/interlaken"
+    ],
+    "92,12": [
+      "ch/geneva/geneva"
+    ],
+    "93,13": [
+      "ch/vaud/lausanne"
+    ],
+    "92,13": [
+      "ch/vaud/montreux"
+    ],
+    "94,16": [
+      "ch/lucerne/lucerne"
+    ],
+    "92,15": [
+      "ch/valais/zermatt"
+    ],
+    "92,19": [
+      "ch/graubunden/st-moritz"
+    ],
+    "93,19": [
+      "ch/graubunden/st-moritz"
+    ],
+    "92,17": [
+      "ch/ticino/lugano"
     ]
   }
 }

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/basel-stadt/basel",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "BS",
+  "stateName": "Basel-Stadt",
+  "cityName": "Basel",
+  "bbox": {
+    "minLat": 47.55,
+    "minLng": 7.58,
+    "maxLat": 47.56,
+    "maxLng": 7.6
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basel-munster",
+      "name": "Basel Minster",
+      "lat": 47.5565,
+      "lng": 7.5925,
+      "radiusM": 100,
+      "address": "Basler M\u00fcnster",
+      "howTo": "Visit Basel Minster.",
+      "badge": "badges/basel-munster.png"
+    },
+    {
+      "id": "rathaus-basel",
+      "name": "Basel Town Hall",
+      "lat": 47.5585,
+      "lng": 7.5885,
+      "radiusM": 80,
+      "address": "Rathaus",
+      "howTo": "Visit Basel Town Hall.",
+      "badge": "badges/rathaus-basel.png"
+    },
+    {
+      "id": "kunstmuseum-basel",
+      "name": "Kunstmuseum Basel",
+      "lat": 47.5545,
+      "lng": 7.5945,
+      "radiusM": 100,
+      "address": "Kunstmuseum",
+      "howTo": "Visit Kunstmuseum Basel.",
+      "badge": "badges/kunstmuseum-basel.png"
+    },
+    {
+      "id": "mittlere-brucke",
+      "name": "Mittlere Br\u00fccke",
+      "lat": 47.5605,
+      "lng": 7.5895,
+      "radiusM": 80,
+      "address": "Mittlere Bridge",
+      "howTo": "Visit Mittlere Br\u00fccke.",
+      "badge": "badges/mittlere-brucke.png"
+    }
+  ]
+}

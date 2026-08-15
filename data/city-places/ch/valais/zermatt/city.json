@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/valais/zermatt",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "VS",
+  "stateName": "Valais",
+  "cityName": "Zermatt",
+  "bbox": {
+    "minLat": 46.01,
+    "minLng": 7.74,
+    "maxLat": 46.03,
+    "maxLng": 7.76
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "matterhorn-viewpoint",
+      "name": "Matterhorn Viewpoint",
+      "lat": 46.0205,
+      "lng": 7.7485,
+      "radiusM": 300,
+      "address": "Matterhorn views / Gornergrat area",
+      "howTo": "Visit Matterhorn Viewpoint.",
+      "badge": "badges/matterhorn-viewpoint.png"
+    },
+    {
+      "id": "zermatt-village",
+      "name": "Zermatt Village",
+      "lat": 46.0205,
+      "lng": 7.7495,
+      "radiusM": 200,
+      "address": "Bahnhofstrasse Zermatt",
+      "howTo": "Visit Zermatt Village.",
+      "badge": "badges/zermatt-village.png"
+    },
+    {
+      "id": "gornergrat",
+      "name": "Gornergrat",
+      "lat": 45.9835,
+      "lng": 7.7855,
+      "radiusM": 200,
+      "address": "Gornergrat",
+      "howTo": "Visit Gornergrat.",
+      "badge": "badges/gornergrat.png"
+    }
+  ]
+}

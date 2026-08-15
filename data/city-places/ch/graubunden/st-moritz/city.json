@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/graubunden/st-moritz",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "GR",
+  "stateName": "Graub\u00fcnden",
+  "cityName": "St. Moritz",
+  "bbox": {
+    "minLat": 46.49,
+    "minLng": 9.83,
+    "maxLat": 46.5,
+    "maxLng": 9.85
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-st-moritz",
+      "name": "Lake St. Moritz",
+      "lat": 46.4945,
+      "lng": 9.8385,
+      "radiusM": 250,
+      "address": "St. Moritzersee",
+      "howTo": "Visit Lake St. Moritz.",
+      "badge": "badges/lake-st-moritz.png"
+    },
+    {
+      "id": "segnes-viewpoint",
+      "name": "Segantini Museum area",
+      "lat": 46.4965,
+      "lng": 9.8435,
+      "radiusM": 150,
+      "address": "Segantini / hillside views",
+      "howTo": "Visit Segantini Museum area.",
+      "badge": "badges/segnes-viewpoint.png"
+    },
+    {
+      "id": "via-serlas",
+      "name": "Via Serlas",
+      "lat": 46.4975,
+      "lng": 9.8415,
+      "radiusM": 150,
+      "address": "Via Serlas",
+      "howTo": "Visit Via Serlas.",
+      "badge": "badges/via-serlas.png"
+    }
+  ]
+}

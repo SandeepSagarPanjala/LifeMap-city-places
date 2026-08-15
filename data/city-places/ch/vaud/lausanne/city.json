@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ch/vaud/lausanne",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "stateCode": "VD",
+  "stateName": "Vaud",
+  "cityName": "Lausanne",
+  "bbox": {
+    "minLat": 46.51,
+    "minLng": 6.62,
+    "maxLat": 46.53,
+    "maxLng": 6.64
+  },
+  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "olympic-museum",
+      "name": "Olympic Museum",
+      "lat": 46.5085,
+      "lng": 6.6345,
+      "radiusM": 120,
+      "address": "Mus\u00e9e Olympique",
+      "howTo": "Visit Olympic Museum.",
+      "badge": "badges/olympic-museum.png"
+    },
+    {
+      "id": "lausanne-cathedral",
+      "name": "Lausanne Cathedral",
+      "lat": 46.5225,
+      "lng": 6.6355,
+      "radiusM": 100,
+      "address": "Cath\u00e9drale de Lausanne",
+      "howTo": "Visit Lausanne Cathedral.",
+      "badge": "badges/lausanne-cathedral.png"
+    },
+    {
+      "id": "ouchy-waterfront",
+      "name": "Ouchy Waterfront",
+      "lat": 46.5075,
+      "lng": 6.6265,
+      "radiusM": 200,
+      "address": "Ouchy",
+      "howTo": "Visit Ouchy Waterfront.",
+      "badge": "badges/ouchy-waterfront.png"
+    }
+  ]
+}
