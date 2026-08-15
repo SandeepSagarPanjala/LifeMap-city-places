@@ -47,17 +47,25 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 1. `us` — United States (**complete**)
 2. `in` — India (**complete**)
 3. `jp` — Japan (**complete**)
-4. `gb` — United Kingdom
-5. `fr` — France
-6. `it` — Italy
-7. `es` — Spain
-8. `de` — Germany
-9. `au` — Australia
-10. `ca` — Canada
-11. `th` — Thailand
-12. `kr` — South Korea
+4. `gb` — United Kingdom (**complete**)
+5. `fr` — France (**complete**)
+6. `it` — Italy (**complete**)
+7. `es` — Spain (**complete**)
+8. `de` — Germany (**complete**)
+9. `au` — Australia (**complete**)
+10. `ca` — Canada (**complete**)
+11. `th` — Thailand (**complete**)
+12. `kr` — South Korea (**complete**)
+13. `nl` — Netherlands
+14. `pt` — Portugal
+15. `ch` — Switzerland
+16. `nz` — New Zealand
+17. `sg` — Singapore
+18. `ae` — United Arab Emirates
+19. `br` — Brazil
+20. `mx` — Mexico
 
-When the queue is exhausted, extend it with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
+When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 
 ### Then do work (loop)
 
