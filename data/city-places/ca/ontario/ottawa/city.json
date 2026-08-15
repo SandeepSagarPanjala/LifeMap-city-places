@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/ontario/ottawa",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "ON",
+  "stateName": "Ontario",
+  "cityName": "Ottawa",
+  "bbox": {
+    "minLat": 45.41,
+    "minLng": -75.71,
+    "maxLat": 45.44,
+    "maxLng": -75.68
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parliament-hill",
+      "name": "Parliament Hill",
+      "lat": 45.4235,
+      "lng": -75.7009,
+      "radiusM": 200,
+      "address": "Parliament Hill",
+      "howTo": "Visit Parliament Hill.",
+      "badge": "badges/parliament-hill.png"
+    },
+    {
+      "id": "rideau-canal",
+      "name": "Rideau Canal",
+      "lat": 45.4215,
+      "lng": -75.6985,
+      "radiusM": 200,
+      "address": "Rideau Canal",
+      "howTo": "Visit Rideau Canal.",
+      "badge": "badges/rideau-canal.png"
+    },
+    {
+      "id": "national-gallery-canada",
+      "name": "National Gallery of Canada",
+      "lat": 45.4295,
+      "lng": -75.6985,
+      "radiusM": 120,
+      "address": "National Gallery",
+      "howTo": "Visit National Gallery of Canada.",
+      "badge": "badges/national-gallery-canada.png"
+    },
+    {
+      "id": "byward-market",
+      "name": "ByWard Market",
+      "lat": 45.429,
+      "lng": -75.6925,
+      "radiusM": 150,
+      "address": "ByWard Market",
+      "howTo": "Visit ByWard Market.",
+      "badge": "badges/byward-market.png"
+    }
+  ]
+}

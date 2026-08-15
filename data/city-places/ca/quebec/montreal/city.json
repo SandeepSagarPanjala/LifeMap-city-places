@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/quebec/montreal",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "QC",
+  "stateName": "Quebec",
+  "cityName": "Montreal",
+  "bbox": {
+    "minLat": 45.49,
+    "minLng": -73.58,
+    "maxLat": 45.52,
+    "maxLng": -73.55
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "old-montreal",
+      "name": "Old Montreal",
+      "lat": 45.5075,
+      "lng": -73.5545,
+      "radiusM": 200,
+      "address": "Vieux-Montr\u00e9al",
+      "howTo": "Visit Old Montreal.",
+      "badge": "badges/old-montreal.png"
+    },
+    {
+      "id": "notre-dame-montreal",
+      "name": "Notre-Dame Basilica",
+      "lat": 45.5045,
+      "lng": -73.5565,
+      "radiusM": 100,
+      "address": "Basilique Notre-Dame",
+      "howTo": "Visit Notre-Dame Basilica.",
+      "badge": "badges/notre-dame-montreal.png"
+    },
+    {
+      "id": "mount-royal",
+      "name": "Mount Royal",
+      "lat": 45.5048,
+      "lng": -73.5875,
+      "radiusM": 300,
+      "address": "Mount Royal Park",
+      "howTo": "Visit Mount Royal.",
+      "badge": "badges/mount-royal.png"
+    },
+    {
+      "id": "jean-talon-market",
+      "name": "Jean-Talon Market",
+      "lat": 45.5365,
+      "lng": -73.6155,
+      "radiusM": 150,
+      "address": "March\u00e9 Jean-Talon",
+      "howTo": "Visit Jean-Talon Market.",
+      "badge": "badges/jean-talon-market.png"
+    },
+    {
+      "id": "montreal-museum-fine-arts",
+      "name": "Montreal Museum of Fine Arts",
+      "lat": 45.4985,
+      "lng": -73.5805,
+      "radiusM": 100,
+      "address": "MBAM",
+      "howTo": "Visit Montreal Museum of Fine Arts.",
+      "badge": "badges/montreal-museum-fine-arts.png"
+    }
+  ]
+}

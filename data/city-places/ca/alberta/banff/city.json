@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/alberta/banff",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "AB",
+  "stateName": "Alberta",
+  "cityName": "Banff",
+  "bbox": {
+    "minLat": 51.16,
+    "minLng": -115.58,
+    "maxLat": 51.19,
+    "maxLng": -115.55
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-louise",
+      "name": "Lake Louise",
+      "lat": 51.4255,
+      "lng": -116.1775,
+      "radiusM": 300,
+      "address": "Lake Louise",
+      "howTo": "Visit Lake Louise.",
+      "badge": "badges/lake-louise.png"
+    },
+    {
+      "id": "banff-gondola",
+      "name": "Banff Gondola",
+      "lat": 51.1485,
+      "lng": -115.5615,
+      "radiusM": 150,
+      "address": "Banff Gondola / Sulphur Mountain",
+      "howTo": "Visit Banff Gondola.",
+      "badge": "badges/banff-gondola.png"
+    },
+    {
+      "id": "banff-avenue",
+      "name": "Banff Avenue",
+      "lat": 51.1785,
+      "lng": -115.5715,
+      "radiusM": 150,
+      "address": "Banff Avenue",
+      "howTo": "Visit Banff Avenue.",
+      "badge": "badges/banff-avenue.png"
+    },
+    {
+      "id": "bow-falls",
+      "name": "Bow Falls",
+      "lat": 51.1675,
+      "lng": -115.5605,
+      "radiusM": 150,
+      "address": "Bow Falls",
+      "howTo": "Visit Bow Falls.",
+      "badge": "badges/bow-falls.png"
+    }
+  ]
+}

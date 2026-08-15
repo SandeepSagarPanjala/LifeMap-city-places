@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/british-columbia/victoria",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "BC",
+  "stateName": "British Columbia",
+  "cityName": "Victoria",
+  "bbox": {
+    "minLat": 48.41,
+    "minLng": -123.37,
+    "maxLat": 48.43,
+    "maxLng": -123.35
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "inner-harbour-victoria",
+      "name": "Inner Harbour",
+      "lat": 48.4225,
+      "lng": -123.3705,
+      "radiusM": 150,
+      "address": "Inner Harbour",
+      "howTo": "Visit Inner Harbour.",
+      "badge": "badges/inner-harbour-victoria.png"
+    },
+    {
+      "id": "butchart-gardens",
+      "name": "Butchart Gardens",
+      "lat": 48.5655,
+      "lng": -123.4655,
+      "radiusM": 250,
+      "address": "Butchart Gardens",
+      "howTo": "Visit Butchart Gardens.",
+      "badge": "badges/butchart-gardens.png"
+    },
+    {
+      "id": "british-columbia-parliament",
+      "name": "BC Parliament Buildings",
+      "lat": 48.4195,
+      "lng": -123.3705,
+      "radiusM": 120,
+      "address": "Parliament Buildings",
+      "howTo": "Visit BC Parliament Buildings.",
+      "badge": "badges/british-columbia-parliament.png"
+    }
+  ]
+}

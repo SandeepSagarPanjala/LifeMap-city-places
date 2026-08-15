@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/ontario/niagara-falls",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "ON",
+  "stateName": "Ontario",
+  "cityName": "Niagara Falls",
+  "bbox": {
+    "minLat": 43.07,
+    "minLng": -79.09,
+    "maxLat": 43.1,
+    "maxLng": -79.06
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "horseshoe-falls",
+      "name": "Horseshoe Falls",
+      "lat": 43.079,
+      "lng": -79.0745,
+      "radiusM": 250,
+      "address": "Horseshoe Falls",
+      "howTo": "Visit Horseshoe Falls.",
+      "badge": "badges/horseshoe-falls.png"
+    },
+    {
+      "id": "journey-behind-the-falls",
+      "name": "Journey Behind the Falls",
+      "lat": 43.0795,
+      "lng": -79.0735,
+      "radiusM": 100,
+      "address": "Journey Behind the Falls",
+      "howTo": "Visit Journey Behind the Falls.",
+      "badge": "badges/journey-behind-the-falls.png"
+    },
+    {
+      "id": "niagara-parkway",
+      "name": "Niagara Parkway",
+      "lat": 43.0905,
+      "lng": -79.0755,
+      "radiusM": 250,
+      "address": "Niagara Parkway viewpoints",
+      "howTo": "Visit Niagara Parkway.",
+      "badge": "badges/niagara-parkway.png"
+    }
+  ]
+}

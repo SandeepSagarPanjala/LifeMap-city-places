@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/nova-scotia/halifax",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "NS",
+  "stateName": "Nova Scotia",
+  "cityName": "Halifax",
+  "bbox": {
+    "minLat": 44.64,
+    "minLng": -63.58,
+    "maxLat": 44.66,
+    "maxLng": -63.56
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "halifax-citadel",
+      "name": "Halifax Citadel",
+      "lat": 44.6475,
+      "lng": -63.5805,
+      "radiusM": 150,
+      "address": "Citadel Hill",
+      "howTo": "Visit Halifax Citadel.",
+      "badge": "badges/halifax-citadel.png"
+    },
+    {
+      "id": "halifax-waterfront",
+      "name": "Halifax Waterfront",
+      "lat": 44.647,
+      "lng": -63.5705,
+      "radiusM": 200,
+      "address": "Boardwalk / Waterfront",
+      "howTo": "Visit Halifax Waterfront.",
+      "badge": "badges/halifax-waterfront.png"
+    },
+    {
+      "id": "public-gardens-halifax",
+      "name": "Halifax Public Gardens",
+      "lat": 44.6425,
+      "lng": -63.5825,
+      "radiusM": 150,
+      "address": "Public Gardens",
+      "howTo": "Visit Halifax Public Gardens.",
+      "badge": "badges/public-gardens-halifax.png"
+    }
+  ]
+}

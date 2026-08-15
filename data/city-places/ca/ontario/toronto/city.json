@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/ontario/toronto",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "ON",
+  "stateName": "Ontario",
+  "cityName": "Toronto",
+  "bbox": {
+    "minLat": 43.62,
+    "minLng": -79.42,
+    "maxLat": 43.68,
+    "maxLng": -79.35
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cn-tower",
+      "name": "CN Tower",
+      "lat": 43.6426,
+      "lng": -79.3871,
+      "radiusM": 120,
+      "address": "CN Tower",
+      "howTo": "Visit CN Tower.",
+      "badge": "badges/cn-tower.png"
+    },
+    {
+      "id": "royal-ontario-museum",
+      "name": "Royal Ontario Museum",
+      "lat": 43.6677,
+      "lng": -79.3948,
+      "radiusM": 120,
+      "address": "ROM",
+      "howTo": "Visit Royal Ontario Museum.",
+      "badge": "badges/royal-ontario-museum.png"
+    },
+    {
+      "id": "toronto-islands",
+      "name": "Toronto Islands",
+      "lat": 43.6205,
+      "lng": -79.3785,
+      "radiusM": 300,
+      "address": "Toronto Islands",
+      "howTo": "Visit Toronto Islands.",
+      "badge": "badges/toronto-islands.png"
+    },
+    {
+      "id": "distillery-district",
+      "name": "Distillery District",
+      "lat": 43.6505,
+      "lng": -79.3595,
+      "radiusM": 150,
+      "address": "Distillery District",
+      "howTo": "Visit Distillery District.",
+      "badge": "badges/distillery-district.png"
+    },
+    {
+      "id": "casa-loma",
+      "name": "Casa Loma",
+      "lat": 43.678,
+      "lng": -79.4095,
+      "radiusM": 120,
+      "address": "Casa Loma",
+      "howTo": "Visit Casa Loma.",
+      "badge": "badges/casa-loma.png"
+    },
+    {
+      "id": "st-lawrence-market",
+      "name": "St. Lawrence Market",
+      "lat": 43.6487,
+      "lng": -79.3715,
+      "radiusM": 100,
+      "address": "St. Lawrence Market",
+      "howTo": "Visit St. Lawrence Market.",
+      "badge": "badges/st-lawrence-market.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/alberta/jasper",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "AB",
+  "stateName": "Alberta",
+  "cityName": "Jasper",
+  "bbox": {
+    "minLat": 52.87,
+    "minLng": -118.09,
+    "maxLat": 52.9,
+    "maxLng": -118.05
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maligne-lake",
+      "name": "Maligne Lake",
+      "lat": 52.7275,
+      "lng": -117.6405,
+      "radiusM": 300,
+      "address": "Maligne Lake",
+      "howTo": "Visit Maligne Lake.",
+      "badge": "badges/maligne-lake.png"
+    },
+    {
+      "id": "jasper-townsite",
+      "name": "Jasper Townsite",
+      "lat": 52.8735,
+      "lng": -118.0815,
+      "radiusM": 200,
+      "address": "Jasper town centre",
+      "howTo": "Visit Jasper Townsite.",
+      "badge": "badges/jasper-townsite.png"
+    },
+    {
+      "id": "athabasca-falls",
+      "name": "Athabasca Falls",
+      "lat": 52.6655,
+      "lng": -117.8835,
+      "radiusM": 200,
+      "address": "Athabasca Falls",
+      "howTo": "Visit Athabasca Falls.",
+      "badge": "badges/athabasca-falls.png"
+    }
+  ]
+}

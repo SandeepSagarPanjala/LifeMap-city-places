@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/manitoba/winnipeg",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "MB",
+  "stateName": "Manitoba",
+  "cityName": "Winnipeg",
+  "bbox": {
+    "minLat": 49.88,
+    "minLng": -97.15,
+    "maxLat": 49.9,
+    "maxLng": -97.13
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "forks-winnipeg",
+      "name": "The Forks",
+      "lat": 49.8875,
+      "lng": -97.1305,
+      "radiusM": 200,
+      "address": "The Forks",
+      "howTo": "Visit The Forks.",
+      "badge": "badges/forks-winnipeg.png"
+    },
+    {
+      "id": "manitoba-legislature",
+      "name": "Manitoba Legislative Building",
+      "lat": 49.8845,
+      "lng": -97.1475,
+      "radiusM": 120,
+      "address": "Legislative Building",
+      "howTo": "Visit Manitoba Legislative Building.",
+      "badge": "badges/manitoba-legislature.png"
+    },
+    {
+      "id": "canadian-museum-human-rights",
+      "name": "Canadian Museum for Human Rights",
+      "lat": 49.8875,
+      "lng": -97.1295,
+      "radiusM": 120,
+      "address": "CMHR",
+      "howTo": "Visit Canadian Museum for Human Rights.",
+      "badge": "badges/canadian-museum-human-rights.png"
+    }
+  ]
+}

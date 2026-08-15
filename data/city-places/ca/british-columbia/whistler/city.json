@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/british-columbia/whistler",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "BC",
+  "stateName": "British Columbia",
+  "cityName": "Whistler",
+  "bbox": {
+    "minLat": 50.11,
+    "minLng": -122.96,
+    "maxLat": 50.12,
+    "maxLng": -122.94
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "whistler-village",
+      "name": "Whistler Village",
+      "lat": 50.116,
+      "lng": -122.9575,
+      "radiusM": 200,
+      "address": "Whistler Village",
+      "howTo": "Visit Whistler Village.",
+      "badge": "badges/whistler-village.png"
+    },
+    {
+      "id": "peak-2-peak",
+      "name": "Peak 2 Peak Gondola",
+      "lat": 50.1135,
+      "lng": -122.9535,
+      "radiusM": 150,
+      "address": "Peak 2 Peak",
+      "howTo": "Visit Peak 2 Peak Gondola.",
+      "badge": "badges/peak-2-peak.png"
+    },
+    {
+      "id": "lost-lake-whistler",
+      "name": "Lost Lake",
+      "lat": 50.1265,
+      "lng": -122.9455,
+      "radiusM": 200,
+      "address": "Lost Lake",
+      "howTo": "Visit Lost Lake.",
+      "badge": "badges/lost-lake-whistler.png"
+    }
+  ]
+}

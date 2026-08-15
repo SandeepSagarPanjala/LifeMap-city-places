@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/alberta/calgary",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "AB",
+  "stateName": "Alberta",
+  "cityName": "Calgary",
+  "bbox": {
+    "minLat": 51.03,
+    "minLng": -114.09,
+    "maxLat": 51.05,
+    "maxLng": -114.05
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "calgary-tower",
+      "name": "Calgary Tower",
+      "lat": 51.0445,
+      "lng": -114.063,
+      "radiusM": 80,
+      "address": "Calgary Tower",
+      "howTo": "Visit Calgary Tower.",
+      "badge": "badges/calgary-tower.png"
+    },
+    {
+      "id": "prince-island-park",
+      "name": "Prince's Island Park",
+      "lat": 51.0555,
+      "lng": -114.0705,
+      "radiusM": 200,
+      "address": "Prince's Island Park",
+      "howTo": "Visit Prince's Island Park.",
+      "badge": "badges/prince-island-park.png"
+    },
+    {
+      "id": "heritage-park-calgary",
+      "name": "Heritage Park",
+      "lat": 50.9845,
+      "lng": -114.1035,
+      "radiusM": 250,
+      "address": "Heritage Park Historical Village",
+      "howTo": "Visit Heritage Park.",
+      "badge": "badges/heritage-park-calgary.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T21:59:16.504Z",
+  "generatedAt": "2026-08-15T01:06:45.747Z",
   "cellDeg": 0.5,
-  "cityCount": 433,
+  "cityCount": 446,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -128,6 +128,123 @@
         "minLng": 115.84,
         "maxLat": -31.94,
         "maxLng": 115.88
+      }
+    },
+    "ca/alberta/banff": {
+      "name": "Banff",
+      "bbox": {
+        "minLat": 51.16,
+        "minLng": -115.58,
+        "maxLat": 51.19,
+        "maxLng": -115.55
+      }
+    },
+    "ca/alberta/calgary": {
+      "name": "Calgary",
+      "bbox": {
+        "minLat": 51.03,
+        "minLng": -114.09,
+        "maxLat": 51.05,
+        "maxLng": -114.05
+      }
+    },
+    "ca/alberta/jasper": {
+      "name": "Jasper",
+      "bbox": {
+        "minLat": 52.87,
+        "minLng": -118.09,
+        "maxLat": 52.9,
+        "maxLng": -118.05
+      }
+    },
+    "ca/british-columbia/vancouver": {
+      "name": "Vancouver",
+      "bbox": {
+        "minLat": 49.27,
+        "minLng": -123.15,
+        "maxLat": 49.31,
+        "maxLng": -123.1
+      }
+    },
+    "ca/british-columbia/victoria": {
+      "name": "Victoria",
+      "bbox": {
+        "minLat": 48.41,
+        "minLng": -123.37,
+        "maxLat": 48.43,
+        "maxLng": -123.35
+      }
+    },
+    "ca/british-columbia/whistler": {
+      "name": "Whistler",
+      "bbox": {
+        "minLat": 50.11,
+        "minLng": -122.96,
+        "maxLat": 50.12,
+        "maxLng": -122.94
+      }
+    },
+    "ca/manitoba/winnipeg": {
+      "name": "Winnipeg",
+      "bbox": {
+        "minLat": 49.88,
+        "minLng": -97.15,
+        "maxLat": 49.9,
+        "maxLng": -97.13
+      }
+    },
+    "ca/nova-scotia/halifax": {
+      "name": "Halifax",
+      "bbox": {
+        "minLat": 44.64,
+        "minLng": -63.58,
+        "maxLat": 44.66,
+        "maxLng": -63.56
+      }
+    },
+    "ca/ontario/niagara-falls": {
+      "name": "Niagara Falls",
+      "bbox": {
+        "minLat": 43.07,
+        "minLng": -79.09,
+        "maxLat": 43.1,
+        "maxLng": -79.06
+      }
+    },
+    "ca/ontario/ottawa": {
+      "name": "Ottawa",
+      "bbox": {
+        "minLat": 45.41,
+        "minLng": -75.71,
+        "maxLat": 45.44,
+        "maxLng": -75.68
+      }
+    },
+    "ca/ontario/toronto": {
+      "name": "Toronto",
+      "bbox": {
+        "minLat": 43.62,
+        "minLng": -79.42,
+        "maxLat": 43.68,
+        "maxLng": -79.35
+      }
+    },
+    "ca/quebec/montreal": {
+      "name": "Montreal",
+      "bbox": {
+        "minLat": 45.49,
+        "minLng": -73.58,
+        "maxLat": 45.52,
+        "maxLng": -73.55
+      }
+    },
+    "ca/quebec/quebec-city": {
+      "name": "Quebec City",
+      "bbox": {
+        "minLat": 46.8,
+        "minLng": -71.22,
+        "maxLat": 46.82,
+        "maxLng": -71.2
       }
     },
     "de/baden-wuerttemberg/freiburg": {
@@ -4441,6 +4558,7 @@
       "us/new-york/buffalo"
     ],
     "86,-159": [
+      "ca/ontario/niagara-falls",
       "us/new-york/niagara-falls"
     ],
     "85,-148": [
@@ -4756,6 +4874,7 @@
       "us/washington/port-angeles"
     ],
     "96,-247": [
+      "ca/british-columbia/victoria",
       "us/washington/port-angeles"
     ],
     "76,-164": [
@@ -5639,6 +5758,42 @@
     ],
     "-71,298": [
       "au/australian-capital-territory/canberra"
+    ],
+    "87,-159": [
+      "ca/ontario/toronto"
+    ],
+    "90,-152": [
+      "ca/ontario/ottawa"
+    ],
+    "90,-148": [
+      "ca/quebec/montreal"
+    ],
+    "91,-148": [
+      "ca/quebec/montreal"
+    ],
+    "93,-143": [
+      "ca/quebec/quebec-city"
+    ],
+    "98,-247": [
+      "ca/british-columbia/vancouver"
+    ],
+    "100,-246": [
+      "ca/british-columbia/whistler"
+    ],
+    "102,-229": [
+      "ca/alberta/calgary"
+    ],
+    "102,-232": [
+      "ca/alberta/banff"
+    ],
+    "105,-237": [
+      "ca/alberta/jasper"
+    ],
+    "89,-128": [
+      "ca/nova-scotia/halifax"
+    ],
+    "99,-195": [
+      "ca/manitoba/winnipeg"
     ]
   }
 }

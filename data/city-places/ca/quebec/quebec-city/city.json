@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/quebec/quebec-city",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "QC",
+  "stateName": "Quebec",
+  "cityName": "Quebec City",
+  "bbox": {
+    "minLat": 46.8,
+    "minLng": -71.22,
+    "maxLat": 46.82,
+    "maxLng": -71.2
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chateau-frontenac",
+      "name": "Ch\u00e2teau Frontenac",
+      "lat": 46.812,
+      "lng": -71.205,
+      "radiusM": 120,
+      "address": "Fairmont Le Ch\u00e2teau Frontenac",
+      "howTo": "Visit Ch\u00e2teau Frontenac.",
+      "badge": "badges/chateau-frontenac.png"
+    },
+    {
+      "id": "old-quebec",
+      "name": "Old Quebec",
+      "lat": 46.813,
+      "lng": -71.2085,
+      "radiusM": 250,
+      "address": "Vieux-Qu\u00e9bec",
+      "howTo": "Visit Old Quebec.",
+      "badge": "badges/old-quebec.png"
+    },
+    {
+      "id": "plains-of-abraham",
+      "name": "Plains of Abraham",
+      "lat": 46.8015,
+      "lng": -71.2155,
+      "radiusM": 250,
+      "address": "Plains of Abraham",
+      "howTo": "Visit Plains of Abraham.",
+      "badge": "badges/plains-of-abraham.png"
+    },
+    {
+      "id": "petit-champlain",
+      "name": "Petit Champlain",
+      "lat": 46.8125,
+      "lng": -71.2035,
+      "radiusM": 120,
+      "address": "Rue du Petit-Champlain",
+      "howTo": "Visit Petit Champlain.",
+      "badge": "badges/petit-champlain.png"
+    }
+  ]
+}

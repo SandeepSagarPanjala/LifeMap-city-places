@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ca/british-columbia/vancouver",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "stateCode": "BC",
+  "stateName": "British Columbia",
+  "cityName": "Vancouver",
+  "bbox": {
+    "minLat": 49.27,
+    "minLng": -123.15,
+    "maxLat": 49.31,
+    "maxLng": -123.1
+  },
+  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "stanley-park",
+      "name": "Stanley Park",
+      "lat": 49.3015,
+      "lng": -123.1415,
+      "radiusM": 350,
+      "address": "Stanley Park",
+      "howTo": "Visit Stanley Park.",
+      "badge": "badges/stanley-park.png"
+    },
+    {
+      "id": "granville-island",
+      "name": "Granville Island",
+      "lat": 49.271,
+      "lng": -123.1345,
+      "radiusM": 150,
+      "address": "Granville Island",
+      "howTo": "Visit Granville Island.",
+      "badge": "badges/granville-island.png"
+    },
+    {
+      "id": "capilano-suspension-bridge",
+      "name": "Capilano Suspension Bridge",
+      "lat": 49.3425,
+      "lng": -123.1145,
+      "radiusM": 150,
+      "address": "Capilano Suspension Bridge",
+      "howTo": "Visit Capilano Suspension Bridge.",
+      "badge": "badges/capilano-suspension-bridge.png"
+    },
+    {
+      "id": "canada-place",
+      "name": "Canada Place",
+      "lat": 49.2885,
+      "lng": -123.1115,
+      "radiusM": 120,
+      "address": "Canada Place",
+      "howTo": "Visit Canada Place.",
+      "badge": "badges/canada-place.png"
+    },
+    {
+      "id": "gastown",
+      "name": "Gastown",
+      "lat": 49.2835,
+      "lng": -123.1085,
+      "radiusM": 150,
+      "address": "Gastown",
+      "howTo": "Visit Gastown.",
+      "badge": "badges/gastown.png"
+    },
+    {
+      "id": "grouse-mountain",
+      "name": "Grouse Mountain",
+      "lat": 49.3805,
+      "lng": -123.0815,
+      "radiusM": 250,
+      "address": "Grouse Mountain",
+      "howTo": "Visit Grouse Mountain.",
+      "badge": "badges/grouse-mountain.png"
+    }
+  ]
+}
