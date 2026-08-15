@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/porto/porto",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "13",
+  "stateName": "Porto",
+  "cityName": "Porto",
+  "bbox": {
+    "minLat": 41.13,
+    "minLng": -8.63,
+    "maxLat": 41.15,
+    "maxLng": -8.6
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "luis-i-bridge",
+      "name": "Dom Lu\u00eds I Bridge",
+      "lat": 41.14,
+      "lng": -8.6095,
+      "radiusM": 120,
+      "address": "Ponte Lu\u00eds I",
+      "howTo": "Visit Dom Lu\u00eds I Bridge.",
+      "badge": "badges/luis-i-bridge.png"
+    },
+    {
+      "id": "ribeira-porto",
+      "name": "Ribeira",
+      "lat": 41.1405,
+      "lng": -8.6135,
+      "radiusM": 200,
+      "address": "Ribeira district",
+      "howTo": "Visit Ribeira.",
+      "badge": "badges/ribeira-porto.png"
+    },
+    {
+      "id": "clerigos-tower",
+      "name": "Cl\u00e9rigos Tower",
+      "lat": 41.1455,
+      "lng": -8.6145,
+      "radiusM": 80,
+      "address": "Torre dos Cl\u00e9rigos",
+      "howTo": "Visit Cl\u00e9rigos Tower.",
+      "badge": "badges/clerigos-tower.png"
+    },
+    {
+      "id": "livraria-lello",
+      "name": "Livraria Lello",
+      "lat": 41.1465,
+      "lng": -8.6145,
+      "radiusM": 60,
+      "address": "Livraria Lello",
+      "howTo": "Visit Livraria Lello.",
+      "badge": "badges/livraria-lello.png"
+    },
+    {
+      "id": "palacio-da-bolsa",
+      "name": "Pal\u00e1cio da Bolsa",
+      "lat": 41.1415,
+      "lng": -8.6155,
+      "radiusM": 100,
+      "address": "Pal\u00e1cio da Bolsa",
+      "howTo": "Visit Pal\u00e1cio da Bolsa.",
+      "badge": "badges/palacio-da-bolsa.png"
+    },
+    {
+      "id": "serralves",
+      "name": "Serralves Museum",
+      "lat": 41.1585,
+      "lng": -8.6595,
+      "radiusM": 200,
+      "address": "Funda\u00e7\u00e3o de Serralves",
+      "howTo": "Visit Serralves Museum.",
+      "badge": "badges/serralves.png"
+    }
+  ]
+}

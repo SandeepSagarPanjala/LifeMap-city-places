@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/evora/evora",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "07",
+  "stateName": "\u00c9vora",
+  "cityName": "\u00c9vora",
+  "bbox": {
+    "minLat": 38.56,
+    "minLng": -7.91,
+    "maxLat": 38.58,
+    "maxLng": -7.9
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "roman-temple-evora",
+      "name": "Roman Temple of \u00c9vora",
+      "lat": 38.5725,
+      "lng": -7.9075,
+      "radiusM": 80,
+      "address": "Templo Romano",
+      "howTo": "Visit Roman Temple of \u00c9vora.",
+      "badge": "badges/roman-temple-evora.png"
+    },
+    {
+      "id": "evora-cathedral",
+      "name": "\u00c9vora Cathedral",
+      "lat": 38.572,
+      "lng": -7.907,
+      "radiusM": 100,
+      "address": "S\u00e9 de \u00c9vora",
+      "howTo": "Visit \u00c9vora Cathedral.",
+      "badge": "badges/evora-cathedral.png"
+    },
+    {
+      "id": "chapel-of-bones",
+      "name": "Chapel of Bones",
+      "lat": 38.5695,
+      "lng": -7.9085,
+      "radiusM": 80,
+      "address": "Capela dos Ossos",
+      "howTo": "Visit Chapel of Bones.",
+      "badge": "badges/chapel-of-bones.png"
+    }
+  ]
+}

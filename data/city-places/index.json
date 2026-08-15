@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T09:00:33.000Z",
-  "notes": "Queue through Netherlands complete. Next: Portugal (pt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T10:02:06.000Z",
+  "notes": "Queue through Portugal complete. Next: Switzerland (ch) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8209,6 +8209,202 @@
                 "minLng": 5.68,
                 "maxLat": 50.86,
                 "maxLng": 5.7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pt",
+      "countryCode": "PT",
+      "name": "Portugal",
+      "states": [
+        {
+          "id": "lisboa",
+          "stateCode": "11",
+          "name": "Lisboa",
+          "cities": [
+            {
+              "id": "lisbon",
+              "name": "Lisbon",
+              "status": "complete",
+              "packPath": "pt/lisboa/lisbon/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 38.7,
+                "minLng": -9.2,
+                "maxLat": 38.74,
+                "maxLng": -9.12
+              }
+            },
+            {
+              "id": "sintra",
+              "name": "Sintra",
+              "status": "complete",
+              "packPath": "pt/lisboa/sintra/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 38.78,
+                "minLng": -9.43,
+                "maxLat": 38.8,
+                "maxLng": -9.38
+              }
+            },
+            {
+              "id": "cascais",
+              "name": "Cascais",
+              "status": "complete",
+              "packPath": "pt/lisboa/cascais/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 38.69,
+                "minLng": -9.43,
+                "maxLat": 38.7,
+                "maxLng": -9.41
+              }
+            }
+          ]
+        },
+        {
+          "id": "porto",
+          "stateCode": "13",
+          "name": "Porto",
+          "cities": [
+            {
+              "id": "porto",
+              "name": "Porto",
+              "status": "complete",
+              "packPath": "pt/porto/porto/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 41.13,
+                "minLng": -8.63,
+                "maxLat": 41.15,
+                "maxLng": -8.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "faro",
+          "stateCode": "08",
+          "name": "Faro",
+          "cities": [
+            {
+              "id": "faro",
+              "name": "Faro",
+              "status": "complete",
+              "packPath": "pt/faro/faro/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 37.01,
+                "minLng": -7.94,
+                "maxLat": 37.02,
+                "maxLng": -7.93
+              }
+            },
+            {
+              "id": "lagos",
+              "name": "Lagos",
+              "status": "complete",
+              "packPath": "pt/faro/lagos/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 37.09,
+                "minLng": -8.68,
+                "maxLat": 37.11,
+                "maxLng": -8.66
+              }
+            }
+          ]
+        },
+        {
+          "id": "coimbra",
+          "stateCode": "06",
+          "name": "Coimbra",
+          "cities": [
+            {
+              "id": "coimbra",
+              "name": "Coimbra",
+              "status": "complete",
+              "packPath": "pt/coimbra/coimbra/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 40.2,
+                "minLng": -8.43,
+                "maxLat": 40.21,
+                "maxLng": -8.41
+              }
+            }
+          ]
+        },
+        {
+          "id": "evora",
+          "stateCode": "07",
+          "name": "\u00c9vora",
+          "cities": [
+            {
+              "id": "evora",
+              "name": "\u00c9vora",
+              "status": "complete",
+              "packPath": "pt/evora/evora/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 38.56,
+                "minLng": -7.91,
+                "maxLat": 38.58,
+                "maxLng": -7.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "madeira",
+          "stateCode": "30",
+          "name": "Madeira",
+          "cities": [
+            {
+              "id": "funchal",
+              "name": "Funchal",
+              "status": "complete",
+              "packPath": "pt/madeira/funchal/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 32.64,
+                "minLng": -16.93,
+                "maxLat": 32.66,
+                "maxLng": -16.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "acores",
+          "stateCode": "20",
+          "name": "Azores",
+          "cities": [
+            {
+              "id": "ponta-delgada",
+              "name": "Ponta Delgada",
+              "status": "complete",
+              "packPath": "pt/acores/ponta-delgada/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T09:05:00.000Z",
+              "bbox": {
+                "minLat": 37.73,
+                "minLng": -25.68,
+                "maxLat": 37.75,
+                "maxLng": -25.66
               }
             }
           ]

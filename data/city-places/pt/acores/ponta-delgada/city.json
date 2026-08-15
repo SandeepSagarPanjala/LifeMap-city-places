@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/acores/ponta-delgada",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "20",
+  "stateName": "Azores",
+  "cityName": "Ponta Delgada",
+  "bbox": {
+    "minLat": 37.73,
+    "minLng": -25.68,
+    "maxLat": 37.75,
+    "maxLng": -25.66
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "portas-da-cidade",
+      "name": "Portas da Cidade",
+      "lat": 37.7395,
+      "lng": -25.6685,
+      "radiusM": 60,
+      "address": "City Gates",
+      "howTo": "Visit Portas da Cidade.",
+      "badge": "badges/portas-da-cidade.png"
+    },
+    {
+      "id": "sao-miguel-fort",
+      "name": "Forte de S\u00e3o Br\u00e1s",
+      "lat": 37.7385,
+      "lng": -25.6705,
+      "radiusM": 100,
+      "address": "S\u00e3o Br\u00e1s Fort",
+      "howTo": "Visit Forte de S\u00e3o Br\u00e1s.",
+      "badge": "badges/sao-miguel-fort.png"
+    },
+    {
+      "id": "lagoa-das-sete-cidades",
+      "name": "Sete Cidades Lakes",
+      "lat": 37.8605,
+      "lng": -25.7855,
+      "radiusM": 300,
+      "address": "Lagoa das Sete Cidades",
+      "howTo": "Visit Sete Cidades Lakes.",
+      "badge": "badges/lagoa-das-sete-cidades.png"
+    }
+  ]
+}

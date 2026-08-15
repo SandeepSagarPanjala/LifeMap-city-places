@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/faro/faro",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "08",
+  "stateName": "Faro",
+  "cityName": "Faro",
+  "bbox": {
+    "minLat": 37.01,
+    "minLng": -7.94,
+    "maxLat": 37.02,
+    "maxLng": -7.93
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "faro-old-town",
+      "name": "Faro Old Town",
+      "lat": 37.0135,
+      "lng": -7.9355,
+      "radiusM": 150,
+      "address": "Cidade Velha",
+      "howTo": "Visit Faro Old Town.",
+      "badge": "badges/faro-old-town.png"
+    },
+    {
+      "id": "faro-cathedral",
+      "name": "Faro Cathedral",
+      "lat": 37.0135,
+      "lng": -7.9345,
+      "radiusM": 80,
+      "address": "S\u00e9 de Faro",
+      "howTo": "Visit Faro Cathedral.",
+      "badge": "badges/faro-cathedral.png"
+    },
+    {
+      "id": "rias-formosas",
+      "name": "Ria Formosa",
+      "lat": 37.0105,
+      "lng": -7.9205,
+      "radiusM": 300,
+      "address": "Ria Formosa Natural Park",
+      "howTo": "Visit Ria Formosa.",
+      "badge": "badges/rias-formosas.png"
+    }
+  ]
+}

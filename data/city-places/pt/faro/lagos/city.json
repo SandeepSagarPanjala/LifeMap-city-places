@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/faro/lagos",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "08",
+  "stateName": "Faro",
+  "cityName": "Lagos",
+  "bbox": {
+    "minLat": 37.09,
+    "minLng": -8.68,
+    "maxLat": 37.11,
+    "maxLng": -8.66
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ponta-da-piedade",
+      "name": "Ponta da Piedade",
+      "lat": 37.0805,
+      "lng": -8.6695,
+      "radiusM": 200,
+      "address": "Ponta da Piedade cliffs",
+      "howTo": "Visit Ponta da Piedade.",
+      "badge": "badges/ponta-da-piedade.png"
+    },
+    {
+      "id": "meia-praia",
+      "name": "Meia Praia",
+      "lat": 37.1095,
+      "lng": -8.6605,
+      "radiusM": 250,
+      "address": "Meia Praia Beach",
+      "howTo": "Visit Meia Praia.",
+      "badge": "badges/meia-praia.png"
+    },
+    {
+      "id": "fortaleza-lagos",
+      "name": "Forte da Ponta da Bandeira",
+      "lat": 37.1005,
+      "lng": -8.6725,
+      "radiusM": 80,
+      "address": "Ponta da Bandeira Fort",
+      "howTo": "Visit Forte da Ponta da Bandeira.",
+      "badge": "badges/fortaleza-lagos.png"
+    }
+  ]
+}

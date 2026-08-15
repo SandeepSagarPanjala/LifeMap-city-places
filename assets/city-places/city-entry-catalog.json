@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T09:00:34.082Z",
+  "generatedAt": "2026-08-15T10:02:06.901Z",
   "cellDeg": 0.5,
-  "cityCount": 478,
+  "cityCount": 488,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -2603,6 +2603,96 @@
         "minLng": 4.28,
         "maxLat": 52.09,
         "maxLng": 4.32
+      }
+    },
+    "pt/acores/ponta-delgada": {
+      "name": "Ponta Delgada",
+      "bbox": {
+        "minLat": 37.73,
+        "minLng": -25.68,
+        "maxLat": 37.75,
+        "maxLng": -25.66
+      }
+    },
+    "pt/coimbra/coimbra": {
+      "name": "Coimbra",
+      "bbox": {
+        "minLat": 40.2,
+        "minLng": -8.43,
+        "maxLat": 40.21,
+        "maxLng": -8.41
+      }
+    },
+    "pt/evora/evora": {
+      "name": "Évora",
+      "bbox": {
+        "minLat": 38.56,
+        "minLng": -7.91,
+        "maxLat": 38.58,
+        "maxLng": -7.9
+      }
+    },
+    "pt/faro/faro": {
+      "name": "Faro",
+      "bbox": {
+        "minLat": 37.01,
+        "minLng": -7.94,
+        "maxLat": 37.02,
+        "maxLng": -7.93
+      }
+    },
+    "pt/faro/lagos": {
+      "name": "Lagos",
+      "bbox": {
+        "minLat": 37.09,
+        "minLng": -8.68,
+        "maxLat": 37.11,
+        "maxLng": -8.66
+      }
+    },
+    "pt/lisboa/cascais": {
+      "name": "Cascais",
+      "bbox": {
+        "minLat": 38.69,
+        "minLng": -9.43,
+        "maxLat": 38.7,
+        "maxLng": -9.41
+      }
+    },
+    "pt/lisboa/lisbon": {
+      "name": "Lisbon",
+      "bbox": {
+        "minLat": 38.7,
+        "minLng": -9.2,
+        "maxLat": 38.74,
+        "maxLng": -9.12
+      }
+    },
+    "pt/lisboa/sintra": {
+      "name": "Sintra",
+      "bbox": {
+        "minLat": 38.78,
+        "minLng": -9.43,
+        "maxLat": 38.8,
+        "maxLng": -9.38
+      }
+    },
+    "pt/madeira/funchal": {
+      "name": "Funchal",
+      "bbox": {
+        "minLat": 32.64,
+        "minLng": -16.93,
+        "maxLat": 32.66,
+        "maxLng": -16.9
+      }
+    },
+    "pt/porto/porto": {
+      "name": "Porto",
+      "bbox": {
+        "minLat": 41.13,
+        "minLng": -8.63,
+        "maxLat": 41.15,
+        "maxLng": -8.6
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -6192,6 +6282,32 @@
     ],
     "101,11": [
       "nl/limburg/maastricht"
+    ],
+    "77,-19": [
+      "pt/lisboa/cascais",
+      "pt/lisboa/lisbon",
+      "pt/lisboa/sintra"
+    ],
+    "82,-18": [
+      "pt/porto/porto"
+    ],
+    "74,-16": [
+      "pt/faro/faro"
+    ],
+    "74,-18": [
+      "pt/faro/lagos"
+    ],
+    "80,-17": [
+      "pt/coimbra/coimbra"
+    ],
+    "77,-16": [
+      "pt/evora/evora"
+    ],
+    "65,-34": [
+      "pt/madeira/funchal"
+    ],
+    "75,-52": [
+      "pt/acores/ponta-delgada"
     ]
   }
 }

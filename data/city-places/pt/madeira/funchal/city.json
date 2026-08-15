@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/madeira/funchal",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "30",
+  "stateName": "Madeira",
+  "cityName": "Funchal",
+  "bbox": {
+    "minLat": 32.64,
+    "minLng": -16.93,
+    "maxLat": 32.66,
+    "maxLng": -16.9
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "funchal-cathedral",
+      "name": "Funchal Cathedral",
+      "lat": 32.6495,
+      "lng": -16.9085,
+      "radiusM": 80,
+      "address": "S\u00e9 do Funchal",
+      "howTo": "Visit Funchal Cathedral.",
+      "badge": "badges/funchal-cathedral.png"
+    },
+    {
+      "id": "monte-palace-garden",
+      "name": "Monte Palace Tropical Garden",
+      "lat": 32.6765,
+      "lng": -16.9025,
+      "radiusM": 200,
+      "address": "Monte Palace",
+      "howTo": "Visit Monte Palace Tropical Garden.",
+      "badge": "badges/monte-palace-garden.png"
+    },
+    {
+      "id": "cable-car-funchal",
+      "name": "Funchal Cable Car",
+      "lat": 32.6485,
+      "lng": -16.9005,
+      "radiusM": 100,
+      "address": "Telef\u00e9rico",
+      "howTo": "Visit Funchal Cable Car.",
+      "badge": "badges/cable-car-funchal.png"
+    },
+    {
+      "id": "mercado-dos-lavradores",
+      "name": "Mercado dos Lavradores",
+      "lat": 32.6485,
+      "lng": -16.9065,
+      "radiusM": 100,
+      "address": "Farmers Market",
+      "howTo": "Visit Mercado dos Lavradores.",
+      "badge": "badges/mercado-dos-lavradores.png"
+    }
+  ]
+}

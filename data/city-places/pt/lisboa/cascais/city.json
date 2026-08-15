@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/lisboa/cascais",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "11",
+  "stateName": "Lisboa",
+  "cityName": "Cascais",
+  "bbox": {
+    "minLat": 38.69,
+    "minLng": -9.43,
+    "maxLat": 38.7,
+    "maxLng": -9.41
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boca-do-inferno",
+      "name": "Boca do Inferno",
+      "lat": 38.6915,
+      "lng": -9.4315,
+      "radiusM": 100,
+      "address": "Boca do Inferno",
+      "howTo": "Visit Boca do Inferno.",
+      "badge": "badges/boca-do-inferno.png"
+    },
+    {
+      "id": "citadel-cascais",
+      "name": "Citadel of Cascais",
+      "lat": 38.6965,
+      "lng": -9.4225,
+      "radiusM": 120,
+      "address": "Cidadela",
+      "howTo": "Visit Citadel of Cascais.",
+      "badge": "badges/citadel-cascais.png"
+    },
+    {
+      "id": "marechal-carmona-park",
+      "name": "Parque Marechal Carmona",
+      "lat": 38.6975,
+      "lng": -9.4215,
+      "radiusM": 150,
+      "address": "Marechal Carmona Park",
+      "howTo": "Visit Parque Marechal Carmona.",
+      "badge": "badges/marechal-carmona-park.png"
+    }
+  ]
+}

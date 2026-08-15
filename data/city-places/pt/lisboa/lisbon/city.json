@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/lisboa/lisbon",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "11",
+  "stateName": "Lisboa",
+  "cityName": "Lisbon",
+  "bbox": {
+    "minLat": 38.7,
+    "minLng": -9.2,
+    "maxLat": 38.74,
+    "maxLng": -9.12
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "belem-tower",
+      "name": "Bel\u00e9m Tower",
+      "lat": 38.6916,
+      "lng": -9.216,
+      "radiusM": 100,
+      "address": "Torre de Bel\u00e9m",
+      "howTo": "Visit Bel\u00e9m Tower.",
+      "badge": "badges/belem-tower.png"
+    },
+    {
+      "id": "jeronimos-monastery",
+      "name": "Jer\u00f3nimos Monastery",
+      "lat": 38.6978,
+      "lng": -9.2067,
+      "radiusM": 150,
+      "address": "Mosteiro dos Jer\u00f3nimos",
+      "howTo": "Visit Jer\u00f3nimos Monastery.",
+      "badge": "badges/jeronimos-monastery.png"
+    },
+    {
+      "id": "sao-jorge-castle",
+      "name": "S\u00e3o Jorge Castle",
+      "lat": 38.7139,
+      "lng": -9.1334,
+      "radiusM": 200,
+      "address": "Castelo de S\u00e3o Jorge",
+      "howTo": "Visit S\u00e3o Jorge Castle.",
+      "badge": "badges/sao-jorge-castle.png"
+    },
+    {
+      "id": "alfama",
+      "name": "Alfama",
+      "lat": 38.7125,
+      "lng": -9.1305,
+      "radiusM": 200,
+      "address": "Alfama district",
+      "howTo": "Visit Alfama.",
+      "badge": "badges/alfama.png"
+    },
+    {
+      "id": "comercio-square",
+      "name": "Pra\u00e7a do Com\u00e9rcio",
+      "lat": 38.7075,
+      "lng": -9.1365,
+      "radiusM": 150,
+      "address": "Terreiro do Pa\u00e7o",
+      "howTo": "Visit Pra\u00e7a do Com\u00e9rcio.",
+      "badge": "badges/comercio-square.png"
+    },
+    {
+      "id": "lx-factory",
+      "name": "LX Factory",
+      "lat": 38.7035,
+      "lng": -9.1785,
+      "radiusM": 120,
+      "address": "LX Factory",
+      "howTo": "Visit LX Factory.",
+      "badge": "badges/lx-factory.png"
+    },
+    {
+      "id": "pantheon-lisbon",
+      "name": "National Pantheon",
+      "lat": 38.715,
+      "lng": -9.1245,
+      "radiusM": 80,
+      "address": "Pante\u00e3o Nacional",
+      "howTo": "Visit National Pantheon.",
+      "badge": "badges/pantheon-lisbon.png"
+    },
+    {
+      "id": "santa-justa-lift",
+      "name": "Santa Justa Lift",
+      "lat": 38.712,
+      "lng": -9.1395,
+      "radiusM": 60,
+      "address": "Elevador de Santa Justa",
+      "howTo": "Visit Santa Justa Lift.",
+      "badge": "badges/santa-justa-lift.png"
+    }
+  ]
+}

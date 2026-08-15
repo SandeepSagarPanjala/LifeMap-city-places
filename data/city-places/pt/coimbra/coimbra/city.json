@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/coimbra/coimbra",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "06",
+  "stateName": "Coimbra",
+  "cityName": "Coimbra",
+  "bbox": {
+    "minLat": 40.2,
+    "minLng": -8.43,
+    "maxLat": 40.21,
+    "maxLng": -8.41
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "university-of-coimbra",
+      "name": "University of Coimbra",
+      "lat": 40.2075,
+      "lng": -8.4255,
+      "radiusM": 200,
+      "address": "Universidade de Coimbra",
+      "howTo": "Visit University of Coimbra.",
+      "badge": "badges/university-of-coimbra.png"
+    },
+    {
+      "id": "joanina-library",
+      "name": "Joanina Library",
+      "lat": 40.2075,
+      "lng": -8.4265,
+      "radiusM": 60,
+      "address": "Biblioteca Joanina",
+      "howTo": "Visit Joanina Library.",
+      "badge": "badges/joanina-library.png"
+    },
+    {
+      "id": "santa-cruz-monastery",
+      "name": "Santa Cruz Monastery",
+      "lat": 40.2095,
+      "lng": -8.4295,
+      "radiusM": 100,
+      "address": "Mosteiro de Santa Cruz",
+      "howTo": "Visit Santa Cruz Monastery.",
+      "badge": "badges/santa-cruz-monastery.png"
+    }
+  ]
+}

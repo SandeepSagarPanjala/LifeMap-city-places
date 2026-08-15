@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "pt/lisboa/sintra",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "stateCode": "11",
+  "stateName": "Lisboa",
+  "cityName": "Sintra",
+  "bbox": {
+    "minLat": 38.78,
+    "minLng": -9.43,
+    "maxLat": 38.8,
+    "maxLng": -9.38
+  },
+  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pena-palace",
+      "name": "Pena Palace",
+      "lat": 38.7875,
+      "lng": -9.3905,
+      "radiusM": 200,
+      "address": "Pal\u00e1cio Nacional da Pena",
+      "howTo": "Visit Pena Palace.",
+      "badge": "badges/pena-palace.png"
+    },
+    {
+      "id": "quinta-da-regaleira",
+      "name": "Quinta da Regaleira",
+      "lat": 38.7965,
+      "lng": -9.3965,
+      "radiusM": 150,
+      "address": "Quinta da Regaleira",
+      "howTo": "Visit Quinta da Regaleira.",
+      "badge": "badges/quinta-da-regaleira.png"
+    },
+    {
+      "id": "moorish-castle-sintra",
+      "name": "Moorish Castle",
+      "lat": 38.7925,
+      "lng": -9.3895,
+      "radiusM": 150,
+      "address": "Castelo dos Mouros",
+      "howTo": "Visit Moorish Castle.",
+      "badge": "badges/moorish-castle-sintra.png"
+    },
+    {
+      "id": "sintra-national-palace",
+      "name": "Sintra National Palace",
+      "lat": 38.7975,
+      "lng": -9.3905,
+      "radiusM": 120,
+      "address": "Pal\u00e1cio Nacional de Sintra",
+      "howTo": "Visit Sintra National Palace.",
+      "badge": "badges/sintra-national-palace.png"
+    }
+  ]
+}
