@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/limburg/maastricht",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "LI",
+  "stateName": "Limburg",
+  "cityName": "Maastricht",
+  "bbox": {
+    "minLat": 50.84,
+    "minLng": 5.68,
+    "maxLat": 50.86,
+    "maxLng": 5.7
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vrijthof",
+      "name": "Vrijthof",
+      "lat": 50.8495,
+      "lng": 5.6885,
+      "radiusM": 100,
+      "address": "Vrijthof Square",
+      "howTo": "Visit Vrijthof.",
+      "badge": "badges/vrijthof.png"
+    },
+    {
+      "id": "basilica-saint-servatius",
+      "name": "Basilica of Saint Servatius",
+      "lat": 50.849,
+      "lng": 5.6875,
+      "radiusM": 100,
+      "address": "Sint-Servaasbasiliek",
+      "howTo": "Visit Basilica of Saint Servatius.",
+      "badge": "badges/basilica-saint-servatius.png"
+    },
+    {
+      "id": "helpoort",
+      "name": "Helpoort",
+      "lat": 50.8455,
+      "lng": 5.6935,
+      "radiusM": 80,
+      "address": "Helpoort Gate",
+      "howTo": "Visit Helpoort.",
+      "badge": "badges/helpoort.png"
+    }
+  ]
+}

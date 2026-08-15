@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/zuid-holland/rotterdam",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "ZH",
+  "stateName": "Zuid-Holland",
+  "cityName": "Rotterdam",
+  "bbox": {
+    "minLat": 51.9,
+    "minLng": 4.46,
+    "maxLat": 51.93,
+    "maxLng": 4.5
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "markthal",
+      "name": "Markthal",
+      "lat": 51.92,
+      "lng": 4.4865,
+      "radiusM": 100,
+      "address": "Markthal Rotterdam",
+      "howTo": "Visit Markthal.",
+      "badge": "badges/markthal.png"
+    },
+    {
+      "id": "erasmusbrug",
+      "name": "Erasmus Bridge",
+      "lat": 51.909,
+      "lng": 4.487,
+      "radiusM": 150,
+      "address": "Erasmusbrug",
+      "howTo": "Visit Erasmus Bridge.",
+      "badge": "badges/erasmusbrug.png"
+    },
+    {
+      "id": "cube-houses",
+      "name": "Cube Houses",
+      "lat": 51.9205,
+      "lng": 4.4905,
+      "radiusM": 100,
+      "address": "Kubuswoningen",
+      "howTo": "Visit Cube Houses.",
+      "badge": "badges/cube-houses.png"
+    },
+    {
+      "id": "euromast",
+      "name": "Euromast",
+      "lat": 51.9055,
+      "lng": 4.4665,
+      "radiusM": 100,
+      "address": "Euromast",
+      "howTo": "Visit Euromast.",
+      "badge": "badges/euromast.png"
+    }
+  ]
+}

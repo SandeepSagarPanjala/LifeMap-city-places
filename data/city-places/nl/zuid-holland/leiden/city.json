@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/zuid-holland/leiden",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "ZH",
+  "stateName": "Zuid-Holland",
+  "cityName": "Leiden",
+  "bbox": {
+    "minLat": 52.15,
+    "minLng": 4.48,
+    "maxLat": 52.17,
+    "maxLng": 4.5
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hortus-botanicus-leiden",
+      "name": "Hortus Botanicus",
+      "lat": 52.1575,
+      "lng": 4.4845,
+      "radiusM": 150,
+      "address": "Hortus Botanicus Leiden",
+      "howTo": "Visit Hortus Botanicus.",
+      "badge": "badges/hortus-botanicus-leiden.png"
+    },
+    {
+      "id": "burcht-van-leiden",
+      "name": "Burcht van Leiden",
+      "lat": 52.1605,
+      "lng": 4.4925,
+      "radiusM": 80,
+      "address": "Burcht",
+      "howTo": "Visit Burcht van Leiden.",
+      "badge": "badges/burcht-van-leiden.png"
+    },
+    {
+      "id": "rijksmuseum-van-oudheden",
+      "name": "Rijksmuseum van Oudheden",
+      "lat": 52.1585,
+      "lng": 4.4855,
+      "radiusM": 80,
+      "address": "National Museum of Antiquities",
+      "howTo": "Visit Rijksmuseum van Oudheden.",
+      "badge": "badges/rijksmuseum-van-oudheden.png"
+    }
+  ]
+}

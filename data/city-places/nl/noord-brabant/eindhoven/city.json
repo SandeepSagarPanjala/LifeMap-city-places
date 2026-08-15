@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/noord-brabant/eindhoven",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "NB",
+  "stateName": "Noord-Brabant",
+  "cityName": "Eindhoven",
+  "bbox": {
+    "minLat": 51.43,
+    "minLng": 5.46,
+    "maxLat": 51.45,
+    "maxLng": 5.49
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "van-abbe-museum",
+      "name": "Van Abbemuseum",
+      "lat": 51.4345,
+      "lng": 5.4825,
+      "radiusM": 100,
+      "address": "Van Abbemuseum",
+      "howTo": "Visit Van Abbemuseum.",
+      "badge": "badges/van-abbe-museum.png"
+    },
+    {
+      "id": "evoluon",
+      "name": "Evoluon",
+      "lat": 51.4435,
+      "lng": 5.4475,
+      "radiusM": 120,
+      "address": "Evoluon",
+      "howTo": "Visit Evoluon.",
+      "badge": "badges/evoluon.png"
+    },
+    {
+      "id": "philips-museum",
+      "name": "Philips Museum",
+      "lat": 51.4405,
+      "lng": 5.4765,
+      "radiusM": 80,
+      "address": "Philips Museum",
+      "howTo": "Visit Philips Museum.",
+      "badge": "badges/philips-museum.png"
+    }
+  ]
+}

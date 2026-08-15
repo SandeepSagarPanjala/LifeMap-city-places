@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/noord-holland/haarlem",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "NH",
+  "stateName": "Noord-Holland",
+  "cityName": "Haarlem",
+  "bbox": {
+    "minLat": 52.37,
+    "minLng": 4.62,
+    "maxLat": 52.39,
+    "maxLng": 4.64
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grote-markt-haarlem",
+      "name": "Grote Markt",
+      "lat": 52.381,
+      "lng": 4.6365,
+      "radiusM": 100,
+      "address": "Grote Markt Haarlem",
+      "howTo": "Visit Grote Markt.",
+      "badge": "badges/grote-markt-haarlem.png"
+    },
+    {
+      "id": "st-bavo-haarlem",
+      "name": "St. Bavo Church",
+      "lat": 52.381,
+      "lng": 4.6375,
+      "radiusM": 100,
+      "address": "Grote Kerk / St. Bavo",
+      "howTo": "Visit St. Bavo Church.",
+      "badge": "badges/st-bavo-haarlem.png"
+    },
+    {
+      "id": "teylers-museum",
+      "name": "Teylers Museum",
+      "lat": 52.3805,
+      "lng": 4.6405,
+      "radiusM": 80,
+      "address": "Teylers Museum",
+      "howTo": "Visit Teylers Museum.",
+      "badge": "badges/teylers-museum.png"
+    }
+  ]
+}

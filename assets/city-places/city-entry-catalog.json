@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T07:41:25.844Z",
+  "generatedAt": "2026-08-15T09:00:34.082Z",
   "cellDeg": 0.5,
-  "cityCount": 467,
+  "cityCount": 478,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -2504,6 +2504,105 @@
         "minLng": 127,
         "maxLat": 37.29,
         "maxLng": 127.02
+      }
+    },
+    "nl/friesland/giethoorn": {
+      "name": "Giethoorn",
+      "bbox": {
+        "minLat": 52.72,
+        "minLng": 6.07,
+        "maxLat": 52.74,
+        "maxLng": 6.09
+      }
+    },
+    "nl/gelderland/arnhem": {
+      "name": "Arnhem",
+      "bbox": {
+        "minLat": 51.97,
+        "minLng": 5.88,
+        "maxLat": 51.99,
+        "maxLng": 5.92
+      }
+    },
+    "nl/limburg/maastricht": {
+      "name": "Maastricht",
+      "bbox": {
+        "minLat": 50.84,
+        "minLng": 5.68,
+        "maxLat": 50.86,
+        "maxLng": 5.7
+      }
+    },
+    "nl/noord-brabant/eindhoven": {
+      "name": "Eindhoven",
+      "bbox": {
+        "minLat": 51.43,
+        "minLng": 5.46,
+        "maxLat": 51.45,
+        "maxLng": 5.49
+      }
+    },
+    "nl/noord-holland/amsterdam": {
+      "name": "Amsterdam",
+      "bbox": {
+        "minLat": 52.35,
+        "minLng": 4.86,
+        "maxLat": 52.39,
+        "maxLng": 4.92
+      }
+    },
+    "nl/noord-holland/haarlem": {
+      "name": "Haarlem",
+      "bbox": {
+        "minLat": 52.37,
+        "minLng": 4.62,
+        "maxLat": 52.39,
+        "maxLng": 4.64
+      }
+    },
+    "nl/utrecht/utrecht": {
+      "name": "Utrecht",
+      "bbox": {
+        "minLat": 52.08,
+        "minLng": 5.11,
+        "maxLat": 52.1,
+        "maxLng": 5.13
+      }
+    },
+    "nl/zuid-holland/delft": {
+      "name": "Delft",
+      "bbox": {
+        "minLat": 52,
+        "minLng": 4.35,
+        "maxLat": 52.02,
+        "maxLng": 4.37
+      }
+    },
+    "nl/zuid-holland/leiden": {
+      "name": "Leiden",
+      "bbox": {
+        "minLat": 52.15,
+        "minLng": 4.48,
+        "maxLat": 52.17,
+        "maxLng": 4.5
+      }
+    },
+    "nl/zuid-holland/rotterdam": {
+      "name": "Rotterdam",
+      "bbox": {
+        "minLat": 51.9,
+        "minLng": 4.46,
+        "maxLat": 51.93,
+        "maxLng": 4.5
+      }
+    },
+    "nl/zuid-holland/the-hague": {
+      "name": "The Hague",
+      "bbox": {
+        "minLat": 52.07,
+        "minLng": 4.28,
+        "maxLat": 52.09,
+        "maxLng": 4.32
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -6062,6 +6161,37 @@
     ],
     "74,254": [
       "kr/suwon/suwon"
+    ],
+    "104,9": [
+      "nl/noord-holland/amsterdam",
+      "nl/noord-holland/haarlem",
+      "nl/zuid-holland/leiden"
+    ],
+    "103,8": [
+      "nl/zuid-holland/rotterdam"
+    ],
+    "103,9": [
+      "nl/zuid-holland/rotterdam"
+    ],
+    "104,8": [
+      "nl/zuid-holland/delft",
+      "nl/zuid-holland/leiden",
+      "nl/zuid-holland/the-hague"
+    ],
+    "104,10": [
+      "nl/utrecht/utrecht"
+    ],
+    "102,10": [
+      "nl/noord-brabant/eindhoven"
+    ],
+    "103,11": [
+      "nl/gelderland/arnhem"
+    ],
+    "105,12": [
+      "nl/friesland/giethoorn"
+    ],
+    "101,11": [
+      "nl/limburg/maastricht"
     ]
   }
 }

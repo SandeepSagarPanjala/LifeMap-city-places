@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/gelderland/arnhem",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "GE",
+  "stateName": "Gelderland",
+  "cityName": "Arnhem",
+  "bbox": {
+    "minLat": 51.97,
+    "minLng": 5.88,
+    "maxLat": 51.99,
+    "maxLng": 5.92
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "openluchtmuseum",
+      "name": "Netherlands Open Air Museum",
+      "lat": 52.0105,
+      "lng": 5.9105,
+      "radiusM": 250,
+      "address": "Openluchtmuseum",
+      "howTo": "Visit Netherlands Open Air Museum.",
+      "badge": "badges/openluchtmuseum.png"
+    },
+    {
+      "id": "john-frost-bridge",
+      "name": "John Frost Bridge",
+      "lat": 51.9745,
+      "lng": 5.9125,
+      "radiusM": 100,
+      "address": "John Frostbrug",
+      "howTo": "Visit John Frost Bridge.",
+      "badge": "badges/john-frost-bridge.png"
+    },
+    {
+      "id": "burgers-zoo",
+      "name": "Burgers' Zoo",
+      "lat": 52.0105,
+      "lng": 5.9005,
+      "radiusM": 250,
+      "address": "Burgers' Zoo",
+      "howTo": "Visit Burgers' Zoo.",
+      "badge": "badges/burgers-zoo.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/zuid-holland/delft",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "ZH",
+  "stateName": "Zuid-Holland",
+  "cityName": "Delft",
+  "bbox": {
+    "minLat": 52.0,
+    "minLng": 4.35,
+    "maxLat": 52.02,
+    "maxLng": 4.37
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nieuwe-kerk-delft",
+      "name": "Nieuwe Kerk",
+      "lat": 52.0125,
+      "lng": 4.3605,
+      "radiusM": 80,
+      "address": "Nieuwe Kerk Delft",
+      "howTo": "Visit Nieuwe Kerk.",
+      "badge": "badges/nieuwe-kerk-delft.png"
+    },
+    {
+      "id": "markt-delft",
+      "name": "Markt",
+      "lat": 52.0115,
+      "lng": 4.3585,
+      "radiusM": 100,
+      "address": "Markt Delft",
+      "howTo": "Visit Markt.",
+      "badge": "badges/markt-delft.png"
+    },
+    {
+      "id": "oude-kerk-delft",
+      "name": "Oude Kerk",
+      "lat": 52.0125,
+      "lng": 4.3545,
+      "radiusM": 80,
+      "address": "Oude Kerk",
+      "howTo": "Visit Oude Kerk.",
+      "badge": "badges/oude-kerk-delft.png"
+    }
+  ]
+}

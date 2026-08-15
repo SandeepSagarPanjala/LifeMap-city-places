@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T07:41:25.000Z",
-  "notes": "Initial country queue complete (us\u2192kr). Next: Netherlands (nl) \u2014 auto-chain continues. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T09:00:33.000Z",
+  "notes": "Queue through Netherlands complete. Next: Portugal (pt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -7999,6 +7999,216 @@
                 "minLng": 127.0,
                 "maxLat": 37.29,
                 "maxLng": 127.02
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nl",
+      "countryCode": "NL",
+      "name": "Netherlands",
+      "states": [
+        {
+          "id": "noord-holland",
+          "stateCode": "NH",
+          "name": "Noord-Holland",
+          "cities": [
+            {
+              "id": "amsterdam",
+              "name": "Amsterdam",
+              "status": "complete",
+              "packPath": "nl/noord-holland/amsterdam/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.35,
+                "minLng": 4.86,
+                "maxLat": 52.39,
+                "maxLng": 4.92
+              }
+            },
+            {
+              "id": "haarlem",
+              "name": "Haarlem",
+              "status": "complete",
+              "packPath": "nl/noord-holland/haarlem/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.37,
+                "minLng": 4.62,
+                "maxLat": 52.39,
+                "maxLng": 4.64
+              }
+            }
+          ]
+        },
+        {
+          "id": "zuid-holland",
+          "stateCode": "ZH",
+          "name": "Zuid-Holland",
+          "cities": [
+            {
+              "id": "rotterdam",
+              "name": "Rotterdam",
+              "status": "complete",
+              "packPath": "nl/zuid-holland/rotterdam/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 51.9,
+                "minLng": 4.46,
+                "maxLat": 51.93,
+                "maxLng": 4.5
+              }
+            },
+            {
+              "id": "the-hague",
+              "name": "The Hague",
+              "status": "complete",
+              "packPath": "nl/zuid-holland/the-hague/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.07,
+                "minLng": 4.28,
+                "maxLat": 52.09,
+                "maxLng": 4.32
+              }
+            },
+            {
+              "id": "delft",
+              "name": "Delft",
+              "status": "complete",
+              "packPath": "nl/zuid-holland/delft/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.0,
+                "minLng": 4.35,
+                "maxLat": 52.02,
+                "maxLng": 4.37
+              }
+            },
+            {
+              "id": "leiden",
+              "name": "Leiden",
+              "status": "complete",
+              "packPath": "nl/zuid-holland/leiden/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.15,
+                "minLng": 4.48,
+                "maxLat": 52.17,
+                "maxLng": 4.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "utrecht",
+          "stateCode": "UT",
+          "name": "Utrecht",
+          "cities": [
+            {
+              "id": "utrecht",
+              "name": "Utrecht",
+              "status": "complete",
+              "packPath": "nl/utrecht/utrecht/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.08,
+                "minLng": 5.11,
+                "maxLat": 52.1,
+                "maxLng": 5.13
+              }
+            }
+          ]
+        },
+        {
+          "id": "noord-brabant",
+          "stateCode": "NB",
+          "name": "Noord-Brabant",
+          "cities": [
+            {
+              "id": "eindhoven",
+              "name": "Eindhoven",
+              "status": "complete",
+              "packPath": "nl/noord-brabant/eindhoven/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 51.43,
+                "minLng": 5.46,
+                "maxLat": 51.45,
+                "maxLng": 5.49
+              }
+            }
+          ]
+        },
+        {
+          "id": "gelderland",
+          "stateCode": "GE",
+          "name": "Gelderland",
+          "cities": [
+            {
+              "id": "arnhem",
+              "name": "Arnhem",
+              "status": "complete",
+              "packPath": "nl/gelderland/arnhem/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 51.97,
+                "minLng": 5.88,
+                "maxLat": 51.99,
+                "maxLng": 5.92
+              }
+            }
+          ]
+        },
+        {
+          "id": "friesland",
+          "stateCode": "FR",
+          "name": "Friesland",
+          "cities": [
+            {
+              "id": "giethoorn",
+              "name": "Giethoorn",
+              "status": "complete",
+              "packPath": "nl/friesland/giethoorn/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 52.72,
+                "minLng": 6.07,
+                "maxLat": 52.74,
+                "maxLng": 6.09
+              }
+            }
+          ]
+        },
+        {
+          "id": "limburg",
+          "stateCode": "LI",
+          "name": "Limburg",
+          "cities": [
+            {
+              "id": "maastricht",
+              "name": "Maastricht",
+              "status": "complete",
+              "packPath": "nl/limburg/maastricht/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T08:50:00.000Z",
+              "bbox": {
+                "minLat": 50.84,
+                "minLng": 5.68,
+                "maxLat": 50.86,
+                "maxLng": 5.7
               }
             }
           ]

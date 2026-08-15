@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/noord-holland/amsterdam",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "NH",
+  "stateName": "Noord-Holland",
+  "cityName": "Amsterdam",
+  "bbox": {
+    "minLat": 52.35,
+    "minLng": 4.86,
+    "maxLat": 52.39,
+    "maxLng": 4.92
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rijksmuseum",
+      "name": "Rijksmuseum",
+      "lat": 52.36,
+      "lng": 4.8852,
+      "radiusM": 150,
+      "address": "Rijksmuseum",
+      "howTo": "Visit Rijksmuseum.",
+      "badge": "badges/rijksmuseum.png"
+    },
+    {
+      "id": "van-gogh-museum",
+      "name": "Van Gogh Museum",
+      "lat": 52.3584,
+      "lng": 4.8811,
+      "radiusM": 100,
+      "address": "Van Gogh Museum",
+      "howTo": "Visit Van Gogh Museum.",
+      "badge": "badges/van-gogh-museum.png"
+    },
+    {
+      "id": "anne-frank-house",
+      "name": "Anne Frank House",
+      "lat": 52.3752,
+      "lng": 4.884,
+      "radiusM": 80,
+      "address": "Anne Frank House",
+      "howTo": "Visit Anne Frank House.",
+      "badge": "badges/anne-frank-house.png"
+    },
+    {
+      "id": "canal-ring",
+      "name": "Canal Ring",
+      "lat": 52.3675,
+      "lng": 4.89,
+      "radiusM": 250,
+      "address": "Grachtengordel",
+      "howTo": "Visit Canal Ring.",
+      "badge": "badges/canal-ring.png"
+    },
+    {
+      "id": "dam-square",
+      "name": "Dam Square",
+      "lat": 52.3731,
+      "lng": 4.8926,
+      "radiusM": 100,
+      "address": "Dam Square",
+      "howTo": "Visit Dam Square.",
+      "badge": "badges/dam-square.png"
+    },
+    {
+      "id": "vondelpark",
+      "name": "Vondelpark",
+      "lat": 52.3579,
+      "lng": 4.8686,
+      "radiusM": 300,
+      "address": "Vondelpark",
+      "howTo": "Visit Vondelpark.",
+      "badge": "badges/vondelpark.png"
+    },
+    {
+      "id": "rembrandt-house",
+      "name": "Rembrandt House Museum",
+      "lat": 52.3695,
+      "lng": 4.9015,
+      "radiusM": 80,
+      "address": "Museum Het Rembrandthuis",
+      "howTo": "Visit Rembrandt House Museum.",
+      "badge": "badges/rembrandt-house.png"
+    },
+    {
+      "id": "a-dam-lookout",
+      "name": "A'DAM Lookout",
+      "lat": 52.3835,
+      "lng": 4.9015,
+      "radiusM": 100,
+      "address": "A'DAM Lookout",
+      "howTo": "Visit A'DAM Lookout.",
+      "badge": "badges/a-dam-lookout.png"
+    }
+  ]
+}

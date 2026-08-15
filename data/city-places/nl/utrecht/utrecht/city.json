@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/utrecht/utrecht",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "UT",
+  "stateName": "Utrecht",
+  "cityName": "Utrecht",
+  "bbox": {
+    "minLat": 52.08,
+    "minLng": 5.11,
+    "maxLat": 52.1,
+    "maxLng": 5.13
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dom-tower",
+      "name": "Dom Tower",
+      "lat": 52.0908,
+      "lng": 5.1215,
+      "radiusM": 80,
+      "address": "Domtoren",
+      "howTo": "Visit Dom Tower.",
+      "badge": "badges/dom-tower.png"
+    },
+    {
+      "id": "oudegracht",
+      "name": "Oudegracht",
+      "lat": 52.0905,
+      "lng": 5.1205,
+      "radiusM": 200,
+      "address": "Oudegracht canals",
+      "howTo": "Visit Oudegracht.",
+      "badge": "badges/oudegracht.png"
+    },
+    {
+      "id": "railway-museum",
+      "name": "Railway Museum",
+      "lat": 52.0875,
+      "lng": 5.1305,
+      "radiusM": 150,
+      "address": "Spoorwegmuseum",
+      "howTo": "Visit Railway Museum.",
+      "badge": "badges/railway-museum.png"
+    }
+  ]
+}

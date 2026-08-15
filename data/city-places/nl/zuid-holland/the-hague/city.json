@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/zuid-holland/the-hague",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "ZH",
+  "stateName": "Zuid-Holland",
+  "cityName": "The Hague",
+  "bbox": {
+    "minLat": 52.07,
+    "minLng": 4.28,
+    "maxLat": 52.09,
+    "maxLng": 4.32
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "binnenhof",
+      "name": "Binnenhof",
+      "lat": 52.0795,
+      "lng": 4.3135,
+      "radiusM": 120,
+      "address": "Binnenhof",
+      "howTo": "Visit Binnenhof.",
+      "badge": "badges/binnenhof.png"
+    },
+    {
+      "id": "mauritshuis",
+      "name": "Mauritshuis",
+      "lat": 52.0805,
+      "lng": 4.3145,
+      "radiusM": 80,
+      "address": "Mauritshuis",
+      "howTo": "Visit Mauritshuis.",
+      "badge": "badges/mauritshuis.png"
+    },
+    {
+      "id": "scheveningen-pier",
+      "name": "Scheveningen Pier",
+      "lat": 52.1165,
+      "lng": 4.2795,
+      "radiusM": 150,
+      "address": "Scheveningen Pier",
+      "howTo": "Visit Scheveningen Pier.",
+      "badge": "badges/scheveningen-pier.png"
+    },
+    {
+      "id": "peace-palace",
+      "name": "Peace Palace",
+      "lat": 52.0865,
+      "lng": 4.2955,
+      "radiusM": 120,
+      "address": "Vredespaleis",
+      "howTo": "Visit Peace Palace.",
+      "badge": "badges/peace-palace.png"
+    }
+  ]
+}

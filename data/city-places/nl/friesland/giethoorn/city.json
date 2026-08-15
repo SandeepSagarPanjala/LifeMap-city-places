@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nl/friesland/giethoorn",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "stateCode": "FR",
+  "stateName": "Friesland",
+  "cityName": "Giethoorn",
+  "bbox": {
+    "minLat": 52.72,
+    "minLng": 6.07,
+    "maxLat": 52.74,
+    "maxLng": 6.09
+  },
+  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "giethoorn-canals",
+      "name": "Giethoorn Canals",
+      "lat": 52.7245,
+      "lng": 6.0785,
+      "radiusM": 250,
+      "address": "Village canals",
+      "howTo": "Visit Giethoorn Canals.",
+      "badge": "badges/giethoorn-canals.png"
+    },
+    {
+      "id": "museum-giethoorn",
+      "name": "Museum Giethoorn 't Olde Maat Uus",
+      "lat": 52.7255,
+      "lng": 6.0795,
+      "radiusM": 80,
+      "address": "Museum Giethoorn",
+      "howTo": "Visit Museum Giethoorn 't Olde Maat Uus.",
+      "badge": "badges/museum-giethoorn.png"
+    },
+    {
+      "id": "de-weet",
+      "name": "De Weerribben viewpoint",
+      "lat": 52.7285,
+      "lng": 6.0755,
+      "radiusM": 200,
+      "address": "Weerribben-Wieden area",
+      "howTo": "Visit De Weerribben viewpoint.",
+      "badge": "badges/de-weet.png"
+    }
+  ]
+}
