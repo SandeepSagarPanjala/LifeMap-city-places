@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/busan/busan",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "BS",
+  "stateName": "Busan",
+  "cityName": "Busan",
+  "bbox": {
+    "minLat": 35.09,
+    "minLng": 129.02,
+    "maxLat": 35.17,
+    "maxLng": 129.13
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "haeundae-beach",
+      "name": "Haeundae Beach",
+      "lat": 35.1585,
+      "lng": 129.1605,
+      "radiusM": 250,
+      "address": "Haeundae Beach",
+      "howTo": "Visit Haeundae Beach.",
+      "badge": "badges/haeundae-beach.png"
+    },
+    {
+      "id": "gamcheon-culture-village",
+      "name": "Gamcheon Culture Village",
+      "lat": 35.0975,
+      "lng": 129.0105,
+      "radiusM": 200,
+      "address": "Gamcheon",
+      "howTo": "Visit Gamcheon Culture Village.",
+      "badge": "badges/gamcheon-culture-village.png"
+    },
+    {
+      "id": "jagalchi-market",
+      "name": "Jagalchi Market",
+      "lat": 35.0965,
+      "lng": 129.0305,
+      "radiusM": 150,
+      "address": "Jagalchi Market",
+      "howTo": "Visit Jagalchi Market.",
+      "badge": "badges/jagalchi-market.png"
+    },
+    {
+      "id": "haedong-yonggungsa",
+      "name": "Haedong Yonggungsa Temple",
+      "lat": 35.1885,
+      "lng": 129.2235,
+      "radiusM": 150,
+      "address": "Haedong Yonggungsa",
+      "howTo": "Visit Haedong Yonggungsa Temple.",
+      "badge": "badges/haedong-yonggungsa.png"
+    },
+    {
+      "id": "gwangalli-beach",
+      "name": "Gwangalli Beach",
+      "lat": 35.1535,
+      "lng": 129.1185,
+      "radiusM": 200,
+      "address": "Gwangalli Beach",
+      "howTo": "Visit Gwangalli Beach.",
+      "badge": "badges/gwangalli-beach.png"
+    }
+  ]
+}

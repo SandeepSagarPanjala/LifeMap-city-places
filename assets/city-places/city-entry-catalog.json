@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T06:41:31.990Z",
+  "generatedAt": "2026-08-15T07:41:25.844Z",
   "cellDeg": 0.5,
-  "cityCount": 457,
+  "cityCount": 467,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -2414,6 +2414,96 @@
         "minLng": 138.74,
         "maxLat": 35.52,
         "maxLng": 138.78
+      }
+    },
+    "kr/busan/busan": {
+      "name": "Busan",
+      "bbox": {
+        "minLat": 35.09,
+        "minLng": 129.02,
+        "maxLat": 35.17,
+        "maxLng": 129.13
+      }
+    },
+    "kr/daejeon/daejeon": {
+      "name": "Daejeon",
+      "bbox": {
+        "minLat": 36.35,
+        "minLng": 127.37,
+        "maxLat": 36.38,
+        "maxLng": 127.4
+      }
+    },
+    "kr/gangwon/gangneung": {
+      "name": "Gangneung",
+      "bbox": {
+        "minLat": 37.75,
+        "minLng": 128.87,
+        "maxLat": 37.78,
+        "maxLng": 128.9
+      }
+    },
+    "kr/gangwon/sokcho": {
+      "name": "Sokcho",
+      "bbox": {
+        "minLat": 38.19,
+        "minLng": 128.52,
+        "maxLat": 38.22,
+        "maxLng": 128.6
+      }
+    },
+    "kr/gyeongju/gyeongju": {
+      "name": "Gyeongju",
+      "bbox": {
+        "minLat": 35.82,
+        "minLng": 129.2,
+        "maxLat": 35.84,
+        "maxLng": 129.23
+      }
+    },
+    "kr/incheon/incheon": {
+      "name": "Incheon",
+      "bbox": {
+        "minLat": 37.44,
+        "minLng": 126.6,
+        "maxLat": 37.48,
+        "maxLng": 126.65
+      }
+    },
+    "kr/jeju/jeju": {
+      "name": "Jeju",
+      "bbox": {
+        "minLat": 33.35,
+        "minLng": 126.45,
+        "maxLat": 33.52,
+        "maxLng": 126.6
+      }
+    },
+    "kr/jeonju/jeonju": {
+      "name": "Jeonju",
+      "bbox": {
+        "minLat": 35.81,
+        "minLng": 127.14,
+        "maxLat": 35.83,
+        "maxLng": 127.16
+      }
+    },
+    "kr/seoul/seoul": {
+      "name": "Seoul",
+      "bbox": {
+        "minLat": 37.54,
+        "minLng": 126.95,
+        "maxLat": 37.59,
+        "maxLng": 127.02
+      }
+    },
+    "kr/suwon/suwon": {
+      "name": "Suwon",
+      "bbox": {
+        "minLat": 37.28,
+        "minLng": 127,
+        "maxLat": 37.29,
+        "maxLng": 127.02
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -5930,6 +6020,48 @@
     ],
     "28,199": [
       "th/kanchanaburi/kanchanaburi"
+    ],
+    "75,253": [
+      "kr/seoul/seoul"
+    ],
+    "75,254": [
+      "kr/seoul/seoul"
+    ],
+    "70,258": [
+      "kr/busan/busan"
+    ],
+    "66,252": [
+      "kr/jeju/jeju"
+    ],
+    "66,253": [
+      "kr/jeju/jeju"
+    ],
+    "67,252": [
+      "kr/jeju/jeju"
+    ],
+    "67,253": [
+      "kr/jeju/jeju"
+    ],
+    "71,258": [
+      "kr/gyeongju/gyeongju"
+    ],
+    "74,253": [
+      "kr/incheon/incheon"
+    ],
+    "76,257": [
+      "kr/gangwon/sokcho"
+    ],
+    "75,257": [
+      "kr/gangwon/gangneung"
+    ],
+    "71,254": [
+      "kr/jeonju/jeonju"
+    ],
+    "72,254": [
+      "kr/daejeon/daejeon"
+    ],
+    "74,254": [
+      "kr/suwon/suwon"
     ]
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/gangwon/sokcho",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "GW",
+  "stateName": "Gangwon",
+  "cityName": "Sokcho",
+  "bbox": {
+    "minLat": 38.19,
+    "minLng": 128.52,
+    "maxLat": 38.22,
+    "maxLng": 128.6
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seoraksan",
+      "name": "Seoraksan National Park",
+      "lat": 38.1195,
+      "lng": 128.4655,
+      "radiusM": 400,
+      "address": "Seoraksan",
+      "howTo": "Visit Seoraksan National Park.",
+      "badge": "badges/seoraksan.png"
+    },
+    {
+      "id": "sokcho-beach",
+      "name": "Sokcho Beach",
+      "lat": 38.2075,
+      "lng": 128.5945,
+      "radiusM": 200,
+      "address": "Sokcho Beach",
+      "howTo": "Visit Sokcho Beach.",
+      "badge": "badges/sokcho-beach.png"
+    },
+    {
+      "id": "abai-village",
+      "name": "Abai Village",
+      "lat": 38.2055,
+      "lng": 128.5925,
+      "radiusM": 150,
+      "address": "Abai Village",
+      "howTo": "Visit Abai Village.",
+      "badge": "badges/abai-village.png"
+    }
+  ]
+}

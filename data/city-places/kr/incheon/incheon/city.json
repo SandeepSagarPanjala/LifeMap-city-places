@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/incheon/incheon",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "IC",
+  "stateName": "Incheon",
+  "cityName": "Incheon",
+  "bbox": {
+    "minLat": 37.44,
+    "minLng": 126.6,
+    "maxLat": 37.48,
+    "maxLng": 126.65
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chinatown-incheon",
+      "name": "Incheon Chinatown",
+      "lat": 37.4755,
+      "lng": 126.6175,
+      "radiusM": 150,
+      "address": "Chinatown",
+      "howTo": "Visit Incheon Chinatown.",
+      "badge": "badges/chinatown-incheon.png"
+    },
+    {
+      "id": "songdo-central-park",
+      "name": "Songdo Central Park",
+      "lat": 37.3935,
+      "lng": 126.6405,
+      "radiusM": 250,
+      "address": "Songdo Central Park",
+      "howTo": "Visit Songdo Central Park.",
+      "badge": "badges/songdo-central-park.png"
+    },
+    {
+      "id": "wolmido",
+      "name": "Wolmido",
+      "lat": 37.4715,
+      "lng": 126.5965,
+      "radiusM": 200,
+      "address": "Wolmido Island",
+      "howTo": "Visit Wolmido.",
+      "badge": "badges/wolmido.png"
+    }
+  ]
+}

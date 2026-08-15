@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/daejeon/daejeon",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "DJ",
+  "stateName": "Daejeon",
+  "cityName": "Daejeon",
+  "bbox": {
+    "minLat": 36.35,
+    "minLng": 127.37,
+    "maxLat": 36.38,
+    "maxLng": 127.4
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "expo-science-park",
+      "name": "Expo Science Park",
+      "lat": 36.3755,
+      "lng": 127.3875,
+      "radiusM": 200,
+      "address": "Daejeon Expo / Hanbit Tower area",
+      "howTo": "Visit Expo Science Park.",
+      "badge": "badges/expo-science-park.png"
+    },
+    {
+      "id": "ppuri-park",
+      "name": "Ppuri Park",
+      "lat": 36.3655,
+      "lng": 127.3055,
+      "radiusM": 200,
+      "address": "Ppuri Park",
+      "howTo": "Visit Ppuri Park.",
+      "badge": "badges/ppuri-park.png"
+    },
+    {
+      "id": "yuseong-hot-springs",
+      "name": "Yuseong Hot Springs",
+      "lat": 36.3555,
+      "lng": 127.3455,
+      "radiusM": 150,
+      "address": "Yuseong Oncheon",
+      "howTo": "Visit Yuseong Hot Springs.",
+      "badge": "badges/yuseong-hot-springs.png"
+    }
+  ]
+}

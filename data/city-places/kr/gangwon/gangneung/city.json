@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/gangwon/gangneung",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "GW",
+  "stateName": "Gangwon",
+  "cityName": "Gangneung",
+  "bbox": {
+    "minLat": 37.75,
+    "minLng": 128.87,
+    "maxLat": 37.78,
+    "maxLng": 128.9
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gyeongpo-beach",
+      "name": "Gyeongpo Beach",
+      "lat": 37.8045,
+      "lng": 128.9085,
+      "radiusM": 250,
+      "address": "Gyeongpo Beach",
+      "howTo": "Visit Gyeongpo Beach.",
+      "badge": "badges/gyeongpo-beach.png"
+    },
+    {
+      "id": "ojeong-seowon",
+      "name": "Ojukheon",
+      "lat": 37.7635,
+      "lng": 128.8945,
+      "radiusM": 100,
+      "address": "Ojukheon House",
+      "howTo": "Visit Ojukheon.",
+      "badge": "badges/ojeong-seowon.png"
+    },
+    {
+      "id": "jumunjin",
+      "name": "Jumunjin Harbor",
+      "lat": 37.8915,
+      "lng": 128.8295,
+      "radiusM": 150,
+      "address": "Jumunjin",
+      "howTo": "Visit Jumunjin Harbor.",
+      "badge": "badges/jumunjin.png"
+    }
+  ]
+}

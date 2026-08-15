@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/suwon/suwon",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "GG",
+  "stateName": "Gyeonggi",
+  "cityName": "Suwon",
+  "bbox": {
+    "minLat": 37.28,
+    "minLng": 127.0,
+    "maxLat": 37.29,
+    "maxLng": 127.02
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hwaseong-fortress",
+      "name": "Hwaseong Fortress",
+      "lat": 37.2875,
+      "lng": 127.0125,
+      "radiusM": 250,
+      "address": "Hwaseong Fortress",
+      "howTo": "Visit Hwaseong Fortress.",
+      "badge": "badges/hwaseong-fortress.png"
+    },
+    {
+      "id": "hwaseong-haenggung",
+      "name": "Hwaseong Haenggung",
+      "lat": 37.2825,
+      "lng": 127.0145,
+      "radiusM": 120,
+      "address": "Temporary Palace",
+      "howTo": "Visit Hwaseong Haenggung.",
+      "badge": "badges/hwaseong-haenggung.png"
+    },
+    {
+      "id": "suwon-hwaseong-museum",
+      "name": "Suwon Hwaseong Museum",
+      "lat": 37.2865,
+      "lng": 127.0165,
+      "radiusM": 80,
+      "address": "Hwaseong Museum",
+      "howTo": "Visit Suwon Hwaseong Museum.",
+      "badge": "badges/suwon-hwaseong-museum.png"
+    }
+  ]
+}

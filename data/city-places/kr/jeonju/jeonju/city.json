@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/jeonju/jeonju",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "JN",
+  "stateName": "Jeonju",
+  "cityName": "Jeonju",
+  "bbox": {
+    "minLat": 35.81,
+    "minLng": 127.14,
+    "maxLat": 35.83,
+    "maxLng": 127.16
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jeonju-hanok-village",
+      "name": "Jeonju Hanok Village",
+      "lat": 35.8155,
+      "lng": 127.1505,
+      "radiusM": 250,
+      "address": "Hanok Village",
+      "howTo": "Visit Jeonju Hanok Village.",
+      "badge": "badges/jeonju-hanok-village.png"
+    },
+    {
+      "id": "gyeonggijeon",
+      "name": "Gyeonggijeon Shrine",
+      "lat": 35.815,
+      "lng": 127.15,
+      "radiusM": 120,
+      "address": "Gyeonggijeon",
+      "howTo": "Visit Gyeonggijeon Shrine.",
+      "badge": "badges/gyeonggijeon.png"
+    },
+    {
+      "id": "omokdae",
+      "name": "Omokdae",
+      "lat": 35.8135,
+      "lng": 127.1535,
+      "radiusM": 80,
+      "address": "Omokdae Pavilion",
+      "howTo": "Visit Omokdae.",
+      "badge": "badges/omokdae.png"
+    }
+  ]
+}

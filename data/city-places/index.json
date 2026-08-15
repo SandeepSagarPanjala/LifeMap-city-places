@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T06:41:31.000Z",
-  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany/Australia/Canada/Thailand complete. Next: South Korea (kr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T07:41:25.000Z",
+  "notes": "Initial country queue complete (us\u2192kr). Next: Netherlands (nl) \u2014 auto-chain continues. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -7789,6 +7789,216 @@
                 "minLng": 99.52,
                 "maxLat": 14.04,
                 "maxLng": 99.55
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kr",
+      "countryCode": "KR",
+      "name": "South Korea",
+      "states": [
+        {
+          "id": "seoul",
+          "stateCode": "SU",
+          "name": "Seoul",
+          "cities": [
+            {
+              "id": "seoul",
+              "name": "Seoul",
+              "status": "complete",
+              "packPath": "kr/seoul/seoul/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 37.54,
+                "minLng": 126.95,
+                "maxLat": 37.59,
+                "maxLng": 127.02
+              }
+            }
+          ]
+        },
+        {
+          "id": "busan",
+          "stateCode": "BS",
+          "name": "Busan",
+          "cities": [
+            {
+              "id": "busan",
+              "name": "Busan",
+              "status": "complete",
+              "packPath": "kr/busan/busan/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 35.09,
+                "minLng": 129.02,
+                "maxLat": 35.17,
+                "maxLng": 129.13
+              }
+            }
+          ]
+        },
+        {
+          "id": "jeju",
+          "stateCode": "JJ",
+          "name": "Jeju",
+          "cities": [
+            {
+              "id": "jeju",
+              "name": "Jeju",
+              "status": "complete",
+              "packPath": "kr/jeju/jeju/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 33.35,
+                "minLng": 126.45,
+                "maxLat": 33.52,
+                "maxLng": 126.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "gyeongju",
+          "stateCode": "GJ",
+          "name": "Gyeongju",
+          "cities": [
+            {
+              "id": "gyeongju",
+              "name": "Gyeongju",
+              "status": "complete",
+              "packPath": "kr/gyeongju/gyeongju/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 35.82,
+                "minLng": 129.2,
+                "maxLat": 35.84,
+                "maxLng": 129.23
+              }
+            }
+          ]
+        },
+        {
+          "id": "incheon",
+          "stateCode": "IC",
+          "name": "Incheon",
+          "cities": [
+            {
+              "id": "incheon",
+              "name": "Incheon",
+              "status": "complete",
+              "packPath": "kr/incheon/incheon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 37.44,
+                "minLng": 126.6,
+                "maxLat": 37.48,
+                "maxLng": 126.65
+              }
+            }
+          ]
+        },
+        {
+          "id": "gangwon",
+          "stateCode": "GW",
+          "name": "Gangwon",
+          "cities": [
+            {
+              "id": "sokcho",
+              "name": "Sokcho",
+              "status": "complete",
+              "packPath": "kr/gangwon/sokcho/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 38.19,
+                "minLng": 128.52,
+                "maxLat": 38.22,
+                "maxLng": 128.6
+              }
+            },
+            {
+              "id": "gangneung",
+              "name": "Gangneung",
+              "status": "complete",
+              "packPath": "kr/gangwon/gangneung/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 37.75,
+                "minLng": 128.87,
+                "maxLat": 37.78,
+                "maxLng": 128.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "jeonju",
+          "stateCode": "JN",
+          "name": "Jeonju",
+          "cities": [
+            {
+              "id": "jeonju",
+              "name": "Jeonju",
+              "status": "complete",
+              "packPath": "kr/jeonju/jeonju/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 35.81,
+                "minLng": 127.14,
+                "maxLat": 35.83,
+                "maxLng": 127.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "daejeon",
+          "stateCode": "DJ",
+          "name": "Daejeon",
+          "cities": [
+            {
+              "id": "daejeon",
+              "name": "Daejeon",
+              "status": "complete",
+              "packPath": "kr/daejeon/daejeon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 36.35,
+                "minLng": 127.37,
+                "maxLat": 36.38,
+                "maxLng": 127.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "suwon",
+          "stateCode": "GG",
+          "name": "Gyeonggi",
+          "cities": [
+            {
+              "id": "suwon",
+              "name": "Suwon",
+              "status": "complete",
+              "packPath": "kr/suwon/suwon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:45:00.000Z",
+              "bbox": {
+                "minLat": 37.28,
+                "minLng": 127.0,
+                "maxLat": 37.29,
+                "maxLng": 127.02
               }
             }
           ]

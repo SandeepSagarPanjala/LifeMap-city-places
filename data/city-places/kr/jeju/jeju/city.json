@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/jeju/jeju",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "JJ",
+  "stateName": "Jeju",
+  "cityName": "Jeju",
+  "bbox": {
+    "minLat": 33.35,
+    "minLng": 126.45,
+    "maxLat": 33.52,
+    "maxLng": 126.6
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seongsan-ilchulbong",
+      "name": "Seongsan Ilchulbong",
+      "lat": 33.4585,
+      "lng": 126.9425,
+      "radiusM": 250,
+      "address": "Sunrise Peak",
+      "howTo": "Visit Seongsan Ilchulbong.",
+      "badge": "badges/seongsan-ilchulbong.png"
+    },
+    {
+      "id": "hallasan",
+      "name": "Hallasan",
+      "lat": 33.3615,
+      "lng": 126.5295,
+      "radiusM": 400,
+      "address": "Hallasan National Park",
+      "howTo": "Visit Hallasan.",
+      "badge": "badges/hallasan.png"
+    },
+    {
+      "id": "jeongbang-waterfall",
+      "name": "Jeongbang Waterfall",
+      "lat": 33.2445,
+      "lng": 126.5715,
+      "radiusM": 120,
+      "address": "Jeongbang Falls",
+      "howTo": "Visit Jeongbang Waterfall.",
+      "badge": "badges/jeongbang-waterfall.png"
+    },
+    {
+      "id": "manjanggul",
+      "name": "Manjanggul Cave",
+      "lat": 33.5285,
+      "lng": 126.7715,
+      "radiusM": 150,
+      "address": "Manjanggul Lava Tube",
+      "howTo": "Visit Manjanggul Cave.",
+      "badge": "badges/manjanggul.png"
+    },
+    {
+      "id": "seopjikoji",
+      "name": "Seopjikoji",
+      "lat": 33.4235,
+      "lng": 126.9305,
+      "radiusM": 200,
+      "address": "Seopjikoji Cape",
+      "howTo": "Visit Seopjikoji.",
+      "badge": "badges/seopjikoji.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/gyeongju/gyeongju",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "GJ",
+  "stateName": "Gyeongju",
+  "cityName": "Gyeongju",
+  "bbox": {
+    "minLat": 35.82,
+    "minLng": 129.2,
+    "maxLat": 35.84,
+    "maxLng": 129.23
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bulguksa",
+      "name": "Bulguksa Temple",
+      "lat": 35.79,
+      "lng": 129.332,
+      "radiusM": 200,
+      "address": "Bulguksa",
+      "howTo": "Visit Bulguksa Temple.",
+      "badge": "badges/bulguksa.png"
+    },
+    {
+      "id": "seokguram",
+      "name": "Seokguram Grotto",
+      "lat": 35.7945,
+      "lng": 129.3495,
+      "radiusM": 120,
+      "address": "Seokguram",
+      "howTo": "Visit Seokguram Grotto.",
+      "badge": "badges/seokguram.png"
+    },
+    {
+      "id": "cheomseongdae",
+      "name": "Cheomseongdae",
+      "lat": 35.8345,
+      "lng": 129.2195,
+      "radiusM": 80,
+      "address": "Cheomseongdae Observatory",
+      "howTo": "Visit Cheomseongdae.",
+      "badge": "badges/cheomseongdae.png"
+    },
+    {
+      "id": "donggung-wolji",
+      "name": "Donggung Palace and Wolji Pond",
+      "lat": 35.8345,
+      "lng": 129.2265,
+      "radiusM": 150,
+      "address": "Anapji / Wolji",
+      "howTo": "Visit Donggung Palace and Wolji Pond.",
+      "badge": "badges/donggung-wolji.png"
+    },
+    {
+      "id": "daereungwon",
+      "name": "Daereungwon Tomb Complex",
+      "lat": 35.8385,
+      "lng": 129.2145,
+      "radiusM": 200,
+      "address": "Daereungwon",
+      "howTo": "Visit Daereungwon Tomb Complex.",
+      "badge": "badges/daereungwon.png"
+    }
+  ]
+}

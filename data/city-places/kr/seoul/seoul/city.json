@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "kr/seoul/seoul",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "stateCode": "SU",
+  "stateName": "Seoul",
+  "cityName": "Seoul",
+  "bbox": {
+    "minLat": 37.54,
+    "minLng": 126.95,
+    "maxLat": 37.59,
+    "maxLng": 127.02
+  },
+  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gyeongbokgung",
+      "name": "Gyeongbokgung Palace",
+      "lat": 37.5796,
+      "lng": 126.977,
+      "radiusM": 200,
+      "address": "Gyeongbokgung",
+      "howTo": "Visit Gyeongbokgung Palace.",
+      "badge": "badges/gyeongbokgung.png"
+    },
+    {
+      "id": "bukchon-hanok-village",
+      "name": "Bukchon Hanok Village",
+      "lat": 37.5825,
+      "lng": 126.983,
+      "radiusM": 150,
+      "address": "Bukchon",
+      "howTo": "Visit Bukchon Hanok Village.",
+      "badge": "badges/bukchon-hanok-village.png"
+    },
+    {
+      "id": "n-seoul-tower",
+      "name": "N Seoul Tower",
+      "lat": 37.5512,
+      "lng": 126.9882,
+      "radiusM": 120,
+      "address": "Namsan Tower",
+      "howTo": "Visit N Seoul Tower.",
+      "badge": "badges/n-seoul-tower.png"
+    },
+    {
+      "id": "changdeokgung",
+      "name": "Changdeokgung Palace",
+      "lat": 37.5794,
+      "lng": 126.991,
+      "radiusM": 200,
+      "address": "Changdeokgung",
+      "howTo": "Visit Changdeokgung Palace.",
+      "badge": "badges/changdeokgung.png"
+    },
+    {
+      "id": "insadong",
+      "name": "Insadong",
+      "lat": 37.574,
+      "lng": 126.9855,
+      "radiusM": 150,
+      "address": "Insadong",
+      "howTo": "Visit Insadong.",
+      "badge": "badges/insadong.png"
+    },
+    {
+      "id": "hongdae",
+      "name": "Hongdae",
+      "lat": 37.5565,
+      "lng": 126.9235,
+      "radiusM": 200,
+      "address": "Hongdae",
+      "howTo": "Visit Hongdae.",
+      "badge": "badges/hongdae.png"
+    },
+    {
+      "id": "dmz-imjingak",
+      "name": "Imjingak",
+      "lat": 37.8895,
+      "lng": 126.7405,
+      "radiusM": 200,
+      "address": "Imjingak / DMZ area",
+      "howTo": "Visit Imjingak.",
+      "badge": "badges/dmz-imjingak.png"
+    },
+    {
+      "id": "lotte-world-tower",
+      "name": "Lotte World Tower",
+      "lat": 37.5125,
+      "lng": 127.1025,
+      "radiusM": 120,
+      "address": "Lotte World Tower",
+      "howTo": "Visit Lotte World Tower.",
+      "badge": "badges/lotte-world-tower.png"
+    }
+  ]
+}
