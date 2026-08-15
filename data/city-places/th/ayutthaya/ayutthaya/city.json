@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "th/ayutthaya/ayutthaya",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "AYA",
+  "stateName": "Ayutthaya",
+  "cityName": "Ayutthaya",
+  "bbox": {
+    "minLat": 14.34,
+    "minLng": 100.55,
+    "maxLat": 14.36,
+    "maxLng": 100.58
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wat-mahathat-ayutthaya",
+      "name": "Wat Mahathat",
+      "lat": 14.357,
+      "lng": 100.5675,
+      "radiusM": 150,
+      "address": "Wat Mahathat Ayutthaya",
+      "howTo": "Visit Wat Mahathat.",
+      "badge": "badges/wat-mahathat-ayutthaya.png"
+    },
+    {
+      "id": "wat-phra-si-sanphet",
+      "name": "Wat Phra Si Sanphet",
+      "lat": 14.3555,
+      "lng": 100.5585,
+      "radiusM": 150,
+      "address": "Wat Phra Si Sanphet",
+      "howTo": "Visit Wat Phra Si Sanphet.",
+      "badge": "badges/wat-phra-si-sanphet.png"
+    },
+    {
+      "id": "wat-chaiwatthanaram",
+      "name": "Wat Chaiwatthanaram",
+      "lat": 14.3435,
+      "lng": 100.5485,
+      "radiusM": 150,
+      "address": "Wat Chaiwatthanaram",
+      "howTo": "Visit Wat Chaiwatthanaram.",
+      "badge": "badges/wat-chaiwatthanaram.png"
+    },
+    {
+      "id": "ayutthaya-historical-park",
+      "name": "Ayutthaya Historical Park",
+      "lat": 14.355,
+      "lng": 100.565,
+      "radiusM": 300,
+      "address": "Historical Park",
+      "howTo": "Visit Ayutthaya Historical Park.",
+      "badge": "badges/ayutthaya-historical-park.png"
+    }
+  ]
+}

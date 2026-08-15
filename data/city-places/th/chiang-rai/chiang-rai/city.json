@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "th/chiang-rai/chiang-rai",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "CRI",
+  "stateName": "Chiang Rai",
+  "cityName": "Chiang Rai",
+  "bbox": {
+    "minLat": 19.9,
+    "minLng": 99.82,
+    "maxLat": 19.92,
+    "maxLng": 99.84
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "white-temple",
+      "name": "Wat Rong Khun",
+      "lat": 19.8245,
+      "lng": 99.7635,
+      "radiusM": 150,
+      "address": "White Temple",
+      "howTo": "Visit Wat Rong Khun.",
+      "badge": "badges/white-temple.png"
+    },
+    {
+      "id": "blue-temple",
+      "name": "Wat Rong Suea Ten",
+      "lat": 19.8855,
+      "lng": 99.8285,
+      "radiusM": 100,
+      "address": "Blue Temple",
+      "howTo": "Visit Wat Rong Suea Ten.",
+      "badge": "badges/blue-temple.png"
+    },
+    {
+      "id": "black-house",
+      "name": "Baan Dam Museum",
+      "lat": 19.9545,
+      "lng": 99.8025,
+      "radiusM": 150,
+      "address": "Black House",
+      "howTo": "Visit Baan Dam Museum.",
+      "badge": "badges/black-house.png"
+    },
+    {
+      "id": "clock-tower-chiang-rai",
+      "name": "Chiang Rai Clock Tower",
+      "lat": 19.9075,
+      "lng": 99.8325,
+      "radiusM": 60,
+      "address": "Clock Tower",
+      "howTo": "Visit Chiang Rai Clock Tower.",
+      "badge": "badges/clock-tower-chiang-rai.png"
+    }
+  ]
+}

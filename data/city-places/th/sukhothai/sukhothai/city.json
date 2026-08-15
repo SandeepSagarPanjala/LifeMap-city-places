@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/sukhothai/sukhothai",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "STI",
+  "stateName": "Sukhothai",
+  "cityName": "Sukhothai",
+  "bbox": {
+    "minLat": 17.01,
+    "minLng": 99.69,
+    "maxLat": 17.03,
+    "maxLng": 99.71
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wat-mahathat-sukhothai",
+      "name": "Wat Mahathat Sukhothai",
+      "lat": 17.0195,
+      "lng": 99.7035,
+      "radiusM": 150,
+      "address": "Wat Mahathat",
+      "howTo": "Visit Wat Mahathat Sukhothai.",
+      "badge": "badges/wat-mahathat-sukhothai.png"
+    },
+    {
+      "id": "sukhothai-historical-park",
+      "name": "Sukhothai Historical Park",
+      "lat": 17.0175,
+      "lng": 99.7025,
+      "radiusM": 300,
+      "address": "Historical Park",
+      "howTo": "Visit Sukhothai Historical Park.",
+      "badge": "badges/sukhothai-historical-park.png"
+    },
+    {
+      "id": "wat-si-chum",
+      "name": "Wat Si Chum",
+      "lat": 17.0265,
+      "lng": 99.6975,
+      "radiusM": 120,
+      "address": "Wat Si Chum",
+      "howTo": "Visit Wat Si Chum.",
+      "badge": "badges/wat-si-chum.png"
+    }
+  ]
+}

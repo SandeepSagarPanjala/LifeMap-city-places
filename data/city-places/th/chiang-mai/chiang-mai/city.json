@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "th/chiang-mai/chiang-mai",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "CMI",
+  "stateName": "Chiang Mai",
+  "cityName": "Chiang Mai",
+  "bbox": {
+    "minLat": 18.77,
+    "minLng": 98.97,
+    "maxLat": 18.8,
+    "maxLng": 99.0
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "doi-suthep",
+      "name": "Wat Phra That Doi Suthep",
+      "lat": 18.805,
+      "lng": 98.9215,
+      "radiusM": 150,
+      "address": "Doi Suthep",
+      "howTo": "Visit Wat Phra That Doi Suthep.",
+      "badge": "badges/doi-suthep.png"
+    },
+    {
+      "id": "old-city-chiang-mai",
+      "name": "Chiang Mai Old City",
+      "lat": 18.7885,
+      "lng": 98.9855,
+      "radiusM": 250,
+      "address": "Old City walls area",
+      "howTo": "Visit Chiang Mai Old City.",
+      "badge": "badges/old-city-chiang-mai.png"
+    },
+    {
+      "id": "wat-chedi-luang",
+      "name": "Wat Chedi Luang",
+      "lat": 18.7865,
+      "lng": 98.9865,
+      "radiusM": 120,
+      "address": "Wat Chedi Luang",
+      "howTo": "Visit Wat Chedi Luang.",
+      "badge": "badges/wat-chedi-luang.png"
+    },
+    {
+      "id": "wat-phra-singh",
+      "name": "Wat Phra Singh",
+      "lat": 18.7885,
+      "lng": 98.9815,
+      "radiusM": 100,
+      "address": "Wat Phra Singh",
+      "howTo": "Visit Wat Phra Singh.",
+      "badge": "badges/wat-phra-singh.png"
+    },
+    {
+      "id": "sunday-walking-street",
+      "name": "Sunday Walking Street",
+      "lat": 18.7875,
+      "lng": 98.9935,
+      "radiusM": 150,
+      "address": "Thapae Walking Street",
+      "howTo": "Visit Sunday Walking Street.",
+      "badge": "badges/sunday-walking-street.png"
+    }
+  ]
+}

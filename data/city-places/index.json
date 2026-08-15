@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T01:06:45.000Z",
-  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany/Australia/Canada complete. Next: Thailand (th) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T06:41:31.000Z",
+  "notes": "USA/India/Japan/UK/France/Italy/Spain/Germany/Australia/Canada/Thailand complete. Next: South Korea (kr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -7558,6 +7558,237 @@
                 "minLng": -97.15,
                 "maxLat": 49.9,
                 "maxLng": -97.13
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th",
+      "countryCode": "TH",
+      "name": "Thailand",
+      "states": [
+        {
+          "id": "bangkok",
+          "stateCode": "BKK",
+          "name": "Bangkok",
+          "cities": [
+            {
+              "id": "bangkok",
+              "name": "Bangkok",
+              "status": "complete",
+              "packPath": "th/bangkok/bangkok/city.json",
+              "placeCount": 8,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 13.72,
+                "minLng": 100.48,
+                "maxLat": 13.78,
+                "maxLng": 100.56
+              }
+            }
+          ]
+        },
+        {
+          "id": "chiang-mai",
+          "stateCode": "CMI",
+          "name": "Chiang Mai",
+          "cities": [
+            {
+              "id": "chiang-mai",
+              "name": "Chiang Mai",
+              "status": "complete",
+              "packPath": "th/chiang-mai/chiang-mai/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 18.77,
+                "minLng": 98.97,
+                "maxLat": 18.8,
+                "maxLng": 99.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "phuket",
+          "stateCode": "PKT",
+          "name": "Phuket",
+          "cities": [
+            {
+              "id": "phuket",
+              "name": "Phuket",
+              "status": "complete",
+              "packPath": "th/phuket/phuket/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 7.85,
+                "minLng": 98.28,
+                "maxLat": 7.95,
+                "maxLng": 98.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "krabi",
+          "stateCode": "KBI",
+          "name": "Krabi",
+          "cities": [
+            {
+              "id": "krabi",
+              "name": "Krabi",
+              "status": "complete",
+              "packPath": "th/krabi/krabi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 8.05,
+                "minLng": 98.9,
+                "maxLat": 8.09,
+                "maxLng": 98.93
+              }
+            },
+            {
+              "id": "railay",
+              "name": "Railay",
+              "status": "complete",
+              "packPath": "th/krabi/railay/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 8.0,
+                "minLng": 98.83,
+                "maxLat": 8.02,
+                "maxLng": 98.85
+              }
+            }
+          ]
+        },
+        {
+          "id": "chiang-rai",
+          "stateCode": "CRI",
+          "name": "Chiang Rai",
+          "cities": [
+            {
+              "id": "chiang-rai",
+              "name": "Chiang Rai",
+              "status": "complete",
+              "packPath": "th/chiang-rai/chiang-rai/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 19.9,
+                "minLng": 99.82,
+                "maxLat": 19.92,
+                "maxLng": 99.84
+              }
+            }
+          ]
+        },
+        {
+          "id": "ayutthaya",
+          "stateCode": "AYA",
+          "name": "Ayutthaya",
+          "cities": [
+            {
+              "id": "ayutthaya",
+              "name": "Ayutthaya",
+              "status": "complete",
+              "packPath": "th/ayutthaya/ayutthaya/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 14.34,
+                "minLng": 100.55,
+                "maxLat": 14.36,
+                "maxLng": 100.58
+              }
+            }
+          ]
+        },
+        {
+          "id": "sukhothai",
+          "stateCode": "STI",
+          "name": "Sukhothai",
+          "cities": [
+            {
+              "id": "sukhothai",
+              "name": "Sukhothai",
+              "status": "complete",
+              "packPath": "th/sukhothai/sukhothai/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 17.01,
+                "minLng": 99.69,
+                "maxLat": 17.03,
+                "maxLng": 99.71
+              }
+            }
+          ]
+        },
+        {
+          "id": "pattaya",
+          "stateCode": "PTY",
+          "name": "Chonburi",
+          "cities": [
+            {
+              "id": "pattaya",
+              "name": "Pattaya",
+              "status": "complete",
+              "packPath": "th/pattaya/pattaya/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 12.92,
+                "minLng": 100.86,
+                "maxLat": 12.95,
+                "maxLng": 100.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "hua-hin",
+          "stateCode": "HHN",
+          "name": "Prachuap Khiri Khan",
+          "cities": [
+            {
+              "id": "hua-hin",
+              "name": "Hua Hin",
+              "status": "complete",
+              "packPath": "th/hua-hin/hua-hin/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 12.56,
+                "minLng": 99.95,
+                "maxLat": 12.58,
+                "maxLng": 99.97
+              }
+            }
+          ]
+        },
+        {
+          "id": "kanchanaburi",
+          "stateCode": "KRI",
+          "name": "Kanchanaburi",
+          "cities": [
+            {
+              "id": "kanchanaburi",
+              "name": "Kanchanaburi",
+              "status": "complete",
+              "packPath": "th/kanchanaburi/kanchanaburi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T06:15:00.000Z",
+              "bbox": {
+                "minLat": 14.01,
+                "minLng": 99.52,
+                "maxLat": 14.04,
+                "maxLng": 99.55
               }
             }
           ]

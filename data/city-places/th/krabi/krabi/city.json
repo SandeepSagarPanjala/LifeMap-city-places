@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/krabi/krabi",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "KBI",
+  "stateName": "Krabi",
+  "cityName": "Krabi",
+  "bbox": {
+    "minLat": 8.05,
+    "minLng": 98.9,
+    "maxLat": 8.09,
+    "maxLng": 98.93
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ao-nang",
+      "name": "Ao Nang Beach",
+      "lat": 8.0365,
+      "lng": 98.8225,
+      "radiusM": 250,
+      "address": "Ao Nang",
+      "howTo": "Visit Ao Nang Beach.",
+      "badge": "badges/ao-nang.png"
+    },
+    {
+      "id": "tiger-cave-temple",
+      "name": "Tiger Cave Temple",
+      "lat": 8.1275,
+      "lng": 98.9245,
+      "radiusM": 150,
+      "address": "Wat Tham Suea",
+      "howTo": "Visit Tiger Cave Temple.",
+      "badge": "badges/tiger-cave-temple.png"
+    },
+    {
+      "id": "emerald-pool",
+      "name": "Emerald Pool",
+      "lat": 8.0825,
+      "lng": 98.9335,
+      "radiusM": 150,
+      "address": "Sa Morakot",
+      "howTo": "Visit Emerald Pool.",
+      "badge": "badges/emerald-pool.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/hua-hin/hua-hin",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "HHN",
+  "stateName": "Prachuap Khiri Khan",
+  "cityName": "Hua Hin",
+  "bbox": {
+    "minLat": 12.56,
+    "minLng": 99.95,
+    "maxLat": 12.58,
+    "maxLng": 99.97
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hua-hin-beach",
+      "name": "Hua Hin Beach",
+      "lat": 12.5705,
+      "lng": 99.9585,
+      "radiusM": 250,
+      "address": "Hua Hin Beach",
+      "howTo": "Visit Hua Hin Beach.",
+      "badge": "badges/hua-hin-beach.png"
+    },
+    {
+      "id": "maruekhathaiyawan-palace",
+      "name": "Maruekhathaiyawan Palace",
+      "lat": 12.5875,
+      "lng": 99.9605,
+      "radiusM": 150,
+      "address": "Mriga Daya Wan Palace",
+      "howTo": "Visit Maruekhathaiyawan Palace.",
+      "badge": "badges/maruekhathaiyawan-palace.png"
+    },
+    {
+      "id": "cicada-market",
+      "name": "Cicada Market",
+      "lat": 12.5465,
+      "lng": 99.9585,
+      "radiusM": 120,
+      "address": "Cicada Night Market",
+      "howTo": "Visit Cicada Market.",
+      "badge": "badges/cicada-market.png"
+    }
+  ]
+}

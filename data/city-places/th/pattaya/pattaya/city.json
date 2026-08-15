@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/pattaya/pattaya",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "PTY",
+  "stateName": "Chonburi",
+  "cityName": "Pattaya",
+  "bbox": {
+    "minLat": 12.92,
+    "minLng": 100.86,
+    "maxLat": 12.95,
+    "maxLng": 100.9
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sanctuary-of-truth",
+      "name": "Sanctuary of Truth",
+      "lat": 12.9735,
+      "lng": 100.8895,
+      "radiusM": 150,
+      "address": "Sanctuary of Truth",
+      "howTo": "Visit Sanctuary of Truth.",
+      "badge": "badges/sanctuary-of-truth.png"
+    },
+    {
+      "id": "pattaya-beach",
+      "name": "Pattaya Beach",
+      "lat": 12.9335,
+      "lng": 100.8835,
+      "radiusM": 250,
+      "address": "Pattaya Beach",
+      "howTo": "Visit Pattaya Beach.",
+      "badge": "badges/pattaya-beach.png"
+    },
+    {
+      "id": "nong-nooch-garden",
+      "name": "Nong Nooch Tropical Garden",
+      "lat": 12.7665,
+      "lng": 100.9925,
+      "radiusM": 250,
+      "address": "Nong Nooch",
+      "howTo": "Visit Nong Nooch Tropical Garden.",
+      "badge": "badges/nong-nooch-garden.png"
+    }
+  ]
+}

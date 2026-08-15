@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/kanchanaburi/kanchanaburi",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "KRI",
+  "stateName": "Kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "bbox": {
+    "minLat": 14.01,
+    "minLng": 99.52,
+    "maxLat": 14.04,
+    "maxLng": 99.55
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bridge-on-the-river-kwai",
+      "name": "Bridge on the River Kwai",
+      "lat": 14.0415,
+      "lng": 99.5045,
+      "radiusM": 120,
+      "address": "River Kwai Bridge",
+      "howTo": "Visit Bridge on the River Kwai.",
+      "badge": "badges/bridge-on-the-river-kwai.png"
+    },
+    {
+      "id": "jeath-war-museum",
+      "name": "JEATH War Museum",
+      "lat": 14.0195,
+      "lng": 99.5285,
+      "radiusM": 100,
+      "address": "JEATH War Museum",
+      "howTo": "Visit JEATH War Museum.",
+      "badge": "badges/jeath-war-museum.png"
+    },
+    {
+      "id": "erawan-national-park",
+      "name": "Erawan National Park",
+      "lat": 14.3705,
+      "lng": 99.1445,
+      "radiusM": 300,
+      "address": "Erawan Falls",
+      "howTo": "Visit Erawan National Park.",
+      "badge": "badges/erawan-national-park.png"
+    }
+  ]
+}

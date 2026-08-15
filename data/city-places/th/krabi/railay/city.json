@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "th/krabi/railay",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "KBI",
+  "stateName": "Krabi",
+  "cityName": "Railay",
+  "bbox": {
+    "minLat": 8.0,
+    "minLng": 98.83,
+    "maxLat": 8.02,
+    "maxLng": 98.85
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "railay-beach",
+      "name": "Railay Beach",
+      "lat": 8.0115,
+      "lng": 98.8375,
+      "radiusM": 200,
+      "address": "Railay West/East",
+      "howTo": "Visit Railay Beach.",
+      "badge": "badges/railay-beach.png"
+    },
+    {
+      "id": "phra-nang-cave",
+      "name": "Phra Nang Cave Beach",
+      "lat": 8.0045,
+      "lng": 98.8405,
+      "radiusM": 150,
+      "address": "Phra Nang Beach",
+      "howTo": "Visit Phra Nang Cave Beach.",
+      "badge": "badges/phra-nang-cave.png"
+    },
+    {
+      "id": "railay-viewpoints",
+      "name": "Railay Viewpoints",
+      "lat": 8.0095,
+      "lng": 98.8395,
+      "radiusM": 150,
+      "address": "Railay cliff viewpoints",
+      "howTo": "Visit Railay Viewpoints.",
+      "badge": "badges/railay-viewpoints.png"
+    }
+  ]
+}

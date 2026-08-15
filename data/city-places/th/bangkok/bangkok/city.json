@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "th/bangkok/bangkok",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "BKK",
+  "stateName": "Bangkok",
+  "cityName": "Bangkok",
+  "bbox": {
+    "minLat": 13.72,
+    "minLng": 100.48,
+    "maxLat": 13.78,
+    "maxLng": 100.56
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grand-palace-bangkok",
+      "name": "Grand Palace",
+      "lat": 13.75,
+      "lng": 100.4913,
+      "radiusM": 200,
+      "address": "Grand Palace",
+      "howTo": "Visit Grand Palace.",
+      "badge": "badges/grand-palace-bangkok.png"
+    },
+    {
+      "id": "wat-pho",
+      "name": "Wat Pho",
+      "lat": 13.7465,
+      "lng": 100.493,
+      "radiusM": 150,
+      "address": "Temple of the Reclining Buddha",
+      "howTo": "Visit Wat Pho.",
+      "badge": "badges/wat-pho.png"
+    },
+    {
+      "id": "wat-arun",
+      "name": "Wat Arun",
+      "lat": 13.7437,
+      "lng": 100.4888,
+      "radiusM": 120,
+      "address": "Temple of Dawn",
+      "howTo": "Visit Wat Arun.",
+      "badge": "badges/wat-arun.png"
+    },
+    {
+      "id": "wat-saket",
+      "name": "Wat Saket",
+      "lat": 13.7537,
+      "lng": 100.5065,
+      "radiusM": 120,
+      "address": "Golden Mount",
+      "howTo": "Visit Wat Saket.",
+      "badge": "badges/wat-saket.png"
+    },
+    {
+      "id": "chatuchak-weekend-market",
+      "name": "Chatuchak Weekend Market",
+      "lat": 13.7995,
+      "lng": 100.5505,
+      "radiusM": 250,
+      "address": "Chatuchak Market",
+      "howTo": "Visit Chatuchak Weekend Market.",
+      "badge": "badges/chatuchak-weekend-market.png"
+    },
+    {
+      "id": "jim-thompson-house",
+      "name": "Jim Thompson House",
+      "lat": 13.7495,
+      "lng": 100.5285,
+      "radiusM": 80,
+      "address": "Jim Thompson House",
+      "howTo": "Visit Jim Thompson House.",
+      "badge": "badges/jim-thompson-house.png"
+    },
+    {
+      "id": "lumphini-park",
+      "name": "Lumphini Park",
+      "lat": 13.7305,
+      "lng": 100.5415,
+      "radiusM": 250,
+      "address": "Lumphini Park",
+      "howTo": "Visit Lumphini Park.",
+      "badge": "badges/lumphini-park.png"
+    },
+    {
+      "id": "wat-traimit",
+      "name": "Wat Traimit",
+      "lat": 13.7375,
+      "lng": 100.5145,
+      "radiusM": 100,
+      "address": "Temple of the Golden Buddha",
+      "howTo": "Visit Wat Traimit.",
+      "badge": "badges/wat-traimit.png"
+    }
+  ]
+}

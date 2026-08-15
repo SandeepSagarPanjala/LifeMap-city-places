@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "th/phuket/phuket",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "stateCode": "PKT",
+  "stateName": "Phuket",
+  "cityName": "Phuket",
+  "bbox": {
+    "minLat": 7.85,
+    "minLng": 98.28,
+    "maxLat": 7.95,
+    "maxLng": 98.4
+  },
+  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "patong-beach",
+      "name": "Patong Beach",
+      "lat": 7.8965,
+      "lng": 98.2965,
+      "radiusM": 250,
+      "address": "Patong Beach",
+      "howTo": "Visit Patong Beach.",
+      "badge": "badges/patong-beach.png"
+    },
+    {
+      "id": "big-buddha-phuket",
+      "name": "Big Buddha Phuket",
+      "lat": 7.8275,
+      "lng": 98.3125,
+      "radiusM": 150,
+      "address": "Phra Phuttha Ming Mongkol Akenakiri",
+      "howTo": "Visit Big Buddha Phuket.",
+      "badge": "badges/big-buddha-phuket.png"
+    },
+    {
+      "id": "old-town-phuket",
+      "name": "Phuket Old Town",
+      "lat": 7.8845,
+      "lng": 98.3895,
+      "radiusM": 200,
+      "address": "Old Phuket Town",
+      "howTo": "Visit Phuket Old Town.",
+      "badge": "badges/old-town-phuket.png"
+    },
+    {
+      "id": "promthep-cape",
+      "name": "Promthep Cape",
+      "lat": 7.7605,
+      "lng": 98.3045,
+      "radiusM": 150,
+      "address": "Laem Promthep",
+      "howTo": "Visit Promthep Cape.",
+      "badge": "badges/promthep-cape.png"
+    },
+    {
+      "id": "kata-beach",
+      "name": "Kata Beach",
+      "lat": 7.8215,
+      "lng": 98.2975,
+      "radiusM": 200,
+      "address": "Kata Beach",
+      "howTo": "Visit Kata Beach.",
+      "badge": "badges/kata-beach.png"
+    }
+  ]
+}
