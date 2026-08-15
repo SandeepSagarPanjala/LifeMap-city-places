@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/waikato/rotorua",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "WKO",
+  "stateName": "Waikato",
+  "cityName": "Rotorua",
+  "bbox": {
+    "minLat": -38.16,
+    "minLng": 176.24,
+    "maxLat": -38.13,
+    "maxLng": 176.27
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "te-puia",
+      "name": "Te Puia",
+      "lat": -38.1635,
+      "lng": 176.2475,
+      "radiusM": 200,
+      "address": "Te Puia geothermal park",
+      "howTo": "Visit Te Puia.",
+      "badge": "badges/te-puia.png"
+    },
+    {
+      "id": "government-gardens-rotorua",
+      "name": "Government Gardens",
+      "lat": -38.1385,
+      "lng": 176.2555,
+      "radiusM": 200,
+      "address": "Government Gardens",
+      "howTo": "Visit Government Gardens.",
+      "badge": "badges/government-gardens-rotorua.png"
+    },
+    {
+      "id": "waimangu",
+      "name": "Waimangu Volcanic Valley",
+      "lat": -38.2805,
+      "lng": 176.3955,
+      "radiusM": 300,
+      "address": "Waimangu",
+      "howTo": "Visit Waimangu Volcanic Valley.",
+      "badge": "badges/waimangu.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/otago/queenstown",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "OTA",
+  "stateName": "Otago",
+  "cityName": "Queenstown",
+  "bbox": {
+    "minLat": -45.04,
+    "minLng": 168.65,
+    "maxLat": -45.02,
+    "maxLng": 168.68
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "queenstown-gardens",
+      "name": "Queenstown Gardens",
+      "lat": -45.0375,
+      "lng": 168.6605,
+      "radiusM": 200,
+      "address": "Queenstown Gardens",
+      "howTo": "Visit Queenstown Gardens.",
+      "badge": "badges/queenstown-gardens.png"
+    },
+    {
+      "id": "remarkables-view",
+      "name": "The Remarkables Viewpoint",
+      "lat": -45.0325,
+      "lng": 168.6625,
+      "radiusM": 200,
+      "address": "Lake Wakatipu / Remarkables view",
+      "howTo": "Visit The Remarkables Viewpoint.",
+      "badge": "badges/remarkables-view.png"
+    },
+    {
+      "id": "skyline-gondola-queenstown",
+      "name": "Skyline Gondola",
+      "lat": -45.0275,
+      "lng": 168.6555,
+      "radiusM": 120,
+      "address": "Skyline Gondola",
+      "howTo": "Visit Skyline Gondola.",
+      "badge": "badges/skyline-gondola-queenstown.png"
+    },
+    {
+      "id": "arrowtown",
+      "name": "Arrowtown",
+      "lat": -44.9405,
+      "lng": 168.8345,
+      "radiusM": 200,
+      "address": "Historic Arrowtown",
+      "howTo": "Visit Arrowtown.",
+      "badge": "badges/arrowtown.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/wellington/wellington",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "WGN",
+  "stateName": "Wellington",
+  "cityName": "Wellington",
+  "bbox": {
+    "minLat": -41.3,
+    "minLng": 174.76,
+    "maxLat": -41.27,
+    "maxLng": 174.79
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "te-papa",
+      "name": "Te Papa Tongarewa",
+      "lat": -41.2905,
+      "lng": 174.7825,
+      "radiusM": 150,
+      "address": "Museum of New Zealand",
+      "howTo": "Visit Te Papa Tongarewa.",
+      "badge": "badges/te-papa.png"
+    },
+    {
+      "id": "wellington-cable-car",
+      "name": "Wellington Cable Car",
+      "lat": -41.2855,
+      "lng": 174.7685,
+      "radiusM": 80,
+      "address": "Cable Car",
+      "howTo": "Visit Wellington Cable Car.",
+      "badge": "badges/wellington-cable-car.png"
+    },
+    {
+      "id": "mount-victoria-lookout",
+      "name": "Mount Victoria Lookout",
+      "lat": -41.2955,
+      "lng": 174.7945,
+      "radiusM": 150,
+      "address": "Lookout",
+      "howTo": "Visit Mount Victoria Lookout.",
+      "badge": "badges/mount-victoria-lookout.png"
+    },
+    {
+      "id": "cuba-street",
+      "name": "Cuba Street",
+      "lat": -41.2935,
+      "lng": 174.7765,
+      "radiusM": 150,
+      "address": "Cuba Street",
+      "howTo": "Visit Cuba Street.",
+      "badge": "badges/cuba-street.png"
+    }
+  ]
+}

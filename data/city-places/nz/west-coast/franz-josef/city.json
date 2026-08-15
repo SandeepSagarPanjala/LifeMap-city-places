@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/west-coast/franz-josef",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "WTC",
+  "stateName": "West Coast",
+  "cityName": "Franz Josef",
+  "bbox": {
+    "minLat": -43.4,
+    "minLng": 170.18,
+    "maxLat": -43.38,
+    "maxLng": 170.2
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "franz-josef-glacier",
+      "name": "Franz Josef Glacier",
+      "lat": -43.4625,
+      "lng": 170.1885,
+      "radiusM": 300,
+      "address": "Ka Roimata o Hine Hukatere",
+      "howTo": "Visit Franz Josef Glacier.",
+      "badge": "badges/franz-josef-glacier.png"
+    },
+    {
+      "id": "glacier-valley-walk",
+      "name": "Glacier Valley Walk",
+      "lat": -43.4205,
+      "lng": 170.1855,
+      "radiusM": 200,
+      "address": "Valley walk viewpoint",
+      "howTo": "Visit Glacier Valley Walk.",
+      "badge": "badges/glacier-valley-walk.png"
+    },
+    {
+      "id": "lake-matheson",
+      "name": "Lake Matheson",
+      "lat": -43.4405,
+      "lng": 169.9665,
+      "radiusM": 200,
+      "address": "Lake Matheson",
+      "howTo": "Visit Lake Matheson.",
+      "badge": "badges/lake-matheson.png"
+    }
+  ]
+}

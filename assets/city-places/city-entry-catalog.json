@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T10:21:40.584Z",
+  "generatedAt": "2026-08-15T10:31:16.346Z",
   "cellDeg": 0.5,
-  "cityCount": 499,
+  "cityCount": 510,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -2702,6 +2702,105 @@
         "minLng": 4.28,
         "maxLat": 52.09,
         "maxLng": 4.32
+      }
+    },
+    "nz/auckland/auckland": {
+      "name": "Auckland",
+      "bbox": {
+        "minLat": -36.87,
+        "minLng": 174.74,
+        "maxLat": -36.83,
+        "maxLng": 174.78
+      }
+    },
+    "nz/bay-of-plenty/tauranga": {
+      "name": "Tauranga",
+      "bbox": {
+        "minLat": -37.7,
+        "minLng": 176.15,
+        "maxLat": -37.68,
+        "maxLng": 176.18
+      }
+    },
+    "nz/canterbury/christchurch": {
+      "name": "Christchurch",
+      "bbox": {
+        "minLat": -43.54,
+        "minLng": 172.62,
+        "maxLat": -43.52,
+        "maxLng": 172.65
+      }
+    },
+    "nz/canterbury/lake-tekapo": {
+      "name": "Lake Tekapo",
+      "bbox": {
+        "minLat": -44.01,
+        "minLng": 170.47,
+        "maxLat": -43.99,
+        "maxLng": 170.49
+      }
+    },
+    "nz/otago/dunedin": {
+      "name": "Dunedin",
+      "bbox": {
+        "minLat": -45.88,
+        "minLng": 170.49,
+        "maxLat": -45.86,
+        "maxLng": 170.52
+      }
+    },
+    "nz/otago/milford-sound": {
+      "name": "Milford Sound",
+      "bbox": {
+        "minLat": -44.68,
+        "minLng": 167.9,
+        "maxLat": -44.65,
+        "maxLng": 167.93
+      }
+    },
+    "nz/otago/queenstown": {
+      "name": "Queenstown",
+      "bbox": {
+        "minLat": -45.04,
+        "minLng": 168.65,
+        "maxLat": -45.02,
+        "maxLng": 168.68
+      }
+    },
+    "nz/waikato/hobbiton": {
+      "name": "Hobbiton",
+      "bbox": {
+        "minLat": -37.88,
+        "minLng": 175.68,
+        "maxLat": -37.86,
+        "maxLng": 175.69
+      }
+    },
+    "nz/waikato/rotorua": {
+      "name": "Rotorua",
+      "bbox": {
+        "minLat": -38.16,
+        "minLng": 176.24,
+        "maxLat": -38.13,
+        "maxLng": 176.27
+      }
+    },
+    "nz/wellington/wellington": {
+      "name": "Wellington",
+      "bbox": {
+        "minLat": -41.3,
+        "minLng": 174.76,
+        "maxLat": -41.27,
+        "maxLng": 174.79
+      }
+    },
+    "nz/west-coast/franz-josef": {
+      "name": "Franz Josef",
+      "bbox": {
+        "minLat": -43.4,
+        "minLng": 170.18,
+        "maxLat": -43.38,
+        "maxLng": 170.2
       }
     },
     "pt/acores/ponta-delgada": {
@@ -6441,6 +6540,45 @@
     ],
     "92,17": [
       "ch/ticino/lugano"
+    ],
+    "-74,349": [
+      "nz/auckland/auckland"
+    ],
+    "-83,349": [
+      "nz/wellington/wellington"
+    ],
+    "-88,345": [
+      "nz/canterbury/christchurch"
+    ],
+    "-89,340": [
+      "nz/canterbury/lake-tekapo"
+    ],
+    "-88,340": [
+      "nz/canterbury/lake-tekapo"
+    ],
+    "-91,337": [
+      "nz/otago/queenstown"
+    ],
+    "-92,340": [
+      "nz/otago/dunedin"
+    ],
+    "-92,341": [
+      "nz/otago/dunedin"
+    ],
+    "-90,335": [
+      "nz/otago/milford-sound"
+    ],
+    "-77,352": [
+      "nz/waikato/rotorua"
+    ],
+    "-76,351": [
+      "nz/waikato/hobbiton"
+    ],
+    "-76,352": [
+      "nz/bay-of-plenty/tauranga"
+    ],
+    "-87,340": [
+      "nz/west-coast/franz-josef"
     ]
   }
 }

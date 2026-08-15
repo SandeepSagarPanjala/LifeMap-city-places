@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/bay-of-plenty/tauranga",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "BOP",
+  "stateName": "Bay of Plenty",
+  "cityName": "Tauranga",
+  "bbox": {
+    "minLat": -37.7,
+    "minLng": 176.15,
+    "maxLat": -37.68,
+    "maxLng": 176.18
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-maunganui",
+      "name": "Mauao / Mount Maunganui",
+      "lat": -37.6315,
+      "lng": 176.1725,
+      "radiusM": 250,
+      "address": "Mount Maunganui",
+      "howTo": "Visit Mauao / Mount Maunganui.",
+      "badge": "badges/mount-maunganui.png"
+    },
+    {
+      "id": "main-beach-mount",
+      "name": "Main Beach Mount Maunganui",
+      "lat": -37.6335,
+      "lng": 176.1805,
+      "radiusM": 200,
+      "address": "Main Beach",
+      "howTo": "Visit Main Beach Mount Maunganui.",
+      "badge": "badges/main-beach-mount.png"
+    },
+    {
+      "id": "the-elms",
+      "name": "The Elms Mission House",
+      "lat": -37.6735,
+      "lng": 176.1655,
+      "radiusM": 80,
+      "address": "The Elms",
+      "howTo": "Visit The Elms Mission House.",
+      "badge": "badges/the-elms.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/otago/milford-sound",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "OTA",
+  "stateName": "Otago",
+  "cityName": "Milford Sound",
+  "bbox": {
+    "minLat": -44.68,
+    "minLng": 167.9,
+    "maxLat": -44.65,
+    "maxLng": 167.93
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "milford-sound-fjord",
+      "name": "Milford Sound",
+      "lat": -44.6715,
+      "lng": 167.9255,
+      "radiusM": 400,
+      "address": "Piopiotahi / Milford Sound",
+      "howTo": "Visit Milford Sound.",
+      "badge": "badges/milford-sound-fjord.png"
+    },
+    {
+      "id": "mitre-peak",
+      "name": "Mitre Peak Viewpoint",
+      "lat": -44.6705,
+      "lng": 167.9205,
+      "radiusM": 250,
+      "address": "Mitre Peak view",
+      "howTo": "Visit Mitre Peak Viewpoint.",
+      "badge": "badges/mitre-peak.png"
+    },
+    {
+      "id": "stirling-falls",
+      "name": "Stirling Falls",
+      "lat": -44.6655,
+      "lng": 167.9105,
+      "radiusM": 200,
+      "address": "Stirling Falls area",
+      "howTo": "Visit Stirling Falls.",
+      "badge": "badges/stirling-falls.png"
+    }
+  ]
+}

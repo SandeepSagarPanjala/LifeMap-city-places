@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/canterbury/lake-tekapo",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "CAN",
+  "stateName": "Canterbury",
+  "cityName": "Lake Tekapo",
+  "bbox": {
+    "minLat": -44.01,
+    "minLng": 170.47,
+    "maxLat": -43.99,
+    "maxLng": 170.49
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "church-of-the-good-shepherd",
+      "name": "Church of the Good Shepherd",
+      "lat": -44.0045,
+      "lng": 170.4785,
+      "radiusM": 80,
+      "address": "Church of the Good Shepherd",
+      "howTo": "Visit Church of the Good Shepherd.",
+      "badge": "badges/church-of-the-good-shepherd.png"
+    },
+    {
+      "id": "lake-tekapo-shore",
+      "name": "Lake Tekapo Shore",
+      "lat": -44.0055,
+      "lng": 170.4805,
+      "radiusM": 250,
+      "address": "Lake Tekapo",
+      "howTo": "Visit Lake Tekapo Shore.",
+      "badge": "badges/lake-tekapo-shore.png"
+    },
+    {
+      "id": "mount-john-observatory",
+      "name": "Mount John Observatory",
+      "lat": -43.9865,
+      "lng": 170.4645,
+      "radiusM": 150,
+      "address": "University of Canterbury Mt John",
+      "howTo": "Visit Mount John Observatory.",
+      "badge": "badges/mount-john-observatory.png"
+    }
+  ]
+}

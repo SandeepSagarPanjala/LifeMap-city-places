@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T10:21:40.000Z",
-  "notes": "Queue through Switzerland complete. Next: New Zealand (nz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-15T10:31:16.000Z",
+  "notes": "Queue through New Zealand complete. Next: Singapore (sg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8629,6 +8629,216 @@
                 "minLng": 8.94,
                 "maxLat": 46.01,
                 "maxLng": 8.96
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nz",
+      "countryCode": "NZ",
+      "name": "New Zealand",
+      "states": [
+        {
+          "id": "auckland",
+          "stateCode": "AUK",
+          "name": "Auckland",
+          "cities": [
+            {
+              "id": "auckland",
+              "name": "Auckland",
+              "status": "complete",
+              "packPath": "nz/auckland/auckland/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -36.87,
+                "minLng": 174.74,
+                "maxLat": -36.83,
+                "maxLng": 174.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "wellington",
+          "stateCode": "WGN",
+          "name": "Wellington",
+          "cities": [
+            {
+              "id": "wellington",
+              "name": "Wellington",
+              "status": "complete",
+              "packPath": "nz/wellington/wellington/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -41.3,
+                "minLng": 174.76,
+                "maxLat": -41.27,
+                "maxLng": 174.79
+              }
+            }
+          ]
+        },
+        {
+          "id": "canterbury",
+          "stateCode": "CAN",
+          "name": "Canterbury",
+          "cities": [
+            {
+              "id": "christchurch",
+              "name": "Christchurch",
+              "status": "complete",
+              "packPath": "nz/canterbury/christchurch/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -43.54,
+                "minLng": 172.62,
+                "maxLat": -43.52,
+                "maxLng": 172.65
+              }
+            },
+            {
+              "id": "lake-tekapo",
+              "name": "Lake Tekapo",
+              "status": "complete",
+              "packPath": "nz/canterbury/lake-tekapo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -44.01,
+                "minLng": 170.47,
+                "maxLat": -43.99,
+                "maxLng": 170.49
+              }
+            }
+          ]
+        },
+        {
+          "id": "otago",
+          "stateCode": "OTA",
+          "name": "Otago",
+          "cities": [
+            {
+              "id": "queenstown",
+              "name": "Queenstown",
+              "status": "complete",
+              "packPath": "nz/otago/queenstown/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -45.04,
+                "minLng": 168.65,
+                "maxLat": -45.02,
+                "maxLng": 168.68
+              }
+            },
+            {
+              "id": "dunedin",
+              "name": "Dunedin",
+              "status": "complete",
+              "packPath": "nz/otago/dunedin/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -45.88,
+                "minLng": 170.49,
+                "maxLat": -45.86,
+                "maxLng": 170.52
+              }
+            },
+            {
+              "id": "milford-sound",
+              "name": "Milford Sound",
+              "status": "complete",
+              "packPath": "nz/otago/milford-sound/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -44.68,
+                "minLng": 167.9,
+                "maxLat": -44.65,
+                "maxLng": 167.93
+              }
+            }
+          ]
+        },
+        {
+          "id": "waikato",
+          "stateCode": "WKO",
+          "name": "Waikato",
+          "cities": [
+            {
+              "id": "rotorua",
+              "name": "Rotorua",
+              "status": "complete",
+              "packPath": "nz/waikato/rotorua/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -38.16,
+                "minLng": 176.24,
+                "maxLat": -38.13,
+                "maxLng": 176.27
+              }
+            },
+            {
+              "id": "hobbiton",
+              "name": "Hobbiton",
+              "status": "complete",
+              "packPath": "nz/waikato/hobbiton/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -37.88,
+                "minLng": 175.68,
+                "maxLat": -37.86,
+                "maxLng": 175.69
+              }
+            }
+          ]
+        },
+        {
+          "id": "bay-of-plenty",
+          "stateCode": "BOP",
+          "name": "Bay of Plenty",
+          "cities": [
+            {
+              "id": "tauranga",
+              "name": "Tauranga",
+              "status": "complete",
+              "packPath": "nz/bay-of-plenty/tauranga/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -37.7,
+                "minLng": 176.15,
+                "maxLat": -37.68,
+                "maxLng": 176.18
+              }
+            }
+          ]
+        },
+        {
+          "id": "west-coast",
+          "stateCode": "WTC",
+          "name": "West Coast",
+          "cities": [
+            {
+              "id": "franz-josef",
+              "name": "Franz Josef",
+              "status": "complete",
+              "packPath": "nz/west-coast/franz-josef/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-15T10:25:00.000Z",
+              "bbox": {
+                "minLat": -43.4,
+                "minLng": 170.18,
+                "maxLat": -43.38,
+                "maxLng": 170.2
               }
             }
           ]

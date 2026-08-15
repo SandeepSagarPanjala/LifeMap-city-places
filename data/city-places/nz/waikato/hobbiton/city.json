@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/waikato/hobbiton",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "WKO",
+  "stateName": "Waikato",
+  "cityName": "Hobbiton",
+  "bbox": {
+    "minLat": -37.88,
+    "minLng": 175.68,
+    "maxLat": -37.86,
+    "maxLng": 175.69
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hobbiton-movie-set",
+      "name": "Hobbiton Movie Set",
+      "lat": -37.8725,
+      "lng": 175.6825,
+      "radiusM": 250,
+      "address": "Hobbiton",
+      "howTo": "Visit Hobbiton Movie Set.",
+      "badge": "badges/hobbiton-movie-set.png"
+    },
+    {
+      "id": "party-tree-hobbiton",
+      "name": "Party Tree",
+      "lat": -37.8715,
+      "lng": 175.6835,
+      "radiusM": 100,
+      "address": "Party Tree area",
+      "howTo": "Visit Party Tree.",
+      "badge": "badges/party-tree-hobbiton.png"
+    },
+    {
+      "id": "green-dragon-inn-exterior",
+      "name": "Green Dragon Inn",
+      "lat": -37.872,
+      "lng": 175.682,
+      "radiusM": 80,
+      "address": "Green Dragon exterior",
+      "howTo": "Visit Green Dragon Inn.",
+      "badge": "badges/green-dragon-inn-exterior.png"
+    }
+  ]
+}

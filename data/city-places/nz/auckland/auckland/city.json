@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/auckland/auckland",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "AUK",
+  "stateName": "Auckland",
+  "cityName": "Auckland",
+  "bbox": {
+    "minLat": -36.87,
+    "minLng": 174.74,
+    "maxLat": -36.83,
+    "maxLng": 174.78
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sky-tower-auckland",
+      "name": "Sky Tower",
+      "lat": -36.8485,
+      "lng": 174.7625,
+      "radiusM": 100,
+      "address": "Sky Tower",
+      "howTo": "Visit Sky Tower.",
+      "badge": "badges/sky-tower-auckland.png"
+    },
+    {
+      "id": "auckland-domain",
+      "name": "Auckland Domain",
+      "lat": -36.8605,
+      "lng": 174.7755,
+      "radiusM": 250,
+      "address": "Auckland Domain",
+      "howTo": "Visit Auckland Domain.",
+      "badge": "badges/auckland-domain.png"
+    },
+    {
+      "id": "waiheke-ferry",
+      "name": "Waiheke Island Ferry Terminal",
+      "lat": -36.8435,
+      "lng": 174.7675,
+      "radiusM": 100,
+      "address": "Downtown ferry",
+      "howTo": "Visit Waiheke Island Ferry Terminal.",
+      "badge": "badges/waiheke-ferry.png"
+    },
+    {
+      "id": "mt-eden",
+      "name": "Maungawhau / Mount Eden",
+      "lat": -36.8775,
+      "lng": 174.7645,
+      "radiusM": 200,
+      "address": "Mount Eden",
+      "howTo": "Visit Maungawhau / Mount Eden.",
+      "badge": "badges/mt-eden.png"
+    },
+    {
+      "id": "viaduct-harbour",
+      "name": "Viaduct Harbour",
+      "lat": -36.8425,
+      "lng": 174.7635,
+      "radiusM": 150,
+      "address": "Viaduct Harbour",
+      "howTo": "Visit Viaduct Harbour.",
+      "badge": "badges/viaduct-harbour.png"
+    }
+  ]
+}

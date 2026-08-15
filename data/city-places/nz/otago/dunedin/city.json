@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/otago/dunedin",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "OTA",
+  "stateName": "Otago",
+  "cityName": "Dunedin",
+  "bbox": {
+    "minLat": -45.88,
+    "minLng": 170.49,
+    "maxLat": -45.86,
+    "maxLng": 170.52
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dunedin-railway-station",
+      "name": "Dunedin Railway Station",
+      "lat": -45.8765,
+      "lng": 170.5085,
+      "radiusM": 80,
+      "address": "Railway Station",
+      "howTo": "Visit Dunedin Railway Station.",
+      "badge": "badges/dunedin-railway-station.png"
+    },
+    {
+      "id": "otago-university",
+      "name": "University of Otago",
+      "lat": -45.8655,
+      "lng": 170.5145,
+      "radiusM": 200,
+      "address": "University of Otago",
+      "howTo": "Visit University of Otago.",
+      "badge": "badges/otago-university.png"
+    },
+    {
+      "id": "baldwin-street",
+      "name": "Baldwin Street",
+      "lat": -45.8505,
+      "lng": 170.5125,
+      "radiusM": 80,
+      "address": "Steepest street",
+      "howTo": "Visit Baldwin Street.",
+      "badge": "badges/baldwin-street.png"
+    },
+    {
+      "id": "larnach-castle",
+      "name": "Larnach Castle",
+      "lat": -45.8655,
+      "lng": 170.6275,
+      "radiusM": 150,
+      "address": "Larnach Castle",
+      "howTo": "Visit Larnach Castle.",
+      "badge": "badges/larnach-castle.png"
+    }
+  ]
+}

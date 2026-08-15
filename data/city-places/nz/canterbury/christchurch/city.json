@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "nz/canterbury/christchurch",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "stateCode": "CAN",
+  "stateName": "Canterbury",
+  "cityName": "Christchurch",
+  "bbox": {
+    "minLat": -43.54,
+    "minLng": 172.62,
+    "maxLat": -43.52,
+    "maxLng": 172.65
+  },
+  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "christchurch-botanic-gardens",
+      "name": "Christchurch Botanic Gardens",
+      "lat": -43.5315,
+      "lng": 172.6205,
+      "radiusM": 250,
+      "address": "Botanic Gardens",
+      "howTo": "Visit Christchurch Botanic Gardens.",
+      "badge": "badges/christchurch-botanic-gardens.png"
+    },
+    {
+      "id": "cardboard-cathedral",
+      "name": "Cardboard Cathedral",
+      "lat": -43.5315,
+      "lng": 172.6455,
+      "radiusM": 80,
+      "address": "Transitional Cathedral",
+      "howTo": "Visit Cardboard Cathedral.",
+      "badge": "badges/cardboard-cathedral.png"
+    },
+    {
+      "id": "canterbury-museum",
+      "name": "Canterbury Museum",
+      "lat": -43.5305,
+      "lng": 172.6275,
+      "radiusM": 100,
+      "address": "Canterbury Museum",
+      "howTo": "Visit Canterbury Museum.",
+      "badge": "badges/canterbury-museum.png"
+    },
+    {
+      "id": "new-regent-street",
+      "name": "New Regent Street",
+      "lat": -43.5295,
+      "lng": 172.6355,
+      "radiusM": 80,
+      "address": "New Regent Street",
+      "howTo": "Visit New Regent Street.",
+      "badge": "badges/new-regent-street.png"
+    }
+  ]
+}
