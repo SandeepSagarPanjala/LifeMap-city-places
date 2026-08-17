@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/peloponnese/nafplio",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "J",
+  "stateName": "Peloponnese",
+  "cityName": "Nafplio",
+  "bbox": {
+    "minLat": 37.56,
+    "minLng": 22.79,
+    "maxLat": 37.58,
+    "maxLng": 22.81
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palamidi-fortress",
+      "name": "Palamidi Fortress",
+      "lat": 37.5615,
+      "lng": 22.8035,
+      "radiusM": 150,
+      "address": "Nafplio",
+      "howTo": "Visit Palamidi Fortress.",
+      "badge": "badges/palamidi-fortress.png"
+    },
+    {
+      "id": "bourtzi-castle",
+      "name": "Bourtzi Castle",
+      "lat": 37.5685,
+      "lng": 22.7935,
+      "radiusM": 100,
+      "address": "Nafplio Harbor",
+      "howTo": "Visit Bourtzi Castle.",
+      "badge": "badges/bourtzi-castle.png"
+    }
+  ]
+}

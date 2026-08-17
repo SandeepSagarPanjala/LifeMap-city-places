@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/crete/heraklion",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "M",
+  "stateName": "Crete",
+  "cityName": "Heraklion",
+  "bbox": {
+    "minLat": 35.32,
+    "minLng": 25.12,
+    "maxLat": 35.35,
+    "maxLng": 25.16
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "knossos",
+      "name": "Knossos Palace",
+      "lat": 35.298,
+      "lng": 25.1631,
+      "radiusM": 250,
+      "address": "Knossos",
+      "howTo": "Visit Knossos Palace.",
+      "badge": "badges/knossos.png"
+    },
+    {
+      "id": "heraklion-archaeological-museum",
+      "name": "Heraklion Archaeological Museum",
+      "lat": 35.3392,
+      "lng": 25.1373,
+      "radiusM": 120,
+      "address": "Heraklion",
+      "howTo": "Visit Heraklion Archaeological Museum.",
+      "badge": "badges/heraklion-archaeological-museum.png"
+    },
+    {
+      "id": "koules-fortress",
+      "name": "Koules Fortress",
+      "lat": 35.3445,
+      "lng": 25.1365,
+      "radiusM": 100,
+      "address": "Heraklion Port",
+      "howTo": "Visit Koules Fortress.",
+      "badge": "badges/koules-fortress.png"
+    }
+  ]
+}

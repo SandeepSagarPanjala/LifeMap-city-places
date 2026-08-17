@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/peloponnese/olympia",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "J",
+  "stateName": "Peloponnese",
+  "cityName": "Olympia",
+  "bbox": {
+    "minLat": 37.63,
+    "minLng": 21.62,
+    "maxLat": 37.64,
+    "maxLng": 21.64
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ancient-olympia",
+      "name": "Ancient Olympia",
+      "lat": 37.6379,
+      "lng": 21.63,
+      "radiusM": 250,
+      "address": "Olympia",
+      "howTo": "Visit Ancient Olympia.",
+      "badge": "badges/ancient-olympia.png"
+    },
+    {
+      "id": "temple-of-zeus-olympia",
+      "name": "Temple of Zeus at Olympia",
+      "lat": 37.6385,
+      "lng": 21.6295,
+      "radiusM": 100,
+      "address": "Olympia",
+      "howTo": "Visit Temple of Zeus at Olympia.",
+      "badge": "badges/temple-of-zeus-olympia.png"
+    }
+  ]
+}

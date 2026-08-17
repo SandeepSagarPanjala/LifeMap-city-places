@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/south-aegean/mykonos",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "L",
+  "stateName": "South Aegean",
+  "cityName": "Mykonos",
+  "bbox": {
+    "minLat": 37.43,
+    "minLng": 25.32,
+    "maxLat": 37.46,
+    "maxLng": 25.36
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "little-venice-mykonos",
+      "name": "Little Venice",
+      "lat": 37.4465,
+      "lng": 25.3285,
+      "radiusM": 120,
+      "address": "Mykonos Town",
+      "howTo": "Visit Little Venice.",
+      "badge": "badges/little-venice-mykonos.png"
+    },
+    {
+      "id": "windmills-mykonos",
+      "name": "Mykonos Windmills",
+      "lat": 37.4455,
+      "lng": 25.3275,
+      "radiusM": 100,
+      "address": "Mykonos Town",
+      "howTo": "Visit Mykonos Windmills.",
+      "badge": "badges/windmills-mykonos.png"
+    },
+    {
+      "id": "delos",
+      "name": "Delos",
+      "lat": 37.401,
+      "lng": 25.2685,
+      "radiusM": 250,
+      "address": "Delos Island",
+      "howTo": "Visit Delos.",
+      "badge": "badges/delos.png"
+    }
+  ]
+}

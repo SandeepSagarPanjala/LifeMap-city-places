@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:11:04.617Z",
+  "generatedAt": "2026-08-17T23:17:22.511Z",
   "cellDeg": 0.5,
-  "cityCount": 556,
+  "cityCount": 564,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1289,6 +1289,78 @@
         "minLng": -4.1,
         "maxLat": 53.12,
         "maxLng": -3.95
+      }
+    },
+    "gr/attica/athens": {
+      "name": "Athens",
+      "bbox": {
+        "minLat": 37.95,
+        "minLng": 23.7,
+        "maxLat": 38,
+        "maxLng": 23.78
+      }
+    },
+    "gr/attica/delphi": {
+      "name": "Delphi",
+      "bbox": {
+        "minLat": 38.47,
+        "minLng": 22.48,
+        "maxLat": 38.49,
+        "maxLng": 22.51
+      }
+    },
+    "gr/central-macedonia/thessaloniki": {
+      "name": "Thessaloniki",
+      "bbox": {
+        "minLat": 40.62,
+        "minLng": 22.92,
+        "maxLat": 40.65,
+        "maxLng": 22.97
+      }
+    },
+    "gr/crete/heraklion": {
+      "name": "Heraklion",
+      "bbox": {
+        "minLat": 35.32,
+        "minLng": 25.12,
+        "maxLat": 35.35,
+        "maxLng": 25.16
+      }
+    },
+    "gr/peloponnese/nafplio": {
+      "name": "Nafplio",
+      "bbox": {
+        "minLat": 37.56,
+        "minLng": 22.79,
+        "maxLat": 37.58,
+        "maxLng": 22.81
+      }
+    },
+    "gr/peloponnese/olympia": {
+      "name": "Olympia",
+      "bbox": {
+        "minLat": 37.63,
+        "minLng": 21.62,
+        "maxLat": 37.64,
+        "maxLng": 21.64
+      }
+    },
+    "gr/south-aegean/mykonos": {
+      "name": "Mykonos",
+      "bbox": {
+        "minLat": 37.43,
+        "minLng": 25.32,
+        "maxLat": 37.46,
+        "maxLng": 25.36
+      }
+    },
+    "gr/south-aegean/santorini": {
+      "name": "Santorini",
+      "bbox": {
+        "minLat": 36.4,
+        "minLng": 25.42,
+        "maxLat": 36.45,
+        "maxLng": 25.47
       }
     },
     "id/bali/denpasar": {
@@ -7188,6 +7260,36 @@
     ],
     "77,69": [
       "tr/nevsehir/cappadocia"
+    ],
+    "75,47": [
+      "gr/attica/athens"
+    ],
+    "76,47": [
+      "gr/attica/athens"
+    ],
+    "76,44": [
+      "gr/attica/delphi"
+    ],
+    "76,45": [
+      "gr/attica/delphi"
+    ],
+    "81,45": [
+      "gr/central-macedonia/thessaloniki"
+    ],
+    "72,50": [
+      "gr/south-aegean/santorini"
+    ],
+    "74,50": [
+      "gr/south-aegean/mykonos"
+    ],
+    "70,50": [
+      "gr/crete/heraklion"
+    ],
+    "75,43": [
+      "gr/peloponnese/olympia"
+    ],
+    "75,45": [
+      "gr/peloponnese/nafplio"
     ]
   }
 }

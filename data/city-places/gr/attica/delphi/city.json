@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/attica/delphi",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "A",
+  "stateName": "Attica",
+  "cityName": "Delphi",
+  "bbox": {
+    "minLat": 38.47,
+    "minLng": 22.48,
+    "maxLat": 38.49,
+    "maxLng": 22.51
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "delphi-archaeological-site",
+      "name": "Delphi Archaeological Site",
+      "lat": 38.4824,
+      "lng": 22.501,
+      "radiusM": 250,
+      "address": "Delphi",
+      "howTo": "Visit Delphi Archaeological Site.",
+      "badge": "badges/delphi-archaeological-site.png"
+    },
+    {
+      "id": "temple-of-apollo-delphi",
+      "name": "Temple of Apollo at Delphi",
+      "lat": 38.4822,
+      "lng": 22.5005,
+      "radiusM": 120,
+      "address": "Delphi",
+      "howTo": "Visit Temple of Apollo at Delphi.",
+      "badge": "badges/temple-of-apollo-delphi.png"
+    }
+  ]
+}

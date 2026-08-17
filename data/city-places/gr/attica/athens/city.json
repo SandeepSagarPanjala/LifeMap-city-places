@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/attica/athens",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "A",
+  "stateName": "Attica",
+  "cityName": "Athens",
+  "bbox": {
+    "minLat": 37.95,
+    "minLng": 23.7,
+    "maxLat": 38.0,
+    "maxLng": 23.78
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "acropolis",
+      "name": "Acropolis of Athens",
+      "lat": 37.9715,
+      "lng": 23.7267,
+      "radiusM": 200,
+      "address": "Acropolis",
+      "howTo": "Visit Acropolis of Athens.",
+      "badge": "badges/acropolis.png"
+    },
+    {
+      "id": "parthenon",
+      "name": "Parthenon",
+      "lat": 37.9715,
+      "lng": 23.7266,
+      "radiusM": 120,
+      "address": "Acropolis",
+      "howTo": "Visit Parthenon.",
+      "badge": "badges/parthenon.png"
+    },
+    {
+      "id": "ancient-agora",
+      "name": "Ancient Agora of Athens",
+      "lat": 37.9755,
+      "lng": 23.722,
+      "radiusM": 200,
+      "address": "Thissio",
+      "howTo": "Visit Ancient Agora of Athens.",
+      "badge": "badges/ancient-agora.png"
+    },
+    {
+      "id": "plaka",
+      "name": "Plaka",
+      "lat": 37.9715,
+      "lng": 23.7305,
+      "radiusM": 200,
+      "address": "Plaka",
+      "howTo": "Visit Plaka.",
+      "badge": "badges/plaka.png"
+    },
+    {
+      "id": "temple-of-olympian-zeus",
+      "name": "Temple of Olympian Zeus",
+      "lat": 37.969,
+      "lng": 23.7331,
+      "radiusM": 120,
+      "address": "Athens",
+      "howTo": "Visit Temple of Olympian Zeus.",
+      "badge": "badges/temple-of-olympian-zeus.png"
+    }
+  ]
+}

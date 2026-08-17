@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/central-macedonia/thessaloniki",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "B",
+  "stateName": "Central Macedonia",
+  "cityName": "Thessaloniki",
+  "bbox": {
+    "minLat": 40.62,
+    "minLng": 22.92,
+    "maxLat": 40.65,
+    "maxLng": 22.97
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "white-tower-thessaloniki",
+      "name": "White Tower of Thessaloniki",
+      "lat": 40.6264,
+      "lng": 22.9485,
+      "radiusM": 80,
+      "address": "Thessaloniki",
+      "howTo": "Visit White Tower of Thessaloniki.",
+      "badge": "badges/white-tower-thessaloniki.png"
+    },
+    {
+      "id": "rotunda-thessaloniki",
+      "name": "Rotunda of Galerius",
+      "lat": 40.6334,
+      "lng": 22.953,
+      "radiusM": 80,
+      "address": "Thessaloniki",
+      "howTo": "Visit Rotunda of Galerius.",
+      "badge": "badges/rotunda-thessaloniki.png"
+    },
+    {
+      "id": "aristotelous-square",
+      "name": "Aristotelous Square",
+      "lat": 40.6328,
+      "lng": 22.9405,
+      "radiusM": 120,
+      "address": "Thessaloniki",
+      "howTo": "Visit Aristotelous Square.",
+      "badge": "badges/aristotelous-square.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gr/south-aegean/santorini",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "stateCode": "L",
+  "stateName": "South Aegean",
+  "cityName": "Santorini",
+  "bbox": {
+    "minLat": 36.4,
+    "minLng": 25.42,
+    "maxLat": 36.45,
+    "maxLng": 25.47
+  },
+  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "oia-santorini",
+      "name": "Oia",
+      "lat": 36.4618,
+      "lng": 25.3753,
+      "radiusM": 200,
+      "address": "Oia",
+      "howTo": "Visit Oia.",
+      "badge": "badges/oia-santorini.png"
+    },
+    {
+      "id": "fira-santorini",
+      "name": "Fira",
+      "lat": 36.4166,
+      "lng": 25.4312,
+      "radiusM": 200,
+      "address": "Fira",
+      "howTo": "Visit Fira.",
+      "badge": "badges/fira-santorini.png"
+    },
+    {
+      "id": "akrotiri-santorini",
+      "name": "Akrotiri Archaeological Site",
+      "lat": 36.3518,
+      "lng": 25.4035,
+      "radiusM": 200,
+      "address": "Akrotiri",
+      "howTo": "Visit Akrotiri Archaeological Site.",
+      "badge": "badges/akrotiri-santorini.png"
+    }
+  ]
+}

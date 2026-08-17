@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T00:30:00.000Z",
-  "notes": "Queue through Turkey complete. Next: Greece (gr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T01:00:00.000Z",
+  "notes": "Queue through Greece complete. Next: Egypt (eg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -9784,6 +9784,160 @@
                 "minLng": 34.8,
                 "maxLat": 38.68,
                 "maxLng": 34.88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr",
+      "countryCode": "GR",
+      "name": "Greece",
+      "states": [
+        {
+          "id": "attica",
+          "stateCode": "A",
+          "name": "Attica",
+          "cities": [
+            {
+              "id": "athens",
+              "name": "Athens",
+              "status": "complete",
+              "packPath": "gr/attica/athens/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 37.95,
+                "minLng": 23.7,
+                "maxLat": 38.0,
+                "maxLng": 23.78
+              }
+            },
+            {
+              "id": "delphi",
+              "name": "Delphi",
+              "status": "complete",
+              "packPath": "gr/attica/delphi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 38.47,
+                "minLng": 22.48,
+                "maxLat": 38.49,
+                "maxLng": 22.51
+              }
+            }
+          ]
+        },
+        {
+          "id": "central-macedonia",
+          "stateCode": "B",
+          "name": "Central Macedonia",
+          "cities": [
+            {
+              "id": "thessaloniki",
+              "name": "Thessaloniki",
+              "status": "complete",
+              "packPath": "gr/central-macedonia/thessaloniki/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 40.62,
+                "minLng": 22.92,
+                "maxLat": 40.65,
+                "maxLng": 22.97
+              }
+            }
+          ]
+        },
+        {
+          "id": "south-aegean",
+          "stateCode": "L",
+          "name": "South Aegean",
+          "cities": [
+            {
+              "id": "santorini",
+              "name": "Santorini",
+              "status": "complete",
+              "packPath": "gr/south-aegean/santorini/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 36.4,
+                "minLng": 25.42,
+                "maxLat": 36.45,
+                "maxLng": 25.47
+              }
+            },
+            {
+              "id": "mykonos",
+              "name": "Mykonos",
+              "status": "complete",
+              "packPath": "gr/south-aegean/mykonos/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 37.43,
+                "minLng": 25.32,
+                "maxLat": 37.46,
+                "maxLng": 25.36
+              }
+            }
+          ]
+        },
+        {
+          "id": "crete",
+          "stateCode": "M",
+          "name": "Crete",
+          "cities": [
+            {
+              "id": "heraklion",
+              "name": "Heraklion",
+              "status": "complete",
+              "packPath": "gr/crete/heraklion/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 35.32,
+                "minLng": 25.12,
+                "maxLat": 35.35,
+                "maxLng": 25.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "peloponnese",
+          "stateCode": "J",
+          "name": "Peloponnese",
+          "cities": [
+            {
+              "id": "olympia",
+              "name": "Olympia",
+              "status": "complete",
+              "packPath": "gr/peloponnese/olympia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 37.63,
+                "minLng": 21.62,
+                "maxLat": 37.64,
+                "maxLng": 21.64
+              }
+            },
+            {
+              "id": "nafplio",
+              "name": "Nafplio",
+              "status": "complete",
+              "packPath": "gr/peloponnese/nafplio/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T00:40:00.000Z",
+              "bbox": {
+                "minLat": 37.56,
+                "minLng": 22.79,
+                "maxLat": 37.58,
+                "maxLng": 22.81
               }
             }
           ]
