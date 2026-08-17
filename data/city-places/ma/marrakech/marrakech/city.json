@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/marrakech/marrakech",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "MAR",
+  "stateName": "Marrakech-Safi",
+  "cityName": "Marrakech",
+  "bbox": {
+    "minLat": 31.6,
+    "minLng": -8.02,
+    "maxLat": 31.65,
+    "maxLng": -7.97
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jemaa-el-fnaa",
+      "name": "Jemaa el-Fnaa",
+      "lat": 31.6258,
+      "lng": -7.9891,
+      "radiusM": 200,
+      "address": "Medina",
+      "howTo": "Visit Jemaa el-Fnaa.",
+      "badge": "badges/jemaa-el-fnaa.png"
+    },
+    {
+      "id": "koutoubia-mosque",
+      "name": "Koutoubia Mosque",
+      "lat": 31.6236,
+      "lng": -7.9938,
+      "radiusM": 120,
+      "address": "Medina",
+      "howTo": "Visit Koutoubia Mosque.",
+      "badge": "badges/koutoubia-mosque.png"
+    },
+    {
+      "id": "bahia-palace",
+      "name": "Bahia Palace",
+      "lat": 31.6217,
+      "lng": -7.9831,
+      "radiusM": 150,
+      "address": "Medina",
+      "howTo": "Visit Bahia Palace.",
+      "badge": "badges/bahia-palace.png"
+    },
+    {
+      "id": "majorelle-garden",
+      "name": "Majorelle Garden",
+      "lat": 31.6417,
+      "lng": -7.9931,
+      "radiusM": 150,
+      "address": "Gueliz",
+      "howTo": "Visit Majorelle Garden.",
+      "badge": "badges/majorelle-garden.png"
+    },
+    {
+      "id": "saadian-tombs",
+      "name": "Saadian Tombs",
+      "lat": 31.6172,
+      "lng": -7.989,
+      "radiusM": 120,
+      "address": "Kasbah",
+      "howTo": "Visit Saadian Tombs.",
+      "badge": "badges/saadian-tombs.png"
+    }
+  ]
+}

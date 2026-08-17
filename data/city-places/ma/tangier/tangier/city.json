@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/tangier/tangier",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "TNG",
+  "stateName": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+  "cityName": "Tangier",
+  "bbox": {
+    "minLat": 35.76,
+    "minLng": -5.85,
+    "maxLat": 35.8,
+    "maxLng": -5.78
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cap-spartel",
+      "name": "Cap Spartel",
+      "lat": 35.7928,
+      "lng": -5.9225,
+      "radiusM": 200,
+      "address": "Cap Spartel",
+      "howTo": "Visit Cap Spartel.",
+      "badge": "badges/cap-spartel.png"
+    },
+    {
+      "id": "kasbah-tangier",
+      "name": "Kasbah of Tangier",
+      "lat": 35.7892,
+      "lng": -5.8136,
+      "radiusM": 150,
+      "address": "Medina",
+      "howTo": "Visit Kasbah of Tangier.",
+      "badge": "badges/kasbah-tangier.png"
+    },
+    {
+      "id": "hercules-caves",
+      "name": "Hercules Caves",
+      "lat": 35.7678,
+      "lng": -5.9392,
+      "radiusM": 150,
+      "address": "Cap Spartel",
+      "howTo": "Visit Hercules Caves.",
+      "badge": "badges/hercules-caves.png"
+    }
+  ]
+}

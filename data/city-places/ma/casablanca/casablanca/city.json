@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/casablanca/casablanca",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "CAS",
+  "stateName": "Casablanca-Settat",
+  "cityName": "Casablanca",
+  "bbox": {
+    "minLat": 33.57,
+    "minLng": -7.68,
+    "maxLat": 33.62,
+    "maxLng": -7.6
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hassan-ii-mosque",
+      "name": "Hassan II Mosque",
+      "lat": 33.6085,
+      "lng": -7.6328,
+      "radiusM": 200,
+      "address": "Ain Diab",
+      "howTo": "Visit Hassan II Mosque.",
+      "badge": "badges/hassan-ii-mosque.png"
+    },
+    {
+      "id": "casablanca-corniche",
+      "name": "Casablanca Corniche",
+      "lat": 33.595,
+      "lng": -7.665,
+      "radiusM": 250,
+      "address": "Ain Diab",
+      "howTo": "Visit Casablanca Corniche.",
+      "badge": "badges/casablanca-corniche.png"
+    },
+    {
+      "id": "old-medina-casablanca",
+      "name": "Old Medina of Casablanca",
+      "lat": 33.6033,
+      "lng": -7.6194,
+      "radiusM": 200,
+      "address": "Medina",
+      "howTo": "Visit Old Medina of Casablanca.",
+      "badge": "badges/old-medina-casablanca.png"
+    }
+  ]
+}

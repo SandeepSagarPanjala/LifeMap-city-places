@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T01:30:00.000Z",
-  "notes": "Queue through Egypt complete. Next: Morocco (ma) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "notes": "Queue through Morocco complete. Next: Vietnam (vn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10043,6 +10043,174 @@
                 "minLng": 34.28,
                 "maxLat": 27.92,
                 "maxLng": 34.35
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma",
+      "countryCode": "MA",
+      "name": "Morocco",
+      "states": [
+        {
+          "id": "marrakech",
+          "stateCode": "MAR",
+          "name": "Marrakech-Safi",
+          "cities": [
+            {
+              "id": "marrakech",
+              "name": "Marrakech",
+              "status": "complete",
+              "packPath": "ma/marrakech/marrakech/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 31.6,
+                "minLng": -8.02,
+                "maxLat": 31.65,
+                "maxLng": -7.97
+              }
+            }
+          ]
+        },
+        {
+          "id": "fes",
+          "stateCode": "FES",
+          "name": "F\u00e8s-Mekn\u00e8s",
+          "cities": [
+            {
+              "id": "fes",
+              "name": "Fes",
+              "status": "complete",
+              "packPath": "ma/fes/fes/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 34.03,
+                "minLng": -5.0,
+                "maxLat": 34.07,
+                "maxLng": -4.96
+              }
+            }
+          ]
+        },
+        {
+          "id": "casablanca",
+          "stateCode": "CAS",
+          "name": "Casablanca-Settat",
+          "cities": [
+            {
+              "id": "casablanca",
+              "name": "Casablanca",
+              "status": "complete",
+              "packPath": "ma/casablanca/casablanca/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 33.57,
+                "minLng": -7.68,
+                "maxLat": 33.62,
+                "maxLng": -7.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "rabat",
+          "stateCode": "RAB",
+          "name": "Rabat-Sal\u00e9-K\u00e9nitra",
+          "cities": [
+            {
+              "id": "rabat",
+              "name": "Rabat",
+              "status": "complete",
+              "packPath": "ma/rabat/rabat/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 33.98,
+                "minLng": -6.86,
+                "maxLat": 34.04,
+                "maxLng": -6.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "tangier",
+          "stateCode": "TNG",
+          "name": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+          "cities": [
+            {
+              "id": "chefchaouen",
+              "name": "Chefchaouen",
+              "status": "complete",
+              "packPath": "ma/tangier/chefchaouen/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 35.16,
+                "minLng": -5.28,
+                "maxLat": 35.19,
+                "maxLng": -5.25
+              }
+            },
+            {
+              "id": "tangier",
+              "name": "Tangier",
+              "status": "complete",
+              "packPath": "ma/tangier/tangier/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 35.76,
+                "minLng": -5.85,
+                "maxLat": 35.8,
+                "maxLng": -5.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "souss-massa",
+          "stateCode": "SMM",
+          "name": "Souss-Massa",
+          "cities": [
+            {
+              "id": "essaouira",
+              "name": "Essaouira",
+              "status": "complete",
+              "packPath": "ma/souss-massa/essaouira/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 31.49,
+                "minLng": -9.78,
+                "maxLat": 31.52,
+                "maxLng": -9.75
+              }
+            }
+          ]
+        },
+        {
+          "id": "draa-tafilalet",
+          "stateCode": "DRA",
+          "name": "Dr\u00e2a-Tafilalet",
+          "cities": [
+            {
+              "id": "merzouga",
+              "name": "Merzouga",
+              "status": "complete",
+              "packPath": "ma/draa-tafilalet/merzouga/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:15:00.000Z",
+              "bbox": {
+                "minLat": 31.08,
+                "minLng": -4.05,
+                "maxLat": 31.12,
+                "maxLng": -3.98
               }
             }
           ]

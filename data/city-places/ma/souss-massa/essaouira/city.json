@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/souss-massa/essaouira",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "SMM",
+  "stateName": "Souss-Massa",
+  "cityName": "Essaouira",
+  "bbox": {
+    "minLat": 31.49,
+    "minLng": -9.78,
+    "maxLat": 31.52,
+    "maxLng": -9.75
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "essaouira-medina-walls",
+      "name": "Essaouira Medina Walls",
+      "lat": 31.5125,
+      "lng": -9.77,
+      "radiusM": 200,
+      "address": "Medina",
+      "howTo": "Visit Essaouira Medina Walls.",
+      "badge": "badges/essaouira-medina-walls.png"
+    },
+    {
+      "id": "essaouira-port",
+      "name": "Essaouira Port",
+      "lat": 31.5083,
+      "lng": -9.7683,
+      "radiusM": 150,
+      "address": "Port",
+      "howTo": "Visit Essaouira Port.",
+      "badge": "badges/essaouira-port.png"
+    },
+    {
+      "id": "scala-du-port",
+      "name": "Skala du Port",
+      "lat": 31.512,
+      "lng": -9.7695,
+      "radiusM": 120,
+      "address": "Ramparts",
+      "howTo": "Visit Skala du Port.",
+      "badge": "badges/scala-du-port.png"
+    }
+  ]
+}

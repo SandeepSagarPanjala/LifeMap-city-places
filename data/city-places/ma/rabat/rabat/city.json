@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/rabat/rabat",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "RAB",
+  "stateName": "Rabat-Sal\u00e9-K\u00e9nitra",
+  "cityName": "Rabat",
+  "bbox": {
+    "minLat": 33.98,
+    "minLng": -6.86,
+    "maxLat": 34.04,
+    "maxLng": -6.8
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hassan-tower",
+      "name": "Hassan Tower",
+      "lat": 34.0244,
+      "lng": -6.8225,
+      "radiusM": 150,
+      "address": "Tour Hassan",
+      "howTo": "Visit Hassan Tower.",
+      "badge": "badges/hassan-tower.png"
+    },
+    {
+      "id": "kasbah-of-the-udayas",
+      "name": "Kasbah of the Udayas",
+      "lat": 34.0331,
+      "lng": -6.8369,
+      "radiusM": 200,
+      "address": "Kasbah",
+      "howTo": "Visit Kasbah of the Udayas.",
+      "badge": "badges/kasbah-of-the-udayas.png"
+    },
+    {
+      "id": "chellah-necropolis",
+      "name": "Chellah Necropolis",
+      "lat": 34.0069,
+      "lng": -6.8225,
+      "radiusM": 200,
+      "address": "Chellah",
+      "howTo": "Visit Chellah Necropolis.",
+      "badge": "badges/chellah-necropolis.png"
+    }
+  ]
+}

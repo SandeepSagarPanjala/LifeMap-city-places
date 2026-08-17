@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/fes/fes",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "FES",
+  "stateName": "F\u00e8s-Mekn\u00e8s",
+  "cityName": "Fes",
+  "bbox": {
+    "minLat": 34.03,
+    "minLng": -5.0,
+    "maxLat": 34.07,
+    "maxLng": -4.96
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bab-bou-jeloud",
+      "name": "Bab Bou Jeloud",
+      "lat": 34.0611,
+      "lng": -4.9828,
+      "radiusM": 100,
+      "address": "Fes el-Bali",
+      "howTo": "Visit Bab Bou Jeloud.",
+      "badge": "badges/bab-bou-jeloud.png"
+    },
+    {
+      "id": "al-qarawiyyin",
+      "name": "Al-Qarawiyyin Mosque",
+      "lat": 34.065,
+      "lng": -4.9733,
+      "radiusM": 120,
+      "address": "Medina",
+      "howTo": "Visit Al-Qarawiyyin Mosque.",
+      "badge": "badges/al-qarawiyyin.png"
+    },
+    {
+      "id": "chouara-tannery",
+      "name": "Chouara Tannery",
+      "lat": 34.0661,
+      "lng": -4.9717,
+      "radiusM": 100,
+      "address": "Medina",
+      "howTo": "Visit Chouara Tannery.",
+      "badge": "badges/chouara-tannery.png"
+    },
+    {
+      "id": "bou-inania-madrasa",
+      "name": "Bou Inania Madrasa",
+      "lat": 34.0631,
+      "lng": -4.9736,
+      "radiusM": 100,
+      "address": "Medina",
+      "howTo": "Visit Bou Inania Madrasa.",
+      "badge": "badges/bou-inania-madrasa.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:22:02.117Z",
+  "generatedAt": "2026-08-17T23:32:15.370Z",
   "cellDeg": 0.5,
-  "cityCount": 569,
+  "cityCount": 577,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -2945,6 +2945,78 @@
         "minLng": 127,
         "maxLat": 37.29,
         "maxLng": 127.02
+      }
+    },
+    "ma/casablanca/casablanca": {
+      "name": "Casablanca",
+      "bbox": {
+        "minLat": 33.57,
+        "minLng": -7.68,
+        "maxLat": 33.62,
+        "maxLng": -7.6
+      }
+    },
+    "ma/draa-tafilalet/merzouga": {
+      "name": "Merzouga",
+      "bbox": {
+        "minLat": 31.08,
+        "minLng": -4.05,
+        "maxLat": 31.12,
+        "maxLng": -3.98
+      }
+    },
+    "ma/fes/fes": {
+      "name": "Fes",
+      "bbox": {
+        "minLat": 34.03,
+        "minLng": -5,
+        "maxLat": 34.07,
+        "maxLng": -4.96
+      }
+    },
+    "ma/marrakech/marrakech": {
+      "name": "Marrakech",
+      "bbox": {
+        "minLat": 31.6,
+        "minLng": -8.02,
+        "maxLat": 31.65,
+        "maxLng": -7.97
+      }
+    },
+    "ma/rabat/rabat": {
+      "name": "Rabat",
+      "bbox": {
+        "minLat": 33.98,
+        "minLng": -6.86,
+        "maxLat": 34.04,
+        "maxLng": -6.8
+      }
+    },
+    "ma/souss-massa/essaouira": {
+      "name": "Essaouira",
+      "bbox": {
+        "minLat": 31.49,
+        "minLng": -9.78,
+        "maxLat": 31.52,
+        "maxLng": -9.75
+      }
+    },
+    "ma/tangier/chefchaouen": {
+      "name": "Chefchaouen",
+      "bbox": {
+        "minLat": 35.16,
+        "minLng": -5.28,
+        "maxLat": 35.19,
+        "maxLng": -5.25
+      }
+    },
+    "ma/tangier/tangier": {
+      "name": "Tangier",
+      "bbox": {
+        "minLat": 35.76,
+        "minLng": -5.85,
+        "maxLat": 35.8,
+        "maxLng": -5.78
       }
     },
     "mx/baja-california-sur/cabo-san-lucas": {
@@ -7353,6 +7425,42 @@
     ],
     "55,68": [
       "eg/red-sea/sharm-el-sheikh"
+    ],
+    "63,-17": [
+      "ma/marrakech/marrakech"
+    ],
+    "63,-16": [
+      "ma/marrakech/marrakech"
+    ],
+    "68,-10": [
+      "ma/fes/fes"
+    ],
+    "67,-16": [
+      "ma/casablanca/casablanca"
+    ],
+    "67,-14": [
+      "ma/rabat/rabat"
+    ],
+    "68,-14": [
+      "ma/rabat/rabat"
+    ],
+    "70,-11": [
+      "ma/tangier/chefchaouen"
+    ],
+    "71,-12": [
+      "ma/tangier/tangier"
+    ],
+    "62,-20": [
+      "ma/souss-massa/essaouira"
+    ],
+    "63,-20": [
+      "ma/souss-massa/essaouira"
+    ],
+    "62,-9": [
+      "ma/draa-tafilalet/merzouga"
+    ],
+    "62,-8": [
+      "ma/draa-tafilalet/merzouga"
     ]
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/tangier/chefchaouen",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "TNG",
+  "stateName": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+  "cityName": "Chefchaouen",
+  "bbox": {
+    "minLat": 35.16,
+    "minLng": -5.28,
+    "maxLat": 35.19,
+    "maxLng": -5.25
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chefchaouen-blue-streets",
+      "name": "Chefchaouen Blue Streets",
+      "lat": 35.1714,
+      "lng": -5.2696,
+      "radiusM": 200,
+      "address": "Medina",
+      "howTo": "Visit Chefchaouen Blue Streets.",
+      "badge": "badges/chefchaouen-blue-streets.png"
+    },
+    {
+      "id": "chefchaouen-kasbah",
+      "name": "Chefchaouen Kasbah",
+      "lat": 35.171,
+      "lng": -5.269,
+      "radiusM": 120,
+      "address": "Place Outa el Hammam",
+      "howTo": "Visit Chefchaouen Kasbah.",
+      "badge": "badges/chefchaouen-kasbah.png"
+    },
+    {
+      "id": "ras-el-ma-waterfall",
+      "name": "Ras el-Ma Waterfall",
+      "lat": 35.1833,
+      "lng": -5.2667,
+      "radiusM": 150,
+      "address": "Eastern Medina",
+      "howTo": "Visit Ras el-Ma Waterfall.",
+      "badge": "badges/ras-el-ma-waterfall.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ma/draa-tafilalet/merzouga",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "stateCode": "DRA",
+  "stateName": "Dr\u00e2a-Tafilalet",
+  "cityName": "Merzouga",
+  "bbox": {
+    "minLat": 31.08,
+    "minLng": -4.05,
+    "maxLat": 31.12,
+    "maxLng": -3.98
+  },
+  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "erg-chebbi-dunes",
+      "name": "Erg Chebbi Dunes",
+      "lat": 31.0992,
+      "lng": -4.0128,
+      "radiusM": 400,
+      "address": "Merzouga",
+      "howTo": "Visit Erg Chebbi Dunes.",
+      "badge": "badges/erg-chebbi-dunes.png"
+    },
+    {
+      "id": "merzouga-lake",
+      "name": "Dayet Srji Lake",
+      "lat": 31.1597,
+      "lng": -4.01,
+      "radiusM": 250,
+      "address": "Merzouga",
+      "howTo": "Visit Dayet Srji Lake.",
+      "badge": "badges/merzouga-lake.png"
+    }
+  ]
+}
