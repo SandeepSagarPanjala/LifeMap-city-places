@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "za/kwazulu-natal/drakensberg",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "KZN",
+  "stateName": "KwaZulu-Natal",
+  "cityName": "Drakensberg",
+  "bbox": {
+    "minLat": -29.5,
+    "minLng": 29.3,
+    "maxLat": -28.7,
+    "maxLng": 29.5
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "amphitheatre-drakensberg",
+      "name": "Amphitheatre",
+      "lat": -28.75,
+      "lng": 28.9,
+      "radiusM": 400,
+      "address": "Royal Natal Park",
+      "howTo": "Visit Amphitheatre.",
+      "badge": "badges/amphitheatre-drakensberg.png"
+    },
+    {
+      "id": "cathedral-peak",
+      "name": "Cathedral Peak",
+      "lat": -28.95,
+      "lng": 29.2,
+      "radiusM": 400,
+      "address": "Drakensberg",
+      "howTo": "Visit Cathedral Peak.",
+      "badge": "badges/cathedral-peak.png"
+    }
+  ]
+}

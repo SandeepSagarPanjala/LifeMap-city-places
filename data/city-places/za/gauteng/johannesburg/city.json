@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "za/gauteng/johannesburg",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "GP",
+  "stateName": "Gauteng",
+  "cityName": "Johannesburg",
+  "bbox": {
+    "minLat": -26.22,
+    "minLng": 28.02,
+    "maxLat": -26.15,
+    "maxLng": 28.1
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "apartheid-museum",
+      "name": "Apartheid Museum",
+      "lat": -26.237,
+      "lng": 28.008,
+      "radiusM": 150,
+      "address": "Ormonde",
+      "howTo": "Visit Apartheid Museum.",
+      "badge": "badges/apartheid-museum.png"
+    },
+    {
+      "id": "constitution-hill",
+      "name": "Constitution Hill",
+      "lat": -26.189,
+      "lng": 28.042,
+      "radiusM": 150,
+      "address": "Braamfontein",
+      "howTo": "Visit Constitution Hill.",
+      "badge": "badges/constitution-hill.png"
+    },
+    {
+      "id": "nelson-mandela-square",
+      "name": "Nelson Mandela Square",
+      "lat": -26.107,
+      "lng": 28.056,
+      "radiusM": 120,
+      "address": "Sandton",
+      "howTo": "Visit Nelson Mandela Square.",
+      "badge": "badges/nelson-mandela-square.png"
+    }
+  ]
+}

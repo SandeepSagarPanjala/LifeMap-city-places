@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "za/kwazulu-natal/durban",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "KZN",
+  "stateName": "KwaZulu-Natal",
+  "cityName": "Durban",
+  "bbox": {
+    "minLat": -29.88,
+    "minLng": 31.02,
+    "maxLat": -29.84,
+    "maxLng": 31.06
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golden-mile",
+      "name": "Golden Mile Beachfront",
+      "lat": -29.857,
+      "lng": 31.035,
+      "radiusM": 300,
+      "address": "Marine Parade",
+      "howTo": "Visit Golden Mile Beachfront.",
+      "badge": "badges/golden-mile.png"
+    },
+    {
+      "id": "ushaka-marine-world",
+      "name": "uShaka Marine World",
+      "lat": -29.867,
+      "lng": 31.045,
+      "radiusM": 200,
+      "address": "Point",
+      "howTo": "Visit uShaka Marine World.",
+      "badge": "badges/ushaka-marine-world.png"
+    }
+  ]
+}

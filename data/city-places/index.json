@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:20:00.000Z",
-  "notes": "Queue through Malaysia complete. Next: South Africa (za) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "notes": "Queue through South Africa complete. Next: Argentina (ar) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10708,6 +10708,125 @@
                 "minLng": 101.37,
                 "maxLat": 4.5,
                 "maxLng": 101.41
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "za",
+      "countryCode": "ZA",
+      "name": "South Africa",
+      "states": [
+        {
+          "id": "western-cape",
+          "stateCode": "WC",
+          "name": "Western Cape",
+          "cities": [
+            {
+              "id": "cape-town",
+              "name": "Cape Town",
+              "status": "complete",
+              "packPath": "za/western-cape/cape-town/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -34.0,
+                "minLng": 18.4,
+                "maxLat": -33.9,
+                "maxLng": 18.5
+              }
+            },
+            {
+              "id": "stellenbosch",
+              "name": "Stellenbosch",
+              "status": "complete",
+              "packPath": "za/western-cape/stellenbosch/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -33.95,
+                "minLng": 18.84,
+                "maxLat": -33.92,
+                "maxLng": 18.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "gauteng",
+          "stateCode": "GP",
+          "name": "Gauteng",
+          "cities": [
+            {
+              "id": "johannesburg",
+              "name": "Johannesburg",
+              "status": "complete",
+              "packPath": "za/gauteng/johannesburg/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -26.22,
+                "minLng": 28.02,
+                "maxLat": -26.15,
+                "maxLng": 28.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "kwazulu-natal",
+          "stateCode": "KZN",
+          "name": "KwaZulu-Natal",
+          "cities": [
+            {
+              "id": "durban",
+              "name": "Durban",
+              "status": "complete",
+              "packPath": "za/kwazulu-natal/durban/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -29.88,
+                "minLng": 31.02,
+                "maxLat": -29.84,
+                "maxLng": 31.06
+              }
+            },
+            {
+              "id": "drakensberg",
+              "name": "Drakensberg",
+              "status": "complete",
+              "packPath": "za/kwazulu-natal/drakensberg/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -29.5,
+                "minLng": 29.3,
+                "maxLat": -28.7,
+                "maxLng": 29.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "mpumalanga",
+          "stateCode": "MP",
+          "name": "Mpumalanga",
+          "cities": [
+            {
+              "id": "hazyview",
+              "name": "Hazyview",
+              "status": "complete",
+              "packPath": "za/mpumalanga/hazyview/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:40:00.000Z",
+              "bbox": {
+                "minLat": -25.45,
+                "minLng": 31.1,
+                "maxLat": -24.8,
+                "maxLng": 31.2
               }
             }
           ]

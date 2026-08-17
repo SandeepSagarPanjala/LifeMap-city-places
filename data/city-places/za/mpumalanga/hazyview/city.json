@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "za/mpumalanga/hazyview",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "MP",
+  "stateName": "Mpumalanga",
+  "cityName": "Hazyview",
+  "bbox": {
+    "minLat": -25.45,
+    "minLng": 31.1,
+    "maxLat": -24.8,
+    "maxLng": 31.2
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blyde-river-canyon",
+      "name": "Blyde River Canyon",
+      "lat": -24.589,
+      "lng": 30.808,
+      "radiusM": 400,
+      "address": "Panorama Route",
+      "howTo": "Visit Blyde River Canyon.",
+      "badge": "badges/blyde-river-canyon.png"
+    },
+    {
+      "id": "gods-window",
+      "name": "God's Window",
+      "lat": -24.883,
+      "lng": 30.907,
+      "radiusM": 200,
+      "address": "Panorama Route",
+      "howTo": "Visit God's Window.",
+      "badge": "badges/gods-window.png"
+    }
+  ]
+}

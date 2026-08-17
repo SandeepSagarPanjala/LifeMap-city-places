@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "za/western-cape/cape-town",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "WC",
+  "stateName": "Western Cape",
+  "cityName": "Cape Town",
+  "bbox": {
+    "minLat": -34.0,
+    "minLng": 18.4,
+    "maxLat": -33.9,
+    "maxLng": 18.5
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "table-mountain",
+      "name": "Table Mountain",
+      "lat": -33.9628,
+      "lng": 18.4098,
+      "radiusM": 300,
+      "address": "Table Mountain",
+      "howTo": "Visit Table Mountain.",
+      "badge": "badges/table-mountain.png"
+    },
+    {
+      "id": "va-waterfront",
+      "name": "V&A Waterfront",
+      "lat": -33.903,
+      "lng": 18.42,
+      "radiusM": 250,
+      "address": "Victoria & Alfred Waterfront",
+      "howTo": "Visit V&A Waterfront.",
+      "badge": "badges/va-waterfront.png"
+    },
+    {
+      "id": "cape-point",
+      "name": "Cape Point",
+      "lat": -34.357,
+      "lng": 18.497,
+      "radiusM": 300,
+      "address": "Cape of Good Hope",
+      "howTo": "Visit Cape Point.",
+      "badge": "badges/cape-point.png"
+    },
+    {
+      "id": "bo-kaap",
+      "name": "Bo-Kaap",
+      "lat": -33.92,
+      "lng": 18.415,
+      "radiusM": 200,
+      "address": "Bo-Kaap",
+      "howTo": "Visit Bo-Kaap.",
+      "badge": "badges/bo-kaap.png"
+    },
+    {
+      "id": "robben-island-view",
+      "name": "Robben Island View",
+      "lat": -33.806,
+      "lng": 18.366,
+      "radiusM": 400,
+      "address": "V&A Waterfront",
+      "howTo": "Visit Robben Island View.",
+      "badge": "badges/robben-island-view.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "za/western-cape/stellenbosch",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "stateCode": "WC",
+  "stateName": "Western Cape",
+  "cityName": "Stellenbosch",
+  "bbox": {
+    "minLat": -33.95,
+    "minLng": 18.84,
+    "maxLat": -33.92,
+    "maxLng": 18.88
+  },
+  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "stellenbosch-winelands",
+      "name": "Stellenbosch Winelands",
+      "lat": -33.932,
+      "lng": 18.86,
+      "radiusM": 300,
+      "address": "Stellenbosch",
+      "howTo": "Visit Stellenbosch Winelands.",
+      "badge": "badges/stellenbosch-winelands.png"
+    },
+    {
+      "id": "dorp-street-stellenbosch",
+      "name": "Dorp Street Stellenbosch",
+      "lat": -33.937,
+      "lng": 18.861,
+      "radiusM": 200,
+      "address": "Dorp Street",
+      "howTo": "Visit Dorp Street Stellenbosch.",
+      "badge": "badges/dorp-street-stellenbosch.png"
+    }
+  ]
+}

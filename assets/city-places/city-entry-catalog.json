@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:46:36.216Z",
+  "generatedAt": "2026-08-17T23:49:50.515Z",
   "cellDeg": 0.5,
-  "cityCount": 600,
+  "cityCount": 606,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -5403,6 +5403,60 @@
         "maxLat": 16.48,
         "maxLng": 107.6
       }
+    },
+    "za/gauteng/johannesburg": {
+      "name": "Johannesburg",
+      "bbox": {
+        "minLat": -26.22,
+        "minLng": 28.02,
+        "maxLat": -26.15,
+        "maxLng": 28.1
+      }
+    },
+    "za/kwazulu-natal/drakensberg": {
+      "name": "Drakensberg",
+      "bbox": {
+        "minLat": -29.5,
+        "minLng": 29.3,
+        "maxLat": -28.7,
+        "maxLng": 29.5
+      }
+    },
+    "za/kwazulu-natal/durban": {
+      "name": "Durban",
+      "bbox": {
+        "minLat": -29.88,
+        "minLng": 31.02,
+        "maxLat": -29.84,
+        "maxLng": 31.06
+      }
+    },
+    "za/mpumalanga/hazyview": {
+      "name": "Hazyview",
+      "bbox": {
+        "minLat": -25.45,
+        "minLng": 31.1,
+        "maxLat": -24.8,
+        "maxLng": 31.2
+      }
+    },
+    "za/western-cape/cape-town": {
+      "name": "Cape Town",
+      "bbox": {
+        "minLat": -34,
+        "minLng": 18.4,
+        "maxLat": -33.9,
+        "maxLng": 18.5
+      }
+    },
+    "za/western-cape/stellenbosch": {
+      "name": "Stellenbosch",
+      "bbox": {
+        "minLat": -33.95,
+        "minLng": 18.84,
+        "maxLat": -33.92,
+        "maxLng": 18.88
+      }
     }
   },
   "cells": {
@@ -7746,6 +7800,37 @@
     ],
     "9,202": [
       "my/pahang/cameron-highlands"
+    ],
+    "-68,36": [
+      "za/western-cape/cape-town"
+    ],
+    "-68,37": [
+      "za/western-cape/cape-town",
+      "za/western-cape/stellenbosch"
+    ],
+    "-53,56": [
+      "za/gauteng/johannesburg"
+    ],
+    "-60,62": [
+      "za/kwazulu-natal/durban"
+    ],
+    "-59,58": [
+      "za/kwazulu-natal/drakensberg"
+    ],
+    "-59,59": [
+      "za/kwazulu-natal/drakensberg"
+    ],
+    "-58,58": [
+      "za/kwazulu-natal/drakensberg"
+    ],
+    "-58,59": [
+      "za/kwazulu-natal/drakensberg"
+    ],
+    "-51,62": [
+      "za/mpumalanga/hazyview"
+    ],
+    "-50,62": [
+      "za/mpumalanga/hazyview"
     ]
   }
 }
