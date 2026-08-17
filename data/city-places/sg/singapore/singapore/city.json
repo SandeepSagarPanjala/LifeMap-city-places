@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "sg/singapore/singapore",
+  "countryCode": "SG",
+  "countryName": "Singapore",
+  "stateCode": "SG",
+  "stateName": "Singapore",
+  "cityName": "Singapore",
+  "bbox": {
+    "minLat": 1.24,
+    "minLng": 103.82,
+    "maxLat": 1.32,
+    "maxLng": 103.9
+  },
+  "updatedAt": "2026-08-17T21:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "merlion",
+      "name": "Merlion",
+      "lat": 1.2868,
+      "lng": 103.8545,
+      "radiusM": 80,
+      "address": "Merlion Park",
+      "howTo": "Visit Merlion.",
+      "badge": "badges/merlion.png"
+    },
+    {
+      "id": "gardens-by-the-bay",
+      "name": "Gardens by the Bay",
+      "lat": 1.2816,
+      "lng": 103.8636,
+      "radiusM": 300,
+      "address": "Gardens by the Bay",
+      "howTo": "Visit Gardens by the Bay.",
+      "badge": "badges/gardens-by-the-bay.png"
+    },
+    {
+      "id": "singapore-botanic-gardens",
+      "name": "Singapore Botanic Gardens",
+      "lat": 1.3138,
+      "lng": 103.8159,
+      "radiusM": 300,
+      "address": "UNESCO Botanic Gardens",
+      "howTo": "Visit Singapore Botanic Gardens.",
+      "badge": "badges/singapore-botanic-gardens.png"
+    },
+    {
+      "id": "helix-bridge",
+      "name": "Helix Bridge",
+      "lat": 1.2875,
+      "lng": 103.8605,
+      "radiusM": 120,
+      "address": "The Helix Bridge",
+      "howTo": "Visit Helix Bridge.",
+      "badge": "badges/helix-bridge.png"
+    },
+    {
+      "id": "artscience-museum",
+      "name": "ArtScience Museum",
+      "lat": 1.2862,
+      "lng": 103.8593,
+      "radiusM": 100,
+      "address": "ArtScience Museum",
+      "howTo": "Visit ArtScience Museum.",
+      "badge": "badges/artscience-museum.png"
+    },
+    {
+      "id": "sri-mariamman-temple",
+      "name": "Sri Mariamman Temple",
+      "lat": 1.2825,
+      "lng": 103.845,
+      "radiusM": 80,
+      "address": "Chinatown",
+      "howTo": "Visit Sri Mariamman Temple.",
+      "badge": "badges/sri-mariamman-temple.png"
+    },
+    {
+      "id": "little-india-singapore",
+      "name": "Little India",
+      "lat": 1.3065,
+      "lng": 103.8515,
+      "radiusM": 200,
+      "address": "Little India / Serangoon Road",
+      "howTo": "Visit Little India.",
+      "badge": "badges/little-india-singapore.png"
+    },
+    {
+      "id": "fort-siloso",
+      "name": "Fort Siloso",
+      "lat": 1.2585,
+      "lng": 103.8085,
+      "radiusM": 150,
+      "address": "Sentosa",
+      "howTo": "Visit Fort Siloso.",
+      "badge": "badges/fort-siloso.png"
+    },
+    {
+      "id": "national-gallery-singapore",
+      "name": "National Gallery Singapore",
+      "lat": 1.2903,
+      "lng": 103.8515,
+      "radiusM": 120,
+      "address": "National Gallery",
+      "howTo": "Visit National Gallery Singapore.",
+      "badge": "badges/national-gallery-singapore.png"
+    },
+    {
+      "id": "singapore-flyer",
+      "name": "Singapore Flyer",
+      "lat": 1.2893,
+      "lng": 103.8631,
+      "radiusM": 100,
+      "address": "Singapore Flyer",
+      "howTo": "Visit Singapore Flyer.",
+      "badge": "badges/singapore-flyer.png"
+    }
+  ]
+}

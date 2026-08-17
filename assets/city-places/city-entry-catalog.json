@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T10:31:16.346Z",
+  "generatedAt": "2026-08-17T21:06:04.558Z",
   "cellDeg": 0.5,
-  "cityCount": 510,
+  "cityCount": 511,
   "cities": {
     "au/australian-capital-territory/canberra": {
       "name": "Canberra",
@@ -2891,6 +2891,15 @@
         "minLng": -8.63,
         "maxLat": 41.15,
         "maxLng": -8.6
+      }
+    },
+    "sg/singapore/singapore": {
+      "name": "Singapore",
+      "bbox": {
+        "minLat": 1.24,
+        "minLng": 103.82,
+        "maxLat": 1.32,
+        "maxLng": 103.9
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -6579,6 +6588,9 @@
     ],
     "-87,340": [
       "nz/west-coast/franz-josef"
+    ],
+    "2,207": [
+      "sg/singapore/singapore"
     ]
   }
 }

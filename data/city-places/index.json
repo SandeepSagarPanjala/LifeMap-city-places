@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-15T10:31:16.000Z",
-  "notes": "Queue through New Zealand complete. Next: Singapore (sg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-17T21:10:00.000Z",
+  "notes": "Queue through Singapore complete. Next: UAE (ae) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8839,6 +8839,34 @@
                 "minLng": 170.18,
                 "maxLat": -43.38,
                 "maxLng": 170.2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sg",
+      "countryCode": "SG",
+      "name": "Singapore",
+      "states": [
+        {
+          "id": "singapore",
+          "stateCode": "SG",
+          "name": "Singapore",
+          "cities": [
+            {
+              "id": "singapore",
+              "name": "Singapore",
+              "status": "complete",
+              "packPath": "sg/singapore/singapore/city.json",
+              "placeCount": 10,
+              "completedAt": "2026-08-17T21:00:00.000Z",
+              "bbox": {
+                "minLat": 1.24,
+                "minLng": 103.82,
+                "maxLat": 1.32,
+                "maxLng": 103.9
               }
             }
           ]

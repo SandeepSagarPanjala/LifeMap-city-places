@@ -56,11 +56,11 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 10. `ca` — Canada (**complete**)
 11. `th` — Thailand (**complete**)
 12. `kr` — South Korea (**complete**)
-13. `nl` — Netherlands
-14. `pt` — Portugal
-15. `ch` — Switzerland
-16. `nz` — New Zealand
-17. `sg` — Singapore
+13. `nl` — Netherlands (**complete**)
+14. `pt` — Portugal (**complete**)
+15. `ch` — Switzerland (**complete**)
+16. `nz` — New Zealand (**complete**)
+17. `sg` — Singapore (**complete**)
 18. `ae` — United Arab Emirates
 19. `br` — Brazil
 20. `mx` — Mexico
