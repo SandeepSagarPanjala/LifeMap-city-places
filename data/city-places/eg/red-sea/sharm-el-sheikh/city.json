@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "eg/red-sea/sharm-el-sheikh",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "stateCode": "BA",
+  "stateName": "Red Sea",
+  "cityName": "Sharm el-Sheikh",
+  "bbox": {
+    "minLat": 27.85,
+    "minLng": 34.28,
+    "maxLat": 27.92,
+    "maxLng": 34.35
+  },
+  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ras-mohammed",
+      "name": "Ras Mohammed National Park",
+      "lat": 27.7235,
+      "lng": 34.2485,
+      "radiusM": 300,
+      "address": "Sinai",
+      "howTo": "Visit Ras Mohammed National Park.",
+      "badge": "badges/ras-mohammed.png"
+    },
+    {
+      "id": "naama-bay",
+      "name": "Naama Bay",
+      "lat": 27.9135,
+      "lng": 34.3295,
+      "radiusM": 200,
+      "address": "Sharm el-Sheikh",
+      "howTo": "Visit Naama Bay.",
+      "badge": "badges/naama-bay.png"
+    },
+    {
+      "id": "mount-sinai",
+      "name": "Mount Sinai",
+      "lat": 28.5392,
+      "lng": 33.9753,
+      "radiusM": 300,
+      "address": "Sinai",
+      "howTo": "Visit Mount Sinai.",
+      "badge": "badges/mount-sinai.png"
+    }
+  ]
+}

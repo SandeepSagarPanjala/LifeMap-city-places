@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "eg/red-sea/hurghada",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "stateCode": "BA",
+  "stateName": "Red Sea",
+  "cityName": "Hurghada",
+  "bbox": {
+    "minLat": 27.22,
+    "minLng": 33.8,
+    "maxLat": 27.28,
+    "maxLng": 33.85
+  },
+  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hurghada-marina",
+      "name": "Hurghada Marina",
+      "lat": 27.2565,
+      "lng": 33.8125,
+      "radiusM": 200,
+      "address": "Hurghada",
+      "howTo": "Visit Hurghada Marina.",
+      "badge": "badges/hurghada-marina.png"
+    },
+    {
+      "id": "giftun-island",
+      "name": "Giftun Island",
+      "lat": 27.2275,
+      "lng": 33.9455,
+      "radiusM": 300,
+      "address": "Red Sea",
+      "howTo": "Visit Giftun Island.",
+      "badge": "badges/giftun-island.png"
+    }
+  ]
+}

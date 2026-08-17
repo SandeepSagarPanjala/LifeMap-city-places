@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "eg/cairo/cairo",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "stateCode": "C",
+  "stateName": "Cairo",
+  "cityName": "Cairo",
+  "bbox": {
+    "minLat": 29.95,
+    "minLng": 31.2,
+    "maxLat": 30.05,
+    "maxLng": 31.3
+  },
+  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pyramids-of-giza",
+      "name": "Pyramids of Giza",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "radiusM": 300,
+      "address": "Giza Plateau",
+      "howTo": "Visit Pyramids of Giza.",
+      "badge": "badges/pyramids-of-giza.png"
+    },
+    {
+      "id": "great-sphinx",
+      "name": "Great Sphinx of Giza",
+      "lat": 29.9753,
+      "lng": 31.1376,
+      "radiusM": 120,
+      "address": "Giza",
+      "howTo": "Visit Great Sphinx of Giza.",
+      "badge": "badges/great-sphinx.png"
+    },
+    {
+      "id": "egyptian-museum-cairo",
+      "name": "Egyptian Museum",
+      "lat": 30.0478,
+      "lng": 31.2336,
+      "radiusM": 120,
+      "address": "Tahrir Square",
+      "howTo": "Visit Egyptian Museum.",
+      "badge": "badges/egyptian-museum-cairo.png"
+    },
+    {
+      "id": "khan-el-khalili",
+      "name": "Khan el-Khalili",
+      "lat": 30.0477,
+      "lng": 31.2625,
+      "radiusM": 200,
+      "address": "Islamic Cairo",
+      "howTo": "Visit Khan el-Khalili.",
+      "badge": "badges/khan-el-khalili.png"
+    },
+    {
+      "id": "citadel-of-cairo",
+      "name": "Citadel of Cairo",
+      "lat": 30.0293,
+      "lng": 31.2599,
+      "radiusM": 200,
+      "address": "Saladin Citadel",
+      "howTo": "Visit Citadel of Cairo.",
+      "badge": "badges/citadel-of-cairo.png"
+    }
+  ]
+}

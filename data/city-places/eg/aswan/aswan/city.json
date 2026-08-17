@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "eg/aswan/aswan",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "stateCode": "ASN",
+  "stateName": "Aswan",
+  "cityName": "Aswan",
+  "bbox": {
+    "minLat": 24.08,
+    "minLng": 32.88,
+    "maxLat": 24.1,
+    "maxLng": 32.91
+  },
+  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "philae-temple",
+      "name": "Philae Temple",
+      "lat": 24.025,
+      "lng": 32.884,
+      "radiusM": 150,
+      "address": "Agilkia Island",
+      "howTo": "Visit Philae Temple.",
+      "badge": "badges/philae-temple.png"
+    },
+    {
+      "id": "abu-simbel",
+      "name": "Abu Simbel",
+      "lat": 22.3372,
+      "lng": 31.6258,
+      "radiusM": 200,
+      "address": "Abu Simbel",
+      "howTo": "Visit Abu Simbel.",
+      "badge": "badges/abu-simbel.png"
+    },
+    {
+      "id": "aswan-high-dam",
+      "name": "Aswan High Dam",
+      "lat": 23.9708,
+      "lng": 32.8775,
+      "radiusM": 250,
+      "address": "Aswan",
+      "howTo": "Visit Aswan High Dam.",
+      "badge": "badges/aswan-high-dam.png"
+    }
+  ]
+}

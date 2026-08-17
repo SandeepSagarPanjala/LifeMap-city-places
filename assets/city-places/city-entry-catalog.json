@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:17:22.511Z",
+  "generatedAt": "2026-08-17T23:22:02.117Z",
   "cellDeg": 0.5,
-  "cityCount": 564,
+  "cityCount": 569,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -659,6 +659,51 @@
         "minLng": 10.68,
         "maxLat": 53.87,
         "maxLng": 10.69
+      }
+    },
+    "eg/aswan/aswan": {
+      "name": "Aswan",
+      "bbox": {
+        "minLat": 24.08,
+        "minLng": 32.88,
+        "maxLat": 24.1,
+        "maxLng": 32.91
+      }
+    },
+    "eg/cairo/cairo": {
+      "name": "Cairo",
+      "bbox": {
+        "minLat": 29.95,
+        "minLng": 31.2,
+        "maxLat": 30.05,
+        "maxLng": 31.3
+      }
+    },
+    "eg/luxor/luxor": {
+      "name": "Luxor",
+      "bbox": {
+        "minLat": 25.68,
+        "minLng": 32.62,
+        "maxLat": 25.72,
+        "maxLng": 32.66
+      }
+    },
+    "eg/red-sea/hurghada": {
+      "name": "Hurghada",
+      "bbox": {
+        "minLat": 27.22,
+        "minLng": 33.8,
+        "maxLat": 27.28,
+        "maxLng": 33.85
+      }
+    },
+    "eg/red-sea/sharm-el-sheikh": {
+      "name": "Sharm el-Sheikh",
+      "bbox": {
+        "minLat": 27.85,
+        "minLng": 34.28,
+        "maxLat": 27.92,
+        "maxLng": 34.35
       }
     },
     "es/andalucia/cordoba": {
@@ -7290,6 +7335,24 @@
     ],
     "75,45": [
       "gr/peloponnese/nafplio"
+    ],
+    "59,62": [
+      "eg/cairo/cairo"
+    ],
+    "60,62": [
+      "eg/cairo/cairo"
+    ],
+    "51,65": [
+      "eg/luxor/luxor"
+    ],
+    "48,65": [
+      "eg/aswan/aswan"
+    ],
+    "54,67": [
+      "eg/red-sea/hurghada"
+    ],
+    "55,68": [
+      "eg/red-sea/sharm-el-sheikh"
     ]
   }
 }

@@ -67,7 +67,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 21. `id` — Indonesia (**complete**)
 22. `tr` — Turkey (**complete**)
 23. `gr` — Greece (**complete**)
-24. `eg` — Egypt
+24. `eg` — Egypt (**complete**)
+25. `ma` — Morocco
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

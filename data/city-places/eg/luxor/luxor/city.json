@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "eg/luxor/luxor",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "stateCode": "LX",
+  "stateName": "Luxor",
+  "cityName": "Luxor",
+  "bbox": {
+    "minLat": 25.68,
+    "minLng": 32.62,
+    "maxLat": 25.72,
+    "maxLng": 32.66
+  },
+  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "karnak-temple",
+      "name": "Karnak Temple",
+      "lat": 25.7188,
+      "lng": 32.6573,
+      "radiusM": 250,
+      "address": "Karnak",
+      "howTo": "Visit Karnak Temple.",
+      "badge": "badges/karnak-temple.png"
+    },
+    {
+      "id": "luxor-temple",
+      "name": "Luxor Temple",
+      "lat": 25.6996,
+      "lng": 32.639,
+      "radiusM": 150,
+      "address": "Luxor",
+      "howTo": "Visit Luxor Temple.",
+      "badge": "badges/luxor-temple.png"
+    },
+    {
+      "id": "valley-of-the-kings",
+      "name": "Valley of the Kings",
+      "lat": 25.7402,
+      "lng": 32.6014,
+      "radiusM": 300,
+      "address": "West Bank",
+      "howTo": "Visit Valley of the Kings.",
+      "badge": "badges/valley-of-the-kings.png"
+    },
+    {
+      "id": "hatshepsut-temple",
+      "name": "Mortuary Temple of Hatshepsut",
+      "lat": 25.7378,
+      "lng": 32.6065,
+      "radiusM": 150,
+      "address": "Deir el-Bahari",
+      "howTo": "Visit Mortuary Temple of Hatshepsut.",
+      "badge": "badges/hatshepsut-temple.png"
+    }
+  ]
+}
