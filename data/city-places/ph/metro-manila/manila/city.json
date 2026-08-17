@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/metro-manila/manila",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "NCR",
+  "stateName": "Metro Manila",
+  "cityName": "Manila",
+  "bbox": {
+    "minLat": 14.56,
+    "minLng": 120.96,
+    "maxLat": 14.6,
+    "maxLng": 121.0
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "intramuros",
+      "name": "Intramuros",
+      "lat": 14.5906,
+      "lng": 120.975,
+      "radiusM": 250,
+      "address": "Intramuros",
+      "howTo": "Visit Intramuros.",
+      "badge": "badges/intramuros.png"
+    },
+    {
+      "id": "rizal-park",
+      "name": "Rizal Park",
+      "lat": 14.582,
+      "lng": 120.978,
+      "radiusM": 200,
+      "address": "Ermita",
+      "howTo": "Visit Rizal Park.",
+      "badge": "badges/rizal-park.png"
+    },
+    {
+      "id": "manila-cathedral",
+      "name": "Manila Cathedral",
+      "lat": 14.5917,
+      "lng": 120.9733,
+      "radiusM": 100,
+      "address": "Intramuros",
+      "howTo": "Visit Manila Cathedral.",
+      "badge": "badges/manila-cathedral.png"
+    },
+    {
+      "id": "fort-santiago",
+      "name": "Fort Santiago",
+      "lat": 14.5947,
+      "lng": 120.9694,
+      "radiusM": 150,
+      "address": "Intramuros",
+      "howTo": "Visit Fort Santiago.",
+      "badge": "badges/fort-santiago.png"
+    }
+  ]
+}

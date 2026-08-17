@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/bohol/panglao",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "BOH",
+  "stateName": "Bohol",
+  "cityName": "Panglao",
+  "bbox": {
+    "minLat": 9.55,
+    "minLng": 123.75,
+    "maxLat": 9.95,
+    "maxLng": 124.2
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chocolate-hills",
+      "name": "Chocolate Hills",
+      "lat": 9.9167,
+      "lng": 124.1667,
+      "radiusM": 400,
+      "address": "Carmen",
+      "howTo": "Visit Chocolate Hills.",
+      "badge": "badges/chocolate-hills.png"
+    },
+    {
+      "id": "tarsier-sanctuary-bohol",
+      "name": "Philippine Tarsier Sanctuary",
+      "lat": 9.76,
+      "lng": 124.13,
+      "radiusM": 150,
+      "address": "Corella",
+      "howTo": "Visit Philippine Tarsier Sanctuary.",
+      "badge": "badges/tarsier-sanctuary-bohol.png"
+    }
+  ]
+}

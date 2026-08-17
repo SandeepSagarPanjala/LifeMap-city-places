@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/aklan/boracay",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "AKL",
+  "stateName": "Aklan",
+  "cityName": "Boracay",
+  "bbox": {
+    "minLat": 11.95,
+    "minLng": 121.91,
+    "maxLat": 11.98,
+    "maxLng": 121.95
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "white-beach-boracay",
+      "name": "White Beach",
+      "lat": 11.959,
+      "lng": 121.924,
+      "radiusM": 300,
+      "address": "Station 2",
+      "howTo": "Visit White Beach.",
+      "badge": "badges/white-beach-boracay.png"
+    },
+    {
+      "id": "puka-beach",
+      "name": "Puka Beach",
+      "lat": 11.985,
+      "lng": 121.915,
+      "radiusM": 250,
+      "address": "Yapak",
+      "howTo": "Visit Puka Beach.",
+      "badge": "badges/puka-beach.png"
+    }
+  ]
+}

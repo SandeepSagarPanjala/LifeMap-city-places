@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/ilocos/vigan",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "ILS",
+  "stateName": "Ilocos Sur",
+  "cityName": "Vigan",
+  "bbox": {
+    "minLat": 17.56,
+    "minLng": 120.37,
+    "maxLat": 17.58,
+    "maxLng": 120.4
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "calle-crisologo",
+      "name": "Calle Crisologo",
+      "lat": 17.574,
+      "lng": 120.388,
+      "radiusM": 200,
+      "address": "Historic Vigan",
+      "howTo": "Visit Calle Crisologo.",
+      "badge": "badges/calle-crisologo.png"
+    },
+    {
+      "id": "vigan-cathedral",
+      "name": "Vigan Cathedral",
+      "lat": 17.5747,
+      "lng": 120.3867,
+      "radiusM": 100,
+      "address": "Plaza Salcedo",
+      "howTo": "Visit Vigan Cathedral.",
+      "badge": "badges/vigan-cathedral.png"
+    }
+  ]
+}

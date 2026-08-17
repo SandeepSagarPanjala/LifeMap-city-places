@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/davao/davao-city",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "DAV",
+  "stateName": "Davao del Sur",
+  "cityName": "Davao City",
+  "bbox": {
+    "minLat": 7.05,
+    "minLng": 125.58,
+    "maxLat": 7.1,
+    "maxLng": 125.65
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "philippine-eagle-center",
+      "name": "Philippine Eagle Center",
+      "lat": 7.158,
+      "lng": 125.38,
+      "radiusM": 200,
+      "address": "Malagos",
+      "howTo": "Visit Philippine Eagle Center.",
+      "badge": "badges/philippine-eagle-center.png"
+    },
+    {
+      "id": "eden-nature-park",
+      "name": "Eden Nature Park",
+      "lat": 7.02,
+      "lng": 125.32,
+      "radiusM": 300,
+      "address": "Eden",
+      "howTo": "Visit Eden Nature Park.",
+      "badge": "badges/eden-nature-park.png"
+    }
+  ]
+}

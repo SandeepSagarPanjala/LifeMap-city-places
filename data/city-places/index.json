@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:45:00.000Z",
-  "notes": "Queue through Vietnam complete. Next: Philippines (ph) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "notes": "Queue through Philippines complete. Next: Malaysia (my) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10386,6 +10386,195 @@
                 "minLng": 109.17,
                 "maxLat": 12.26,
                 "maxLng": 109.21
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ph",
+      "countryCode": "PH",
+      "name": "Philippines",
+      "states": [
+        {
+          "id": "metro-manila",
+          "stateCode": "NCR",
+          "name": "Metro Manila",
+          "cities": [
+            {
+              "id": "manila",
+              "name": "Manila",
+              "status": "complete",
+              "packPath": "ph/metro-manila/manila/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 14.56,
+                "minLng": 120.96,
+                "maxLat": 14.6,
+                "maxLng": 121.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "benguet",
+          "stateCode": "BEN",
+          "name": "Benguet",
+          "cities": [
+            {
+              "id": "baguio",
+              "name": "Baguio",
+              "status": "complete",
+              "packPath": "ph/benguet/baguio/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 16.4,
+                "minLng": 120.58,
+                "maxLat": 16.43,
+                "maxLng": 120.62
+              }
+            }
+          ]
+        },
+        {
+          "id": "ilocos",
+          "stateCode": "ILS",
+          "name": "Ilocos Sur",
+          "cities": [
+            {
+              "id": "vigan",
+              "name": "Vigan",
+              "status": "complete",
+              "packPath": "ph/ilocos/vigan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 17.56,
+                "minLng": 120.37,
+                "maxLat": 17.58,
+                "maxLng": 120.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "cebu",
+          "stateCode": "CEB",
+          "name": "Cebu",
+          "cities": [
+            {
+              "id": "cebu-city",
+              "name": "Cebu City",
+              "status": "complete",
+              "packPath": "ph/cebu/cebu-city/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 10.28,
+                "minLng": 123.88,
+                "maxLat": 10.32,
+                "maxLng": 123.91
+              }
+            }
+          ]
+        },
+        {
+          "id": "bohol",
+          "stateCode": "BOH",
+          "name": "Bohol",
+          "cities": [
+            {
+              "id": "panglao",
+              "name": "Panglao",
+              "status": "complete",
+              "packPath": "ph/bohol/panglao/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 9.55,
+                "minLng": 123.75,
+                "maxLat": 9.95,
+                "maxLng": 124.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "aklan",
+          "stateCode": "AKL",
+          "name": "Aklan",
+          "cities": [
+            {
+              "id": "boracay",
+              "name": "Boracay",
+              "status": "complete",
+              "packPath": "ph/aklan/boracay/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 11.95,
+                "minLng": 121.91,
+                "maxLat": 11.98,
+                "maxLng": 121.95
+              }
+            }
+          ]
+        },
+        {
+          "id": "palawan",
+          "stateCode": "PLW",
+          "name": "Palawan",
+          "cities": [
+            {
+              "id": "puerto-princesa",
+              "name": "Puerto Princesa",
+              "status": "complete",
+              "packPath": "ph/palawan/puerto-princesa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 9.72,
+                "minLng": 118.72,
+                "maxLat": 9.76,
+                "maxLng": 118.77
+              }
+            },
+            {
+              "id": "el-nido",
+              "name": "El Nido",
+              "status": "complete",
+              "packPath": "ph/palawan/el-nido/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 11.17,
+                "minLng": 119.38,
+                "maxLat": 11.2,
+                "maxLng": 119.42
+              }
+            }
+          ]
+        },
+        {
+          "id": "davao",
+          "stateCode": "DAV",
+          "name": "Davao del Sur",
+          "cities": [
+            {
+              "id": "davao-city",
+              "name": "Davao City",
+              "status": "complete",
+              "packPath": "ph/davao/davao-city/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:00:00.000Z",
+              "bbox": {
+                "minLat": 7.05,
+                "minLng": 125.58,
+                "maxLat": 7.1,
+                "maxLng": 125.65
               }
             }
           ]

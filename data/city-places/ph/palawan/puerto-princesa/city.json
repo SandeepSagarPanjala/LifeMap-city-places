@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/palawan/puerto-princesa",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "PLW",
+  "stateName": "Palawan",
+  "cityName": "Puerto Princesa",
+  "bbox": {
+    "minLat": 9.72,
+    "minLng": 118.72,
+    "maxLat": 9.76,
+    "maxLng": 118.77
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "underground-river",
+      "name": "Puerto Princesa Underground River",
+      "lat": 10.167,
+      "lng": 118.922,
+      "radiusM": 200,
+      "address": "Sabang",
+      "howTo": "Visit Puerto Princesa Underground River.",
+      "badge": "badges/underground-river.png"
+    },
+    {
+      "id": "honda-bay",
+      "name": "Honda Bay",
+      "lat": 9.82,
+      "lng": 118.76,
+      "radiusM": 300,
+      "address": "Honda Bay",
+      "howTo": "Visit Honda Bay.",
+      "badge": "badges/honda-bay.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/palawan/el-nido",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "PLW",
+  "stateName": "Palawan",
+  "cityName": "El Nido",
+  "bbox": {
+    "minLat": 11.17,
+    "minLng": 119.38,
+    "maxLat": 11.2,
+    "maxLng": 119.42
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "big-lagoon-el-nido",
+      "name": "Big Lagoon",
+      "lat": 11.2,
+      "lng": 119.4,
+      "radiusM": 250,
+      "address": "Miniloc Island",
+      "howTo": "Visit Big Lagoon.",
+      "badge": "badges/big-lagoon-el-nido.png"
+    },
+    {
+      "id": "seven-commandos-beach",
+      "name": "Seven Commandos Beach",
+      "lat": 11.21,
+      "lng": 119.39,
+      "radiusM": 250,
+      "address": "El Nido",
+      "howTo": "Visit Seven Commandos Beach.",
+      "badge": "badges/seven-commandos-beach.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/cebu/cebu-city",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "CEB",
+  "stateName": "Cebu",
+  "cityName": "Cebu City",
+  "bbox": {
+    "minLat": 10.28,
+    "minLng": 123.88,
+    "maxLat": 10.32,
+    "maxLng": 123.91
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "magellans-cross",
+      "name": "Magellan's Cross",
+      "lat": 10.293,
+      "lng": 123.902,
+      "radiusM": 80,
+      "address": "Basilica del Santo Ni\u00f1o",
+      "howTo": "Visit Magellan's Cross.",
+      "badge": "badges/magellans-cross.png"
+    },
+    {
+      "id": "basilica-santo-nino",
+      "name": "Basilica del Santo Ni\u00f1o",
+      "lat": 10.2945,
+      "lng": 123.907,
+      "radiusM": 100,
+      "address": "Cebu City",
+      "howTo": "Visit Basilica del Santo Ni\u00f1o.",
+      "badge": "badges/basilica-santo-nino.png"
+    },
+    {
+      "id": "taoist-temple-cebu",
+      "name": "Cebu Taoist Temple",
+      "lat": 10.333,
+      "lng": 123.894,
+      "radiusM": 120,
+      "address": "Beverly Hills",
+      "howTo": "Visit Cebu Taoist Temple.",
+      "badge": "badges/taoist-temple-cebu.png"
+    },
+    {
+      "id": "mactan-shrine",
+      "name": "Mactan Shrine",
+      "lat": 10.31,
+      "lng": 124.013,
+      "radiusM": 150,
+      "address": "Lapu-Lapu City",
+      "howTo": "Visit Mactan Shrine.",
+      "badge": "badges/mactan-shrine.png"
+    }
+  ]
+}

@@ -70,7 +70,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 24. `eg` — Egypt (**complete**)
 25. `ma` — Morocco (**complete**)
 26. `vn` — Vietnam (**complete**)
-27. `ph` — Philippines
+27. `ph` — Philippines (**complete**)
+28. `my` — Malaysia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

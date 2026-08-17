@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:37:20.456Z",
+  "generatedAt": "2026-08-17T23:42:46.509Z",
   "cellDeg": 0.5,
-  "cityCount": 585,
+  "cityCount": 594,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3341,6 +3341,87 @@
         "minLng": 170.18,
         "maxLat": -43.38,
         "maxLng": 170.2
+      }
+    },
+    "ph/aklan/boracay": {
+      "name": "Boracay",
+      "bbox": {
+        "minLat": 11.95,
+        "minLng": 121.91,
+        "maxLat": 11.98,
+        "maxLng": 121.95
+      }
+    },
+    "ph/benguet/baguio": {
+      "name": "Baguio",
+      "bbox": {
+        "minLat": 16.4,
+        "minLng": 120.58,
+        "maxLat": 16.43,
+        "maxLng": 120.62
+      }
+    },
+    "ph/bohol/panglao": {
+      "name": "Panglao",
+      "bbox": {
+        "minLat": 9.55,
+        "minLng": 123.75,
+        "maxLat": 9.95,
+        "maxLng": 124.2
+      }
+    },
+    "ph/cebu/cebu-city": {
+      "name": "Cebu City",
+      "bbox": {
+        "minLat": 10.28,
+        "minLng": 123.88,
+        "maxLat": 10.32,
+        "maxLng": 123.91
+      }
+    },
+    "ph/davao/davao-city": {
+      "name": "Davao City",
+      "bbox": {
+        "minLat": 7.05,
+        "minLng": 125.58,
+        "maxLat": 7.1,
+        "maxLng": 125.65
+      }
+    },
+    "ph/ilocos/vigan": {
+      "name": "Vigan",
+      "bbox": {
+        "minLat": 17.56,
+        "minLng": 120.37,
+        "maxLat": 17.58,
+        "maxLng": 120.4
+      }
+    },
+    "ph/metro-manila/manila": {
+      "name": "Manila",
+      "bbox": {
+        "minLat": 14.56,
+        "minLng": 120.96,
+        "maxLat": 14.6,
+        "maxLng": 121
+      }
+    },
+    "ph/palawan/el-nido": {
+      "name": "El Nido",
+      "bbox": {
+        "minLat": 11.17,
+        "minLng": 119.38,
+        "maxLat": 11.2,
+        "maxLng": 119.42
+      }
+    },
+    "ph/palawan/puerto-princesa": {
+      "name": "Puerto Princesa",
+      "bbox": {
+        "minLat": 9.72,
+        "minLng": 118.72,
+        "maxLat": 9.76,
+        "maxLng": 118.77
       }
     },
     "pt/acores/ponta-delgada": {
@@ -7557,6 +7638,39 @@
     ],
     "24,218": [
       "vn/khanh-hoa/nha-trang"
+    ],
+    "29,241": [
+      "ph/metro-manila/manila"
+    ],
+    "29,242": [
+      "ph/metro-manila/manila"
+    ],
+    "32,241": [
+      "ph/benguet/baguio"
+    ],
+    "35,240": [
+      "ph/ilocos/vigan"
+    ],
+    "20,247": [
+      "ph/cebu/cebu-city"
+    ],
+    "19,247": [
+      "ph/bohol/panglao"
+    ],
+    "19,248": [
+      "ph/bohol/panglao"
+    ],
+    "23,243": [
+      "ph/aklan/boracay"
+    ],
+    "19,237": [
+      "ph/palawan/puerto-princesa"
+    ],
+    "22,238": [
+      "ph/palawan/el-nido"
+    ],
+    "14,251": [
+      "ph/davao/davao-city"
     ]
   }
 }

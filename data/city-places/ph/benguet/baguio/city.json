@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ph/benguet/baguio",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "stateCode": "BEN",
+  "stateName": "Benguet",
+  "cityName": "Baguio",
+  "bbox": {
+    "minLat": 16.4,
+    "minLng": 120.58,
+    "maxLat": 16.43,
+    "maxLng": 120.62
+  },
+  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "burnham-park",
+      "name": "Burnham Park",
+      "lat": 16.412,
+      "lng": 120.593,
+      "radiusM": 200,
+      "address": "Burnham Park",
+      "howTo": "Visit Burnham Park.",
+      "badge": "badges/burnham-park.png"
+    },
+    {
+      "id": "mines-view-park",
+      "name": "Mines View Park",
+      "lat": 16.422,
+      "lng": 120.625,
+      "radiusM": 200,
+      "address": "Mines View",
+      "howTo": "Visit Mines View Park.",
+      "badge": "badges/mines-view-park.png"
+    }
+  ]
+}
