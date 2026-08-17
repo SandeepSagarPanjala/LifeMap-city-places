@@ -61,7 +61,7 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 15. `ch` — Switzerland (**complete**)
 16. `nz` — New Zealand (**complete**)
 17. `sg` — Singapore (**complete**)
-18. `ae` — United Arab Emirates
+18. `ae` — United Arab Emirates (**complete**)
 19. `br` — Brazil
 20. `mx` — Mexico
 

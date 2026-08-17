@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ae/sharjah/sharjah",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "stateCode": "SH",
+  "stateName": "Sharjah",
+  "cityName": "Sharjah",
+  "bbox": {
+    "minLat": 25.33,
+    "minLng": 55.37,
+    "maxLat": 25.38,
+    "maxLng": 55.42
+  },
+  "updatedAt": "2026-08-17T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "islamic-civilization-museum",
+      "name": "Sharjah Museum of Islamic Civilization",
+      "lat": 25.3525,
+      "lng": 55.3885,
+      "radiusM": 100,
+      "address": "Corniche, Sharjah",
+      "howTo": "Visit Sharjah Museum of Islamic Civilization.",
+      "badge": "badges/islamic-civilization-museum.png"
+    },
+    {
+      "id": "al-noor-island",
+      "name": "Al Noor Island",
+      "lat": 25.3315,
+      "lng": 55.3855,
+      "radiusM": 150,
+      "address": "Khalid Lagoon",
+      "howTo": "Visit Al Noor Island.",
+      "badge": "badges/al-noor-island.png"
+    },
+    {
+      "id": "heart-of-sharjah",
+      "name": "Heart of Sharjah",
+      "lat": 25.3575,
+      "lng": 55.387,
+      "radiusM": 200,
+      "address": "Heritage Area",
+      "howTo": "Visit Heart of Sharjah.",
+      "badge": "badges/heart-of-sharjah.png"
+    }
+  ]
+}

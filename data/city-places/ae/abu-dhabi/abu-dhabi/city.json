@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ae/abu-dhabi/abu-dhabi",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "stateCode": "AZ",
+  "stateName": "Abu Dhabi",
+  "cityName": "Abu Dhabi",
+  "bbox": {
+    "minLat": 24.41,
+    "minLng": 54.3,
+    "maxLat": 24.54,
+    "maxLng": 54.5
+  },
+  "updatedAt": "2026-08-17T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sheikh-zayed-grand-mosque",
+      "name": "Sheikh Zayed Grand Mosque",
+      "lat": 24.4128,
+      "lng": 54.475,
+      "radiusM": 200,
+      "address": "Sheikh Zayed Grand Mosque",
+      "howTo": "Visit Sheikh Zayed Grand Mosque.",
+      "badge": "badges/sheikh-zayed-grand-mosque.png"
+    },
+    {
+      "id": "louvre-abu-dhabi",
+      "name": "Louvre Abu Dhabi",
+      "lat": 24.5336,
+      "lng": 54.3984,
+      "radiusM": 150,
+      "address": "Saadiyat Island",
+      "howTo": "Visit Louvre Abu Dhabi.",
+      "badge": "badges/louvre-abu-dhabi.png"
+    },
+    {
+      "id": "qasr-al-hosn",
+      "name": "Qasr Al Hosn",
+      "lat": 24.4824,
+      "lng": 54.3546,
+      "radiusM": 100,
+      "address": "Qasr Al Hosn",
+      "howTo": "Visit Qasr Al Hosn.",
+      "badge": "badges/qasr-al-hosn.png"
+    },
+    {
+      "id": "abu-dhabi-corniche",
+      "name": "Abu Dhabi Corniche",
+      "lat": 24.4764,
+      "lng": 54.337,
+      "radiusM": 250,
+      "address": "Corniche Beach",
+      "howTo": "Visit Abu Dhabi Corniche.",
+      "badge": "badges/abu-dhabi-corniche.png"
+    },
+    {
+      "id": "wahat-al-karama",
+      "name": "Wahat Al Karama",
+      "lat": 24.4065,
+      "lng": 54.4735,
+      "radiusM": 120,
+      "address": "Wahat Al Karama memorial",
+      "howTo": "Visit Wahat Al Karama.",
+      "badge": "badges/wahat-al-karama.png"
+    }
+  ]
+}

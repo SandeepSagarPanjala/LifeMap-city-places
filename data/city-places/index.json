@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-17T21:10:00.000Z",
-  "notes": "Queue through Singapore complete. Next: UAE (ae) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-17T21:20:00.000Z",
+  "notes": "Queue through UAE complete. Next: Brazil (br) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8867,6 +8867,76 @@
                 "minLng": 103.82,
                 "maxLat": 1.32,
                 "maxLng": 103.9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae",
+      "countryCode": "AE",
+      "name": "United Arab Emirates",
+      "states": [
+        {
+          "id": "dubai",
+          "stateCode": "DU",
+          "name": "Dubai",
+          "cities": [
+            {
+              "id": "dubai",
+              "name": "Dubai",
+              "status": "complete",
+              "packPath": "ae/dubai/dubai/city.json",
+              "placeCount": 7,
+              "completedAt": "2026-08-17T21:30:00.000Z",
+              "bbox": {
+                "minLat": 25.05,
+                "minLng": 55.12,
+                "maxLat": 25.28,
+                "maxLng": 55.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "abu-dhabi",
+          "stateCode": "AZ",
+          "name": "Abu Dhabi",
+          "cities": [
+            {
+              "id": "abu-dhabi",
+              "name": "Abu Dhabi",
+              "status": "complete",
+              "packPath": "ae/abu-dhabi/abu-dhabi/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-17T21:30:00.000Z",
+              "bbox": {
+                "minLat": 24.41,
+                "minLng": 54.3,
+                "maxLat": 24.54,
+                "maxLng": 54.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "sharjah",
+          "stateCode": "SH",
+          "name": "Sharjah",
+          "cities": [
+            {
+              "id": "sharjah",
+              "name": "Sharjah",
+              "status": "complete",
+              "packPath": "ae/sharjah/sharjah/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:30:00.000Z",
+              "bbox": {
+                "minLat": 25.33,
+                "minLng": 55.37,
+                "maxLat": 25.38,
+                "maxLng": 55.42
               }
             }
           ]

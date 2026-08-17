@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "ae/dubai/dubai",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "stateCode": "DU",
+  "stateName": "Dubai",
+  "cityName": "Dubai",
+  "bbox": {
+    "minLat": 25.05,
+    "minLng": 55.12,
+    "maxLat": 25.28,
+    "maxLng": 55.35
+  },
+  "updatedAt": "2026-08-17T21:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "burj-khalifa",
+      "name": "Burj Khalifa",
+      "lat": 25.1972,
+      "lng": 55.2744,
+      "radiusM": 120,
+      "address": "Downtown Dubai",
+      "howTo": "Visit Burj Khalifa.",
+      "badge": "badges/burj-khalifa.png"
+    },
+    {
+      "id": "dubai-fountain",
+      "name": "Dubai Fountain",
+      "lat": 25.1952,
+      "lng": 55.275,
+      "radiusM": 150,
+      "address": "Burj Lake",
+      "howTo": "Visit Dubai Fountain.",
+      "badge": "badges/dubai-fountain.png"
+    },
+    {
+      "id": "al-fahidi",
+      "name": "Al Fahidi Historic District",
+      "lat": 25.2635,
+      "lng": 55.2972,
+      "radiusM": 200,
+      "address": "Al Fahidi / Bastakiya",
+      "howTo": "Visit Al Fahidi Historic District.",
+      "badge": "badges/al-fahidi.png"
+    },
+    {
+      "id": "jumeirah-mosque",
+      "name": "Jumeirah Mosque",
+      "lat": 25.2336,
+      "lng": 55.2595,
+      "radiusM": 80,
+      "address": "Jumeirah",
+      "howTo": "Visit Jumeirah Mosque.",
+      "badge": "badges/jumeirah-mosque.png"
+    },
+    {
+      "id": "dubai-frame",
+      "name": "Dubai Frame",
+      "lat": 25.2355,
+      "lng": 55.3003,
+      "radiusM": 100,
+      "address": "Zabeel Park",
+      "howTo": "Visit Dubai Frame.",
+      "badge": "badges/dubai-frame.png"
+    },
+    {
+      "id": "dubai-creek",
+      "name": "Dubai Creek",
+      "lat": 25.261,
+      "lng": 55.2978,
+      "radiusM": 200,
+      "address": "Dubai Creek abra crossing",
+      "howTo": "Visit Dubai Creek.",
+      "badge": "badges/dubai-creek.png"
+    },
+    {
+      "id": "palm-jumeirah-view",
+      "name": "Palm Jumeirah View",
+      "lat": 25.1124,
+      "lng": 55.139,
+      "radiusM": 250,
+      "address": "Palm Jumeirah viewpoint",
+      "howTo": "Visit Palm Jumeirah View.",
+      "badge": "badges/palm-jumeirah-view.png"
+    }
+  ]
+}
