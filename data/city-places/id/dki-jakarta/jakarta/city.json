@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "id/dki-jakarta/jakarta",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "JK",
+  "stateName": "DKI Jakarta",
+  "cityName": "Jakarta",
+  "bbox": {
+    "minLat": -6.25,
+    "minLng": 106.78,
+    "maxLat": -6.15,
+    "maxLng": 106.88
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "national-monument-jakarta",
+      "name": "National Monument",
+      "lat": -6.1754,
+      "lng": 106.8272,
+      "radiusM": 120,
+      "address": "Merdeka Square",
+      "howTo": "Visit National Monument.",
+      "badge": "badges/national-monument-jakarta.png"
+    },
+    {
+      "id": "istiqlal-mosque",
+      "name": "Istiqlal Mosque",
+      "lat": -6.1672,
+      "lng": 106.8318,
+      "radiusM": 100,
+      "address": "Central Jakarta",
+      "howTo": "Visit Istiqlal Mosque.",
+      "badge": "badges/istiqlal-mosque.png"
+    },
+    {
+      "id": "kota-tua-jakarta",
+      "name": "Kota Tua",
+      "lat": -6.1375,
+      "lng": 106.814,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Kota Tua.",
+      "badge": "badges/kota-tua-jakarta.png"
+    },
+    {
+      "id": "national-museum-jakarta",
+      "name": "National Museum of Indonesia",
+      "lat": -6.1768,
+      "lng": 106.8215,
+      "radiusM": 100,
+      "address": "Central Jakarta",
+      "howTo": "Visit National Museum of Indonesia.",
+      "badge": "badges/national-museum-jakarta.png"
+    }
+  ]
+}

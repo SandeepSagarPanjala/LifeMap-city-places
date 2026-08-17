@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/west-nusa-tenggara/lombok",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "NB",
+  "stateName": "West Nusa Tenggara",
+  "cityName": "Lombok",
+  "bbox": {
+    "minLat": -8.58,
+    "minLng": 116.04,
+    "maxLat": -8.52,
+    "maxLng": 116.12
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-rinjani-view",
+      "name": "Mount Rinjani View",
+      "lat": -8.4115,
+      "lng": 116.4575,
+      "radiusM": 300,
+      "address": "Senaru",
+      "howTo": "Visit Mount Rinjani View.",
+      "badge": "badges/mount-rinjani-view.png"
+    },
+    {
+      "id": "gili-trawangan",
+      "name": "Gili Trawangan",
+      "lat": -8.3495,
+      "lng": 116.0435,
+      "radiusM": 200,
+      "address": "Gili Islands",
+      "howTo": "Visit Gili Trawangan.",
+      "badge": "badges/gili-trawangan.png"
+    },
+    {
+      "id": "senggigi-beach",
+      "name": "Senggigi Beach",
+      "lat": -8.4855,
+      "lng": 116.0455,
+      "radiusM": 200,
+      "address": "Senggigi",
+      "howTo": "Visit Senggigi Beach.",
+      "badge": "badges/senggigi-beach.png"
+    }
+  ]
+}

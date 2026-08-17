@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/central-java/semarang",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "JT",
+  "stateName": "Central Java",
+  "cityName": "Semarang",
+  "bbox": {
+    "minLat": -6.98,
+    "minLng": 110.4,
+    "maxLat": -6.95,
+    "maxLng": 110.45
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lawang-sewu",
+      "name": "Lawang Sewu",
+      "lat": -6.9835,
+      "lng": 110.4105,
+      "radiusM": 100,
+      "address": "Semarang",
+      "howTo": "Visit Lawang Sewu.",
+      "badge": "badges/lawang-sewu.png"
+    },
+    {
+      "id": "sam-poo-kong",
+      "name": "Sam Poo Kong Temple",
+      "lat": -6.9785,
+      "lng": 110.4205,
+      "radiusM": 80,
+      "address": "Semarang",
+      "howTo": "Visit Sam Poo Kong Temple.",
+      "badge": "badges/sam-poo-kong.png"
+    },
+    {
+      "id": "brown-canyon",
+      "name": "Brown Canyon",
+      "lat": -6.9855,
+      "lng": 110.4555,
+      "radiusM": 200,
+      "address": "Semarang",
+      "howTo": "Visit Brown Canyon.",
+      "badge": "badges/brown-canyon.png"
+    }
+  ]
+}

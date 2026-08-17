@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T22:47:29.179Z",
+  "generatedAt": "2026-08-17T23:02:58.617Z",
   "cellDeg": 0.5,
-  "cityCount": 539,
+  "cityCount": 550,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1289,6 +1289,105 @@
         "minLng": -4.1,
         "maxLat": 53.12,
         "maxLng": -3.95
+      }
+    },
+    "id/bali/denpasar": {
+      "name": "Denpasar",
+      "bbox": {
+        "minLat": -8.7,
+        "minLng": 115.2,
+        "maxLat": -8.6,
+        "maxLng": 115.3
+      }
+    },
+    "id/bali/kuta": {
+      "name": "Kuta",
+      "bbox": {
+        "minLat": -8.75,
+        "minLng": 115.15,
+        "maxLat": -8.7,
+        "maxLng": 115.2
+      }
+    },
+    "id/bali/nusa-penida": {
+      "name": "Nusa Penida",
+      "bbox": {
+        "minLat": -8.75,
+        "minLng": 115.52,
+        "maxLat": -8.68,
+        "maxLng": 115.58
+      }
+    },
+    "id/central-java/semarang": {
+      "name": "Semarang",
+      "bbox": {
+        "minLat": -6.98,
+        "minLng": 110.4,
+        "maxLat": -6.95,
+        "maxLng": 110.45
+      }
+    },
+    "id/dki-jakarta/jakarta": {
+      "name": "Jakarta",
+      "bbox": {
+        "minLat": -6.25,
+        "minLng": 106.78,
+        "maxLat": -6.15,
+        "maxLng": 106.88
+      }
+    },
+    "id/east-java/surabaya": {
+      "name": "Surabaya",
+      "bbox": {
+        "minLat": -7.28,
+        "minLng": 112.7,
+        "maxLat": -7.22,
+        "maxLng": 112.78
+      }
+    },
+    "id/north-sulawesi/manado": {
+      "name": "Manado",
+      "bbox": {
+        "minLat": 1.46,
+        "minLng": 124.82,
+        "maxLat": 1.5,
+        "maxLng": 124.87
+      }
+    },
+    "id/riau-islands/batam": {
+      "name": "Batam",
+      "bbox": {
+        "minLat": 1.1,
+        "minLng": 104.02,
+        "maxLat": 1.15,
+        "maxLng": 104.08
+      }
+    },
+    "id/west-java/bandung": {
+      "name": "Bandung",
+      "bbox": {
+        "minLat": -6.95,
+        "minLng": 107.58,
+        "maxLat": -6.88,
+        "maxLng": 107.65
+      }
+    },
+    "id/west-nusa-tenggara/lombok": {
+      "name": "Lombok",
+      "bbox": {
+        "minLat": -8.58,
+        "minLng": 116.04,
+        "maxLat": -8.52,
+        "maxLng": 116.12
+      }
+    },
+    "id/yogyakarta/yogyakarta": {
+      "name": "Yogyakarta",
+      "bbox": {
+        "minLat": -7.82,
+        "minLng": 110.35,
+        "maxLat": -7.75,
+        "maxLng": 110.42
       }
     },
     "in/andaman-and-nicobar/port-blair": {
@@ -6974,6 +7073,40 @@
     ],
     "45,-220": [
       "mx/baja-california-sur/cabo-san-lucas"
+    ],
+    "-18,230": [
+      "id/bali/denpasar",
+      "id/bali/kuta"
+    ],
+    "-18,231": [
+      "id/bali/nusa-penida"
+    ],
+    "-13,213": [
+      "id/dki-jakarta/jakarta"
+    ],
+    "-16,220": [
+      "id/yogyakarta/yogyakarta"
+    ],
+    "-15,225": [
+      "id/east-java/surabaya"
+    ],
+    "-14,215": [
+      "id/west-java/bandung"
+    ],
+    "-14,220": [
+      "id/central-java/semarang"
+    ],
+    "2,249": [
+      "id/north-sulawesi/manado"
+    ],
+    "3,249": [
+      "id/north-sulawesi/manado"
+    ],
+    "-18,232": [
+      "id/west-nusa-tenggara/lombok"
+    ],
+    "2,208": [
+      "id/riau-islands/batam"
     ]
   }
 }

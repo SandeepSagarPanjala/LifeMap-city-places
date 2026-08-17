@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/riau-islands/batam",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "KR",
+  "stateName": "Riau Islands",
+  "cityName": "Batam",
+  "bbox": {
+    "minLat": 1.1,
+    "minLng": 104.02,
+    "maxLat": 1.15,
+    "maxLng": 104.08
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "barelang-bridge",
+      "name": "Barelang Bridge",
+      "lat": 0.9925,
+      "lng": 104.0625,
+      "radiusM": 200,
+      "address": "Batam",
+      "howTo": "Visit Barelang Bridge.",
+      "badge": "badges/barelang-bridge.png"
+    },
+    {
+      "id": "maha-vihara-duta-maitreya",
+      "name": "Maha Vihara Duta Maitreya",
+      "lat": 1.0455,
+      "lng": 104.0555,
+      "radiusM": 100,
+      "address": "Batam",
+      "howTo": "Visit Maha Vihara Duta Maitreya.",
+      "badge": "badges/maha-vihara-duta-maitreya.png"
+    },
+    {
+      "id": "nongsa-beach",
+      "name": "Nongsa Beach",
+      "lat": 1.1555,
+      "lng": 104.0955,
+      "radiusM": 200,
+      "address": "Batam",
+      "howTo": "Visit Nongsa Beach.",
+      "badge": "badges/nongsa-beach.png"
+    }
+  ]
+}

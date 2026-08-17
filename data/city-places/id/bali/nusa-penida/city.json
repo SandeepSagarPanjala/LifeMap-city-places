@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/bali/nusa-penida",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "BA",
+  "stateName": "Bali",
+  "cityName": "Nusa Penida",
+  "bbox": {
+    "minLat": -8.75,
+    "minLng": 115.52,
+    "maxLat": -8.68,
+    "maxLng": 115.58
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kelingking-beach",
+      "name": "Kelingking Beach",
+      "lat": -8.7485,
+      "lng": 115.4625,
+      "radiusM": 150,
+      "address": "Nusa Penida",
+      "howTo": "Visit Kelingking Beach.",
+      "badge": "badges/kelingking-beach.png"
+    },
+    {
+      "id": "angel-billabong",
+      "name": "Angel's Billabong",
+      "lat": -8.7275,
+      "lng": 115.4975,
+      "radiusM": 120,
+      "address": "Nusa Penida",
+      "howTo": "Visit Angel's Billabong.",
+      "badge": "badges/angel-billabong.png"
+    },
+    {
+      "id": "broken-beach",
+      "name": "Broken Beach",
+      "lat": -8.7245,
+      "lng": 115.4955,
+      "radiusM": 120,
+      "address": "Nusa Penida",
+      "howTo": "Visit Broken Beach.",
+      "badge": "badges/broken-beach.png"
+    }
+  ]
+}

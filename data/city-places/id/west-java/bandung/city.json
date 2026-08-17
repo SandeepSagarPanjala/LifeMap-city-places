@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/west-java/bandung",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "JB",
+  "stateName": "West Java",
+  "cityName": "Bandung",
+  "bbox": {
+    "minLat": -6.95,
+    "minLng": 107.58,
+    "maxLat": -6.88,
+    "maxLng": 107.65
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tangkuban-perahu",
+      "name": "Tangkuban Perahu",
+      "lat": -6.77,
+      "lng": 107.6015,
+      "radiusM": 250,
+      "address": "Lembang",
+      "howTo": "Visit Tangkuban Perahu.",
+      "badge": "badges/tangkuban-perahu.png"
+    },
+    {
+      "id": "gedung-sate",
+      "name": "Gedung Sate",
+      "lat": -6.9025,
+      "lng": 107.6189,
+      "radiusM": 100,
+      "address": "Bandung",
+      "howTo": "Visit Gedung Sate.",
+      "badge": "badges/gedung-sate.png"
+    },
+    {
+      "id": "braga-street",
+      "name": "Braga Street",
+      "lat": -6.9178,
+      "lng": 107.6095,
+      "radiusM": 150,
+      "address": "Bandung",
+      "howTo": "Visit Braga Street.",
+      "badge": "badges/braga-street.png"
+    }
+  ]
+}

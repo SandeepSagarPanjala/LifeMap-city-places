@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-17T23:00:00.000Z",
-  "notes": "Queue through Mexico complete. Next: Indonesia (id) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T00:00:00.000Z",
+  "notes": "Queue through Indonesia complete. Next: Turkey (tr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -9434,6 +9434,230 @@
                 "minLng": -109.92,
                 "maxLat": 22.9,
                 "maxLng": -109.88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "id",
+      "countryCode": "ID",
+      "name": "Indonesia",
+      "states": [
+        {
+          "id": "bali",
+          "stateCode": "BA",
+          "name": "Bali",
+          "cities": [
+            {
+              "id": "denpasar",
+              "name": "Denpasar",
+              "status": "complete",
+              "packPath": "id/bali/denpasar/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -8.7,
+                "minLng": 115.2,
+                "maxLat": -8.6,
+                "maxLng": 115.3
+              }
+            },
+            {
+              "id": "kuta",
+              "name": "Kuta",
+              "status": "complete",
+              "packPath": "id/bali/kuta/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -8.75,
+                "minLng": 115.15,
+                "maxLat": -8.7,
+                "maxLng": 115.2
+              }
+            },
+            {
+              "id": "nusa-penida",
+              "name": "Nusa Penida",
+              "status": "complete",
+              "packPath": "id/bali/nusa-penida/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -8.75,
+                "minLng": 115.52,
+                "maxLat": -8.68,
+                "maxLng": 115.58
+              }
+            }
+          ]
+        },
+        {
+          "id": "dki-jakarta",
+          "stateCode": "JK",
+          "name": "DKI Jakarta",
+          "cities": [
+            {
+              "id": "jakarta",
+              "name": "Jakarta",
+              "status": "complete",
+              "packPath": "id/dki-jakarta/jakarta/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -6.25,
+                "minLng": 106.78,
+                "maxLat": -6.15,
+                "maxLng": 106.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "yogyakarta",
+          "stateCode": "YO",
+          "name": "Yogyakarta",
+          "cities": [
+            {
+              "id": "yogyakarta",
+              "name": "Yogyakarta",
+              "status": "complete",
+              "packPath": "id/yogyakarta/yogyakarta/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -7.82,
+                "minLng": 110.35,
+                "maxLat": -7.75,
+                "maxLng": 110.42
+              }
+            }
+          ]
+        },
+        {
+          "id": "east-java",
+          "stateCode": "JI",
+          "name": "East Java",
+          "cities": [
+            {
+              "id": "surabaya",
+              "name": "Surabaya",
+              "status": "complete",
+              "packPath": "id/east-java/surabaya/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -7.28,
+                "minLng": 112.7,
+                "maxLat": -7.22,
+                "maxLng": 112.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "west-java",
+          "stateCode": "JB",
+          "name": "West Java",
+          "cities": [
+            {
+              "id": "bandung",
+              "name": "Bandung",
+              "status": "complete",
+              "packPath": "id/west-java/bandung/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -6.95,
+                "minLng": 107.58,
+                "maxLat": -6.88,
+                "maxLng": 107.65
+              }
+            }
+          ]
+        },
+        {
+          "id": "central-java",
+          "stateCode": "JT",
+          "name": "Central Java",
+          "cities": [
+            {
+              "id": "semarang",
+              "name": "Semarang",
+              "status": "complete",
+              "packPath": "id/central-java/semarang/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -6.98,
+                "minLng": 110.4,
+                "maxLat": -6.95,
+                "maxLng": 110.45
+              }
+            }
+          ]
+        },
+        {
+          "id": "north-sulawesi",
+          "stateCode": "SA",
+          "name": "North Sulawesi",
+          "cities": [
+            {
+              "id": "manado",
+              "name": "Manado",
+              "status": "complete",
+              "packPath": "id/north-sulawesi/manado/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": 1.46,
+                "minLng": 124.82,
+                "maxLat": 1.5,
+                "maxLng": 124.87
+              }
+            }
+          ]
+        },
+        {
+          "id": "west-nusa-tenggara",
+          "stateCode": "NB",
+          "name": "West Nusa Tenggara",
+          "cities": [
+            {
+              "id": "lombok",
+              "name": "Lombok",
+              "status": "complete",
+              "packPath": "id/west-nusa-tenggara/lombok/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": -8.58,
+                "minLng": 116.04,
+                "maxLat": -8.52,
+                "maxLng": 116.12
+              }
+            }
+          ]
+        },
+        {
+          "id": "riau-islands",
+          "stateCode": "KR",
+          "name": "Riau Islands",
+          "cities": [
+            {
+              "id": "batam",
+              "name": "Batam",
+              "status": "complete",
+              "packPath": "id/riau-islands/batam/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T23:45:00.000Z",
+              "bbox": {
+                "minLat": 1.1,
+                "minLng": 104.02,
+                "maxLat": 1.15,
+                "maxLng": 104.08
               }
             }
           ]

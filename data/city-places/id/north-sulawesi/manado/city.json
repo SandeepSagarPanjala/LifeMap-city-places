@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/north-sulawesi/manado",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "SA",
+  "stateName": "North Sulawesi",
+  "cityName": "Manado",
+  "bbox": {
+    "minLat": 1.46,
+    "minLng": 124.82,
+    "maxLat": 1.5,
+    "maxLng": 124.87
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bunaken-island",
+      "name": "Bunaken Island",
+      "lat": 1.6235,
+      "lng": 124.7635,
+      "radiusM": 300,
+      "address": "Bunaken National Park",
+      "howTo": "Visit Bunaken Island.",
+      "badge": "badges/bunaken-island.png"
+    },
+    {
+      "id": "christ-statue-manado",
+      "name": "Christ Blessing Statue",
+      "lat": 1.4375,
+      "lng": 124.8425,
+      "radiusM": 100,
+      "address": "Manado",
+      "howTo": "Visit Christ Blessing Statue.",
+      "badge": "badges/christ-statue-manado.png"
+    },
+    {
+      "id": "tangkoko-nature-reserve",
+      "name": "Tangkoko Nature Reserve",
+      "lat": 1.4555,
+      "lng": 125.1985,
+      "radiusM": 300,
+      "address": "Bitung",
+      "howTo": "Visit Tangkoko Nature Reserve.",
+      "badge": "badges/tangkoko-nature-reserve.png"
+    }
+  ]
+}

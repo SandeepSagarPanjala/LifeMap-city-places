@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/bali/kuta",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "BA",
+  "stateName": "Bali",
+  "cityName": "Kuta",
+  "bbox": {
+    "minLat": -8.75,
+    "minLng": 115.15,
+    "maxLat": -8.7,
+    "maxLng": 115.2
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kuta-beach",
+      "name": "Kuta Beach",
+      "lat": -8.7185,
+      "lng": 115.1686,
+      "radiusM": 250,
+      "address": "Kuta",
+      "howTo": "Visit Kuta Beach.",
+      "badge": "badges/kuta-beach.png"
+    },
+    {
+      "id": "seminyak-beach",
+      "name": "Seminyak Beach",
+      "lat": -8.691,
+      "lng": 115.1575,
+      "radiusM": 200,
+      "address": "Seminyak",
+      "howTo": "Visit Seminyak Beach.",
+      "badge": "badges/seminyak-beach.png"
+    },
+    {
+      "id": "garuda-wisnu-kencana",
+      "name": "Garuda Wisnu Kencana",
+      "lat": -8.8035,
+      "lng": 115.1265,
+      "radiusM": 200,
+      "address": "Ungasan",
+      "howTo": "Visit Garuda Wisnu Kencana.",
+      "badge": "badges/garuda-wisnu-kencana.png"
+    }
+  ]
+}

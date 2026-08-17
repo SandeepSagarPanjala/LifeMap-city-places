@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "id/east-java/surabaya",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "JI",
+  "stateName": "East Java",
+  "cityName": "Surabaya",
+  "bbox": {
+    "minLat": -7.28,
+    "minLng": 112.7,
+    "maxLat": -7.22,
+    "maxLng": 112.78
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "suramadu-bridge",
+      "name": "Suramadu Bridge",
+      "lat": -7.1855,
+      "lng": 112.7275,
+      "radiusM": 200,
+      "address": "Madura Strait",
+      "howTo": "Visit Suramadu Bridge.",
+      "badge": "badges/suramadu-bridge.png"
+    },
+    {
+      "id": "house-of-sampoerna",
+      "name": "House of Sampoerna Museum",
+      "lat": -7.2485,
+      "lng": 112.7385,
+      "radiusM": 100,
+      "address": "Surabaya",
+      "howTo": "Visit House of Sampoerna Museum.",
+      "badge": "badges/house-of-sampoerna.png"
+    },
+    {
+      "id": "tugu-pahlawan",
+      "name": "Tugu Pahlawan",
+      "lat": -7.2455,
+      "lng": 112.7378,
+      "radiusM": 80,
+      "address": "Surabaya",
+      "howTo": "Visit Tugu Pahlawan.",
+      "badge": "badges/tugu-pahlawan.png"
+    }
+  ]
+}

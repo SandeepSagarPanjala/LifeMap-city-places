@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "id/bali/denpasar",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "BA",
+  "stateName": "Bali",
+  "cityName": "Denpasar",
+  "bbox": {
+    "minLat": -8.7,
+    "minLng": 115.2,
+    "maxLat": -8.6,
+    "maxLng": 115.3
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pura-tanah-lot",
+      "name": "Pura Tanah Lot",
+      "lat": -8.6211,
+      "lng": 115.0868,
+      "radiusM": 150,
+      "address": "Tabanan",
+      "howTo": "Visit Pura Tanah Lot.",
+      "badge": "badges/pura-tanah-lot.png"
+    },
+    {
+      "id": "ubud-monkey-forest",
+      "name": "Sacred Monkey Forest Sanctuary",
+      "lat": -8.5185,
+      "lng": 115.259,
+      "radiusM": 200,
+      "address": "Ubud",
+      "howTo": "Visit Sacred Monkey Forest Sanctuary.",
+      "badge": "badges/ubud-monkey-forest.png"
+    },
+    {
+      "id": "tegallalang-rice-terrace",
+      "name": "Tegallalang Rice Terrace",
+      "lat": -8.4312,
+      "lng": 115.2795,
+      "radiusM": 200,
+      "address": "Tegallalang",
+      "howTo": "Visit Tegallalang Rice Terrace.",
+      "badge": "badges/tegallalang-rice-terrace.png"
+    },
+    {
+      "id": "uluwatu-temple",
+      "name": "Uluwatu Temple",
+      "lat": -8.8291,
+      "lng": 115.0849,
+      "radiusM": 120,
+      "address": "Pecatu",
+      "howTo": "Visit Uluwatu Temple.",
+      "badge": "badges/uluwatu-temple.png"
+    }
+  ]
+}

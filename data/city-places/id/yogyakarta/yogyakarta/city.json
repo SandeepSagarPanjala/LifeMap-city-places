@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "id/yogyakarta/yogyakarta",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "stateCode": "YO",
+  "stateName": "Yogyakarta",
+  "cityName": "Yogyakarta",
+  "bbox": {
+    "minLat": -7.82,
+    "minLng": 110.35,
+    "maxLat": -7.75,
+    "maxLng": 110.42
+  },
+  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "borobudur",
+      "name": "Borobudur",
+      "lat": -7.6079,
+      "lng": 110.2038,
+      "radiusM": 250,
+      "address": "Magelang",
+      "howTo": "Visit Borobudur.",
+      "badge": "badges/borobudur.png"
+    },
+    {
+      "id": "prambanan",
+      "name": "Prambanan",
+      "lat": -7.752,
+      "lng": 110.4915,
+      "radiusM": 200,
+      "address": "Prambanan",
+      "howTo": "Visit Prambanan.",
+      "badge": "badges/prambanan.png"
+    },
+    {
+      "id": "kraton-yogyakarta",
+      "name": "Kraton Yogyakarta",
+      "lat": -7.8053,
+      "lng": 110.3642,
+      "radiusM": 150,
+      "address": "Kraton",
+      "howTo": "Visit Kraton Yogyakarta.",
+      "badge": "badges/kraton-yogyakarta.png"
+    },
+    {
+      "id": "taman-sari",
+      "name": "Taman Sari Water Castle",
+      "lat": -7.8098,
+      "lng": 110.359,
+      "radiusM": 120,
+      "address": "Yogyakarta",
+      "howTo": "Visit Taman Sari Water Castle.",
+      "badge": "badges/taman-sari.png"
+    }
+  ]
+}
