@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/quintana-roo/cancun",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "ROO",
+  "stateName": "Quintana Roo",
+  "cityName": "Canc\u00fan",
+  "bbox": {
+    "minLat": 21.02,
+    "minLng": -86.85,
+    "maxLat": 21.16,
+    "maxLng": -86.74
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "playa-delfines",
+      "name": "Playa Delfines",
+      "lat": 21.0596,
+      "lng": -86.7793,
+      "radiusM": 200,
+      "address": "Zona Hotelera",
+      "howTo": "Visit Playa Delfines.",
+      "badge": "badges/playa-delfines.png"
+    },
+    {
+      "id": "el-rey-ruins",
+      "name": "El Rey Archaeological Site",
+      "lat": 21.0608,
+      "lng": -86.7815,
+      "radiusM": 150,
+      "address": "Zona Hotelera",
+      "howTo": "Visit El Rey Archaeological Site.",
+      "badge": "badges/el-rey-ruins.png"
+    },
+    {
+      "id": "isla-mujeres-view",
+      "name": "Isla Mujeres Viewpoint",
+      "lat": 21.1426,
+      "lng": -86.781,
+      "radiusM": 150,
+      "address": "Puerto Ju\u00e1rez",
+      "howTo": "Visit Isla Mujeres Viewpoint.",
+      "badge": "badges/isla-mujeres-view.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/puebla/puebla",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "PUE",
+  "stateName": "Puebla",
+  "cityName": "Puebla",
+  "bbox": {
+    "minLat": 19.03,
+    "minLng": -98.21,
+    "maxLat": 19.06,
+    "maxLng": -98.18
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "puebla-cathedral",
+      "name": "Puebla Cathedral",
+      "lat": 19.0428,
+      "lng": -98.198,
+      "radiusM": 80,
+      "address": "Z\u00f3calo",
+      "howTo": "Visit Puebla Cathedral.",
+      "badge": "badges/puebla-cathedral.png"
+    },
+    {
+      "id": "capilla-del-rosario",
+      "name": "Capilla del Rosario",
+      "lat": 19.0475,
+      "lng": -98.1985,
+      "radiusM": 80,
+      "address": "Santo Domingo",
+      "howTo": "Visit Capilla del Rosario.",
+      "badge": "badges/capilla-del-rosario.png"
+    },
+    {
+      "id": "biblioteca-palafoxiana",
+      "name": "Biblioteca Palafoxiana",
+      "lat": 19.0424,
+      "lng": -98.1972,
+      "radiusM": 80,
+      "address": "Casa de la Cultura",
+      "howTo": "Visit Biblioteca Palafoxiana.",
+      "badge": "badges/biblioteca-palafoxiana.png"
+    }
+  ]
+}

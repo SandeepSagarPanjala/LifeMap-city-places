@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/ciudad-de-mexico/mexico-city",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "CMX",
+  "stateName": "Ciudad de M\u00e9xico",
+  "cityName": "Mexico City",
+  "bbox": {
+    "minLat": 19.34,
+    "minLng": -99.2,
+    "maxLat": 19.45,
+    "maxLng": -99.1
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zocalo",
+      "name": "Z\u00f3calo",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "radiusM": 150,
+      "address": "Plaza de la Constituci\u00f3n",
+      "howTo": "Visit Z\u00f3calo.",
+      "badge": "badges/zocalo.png"
+    },
+    {
+      "id": "palacio-de-bellas-artes",
+      "name": "Palacio de Bellas Artes",
+      "lat": 19.4352,
+      "lng": -99.1412,
+      "radiusM": 80,
+      "address": "Centro Hist\u00f3rico",
+      "howTo": "Visit Palacio de Bellas Artes.",
+      "badge": "badges/palacio-de-bellas-artes.png"
+    },
+    {
+      "id": "chapultepec-castle",
+      "name": "Chapultepec Castle",
+      "lat": 19.4204,
+      "lng": -99.1819,
+      "radiusM": 120,
+      "address": "Bosque de Chapultepec",
+      "howTo": "Visit Chapultepec Castle.",
+      "badge": "badges/chapultepec-castle.png"
+    },
+    {
+      "id": "museo-antropologia",
+      "name": "Museo Nacional de Antropolog\u00eda",
+      "lat": 19.426,
+      "lng": -99.1862,
+      "radiusM": 120,
+      "address": "Chapultepec",
+      "howTo": "Visit Museo Nacional de Antropolog\u00eda.",
+      "badge": "badges/museo-antropologia.png"
+    },
+    {
+      "id": "templo-mayor",
+      "name": "Templo Mayor",
+      "lat": 19.4346,
+      "lng": -99.1319,
+      "radiusM": 100,
+      "address": "Centro Hist\u00f3rico",
+      "howTo": "Visit Templo Mayor.",
+      "badge": "badges/templo-mayor.png"
+    },
+    {
+      "id": "xochimilco",
+      "name": "Xochimilco",
+      "lat": 19.2826,
+      "lng": -99.1013,
+      "radiusM": 300,
+      "address": "Embarcadero Cuemanco",
+      "howTo": "Visit Xochimilco.",
+      "badge": "badges/xochimilco.png"
+    }
+  ]
+}

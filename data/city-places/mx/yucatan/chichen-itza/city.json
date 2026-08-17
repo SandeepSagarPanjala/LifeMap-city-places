@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/yucatan/chichen-itza",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "YUC",
+  "stateName": "Yucat\u00e1n",
+  "cityName": "Chich\u00e9n Itz\u00e1",
+  "bbox": {
+    "minLat": 20.67,
+    "minLng": -88.58,
+    "maxLat": 20.69,
+    "maxLng": -88.56
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "el-castillo",
+      "name": "El Castillo",
+      "lat": 20.6843,
+      "lng": -88.5678,
+      "radiusM": 120,
+      "address": "Chich\u00e9n Itz\u00e1",
+      "howTo": "Visit El Castillo.",
+      "badge": "badges/el-castillo.png"
+    },
+    {
+      "id": "sacred-cenote",
+      "name": "Sacred Cenote",
+      "lat": 20.688,
+      "lng": -88.5679,
+      "radiusM": 80,
+      "address": "Cenote Sagrado",
+      "howTo": "Visit Sacred Cenote.",
+      "badge": "badges/sacred-cenote.png"
+    },
+    {
+      "id": "temple-of-the-warriors",
+      "name": "Temple of the Warriors",
+      "lat": 20.6847,
+      "lng": -88.5662,
+      "radiusM": 80,
+      "address": "Chich\u00e9n Itz\u00e1",
+      "howTo": "Visit Temple of the Warriors.",
+      "badge": "badges/temple-of-the-warriors.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/guanajuato/san-miguel-de-allende",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "GUA",
+  "stateName": "Guanajuato",
+  "cityName": "San Miguel de Allende",
+  "bbox": {
+    "minLat": 20.91,
+    "minLng": -100.75,
+    "maxLat": 20.92,
+    "maxLng": -100.74
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parroquia-san-miguel",
+      "name": "Parroquia de San Miguel Arc\u00e1ngel",
+      "lat": 20.9153,
+      "lng": -100.7438,
+      "radiusM": 80,
+      "address": "Jard\u00edn Allende",
+      "howTo": "Visit Parroquia de San Miguel Arc\u00e1ngel.",
+      "badge": "badges/parroquia-san-miguel.png"
+    },
+    {
+      "id": "jardin-allende",
+      "name": "Jard\u00edn Allende",
+      "lat": 20.915,
+      "lng": -100.7442,
+      "radiusM": 100,
+      "address": "Centro",
+      "howTo": "Visit Jard\u00edn Allende.",
+      "badge": "badges/jardin-allende.png"
+    },
+    {
+      "id": "el-charco-del-ingenio",
+      "name": "El Charco del Ingenio",
+      "lat": 20.9225,
+      "lng": -100.7308,
+      "radiusM": 200,
+      "address": "Botanical Garden",
+      "howTo": "Visit El Charco del Ingenio.",
+      "badge": "badges/el-charco-del-ingenio.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/estado-de-mexico/teotihuacan",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "MEX",
+  "stateName": "Estado de M\u00e9xico",
+  "cityName": "Teotihuacan",
+  "bbox": {
+    "minLat": 19.67,
+    "minLng": -98.86,
+    "maxLat": 19.7,
+    "maxLng": -98.83
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pyramid-of-the-sun",
+      "name": "Pyramid of the Sun",
+      "lat": 19.6925,
+      "lng": -98.8436,
+      "radiusM": 150,
+      "address": "Teotihuacan",
+      "howTo": "Visit Pyramid of the Sun.",
+      "badge": "badges/pyramid-of-the-sun.png"
+    },
+    {
+      "id": "pyramid-of-the-moon",
+      "name": "Pyramid of the Moon",
+      "lat": 19.6996,
+      "lng": -98.8435,
+      "radiusM": 120,
+      "address": "Teotihuacan",
+      "howTo": "Visit Pyramid of the Moon.",
+      "badge": "badges/pyramid-of-the-moon.png"
+    },
+    {
+      "id": "temple-of-the-feathered-serpent",
+      "name": "Temple of the Feathered Serpent",
+      "lat": 19.6818,
+      "lng": -98.8468,
+      "radiusM": 100,
+      "address": "La Ciudadela",
+      "howTo": "Visit Temple of the Feathered Serpent.",
+      "badge": "badges/temple-of-the-feathered-serpent.png"
+    }
+  ]
+}

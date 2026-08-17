@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/baja-california-sur/cabo-san-lucas",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "BCS",
+  "stateName": "Baja California Sur",
+  "cityName": "Cabo San Lucas",
+  "bbox": {
+    "minLat": 22.87,
+    "minLng": -109.92,
+    "maxLat": 22.9,
+    "maxLng": -109.88
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "el-arco-cabo",
+      "name": "El Arco",
+      "lat": 22.8768,
+      "lng": -109.8947,
+      "radiusM": 150,
+      "address": "Land's End",
+      "howTo": "Visit El Arco.",
+      "badge": "badges/el-arco-cabo.png"
+    },
+    {
+      "id": "medano-beach",
+      "name": "M\u00e9dano Beach",
+      "lat": 22.8875,
+      "lng": -109.9048,
+      "radiusM": 200,
+      "address": "Playa El M\u00e9dano",
+      "howTo": "Visit M\u00e9dano Beach.",
+      "badge": "badges/medano-beach.png"
+    },
+    {
+      "id": "lovers-beach",
+      "name": "Lover's Beach",
+      "lat": 22.8778,
+      "lng": -109.8965,
+      "radiusM": 100,
+      "address": "Playa del Amor",
+      "howTo": "Visit Lover's Beach.",
+      "badge": "badges/lovers-beach.png"
+    }
+  ]
+}

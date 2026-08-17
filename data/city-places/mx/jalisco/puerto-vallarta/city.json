@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/jalisco/puerto-vallarta",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "JAL",
+  "stateName": "Jalisco",
+  "cityName": "Puerto Vallarta",
+  "bbox": {
+    "minLat": 20.6,
+    "minLng": -105.25,
+    "maxLat": 20.66,
+    "maxLng": -105.2
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "malecon-puerto-vallarta",
+      "name": "Malec\u00f3n Puerto Vallarta",
+      "lat": 20.6097,
+      "lng": -105.235,
+      "radiusM": 200,
+      "address": "Centro",
+      "howTo": "Visit Malec\u00f3n Puerto Vallarta.",
+      "badge": "badges/malecon-puerto-vallarta.png"
+    },
+    {
+      "id": "iglesia-de-guadalupe-pv",
+      "name": "Church of Our Lady of Guadalupe",
+      "lat": 20.6085,
+      "lng": -105.2308,
+      "radiusM": 80,
+      "address": "Centro",
+      "howTo": "Visit Church of Our Lady of Guadalupe.",
+      "badge": "badges/iglesia-de-guadalupe-pv.png"
+    },
+    {
+      "id": "los-arcos-vallarta",
+      "name": "Los Arcos",
+      "lat": 20.5455,
+      "lng": -105.2885,
+      "radiusM": 200,
+      "address": "Los Arcos Marine Park",
+      "howTo": "Visit Los Arcos.",
+      "badge": "badges/los-arcos-vallarta.png"
+    }
+  ]
+}

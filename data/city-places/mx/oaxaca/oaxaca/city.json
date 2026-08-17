@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/oaxaca/oaxaca",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "OAX",
+  "stateName": "Oaxaca",
+  "cityName": "Oaxaca",
+  "bbox": {
+    "minLat": 17.04,
+    "minLng": -96.75,
+    "maxLat": 17.08,
+    "maxLng": -96.7
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santo-domingo-oaxaca",
+      "name": "Templo de Santo Domingo",
+      "lat": 17.0656,
+      "lng": -96.7231,
+      "radiusM": 80,
+      "address": "Centro Hist\u00f3rico",
+      "howTo": "Visit Templo de Santo Domingo.",
+      "badge": "badges/santo-domingo-oaxaca.png"
+    },
+    {
+      "id": "oaxaca-zocalo",
+      "name": "Oaxaca Z\u00f3calo",
+      "lat": 17.0605,
+      "lng": -96.7256,
+      "radiusM": 120,
+      "address": "Plaza de la Constituci\u00f3n",
+      "howTo": "Visit Oaxaca Z\u00f3calo.",
+      "badge": "badges/oaxaca-zocalo.png"
+    },
+    {
+      "id": "monte-alban",
+      "name": "Monte Alb\u00e1n",
+      "lat": 17.0439,
+      "lng": -96.7676,
+      "radiusM": 250,
+      "address": "Monte Alb\u00e1n Archaeological Zone",
+      "howTo": "Visit Monte Alb\u00e1n.",
+      "badge": "badges/monte-alban.png"
+    }
+  ]
+}

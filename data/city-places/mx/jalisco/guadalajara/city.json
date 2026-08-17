@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/jalisco/guadalajara",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "JAL",
+  "stateName": "Jalisco",
+  "cityName": "Guadalajara",
+  "bbox": {
+    "minLat": 20.66,
+    "minLng": -103.36,
+    "maxLat": 20.7,
+    "maxLng": -103.33
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hospicio-cabanas",
+      "name": "Hospicio Caba\u00f1as",
+      "lat": 20.6736,
+      "lng": -103.3372,
+      "radiusM": 120,
+      "address": "Guadalajara",
+      "howTo": "Visit Hospicio Caba\u00f1as.",
+      "badge": "badges/hospicio-cabanas.png"
+    },
+    {
+      "id": "guadalajara-cathedral",
+      "name": "Guadalajara Cathedral",
+      "lat": 20.677,
+      "lng": -103.347,
+      "radiusM": 80,
+      "address": "Plaza de Armas",
+      "howTo": "Visit Guadalajara Cathedral.",
+      "badge": "badges/guadalajara-cathedral.png"
+    },
+    {
+      "id": "teatro-degollado",
+      "name": "Teatro Degollado",
+      "lat": 20.6774,
+      "lng": -103.346,
+      "radiusM": 80,
+      "address": "Theatro Municipal",
+      "howTo": "Visit Teatro Degollado.",
+      "badge": "badges/teatro-degollado.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/quintana-roo/tulum",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "ROO",
+  "stateName": "Quintana Roo",
+  "cityName": "Tulum",
+  "bbox": {
+    "minLat": 20.2,
+    "minLng": -87.47,
+    "maxLat": 20.23,
+    "maxLng": -87.42
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tulum-ruins",
+      "name": "Tulum Archaeological Zone",
+      "lat": 20.2147,
+      "lng": -87.4295,
+      "radiusM": 200,
+      "address": "Parque Nacional Tulum",
+      "howTo": "Visit Tulum Archaeological Zone.",
+      "badge": "badges/tulum-ruins.png"
+    },
+    {
+      "id": "tulum-beach",
+      "name": "Tulum Beach",
+      "lat": 20.2055,
+      "lng": -87.4288,
+      "radiusM": 200,
+      "address": "Playa Ruinas",
+      "howTo": "Visit Tulum Beach.",
+      "badge": "badges/tulum-beach.png"
+    },
+    {
+      "id": "gran-cenote",
+      "name": "Gran Cenote",
+      "lat": 20.2365,
+      "lng": -87.4658,
+      "radiusM": 100,
+      "address": "Tulum",
+      "howTo": "Visit Gran Cenote.",
+      "badge": "badges/gran-cenote.png"
+    }
+  ]
+}

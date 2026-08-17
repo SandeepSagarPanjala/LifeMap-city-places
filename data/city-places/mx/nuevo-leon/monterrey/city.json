@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/nuevo-leon/monterrey",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "NLE",
+  "stateName": "Nuevo Le\u00f3n",
+  "cityName": "Monterrey",
+  "bbox": {
+    "minLat": 25.64,
+    "minLng": -100.35,
+    "maxLat": 25.7,
+    "maxLng": -100.28
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parque-fundidora",
+      "name": "Parque Fundidora",
+      "lat": 25.6784,
+      "lng": -100.2845,
+      "radiusM": 300,
+      "address": "Fundidora",
+      "howTo": "Visit Parque Fundidora.",
+      "badge": "badges/parque-fundidora.png"
+    },
+    {
+      "id": "macroplaza",
+      "name": "Macroplaza",
+      "lat": 25.6694,
+      "lng": -100.3097,
+      "radiusM": 200,
+      "address": "Centro",
+      "howTo": "Visit Macroplaza.",
+      "badge": "badges/macroplaza.png"
+    },
+    {
+      "id": "cerro-de-la-silla-view",
+      "name": "Cerro de la Silla Viewpoint",
+      "lat": 25.6285,
+      "lng": -100.233,
+      "radiusM": 200,
+      "address": "Mirador",
+      "howTo": "Visit Cerro de la Silla Viewpoint.",
+      "badge": "badges/cerro-de-la-silla-view.png"
+    }
+  ]
+}

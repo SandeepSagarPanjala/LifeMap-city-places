@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/guanajuato/guanajuato",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "GUA",
+  "stateName": "Guanajuato",
+  "cityName": "Guanajuato",
+  "bbox": {
+    "minLat": 21.01,
+    "minLng": -101.27,
+    "maxLat": 21.03,
+    "maxLng": -101.24
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "teatro-juarez",
+      "name": "Teatro Ju\u00e1rez",
+      "lat": 21.0167,
+      "lng": -101.2556,
+      "radiusM": 80,
+      "address": "Centro",
+      "howTo": "Visit Teatro Ju\u00e1rez.",
+      "badge": "badges/teatro-juarez.png"
+    },
+    {
+      "id": "monument-al-pipila",
+      "name": "Monumento al P\u00edpila",
+      "lat": 21.0135,
+      "lng": -101.2568,
+      "radiusM": 80,
+      "address": "Cerro de San Miguel",
+      "howTo": "Visit Monumento al P\u00edpila.",
+      "badge": "badges/monument-al-pipila.png"
+    },
+    {
+      "id": "basilica-guanajuato",
+      "name": "Bas\u00edlica Colegiata de Nuestra Se\u00f1ora de Guanajuato",
+      "lat": 21.0172,
+      "lng": -101.2568,
+      "radiusM": 80,
+      "address": "Plaza de la Paz",
+      "howTo": "Visit Bas\u00edlica Colegiata de Nuestra Se\u00f1ora de Guanajuato.",
+      "badge": "badges/basilica-guanajuato.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mx/yucatan/merida",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "stateCode": "YUC",
+  "stateName": "Yucat\u00e1n",
+  "cityName": "M\u00e9rida",
+  "bbox": {
+    "minLat": 20.96,
+    "minLng": -89.64,
+    "maxLat": 21.0,
+    "maxLng": -89.6
+  },
+  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "merida-cathedral",
+      "name": "M\u00e9rida Cathedral",
+      "lat": 20.9671,
+      "lng": -89.6237,
+      "radiusM": 80,
+      "address": "Plaza Grande",
+      "howTo": "Visit M\u00e9rida Cathedral.",
+      "badge": "badges/merida-cathedral.png"
+    },
+    {
+      "id": "paseo-montejo",
+      "name": "Paseo de Montejo",
+      "lat": 20.9845,
+      "lng": -89.6188,
+      "radiusM": 200,
+      "address": "Paseo de Montejo",
+      "howTo": "Visit Paseo de Montejo.",
+      "badge": "badges/paseo-montejo.png"
+    },
+    {
+      "id": "gran-museo-mundo-maya",
+      "name": "Gran Museo del Mundo Maya",
+      "lat": 21.0385,
+      "lng": -89.628,
+      "radiusM": 100,
+      "address": "M\u00e9rida",
+      "howTo": "Visit Gran Museo del Mundo Maya.",
+      "badge": "badges/gran-museo-mundo-maya.png"
+    }
+  ]
+}

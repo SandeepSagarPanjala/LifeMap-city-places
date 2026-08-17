@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-17T22:30:00.000Z",
-  "notes": "Queue through Brazil complete. Next: Mexico (mx) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-17T23:00:00.000Z",
+  "notes": "Queue through Mexico complete. Next: Indonesia (id) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -9161,6 +9161,279 @@
                 "minLng": -48.58,
                 "maxLat": -27.42,
                 "maxLng": -48.38
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx",
+      "countryCode": "MX",
+      "name": "Mexico",
+      "states": [
+        {
+          "id": "ciudad-de-mexico",
+          "stateCode": "CMX",
+          "name": "Ciudad de M\u00e9xico",
+          "cities": [
+            {
+              "id": "mexico-city",
+              "name": "Mexico City",
+              "status": "complete",
+              "packPath": "mx/ciudad-de-mexico/mexico-city/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 19.34,
+                "minLng": -99.2,
+                "maxLat": 19.45,
+                "maxLng": -99.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "estado-de-mexico",
+          "stateCode": "MEX",
+          "name": "Estado de M\u00e9xico",
+          "cities": [
+            {
+              "id": "teotihuacan",
+              "name": "Teotihuacan",
+              "status": "complete",
+              "packPath": "mx/estado-de-mexico/teotihuacan/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 19.67,
+                "minLng": -98.86,
+                "maxLat": 19.7,
+                "maxLng": -98.83
+              }
+            }
+          ]
+        },
+        {
+          "id": "quintana-roo",
+          "stateCode": "ROO",
+          "name": "Quintana Roo",
+          "cities": [
+            {
+              "id": "cancun",
+              "name": "Canc\u00fan",
+              "status": "complete",
+              "packPath": "mx/quintana-roo/cancun/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 21.02,
+                "minLng": -86.85,
+                "maxLat": 21.16,
+                "maxLng": -86.74
+              }
+            },
+            {
+              "id": "tulum",
+              "name": "Tulum",
+              "status": "complete",
+              "packPath": "mx/quintana-roo/tulum/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.2,
+                "minLng": -87.47,
+                "maxLat": 20.23,
+                "maxLng": -87.42
+              }
+            }
+          ]
+        },
+        {
+          "id": "yucatan",
+          "stateCode": "YUC",
+          "name": "Yucat\u00e1n",
+          "cities": [
+            {
+              "id": "chichen-itza",
+              "name": "Chich\u00e9n Itz\u00e1",
+              "status": "complete",
+              "packPath": "mx/yucatan/chichen-itza/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.67,
+                "minLng": -88.58,
+                "maxLat": 20.69,
+                "maxLng": -88.56
+              }
+            },
+            {
+              "id": "merida",
+              "name": "M\u00e9rida",
+              "status": "complete",
+              "packPath": "mx/yucatan/merida/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.96,
+                "minLng": -89.64,
+                "maxLat": 21.0,
+                "maxLng": -89.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "jalisco",
+          "stateCode": "JAL",
+          "name": "Jalisco",
+          "cities": [
+            {
+              "id": "guadalajara",
+              "name": "Guadalajara",
+              "status": "complete",
+              "packPath": "mx/jalisco/guadalajara/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.66,
+                "minLng": -103.36,
+                "maxLat": 20.7,
+                "maxLng": -103.33
+              }
+            },
+            {
+              "id": "puerto-vallarta",
+              "name": "Puerto Vallarta",
+              "status": "complete",
+              "packPath": "mx/jalisco/puerto-vallarta/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.6,
+                "minLng": -105.25,
+                "maxLat": 20.66,
+                "maxLng": -105.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "oaxaca",
+          "stateCode": "OAX",
+          "name": "Oaxaca",
+          "cities": [
+            {
+              "id": "oaxaca",
+              "name": "Oaxaca",
+              "status": "complete",
+              "packPath": "mx/oaxaca/oaxaca/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 17.04,
+                "minLng": -96.75,
+                "maxLat": 17.08,
+                "maxLng": -96.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "puebla",
+          "stateCode": "PUE",
+          "name": "Puebla",
+          "cities": [
+            {
+              "id": "puebla",
+              "name": "Puebla",
+              "status": "complete",
+              "packPath": "mx/puebla/puebla/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 19.03,
+                "minLng": -98.21,
+                "maxLat": 19.06,
+                "maxLng": -98.18
+              }
+            }
+          ]
+        },
+        {
+          "id": "guanajuato",
+          "stateCode": "GUA",
+          "name": "Guanajuato",
+          "cities": [
+            {
+              "id": "guanajuato",
+              "name": "Guanajuato",
+              "status": "complete",
+              "packPath": "mx/guanajuato/guanajuato/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 21.01,
+                "minLng": -101.27,
+                "maxLat": 21.03,
+                "maxLng": -101.24
+              }
+            },
+            {
+              "id": "san-miguel-de-allende",
+              "name": "San Miguel de Allende",
+              "status": "complete",
+              "packPath": "mx/guanajuato/san-miguel-de-allende/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 20.91,
+                "minLng": -100.75,
+                "maxLat": 20.92,
+                "maxLng": -100.74
+              }
+            }
+          ]
+        },
+        {
+          "id": "nuevo-leon",
+          "stateCode": "NLE",
+          "name": "Nuevo Le\u00f3n",
+          "cities": [
+            {
+              "id": "monterrey",
+              "name": "Monterrey",
+              "status": "complete",
+              "packPath": "mx/nuevo-leon/monterrey/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 25.64,
+                "minLng": -100.35,
+                "maxLat": 25.7,
+                "maxLng": -100.28
+              }
+            }
+          ]
+        },
+        {
+          "id": "baja-california-sur",
+          "stateCode": "BCS",
+          "name": "Baja California Sur",
+          "cities": [
+            {
+              "id": "cabo-san-lucas",
+              "name": "Cabo San Lucas",
+              "status": "complete",
+              "packPath": "mx/baja-california-sur/cabo-san-lucas/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T22:40:00.000Z",
+              "bbox": {
+                "minLat": 22.87,
+                "minLng": -109.92,
+                "maxLat": 22.9,
+                "maxLng": -109.88
               }
             }
           ]

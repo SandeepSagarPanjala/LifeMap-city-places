@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T22:38:09.806Z",
+  "generatedAt": "2026-08-17T22:47:29.179Z",
   "cellDeg": 0.5,
-  "cityCount": 525,
+  "cityCount": 539,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -2729,6 +2729,132 @@
         "minLng": 127,
         "maxLat": 37.29,
         "maxLng": 127.02
+      }
+    },
+    "mx/baja-california-sur/cabo-san-lucas": {
+      "name": "Cabo San Lucas",
+      "bbox": {
+        "minLat": 22.87,
+        "minLng": -109.92,
+        "maxLat": 22.9,
+        "maxLng": -109.88
+      }
+    },
+    "mx/ciudad-de-mexico/mexico-city": {
+      "name": "Mexico City",
+      "bbox": {
+        "minLat": 19.34,
+        "minLng": -99.2,
+        "maxLat": 19.45,
+        "maxLng": -99.1
+      }
+    },
+    "mx/estado-de-mexico/teotihuacan": {
+      "name": "Teotihuacan",
+      "bbox": {
+        "minLat": 19.67,
+        "minLng": -98.86,
+        "maxLat": 19.7,
+        "maxLng": -98.83
+      }
+    },
+    "mx/guanajuato/guanajuato": {
+      "name": "Guanajuato",
+      "bbox": {
+        "minLat": 21.01,
+        "minLng": -101.27,
+        "maxLat": 21.03,
+        "maxLng": -101.24
+      }
+    },
+    "mx/guanajuato/san-miguel-de-allende": {
+      "name": "San Miguel de Allende",
+      "bbox": {
+        "minLat": 20.91,
+        "minLng": -100.75,
+        "maxLat": 20.92,
+        "maxLng": -100.74
+      }
+    },
+    "mx/jalisco/guadalajara": {
+      "name": "Guadalajara",
+      "bbox": {
+        "minLat": 20.66,
+        "minLng": -103.36,
+        "maxLat": 20.7,
+        "maxLng": -103.33
+      }
+    },
+    "mx/jalisco/puerto-vallarta": {
+      "name": "Puerto Vallarta",
+      "bbox": {
+        "minLat": 20.6,
+        "minLng": -105.25,
+        "maxLat": 20.66,
+        "maxLng": -105.2
+      }
+    },
+    "mx/nuevo-leon/monterrey": {
+      "name": "Monterrey",
+      "bbox": {
+        "minLat": 25.64,
+        "minLng": -100.35,
+        "maxLat": 25.7,
+        "maxLng": -100.28
+      }
+    },
+    "mx/oaxaca/oaxaca": {
+      "name": "Oaxaca",
+      "bbox": {
+        "minLat": 17.04,
+        "minLng": -96.75,
+        "maxLat": 17.08,
+        "maxLng": -96.7
+      }
+    },
+    "mx/puebla/puebla": {
+      "name": "Puebla",
+      "bbox": {
+        "minLat": 19.03,
+        "minLng": -98.21,
+        "maxLat": 19.06,
+        "maxLng": -98.18
+      }
+    },
+    "mx/quintana-roo/cancun": {
+      "name": "Cancún",
+      "bbox": {
+        "minLat": 21.02,
+        "minLng": -86.85,
+        "maxLat": 21.16,
+        "maxLng": -86.74
+      }
+    },
+    "mx/quintana-roo/tulum": {
+      "name": "Tulum",
+      "bbox": {
+        "minLat": 20.2,
+        "minLng": -87.47,
+        "maxLat": 20.23,
+        "maxLng": -87.42
+      }
+    },
+    "mx/yucatan/chichen-itza": {
+      "name": "Chichén Itzá",
+      "bbox": {
+        "minLat": 20.67,
+        "minLng": -88.58,
+        "maxLat": 20.69,
+        "maxLng": -88.56
+      }
+    },
+    "mx/yucatan/merida": {
+      "name": "Mérida",
+      "bbox": {
+        "minLat": 20.96,
+        "minLng": -89.64,
+        "maxLat": 21,
+        "maxLng": -89.6
       }
     },
     "nl/friesland/giethoorn": {
@@ -6803,6 +6929,51 @@
     ],
     "-55,-97": [
       "br/santa-catarina/florianopolis"
+    ],
+    "38,-199": [
+      "mx/ciudad-de-mexico/mexico-city"
+    ],
+    "39,-198": [
+      "mx/estado-de-mexico/teotihuacan"
+    ],
+    "42,-174": [
+      "mx/quintana-roo/cancun"
+    ],
+    "40,-175": [
+      "mx/quintana-roo/tulum"
+    ],
+    "41,-178": [
+      "mx/yucatan/chichen-itza"
+    ],
+    "41,-180": [
+      "mx/yucatan/merida"
+    ],
+    "42,-180": [
+      "mx/yucatan/merida"
+    ],
+    "41,-207": [
+      "mx/jalisco/guadalajara"
+    ],
+    "41,-211": [
+      "mx/jalisco/puerto-vallarta"
+    ],
+    "34,-194": [
+      "mx/oaxaca/oaxaca"
+    ],
+    "38,-197": [
+      "mx/puebla/puebla"
+    ],
+    "42,-203": [
+      "mx/guanajuato/guanajuato"
+    ],
+    "41,-202": [
+      "mx/guanajuato/san-miguel-de-allende"
+    ],
+    "51,-201": [
+      "mx/nuevo-leon/monterrey"
+    ],
+    "45,-220": [
+      "mx/baja-california-sur/cabo-san-lucas"
     ]
   }
 }
