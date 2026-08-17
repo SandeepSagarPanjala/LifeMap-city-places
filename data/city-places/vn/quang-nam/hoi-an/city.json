@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/quang-nam/hoi-an",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "QNA",
+  "stateName": "Quang Nam",
+  "cityName": "Hoi An",
+  "bbox": {
+    "minLat": 15.87,
+    "minLng": 108.31,
+    "maxLat": 15.9,
+    "maxLng": 108.35
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hoi-an-ancient-town",
+      "name": "Hoi An Ancient Town",
+      "lat": 15.8794,
+      "lng": 108.329,
+      "radiusM": 250,
+      "address": "Ancient Town",
+      "howTo": "Visit Hoi An Ancient Town.",
+      "badge": "badges/hoi-an-ancient-town.png"
+    },
+    {
+      "id": "japanese-covered-bridge",
+      "name": "Japanese Covered Bridge",
+      "lat": 15.877,
+      "lng": 108.3265,
+      "radiusM": 80,
+      "address": "Ancient Town",
+      "howTo": "Visit Japanese Covered Bridge.",
+      "badge": "badges/japanese-covered-bridge.png"
+    },
+    {
+      "id": "an-bang-beach",
+      "name": "An Bang Beach",
+      "lat": 15.902,
+      "lng": 108.36,
+      "radiusM": 250,
+      "address": "An Bang",
+      "howTo": "Visit An Bang Beach.",
+      "badge": "badges/an-bang-beach.png"
+    }
+  ]
+}

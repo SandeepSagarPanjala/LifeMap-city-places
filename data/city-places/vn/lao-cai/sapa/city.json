@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/lao-cai/sapa",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "LC",
+  "stateName": "Lao Cai",
+  "cityName": "Sapa",
+  "bbox": {
+    "minLat": 22.32,
+    "minLng": 103.83,
+    "maxLat": 22.36,
+    "maxLng": 103.87
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sapa-rice-terraces",
+      "name": "Sapa Rice Terraces",
+      "lat": 22.336,
+      "lng": 103.844,
+      "radiusM": 300,
+      "address": "Muong Hoa Valley",
+      "howTo": "Visit Sapa Rice Terraces.",
+      "badge": "badges/sapa-rice-terraces.png"
+    },
+    {
+      "id": "fansipan-cable-car",
+      "name": "Fansipan Cable Car",
+      "lat": 22.338,
+      "lng": 103.841,
+      "radiusM": 200,
+      "address": "Sun World Fansipan",
+      "howTo": "Visit Fansipan Cable Car.",
+      "badge": "badges/fansipan-cable-car.png"
+    }
+  ]
+}

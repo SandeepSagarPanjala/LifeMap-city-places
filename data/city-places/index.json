@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:15:00.000Z",
-  "notes": "Queue through Morocco complete. Next: Vietnam (vn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "notes": "Queue through Vietnam complete. Next: Philippines (ph) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10211,6 +10211,181 @@
                 "minLng": -4.05,
                 "maxLat": 31.12,
                 "maxLng": -3.98
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vn",
+      "countryCode": "VN",
+      "name": "Vietnam",
+      "states": [
+        {
+          "id": "hanoi",
+          "stateCode": "HN",
+          "name": "Hanoi",
+          "cities": [
+            {
+              "id": "hanoi",
+              "name": "Hanoi",
+              "status": "complete",
+              "packPath": "vn/hanoi/hanoi/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 21.0,
+                "minLng": 105.8,
+                "maxLat": 21.07,
+                "maxLng": 105.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "quang-ninh",
+          "stateCode": "QN",
+          "name": "Quang Ninh",
+          "cities": [
+            {
+              "id": "ha-long",
+              "name": "Ha Long",
+              "status": "complete",
+              "packPath": "vn/quang-ninh/ha-long/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 20.93,
+                "minLng": 107.03,
+                "maxLat": 20.98,
+                "maxLng": 107.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "thua-thien-hue",
+          "stateCode": "TTH",
+          "name": "Thua Thien Hue",
+          "cities": [
+            {
+              "id": "hue",
+              "name": "Hue",
+              "status": "complete",
+              "packPath": "vn/thua-thien-hue/hue/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 16.44,
+                "minLng": 107.55,
+                "maxLat": 16.48,
+                "maxLng": 107.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "lao-cai",
+          "stateCode": "LC",
+          "name": "Lao Cai",
+          "cities": [
+            {
+              "id": "sapa",
+              "name": "Sapa",
+              "status": "complete",
+              "packPath": "vn/lao-cai/sapa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 22.32,
+                "minLng": 103.83,
+                "maxLat": 22.36,
+                "maxLng": 103.87
+              }
+            }
+          ]
+        },
+        {
+          "id": "quang-nam",
+          "stateCode": "QNA",
+          "name": "Quang Nam",
+          "cities": [
+            {
+              "id": "hoi-an",
+              "name": "Hoi An",
+              "status": "complete",
+              "packPath": "vn/quang-nam/hoi-an/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 15.87,
+                "minLng": 108.31,
+                "maxLat": 15.9,
+                "maxLng": 108.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "da-nang",
+          "stateCode": "DN",
+          "name": "Da Nang",
+          "cities": [
+            {
+              "id": "da-nang",
+              "name": "Da Nang",
+              "status": "complete",
+              "packPath": "vn/da-nang/da-nang/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 16.03,
+                "minLng": 108.2,
+                "maxLat": 16.08,
+                "maxLng": 108.25
+              }
+            }
+          ]
+        },
+        {
+          "id": "ho-chi-minh",
+          "stateCode": "HCM",
+          "name": "Ho Chi Minh City",
+          "cities": [
+            {
+              "id": "ho-chi-minh-city",
+              "name": "Ho Chi Minh City",
+              "status": "complete",
+              "packPath": "vn/ho-chi-minh/ho-chi-minh-city/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 10.75,
+                "minLng": 106.67,
+                "maxLat": 10.82,
+                "maxLng": 106.72
+              }
+            }
+          ]
+        },
+        {
+          "id": "khanh-hoa",
+          "stateCode": "KH",
+          "name": "Khanh Hoa",
+          "cities": [
+            {
+              "id": "nha-trang",
+              "name": "Nha Trang",
+              "status": "complete",
+              "packPath": "vn/khanh-hoa/nha-trang/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:45:00.000Z",
+              "bbox": {
+                "minLat": 12.22,
+                "minLng": 109.17,
+                "maxLat": 12.26,
+                "maxLng": 109.21
               }
             }
           ]

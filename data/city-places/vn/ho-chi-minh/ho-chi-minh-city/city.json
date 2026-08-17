@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/ho-chi-minh/ho-chi-minh-city",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "HCM",
+  "stateName": "Ho Chi Minh City",
+  "cityName": "Ho Chi Minh City",
+  "bbox": {
+    "minLat": 10.75,
+    "minLng": 106.67,
+    "maxLat": 10.82,
+    "maxLng": 106.72
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "notre-dame-saigon",
+      "name": "Notre-Dame Cathedral Basilica of Saigon",
+      "lat": 10.7798,
+      "lng": 106.699,
+      "radiusM": 100,
+      "address": "District 1",
+      "howTo": "Visit Notre-Dame Cathedral Basilica of Saigon.",
+      "badge": "badges/notre-dame-saigon.png"
+    },
+    {
+      "id": "ben-thanh-market",
+      "name": "Ben Thanh Market",
+      "lat": 10.7725,
+      "lng": 106.698,
+      "radiusM": 120,
+      "address": "District 1",
+      "howTo": "Visit Ben Thanh Market.",
+      "badge": "badges/ben-thanh-market.png"
+    },
+    {
+      "id": "war-remnants-museum",
+      "name": "War Remnants Museum",
+      "lat": 10.7793,
+      "lng": 106.692,
+      "radiusM": 120,
+      "address": "District 3",
+      "howTo": "Visit War Remnants Museum.",
+      "badge": "badges/war-remnants-museum.png"
+    },
+    {
+      "id": "bitexco-financial-tower",
+      "name": "Bitexco Financial Tower",
+      "lat": 10.7716,
+      "lng": 106.7042,
+      "radiusM": 100,
+      "address": "District 1",
+      "howTo": "Visit Bitexco Financial Tower.",
+      "badge": "badges/bitexco-financial-tower.png"
+    }
+  ]
+}

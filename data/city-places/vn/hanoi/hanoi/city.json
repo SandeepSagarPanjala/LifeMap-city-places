@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/hanoi/hanoi",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "HN",
+  "stateName": "Hanoi",
+  "cityName": "Hanoi",
+  "bbox": {
+    "minLat": 21.0,
+    "minLng": 105.8,
+    "maxLat": 21.07,
+    "maxLng": 105.88
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hoan-kiem-lake",
+      "name": "Hoan Kiem Lake",
+      "lat": 21.0287,
+      "lng": 105.8525,
+      "radiusM": 200,
+      "address": "Hoan Kiem",
+      "howTo": "Visit Hoan Kiem Lake.",
+      "badge": "badges/hoan-kiem-lake.png"
+    },
+    {
+      "id": "temple-of-literature",
+      "name": "Temple of Literature",
+      "lat": 21.027,
+      "lng": 105.8357,
+      "radiusM": 150,
+      "address": "Dong Da",
+      "howTo": "Visit Temple of Literature.",
+      "badge": "badges/temple-of-literature.png"
+    },
+    {
+      "id": "ho-chi-minh-mausoleum",
+      "name": "Ho Chi Minh Mausoleum",
+      "lat": 21.0369,
+      "lng": 105.8342,
+      "radiusM": 150,
+      "address": "Ba Dinh",
+      "howTo": "Visit Ho Chi Minh Mausoleum.",
+      "badge": "badges/ho-chi-minh-mausoleum.png"
+    },
+    {
+      "id": "hanoi-old-quarter",
+      "name": "Hanoi Old Quarter",
+      "lat": 21.034,
+      "lng": 105.85,
+      "radiusM": 250,
+      "address": "Hoan Kiem",
+      "howTo": "Visit Hanoi Old Quarter.",
+      "badge": "badges/hanoi-old-quarter.png"
+    },
+    {
+      "id": "west-lake-hanoi",
+      "name": "West Lake",
+      "lat": 21.055,
+      "lng": 105.818,
+      "radiusM": 300,
+      "address": "Tay Ho",
+      "howTo": "Visit West Lake.",
+      "badge": "badges/west-lake-hanoi.png"
+    }
+  ]
+}

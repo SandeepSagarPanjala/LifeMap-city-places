@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:32:15.370Z",
+  "generatedAt": "2026-08-17T23:37:20.456Z",
   "cellDeg": 0.5,
-  "cityCount": 577,
+  "cityCount": 585,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -5196,6 +5196,78 @@
         "maxLat": 43.51,
         "maxLng": -110.73
       }
+    },
+    "vn/da-nang/da-nang": {
+      "name": "Da Nang",
+      "bbox": {
+        "minLat": 16.03,
+        "minLng": 108.2,
+        "maxLat": 16.08,
+        "maxLng": 108.25
+      }
+    },
+    "vn/hanoi/hanoi": {
+      "name": "Hanoi",
+      "bbox": {
+        "minLat": 21,
+        "minLng": 105.8,
+        "maxLat": 21.07,
+        "maxLng": 105.88
+      }
+    },
+    "vn/ho-chi-minh/ho-chi-minh-city": {
+      "name": "Ho Chi Minh City",
+      "bbox": {
+        "minLat": 10.75,
+        "minLng": 106.67,
+        "maxLat": 10.82,
+        "maxLng": 106.72
+      }
+    },
+    "vn/khanh-hoa/nha-trang": {
+      "name": "Nha Trang",
+      "bbox": {
+        "minLat": 12.22,
+        "minLng": 109.17,
+        "maxLat": 12.26,
+        "maxLng": 109.21
+      }
+    },
+    "vn/lao-cai/sapa": {
+      "name": "Sapa",
+      "bbox": {
+        "minLat": 22.32,
+        "minLng": 103.83,
+        "maxLat": 22.36,
+        "maxLng": 103.87
+      }
+    },
+    "vn/quang-nam/hoi-an": {
+      "name": "Hoi An",
+      "bbox": {
+        "minLat": 15.87,
+        "minLng": 108.31,
+        "maxLat": 15.9,
+        "maxLng": 108.35
+      }
+    },
+    "vn/quang-ninh/ha-long": {
+      "name": "Ha Long",
+      "bbox": {
+        "minLat": 20.93,
+        "minLng": 107.03,
+        "maxLat": 20.98,
+        "maxLng": 107.1
+      }
+    },
+    "vn/thua-thien-hue/hue": {
+      "name": "Hue",
+      "bbox": {
+        "minLat": 16.44,
+        "minLng": 107.55,
+        "maxLat": 16.48,
+        "maxLng": 107.6
+      }
     }
   },
   "cells": {
@@ -7461,6 +7533,30 @@
     ],
     "62,-8": [
       "ma/draa-tafilalet/merzouga"
+    ],
+    "42,211": [
+      "vn/hanoi/hanoi"
+    ],
+    "41,214": [
+      "vn/quang-ninh/ha-long"
+    ],
+    "32,215": [
+      "vn/thua-thien-hue/hue"
+    ],
+    "44,207": [
+      "vn/lao-cai/sapa"
+    ],
+    "31,216": [
+      "vn/quang-nam/hoi-an"
+    ],
+    "32,216": [
+      "vn/da-nang/da-nang"
+    ],
+    "21,213": [
+      "vn/ho-chi-minh/ho-chi-minh-city"
+    ],
+    "24,218": [
+      "vn/khanh-hoa/nha-trang"
     ]
   }
 }

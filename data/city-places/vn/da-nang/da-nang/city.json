@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/da-nang/da-nang",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "DN",
+  "stateName": "Da Nang",
+  "cityName": "Da Nang",
+  "bbox": {
+    "minLat": 16.03,
+    "minLng": 108.2,
+    "maxLat": 16.08,
+    "maxLng": 108.25
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "marble-mountains",
+      "name": "Marble Mountains",
+      "lat": 16.003,
+      "lng": 108.263,
+      "radiusM": 200,
+      "address": "Ngu Hanh Son",
+      "howTo": "Visit Marble Mountains.",
+      "badge": "badges/marble-mountains.png"
+    },
+    {
+      "id": "dragon-bridge",
+      "name": "Dragon Bridge",
+      "lat": 16.061,
+      "lng": 108.227,
+      "radiusM": 150,
+      "address": "Han River",
+      "howTo": "Visit Dragon Bridge.",
+      "badge": "badges/dragon-bridge.png"
+    },
+    {
+      "id": "my-khe-beach",
+      "name": "My Khe Beach",
+      "lat": 16.047,
+      "lng": 108.248,
+      "radiusM": 300,
+      "address": "Son Tra",
+      "howTo": "Visit My Khe Beach.",
+      "badge": "badges/my-khe-beach.png"
+    }
+  ]
+}

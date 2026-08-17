@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/thua-thien-hue/hue",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "TTH",
+  "stateName": "Thua Thien Hue",
+  "cityName": "Hue",
+  "bbox": {
+    "minLat": 16.44,
+    "minLng": 107.55,
+    "maxLat": 16.48,
+    "maxLng": 107.6
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hue-imperial-city",
+      "name": "Hue Imperial City",
+      "lat": 16.4696,
+      "lng": 107.5797,
+      "radiusM": 250,
+      "address": "Citadel",
+      "howTo": "Visit Hue Imperial City.",
+      "badge": "badges/hue-imperial-city.png"
+    },
+    {
+      "id": "thien-mu-pagoda",
+      "name": "Thien Mu Pagoda",
+      "lat": 16.453,
+      "lng": 107.542,
+      "radiusM": 120,
+      "address": "Huong Long",
+      "howTo": "Visit Thien Mu Pagoda.",
+      "badge": "badges/thien-mu-pagoda.png"
+    },
+    {
+      "id": "tu-duc-tomb",
+      "name": "Tu Duc Tomb",
+      "lat": 16.432,
+      "lng": 107.561,
+      "radiusM": 200,
+      "address": "Thuy Xuan",
+      "howTo": "Visit Tu Duc Tomb.",
+      "badge": "badges/tu-duc-tomb.png"
+    }
+  ]
+}

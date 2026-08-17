@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/quang-ninh/ha-long",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "QN",
+  "stateName": "Quang Ninh",
+  "cityName": "Ha Long",
+  "bbox": {
+    "minLat": 20.93,
+    "minLng": 107.03,
+    "maxLat": 20.98,
+    "maxLng": 107.1
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ha-long-bay",
+      "name": "Ha Long Bay",
+      "lat": 20.9101,
+      "lng": 107.1839,
+      "radiusM": 500,
+      "address": "Ha Long Bay",
+      "howTo": "Visit Ha Long Bay.",
+      "badge": "badges/ha-long-bay.png"
+    },
+    {
+      "id": "sung-sot-cave",
+      "name": "Sung Sot Cave",
+      "lat": 20.893,
+      "lng": 107.099,
+      "radiusM": 150,
+      "address": "Bo Hon Island",
+      "howTo": "Visit Sung Sot Cave.",
+      "badge": "badges/sung-sot-cave.png"
+    }
+  ]
+}

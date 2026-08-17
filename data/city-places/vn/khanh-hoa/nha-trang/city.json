@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vn/khanh-hoa/nha-trang",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "stateCode": "KH",
+  "stateName": "Khanh Hoa",
+  "cityName": "Nha Trang",
+  "bbox": {
+    "minLat": 12.22,
+    "minLng": 109.17,
+    "maxLat": 12.26,
+    "maxLng": 109.21
+  },
+  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nha-trang-beach",
+      "name": "Nha Trang Beach",
+      "lat": 12.238,
+      "lng": 109.196,
+      "radiusM": 300,
+      "address": "Tran Phu",
+      "howTo": "Visit Nha Trang Beach.",
+      "badge": "badges/nha-trang-beach.png"
+    },
+    {
+      "id": "po-nagar-cham-towers",
+      "name": "Po Nagar Cham Towers",
+      "lat": 12.265,
+      "lng": 109.195,
+      "radiusM": 120,
+      "address": "Po Nagar",
+      "howTo": "Visit Po Nagar Cham Towers.",
+      "badge": "badges/po-nagar-cham-towers.png"
+    }
+  ]
+}
