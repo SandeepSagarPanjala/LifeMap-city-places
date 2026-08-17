@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:00:00.000Z",
-  "notes": "Queue through Argentina complete. Next: Peru (pe) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "notes": "Queue through Peru complete. Next: Colombia (co) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10960,6 +10960,111 @@
                 "minLng": -68.32,
                 "maxLat": -54.78,
                 "maxLng": -68.28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe",
+      "countryCode": "PE",
+      "name": "Peru",
+      "states": [
+        {
+          "id": "lima",
+          "stateCode": "LIM",
+          "name": "Lima",
+          "cities": [
+            {
+              "id": "lima",
+              "name": "Lima",
+              "status": "complete",
+              "packPath": "pe/lima/lima/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T04:20:00.000Z",
+              "bbox": {
+                "minLat": -12.15,
+                "minLng": -77.05,
+                "maxLat": -12.05,
+                "maxLng": -77.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "cusco",
+          "stateCode": "CUS",
+          "name": "Cusco",
+          "cities": [
+            {
+              "id": "cusco",
+              "name": "Cusco",
+              "status": "complete",
+              "packPath": "pe/cusco/cusco/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T04:20:00.000Z",
+              "bbox": {
+                "minLat": -13.53,
+                "minLng": -71.98,
+                "maxLat": -13.5,
+                "maxLng": -71.95
+              }
+            },
+            {
+              "id": "machu-picchu",
+              "name": "Machu Picchu",
+              "status": "complete",
+              "packPath": "pe/cusco/machu-picchu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:20:00.000Z",
+              "bbox": {
+                "minLat": -13.18,
+                "minLng": -72.55,
+                "maxLat": -13.15,
+                "maxLng": -72.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "arequipa",
+          "stateCode": "ARE",
+          "name": "Arequipa",
+          "cities": [
+            {
+              "id": "arequipa",
+              "name": "Arequipa",
+              "status": "complete",
+              "packPath": "pe/arequipa/arequipa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:20:00.000Z",
+              "bbox": {
+                "minLat": -16.41,
+                "minLng": -71.55,
+                "maxLat": -16.38,
+                "maxLng": -71.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "puno",
+          "stateCode": "PUN",
+          "name": "Puno",
+          "cities": [
+            {
+              "id": "puno",
+              "name": "Puno",
+              "status": "complete",
+              "packPath": "pe/puno/puno/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:20:00.000Z",
+              "bbox": {
+                "minLat": -16.0,
+                "minLng": -70.05,
+                "maxLat": -15.82,
+                "maxLng": -69.8
               }
             }
           ]

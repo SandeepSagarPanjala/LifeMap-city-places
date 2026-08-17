@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pe/puno/puno",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "stateCode": "PUN",
+  "stateName": "Puno",
+  "cityName": "Puno",
+  "bbox": {
+    "minLat": -16.0,
+    "minLng": -70.05,
+    "maxLat": -15.82,
+    "maxLng": -69.8
+  },
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-titicaca-floating-islands",
+      "name": "Uros Floating Islands",
+      "lat": -15.82,
+      "lng": -70.02,
+      "radiusM": 300,
+      "address": "Lake Titicaca",
+      "howTo": "Visit Uros Floating Islands.",
+      "badge": "badges/lake-titicaca-floating-islands.png"
+    },
+    {
+      "id": "sillustani",
+      "name": "Sillustani Burial Towers",
+      "lat": -15.72,
+      "lng": -70.16,
+      "radiusM": 200,
+      "address": "Sillustani",
+      "howTo": "Visit Sillustani Burial Towers.",
+      "badge": "badges/sillustani.png"
+    }
+  ]
+}

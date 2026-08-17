@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pe/arequipa/arequipa",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "stateCode": "ARE",
+  "stateName": "Arequipa",
+  "cityName": "Arequipa",
+  "bbox": {
+    "minLat": -16.41,
+    "minLng": -71.55,
+    "maxLat": -16.38,
+    "maxLng": -71.52
+  },
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "arequipa-plaza-de-armas",
+      "name": "Arequipa Plaza de Armas",
+      "lat": -16.398,
+      "lng": -71.537,
+      "radiusM": 150,
+      "address": "Centro Historico",
+      "howTo": "Visit Arequipa Plaza de Armas.",
+      "badge": "badges/arequipa-plaza-de-armas.png"
+    },
+    {
+      "id": "colca-canyon",
+      "name": "Colca Canyon",
+      "lat": -15.64,
+      "lng": -71.98,
+      "radiusM": 400,
+      "address": "Colca Valley",
+      "howTo": "Visit Colca Canyon.",
+      "badge": "badges/colca-canyon.png"
+    }
+  ]
+}

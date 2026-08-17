@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "pe/lima/lima",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "stateCode": "LIM",
+  "stateName": "Lima",
+  "cityName": "Lima",
+  "bbox": {
+    "minLat": -12.15,
+    "minLng": -77.05,
+    "maxLat": -12.05,
+    "maxLng": -77.0
+  },
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "miraflores-cliff",
+      "name": "Miraflores Clifftop",
+      "lat": -12.122,
+      "lng": -77.03,
+      "radiusM": 200,
+      "address": "Miraflores",
+      "howTo": "Visit Miraflores Clifftop.",
+      "badge": "badges/miraflores-cliff.png"
+    },
+    {
+      "id": "plaza-mayor-lima",
+      "name": "Plaza Mayor of Lima",
+      "lat": -12.046,
+      "lng": -77.0305,
+      "radiusM": 150,
+      "address": "Centro Historico",
+      "howTo": "Visit Plaza Mayor of Lima.",
+      "badge": "badges/plaza-mayor-lima.png"
+    },
+    {
+      "id": "larco-museum",
+      "name": "Larco Museum",
+      "lat": -12.072,
+      "lng": -77.07,
+      "radiusM": 120,
+      "address": "Pueblo Libre",
+      "howTo": "Visit Larco Museum.",
+      "badge": "badges/larco-museum.png"
+    },
+    {
+      "id": "barranco-district",
+      "name": "Barranco District",
+      "lat": -12.152,
+      "lng": -77.021,
+      "radiusM": 200,
+      "address": "Barranco",
+      "howTo": "Visit Barranco District.",
+      "badge": "badges/barranco-district.png"
+    }
+  ]
+}

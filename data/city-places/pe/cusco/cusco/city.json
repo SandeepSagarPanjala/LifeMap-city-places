@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "pe/cusco/cusco",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "stateCode": "CUS",
+  "stateName": "Cusco",
+  "cityName": "Cusco",
+  "bbox": {
+    "minLat": -13.53,
+    "minLng": -71.98,
+    "maxLat": -13.5,
+    "maxLng": -71.95
+  },
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-de-armas-cusco",
+      "name": "Plaza de Armas Cusco",
+      "lat": -13.5167,
+      "lng": -71.9785,
+      "radiusM": 150,
+      "address": "Centro Historico",
+      "howTo": "Visit Plaza de Armas Cusco.",
+      "badge": "badges/plaza-de-armas-cusco.png"
+    },
+    {
+      "id": "sacsayhuaman",
+      "name": "Sacsayhuaman",
+      "lat": -13.5083,
+      "lng": -71.982,
+      "radiusM": 250,
+      "address": "Sacsayhuaman",
+      "howTo": "Visit Sacsayhuaman.",
+      "badge": "badges/sacsayhuaman.png"
+    },
+    {
+      "id": "coricancha",
+      "name": "Coricancha",
+      "lat": -13.519,
+      "lng": -71.975,
+      "radiusM": 120,
+      "address": "Coricancha",
+      "howTo": "Visit Coricancha.",
+      "badge": "badges/coricancha.png"
+    },
+    {
+      "id": "san-pedro-market-cusco",
+      "name": "San Pedro Market",
+      "lat": -13.525,
+      "lng": -71.968,
+      "radiusM": 150,
+      "address": "San Pedro",
+      "howTo": "Visit San Pedro Market.",
+      "badge": "badges/san-pedro-market-cusco.png"
+    }
+  ]
+}

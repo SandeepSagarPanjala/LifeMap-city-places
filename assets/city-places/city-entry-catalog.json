@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:53:23.177Z",
+  "generatedAt": "2026-08-17T23:56:17.604Z",
   "cellDeg": 0.5,
-  "cityCount": 612,
+  "cityCount": 617,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3449,6 +3449,51 @@
         "minLng": 170.18,
         "maxLat": -43.38,
         "maxLng": 170.2
+      }
+    },
+    "pe/arequipa/arequipa": {
+      "name": "Arequipa",
+      "bbox": {
+        "minLat": -16.41,
+        "minLng": -71.55,
+        "maxLat": -16.38,
+        "maxLng": -71.52
+      }
+    },
+    "pe/cusco/cusco": {
+      "name": "Cusco",
+      "bbox": {
+        "minLat": -13.53,
+        "minLng": -71.98,
+        "maxLat": -13.5,
+        "maxLng": -71.95
+      }
+    },
+    "pe/cusco/machu-picchu": {
+      "name": "Machu Picchu",
+      "bbox": {
+        "minLat": -13.18,
+        "minLng": -72.55,
+        "maxLat": -13.15,
+        "maxLng": -72.52
+      }
+    },
+    "pe/lima/lima": {
+      "name": "Lima",
+      "bbox": {
+        "minLat": -12.15,
+        "minLng": -77.05,
+        "maxLat": -12.05,
+        "maxLng": -77
+      }
+    },
+    "pe/puno/puno": {
+      "name": "Puno",
+      "bbox": {
+        "minLat": -16,
+        "minLng": -70.05,
+        "maxLat": -15.82,
+        "maxLng": -69.8
       }
     },
     "ph/aklan/boracay": {
@@ -7901,6 +7946,30 @@
     ],
     "-110,-137": [
       "ar/tierra-del-fuego/ushuaia"
+    ],
+    "-25,-155": [
+      "pe/lima/lima"
+    ],
+    "-25,-154": [
+      "pe/lima/lima"
+    ],
+    "-28,-144": [
+      "pe/cusco/cusco"
+    ],
+    "-27,-144": [
+      "pe/cusco/cusco"
+    ],
+    "-27,-146": [
+      "pe/cusco/machu-picchu"
+    ],
+    "-33,-144": [
+      "pe/arequipa/arequipa"
+    ],
+    "-32,-141": [
+      "pe/puno/puno"
+    ],
+    "-32,-140": [
+      "pe/puno/puno"
     ]
   }
 }

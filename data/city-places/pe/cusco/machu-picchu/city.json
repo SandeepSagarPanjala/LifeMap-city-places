@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pe/cusco/machu-picchu",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "stateCode": "CUS",
+  "stateName": "Cusco",
+  "cityName": "Machu Picchu",
+  "bbox": {
+    "minLat": -13.18,
+    "minLng": -72.55,
+    "maxLat": -13.15,
+    "maxLng": -72.52
+  },
+  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "machu-picchu-citadel",
+      "name": "Machu Picchu Citadel",
+      "lat": -13.1631,
+      "lng": -72.545,
+      "radiusM": 300,
+      "address": "Machu Picchu",
+      "howTo": "Visit Machu Picchu Citadel.",
+      "badge": "badges/machu-picchu-citadel.png"
+    },
+    {
+      "id": "sun-gate-machu-picchu",
+      "name": "Sun Gate",
+      "lat": -13.17,
+      "lng": -72.535,
+      "radiusM": 200,
+      "address": "Inti Punku",
+      "howTo": "Visit Sun Gate.",
+      "badge": "badges/sun-gate-machu-picchu.png"
+    }
+  ]
+}
