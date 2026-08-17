@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T00:00:00.000Z",
-  "notes": "Queue through Indonesia complete. Next: Turkey (tr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T00:30:00.000Z",
+  "notes": "Queue through Turkey complete. Next: Greece (gr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -9658,6 +9658,132 @@
                 "minLng": 104.02,
                 "maxLat": 1.15,
                 "maxLng": 104.08
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tr",
+      "countryCode": "TR",
+      "name": "Turkey",
+      "states": [
+        {
+          "id": "istanbul",
+          "stateCode": "34",
+          "name": "Istanbul",
+          "cities": [
+            {
+              "id": "istanbul",
+              "name": "Istanbul",
+              "status": "complete",
+              "packPath": "tr/istanbul/istanbul/city.json",
+              "placeCount": 6,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 40.95,
+                "minLng": 28.9,
+                "maxLat": 41.08,
+                "maxLng": 29.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "izmir",
+          "stateCode": "35",
+          "name": "Izmir",
+          "cities": [
+            {
+              "id": "ephesus",
+              "name": "Ephesus",
+              "status": "complete",
+              "packPath": "tr/izmir/ephesus/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 37.93,
+                "minLng": 27.33,
+                "maxLat": 37.95,
+                "maxLng": 27.36
+              }
+            }
+          ]
+        },
+        {
+          "id": "antalya",
+          "stateCode": "07",
+          "name": "Antalya",
+          "cities": [
+            {
+              "id": "antalya",
+              "name": "Antalya",
+              "status": "complete",
+              "packPath": "tr/antalya/antalya/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 36.85,
+                "minLng": 30.68,
+                "maxLat": 36.9,
+                "maxLng": 30.75
+              }
+            }
+          ]
+        },
+        {
+          "id": "mugla",
+          "stateCode": "48",
+          "name": "Mugla",
+          "cities": [
+            {
+              "id": "bodrum",
+              "name": "Bodrum",
+              "status": "complete",
+              "packPath": "tr/mugla/bodrum/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 37.02,
+                "minLng": 27.4,
+                "maxLat": 37.05,
+                "maxLng": 27.45
+              }
+            },
+            {
+              "id": "fethiye",
+              "name": "Fethiye",
+              "status": "complete",
+              "packPath": "tr/mugla/fethiye/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 36.62,
+                "minLng": 29.1,
+                "maxLat": 36.65,
+                "maxLng": 29.14
+              }
+            }
+          ]
+        },
+        {
+          "id": "nevsehir",
+          "stateCode": "50",
+          "name": "Nevsehir",
+          "cities": [
+            {
+              "id": "cappadocia",
+              "name": "Cappadocia",
+              "status": "complete",
+              "packPath": "tr/nevsehir/cappadocia/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T00:10:00.000Z",
+              "bbox": {
+                "minLat": 38.62,
+                "minLng": 34.8,
+                "maxLat": 38.68,
+                "maxLng": 34.88
               }
             }
           ]

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/istanbul/istanbul",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "34",
+  "stateName": "Istanbul",
+  "cityName": "Istanbul",
+  "bbox": {
+    "minLat": 40.95,
+    "minLng": 28.9,
+    "maxLat": 41.08,
+    "maxLng": 29.05
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hagia-sophia",
+      "name": "Hagia Sophia",
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "radiusM": 120,
+      "address": "Sultanahmet",
+      "howTo": "Visit Hagia Sophia.",
+      "badge": "badges/hagia-sophia.png"
+    },
+    {
+      "id": "blue-mosque",
+      "name": "Blue Mosque",
+      "lat": 41.0054,
+      "lng": 28.9768,
+      "radiusM": 100,
+      "address": "Sultanahmet",
+      "howTo": "Visit Blue Mosque.",
+      "badge": "badges/blue-mosque.png"
+    },
+    {
+      "id": "topkapi-palace",
+      "name": "Topkapi Palace",
+      "lat": 41.0115,
+      "lng": 28.9833,
+      "radiusM": 200,
+      "address": "Sultanahmet",
+      "howTo": "Visit Topkapi Palace.",
+      "badge": "badges/topkapi-palace.png"
+    },
+    {
+      "id": "galata-tower",
+      "name": "Galata Tower",
+      "lat": 41.0256,
+      "lng": 28.9744,
+      "radiusM": 80,
+      "address": "Galata",
+      "howTo": "Visit Galata Tower.",
+      "badge": "badges/galata-tower.png"
+    },
+    {
+      "id": "grand-bazaar",
+      "name": "Grand Bazaar",
+      "lat": 41.0107,
+      "lng": 28.968,
+      "radiusM": 200,
+      "address": "Beyazit",
+      "howTo": "Visit Grand Bazaar.",
+      "badge": "badges/grand-bazaar.png"
+    },
+    {
+      "id": "bosphorus-view",
+      "name": "Bosphorus Viewpoint",
+      "lat": 41.0391,
+      "lng": 29.0094,
+      "radiusM": 200,
+      "address": "Ortakoy",
+      "howTo": "Visit Bosphorus Viewpoint.",
+      "badge": "badges/bosphorus-view.png"
+    }
+  ]
+}

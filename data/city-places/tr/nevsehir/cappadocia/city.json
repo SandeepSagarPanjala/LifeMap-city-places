@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/nevsehir/cappadocia",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "50",
+  "stateName": "Nevsehir",
+  "cityName": "Cappadocia",
+  "bbox": {
+    "minLat": 38.62,
+    "minLng": 34.8,
+    "maxLat": 38.68,
+    "maxLng": 34.88
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hot-air-balloon-cappadocia",
+      "name": "Cappadocia Hot Air Balloons",
+      "lat": 38.6435,
+      "lng": 34.8295,
+      "radiusM": 300,
+      "address": "Goreme",
+      "howTo": "Visit Cappadocia Hot Air Balloons.",
+      "badge": "badges/hot-air-balloon-cappadocia.png"
+    },
+    {
+      "id": "underground-city-derinkuyu",
+      "name": "Derinkuyu Underground City",
+      "lat": 38.3755,
+      "lng": 34.7345,
+      "radiusM": 200,
+      "address": "Derinkuyu",
+      "howTo": "Visit Derinkuyu Underground City.",
+      "badge": "badges/underground-city-derinkuyu.png"
+    },
+    {
+      "id": "love-valley",
+      "name": "Love Valley",
+      "lat": 38.6555,
+      "lng": 34.8185,
+      "radiusM": 200,
+      "address": "Goreme",
+      "howTo": "Visit Love Valley.",
+      "badge": "badges/love-valley.png"
+    }
+  ]
+}

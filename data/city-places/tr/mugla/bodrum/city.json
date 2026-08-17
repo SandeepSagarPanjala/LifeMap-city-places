@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/mugla/bodrum",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "48",
+  "stateName": "Mugla",
+  "cityName": "Bodrum",
+  "bbox": {
+    "minLat": 37.02,
+    "minLng": 27.4,
+    "maxLat": 37.05,
+    "maxLng": 27.45
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bodrum-castle",
+      "name": "Bodrum Castle",
+      "lat": 37.0318,
+      "lng": 27.4295,
+      "radiusM": 120,
+      "address": "Bodrum",
+      "howTo": "Visit Bodrum Castle.",
+      "badge": "badges/bodrum-castle.png"
+    },
+    {
+      "id": "mausoleum-at-halicarnassus",
+      "name": "Mausoleum at Halicarnassus",
+      "lat": 37.0379,
+      "lng": 27.4241,
+      "radiusM": 100,
+      "address": "Bodrum",
+      "howTo": "Visit Mausoleum at Halicarnassus.",
+      "badge": "badges/mausoleum-at-halicarnassus.png"
+    },
+    {
+      "id": "bodrum-marina",
+      "name": "Bodrum Marina",
+      "lat": 37.0345,
+      "lng": 27.4285,
+      "radiusM": 150,
+      "address": "Bodrum",
+      "howTo": "Visit Bodrum Marina.",
+      "badge": "badges/bodrum-marina.png"
+    }
+  ]
+}

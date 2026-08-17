@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/izmir/ephesus",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "35",
+  "stateName": "Izmir",
+  "cityName": "Ephesus",
+  "bbox": {
+    "minLat": 37.93,
+    "minLng": 27.33,
+    "maxLat": 37.95,
+    "maxLng": 27.36
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "library-of-celsus",
+      "name": "Library of Celsus",
+      "lat": 37.9391,
+      "lng": 27.3409,
+      "radiusM": 120,
+      "address": "Ephesus",
+      "howTo": "Visit Library of Celsus.",
+      "badge": "badges/library-of-celsus.png"
+    },
+    {
+      "id": "ephesus-theatre",
+      "name": "Ephesus Great Theatre",
+      "lat": 37.9375,
+      "lng": 27.3418,
+      "radiusM": 150,
+      "address": "Ephesus",
+      "howTo": "Visit Ephesus Great Theatre.",
+      "badge": "badges/ephesus-theatre.png"
+    },
+    {
+      "id": "temple-of-artemis",
+      "name": "Temple of Artemis",
+      "lat": 37.9497,
+      "lng": 27.3639,
+      "radiusM": 100,
+      "address": "Selcuk",
+      "howTo": "Visit Temple of Artemis.",
+      "badge": "badges/temple-of-artemis.png"
+    }
+  ]
+}

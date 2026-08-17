@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:02:58.617Z",
+  "generatedAt": "2026-08-17T23:11:04.617Z",
   "cellDeg": 0.5,
-  "cityCount": 550,
+  "cityCount": 556,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3350,6 +3350,60 @@
         "minLng": 99.69,
         "maxLat": 17.03,
         "maxLng": 99.71
+      }
+    },
+    "tr/antalya/antalya": {
+      "name": "Antalya",
+      "bbox": {
+        "minLat": 36.85,
+        "minLng": 30.68,
+        "maxLat": 36.9,
+        "maxLng": 30.75
+      }
+    },
+    "tr/istanbul/istanbul": {
+      "name": "Istanbul",
+      "bbox": {
+        "minLat": 40.95,
+        "minLng": 28.9,
+        "maxLat": 41.08,
+        "maxLng": 29.05
+      }
+    },
+    "tr/izmir/ephesus": {
+      "name": "Ephesus",
+      "bbox": {
+        "minLat": 37.93,
+        "minLng": 27.33,
+        "maxLat": 37.95,
+        "maxLng": 27.36
+      }
+    },
+    "tr/mugla/bodrum": {
+      "name": "Bodrum",
+      "bbox": {
+        "minLat": 37.02,
+        "minLng": 27.4,
+        "maxLat": 37.05,
+        "maxLng": 27.45
+      }
+    },
+    "tr/mugla/fethiye": {
+      "name": "Fethiye",
+      "bbox": {
+        "minLat": 36.62,
+        "minLng": 29.1,
+        "maxLat": 36.65,
+        "maxLng": 29.14
+      }
+    },
+    "tr/nevsehir/cappadocia": {
+      "name": "Cappadocia",
+      "bbox": {
+        "minLat": 38.62,
+        "minLng": 34.8,
+        "maxLat": 38.68,
+        "maxLng": 34.88
       }
     },
     "us/alabama/birmingham": {
@@ -7107,6 +7161,33 @@
     ],
     "2,208": [
       "id/riau-islands/batam"
+    ],
+    "81,57": [
+      "tr/istanbul/istanbul"
+    ],
+    "81,58": [
+      "tr/istanbul/istanbul"
+    ],
+    "82,57": [
+      "tr/istanbul/istanbul"
+    ],
+    "82,58": [
+      "tr/istanbul/istanbul"
+    ],
+    "75,54": [
+      "tr/izmir/ephesus"
+    ],
+    "73,61": [
+      "tr/antalya/antalya"
+    ],
+    "74,54": [
+      "tr/mugla/bodrum"
+    ],
+    "73,58": [
+      "tr/mugla/fethiye"
+    ],
+    "77,69": [
+      "tr/nevsehir/cappadocia"
     ]
   }
 }

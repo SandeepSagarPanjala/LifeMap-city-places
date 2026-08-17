@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/mugla/fethiye",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "48",
+  "stateName": "Mugla",
+  "cityName": "Fethiye",
+  "bbox": {
+    "minLat": 36.62,
+    "minLng": 29.1,
+    "maxLat": 36.65,
+    "maxLng": 29.14
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "oludeniz-beach",
+      "name": "Oludeniz Beach",
+      "lat": 36.5493,
+      "lng": 29.115,
+      "radiusM": 200,
+      "address": "Oludeniz",
+      "howTo": "Visit Oludeniz Beach.",
+      "badge": "badges/oludeniz-beach.png"
+    },
+    {
+      "id": "kayakoy-ghost-village",
+      "name": "Kayakoy Ghost Village",
+      "lat": 36.5745,
+      "lng": 29.0915,
+      "radiusM": 200,
+      "address": "Kayakoy",
+      "howTo": "Visit Kayakoy Ghost Village.",
+      "badge": "badges/kayakoy-ghost-village.png"
+    },
+    {
+      "id": "saklikent-gorge",
+      "name": "Saklikent Gorge",
+      "lat": 36.4665,
+      "lng": 29.4045,
+      "radiusM": 200,
+      "address": "Saklikent",
+      "howTo": "Visit Saklikent Gorge.",
+      "badge": "badges/saklikent-gorge.png"
+    }
+  ]
+}

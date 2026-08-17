@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tr/antalya/antalya",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "stateCode": "07",
+  "stateName": "Antalya",
+  "cityName": "Antalya",
+  "bbox": {
+    "minLat": 36.85,
+    "minLng": 30.68,
+    "maxLat": 36.9,
+    "maxLng": 30.75
+  },
+  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kaleici",
+      "name": "Kaleici Old Town",
+      "lat": 36.8841,
+      "lng": 30.7056,
+      "radiusM": 200,
+      "address": "Antalya",
+      "howTo": "Visit Kaleici Old Town.",
+      "badge": "badges/kaleici.png"
+    },
+    {
+      "id": "duden-waterfalls",
+      "name": "Duden Waterfalls",
+      "lat": 36.8565,
+      "lng": 30.7835,
+      "radiusM": 150,
+      "address": "Antalya",
+      "howTo": "Visit Duden Waterfalls.",
+      "badge": "badges/duden-waterfalls.png"
+    },
+    {
+      "id": "aspendos-theatre",
+      "name": "Aspendos Theatre",
+      "lat": 36.9389,
+      "lng": 31.1725,
+      "radiusM": 120,
+      "address": "Serik",
+      "howTo": "Visit Aspendos Theatre.",
+      "badge": "badges/aspendos-theatre.png"
+    }
+  ]
+}
