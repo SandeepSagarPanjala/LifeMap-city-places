@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/salta/salta",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "SA",
+  "stateName": "Salta",
+  "cityName": "Salta",
+  "bbox": {
+    "minLat": -24.8,
+    "minLng": -65.45,
+    "maxLat": -24.75,
+    "maxLng": -65.4
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "salta-cathedral",
+      "name": "Salta Cathedral",
+      "lat": -24.785,
+      "lng": -65.41,
+      "radiusM": 120,
+      "address": "Plaza 9 de Julio",
+      "howTo": "Visit Salta Cathedral.",
+      "badge": "badges/salta-cathedral.png"
+    },
+    {
+      "id": "train-to-the-clouds",
+      "name": "Train to the Clouds Viaduct",
+      "lat": -24.25,
+      "lng": -66.45,
+      "radiusM": 300,
+      "address": "La Polvorilla",
+      "howTo": "Visit Train to the Clouds Viaduct.",
+      "badge": "badges/train-to-the-clouds.png"
+    }
+  ]
+}

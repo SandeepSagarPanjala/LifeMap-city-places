@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:40:00.000Z",
-  "notes": "Queue through South Africa complete. Next: Argentina (ar) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "notes": "Queue through Argentina complete. Next: Peru (pe) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10827,6 +10827,139 @@
                 "minLng": 31.1,
                 "maxLat": -24.8,
                 "maxLng": 31.2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ar",
+      "countryCode": "AR",
+      "name": "Argentina",
+      "states": [
+        {
+          "id": "buenos-aires",
+          "stateCode": "CABA",
+          "name": "Buenos Aires",
+          "cities": [
+            {
+              "id": "buenos-aires",
+              "name": "Buenos Aires",
+              "status": "complete",
+              "packPath": "ar/buenos-aires/buenos-aires/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -34.65,
+                "minLng": -58.4,
+                "maxLat": -34.58,
+                "maxLng": -58.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "mendoza",
+          "stateCode": "MZA",
+          "name": "Mendoza",
+          "cities": [
+            {
+              "id": "mendoza",
+              "name": "Mendoza",
+              "status": "complete",
+              "packPath": "ar/mendoza/mendoza/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -33.0,
+                "minLng": -68.9,
+                "maxLat": -32.85,
+                "maxLng": -68.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "rio-negro",
+          "stateCode": "RN",
+          "name": "Rio Negro",
+          "cities": [
+            {
+              "id": "bariloche",
+              "name": "Bariloche",
+              "status": "complete",
+              "packPath": "ar/rio-negro/bariloche/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -41.16,
+                "minLng": -71.32,
+                "maxLat": -41.12,
+                "maxLng": -71.28
+              }
+            }
+          ]
+        },
+        {
+          "id": "salta",
+          "stateCode": "SA",
+          "name": "Salta",
+          "cities": [
+            {
+              "id": "salta",
+              "name": "Salta",
+              "status": "complete",
+              "packPath": "ar/salta/salta/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -24.8,
+                "minLng": -65.45,
+                "maxLat": -24.75,
+                "maxLng": -65.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "misiones",
+          "stateCode": "MIS",
+          "name": "Misiones",
+          "cities": [
+            {
+              "id": "puerto-iguazu",
+              "name": "Puerto Iguazu",
+              "status": "complete",
+              "packPath": "ar/misiones/puerto-iguazu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -25.7,
+                "minLng": -54.5,
+                "maxLat": -25.65,
+                "maxLng": -54.42
+              }
+            }
+          ]
+        },
+        {
+          "id": "tierra-del-fuego",
+          "stateCode": "TF",
+          "name": "Tierra del Fuego",
+          "cities": [
+            {
+              "id": "ushuaia",
+              "name": "Ushuaia",
+              "status": "complete",
+              "packPath": "ar/tierra-del-fuego/ushuaia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:00:00.000Z",
+              "bbox": {
+                "minLat": -54.82,
+                "minLng": -68.32,
+                "maxLat": -54.78,
+                "maxLng": -68.28
               }
             }
           ]

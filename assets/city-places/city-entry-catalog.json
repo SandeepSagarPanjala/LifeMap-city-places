@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:49:50.515Z",
+  "generatedAt": "2026-08-17T23:53:23.177Z",
   "cellDeg": 0.5,
-  "cityCount": 606,
+  "cityCount": 612,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -29,6 +29,60 @@
         "minLng": 55.37,
         "maxLat": 25.38,
         "maxLng": 55.42
+      }
+    },
+    "ar/buenos-aires/buenos-aires": {
+      "name": "Buenos Aires",
+      "bbox": {
+        "minLat": -34.65,
+        "minLng": -58.4,
+        "maxLat": -34.58,
+        "maxLng": -58.35
+      }
+    },
+    "ar/mendoza/mendoza": {
+      "name": "Mendoza",
+      "bbox": {
+        "minLat": -33,
+        "minLng": -68.9,
+        "maxLat": -32.85,
+        "maxLng": -68.8
+      }
+    },
+    "ar/misiones/puerto-iguazu": {
+      "name": "Puerto Iguazu",
+      "bbox": {
+        "minLat": -25.7,
+        "minLng": -54.5,
+        "maxLat": -25.65,
+        "maxLng": -54.42
+      }
+    },
+    "ar/rio-negro/bariloche": {
+      "name": "Bariloche",
+      "bbox": {
+        "minLat": -41.16,
+        "minLng": -71.32,
+        "maxLat": -41.12,
+        "maxLng": -71.28
+      }
+    },
+    "ar/salta/salta": {
+      "name": "Salta",
+      "bbox": {
+        "minLat": -24.8,
+        "minLng": -65.45,
+        "maxLat": -24.75,
+        "maxLng": -65.4
+      }
+    },
+    "ar/tierra-del-fuego/ushuaia": {
+      "name": "Ushuaia",
+      "bbox": {
+        "minLat": -54.82,
+        "minLng": -68.32,
+        "maxLat": -54.78,
+        "maxLng": -68.28
       }
     },
     "au/australian-capital-territory/canberra": {
@@ -7491,6 +7545,7 @@
       "br/parana/foz-do-iguacu"
     ],
     "-52,-109": [
+      "ar/misiones/puerto-iguazu",
       "br/parana/foz-do-iguacu"
     ],
     "-51,-110": [
@@ -7831,6 +7886,21 @@
     ],
     "-50,62": [
       "za/mpumalanga/hazyview"
+    ],
+    "-70,-117": [
+      "ar/buenos-aires/buenos-aires"
+    ],
+    "-66,-138": [
+      "ar/mendoza/mendoza"
+    ],
+    "-83,-143": [
+      "ar/rio-negro/bariloche"
+    ],
+    "-50,-131": [
+      "ar/salta/salta"
+    ],
+    "-110,-137": [
+      "ar/tierra-del-fuego/ushuaia"
     ]
   }
 }

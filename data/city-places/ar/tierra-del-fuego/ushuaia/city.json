@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/tierra-del-fuego/ushuaia",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "TF",
+  "stateName": "Tierra del Fuego",
+  "cityName": "Ushuaia",
+  "bbox": {
+    "minLat": -54.82,
+    "minLng": -68.32,
+    "maxLat": -54.78,
+    "maxLng": -68.28
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "end-of-the-world-sign",
+      "name": "End of the World Sign",
+      "lat": -54.803,
+      "lng": -68.303,
+      "radiusM": 100,
+      "address": "Ushuaia",
+      "howTo": "Visit End of the World Sign.",
+      "badge": "badges/end-of-the-world-sign.png"
+    },
+    {
+      "id": "beagle-channel",
+      "name": "Beagle Channel",
+      "lat": -54.82,
+      "lng": -68.35,
+      "radiusM": 300,
+      "address": "Ushuaia",
+      "howTo": "Visit Beagle Channel.",
+      "badge": "badges/beagle-channel.png"
+    }
+  ]
+}

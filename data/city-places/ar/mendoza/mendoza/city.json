@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/mendoza/mendoza",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "MZA",
+  "stateName": "Mendoza",
+  "cityName": "Mendoza",
+  "bbox": {
+    "minLat": -33.0,
+    "minLng": -68.9,
+    "maxLat": -32.85,
+    "maxLng": -68.8
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mendoza-wineries",
+      "name": "Mendoza Wineries",
+      "lat": -33.083,
+      "lng": -68.866,
+      "radiusM": 300,
+      "address": "Maipu",
+      "howTo": "Visit Mendoza Wineries.",
+      "badge": "badges/mendoza-wineries.png"
+    },
+    {
+      "id": "aconcagua-view",
+      "name": "Aconcagua View",
+      "lat": -32.653,
+      "lng": -70.011,
+      "radiusM": 400,
+      "address": "Puente del Inca",
+      "howTo": "Visit Aconcagua View.",
+      "badge": "badges/aconcagua-view.png"
+    }
+  ]
+}

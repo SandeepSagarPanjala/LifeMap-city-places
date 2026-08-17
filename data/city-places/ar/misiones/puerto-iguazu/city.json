@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/misiones/puerto-iguazu",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "MIS",
+  "stateName": "Misiones",
+  "cityName": "Puerto Iguazu",
+  "bbox": {
+    "minLat": -25.7,
+    "minLng": -54.5,
+    "maxLat": -25.65,
+    "maxLng": -54.42
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "iguazu-falls-argentina",
+      "name": "Iguazu Falls",
+      "lat": -25.6953,
+      "lng": -54.4367,
+      "radiusM": 400,
+      "address": "Iguazu National Park",
+      "howTo": "Visit Iguazu Falls.",
+      "badge": "badges/iguazu-falls-argentina.png"
+    },
+    {
+      "id": "devils-throat-iguazu",
+      "name": "Devil's Throat",
+      "lat": -25.6917,
+      "lng": -54.4447,
+      "radiusM": 200,
+      "address": "Garganta del Diablo",
+      "howTo": "Visit Devil's Throat.",
+      "badge": "badges/devils-throat-iguazu.png"
+    }
+  ]
+}

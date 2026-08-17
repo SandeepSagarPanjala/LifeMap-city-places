@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/buenos-aires/buenos-aires",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "CABA",
+  "stateName": "Buenos Aires",
+  "cityName": "Buenos Aires",
+  "bbox": {
+    "minLat": -34.65,
+    "minLng": -58.4,
+    "maxLat": -34.58,
+    "maxLng": -58.35
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "casa-rosada",
+      "name": "Casa Rosada",
+      "lat": -34.6083,
+      "lng": -58.3702,
+      "radiusM": 120,
+      "address": "Plaza de Mayo",
+      "howTo": "Visit Casa Rosada.",
+      "badge": "badges/casa-rosada.png"
+    },
+    {
+      "id": "recoleta-cemetery",
+      "name": "Recoleta Cemetery",
+      "lat": -34.5875,
+      "lng": -58.393,
+      "radiusM": 200,
+      "address": "Recoleta",
+      "howTo": "Visit Recoleta Cemetery.",
+      "badge": "badges/recoleta-cemetery.png"
+    },
+    {
+      "id": "la-boca-caminito",
+      "name": "La Boca Caminito",
+      "lat": -34.6345,
+      "lng": -58.363,
+      "radiusM": 200,
+      "address": "La Boca",
+      "howTo": "Visit La Boca Caminito.",
+      "badge": "badges/la-boca-caminito.png"
+    },
+    {
+      "id": "obelisco",
+      "name": "Obelisco",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "radiusM": 100,
+      "address": "Av. 9 de Julio",
+      "howTo": "Visit Obelisco.",
+      "badge": "badges/obelisco.png"
+    },
+    {
+      "id": "teatro-colon",
+      "name": "Teatro Colon",
+      "lat": -34.601,
+      "lng": -58.383,
+      "radiusM": 100,
+      "address": "Microcentro",
+      "howTo": "Visit Teatro Colon.",
+      "badge": "badges/teatro-colon.png"
+    }
+  ]
+}

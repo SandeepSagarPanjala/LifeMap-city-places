@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ar/rio-negro/bariloche",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "stateCode": "RN",
+  "stateName": "Rio Negro",
+  "cityName": "Bariloche",
+  "bbox": {
+    "minLat": -41.16,
+    "minLng": -71.32,
+    "maxLat": -41.12,
+    "maxLng": -71.28
+  },
+  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nahuel-huapi-lake",
+      "name": "Nahuel Huapi Lake",
+      "lat": -41.145,
+      "lng": -71.31,
+      "radiusM": 300,
+      "address": "San Carlos de Bariloche",
+      "howTo": "Visit Nahuel Huapi Lake.",
+      "badge": "badges/nahuel-huapi-lake.png"
+    },
+    {
+      "id": "cerro-catedral",
+      "name": "Cerro Catedral",
+      "lat": -41.175,
+      "lng": -71.445,
+      "radiusM": 300,
+      "address": "Cerro Catedral",
+      "howTo": "Visit Cerro Catedral.",
+      "badge": "badges/cerro-catedral.png"
+    }
+  ]
+}
