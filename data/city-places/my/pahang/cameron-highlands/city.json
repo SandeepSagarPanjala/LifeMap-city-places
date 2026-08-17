@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "my/pahang/cameron-highlands",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "PHG",
+  "stateName": "Pahang",
+  "cityName": "Cameron Highlands",
+  "bbox": {
+    "minLat": 4.46,
+    "minLng": 101.37,
+    "maxLat": 4.5,
+    "maxLng": 101.41
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boh-tea-plantation",
+      "name": "BOH Tea Plantation",
+      "lat": 4.454,
+      "lng": 101.423,
+      "radiusM": 250,
+      "address": "Sungai Palas",
+      "howTo": "Visit BOH Tea Plantation.",
+      "badge": "badges/boh-tea-plantation.png"
+    },
+    {
+      "id": "mossy-forest",
+      "name": "Mossy Forest",
+      "lat": 4.52,
+      "lng": 101.38,
+      "radiusM": 300,
+      "address": "Gunung Brinchang",
+      "howTo": "Visit Mossy Forest.",
+      "badge": "badges/mossy-forest.png"
+    }
+  ]
+}

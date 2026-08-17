@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:42:46.509Z",
+  "generatedAt": "2026-08-17T23:46:36.216Z",
   "cellDeg": 0.5,
-  "cityCount": 594,
+  "cityCount": 600,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3143,6 +3143,60 @@
         "minLng": -89.64,
         "maxLat": 21,
         "maxLng": -89.6
+      }
+    },
+    "my/kuala-lumpur/kuala-lumpur": {
+      "name": "Kuala Lumpur",
+      "bbox": {
+        "minLat": 3.13,
+        "minLng": 101.67,
+        "maxLat": 3.17,
+        "maxLng": 101.72
+      }
+    },
+    "my/langkawi/langkawi": {
+      "name": "Langkawi",
+      "bbox": {
+        "minLat": 6.35,
+        "minLng": 99.7,
+        "maxLat": 6.38,
+        "maxLng": 99.75
+      }
+    },
+    "my/malacca/malacca": {
+      "name": "Malacca",
+      "bbox": {
+        "minLat": 2.19,
+        "minLng": 102.24,
+        "maxLat": 2.21,
+        "maxLng": 102.26
+      }
+    },
+    "my/pahang/cameron-highlands": {
+      "name": "Cameron Highlands",
+      "bbox": {
+        "minLat": 4.46,
+        "minLng": 101.37,
+        "maxLat": 4.5,
+        "maxLng": 101.41
+      }
+    },
+    "my/penang/george-town": {
+      "name": "George Town",
+      "bbox": {
+        "minLat": 5.41,
+        "minLng": 100.32,
+        "maxLat": 5.43,
+        "maxLng": 100.35
+      }
+    },
+    "my/sabah/kota-kinabalu": {
+      "name": "Kota Kinabalu",
+      "bbox": {
+        "minLat": 5.95,
+        "minLng": 116.04,
+        "maxLat": 5.99,
+        "maxLng": 116.1
       }
     },
     "nl/friesland/giethoorn": {
@@ -7671,6 +7725,27 @@
     ],
     "14,251": [
       "ph/davao/davao-city"
+    ],
+    "6,203": [
+      "my/kuala-lumpur/kuala-lumpur"
+    ],
+    "10,200": [
+      "my/penang/george-town"
+    ],
+    "4,204": [
+      "my/malacca/malacca"
+    ],
+    "12,199": [
+      "my/langkawi/langkawi"
+    ],
+    "11,232": [
+      "my/sabah/kota-kinabalu"
+    ],
+    "8,202": [
+      "my/pahang/cameron-highlands"
+    ],
+    "9,202": [
+      "my/pahang/cameron-highlands"
     ]
   }
 }

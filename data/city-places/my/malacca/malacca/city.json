@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "my/malacca/malacca",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "MLK",
+  "stateName": "Malacca",
+  "cityName": "Malacca",
+  "bbox": {
+    "minLat": 2.19,
+    "minLng": 102.24,
+    "maxLat": 2.21,
+    "maxLng": 102.26
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jonker-street",
+      "name": "Jonker Street",
+      "lat": 2.1945,
+      "lng": 102.2485,
+      "radiusM": 200,
+      "address": "Jonker Walk",
+      "howTo": "Visit Jonker Street.",
+      "badge": "badges/jonker-street.png"
+    },
+    {
+      "id": "a-famosa",
+      "name": "A Famosa",
+      "lat": 2.1915,
+      "lng": 102.2503,
+      "radiusM": 120,
+      "address": "Bandar Hilir",
+      "howTo": "Visit A Famosa.",
+      "badge": "badges/a-famosa.png"
+    }
+  ]
+}

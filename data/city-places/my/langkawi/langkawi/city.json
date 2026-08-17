@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "my/langkawi/langkawi",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "LGK",
+  "stateName": "Kedah",
+  "cityName": "Langkawi",
+  "bbox": {
+    "minLat": 6.35,
+    "minLng": 99.7,
+    "maxLat": 6.38,
+    "maxLng": 99.75
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "langkawi-sky-bridge",
+      "name": "Langkawi Sky Bridge",
+      "lat": 6.387,
+      "lng": 99.662,
+      "radiusM": 200,
+      "address": "Gunung Mat Cincang",
+      "howTo": "Visit Langkawi Sky Bridge.",
+      "badge": "badges/langkawi-sky-bridge.png"
+    },
+    {
+      "id": "cenang-beach",
+      "name": "Cenang Beach",
+      "lat": 6.288,
+      "lng": 99.726,
+      "radiusM": 300,
+      "address": "Pantai Cenang",
+      "howTo": "Visit Cenang Beach.",
+      "badge": "badges/cenang-beach.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:00:00.000Z",
-  "notes": "Queue through Philippines complete. Next: Malaysia (my) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "notes": "Queue through Malaysia complete. Next: South Africa (za) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -10575,6 +10575,139 @@
                 "minLng": 125.58,
                 "maxLat": 7.1,
                 "maxLng": 125.65
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my",
+      "countryCode": "MY",
+      "name": "Malaysia",
+      "states": [
+        {
+          "id": "kuala-lumpur",
+          "stateCode": "KL",
+          "name": "Kuala Lumpur",
+          "cities": [
+            {
+              "id": "kuala-lumpur",
+              "name": "Kuala Lumpur",
+              "status": "complete",
+              "packPath": "my/kuala-lumpur/kuala-lumpur/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 3.13,
+                "minLng": 101.67,
+                "maxLat": 3.17,
+                "maxLng": 101.72
+              }
+            }
+          ]
+        },
+        {
+          "id": "penang",
+          "stateCode": "PNG",
+          "name": "Penang",
+          "cities": [
+            {
+              "id": "george-town",
+              "name": "George Town",
+              "status": "complete",
+              "packPath": "my/penang/george-town/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 5.41,
+                "minLng": 100.32,
+                "maxLat": 5.43,
+                "maxLng": 100.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "malacca",
+          "stateCode": "MLK",
+          "name": "Malacca",
+          "cities": [
+            {
+              "id": "malacca",
+              "name": "Malacca",
+              "status": "complete",
+              "packPath": "my/malacca/malacca/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 2.19,
+                "minLng": 102.24,
+                "maxLat": 2.21,
+                "maxLng": 102.26
+              }
+            }
+          ]
+        },
+        {
+          "id": "langkawi",
+          "stateCode": "LGK",
+          "name": "Kedah",
+          "cities": [
+            {
+              "id": "langkawi",
+              "name": "Langkawi",
+              "status": "complete",
+              "packPath": "my/langkawi/langkawi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 6.35,
+                "minLng": 99.7,
+                "maxLat": 6.38,
+                "maxLng": 99.75
+              }
+            }
+          ]
+        },
+        {
+          "id": "sabah",
+          "stateCode": "SBH",
+          "name": "Sabah",
+          "cities": [
+            {
+              "id": "kota-kinabalu",
+              "name": "Kota Kinabalu",
+              "status": "complete",
+              "packPath": "my/sabah/kota-kinabalu/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 5.95,
+                "minLng": 116.04,
+                "maxLat": 5.99,
+                "maxLng": 116.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "pahang",
+          "stateCode": "PHG",
+          "name": "Pahang",
+          "cities": [
+            {
+              "id": "cameron-highlands",
+              "name": "Cameron Highlands",
+              "status": "complete",
+              "packPath": "my/pahang/cameron-highlands/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:20:00.000Z",
+              "bbox": {
+                "minLat": 4.46,
+                "minLng": 101.37,
+                "maxLat": 4.5,
+                "maxLng": 101.41
               }
             }
           ]

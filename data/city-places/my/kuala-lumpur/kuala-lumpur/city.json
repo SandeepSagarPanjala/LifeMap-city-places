@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "my/kuala-lumpur/kuala-lumpur",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "KL",
+  "stateName": "Kuala Lumpur",
+  "cityName": "Kuala Lumpur",
+  "bbox": {
+    "minLat": 3.13,
+    "minLng": 101.67,
+    "maxLat": 3.17,
+    "maxLng": 101.72
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "petronas-twin-towers",
+      "name": "Petronas Twin Towers",
+      "lat": 3.1579,
+      "lng": 101.7116,
+      "radiusM": 150,
+      "address": "KLCC",
+      "howTo": "Visit Petronas Twin Towers.",
+      "badge": "badges/petronas-twin-towers.png"
+    },
+    {
+      "id": "batu-caves",
+      "name": "Batu Caves",
+      "lat": 3.2379,
+      "lng": 101.684,
+      "radiusM": 200,
+      "address": "Batu Caves",
+      "howTo": "Visit Batu Caves.",
+      "badge": "badges/batu-caves.png"
+    },
+    {
+      "id": "kl-tower",
+      "name": "KL Tower",
+      "lat": 3.1529,
+      "lng": 101.7037,
+      "radiusM": 120,
+      "address": "Bukit Nanas",
+      "howTo": "Visit KL Tower.",
+      "badge": "badges/kl-tower.png"
+    },
+    {
+      "id": "merdeka-square",
+      "name": "Merdeka Square",
+      "lat": 3.1486,
+      "lng": 101.6948,
+      "radiusM": 200,
+      "address": "Dataran Merdeka",
+      "howTo": "Visit Merdeka Square.",
+      "badge": "badges/merdeka-square.png"
+    },
+    {
+      "id": "thean-hou-temple",
+      "name": "Thean Hou Temple",
+      "lat": 3.1218,
+      "lng": 101.6877,
+      "radiusM": 120,
+      "address": "Robson Heights",
+      "howTo": "Visit Thean Hou Temple.",
+      "badge": "badges/thean-hou-temple.png"
+    }
+  ]
+}

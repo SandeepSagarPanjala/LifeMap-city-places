@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "my/penang/george-town",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "PNG",
+  "stateName": "Penang",
+  "cityName": "George Town",
+  "bbox": {
+    "minLat": 5.41,
+    "minLng": 100.32,
+    "maxLat": 5.43,
+    "maxLng": 100.35
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "george-town-street-art",
+      "name": "George Town Street Art",
+      "lat": 5.4164,
+      "lng": 100.3327,
+      "radiusM": 200,
+      "address": "Armenian Street",
+      "howTo": "Visit George Town Street Art.",
+      "badge": "badges/george-town-street-art.png"
+    },
+    {
+      "id": "kek-lok-si-temple",
+      "name": "Kek Lok Si Temple",
+      "lat": 5.399,
+      "lng": 100.273,
+      "radiusM": 200,
+      "address": "Air Itam",
+      "howTo": "Visit Kek Lok Si Temple.",
+      "badge": "badges/kek-lok-si-temple.png"
+    },
+    {
+      "id": "penang-hill",
+      "name": "Penang Hill",
+      "lat": 5.425,
+      "lng": 100.269,
+      "radiusM": 250,
+      "address": "Penang Hill",
+      "howTo": "Visit Penang Hill.",
+      "badge": "badges/penang-hill.png"
+    }
+  ]
+}

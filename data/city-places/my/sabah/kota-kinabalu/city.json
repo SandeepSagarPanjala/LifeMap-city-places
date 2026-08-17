@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "my/sabah/kota-kinabalu",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "stateCode": "SBH",
+  "stateName": "Sabah",
+  "cityName": "Kota Kinabalu",
+  "bbox": {
+    "minLat": 5.95,
+    "minLng": 116.04,
+    "maxLat": 5.99,
+    "maxLng": 116.1
+  },
+  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-kinabalu",
+      "name": "Mount Kinabalu",
+      "lat": 6.075,
+      "lng": 116.558,
+      "radiusM": 500,
+      "address": "Kinabalu Park",
+      "howTo": "Visit Mount Kinabalu.",
+      "badge": "badges/mount-kinabalu.png"
+    },
+    {
+      "id": "tunku-abdul-rahman-park",
+      "name": "Tunku Abdul Rahman Park",
+      "lat": 5.983,
+      "lng": 116.02,
+      "radiusM": 300,
+      "address": "Gaya Island",
+      "howTo": "Visit Tunku Abdul Rahman Park.",
+      "badge": "badges/tunku-abdul-rahman-park.png"
+    },
+    {
+      "id": "kk-waterfront",
+      "name": "Kota Kinabalu Waterfront",
+      "lat": 5.981,
+      "lng": 116.073,
+      "radiusM": 200,
+      "address": "Jesselton Point",
+      "howTo": "Visit Kota Kinabalu Waterfront.",
+      "badge": "badges/kk-waterfront.png"
+    }
+  ]
+}
