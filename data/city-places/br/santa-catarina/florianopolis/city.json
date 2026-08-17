@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/santa-catarina/florianopolis",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "SC",
+  "stateName": "Santa Catarina",
+  "cityName": "Florian\u00f3polis",
+  "bbox": {
+    "minLat": -27.62,
+    "minLng": -48.58,
+    "maxLat": -27.42,
+    "maxLng": -48.38
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ponte-hercilio-luz",
+      "name": "Herc\u00edlio Luz Bridge",
+      "lat": -27.5939,
+      "lng": -48.566,
+      "radiusM": 150,
+      "address": "Centro",
+      "howTo": "Visit Herc\u00edlio Luz Bridge.",
+      "badge": "badges/ponte-hercilio-luz.png"
+    },
+    {
+      "id": "lagoa-da-conceicao",
+      "name": "Lagoa da Concei\u00e7\u00e3o",
+      "lat": -27.6028,
+      "lng": -48.4556,
+      "radiusM": 300,
+      "address": "Lagoa",
+      "howTo": "Visit Lagoa da Concei\u00e7\u00e3o.",
+      "badge": "badges/lagoa-da-conceicao.png"
+    },
+    {
+      "id": "praia-da-joaquina",
+      "name": "Praia da Joaquina",
+      "lat": -27.6297,
+      "lng": -48.4483,
+      "radiusM": 200,
+      "address": "Joaquina Beach",
+      "howTo": "Visit Praia da Joaquina.",
+      "badge": "badges/praia-da-joaquina.png"
+    }
+  ]
+}

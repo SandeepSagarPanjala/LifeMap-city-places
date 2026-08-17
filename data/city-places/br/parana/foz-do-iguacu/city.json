@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/parana/foz-do-iguacu",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "PR",
+  "stateName": "Paran\u00e1",
+  "cityName": "Foz do Igua\u00e7u",
+  "bbox": {
+    "minLat": -25.7,
+    "minLng": -54.6,
+    "maxLat": -25.38,
+    "maxLng": -54.38
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "iguazu-falls-brazil",
+      "name": "Igua\u00e7u Falls",
+      "lat": -25.6953,
+      "lng": -54.4367,
+      "radiusM": 300,
+      "address": "Parque Nacional do Igua\u00e7u",
+      "howTo": "Visit Igua\u00e7u Falls.",
+      "badge": "badges/iguazu-falls-brazil.png"
+    },
+    {
+      "id": "parque-das-aves",
+      "name": "Parque das Aves",
+      "lat": -25.6325,
+      "lng": -54.4785,
+      "radiusM": 150,
+      "address": "Foz do Igua\u00e7u",
+      "howTo": "Visit Parque das Aves.",
+      "badge": "badges/parque-das-aves.png"
+    },
+    {
+      "id": "itaipu-dam",
+      "name": "Itaipu Dam",
+      "lat": -25.4075,
+      "lng": -54.5889,
+      "radiusM": 250,
+      "address": "Itaipu Binacional",
+      "howTo": "Visit Itaipu Dam.",
+      "badge": "badges/itaipu-dam.png"
+    }
+  ]
+}

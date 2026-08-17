@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/parana/curitiba",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "PR",
+  "stateName": "Paran\u00e1",
+  "cityName": "Curitiba",
+  "bbox": {
+    "minLat": -25.47,
+    "minLng": -49.32,
+    "maxLat": -25.4,
+    "maxLng": -49.24
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "botanical-garden-curitiba",
+      "name": "Botanical Garden of Curitiba",
+      "lat": -25.4422,
+      "lng": -49.2378,
+      "radiusM": 200,
+      "address": "Jardim Bot\u00e2nico",
+      "howTo": "Visit Botanical Garden of Curitiba.",
+      "badge": "badges/botanical-garden-curitiba.png"
+    },
+    {
+      "id": "oscar-niemeyer-museum",
+      "name": "Oscar Niemeyer Museum",
+      "lat": -25.41,
+      "lng": -49.2672,
+      "radiusM": 120,
+      "address": "MON",
+      "howTo": "Visit Oscar Niemeyer Museum.",
+      "badge": "badges/oscar-niemeyer-museum.png"
+    },
+    {
+      "id": "wire-opera-house",
+      "name": "Wire Opera House",
+      "lat": -25.3828,
+      "lng": -49.2765,
+      "radiusM": 100,
+      "address": "\u00d3pera de Arame",
+      "howTo": "Visit Wire Opera House.",
+      "badge": "badges/wire-opera-house.png"
+    }
+  ]
+}

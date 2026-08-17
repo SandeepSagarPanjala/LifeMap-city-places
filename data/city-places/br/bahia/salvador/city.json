@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "br/bahia/salvador",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "BA",
+  "stateName": "Bahia",
+  "cityName": "Salvador",
+  "bbox": {
+    "minLat": -13.02,
+    "minLng": -38.53,
+    "maxLat": -12.96,
+    "maxLng": -38.48
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pelourinho",
+      "name": "Pelourinho",
+      "lat": -12.9718,
+      "lng": -38.5108,
+      "radiusM": 200,
+      "address": "Historic Center",
+      "howTo": "Visit Pelourinho.",
+      "badge": "badges/pelourinho.png"
+    },
+    {
+      "id": "elevador-lacerda",
+      "name": "Elevador Lacerda",
+      "lat": -12.9744,
+      "lng": -38.5128,
+      "radiusM": 80,
+      "address": "Cidade Alta / Cidade Baixa",
+      "howTo": "Visit Elevador Lacerda.",
+      "badge": "badges/elevador-lacerda.png"
+    },
+    {
+      "id": "farol-da-barra",
+      "name": "Farol da Barra",
+      "lat": -13.0104,
+      "lng": -38.5328,
+      "radiusM": 100,
+      "address": "Porto da Barra",
+      "howTo": "Visit Farol da Barra.",
+      "badge": "badges/farol-da-barra.png"
+    },
+    {
+      "id": "igreja-do-bonfim",
+      "name": "Igreja do Bonfim",
+      "lat": -12.9236,
+      "lng": -38.5065,
+      "radiusM": 80,
+      "address": "Colina Sagrada do Bonfim",
+      "howTo": "Visit Igreja do Bonfim.",
+      "badge": "badges/igreja-do-bonfim.png"
+    }
+  ]
+}

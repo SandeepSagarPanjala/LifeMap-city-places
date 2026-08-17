@@ -62,7 +62,7 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 16. `nz` — New Zealand (**complete**)
 17. `sg` — Singapore (**complete**)
 18. `ae` — United Arab Emirates (**complete**)
-19. `br` — Brazil
+19. `br` — Brazil (**complete**)
 20. `mx` — Mexico
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "br/distrito-federal/brasilia",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "DF",
+  "stateName": "Distrito Federal",
+  "cityName": "Bras\u00edlia",
+  "bbox": {
+    "minLat": -15.84,
+    "minLng": -47.93,
+    "maxLat": -15.75,
+    "maxLng": -47.86
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedral-of-brasilia",
+      "name": "Cathedral of Bras\u00edlia",
+      "lat": -15.7983,
+      "lng": -47.8755,
+      "radiusM": 120,
+      "address": "Eixo Monumental",
+      "howTo": "Visit Cathedral of Bras\u00edlia.",
+      "badge": "badges/cathedral-of-brasilia.png"
+    },
+    {
+      "id": "national-congress-brasilia",
+      "name": "National Congress",
+      "lat": -15.7997,
+      "lng": -47.8645,
+      "radiusM": 120,
+      "address": "Pra\u00e7a dos Tr\u00eas Poderes",
+      "howTo": "Visit National Congress.",
+      "badge": "badges/national-congress-brasilia.png"
+    },
+    {
+      "id": "jk-memorial",
+      "name": "JK Memorial",
+      "lat": -15.7847,
+      "lng": -47.9134,
+      "radiusM": 100,
+      "address": "Eixo Monumental Oeste",
+      "howTo": "Visit JK Memorial.",
+      "badge": "badges/jk-memorial.png"
+    },
+    {
+      "id": "itamaraty-palace",
+      "name": "Itamaraty Palace",
+      "lat": -15.801,
+      "lng": -47.8672,
+      "radiusM": 100,
+      "address": "Pal\u00e1cio Itamaraty",
+      "howTo": "Visit Itamaraty Palace.",
+      "badge": "badges/itamaraty-palace.png"
+    }
+  ]
+}

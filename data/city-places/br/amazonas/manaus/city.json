@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/amazonas/manaus",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "AM",
+  "stateName": "Amazonas",
+  "cityName": "Manaus",
+  "bbox": {
+    "minLat": -3.16,
+    "minLng": -60.04,
+    "maxLat": -3.1,
+    "maxLng": -59.98
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "teatro-amazonas",
+      "name": "Teatro Amazonas",
+      "lat": -3.1303,
+      "lng": -60.0234,
+      "radiusM": 80,
+      "address": "Centro Hist\u00f3rico",
+      "howTo": "Visit Teatro Amazonas.",
+      "badge": "badges/teatro-amazonas.png"
+    },
+    {
+      "id": "meeting-of-waters",
+      "name": "Meeting of Waters",
+      "lat": -3.1366,
+      "lng": -59.9047,
+      "radiusM": 300,
+      "address": "Encontro das \u00c1guas",
+      "howTo": "Visit Meeting of Waters.",
+      "badge": "badges/meeting-of-waters.png"
+    },
+    {
+      "id": "mercado-municipal-manaus",
+      "name": "Mercado Municipal Adolpho Lisboa",
+      "lat": -3.1368,
+      "lng": -60.0235,
+      "radiusM": 100,
+      "address": "Porto de Manaus",
+      "howTo": "Visit Mercado Municipal Adolpho Lisboa.",
+      "badge": "badges/mercado-municipal-manaus.png"
+    }
+  ]
+}

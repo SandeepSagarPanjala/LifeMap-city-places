@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/pernambuco/recife",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "PE",
+  "stateName": "Pernambuco",
+  "cityName": "Recife",
+  "bbox": {
+    "minLat": -8.1,
+    "minLng": -34.98,
+    "maxLat": -8.04,
+    "maxLng": -34.86
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "recife-antigo",
+      "name": "Recife Antigo",
+      "lat": -8.0615,
+      "lng": -34.8712,
+      "radiusM": 200,
+      "address": "Marco Zero",
+      "howTo": "Visit Recife Antigo.",
+      "badge": "badges/recife-antigo.png"
+    },
+    {
+      "id": "parque-das-esculturas",
+      "name": "Parque das Esculturas",
+      "lat": -8.0634,
+      "lng": -34.8685,
+      "radiusM": 120,
+      "address": "Francisco Brennand park, Recife",
+      "howTo": "Visit Parque das Esculturas.",
+      "badge": "badges/parque-das-esculturas.png"
+    },
+    {
+      "id": "instituto-ricardo-brennand",
+      "name": "Instituto Ricardo Brennand",
+      "lat": -8.0678,
+      "lng": -34.9628,
+      "radiusM": 150,
+      "address": "V\u00e1rzea",
+      "howTo": "Visit Instituto Ricardo Brennand.",
+      "badge": "badges/instituto-ricardo-brennand.png"
+    }
+  ]
+}

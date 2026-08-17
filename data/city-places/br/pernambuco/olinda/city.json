@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/pernambuco/olinda",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "PE",
+  "stateName": "Pernambuco",
+  "cityName": "Olinda",
+  "bbox": {
+    "minLat": -8.02,
+    "minLng": -34.86,
+    "maxLat": -7.99,
+    "maxLng": -34.84
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "olinda-historic-center",
+      "name": "Olinda Historic Center",
+      "lat": -8.013,
+      "lng": -34.8553,
+      "radiusM": 250,
+      "address": "UNESCO Historic Center",
+      "howTo": "Visit Olinda Historic Center.",
+      "badge": "badges/olinda-historic-center.png"
+    },
+    {
+      "id": "alto-da-se",
+      "name": "Alto da S\u00e9",
+      "lat": -8.0138,
+      "lng": -34.8508,
+      "radiusM": 100,
+      "address": "Pra\u00e7a da S\u00e9, Olinda",
+      "howTo": "Visit Alto da S\u00e9.",
+      "badge": "badges/alto-da-se.png"
+    },
+    {
+      "id": "igreja-da-se-olinda",
+      "name": "Igreja da S\u00e9 de Olinda",
+      "lat": -8.0139,
+      "lng": -34.8505,
+      "radiusM": 80,
+      "address": "Alto da S\u00e9",
+      "howTo": "Visit Igreja da S\u00e9 de Olinda.",
+      "badge": "badges/igreja-da-se-olinda.png"
+    }
+  ]
+}

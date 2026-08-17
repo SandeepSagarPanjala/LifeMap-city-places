@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "br/minas-gerais/ouro-preto",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "MG",
+  "stateName": "Minas Gerais",
+  "cityName": "Ouro Preto",
+  "bbox": {
+    "minLat": -20.4,
+    "minLng": -43.52,
+    "maxLat": -20.38,
+    "maxLng": -43.49
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "igreja-sao-francisco-ouro-preto",
+      "name": "Igreja de S\u00e3o Francisco de Assis",
+      "lat": -20.386,
+      "lng": -43.5035,
+      "radiusM": 80,
+      "address": "Ouro Preto",
+      "howTo": "Visit Igreja de S\u00e3o Francisco de Assis.",
+      "badge": "badges/igreja-sao-francisco-ouro-preto.png"
+    },
+    {
+      "id": "praca-tiradentes",
+      "name": "Pra\u00e7a Tiradentes",
+      "lat": -20.3854,
+      "lng": -43.5036,
+      "radiusM": 100,
+      "address": "Centro Hist\u00f3rico",
+      "howTo": "Visit Pra\u00e7a Tiradentes.",
+      "badge": "badges/praca-tiradentes.png"
+    },
+    {
+      "id": "ouro-preto-historic-center",
+      "name": "Ouro Preto Historic Center",
+      "lat": -20.3852,
+      "lng": -43.5075,
+      "radiusM": 300,
+      "address": "UNESCO Historic Town",
+      "howTo": "Visit Ouro Preto Historic Center.",
+      "badge": "badges/ouro-preto-historic-center.png"
+    }
+  ]
+}

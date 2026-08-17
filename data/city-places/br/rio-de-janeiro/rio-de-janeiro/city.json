@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "br/rio-de-janeiro/rio-de-janeiro",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "stateCode": "RJ",
+  "stateName": "Rio de Janeiro",
+  "cityName": "Rio de Janeiro",
+  "bbox": {
+    "minLat": -23.02,
+    "minLng": -43.3,
+    "maxLat": -22.9,
+    "maxLng": -43.16
+  },
+  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "christ-the-redeemer",
+      "name": "Christ the Redeemer",
+      "lat": -22.9519,
+      "lng": -43.2105,
+      "radiusM": 120,
+      "address": "Corcovado",
+      "howTo": "Visit Christ the Redeemer.",
+      "badge": "badges/christ-the-redeemer.png"
+    },
+    {
+      "id": "sugarloaf-mountain",
+      "name": "Sugarloaf Mountain",
+      "lat": -22.9494,
+      "lng": -43.1546,
+      "radiusM": 150,
+      "address": "Urca",
+      "howTo": "Visit Sugarloaf Mountain.",
+      "badge": "badges/sugarloaf-mountain.png"
+    },
+    {
+      "id": "copacabana-beach",
+      "name": "Copacabana Beach",
+      "lat": -22.9711,
+      "lng": -43.1822,
+      "radiusM": 250,
+      "address": "Copacabana",
+      "howTo": "Visit Copacabana Beach.",
+      "badge": "badges/copacabana-beach.png"
+    },
+    {
+      "id": "ipanema-beach",
+      "name": "Ipanema Beach",
+      "lat": -22.9838,
+      "lng": -43.2046,
+      "radiusM": 250,
+      "address": "Ipanema",
+      "howTo": "Visit Ipanema Beach.",
+      "badge": "badges/ipanema-beach.png"
+    },
+    {
+      "id": "selaron-steps",
+      "name": "Selar\u00f3n Steps",
+      "lat": -22.9154,
+      "lng": -43.1793,
+      "radiusM": 80,
+      "address": "Lapa / Santa Teresa",
+      "howTo": "Visit Selar\u00f3n Steps.",
+      "badge": "badges/selaron-steps.png"
+    },
+    {
+      "id": "botanical-garden-rio",
+      "name": "Rio de Janeiro Botanical Garden",
+      "lat": -22.9674,
+      "lng": -43.225,
+      "radiusM": 250,
+      "address": "Jardim Bot\u00e2nico",
+      "howTo": "Visit Rio de Janeiro Botanical Garden.",
+      "badge": "badges/botanical-garden-rio.png"
+    },
+    {
+      "id": "maracana",
+      "name": "Maracan\u00e3 Stadium",
+      "lat": -22.9121,
+      "lng": -43.2302,
+      "radiusM": 150,
+      "address": "Maracan\u00e3",
+      "howTo": "Visit Maracan\u00e3 Stadium.",
+      "badge": "badges/maracana.png"
+    }
+  ]
+}

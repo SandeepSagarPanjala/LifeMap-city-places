@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-17T21:20:00.000Z",
-  "notes": "Queue through UAE complete. Next: Brazil (br) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-17T22:30:00.000Z",
+  "notes": "Queue through Brazil complete. Next: Mexico (mx) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -8937,6 +8937,230 @@
                 "minLng": 55.37,
                 "maxLat": 25.38,
                 "maxLng": 55.42
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "br",
+      "countryCode": "BR",
+      "name": "Brazil",
+      "states": [
+        {
+          "id": "rio-de-janeiro",
+          "stateCode": "RJ",
+          "name": "Rio de Janeiro",
+          "cities": [
+            {
+              "id": "rio-de-janeiro",
+              "name": "Rio de Janeiro",
+              "status": "complete",
+              "packPath": "br/rio-de-janeiro/rio-de-janeiro/city.json",
+              "placeCount": 7,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -23.02,
+                "minLng": -43.3,
+                "maxLat": -22.9,
+                "maxLng": -43.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "sao-paulo",
+          "stateCode": "SP",
+          "name": "S\u00e3o Paulo",
+          "cities": [
+            {
+              "id": "sao-paulo",
+              "name": "S\u00e3o Paulo",
+              "status": "complete",
+              "packPath": "br/sao-paulo/sao-paulo/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -23.62,
+                "minLng": -46.68,
+                "maxLat": -23.52,
+                "maxLng": -46.62
+              }
+            }
+          ]
+        },
+        {
+          "id": "bahia",
+          "stateCode": "BA",
+          "name": "Bahia",
+          "cities": [
+            {
+              "id": "salvador",
+              "name": "Salvador",
+              "status": "complete",
+              "packPath": "br/bahia/salvador/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -13.02,
+                "minLng": -38.53,
+                "maxLat": -12.96,
+                "maxLng": -38.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "distrito-federal",
+          "stateCode": "DF",
+          "name": "Distrito Federal",
+          "cities": [
+            {
+              "id": "brasilia",
+              "name": "Bras\u00edlia",
+              "status": "complete",
+              "packPath": "br/distrito-federal/brasilia/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -15.84,
+                "minLng": -47.93,
+                "maxLat": -15.75,
+                "maxLng": -47.86
+              }
+            }
+          ]
+        },
+        {
+          "id": "parana",
+          "stateCode": "PR",
+          "name": "Paran\u00e1",
+          "cities": [
+            {
+              "id": "foz-do-iguacu",
+              "name": "Foz do Igua\u00e7u",
+              "status": "complete",
+              "packPath": "br/parana/foz-do-iguacu/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -25.7,
+                "minLng": -54.6,
+                "maxLat": -25.38,
+                "maxLng": -54.38
+              }
+            },
+            {
+              "id": "curitiba",
+              "name": "Curitiba",
+              "status": "complete",
+              "packPath": "br/parana/curitiba/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -25.47,
+                "minLng": -49.32,
+                "maxLat": -25.4,
+                "maxLng": -49.24
+              }
+            }
+          ]
+        },
+        {
+          "id": "amazonas",
+          "stateCode": "AM",
+          "name": "Amazonas",
+          "cities": [
+            {
+              "id": "manaus",
+              "name": "Manaus",
+              "status": "complete",
+              "packPath": "br/amazonas/manaus/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -3.16,
+                "minLng": -60.04,
+                "maxLat": -3.1,
+                "maxLng": -59.98
+              }
+            }
+          ]
+        },
+        {
+          "id": "pernambuco",
+          "stateCode": "PE",
+          "name": "Pernambuco",
+          "cities": [
+            {
+              "id": "recife",
+              "name": "Recife",
+              "status": "complete",
+              "packPath": "br/pernambuco/recife/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -8.1,
+                "minLng": -34.98,
+                "maxLat": -8.04,
+                "maxLng": -34.86
+              }
+            },
+            {
+              "id": "olinda",
+              "name": "Olinda",
+              "status": "complete",
+              "packPath": "br/pernambuco/olinda/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -8.02,
+                "minLng": -34.86,
+                "maxLat": -7.99,
+                "maxLng": -34.84
+              }
+            }
+          ]
+        },
+        {
+          "id": "minas-gerais",
+          "stateCode": "MG",
+          "name": "Minas Gerais",
+          "cities": [
+            {
+              "id": "ouro-preto",
+              "name": "Ouro Preto",
+              "status": "complete",
+              "packPath": "br/minas-gerais/ouro-preto/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -20.4,
+                "minLng": -43.52,
+                "maxLat": -20.38,
+                "maxLng": -43.49
+              }
+            }
+          ]
+        },
+        {
+          "id": "santa-catarina",
+          "stateCode": "SC",
+          "name": "Santa Catarina",
+          "cities": [
+            {
+              "id": "florianopolis",
+              "name": "Florian\u00f3polis",
+              "status": "complete",
+              "packPath": "br/santa-catarina/florianopolis/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-17T21:40:00.000Z",
+              "bbox": {
+                "minLat": -27.62,
+                "minLng": -48.58,
+                "maxLat": -27.42,
+                "maxLng": -48.38
               }
             }
           ]

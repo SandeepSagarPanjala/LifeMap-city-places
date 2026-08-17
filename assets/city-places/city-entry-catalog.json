@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T21:10:59.654Z",
+  "generatedAt": "2026-08-17T22:38:09.806Z",
   "cellDeg": 0.5,
-  "cityCount": 514,
+  "cityCount": 525,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -155,6 +155,105 @@
         "minLng": 115.84,
         "maxLat": -31.94,
         "maxLng": 115.88
+      }
+    },
+    "br/amazonas/manaus": {
+      "name": "Manaus",
+      "bbox": {
+        "minLat": -3.16,
+        "minLng": -60.04,
+        "maxLat": -3.1,
+        "maxLng": -59.98
+      }
+    },
+    "br/bahia/salvador": {
+      "name": "Salvador",
+      "bbox": {
+        "minLat": -13.02,
+        "minLng": -38.53,
+        "maxLat": -12.96,
+        "maxLng": -38.48
+      }
+    },
+    "br/distrito-federal/brasilia": {
+      "name": "Brasília",
+      "bbox": {
+        "minLat": -15.84,
+        "minLng": -47.93,
+        "maxLat": -15.75,
+        "maxLng": -47.86
+      }
+    },
+    "br/minas-gerais/ouro-preto": {
+      "name": "Ouro Preto",
+      "bbox": {
+        "minLat": -20.4,
+        "minLng": -43.52,
+        "maxLat": -20.38,
+        "maxLng": -43.49
+      }
+    },
+    "br/parana/curitiba": {
+      "name": "Curitiba",
+      "bbox": {
+        "minLat": -25.47,
+        "minLng": -49.32,
+        "maxLat": -25.4,
+        "maxLng": -49.24
+      }
+    },
+    "br/parana/foz-do-iguacu": {
+      "name": "Foz do Iguaçu",
+      "bbox": {
+        "minLat": -25.7,
+        "minLng": -54.6,
+        "maxLat": -25.38,
+        "maxLng": -54.38
+      }
+    },
+    "br/pernambuco/olinda": {
+      "name": "Olinda",
+      "bbox": {
+        "minLat": -8.02,
+        "minLng": -34.86,
+        "maxLat": -7.99,
+        "maxLng": -34.84
+      }
+    },
+    "br/pernambuco/recife": {
+      "name": "Recife",
+      "bbox": {
+        "minLat": -8.1,
+        "minLng": -34.98,
+        "maxLat": -8.04,
+        "maxLng": -34.86
+      }
+    },
+    "br/rio-de-janeiro/rio-de-janeiro": {
+      "name": "Rio de Janeiro",
+      "bbox": {
+        "minLat": -23.02,
+        "minLng": -43.3,
+        "maxLat": -22.9,
+        "maxLng": -43.16
+      }
+    },
+    "br/santa-catarina/florianopolis": {
+      "name": "Florianópolis",
+      "bbox": {
+        "minLat": -27.62,
+        "minLng": -48.58,
+        "maxLat": -27.42,
+        "maxLng": -48.38
+      }
+    },
+    "br/sao-paulo/sao-paulo": {
+      "name": "São Paulo",
+      "bbox": {
+        "minLat": -23.62,
+        "minLng": -46.68,
+        "maxLat": -23.52,
+        "maxLng": -46.62
       }
     },
     "ca/alberta/banff": {
@@ -6634,6 +6733,76 @@
     ],
     "49,109": [
       "ae/abu-dhabi/abu-dhabi"
+    ],
+    "-47,-87": [
+      "br/rio-de-janeiro/rio-de-janeiro"
+    ],
+    "-46,-87": [
+      "br/rio-de-janeiro/rio-de-janeiro"
+    ],
+    "-48,-94": [
+      "br/sao-paulo/sao-paulo"
+    ],
+    "-27,-78": [
+      "br/bahia/salvador"
+    ],
+    "-27,-77": [
+      "br/bahia/salvador"
+    ],
+    "-26,-78": [
+      "br/bahia/salvador"
+    ],
+    "-26,-77": [
+      "br/bahia/salvador"
+    ],
+    "-32,-96": [
+      "br/distrito-federal/brasilia"
+    ],
+    "-52,-110": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-52,-109": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-51,-110": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-51,-109": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-51,-99": [
+      "br/parana/curitiba"
+    ],
+    "-7,-121": [
+      "br/amazonas/manaus"
+    ],
+    "-7,-120": [
+      "br/amazonas/manaus"
+    ],
+    "-17,-70": [
+      "br/pernambuco/olinda",
+      "br/pernambuco/recife"
+    ],
+    "-16,-70": [
+      "br/pernambuco/olinda"
+    ],
+    "-41,-88": [
+      "br/minas-gerais/ouro-preto"
+    ],
+    "-41,-87": [
+      "br/minas-gerais/ouro-preto"
+    ],
+    "-56,-98": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-56,-97": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-55,-98": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-55,-97": [
+      "br/santa-catarina/florianopolis"
     ]
   }
 }
