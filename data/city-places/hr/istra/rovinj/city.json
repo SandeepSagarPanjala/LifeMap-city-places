@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/istra/rovinj",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "IS",
+  "stateName": "Istria",
+  "cityName": "Rovinj",
+  "bbox": {
+    "minLat": 45.07,
+    "minLng": 13.63,
+    "maxLat": 45.09,
+    "maxLng": 13.65
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rovinj-old-town",
+      "name": "Rovinj Old Town",
+      "lat": 45.081,
+      "lng": 13.638,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Rovinj Old Town.",
+      "badge": "badges/rovinj-old-town.png"
+    },
+    {
+      "id": "st-euphemia-church",
+      "name": "St Euphemia Church",
+      "lat": 45.083,
+      "lng": 13.637,
+      "radiusM": 100,
+      "address": "Rovinj",
+      "howTo": "Visit St Euphemia Church.",
+      "badge": "badges/st-euphemia-church.png"
+    }
+  ]
+}

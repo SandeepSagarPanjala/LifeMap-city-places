@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T06:00:00.000Z",
-  "notes": "Queue through Norway complete. Next: Croatia (hr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "notes": "Queue through Croatia complete. Next: Hungary (hu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11681,6 +11681,132 @@
                 "minLng": 18.92,
                 "maxLat": 69.66,
                 "maxLng": 18.98
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hr",
+      "countryCode": "HR",
+      "name": "Croatia",
+      "states": [
+        {
+          "id": "zagreb",
+          "stateCode": "ZG",
+          "name": "Zagreb",
+          "cities": [
+            {
+              "id": "zagreb",
+              "name": "Zagreb",
+              "status": "complete",
+              "packPath": "hr/zagreb/zagreb/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 45.8,
+                "minLng": 15.96,
+                "maxLat": 45.83,
+                "maxLng": 16.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "split-dalmatia",
+          "stateCode": "ST",
+          "name": "Split-Dalmatia",
+          "cities": [
+            {
+              "id": "split",
+              "name": "Split",
+              "status": "complete",
+              "packPath": "hr/split-dalmatia/split/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 43.5,
+                "minLng": 16.43,
+                "maxLat": 43.52,
+                "maxLng": 16.45
+              }
+            },
+            {
+              "id": "hvar",
+              "name": "Hvar",
+              "status": "complete",
+              "packPath": "hr/split-dalmatia/hvar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 43.16,
+                "minLng": 16.43,
+                "maxLat": 43.18,
+                "maxLng": 16.46
+              }
+            }
+          ]
+        },
+        {
+          "id": "dubrovnik-neretva",
+          "stateCode": "DU",
+          "name": "Dubrovnik-Neretva",
+          "cities": [
+            {
+              "id": "dubrovnik",
+              "name": "Dubrovnik",
+              "status": "complete",
+              "packPath": "hr/dubrovnik-neretva/dubrovnik/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 42.63,
+                "minLng": 18.1,
+                "maxLat": 42.65,
+                "maxLng": 18.12
+              }
+            }
+          ]
+        },
+        {
+          "id": "istra",
+          "stateCode": "IS",
+          "name": "Istria",
+          "cities": [
+            {
+              "id": "rovinj",
+              "name": "Rovinj",
+              "status": "complete",
+              "packPath": "hr/istra/rovinj/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 45.07,
+                "minLng": 13.63,
+                "maxLat": 45.09,
+                "maxLng": 13.65
+              }
+            }
+          ]
+        },
+        {
+          "id": "plitvice",
+          "stateCode": "LS",
+          "name": "Lika-Senj",
+          "cities": [
+            {
+              "id": "plitvice-lakes",
+              "name": "Plitvice Lakes",
+              "status": "complete",
+              "packPath": "hr/plitvice/plitvice-lakes/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:15:00.000Z",
+              "bbox": {
+                "minLat": 44.86,
+                "minLng": 15.58,
+                "maxLat": 44.9,
+                "maxLng": 15.62
               }
             }
           ]

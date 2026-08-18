@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:25:38.211Z",
+  "generatedAt": "2026-08-18T00:30:24.546Z",
   "cellDeg": 0.5,
-  "cityCount": 645,
+  "cityCount": 651,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1622,6 +1622,60 @@
         "minLng": 25.42,
         "maxLat": 36.45,
         "maxLng": 25.47
+      }
+    },
+    "hr/dubrovnik-neretva/dubrovnik": {
+      "name": "Dubrovnik",
+      "bbox": {
+        "minLat": 42.63,
+        "minLng": 18.1,
+        "maxLat": 42.65,
+        "maxLng": 18.12
+      }
+    },
+    "hr/istra/rovinj": {
+      "name": "Rovinj",
+      "bbox": {
+        "minLat": 45.07,
+        "minLng": 13.63,
+        "maxLat": 45.09,
+        "maxLng": 13.65
+      }
+    },
+    "hr/plitvice/plitvice-lakes": {
+      "name": "Plitvice Lakes",
+      "bbox": {
+        "minLat": 44.86,
+        "minLng": 15.58,
+        "maxLat": 44.9,
+        "maxLng": 15.62
+      }
+    },
+    "hr/split-dalmatia/hvar": {
+      "name": "Hvar",
+      "bbox": {
+        "minLat": 43.16,
+        "minLng": 16.43,
+        "maxLat": 43.18,
+        "maxLng": 16.46
+      }
+    },
+    "hr/split-dalmatia/split": {
+      "name": "Split",
+      "bbox": {
+        "minLat": 43.5,
+        "minLng": 16.43,
+        "maxLat": 43.52,
+        "maxLng": 16.45
+      }
+    },
+    "hr/zagreb/zagreb": {
+      "name": "Zagreb",
+      "bbox": {
+        "minLat": 45.8,
+        "minLng": 15.96,
+        "maxLat": 45.83,
+        "maxLng": 16
       }
     },
     "id/bali/denpasar": {
@@ -9247,6 +9301,27 @@
     ],
     "139,37": [
       "no/troms/tromso"
+    ],
+    "91,31": [
+      "hr/zagreb/zagreb"
+    ],
+    "91,32": [
+      "hr/zagreb/zagreb"
+    ],
+    "87,32": [
+      "hr/split-dalmatia/split"
+    ],
+    "86,32": [
+      "hr/split-dalmatia/hvar"
+    ],
+    "85,36": [
+      "hr/dubrovnik-neretva/dubrovnik"
+    ],
+    "90,27": [
+      "hr/istra/rovinj"
+    ],
+    "89,31": [
+      "hr/plitvice/plitvice-lakes"
     ]
   }
 }

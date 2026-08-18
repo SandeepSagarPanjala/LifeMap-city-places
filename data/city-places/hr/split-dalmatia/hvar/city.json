@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/split-dalmatia/hvar",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "ST",
+  "stateName": "Split-Dalmatia",
+  "cityName": "Hvar",
+  "bbox": {
+    "minLat": 43.16,
+    "minLng": 16.43,
+    "maxLat": 43.18,
+    "maxLng": 16.46
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hvar-fortress",
+      "name": "Hvar Fortress",
+      "lat": 43.175,
+      "lng": 16.441,
+      "radiusM": 150,
+      "address": "Fortica",
+      "howTo": "Visit Hvar Fortress.",
+      "badge": "badges/hvar-fortress.png"
+    },
+    {
+      "id": "hvar-harbour",
+      "name": "Hvar Harbour",
+      "lat": 43.172,
+      "lng": 16.442,
+      "radiusM": 200,
+      "address": "Stari Grad harbour",
+      "howTo": "Visit Hvar Harbour.",
+      "badge": "badges/hvar-harbour.png"
+    }
+  ]
+}

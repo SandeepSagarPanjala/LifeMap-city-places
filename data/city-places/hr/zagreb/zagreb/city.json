@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/zagreb/zagreb",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "ZG",
+  "stateName": "Zagreb",
+  "cityName": "Zagreb",
+  "bbox": {
+    "minLat": 45.8,
+    "minLng": 15.96,
+    "maxLat": 45.83,
+    "maxLng": 16.0
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ban-jelacic-square",
+      "name": "Ban Jelacic Square",
+      "lat": 45.813,
+      "lng": 15.977,
+      "radiusM": 150,
+      "address": "Trg bana Jelacica",
+      "howTo": "Visit Ban Jelacic Square.",
+      "badge": "badges/ban-jelacic-square.png"
+    },
+    {
+      "id": "zagreb-cathedral",
+      "name": "Zagreb Cathedral",
+      "lat": 45.8145,
+      "lng": 15.9795,
+      "radiusM": 120,
+      "address": "Kaptol",
+      "howTo": "Visit Zagreb Cathedral.",
+      "badge": "badges/zagreb-cathedral.png"
+    },
+    {
+      "id": "upper-town-zagreb",
+      "name": "Upper Town Zagreb",
+      "lat": 45.8165,
+      "lng": 15.9735,
+      "radiusM": 200,
+      "address": "Gornji Grad",
+      "howTo": "Visit Upper Town Zagreb.",
+      "badge": "badges/upper-town-zagreb.png"
+    }
+  ]
+}

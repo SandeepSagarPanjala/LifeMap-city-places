@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/dubrovnik-neretva/dubrovnik",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "DU",
+  "stateName": "Dubrovnik-Neretva",
+  "cityName": "Dubrovnik",
+  "bbox": {
+    "minLat": 42.63,
+    "minLng": 18.1,
+    "maxLat": 42.65,
+    "maxLng": 18.12
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dubrovnik-walls",
+      "name": "Dubrovnik City Walls",
+      "lat": 42.64,
+      "lng": 18.11,
+      "radiusM": 250,
+      "address": "Old Town",
+      "howTo": "Visit Dubrovnik City Walls.",
+      "badge": "badges/dubrovnik-walls.png"
+    },
+    {
+      "id": "stradun",
+      "name": "Stradun",
+      "lat": 42.641,
+      "lng": 18.109,
+      "radiusM": 150,
+      "address": "Placa",
+      "howTo": "Visit Stradun.",
+      "badge": "badges/stradun.png"
+    },
+    {
+      "id": "lokrum-island",
+      "name": "Lokrum Island",
+      "lat": 42.626,
+      "lng": 18.119,
+      "radiusM": 300,
+      "address": "Lokrum",
+      "howTo": "Visit Lokrum Island.",
+      "badge": "badges/lokrum-island.png"
+    }
+  ]
+}

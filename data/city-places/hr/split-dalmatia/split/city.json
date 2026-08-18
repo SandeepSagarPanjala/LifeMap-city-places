@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/split-dalmatia/split",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "ST",
+  "stateName": "Split-Dalmatia",
+  "cityName": "Split",
+  "bbox": {
+    "minLat": 43.5,
+    "minLng": 16.43,
+    "maxLat": 43.52,
+    "maxLng": 16.45
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "diocletians-palace",
+      "name": "Diocletian's Palace",
+      "lat": 43.5081,
+      "lng": 16.4402,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Diocletian's Palace.",
+      "badge": "badges/diocletians-palace.png"
+    },
+    {
+      "id": "riva-split",
+      "name": "Riva Split",
+      "lat": 43.507,
+      "lng": 16.438,
+      "radiusM": 200,
+      "address": "Waterfront",
+      "howTo": "Visit Riva Split.",
+      "badge": "badges/riva-split.png"
+    }
+  ]
+}

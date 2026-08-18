@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hr/plitvice/plitvice-lakes",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "stateCode": "LS",
+  "stateName": "Lika-Senj",
+  "cityName": "Plitvice Lakes",
+  "bbox": {
+    "minLat": 44.86,
+    "minLng": 15.58,
+    "maxLat": 44.9,
+    "maxLng": 15.62
+  },
+  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plitvice-waterfalls",
+      "name": "Plitvice Waterfalls",
+      "lat": 44.865,
+      "lng": 15.582,
+      "radiusM": 400,
+      "address": "Plitvice Lakes National Park",
+      "howTo": "Visit Plitvice Waterfalls.",
+      "badge": "badges/plitvice-waterfalls.png"
+    },
+    {
+      "id": "plitvice-lakes",
+      "name": "Plitvice Lakes",
+      "lat": 44.88,
+      "lng": 15.616,
+      "radiusM": 400,
+      "address": "Plitvice Lakes National Park",
+      "howTo": "Visit Plitvice Lakes.",
+      "badge": "badges/plitvice-lakes.png"
+    }
+  ]
+}
