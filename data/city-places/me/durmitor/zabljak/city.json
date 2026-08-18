@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "me/durmitor/zabljak",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "stateCode": "ZB",
+  "stateName": "\u017dabljak",
+  "cityName": "\u017dabljak",
+  "bbox": {
+    "minLat": 43.12,
+    "minLng": 19.08,
+    "maxLat": 43.15,
+    "maxLng": 19.11
+  },
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "black-lake",
+      "name": "Black Lake",
+      "lat": 43.1433,
+      "lng": 19.0936,
+      "radiusM": 250,
+      "address": "Durmitor",
+      "howTo": "Visit Black Lake.",
+      "badge": "badges/black-lake.png"
+    },
+    {
+      "id": "savin-kuk",
+      "name": "Savin Kuk",
+      "lat": 43.1256,
+      "lng": 19.103,
+      "radiusM": 200,
+      "address": "Durmitor",
+      "howTo": "Visit Savin Kuk.",
+      "badge": "badges/savin-kuk.png"
+    }
+  ]
+}

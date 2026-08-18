@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "me/kotor/kotor",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "stateCode": "KO",
+  "stateName": "Kotor",
+  "cityName": "Kotor",
+  "bbox": {
+    "minLat": 42.422,
+    "minLng": 18.765,
+    "maxLat": 42.43,
+    "maxLng": 18.775
+  },
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kotor-old-town",
+      "name": "Kotor Old Town",
+      "lat": 42.4247,
+      "lng": 18.7712,
+      "radiusM": 150,
+      "address": "Stari Grad",
+      "howTo": "Visit Kotor Old Town.",
+      "badge": "badges/kotor-old-town.png"
+    },
+    {
+      "id": "st-tryphons-cathedral",
+      "name": "St Tryphon's Cathedral",
+      "lat": 42.4244,
+      "lng": 18.7719,
+      "radiusM": 50,
+      "address": "Kotor",
+      "howTo": "Visit St Tryphon's Cathedral.",
+      "badge": "badges/st-tryphons-cathedral.png"
+    },
+    {
+      "id": "san-giovanni",
+      "name": "San Giovanni Fortress",
+      "lat": 42.4275,
+      "lng": 18.768,
+      "radiusM": 80,
+      "address": "Kotor walls",
+      "howTo": "Visit San Giovanni Fortress.",
+      "badge": "badges/san-giovanni.png"
+    }
+  ]
+}

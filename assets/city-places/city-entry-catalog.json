@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:05:24.735Z",
+  "generatedAt": "2026-08-18T03:09:30.576Z",
   "cellDeg": 0.5,
-  "cityCount": 814,
+  "cityCount": 819,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4169,6 +4169,51 @@
         "minLng": -5.85,
         "maxLat": 35.8,
         "maxLng": -5.78
+      }
+    },
+    "me/budva/budva": {
+      "name": "Budva",
+      "bbox": {
+        "minLat": 42.274,
+        "minLng": 18.834,
+        "maxLat": 42.28,
+        "maxLng": 18.841
+      }
+    },
+    "me/budva/sveti-stefan": {
+      "name": "Sveti Stefan",
+      "bbox": {
+        "minLat": 42.252,
+        "minLng": 18.886,
+        "maxLat": 42.259,
+        "maxLng": 18.896
+      }
+    },
+    "me/durmitor/zabljak": {
+      "name": "Žabljak",
+      "bbox": {
+        "minLat": 43.12,
+        "minLng": 19.08,
+        "maxLat": 43.15,
+        "maxLng": 19.11
+      }
+    },
+    "me/kotor/kotor": {
+      "name": "Kotor",
+      "bbox": {
+        "minLat": 42.422,
+        "minLng": 18.765,
+        "maxLat": 42.43,
+        "maxLng": 18.775
+      }
+    },
+    "me/kotor/perast": {
+      "name": "Perast",
+      "bbox": {
+        "minLat": 42.484,
+        "minLng": 18.688,
+        "maxLat": 42.492,
+        "maxLng": 18.703
       }
     },
     "mt/gozo/comino": {
@@ -11378,6 +11423,15 @@
     ],
     "83,91": [
       "ge/kakheti/sighnaghi"
+    ],
+    "84,37": [
+      "me/budva/budva",
+      "me/budva/sveti-stefan",
+      "me/kotor/kotor",
+      "me/kotor/perast"
+    ],
+    "86,38": [
+      "me/durmitor/zabljak"
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "me/kotor/perast",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "stateCode": "KO",
+  "stateName": "Kotor",
+  "cityName": "Perast",
+  "bbox": {
+    "minLat": 42.484,
+    "minLng": 18.688,
+    "maxLat": 42.492,
+    "maxLng": 18.703
+  },
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "perast-waterfront",
+      "name": "Perast Waterfront",
+      "lat": 42.4867,
+      "lng": 18.6994,
+      "radiusM": 120,
+      "address": "Perast",
+      "howTo": "Visit Perast Waterfront.",
+      "badge": "badges/perast-waterfront.png"
+    },
+    {
+      "id": "our-lady-of-the-rocks",
+      "name": "Our Lady of the Rocks",
+      "lat": 42.4889,
+      "lng": 18.6911,
+      "radiusM": 80,
+      "address": "Bay of Kotor",
+      "howTo": "Visit Our Lady of the Rocks.",
+      "badge": "badges/our-lady-of-the-rocks.png"
+    }
+  ]
+}

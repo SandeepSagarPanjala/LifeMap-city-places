@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:05:24.000Z",
-  "notes": "Georgia (ge) complete. Next: Montenegro (me) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "notes": "Montenegro (me) complete. Next: Albania (al) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15307,6 +15307,104 @@
                 "minLng": 45.915,
                 "maxLat": 41.625,
                 "maxLng": 45.94
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "me",
+      "countryCode": "ME",
+      "name": "Montenegro",
+      "states": [
+        {
+          "id": "kotor",
+          "stateCode": "KO",
+          "name": "Kotor",
+          "cities": [
+            {
+              "id": "kotor",
+              "name": "Kotor",
+              "status": "complete",
+              "packPath": "me/kotor/kotor/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:09:30.000Z",
+              "bbox": {
+                "minLat": 42.422,
+                "minLng": 18.765,
+                "maxLat": 42.43,
+                "maxLng": 18.775
+              }
+            },
+            {
+              "id": "perast",
+              "name": "Perast",
+              "status": "complete",
+              "packPath": "me/kotor/perast/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:09:30.000Z",
+              "bbox": {
+                "minLat": 42.484,
+                "minLng": 18.688,
+                "maxLat": 42.492,
+                "maxLng": 18.703
+              }
+            }
+          ]
+        },
+        {
+          "id": "budva",
+          "stateCode": "BU",
+          "name": "Budva",
+          "cities": [
+            {
+              "id": "budva",
+              "name": "Budva",
+              "status": "complete",
+              "packPath": "me/budva/budva/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:09:30.000Z",
+              "bbox": {
+                "minLat": 42.274,
+                "minLng": 18.834,
+                "maxLat": 42.28,
+                "maxLng": 18.841
+              }
+            },
+            {
+              "id": "sveti-stefan",
+              "name": "Sveti Stefan",
+              "status": "complete",
+              "packPath": "me/budva/sveti-stefan/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:09:30.000Z",
+              "bbox": {
+                "minLat": 42.252,
+                "minLng": 18.886,
+                "maxLat": 42.259,
+                "maxLng": 18.896
+              }
+            }
+          ]
+        },
+        {
+          "id": "durmitor",
+          "stateCode": "ZB",
+          "name": "\u017dabljak",
+          "cities": [
+            {
+              "id": "zabljak",
+              "name": "\u017dabljak",
+              "status": "complete",
+              "packPath": "me/durmitor/zabljak/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:09:30.000Z",
+              "bbox": {
+                "minLat": 43.12,
+                "minLng": 19.08,
+                "maxLat": 43.15,
+                "maxLng": 19.11
               }
             }
           ]

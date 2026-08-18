@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "me/budva/budva",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "stateCode": "BU",
+  "stateName": "Budva",
+  "cityName": "Budva",
+  "bbox": {
+    "minLat": 42.274,
+    "minLng": 18.834,
+    "maxLat": 42.28,
+    "maxLng": 18.841
+  },
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "budva-old-town",
+      "name": "Budva Old Town",
+      "lat": 42.2773,
+      "lng": 18.838,
+      "radiusM": 120,
+      "address": "Stari Grad",
+      "howTo": "Visit Budva Old Town.",
+      "badge": "badges/budva-old-town.png"
+    },
+    {
+      "id": "budva-citadel",
+      "name": "Budva Citadel",
+      "lat": 42.2764,
+      "lng": 18.8372,
+      "radiusM": 60,
+      "address": "Budva",
+      "howTo": "Visit Budva Citadel.",
+      "badge": "badges/budva-citadel.png"
+    }
+  ]
+}

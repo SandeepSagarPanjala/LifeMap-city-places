@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "me/budva/sveti-stefan",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "stateCode": "BU",
+  "stateName": "Budva",
+  "cityName": "Sveti Stefan",
+  "bbox": {
+    "minLat": 42.252,
+    "minLng": 18.886,
+    "maxLat": 42.259,
+    "maxLng": 18.896
+  },
+  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sveti-stefan",
+      "name": "Sveti Stefan",
+      "lat": 42.2556,
+      "lng": 18.8908,
+      "radiusM": 150,
+      "address": "Budva Riviera",
+      "howTo": "Visit Sveti Stefan.",
+      "badge": "badges/sveti-stefan.png"
+    }
+  ]
+}
