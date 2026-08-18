@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:10:57.000Z",
-  "notes": "Laos (la) complete. Next: Tanzania (tz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:15:56.000Z",
+  "notes": "Tanzania (tz) complete. Next: Namibia (na) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17001,6 +17001,118 @@
                 "minLng": 105.818,
                 "maxLat": 14.852,
                 "maxLng": 105.826
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tz",
+      "countryCode": "TZ",
+      "name": "Tanzania",
+      "states": [
+        {
+          "id": "mjini-magharibi",
+          "stateCode": "15",
+          "name": "Mjini Magharibi",
+          "cities": [
+            {
+              "id": "stone-town",
+              "name": "Stone Town",
+              "status": "complete",
+              "packPath": "tz/mjini-magharibi/stone-town/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T23:15:56.000Z",
+              "bbox": {
+                "minLat": -6.166,
+                "minLng": 39.186,
+                "maxLat": -6.16,
+                "maxLng": 39.195
+              }
+            }
+          ]
+        },
+        {
+          "id": "kaskazini-unguja",
+          "stateCode": "07",
+          "name": "Kaskazini Unguja",
+          "cities": [
+            {
+              "id": "nungwi",
+              "name": "Nungwi",
+              "status": "complete",
+              "packPath": "tz/kaskazini-unguja/nungwi/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T23:15:56.000Z",
+              "bbox": {
+                "minLat": -5.732,
+                "minLng": 39.29,
+                "maxLat": -5.72,
+                "maxLng": 39.305
+              }
+            }
+          ]
+        },
+        {
+          "id": "kilimanjaro",
+          "stateCode": "09",
+          "name": "Kilimanjaro",
+          "cities": [
+            {
+              "id": "kilimanjaro",
+              "name": "Kilimanjaro",
+              "status": "complete",
+              "packPath": "tz/kilimanjaro/kilimanjaro/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:15:56.000Z",
+              "bbox": {
+                "minLat": -3.082,
+                "minLng": 37.345,
+                "maxLat": -3.06,
+                "maxLng": 37.365
+              }
+            }
+          ]
+        },
+        {
+          "id": "arusha",
+          "stateCode": "01",
+          "name": "Arusha",
+          "cities": [
+            {
+              "id": "ngorongoro",
+              "name": "Ngorongoro",
+              "status": "complete",
+              "packPath": "tz/arusha/ngorongoro/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:15:56.000Z",
+              "bbox": {
+                "minLat": -3.235,
+                "minLng": 35.54,
+                "maxLat": -3.17,
+                "maxLng": 35.59
+              }
+            }
+          ]
+        },
+        {
+          "id": "mara",
+          "stateCode": "13",
+          "name": "Mara",
+          "cities": [
+            {
+              "id": "serengeti",
+              "name": "Serengeti",
+              "status": "complete",
+              "packPath": "tz/mara/serengeti/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:15:56.000Z",
+              "bbox": {
+                "minLat": -2.44,
+                "minLng": 34.815,
+                "maxLat": -2.415,
+                "maxLng": 34.84
               }
             }
           ]

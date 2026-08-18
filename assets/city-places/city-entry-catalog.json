@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:10:57.221Z",
+  "generatedAt": "2026-08-18T23:15:56.257Z",
   "cellDeg": 0.5,
-  "cityCount": 894,
+  "cityCount": 899,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6187,6 +6187,51 @@
         "maxLng": 121.57
       }
     },
+    "tz/arusha/ngorongoro": {
+      "name": "Ngorongoro",
+      "bbox": {
+        "minLat": -3.235,
+        "minLng": 35.54,
+        "maxLat": -3.17,
+        "maxLng": 35.59
+      }
+    },
+    "tz/kaskazini-unguja/nungwi": {
+      "name": "Nungwi",
+      "bbox": {
+        "minLat": -5.732,
+        "minLng": 39.29,
+        "maxLat": -5.72,
+        "maxLng": 39.305
+      }
+    },
+    "tz/kilimanjaro/kilimanjaro": {
+      "name": "Kilimanjaro",
+      "bbox": {
+        "minLat": -3.082,
+        "minLng": 37.345,
+        "maxLat": -3.06,
+        "maxLng": 37.365
+      }
+    },
+    "tz/mara/serengeti": {
+      "name": "Serengeti",
+      "bbox": {
+        "minLat": -2.44,
+        "minLng": 34.815,
+        "maxLat": -2.415,
+        "maxLng": 34.84
+      }
+    },
+    "tz/mjini-magharibi/stone-town": {
+      "name": "Stone Town",
+      "bbox": {
+        "minLat": -6.166,
+        "minLng": 39.186,
+        "maxLat": -6.16,
+        "maxLng": 39.195
+      }
+    },
     "us/alabama/birmingham": {
       "name": "Birmingham",
       "bbox": {
@@ -12322,6 +12367,21 @@
     ],
     "29,211": [
       "la/champasak/champasak"
+    ],
+    "-13,78": [
+      "tz/mjini-magharibi/stone-town"
+    ],
+    "-12,78": [
+      "tz/kaskazini-unguja/nungwi"
+    ],
+    "-7,74": [
+      "tz/kilimanjaro/kilimanjaro"
+    ],
+    "-7,71": [
+      "tz/arusha/ngorongoro"
+    ],
+    "-5,69": [
+      "tz/mara/serengeti"
     ]
   }
 }

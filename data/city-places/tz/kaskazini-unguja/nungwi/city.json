@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "tz/kaskazini-unguja/nungwi",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "stateCode": "07",
+  "stateName": "Kaskazini Unguja",
+  "cityName": "Nungwi",
+  "bbox": {
+    "minLat": -5.732,
+    "minLng": 39.29,
+    "maxLat": -5.72,
+    "maxLng": 39.305
+  },
+  "updatedAt": "2026-08-18T23:15:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nungwi-beach",
+      "name": "Nungwi Beach",
+      "lat": -5.7261,
+      "lng": 39.2986,
+      "radiusM": 200,
+      "address": "Nungwi",
+      "howTo": "Visit Nungwi Beach.",
+      "badge": "badges/nungwi-beach.png"
+    }
+  ]
+}

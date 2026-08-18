@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tz/mjini-magharibi/stone-town",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "stateCode": "15",
+  "stateName": "Mjini Magharibi",
+  "cityName": "Stone Town",
+  "bbox": {
+    "minLat": -6.166,
+    "minLng": 39.186,
+    "maxLat": -6.16,
+    "maxLng": 39.195
+  },
+  "updatedAt": "2026-08-18T23:15:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "house-of-wonders",
+      "name": "House of Wonders",
+      "lat": -6.16167,
+      "lng": 39.18972,
+      "radiusM": 60,
+      "address": "Stone Town",
+      "howTo": "Visit House of Wonders.",
+      "badge": "badges/house-of-wonders.png"
+    },
+    {
+      "id": "old-fort",
+      "name": "Old Fort",
+      "lat": -6.16278,
+      "lng": 39.18917,
+      "radiusM": 60,
+      "address": "Stone Town",
+      "howTo": "Visit Old Fort.",
+      "badge": "badges/old-fort.png"
+    },
+    {
+      "id": "christ-church",
+      "name": "Christ Church Cathedral",
+      "lat": -6.16389,
+      "lng": 39.1925,
+      "radiusM": 50,
+      "address": "Stone Town",
+      "howTo": "Visit Christ Church Cathedral.",
+      "badge": "badges/christ-church.png"
+    }
+  ]
+}

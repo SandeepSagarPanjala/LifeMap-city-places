@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tz/mara/serengeti",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "stateCode": "13",
+  "stateName": "Mara",
+  "cityName": "Serengeti",
+  "bbox": {
+    "minLat": -2.44,
+    "minLng": 34.815,
+    "maxLat": -2.415,
+    "maxLng": 34.84
+  },
+  "updatedAt": "2026-08-18T23:15:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seronera",
+      "name": "Seronera",
+      "lat": -2.433,
+      "lng": 34.833,
+      "radiusM": 250,
+      "address": "Serengeti",
+      "howTo": "Visit Seronera.",
+      "badge": "badges/seronera.png"
+    },
+    {
+      "id": "serengeti-plains",
+      "name": "Serengeti Plains",
+      "lat": -2.425,
+      "lng": 34.82,
+      "radiusM": 300,
+      "address": "Serengeti",
+      "howTo": "Visit Serengeti Plains.",
+      "badge": "badges/serengeti-plains.png"
+    }
+  ]
+}

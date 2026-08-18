@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tz/kilimanjaro/kilimanjaro",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "stateCode": "09",
+  "stateName": "Kilimanjaro",
+  "cityName": "Kilimanjaro",
+  "bbox": {
+    "minLat": -3.082,
+    "minLng": 37.345,
+    "maxLat": -3.06,
+    "maxLng": 37.365
+  },
+  "updatedAt": "2026-08-18T23:15:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uhuru-peak",
+      "name": "Uhuru Peak",
+      "lat": -3.07583,
+      "lng": 37.35333,
+      "radiusM": 80,
+      "address": "Kilimanjaro",
+      "howTo": "Visit Uhuru Peak.",
+      "badge": "badges/uhuru-peak.png"
+    },
+    {
+      "id": "kibo",
+      "name": "Kibo",
+      "lat": -3.0658,
+      "lng": 37.3583,
+      "radiusM": 120,
+      "address": "Kilimanjaro",
+      "howTo": "Visit Kibo.",
+      "badge": "badges/kibo.png"
+    }
+  ]
+}
