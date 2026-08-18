@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ba/sarajevo/sarajevo",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "stateCode": "SA",
+  "stateName": "Sarajevo",
+  "cityName": "Sarajevo",
+  "bbox": {
+    "minLat": 43.856,
+    "minLng": 18.426,
+    "maxLat": 43.862,
+    "maxLng": 18.434
+  },
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sebilj",
+      "name": "Sebilj",
+      "lat": 43.8594,
+      "lng": 18.4313,
+      "radiusM": 50,
+      "address": "Ba\u0161\u010dar\u0161ija",
+      "howTo": "Visit Sebilj.",
+      "badge": "badges/sebilj.png"
+    },
+    {
+      "id": "gazi-husrev-beg",
+      "name": "Gazi Husrev-beg Mosque",
+      "lat": 43.8592,
+      "lng": 18.4289,
+      "radiusM": 60,
+      "address": "Ba\u0161\u010dar\u0161ija",
+      "howTo": "Visit Gazi Husrev-beg Mosque.",
+      "badge": "badges/gazi-husrev-beg.png"
+    },
+    {
+      "id": "latin-bridge",
+      "name": "Latin Bridge",
+      "lat": 43.8575,
+      "lng": 18.4289,
+      "radiusM": 40,
+      "address": "Miljacka",
+      "howTo": "Visit Latin Bridge.",
+      "badge": "badges/latin-bridge.png"
+    }
+  ]
+}

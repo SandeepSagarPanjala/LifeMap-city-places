@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:13:36.000Z",
-  "notes": "Albania (al) complete. Next: Bosnia and Herzegovina (ba) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "notes": "Bosnia and Herzegovina (ba) complete. Next: North Macedonia (mk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15517,6 +15517,104 @@
                 "minLng": 19.49,
                 "maxLat": 42.07,
                 "maxLng": 19.516
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba",
+      "countryCode": "BA",
+      "name": "Bosnia and Herzegovina",
+      "states": [
+        {
+          "id": "sarajevo",
+          "stateCode": "SA",
+          "name": "Sarajevo",
+          "cities": [
+            {
+              "id": "sarajevo",
+              "name": "Sarajevo",
+              "status": "complete",
+              "packPath": "ba/sarajevo/sarajevo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:17:25.000Z",
+              "bbox": {
+                "minLat": 43.856,
+                "minLng": 18.426,
+                "maxLat": 43.862,
+                "maxLng": 18.434
+              }
+            }
+          ]
+        },
+        {
+          "id": "herzegovina-neretva",
+          "stateCode": "HN",
+          "name": "Herzegovina-Neretva",
+          "cities": [
+            {
+              "id": "mostar",
+              "name": "Mostar",
+              "status": "complete",
+              "packPath": "ba/herzegovina-neretva/mostar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:17:25.000Z",
+              "bbox": {
+                "minLat": 43.335,
+                "minLng": 17.812,
+                "maxLat": 43.34,
+                "maxLng": 17.818
+              }
+            },
+            {
+              "id": "blagaj",
+              "name": "Blagaj",
+              "status": "complete",
+              "packPath": "ba/herzegovina-neretva/blagaj/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:17:25.000Z",
+              "bbox": {
+                "minLat": 43.254,
+                "minLng": 17.885,
+                "maxLat": 43.26,
+                "maxLng": 17.892
+              }
+            },
+            {
+              "id": "pocitelj",
+              "name": "Po\u010ditelj",
+              "status": "complete",
+              "packPath": "ba/herzegovina-neretva/pocitelj/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:17:25.000Z",
+              "bbox": {
+                "minLat": 43.132,
+                "minLng": 17.727,
+                "maxLat": 43.138,
+                "maxLng": 17.735
+              }
+            }
+          ]
+        },
+        {
+          "id": "central-bosnia",
+          "stateCode": "SB",
+          "name": "Central Bosnia",
+          "cities": [
+            {
+              "id": "jajce",
+              "name": "Jajce",
+              "status": "complete",
+              "packPath": "ba/central-bosnia/jajce/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:17:25.000Z",
+              "bbox": {
+                "minLat": 44.337,
+                "minLng": 17.266,
+                "maxLat": 44.345,
+                "maxLng": 17.274
               }
             }
           ]

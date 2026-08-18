@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ba/herzegovina-neretva/pocitelj",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "stateCode": "HN",
+  "stateName": "Herzegovina-Neretva",
+  "cityName": "Po\u010ditelj",
+  "bbox": {
+    "minLat": 43.132,
+    "minLng": 17.727,
+    "maxLat": 43.138,
+    "maxLng": 17.735
+  },
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pocitelj-old-town",
+      "name": "Po\u010ditelj Old Town",
+      "lat": 43.1347,
+      "lng": 17.7308,
+      "radiusM": 120,
+      "address": "Neretva valley",
+      "howTo": "Visit Po\u010ditelj Old Town.",
+      "badge": "badges/pocitelj-old-town.png"
+    },
+    {
+      "id": "pocitelj-fortress",
+      "name": "Po\u010ditelj Fortress",
+      "lat": 43.1358,
+      "lng": 17.7315,
+      "radiusM": 60,
+      "address": "Po\u010ditelj",
+      "howTo": "Visit Po\u010ditelj Fortress.",
+      "badge": "badges/pocitelj-fortress.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ba/central-bosnia/jajce",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "stateCode": "SB",
+  "stateName": "Central Bosnia",
+  "cityName": "Jajce",
+  "bbox": {
+    "minLat": 44.337,
+    "minLng": 17.266,
+    "maxLat": 44.345,
+    "maxLng": 17.274
+  },
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jajce-waterfall",
+      "name": "Jajce Waterfall",
+      "lat": 44.3397,
+      "lng": 17.2703,
+      "radiusM": 80,
+      "address": "Pliva",
+      "howTo": "Visit Jajce Waterfall.",
+      "badge": "badges/jajce-waterfall.png"
+    },
+    {
+      "id": "jajce-fortress",
+      "name": "Jajce Fortress",
+      "lat": 44.3419,
+      "lng": 17.2692,
+      "radiusM": 80,
+      "address": "Jajce",
+      "howTo": "Visit Jajce Fortress.",
+      "badge": "badges/jajce-fortress.png"
+    }
+  ]
+}

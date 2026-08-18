@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "ba/herzegovina-neretva/blagaj",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "stateCode": "HN",
+  "stateName": "Herzegovina-Neretva",
+  "cityName": "Blagaj",
+  "bbox": {
+    "minLat": 43.254,
+    "minLng": 17.885,
+    "maxLat": 43.26,
+    "maxLng": 17.892
+  },
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blagaj-tekke",
+      "name": "Blagaj Tekke",
+      "lat": 43.2569,
+      "lng": 17.8886,
+      "radiusM": 80,
+      "address": "Vrelo Bune",
+      "howTo": "Visit Blagaj Tekke.",
+      "badge": "badges/blagaj-tekke.png"
+    }
+  ]
+}

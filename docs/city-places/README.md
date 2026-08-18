@@ -117,7 +117,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 71. `ge` — Georgia (**complete**)
 72. `me` — Montenegro (**complete**)
 73. `al` — Albania (**complete**)
-74. `ba` — Bosnia and Herzegovina
+74. `ba` — Bosnia and Herzegovina (**complete**)
+75. `mk` — North Macedonia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

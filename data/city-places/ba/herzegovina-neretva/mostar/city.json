@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ba/herzegovina-neretva/mostar",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "stateCode": "HN",
+  "stateName": "Herzegovina-Neretva",
+  "cityName": "Mostar",
+  "bbox": {
+    "minLat": 43.335,
+    "minLng": 17.812,
+    "maxLat": 43.34,
+    "maxLng": 17.818
+  },
+  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "stari-most",
+      "name": "Stari Most",
+      "lat": 43.3371,
+      "lng": 17.81485,
+      "radiusM": 50,
+      "address": "Mostar",
+      "howTo": "Visit Stari Most.",
+      "badge": "badges/stari-most.png"
+    },
+    {
+      "id": "koski-mehmed-pasha",
+      "name": "Koski Mehmed Pasha Mosque",
+      "lat": 43.3378,
+      "lng": 17.8158,
+      "radiusM": 40,
+      "address": "Mostar",
+      "howTo": "Visit Koski Mehmed Pasha Mosque.",
+      "badge": "badges/koski-mehmed-pasha.png"
+    }
+  ]
+}

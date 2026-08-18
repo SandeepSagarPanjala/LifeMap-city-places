@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:13:36.134Z",
+  "generatedAt": "2026-08-18T03:17:25.543Z",
   "cellDeg": 0.5,
-  "cityCount": 824,
+  "cityCount": 829,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -290,6 +290,51 @@
         "minLng": 115.84,
         "maxLat": -31.94,
         "maxLng": 115.88
+      }
+    },
+    "ba/central-bosnia/jajce": {
+      "name": "Jajce",
+      "bbox": {
+        "minLat": 44.337,
+        "minLng": 17.266,
+        "maxLat": 44.345,
+        "maxLng": 17.274
+      }
+    },
+    "ba/herzegovina-neretva/blagaj": {
+      "name": "Blagaj",
+      "bbox": {
+        "minLat": 43.254,
+        "minLng": 17.885,
+        "maxLat": 43.26,
+        "maxLng": 17.892
+      }
+    },
+    "ba/herzegovina-neretva/mostar": {
+      "name": "Mostar",
+      "bbox": {
+        "minLat": 43.335,
+        "minLng": 17.812,
+        "maxLat": 43.34,
+        "maxLng": 17.818
+      }
+    },
+    "ba/herzegovina-neretva/pocitelj": {
+      "name": "Počitelj",
+      "bbox": {
+        "minLat": 43.132,
+        "minLng": 17.727,
+        "maxLat": 43.138,
+        "maxLng": 17.735
+      }
+    },
+    "ba/sarajevo/sarajevo": {
+      "name": "Sarajevo",
+      "bbox": {
+        "minLat": 43.856,
+        "minLng": 18.426,
+        "maxLat": 43.862,
+        "maxLng": 18.434
       }
     },
     "be/antwerp/antwerp": {
@@ -11498,6 +11543,17 @@
     ],
     "84,39": [
       "al/shkoder/shkoder"
+    ],
+    "87,36": [
+      "ba/sarajevo/sarajevo"
+    ],
+    "86,35": [
+      "ba/herzegovina-neretva/blagaj",
+      "ba/herzegovina-neretva/mostar",
+      "ba/herzegovina-neretva/pocitelj"
+    ],
+    "88,34": [
+      "ba/central-bosnia/jajce"
     ]
   }
 }
