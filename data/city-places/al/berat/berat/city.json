@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "al/berat/berat",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "stateCode": "BR",
+  "stateName": "Berat",
+  "cityName": "Berat",
+  "bbox": {
+    "minLat": 40.702,
+    "minLng": 19.945,
+    "maxLat": 40.712,
+    "maxLng": 19.957
+  },
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "berat-castle",
+      "name": "Berat Castle",
+      "lat": 40.7083,
+      "lng": 19.9522,
+      "radiusM": 200,
+      "address": "Kalaja",
+      "howTo": "Visit Berat Castle.",
+      "badge": "badges/berat-castle.png"
+    },
+    {
+      "id": "mangalem",
+      "name": "Mangalem",
+      "lat": 40.705,
+      "lng": 19.9495,
+      "radiusM": 150,
+      "address": "Berat",
+      "howTo": "Visit Mangalem.",
+      "badge": "badges/mangalem.png"
+    }
+  ]
+}

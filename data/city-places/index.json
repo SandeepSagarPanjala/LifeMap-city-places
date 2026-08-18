@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:09:30.000Z",
-  "notes": "Montenegro (me) complete. Next: Albania (al) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "notes": "Albania (al) complete. Next: Bosnia and Herzegovina (ba) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15405,6 +15405,118 @@
                 "minLng": 19.08,
                 "maxLat": 43.15,
                 "maxLng": 19.11
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "al",
+      "countryCode": "AL",
+      "name": "Albania",
+      "states": [
+        {
+          "id": "tirana",
+          "stateCode": "TR",
+          "name": "Tirana",
+          "cities": [
+            {
+              "id": "tirana",
+              "name": "Tirana",
+              "status": "complete",
+              "packPath": "al/tirana/tirana/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:13:36.000Z",
+              "bbox": {
+                "minLat": 41.321,
+                "minLng": 19.816,
+                "maxLat": 41.33,
+                "maxLng": 19.824
+              }
+            }
+          ]
+        },
+        {
+          "id": "berat",
+          "stateCode": "BR",
+          "name": "Berat",
+          "cities": [
+            {
+              "id": "berat",
+              "name": "Berat",
+              "status": "complete",
+              "packPath": "al/berat/berat/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:13:36.000Z",
+              "bbox": {
+                "minLat": 40.702,
+                "minLng": 19.945,
+                "maxLat": 40.712,
+                "maxLng": 19.957
+              }
+            }
+          ]
+        },
+        {
+          "id": "gjirokaster",
+          "stateCode": "GJ",
+          "name": "Gjirokast\u00ebr",
+          "cities": [
+            {
+              "id": "gjirokaster",
+              "name": "Gjirokast\u00ebr",
+              "status": "complete",
+              "packPath": "al/gjirokaster/gjirokaster/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:13:36.000Z",
+              "bbox": {
+                "minLat": 40.071,
+                "minLng": 20.135,
+                "maxLat": 40.078,
+                "maxLng": 20.144
+              }
+            }
+          ]
+        },
+        {
+          "id": "vlore",
+          "stateCode": "VL",
+          "name": "Vlor\u00eb",
+          "cities": [
+            {
+              "id": "sarande",
+              "name": "Sarand\u00eb",
+              "status": "complete",
+              "packPath": "al/vlore/sarande/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:13:36.000Z",
+              "bbox": {
+                "minLat": 39.866,
+                "minLng": 19.998,
+                "maxLat": 39.88,
+                "maxLng": 20.025
+              }
+            }
+          ]
+        },
+        {
+          "id": "shkoder",
+          "stateCode": "SH",
+          "name": "Shkod\u00ebr",
+          "cities": [
+            {
+              "id": "shkoder",
+              "name": "Shkod\u00ebr",
+              "status": "complete",
+              "packPath": "al/shkoder/shkoder/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:13:36.000Z",
+              "bbox": {
+                "minLat": 42.044,
+                "minLng": 19.49,
+                "maxLat": 42.07,
+                "maxLng": 19.516
               }
             }
           ]

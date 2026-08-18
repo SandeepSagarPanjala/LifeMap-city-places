@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:09:30.576Z",
+  "generatedAt": "2026-08-18T03:13:36.134Z",
   "cellDeg": 0.5,
-  "cityCount": 819,
+  "cityCount": 824,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -29,6 +29,51 @@
         "minLng": 55.37,
         "maxLat": 25.38,
         "maxLng": 55.42
+      }
+    },
+    "al/berat/berat": {
+      "name": "Berat",
+      "bbox": {
+        "minLat": 40.702,
+        "minLng": 19.945,
+        "maxLat": 40.712,
+        "maxLng": 19.957
+      }
+    },
+    "al/gjirokaster/gjirokaster": {
+      "name": "Gjirokastër",
+      "bbox": {
+        "minLat": 40.071,
+        "minLng": 20.135,
+        "maxLat": 40.078,
+        "maxLng": 20.144
+      }
+    },
+    "al/shkoder/shkoder": {
+      "name": "Shkodër",
+      "bbox": {
+        "minLat": 42.044,
+        "minLng": 19.49,
+        "maxLat": 42.07,
+        "maxLng": 19.516
+      }
+    },
+    "al/tirana/tirana": {
+      "name": "Tirana",
+      "bbox": {
+        "minLat": 41.321,
+        "minLng": 19.816,
+        "maxLat": 41.33,
+        "maxLng": 19.824
+      }
+    },
+    "al/vlore/sarande": {
+      "name": "Sarandë",
+      "bbox": {
+        "minLat": 39.866,
+        "minLng": 19.998,
+        "maxLat": 39.88,
+        "maxLng": 20.025
       }
     },
     "ar/buenos-aires/buenos-aires": {
@@ -11432,6 +11477,27 @@
     ],
     "86,38": [
       "me/durmitor/zabljak"
+    ],
+    "82,39": [
+      "al/tirana/tirana"
+    ],
+    "81,39": [
+      "al/berat/berat"
+    ],
+    "80,40": [
+      "al/gjirokaster/gjirokaster"
+    ],
+    "79,39": [
+      "al/vlore/sarande"
+    ],
+    "79,40": [
+      "al/vlore/sarande"
+    ],
+    "84,38": [
+      "al/shkoder/shkoder"
+    ],
+    "84,39": [
+      "al/shkoder/shkoder"
     ]
   }
 }

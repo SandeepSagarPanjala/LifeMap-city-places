@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "al/shkoder/shkoder",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "stateCode": "SH",
+  "stateName": "Shkod\u00ebr",
+  "cityName": "Shkod\u00ebr",
+  "bbox": {
+    "minLat": 42.044,
+    "minLng": 19.49,
+    "maxLat": 42.07,
+    "maxLng": 19.516
+  },
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rozafa-castle",
+      "name": "Rozafa Castle",
+      "lat": 42.0465,
+      "lng": 19.4936,
+      "radiusM": 180,
+      "address": "Shkod\u00ebr",
+      "howTo": "Visit Rozafa Castle.",
+      "badge": "badges/rozafa-castle.png"
+    },
+    {
+      "id": "lead-mosque",
+      "name": "Lead Mosque",
+      "lat": 42.0655,
+      "lng": 19.5124,
+      "radiusM": 60,
+      "address": "Shkod\u00ebr",
+      "howTo": "Visit Lead Mosque.",
+      "badge": "badges/lead-mosque.png"
+    }
+  ]
+}

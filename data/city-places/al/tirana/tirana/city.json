@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "al/tirana/tirana",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "stateCode": "TR",
+  "stateName": "Tirana",
+  "cityName": "Tirana",
+  "bbox": {
+    "minLat": 41.321,
+    "minLng": 19.816,
+    "maxLat": 41.33,
+    "maxLng": 19.824
+  },
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "skanderbeg-square",
+      "name": "Skanderbeg Square",
+      "lat": 41.3275,
+      "lng": 19.8187,
+      "radiusM": 150,
+      "address": "Tirana",
+      "howTo": "Visit Skanderbeg Square.",
+      "badge": "badges/skanderbeg-square.png"
+    },
+    {
+      "id": "ethem-bey-mosque",
+      "name": "Et'hem Bey Mosque",
+      "lat": 41.32795,
+      "lng": 19.81935,
+      "radiusM": 40,
+      "address": "Skanderbeg Square",
+      "howTo": "Visit Et'hem Bey Mosque.",
+      "badge": "badges/ethem-bey-mosque.png"
+    },
+    {
+      "id": "pyramid-of-tirana",
+      "name": "Pyramid of Tirana",
+      "lat": 41.32306,
+      "lng": 19.82139,
+      "radiusM": 80,
+      "address": "Bulevardi D\u00ebshmor\u00ebt",
+      "howTo": "Visit Pyramid of Tirana.",
+      "badge": "badges/pyramid-of-tirana.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "al/gjirokaster/gjirokaster",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "stateCode": "GJ",
+  "stateName": "Gjirokast\u00ebr",
+  "cityName": "Gjirokast\u00ebr",
+  "bbox": {
+    "minLat": 40.071,
+    "minLng": 20.135,
+    "maxLat": 40.078,
+    "maxLng": 20.144
+  },
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gjirokaster-castle",
+      "name": "Gjirokast\u00ebr Castle",
+      "lat": 40.0739,
+      "lng": 20.1408,
+      "radiusM": 180,
+      "address": "Gjirokast\u00ebr",
+      "howTo": "Visit Gjirokast\u00ebr Castle.",
+      "badge": "badges/gjirokaster-castle.png"
+    },
+    {
+      "id": "gjirokaster-bazaar",
+      "name": "Gjirokast\u00ebr Bazaar",
+      "lat": 40.0758,
+      "lng": 20.138,
+      "radiusM": 80,
+      "address": "Pazari i Vjet\u00ebr",
+      "howTo": "Visit Gjirokast\u00ebr Bazaar.",
+      "badge": "badges/gjirokaster-bazaar.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "al/vlore/sarande",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "stateCode": "VL",
+  "stateName": "Vlor\u00eb",
+  "cityName": "Sarand\u00eb",
+  "bbox": {
+    "minLat": 39.866,
+    "minLng": 19.998,
+    "maxLat": 39.88,
+    "maxLng": 20.025
+  },
+  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sarande-promenade",
+      "name": "Sarand\u00eb Promenade",
+      "lat": 39.8756,
+      "lng": 20.0054,
+      "radiusM": 200,
+      "address": "Lungomare",
+      "howTo": "Visit Sarand\u00eb Promenade.",
+      "badge": "badges/sarande-promenade.png"
+    },
+    {
+      "id": "lekursi-castle",
+      "name": "L\u00ebkur\u00ebsi Castle",
+      "lat": 39.8694,
+      "lng": 20.0203,
+      "radiusM": 80,
+      "address": "Sarand\u00eb",
+      "howTo": "Visit L\u00ebkur\u00ebsi Castle.",
+      "badge": "badges/lekursi-castle.png"
+    }
+  ]
+}
