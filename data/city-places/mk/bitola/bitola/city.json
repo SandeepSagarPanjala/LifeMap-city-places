@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mk/bitola/bitola",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "stateCode": "04",
+  "stateName": "Bitola",
+  "cityName": "Bitola",
+  "bbox": {
+    "minLat": 41.008,
+    "minLng": 21.33,
+    "maxLat": 41.034,
+    "maxLng": 21.348
+  },
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "heraclea-lyncestis",
+      "name": "Heraclea Lyncestis",
+      "lat": 41.0111,
+      "lng": 21.3428,
+      "radiusM": 150,
+      "address": "Bitola",
+      "howTo": "Visit Heraclea Lyncestis.",
+      "badge": "badges/heraclea-lyncestis.png"
+    },
+    {
+      "id": "sirok-sokak",
+      "name": "\u0160irok Sokak",
+      "lat": 41.0308,
+      "lng": 21.3344,
+      "radiusM": 150,
+      "address": "Bitola",
+      "howTo": "Visit \u0160irok Sokak.",
+      "badge": "badges/sirok-sokak.png"
+    }
+  ]
+}

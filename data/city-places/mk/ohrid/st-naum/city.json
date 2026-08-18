@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mk/ohrid/st-naum",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "stateCode": "58",
+  "stateName": "Ohrid",
+  "cityName": "Saint Naum",
+  "bbox": {
+    "minLat": 40.911,
+    "minLng": 20.737,
+    "maxLat": 40.917,
+    "maxLng": 20.745
+  },
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "monastery-of-saint-naum",
+      "name": "Monastery of Saint Naum",
+      "lat": 40.9139,
+      "lng": 20.7408,
+      "radiusM": 120,
+      "address": "Lake Ohrid",
+      "howTo": "Visit Monastery of Saint Naum.",
+      "badge": "badges/monastery-of-saint-naum.png"
+    }
+  ]
+}

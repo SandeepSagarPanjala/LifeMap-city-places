@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mk/ohrid/ohrid",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "stateCode": "58",
+  "stateName": "Ohrid",
+  "cityName": "Ohrid",
+  "bbox": {
+    "minLat": 41.108,
+    "minLng": 20.785,
+    "maxLat": 41.117,
+    "maxLng": 20.795
+  },
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kaneo",
+      "name": "Church of St John at Kaneo",
+      "lat": 41.1108,
+      "lng": 20.7875,
+      "radiusM": 50,
+      "address": "Kaneo",
+      "howTo": "Visit Church of St John at Kaneo.",
+      "badge": "badges/kaneo.png"
+    },
+    {
+      "id": "samuels-fortress",
+      "name": "Samuel's Fortress",
+      "lat": 41.1147,
+      "lng": 20.7911,
+      "radiusM": 100,
+      "address": "Ohrid",
+      "howTo": "Visit Samuel's Fortress.",
+      "badge": "badges/samuels-fortress.png"
+    },
+    {
+      "id": "plaosnik",
+      "name": "Plao\u0161nik",
+      "lat": 41.1125,
+      "lng": 20.7908,
+      "radiusM": 80,
+      "address": "Ohrid",
+      "howTo": "Visit Plao\u0161nik.",
+      "badge": "badges/plaosnik.png"
+    }
+  ]
+}

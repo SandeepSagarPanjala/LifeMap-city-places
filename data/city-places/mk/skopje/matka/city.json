@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mk/skopje/matka",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "stateCode": "85",
+  "stateName": "Skopje",
+  "cityName": "Matka",
+  "bbox": {
+    "minLat": 41.948,
+    "minLng": 21.293,
+    "maxLat": 41.958,
+    "maxLng": 21.305
+  },
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "matka-canyon",
+      "name": "Matka Canyon",
+      "lat": 41.9525,
+      "lng": 21.2983,
+      "radiusM": 250,
+      "address": "Saraj",
+      "howTo": "Visit Matka Canyon.",
+      "badge": "badges/matka-canyon.png"
+    }
+  ]
+}

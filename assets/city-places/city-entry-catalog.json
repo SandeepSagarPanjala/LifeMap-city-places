@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:17:25.543Z",
+  "generatedAt": "2026-08-18T03:21:43.350Z",
   "cellDeg": 0.5,
-  "cityCount": 829,
+  "cityCount": 834,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4304,6 +4304,51 @@
         "minLng": 18.688,
         "maxLat": 42.492,
         "maxLng": 18.703
+      }
+    },
+    "mk/bitola/bitola": {
+      "name": "Bitola",
+      "bbox": {
+        "minLat": 41.008,
+        "minLng": 21.33,
+        "maxLat": 41.034,
+        "maxLng": 21.348
+      }
+    },
+    "mk/ohrid/ohrid": {
+      "name": "Ohrid",
+      "bbox": {
+        "minLat": 41.108,
+        "minLng": 20.785,
+        "maxLat": 41.117,
+        "maxLng": 20.795
+      }
+    },
+    "mk/ohrid/st-naum": {
+      "name": "Saint Naum",
+      "bbox": {
+        "minLat": 40.911,
+        "minLng": 20.737,
+        "maxLat": 40.917,
+        "maxLng": 20.745
+      }
+    },
+    "mk/skopje/matka": {
+      "name": "Matka",
+      "bbox": {
+        "minLat": 41.948,
+        "minLng": 21.293,
+        "maxLat": 41.958,
+        "maxLng": 21.305
+      }
+    },
+    "mk/skopje/skopje": {
+      "name": "Skopje",
+      "bbox": {
+        "minLat": 41.995,
+        "minLng": 21.43,
+        "maxLat": 42.004,
+        "maxLng": 21.44
       }
     },
     "mt/gozo/comino": {
@@ -11554,6 +11599,22 @@
     ],
     "88,34": [
       "ba/central-bosnia/jajce"
+    ],
+    "83,42": [
+      "mk/skopje/matka",
+      "mk/skopje/skopje"
+    ],
+    "84,42": [
+      "mk/skopje/skopje"
+    ],
+    "82,41": [
+      "mk/ohrid/ohrid"
+    ],
+    "81,41": [
+      "mk/ohrid/st-naum"
+    ],
+    "82,42": [
+      "mk/bitola/bitola"
     ]
   }
 }

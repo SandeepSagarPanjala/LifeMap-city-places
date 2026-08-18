@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mk/skopje/skopje",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "stateCode": "85",
+  "stateName": "Skopje",
+  "cityName": "Skopje",
+  "bbox": {
+    "minLat": 41.995,
+    "minLng": 21.43,
+    "maxLat": 42.004,
+    "maxLng": 21.44
+  },
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "stone-bridge",
+      "name": "Stone Bridge",
+      "lat": 41.9967,
+      "lng": 21.4333,
+      "radiusM": 50,
+      "address": "Vardar",
+      "howTo": "Visit Stone Bridge.",
+      "badge": "badges/stone-bridge.png"
+    },
+    {
+      "id": "kale-fortress",
+      "name": "Skopje Fortress",
+      "lat": 42.0,
+      "lng": 21.4333,
+      "radiusM": 120,
+      "address": "Kale",
+      "howTo": "Visit Skopje Fortress.",
+      "badge": "badges/kale-fortress.png"
+    },
+    {
+      "id": "old-bazaar",
+      "name": "Old Bazaar",
+      "lat": 42.0015,
+      "lng": 21.4358,
+      "radiusM": 150,
+      "address": "\u010car\u0161ija",
+      "howTo": "Visit Old Bazaar.",
+      "badge": "badges/old-bazaar.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:17:25.000Z",
-  "notes": "Bosnia and Herzegovina (ba) complete. Next: North Macedonia (mk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "notes": "North Macedonia (mk) complete. Next: Lithuania (lt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15615,6 +15615,104 @@
                 "minLng": 17.266,
                 "maxLat": 44.345,
                 "maxLng": 17.274
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mk",
+      "countryCode": "MK",
+      "name": "North Macedonia",
+      "states": [
+        {
+          "id": "skopje",
+          "stateCode": "85",
+          "name": "Skopje",
+          "cities": [
+            {
+              "id": "skopje",
+              "name": "Skopje",
+              "status": "complete",
+              "packPath": "mk/skopje/skopje/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:21:43.000Z",
+              "bbox": {
+                "minLat": 41.995,
+                "minLng": 21.43,
+                "maxLat": 42.004,
+                "maxLng": 21.44
+              }
+            },
+            {
+              "id": "matka",
+              "name": "Matka",
+              "status": "complete",
+              "packPath": "mk/skopje/matka/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:21:43.000Z",
+              "bbox": {
+                "minLat": 41.948,
+                "minLng": 21.293,
+                "maxLat": 41.958,
+                "maxLng": 21.305
+              }
+            }
+          ]
+        },
+        {
+          "id": "ohrid",
+          "stateCode": "58",
+          "name": "Ohrid",
+          "cities": [
+            {
+              "id": "ohrid",
+              "name": "Ohrid",
+              "status": "complete",
+              "packPath": "mk/ohrid/ohrid/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:21:43.000Z",
+              "bbox": {
+                "minLat": 41.108,
+                "minLng": 20.785,
+                "maxLat": 41.117,
+                "maxLng": 20.795
+              }
+            },
+            {
+              "id": "st-naum",
+              "name": "Saint Naum",
+              "status": "complete",
+              "packPath": "mk/ohrid/st-naum/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:21:43.000Z",
+              "bbox": {
+                "minLat": 40.911,
+                "minLng": 20.737,
+                "maxLat": 40.917,
+                "maxLng": 20.745
+              }
+            }
+          ]
+        },
+        {
+          "id": "bitola",
+          "stateCode": "04",
+          "name": "Bitola",
+          "cities": [
+            {
+              "id": "bitola",
+              "name": "Bitola",
+              "status": "complete",
+              "packPath": "mk/bitola/bitola/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:21:43.000Z",
+              "bbox": {
+                "minLat": 41.008,
+                "minLng": 21.33,
+                "maxLat": 41.034,
+                "maxLng": 21.348
               }
             }
           ]
