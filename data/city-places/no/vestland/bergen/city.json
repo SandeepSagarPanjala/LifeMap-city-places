@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "no/vestland/bergen",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "stateCode": "46",
+  "stateName": "Vestland",
+  "cityName": "Bergen",
+  "bbox": {
+    "minLat": 60.38,
+    "minLng": 5.31,
+    "maxLat": 60.4,
+    "maxLng": 5.34
+  },
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bryggen",
+      "name": "Bryggen",
+      "lat": 60.3975,
+      "lng": 5.3233,
+      "radiusM": 200,
+      "address": "Bryggen",
+      "howTo": "Visit Bryggen.",
+      "badge": "badges/bryggen.png"
+    },
+    {
+      "id": "floyen",
+      "name": "Mount Floyen",
+      "lat": 60.394,
+      "lng": 5.343,
+      "radiusM": 200,
+      "address": "Floibanen",
+      "howTo": "Visit Mount Floyen.",
+      "badge": "badges/floyen.png"
+    },
+    {
+      "id": "fish-market-bergen",
+      "name": "Bergen Fish Market",
+      "lat": 60.3945,
+      "lng": 5.325,
+      "radiusM": 120,
+      "address": "Torget",
+      "howTo": "Visit Bergen Fish Market.",
+      "badge": "badges/fish-market-bergen.png"
+    }
+  ]
+}

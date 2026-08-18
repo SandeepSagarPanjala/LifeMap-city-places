@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "no/troms/tromso",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "stateCode": "55",
+  "stateName": "Troms",
+  "cityName": "Tromso",
+  "bbox": {
+    "minLat": 69.63,
+    "minLng": 18.92,
+    "maxLat": 69.66,
+    "maxLng": 18.98
+  },
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "arctic-cathedral",
+      "name": "Arctic Cathedral",
+      "lat": 69.648,
+      "lng": 18.987,
+      "radiusM": 120,
+      "address": "Tromsdalen",
+      "howTo": "Visit Arctic Cathedral.",
+      "badge": "badges/arctic-cathedral.png"
+    },
+    {
+      "id": "fjellheisen",
+      "name": "Fjellheisen",
+      "lat": 69.67,
+      "lng": 19.02,
+      "radiusM": 200,
+      "address": "Storsteinen",
+      "howTo": "Visit Fjellheisen.",
+      "badge": "badges/fjellheisen.png"
+    }
+  ]
+}

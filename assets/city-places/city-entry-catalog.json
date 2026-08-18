@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:19:17.563Z",
+  "generatedAt": "2026-08-18T00:25:38.211Z",
   "cellDeg": 0.5,
-  "cityCount": 640,
+  "cityCount": 645,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3557,6 +3557,51 @@
         "minLng": 4.28,
         "maxLat": 52.09,
         "maxLng": 4.32
+      }
+    },
+    "no/nordland/lofoten": {
+      "name": "Lofoten",
+      "bbox": {
+        "minLat": 67.85,
+        "minLng": 13,
+        "maxLat": 68.25,
+        "maxLng": 14.6
+      }
+    },
+    "no/oslo/oslo": {
+      "name": "Oslo",
+      "bbox": {
+        "minLat": 59.9,
+        "minLng": 10.7,
+        "maxLat": 59.93,
+        "maxLng": 10.76
+      }
+    },
+    "no/troms/tromso": {
+      "name": "Tromso",
+      "bbox": {
+        "minLat": 69.63,
+        "minLng": 18.92,
+        "maxLat": 69.66,
+        "maxLng": 18.98
+      }
+    },
+    "no/vestland/bergen": {
+      "name": "Bergen",
+      "bbox": {
+        "minLat": 60.38,
+        "minLng": 5.31,
+        "maxLat": 60.4,
+        "maxLng": 5.34
+      }
+    },
+    "no/vestland/flam": {
+      "name": "Flam",
+      "bbox": {
+        "minLat": 60.85,
+        "minLng": 7.1,
+        "maxLat": 60.87,
+        "maxLng": 7.13
       }
     },
     "nz/auckland/auckland": {
@@ -9166,6 +9211,42 @@
     ],
     "95,27": [
       "at/upper-austria/hallstatt"
+    ],
+    "119,21": [
+      "no/oslo/oslo"
+    ],
+    "120,10": [
+      "no/vestland/bergen"
+    ],
+    "121,14": [
+      "no/vestland/flam"
+    ],
+    "135,26": [
+      "no/nordland/lofoten"
+    ],
+    "135,27": [
+      "no/nordland/lofoten"
+    ],
+    "135,28": [
+      "no/nordland/lofoten"
+    ],
+    "135,29": [
+      "no/nordland/lofoten"
+    ],
+    "136,26": [
+      "no/nordland/lofoten"
+    ],
+    "136,27": [
+      "no/nordland/lofoten"
+    ],
+    "136,28": [
+      "no/nordland/lofoten"
+    ],
+    "136,29": [
+      "no/nordland/lofoten"
+    ],
+    "139,37": [
+      "no/troms/tromso"
     ]
   }
 }

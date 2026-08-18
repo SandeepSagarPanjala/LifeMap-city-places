@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "no/nordland/lofoten",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "stateCode": "18",
+  "stateName": "Nordland",
+  "cityName": "Lofoten",
+  "bbox": {
+    "minLat": 67.85,
+    "minLng": 13.0,
+    "maxLat": 68.25,
+    "maxLng": 14.6
+  },
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "reine",
+      "name": "Reine",
+      "lat": 67.932,
+      "lng": 13.089,
+      "radiusM": 250,
+      "address": "Reine",
+      "howTo": "Visit Reine.",
+      "badge": "badges/reine.png"
+    },
+    {
+      "id": "hamnoy",
+      "name": "Hamnoy",
+      "lat": 67.945,
+      "lng": 13.132,
+      "radiusM": 200,
+      "address": "Hamnoy",
+      "howTo": "Visit Hamnoy.",
+      "badge": "badges/hamnoy.png"
+    }
+  ]
+}

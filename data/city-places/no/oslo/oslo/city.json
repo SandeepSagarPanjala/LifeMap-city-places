@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "no/oslo/oslo",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "stateCode": "03",
+  "stateName": "Oslo",
+  "cityName": "Oslo",
+  "bbox": {
+    "minLat": 59.9,
+    "minLng": 10.7,
+    "maxLat": 59.93,
+    "maxLng": 10.76
+  },
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "oslo-opera-house",
+      "name": "Oslo Opera House",
+      "lat": 59.9075,
+      "lng": 10.753,
+      "radiusM": 150,
+      "address": "Bjorvika",
+      "howTo": "Visit Oslo Opera House.",
+      "badge": "badges/oslo-opera-house.png"
+    },
+    {
+      "id": "vigeland-park",
+      "name": "Vigeland Park",
+      "lat": 59.927,
+      "lng": 10.7,
+      "radiusM": 250,
+      "address": "Frogner Park",
+      "howTo": "Visit Vigeland Park.",
+      "badge": "badges/vigeland-park.png"
+    },
+    {
+      "id": "akker-brygge",
+      "name": "Aker Brygge",
+      "lat": 59.909,
+      "lng": 10.726,
+      "radiusM": 200,
+      "address": "Aker Brygge",
+      "howTo": "Visit Aker Brygge.",
+      "badge": "badges/akker-brygge.png"
+    },
+    {
+      "id": "viking-ship-museum",
+      "name": "Viking Ship Museum",
+      "lat": 59.905,
+      "lng": 10.684,
+      "radiusM": 150,
+      "address": "Bygdoy",
+      "howTo": "Visit Viking Ship Museum.",
+      "badge": "badges/viking-ship-museum.png"
+    }
+  ]
+}

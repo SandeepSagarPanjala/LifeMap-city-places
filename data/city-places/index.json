@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T05:45:00.000Z",
-  "notes": "Queue through Austria complete. Next: Norway (no) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "notes": "Queue through Norway complete. Next: Croatia (hr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11576,6 +11576,111 @@
                 "minLng": 13.64,
                 "maxLat": 47.57,
                 "maxLng": 13.66
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no",
+      "countryCode": "NO",
+      "name": "Norway",
+      "states": [
+        {
+          "id": "oslo",
+          "stateCode": "03",
+          "name": "Oslo",
+          "cities": [
+            {
+              "id": "oslo",
+              "name": "Oslo",
+              "status": "complete",
+              "packPath": "no/oslo/oslo/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T06:00:00.000Z",
+              "bbox": {
+                "minLat": 59.9,
+                "minLng": 10.7,
+                "maxLat": 59.93,
+                "maxLng": 10.76
+              }
+            }
+          ]
+        },
+        {
+          "id": "vestland",
+          "stateCode": "46",
+          "name": "Vestland",
+          "cities": [
+            {
+              "id": "bergen",
+              "name": "Bergen",
+              "status": "complete",
+              "packPath": "no/vestland/bergen/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T06:00:00.000Z",
+              "bbox": {
+                "minLat": 60.38,
+                "minLng": 5.31,
+                "maxLat": 60.4,
+                "maxLng": 5.34
+              }
+            },
+            {
+              "id": "flam",
+              "name": "Flam",
+              "status": "complete",
+              "packPath": "no/vestland/flam/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:00:00.000Z",
+              "bbox": {
+                "minLat": 60.85,
+                "minLng": 7.1,
+                "maxLat": 60.87,
+                "maxLng": 7.13
+              }
+            }
+          ]
+        },
+        {
+          "id": "nordland",
+          "stateCode": "18",
+          "name": "Nordland",
+          "cities": [
+            {
+              "id": "lofoten",
+              "name": "Lofoten",
+              "status": "complete",
+              "packPath": "no/nordland/lofoten/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:00:00.000Z",
+              "bbox": {
+                "minLat": 67.85,
+                "minLng": 13.0,
+                "maxLat": 68.25,
+                "maxLng": 14.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "troms",
+          "stateCode": "55",
+          "name": "Troms",
+          "cities": [
+            {
+              "id": "tromso",
+              "name": "Tromso",
+              "status": "complete",
+              "packPath": "no/troms/tromso/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:00:00.000Z",
+              "bbox": {
+                "minLat": 69.63,
+                "minLng": 18.92,
+                "maxLat": 69.66,
+                "maxLng": 18.98
               }
             }
           ]

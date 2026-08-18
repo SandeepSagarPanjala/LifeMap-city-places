@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "no/vestland/flam",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "stateCode": "46",
+  "stateName": "Vestland",
+  "cityName": "Flam",
+  "bbox": {
+    "minLat": 60.85,
+    "minLng": 7.1,
+    "maxLat": 60.87,
+    "maxLng": 7.13
+  },
+  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "flam-railway",
+      "name": "Flam Railway",
+      "lat": 60.863,
+      "lng": 7.113,
+      "radiusM": 200,
+      "address": "Flam",
+      "howTo": "Visit Flam Railway.",
+      "badge": "badges/flam-railway.png"
+    },
+    {
+      "id": "naeroyfjord",
+      "name": "Naeroyfjord",
+      "lat": 60.9,
+      "lng": 6.85,
+      "radiusM": 400,
+      "address": "Aurlandsfjord",
+      "howTo": "Visit Naeroyfjord.",
+      "badge": "badges/naeroyfjord.png"
+    }
+  ]
+}
