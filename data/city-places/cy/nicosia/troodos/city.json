@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cy/nicosia/troodos",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "stateCode": "01",
+  "stateName": "Nicosia",
+  "cityName": "Troodos",
+  "bbox": {
+    "minLat": 34.92,
+    "minLng": 32.73,
+    "maxLat": 35.0,
+    "maxLng": 32.88
+  },
+  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kykkos-monastery",
+      "name": "Kykkos Monastery",
+      "lat": 34.98387,
+      "lng": 32.74108,
+      "radiusM": 150,
+      "address": "Troodos",
+      "howTo": "Visit Kykkos Monastery.",
+      "badge": "badges/kykkos-monastery.png"
+    },
+    {
+      "id": "mount-olympus-cyprus",
+      "name": "Mount Olympus",
+      "lat": 34.936,
+      "lng": 32.863,
+      "radiusM": 250,
+      "address": "Troodos",
+      "howTo": "Visit Mount Olympus.",
+      "badge": "badges/mount-olympus-cyprus.png"
+    }
+  ]
+}

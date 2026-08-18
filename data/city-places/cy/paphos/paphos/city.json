@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "cy/paphos/paphos",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "stateCode": "05",
+  "stateName": "Paphos",
+  "cityName": "Paphos",
+  "bbox": {
+    "minLat": 34.75,
+    "minLng": 32.4,
+    "maxLat": 34.78,
+    "maxLng": 32.425
+  },
+  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tombs-of-the-kings",
+      "name": "Tombs of the Kings",
+      "lat": 34.775,
+      "lng": 32.40694,
+      "radiusM": 200,
+      "address": "Kato Paphos",
+      "howTo": "Visit Tombs of the Kings.",
+      "badge": "badges/tombs-of-the-kings.png"
+    },
+    {
+      "id": "paphos-castle",
+      "name": "Paphos Castle",
+      "lat": 34.7536,
+      "lng": 32.4075,
+      "radiusM": 80,
+      "address": "Harbour",
+      "howTo": "Visit Paphos Castle.",
+      "badge": "badges/paphos-castle.png"
+    },
+    {
+      "id": "paphos-mosaics",
+      "name": "Paphos Mosaics",
+      "lat": 34.7558,
+      "lng": 32.4156,
+      "radiusM": 150,
+      "address": "Kato Paphos Archaeological Park",
+      "howTo": "Visit Paphos Mosaics.",
+      "badge": "badges/paphos-mosaics.png"
+    }
+  ]
+}

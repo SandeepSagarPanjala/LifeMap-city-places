@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cy/famagusta/ayia-napa",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "stateCode": "04",
+  "stateName": "Famagusta",
+  "cityName": "Ayia Napa",
+  "bbox": {
+    "minLat": 34.95,
+    "minLng": 33.97,
+    "maxLat": 34.995,
+    "maxLng": 34.09
+  },
+  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nissi-beach",
+      "name": "Nissi Beach",
+      "lat": 34.987,
+      "lng": 33.978,
+      "radiusM": 250,
+      "address": "Ayia Napa",
+      "howTo": "Visit Nissi Beach.",
+      "badge": "badges/nissi-beach.png"
+    },
+    {
+      "id": "cape-greco",
+      "name": "Cape Greco",
+      "lat": 34.956,
+      "lng": 34.085,
+      "radiusM": 250,
+      "address": "Cape Greco National Forest Park",
+      "howTo": "Visit Cape Greco.",
+      "badge": "badges/cape-greco.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:36:13.000Z",
-  "notes": "Slovenia (si) complete. Next: Cyprus (cy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "notes": "Cyprus (cy) complete. Next: Malta (mt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14572,6 +14572,111 @@
                 "minLng": 14.12,
                 "maxLat": 45.82,
                 "maxLng": 14.21
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cy",
+      "countryCode": "CY",
+      "name": "Cyprus",
+      "states": [
+        {
+          "id": "paphos",
+          "stateCode": "05",
+          "name": "Paphos",
+          "cities": [
+            {
+              "id": "paphos",
+              "name": "Paphos",
+              "status": "complete",
+              "packPath": "cy/paphos/paphos/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:40:09.000Z",
+              "bbox": {
+                "minLat": 34.75,
+                "minLng": 32.4,
+                "maxLat": 34.78,
+                "maxLng": 32.425
+              }
+            }
+          ]
+        },
+        {
+          "id": "nicosia",
+          "stateCode": "01",
+          "name": "Nicosia",
+          "cities": [
+            {
+              "id": "nicosia",
+              "name": "Nicosia",
+              "status": "complete",
+              "packPath": "cy/nicosia/nicosia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:40:09.000Z",
+              "bbox": {
+                "minLat": 35.168,
+                "minLng": 33.355,
+                "maxLat": 35.18,
+                "maxLng": 33.37
+              }
+            },
+            {
+              "id": "troodos",
+              "name": "Troodos",
+              "status": "complete",
+              "packPath": "cy/nicosia/troodos/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:40:09.000Z",
+              "bbox": {
+                "minLat": 34.92,
+                "minLng": 32.73,
+                "maxLat": 35.0,
+                "maxLng": 32.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "limassol",
+          "stateCode": "02",
+          "name": "Limassol",
+          "cities": [
+            {
+              "id": "limassol",
+              "name": "Limassol",
+              "status": "complete",
+              "packPath": "cy/limassol/limassol/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:40:09.000Z",
+              "bbox": {
+                "minLat": 34.66,
+                "minLng": 32.88,
+                "maxLat": 34.685,
+                "maxLng": 33.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "famagusta",
+          "stateCode": "04",
+          "name": "Famagusta",
+          "cities": [
+            {
+              "id": "ayia-napa",
+              "name": "Ayia Napa",
+              "status": "complete",
+              "packPath": "cy/famagusta/ayia-napa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:40:09.000Z",
+              "bbox": {
+                "minLat": 34.95,
+                "minLng": 33.97,
+                "maxLat": 34.995,
+                "maxLng": 34.09
               }
             }
           ]

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:36:13.744Z",
+  "generatedAt": "2026-08-18T02:40:09.425Z",
   "cellDeg": 0.5,
-  "cityCount": 779,
+  "cityCount": 784,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -830,6 +830,51 @@
         "minLng": -84.085,
         "maxLat": 9.936,
         "maxLng": -84.072
+      }
+    },
+    "cy/famagusta/ayia-napa": {
+      "name": "Ayia Napa",
+      "bbox": {
+        "minLat": 34.95,
+        "minLng": 33.97,
+        "maxLat": 34.995,
+        "maxLng": 34.09
+      }
+    },
+    "cy/limassol/limassol": {
+      "name": "Limassol",
+      "bbox": {
+        "minLat": 34.66,
+        "minLng": 32.88,
+        "maxLat": 34.685,
+        "maxLng": 33.05
+      }
+    },
+    "cy/nicosia/nicosia": {
+      "name": "Nicosia",
+      "bbox": {
+        "minLat": 35.168,
+        "minLng": 33.355,
+        "maxLat": 35.18,
+        "maxLng": 33.37
+      }
+    },
+    "cy/nicosia/troodos": {
+      "name": "Troodos",
+      "bbox": {
+        "minLat": 34.92,
+        "minLng": 32.73,
+        "maxLat": 35,
+        "maxLng": 32.88
+      }
+    },
+    "cy/paphos/paphos": {
+      "name": "Paphos",
+      "bbox": {
+        "minLat": 34.75,
+        "minLng": 32.4,
+        "maxLat": 34.78,
+        "maxLng": 32.425
       }
     },
     "cz/karlovy-vary/karlovy-vary": {
@@ -10939,6 +10984,28 @@
     ],
     "91,28": [
       "si/notranjsko-kraska/postojna"
+    ],
+    "69,64": [
+      "cy/paphos/paphos"
+    ],
+    "70,66": [
+      "cy/nicosia/nicosia"
+    ],
+    "69,65": [
+      "cy/limassol/limassol",
+      "cy/nicosia/troodos"
+    ],
+    "70,65": [
+      "cy/nicosia/troodos"
+    ],
+    "69,66": [
+      "cy/limassol/limassol"
+    ],
+    "69,67": [
+      "cy/famagusta/ayia-napa"
+    ],
+    "69,68": [
+      "cy/famagusta/ayia-napa"
     ]
   }
 }

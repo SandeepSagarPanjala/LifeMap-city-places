@@ -108,7 +108,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 62. `bo` — Bolivia (**complete**)
 63. `bg` — Bulgaria (**complete**)
 64. `si` — Slovenia (**complete**)
-65. `cy` — Cyprus
+65. `cy` — Cyprus (**complete**)
+66. `mt` — Malta
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

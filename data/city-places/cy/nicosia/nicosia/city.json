@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cy/nicosia/nicosia",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "stateCode": "01",
+  "stateName": "Nicosia",
+  "cityName": "Nicosia",
+  "bbox": {
+    "minLat": 35.168,
+    "minLng": 33.355,
+    "maxLat": 35.18,
+    "maxLng": 33.37
+  },
+  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "venetian-walls-nicosia",
+      "name": "Venetian Walls",
+      "lat": 35.173,
+      "lng": 33.364,
+      "radiusM": 200,
+      "address": "Old Nicosia",
+      "howTo": "Visit Venetian Walls.",
+      "badge": "badges/venetian-walls-nicosia.png"
+    },
+    {
+      "id": "selimiye-mosque",
+      "name": "Selimiye Mosque",
+      "lat": 35.1765,
+      "lng": 33.3644,
+      "radiusM": 80,
+      "address": "North Nicosia",
+      "howTo": "Visit Selimiye Mosque.",
+      "badge": "badges/selimiye-mosque.png"
+    }
+  ]
+}
