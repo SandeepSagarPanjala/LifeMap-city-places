@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "se/vastra-gotaland/gothenburg",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "stateCode": "O",
+  "stateName": "Vastra Gotaland",
+  "cityName": "Gothenburg",
+  "bbox": {
+    "minLat": 57.694,
+    "minLng": 11.95,
+    "maxLat": 57.705,
+    "maxLng": 11.985
+  },
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "haga-gothenburg",
+      "name": "Haga",
+      "lat": 57.6995,
+      "lng": 11.9585,
+      "radiusM": 180,
+      "address": "Haga Nygata",
+      "howTo": "Visit Haga.",
+      "badge": "badges/haga-gothenburg.png"
+    },
+    {
+      "id": "gotaplatsen",
+      "name": "Gotaplatsen",
+      "lat": 57.6972,
+      "lng": 11.9789,
+      "radiusM": 120,
+      "address": "Gotaplatsen",
+      "howTo": "Visit Gotaplatsen.",
+      "badge": "badges/gotaplatsen.png"
+    }
+  ]
+}

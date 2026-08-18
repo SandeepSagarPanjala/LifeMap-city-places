@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "se/skane/malmo",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "stateCode": "M",
+  "stateName": "Skane",
+  "cityName": "Malmo",
+  "bbox": {
+    "minLat": 55.6,
+    "minLng": 12.97,
+    "maxLat": 55.62,
+    "maxLng": 12.995
+  },
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "turning-torso",
+      "name": "Turning Torso",
+      "lat": 55.6133,
+      "lng": 12.9764,
+      "radiusM": 120,
+      "address": "Lilla Varvsgatan",
+      "howTo": "Visit Turning Torso.",
+      "badge": "badges/turning-torso.png"
+    },
+    {
+      "id": "malmohus-castle",
+      "name": "Malmohus Castle",
+      "lat": 55.6048,
+      "lng": 12.9875,
+      "radiusM": 150,
+      "address": "Malmohusvagen",
+      "howTo": "Visit Malmohus Castle.",
+      "badge": "badges/malmohus-castle.png"
+    }
+  ]
+}

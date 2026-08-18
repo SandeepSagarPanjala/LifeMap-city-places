@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "se/gotland/visby",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "stateCode": "I",
+  "stateName": "Gotland",
+  "cityName": "Visby",
+  "bbox": {
+    "minLat": 57.634,
+    "minLng": 18.288,
+    "maxLat": 57.646,
+    "maxLng": 18.305
+  },
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "visby-city-wall",
+      "name": "Visby City Wall",
+      "lat": 57.6408,
+      "lng": 18.2995,
+      "radiusM": 200,
+      "address": "Osterport",
+      "howTo": "Visit Visby City Wall.",
+      "badge": "badges/visby-city-wall.png"
+    },
+    {
+      "id": "visby-cathedral",
+      "name": "Visby Cathedral",
+      "lat": 57.6416,
+      "lng": 18.2975,
+      "radiusM": 100,
+      "address": "Norra Kyrkogatan",
+      "howTo": "Visit Visby Cathedral.",
+      "badge": "badges/visby-cathedral.png"
+    }
+  ]
+}

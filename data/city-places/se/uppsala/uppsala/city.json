@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "se/uppsala/uppsala",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "stateCode": "C",
+  "stateName": "Uppsala County",
+  "cityName": "Uppsala",
+  "bbox": {
+    "minLat": 59.855,
+    "minLng": 17.628,
+    "maxLat": 59.865,
+    "maxLng": 17.64
+  },
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "uppsala-cathedral",
+      "name": "Uppsala Cathedral",
+      "lat": 59.8581,
+      "lng": 17.6333,
+      "radiusM": 120,
+      "address": "Domkyrkoplan",
+      "howTo": "Visit Uppsala Cathedral.",
+      "badge": "badges/uppsala-cathedral.png"
+    },
+    {
+      "id": "linnaeus-garden",
+      "name": "Linnaeus Garden",
+      "lat": 59.8623,
+      "lng": 17.634,
+      "radiusM": 120,
+      "address": "Svartbacksgatan 27",
+      "howTo": "Visit Linnaeus Garden.",
+      "badge": "badges/linnaeus-garden.png"
+    }
+  ]
+}

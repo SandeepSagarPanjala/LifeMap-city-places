@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "se/stockholm/stockholm",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "stateCode": "AB",
+  "stateName": "Stockholm County",
+  "cityName": "Stockholm",
+  "bbox": {
+    "minLat": 59.32,
+    "minLng": 18.05,
+    "maxLat": 59.335,
+    "maxLng": 18.1
+  },
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gamla-stan",
+      "name": "Gamla Stan",
+      "lat": 59.325,
+      "lng": 18.0709,
+      "radiusM": 200,
+      "address": "Stortorget",
+      "howTo": "Visit Gamla Stan.",
+      "badge": "badges/gamla-stan.png"
+    },
+    {
+      "id": "vasa-museum",
+      "name": "Vasa Museum",
+      "lat": 59.3279,
+      "lng": 18.0915,
+      "radiusM": 120,
+      "address": "Djurgarden",
+      "howTo": "Visit Vasa Museum.",
+      "badge": "badges/vasa-museum.png"
+    },
+    {
+      "id": "royal-palace-stockholm",
+      "name": "Royal Palace",
+      "lat": 59.3268,
+      "lng": 18.0716,
+      "radiusM": 150,
+      "address": "Gamla Stan",
+      "howTo": "Visit Royal Palace.",
+      "badge": "badges/royal-palace-stockholm.png"
+    },
+    {
+      "id": "stockholm-city-hall",
+      "name": "Stockholm City Hall",
+      "lat": 59.3275,
+      "lng": 18.0548,
+      "radiusM": 120,
+      "address": "Hantverkargatan 1",
+      "howTo": "Visit Stockholm City Hall.",
+      "badge": "badges/stockholm-city-hall.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:45:30.856Z",
+  "generatedAt": "2026-08-18T00:50:42.474Z",
   "cellDeg": 0.5,
-  "cityCount": 665,
+  "cityCount": 670,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4097,6 +4097,51 @@
         "minLng": -8.63,
         "maxLat": 41.15,
         "maxLng": -8.6
+      }
+    },
+    "se/gotland/visby": {
+      "name": "Visby",
+      "bbox": {
+        "minLat": 57.634,
+        "minLng": 18.288,
+        "maxLat": 57.646,
+        "maxLng": 18.305
+      }
+    },
+    "se/skane/malmo": {
+      "name": "Malmo",
+      "bbox": {
+        "minLat": 55.6,
+        "minLng": 12.97,
+        "maxLat": 55.62,
+        "maxLng": 12.995
+      }
+    },
+    "se/stockholm/stockholm": {
+      "name": "Stockholm",
+      "bbox": {
+        "minLat": 59.32,
+        "minLng": 18.05,
+        "maxLat": 59.335,
+        "maxLng": 18.1
+      }
+    },
+    "se/uppsala/uppsala": {
+      "name": "Uppsala",
+      "bbox": {
+        "minLat": 59.855,
+        "minLng": 17.628,
+        "maxLat": 59.865,
+        "maxLng": 17.64
+      }
+    },
+    "se/vastra-gotaland/gothenburg": {
+      "name": "Gothenburg",
+      "bbox": {
+        "minLat": 57.694,
+        "minLng": 11.95,
+        "maxLat": 57.705,
+        "maxLng": 11.985
       }
     },
     "sg/singapore/singapore": {
@@ -9526,6 +9571,21 @@
     ],
     "128,-33": [
       "is/east/jokulsarlon"
+    ],
+    "118,36": [
+      "se/stockholm/stockholm"
+    ],
+    "115,23": [
+      "se/vastra-gotaland/gothenburg"
+    ],
+    "111,25": [
+      "se/skane/malmo"
+    ],
+    "119,35": [
+      "se/uppsala/uppsala"
+    ],
+    "115,36": [
+      "se/gotland/visby"
     ]
   }
 }

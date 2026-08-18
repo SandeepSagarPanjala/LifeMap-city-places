@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T07:00:00.000Z",
-  "notes": "Queue through Iceland complete. Next: Sweden (se) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T07:20:00.000Z",
+  "notes": "Queue through Sweden complete. Next: Denmark (dk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12108,6 +12108,118 @@
                 "minLng": -16.22,
                 "maxLat": 64.08,
                 "maxLng": -16.17
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "se",
+      "countryCode": "SE",
+      "name": "Sweden",
+      "states": [
+        {
+          "id": "stockholm",
+          "stateCode": "AB",
+          "name": "Stockholm County",
+          "cities": [
+            {
+              "id": "stockholm",
+              "name": "Stockholm",
+              "status": "complete",
+              "packPath": "se/stockholm/stockholm/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T07:20:00.000Z",
+              "bbox": {
+                "minLat": 59.32,
+                "minLng": 18.05,
+                "maxLat": 59.335,
+                "maxLng": 18.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "vastra-gotaland",
+          "stateCode": "O",
+          "name": "Vastra Gotaland",
+          "cities": [
+            {
+              "id": "gothenburg",
+              "name": "Gothenburg",
+              "status": "complete",
+              "packPath": "se/vastra-gotaland/gothenburg/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:20:00.000Z",
+              "bbox": {
+                "minLat": 57.694,
+                "minLng": 11.95,
+                "maxLat": 57.705,
+                "maxLng": 11.985
+              }
+            }
+          ]
+        },
+        {
+          "id": "skane",
+          "stateCode": "M",
+          "name": "Skane",
+          "cities": [
+            {
+              "id": "malmo",
+              "name": "Malmo",
+              "status": "complete",
+              "packPath": "se/skane/malmo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:20:00.000Z",
+              "bbox": {
+                "minLat": 55.6,
+                "minLng": 12.97,
+                "maxLat": 55.62,
+                "maxLng": 12.995
+              }
+            }
+          ]
+        },
+        {
+          "id": "uppsala",
+          "stateCode": "C",
+          "name": "Uppsala County",
+          "cities": [
+            {
+              "id": "uppsala",
+              "name": "Uppsala",
+              "status": "complete",
+              "packPath": "se/uppsala/uppsala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:20:00.000Z",
+              "bbox": {
+                "minLat": 59.855,
+                "minLng": 17.628,
+                "maxLat": 59.865,
+                "maxLng": 17.64
+              }
+            }
+          ]
+        },
+        {
+          "id": "gotland",
+          "stateCode": "I",
+          "name": "Gotland",
+          "cities": [
+            {
+              "id": "visby",
+              "name": "Visby",
+              "status": "complete",
+              "packPath": "se/gotland/visby/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:20:00.000Z",
+              "bbox": {
+                "minLat": 57.634,
+                "minLng": 18.288,
+                "maxLat": 57.646,
+                "maxLng": 18.305
               }
             }
           ]
