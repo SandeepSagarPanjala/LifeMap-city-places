@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "la/luang-prabang/kuang-si",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "stateCode": "LP",
+  "stateName": "Luang Prabang",
+  "cityName": "Kuang Si",
+  "bbox": {
+    "minLat": 19.746,
+    "minLng": 101.988,
+    "maxLat": 19.752,
+    "maxLng": 101.995
+  },
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kuang-si-falls",
+      "name": "Kuang Si Falls",
+      "lat": 19.74917,
+      "lng": 101.99167,
+      "radiusM": 150,
+      "address": "Kuang Si",
+      "howTo": "Visit Kuang Si Falls.",
+      "badge": "badges/kuang-si-falls.png"
+    }
+  ]
+}

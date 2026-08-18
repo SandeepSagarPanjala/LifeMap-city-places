@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "la/luang-prabang/luang-prabang",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "stateCode": "LP",
+  "stateName": "Luang Prabang",
+  "cityName": "Luang Prabang",
+  "bbox": {
+    "minLat": 19.889,
+    "minLng": 102.133,
+    "maxLat": 19.9,
+    "maxLng": 102.146
+  },
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wat-xieng-thong",
+      "name": "Wat Xieng Thong",
+      "lat": 19.8975,
+      "lng": 102.14306,
+      "radiusM": 80,
+      "address": "Luang Prabang",
+      "howTo": "Visit Wat Xieng Thong.",
+      "badge": "badges/wat-xieng-thong.png"
+    },
+    {
+      "id": "mount-phousi",
+      "name": "Mount Phousi",
+      "lat": 19.89139,
+      "lng": 102.13556,
+      "radiusM": 80,
+      "address": "Luang Prabang",
+      "howTo": "Visit Mount Phousi.",
+      "badge": "badges/mount-phousi.png"
+    },
+    {
+      "id": "royal-palace",
+      "name": "Royal Palace",
+      "lat": 19.89167,
+      "lng": 102.13611,
+      "radiusM": 80,
+      "address": "Luang Prabang",
+      "howTo": "Visit Royal Palace.",
+      "badge": "badges/royal-palace.png"
+    }
+  ]
+}

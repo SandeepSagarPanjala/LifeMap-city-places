@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:18:46.000Z",
-  "notes": "Uzbekistan (uz) complete. Next: Laos (la) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "notes": "Laos (la) complete. Next: Tanzania (tz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16896,6 +16896,111 @@
                 "minLng": 66.826,
                 "maxLat": 39.058,
                 "maxLng": 66.833
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "countryCode": "LA",
+      "name": "Laos",
+      "states": [
+        {
+          "id": "vientiane-prefecture",
+          "stateCode": "VT",
+          "name": "Vientiane Prefecture",
+          "cities": [
+            {
+              "id": "vientiane",
+              "name": "Vientiane",
+              "status": "complete",
+              "packPath": "la/vientiane-prefecture/vientiane/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T23:10:57.000Z",
+              "bbox": {
+                "minLat": 17.959,
+                "minLng": 102.609,
+                "maxLat": 17.979,
+                "maxLng": 102.637
+              }
+            }
+          ]
+        },
+        {
+          "id": "luang-prabang",
+          "stateCode": "LP",
+          "name": "Luang Prabang",
+          "cities": [
+            {
+              "id": "luang-prabang",
+              "name": "Luang Prabang",
+              "status": "complete",
+              "packPath": "la/luang-prabang/luang-prabang/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T23:10:57.000Z",
+              "bbox": {
+                "minLat": 19.889,
+                "minLng": 102.133,
+                "maxLat": 19.9,
+                "maxLng": 102.146
+              }
+            },
+            {
+              "id": "kuang-si",
+              "name": "Kuang Si",
+              "status": "complete",
+              "packPath": "la/luang-prabang/kuang-si/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T23:10:57.000Z",
+              "bbox": {
+                "minLat": 19.746,
+                "minLng": 101.988,
+                "maxLat": 19.752,
+                "maxLng": 101.995
+              }
+            }
+          ]
+        },
+        {
+          "id": "vientiane",
+          "stateCode": "VI",
+          "name": "Vientiane Province",
+          "cities": [
+            {
+              "id": "vang-vieng",
+              "name": "Vang Vieng",
+              "status": "complete",
+              "packPath": "la/vientiane/vang-vieng/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:10:57.000Z",
+              "bbox": {
+                "minLat": 18.91,
+                "minLng": 102.444,
+                "maxLat": 18.928,
+                "maxLng": 102.456
+              }
+            }
+          ]
+        },
+        {
+          "id": "champasak",
+          "stateCode": "CH",
+          "name": "Champasak",
+          "cities": [
+            {
+              "id": "champasak",
+              "name": "Champasak",
+              "status": "complete",
+              "packPath": "la/champasak/champasak/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T23:10:57.000Z",
+              "bbox": {
+                "minLat": 14.845,
+                "minLng": 105.818,
+                "maxLat": 14.852,
+                "maxLng": 105.826
               }
             }
           ]

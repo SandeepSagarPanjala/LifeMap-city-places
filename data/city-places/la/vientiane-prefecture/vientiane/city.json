@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "la/vientiane-prefecture/vientiane",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "stateCode": "VT",
+  "stateName": "Vientiane Prefecture",
+  "cityName": "Vientiane",
+  "bbox": {
+    "minLat": 17.959,
+    "minLng": 102.609,
+    "maxLat": 17.979,
+    "maxLng": 102.637
+  },
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pha-that-luang",
+      "name": "Pha That Luang",
+      "lat": 17.97617,
+      "lng": 102.63425,
+      "radiusM": 80,
+      "address": "Vientiane",
+      "howTo": "Visit Pha That Luang.",
+      "badge": "badges/pha-that-luang.png"
+    },
+    {
+      "id": "patuxai",
+      "name": "Patuxai",
+      "lat": 17.97056,
+      "lng": 102.61861,
+      "radiusM": 80,
+      "address": "Vientiane",
+      "howTo": "Visit Patuxai.",
+      "badge": "badges/patuxai.png"
+    },
+    {
+      "id": "haw-phra-kaew",
+      "name": "Haw Phra Kaew",
+      "lat": 17.96139,
+      "lng": 102.61139,
+      "radiusM": 60,
+      "address": "Vientiane",
+      "howTo": "Visit Haw Phra Kaew.",
+      "badge": "badges/haw-phra-kaew.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T04:18:46.265Z",
+  "generatedAt": "2026-08-18T23:10:57.221Z",
   "cellDeg": 0.5,
-  "cityCount": 889,
+  "cityCount": 894,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -4412,6 +4412,51 @@
         "minLng": 47.673,
         "maxLat": 29.342,
         "maxLng": 47.682
+      }
+    },
+    "la/champasak/champasak": {
+      "name": "Champasak",
+      "bbox": {
+        "minLat": 14.845,
+        "minLng": 105.818,
+        "maxLat": 14.852,
+        "maxLng": 105.826
+      }
+    },
+    "la/luang-prabang/kuang-si": {
+      "name": "Kuang Si",
+      "bbox": {
+        "minLat": 19.746,
+        "minLng": 101.988,
+        "maxLat": 19.752,
+        "maxLng": 101.995
+      }
+    },
+    "la/luang-prabang/luang-prabang": {
+      "name": "Luang Prabang",
+      "bbox": {
+        "minLat": 19.889,
+        "minLng": 102.133,
+        "maxLat": 19.9,
+        "maxLng": 102.146
+      }
+    },
+    "la/vientiane-prefecture/vientiane": {
+      "name": "Vientiane",
+      "bbox": {
+        "minLat": 17.959,
+        "minLng": 102.609,
+        "maxLat": 17.979,
+        "maxLng": 102.637
+      }
+    },
+    "la/vientiane/vang-vieng": {
+      "name": "Vang Vieng",
+      "bbox": {
+        "minLat": 18.91,
+        "minLng": 102.444,
+        "maxLat": 18.928,
+        "maxLng": 102.456
       }
     },
     "lk/central/kandy": {
@@ -12262,6 +12307,21 @@
     ],
     "78,133": [
       "uz/qashqadaryo/shakhrisabz"
+    ],
+    "35,205": [
+      "la/vientiane-prefecture/vientiane"
+    ],
+    "39,204": [
+      "la/luang-prabang/luang-prabang"
+    ],
+    "39,203": [
+      "la/luang-prabang/kuang-si"
+    ],
+    "37,204": [
+      "la/vientiane/vang-vieng"
+    ],
+    "29,211": [
+      "la/champasak/champasak"
     ]
   }
 }

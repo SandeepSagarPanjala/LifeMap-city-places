@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "la/champasak/champasak",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "stateCode": "CH",
+  "stateName": "Champasak",
+  "cityName": "Champasak",
+  "bbox": {
+    "minLat": 14.845,
+    "minLng": 105.818,
+    "maxLat": 14.852,
+    "maxLng": 105.826
+  },
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wat-phou",
+      "name": "Wat Phou",
+      "lat": 14.84833,
+      "lng": 105.82222,
+      "radiusM": 120,
+      "address": "Champasak",
+      "howTo": "Visit Wat Phou.",
+      "badge": "badges/wat-phou.png"
+    }
+  ]
+}

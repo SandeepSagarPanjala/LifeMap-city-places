@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "la/vientiane/vang-vieng",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "stateCode": "VI",
+  "stateName": "Vientiane Province",
+  "cityName": "Vang Vieng",
+  "bbox": {
+    "minLat": 18.91,
+    "minLng": 102.444,
+    "maxLat": 18.928,
+    "maxLng": 102.456
+  },
+  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nam-song",
+      "name": "Nam Song",
+      "lat": 18.9236,
+      "lng": 102.448,
+      "radiusM": 200,
+      "address": "Vang Vieng",
+      "howTo": "Visit Nam Song.",
+      "badge": "badges/nam-song.png"
+    },
+    {
+      "id": "tham-chang",
+      "name": "Tham Chang",
+      "lat": 18.914,
+      "lng": 102.452,
+      "radiusM": 80,
+      "address": "Vang Vieng",
+      "howTo": "Visit Tham Chang.",
+      "badge": "badges/tham-chang.png"
+    }
+  ]
+}
