@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:37:38.644Z",
+  "generatedAt": "2026-08-18T03:41:18.288Z",
   "cellDeg": 0.5,
-  "cityCount": 854,
+  "cityCount": 859,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -335,6 +335,51 @@
         "minLng": 115.84,
         "maxLat": -31.94,
         "maxLng": 115.88
+      }
+    },
+    "az/absheron/gobustan": {
+      "name": "Gobustan",
+      "bbox": {
+        "minLat": 40.05,
+        "minLng": 49.36,
+        "maxLat": 40.14,
+        "maxLng": 49.4
+      }
+    },
+    "az/absheron/surakhani": {
+      "name": "Surakhani",
+      "bbox": {
+        "minLat": 40.412,
+        "minLng": 50.004,
+        "maxLat": 40.42,
+        "maxLng": 50.014
+      }
+    },
+    "az/baku/baku": {
+      "name": "Baku",
+      "bbox": {
+        "minLat": 40.356,
+        "minLng": 49.823,
+        "maxLat": 40.37,
+        "maxLng": 49.842
+      }
+    },
+    "az/gabala/gabala": {
+      "name": "Gabala",
+      "bbox": {
+        "minLat": 40.848,
+        "minLng": 47.87,
+        "maxLat": 40.935,
+        "maxLng": 47.9
+      }
+    },
+    "az/shaki/shaki": {
+      "name": "Shaki",
+      "bbox": {
+        "minLat": 41.197,
+        "minLng": 47.186,
+        "maxLat": 41.208,
+        "maxLng": 47.203
       }
     },
     "ba/central-bosnia/jajce": {
@@ -11857,6 +11902,21 @@
     ],
     "78,92": [
       "am/syunik/tatev"
+    ],
+    "80,99": [
+      "az/baku/baku"
+    ],
+    "80,98": [
+      "az/absheron/gobustan"
+    ],
+    "80,100": [
+      "az/absheron/surakhani"
+    ],
+    "82,94": [
+      "az/shaki/shaki"
+    ],
+    "81,95": [
+      "az/gabala/gabala"
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "az/shaki/shaki",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "stateCode": "SA",
+  "stateName": "Shaki",
+  "cityName": "Shaki",
+  "bbox": {
+    "minLat": 41.197,
+    "minLng": 47.186,
+    "maxLat": 41.208,
+    "maxLng": 47.203
+  },
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shaki-khan-palace",
+      "name": "Palace of Shaki Khans",
+      "lat": 41.2044,
+      "lng": 47.1986,
+      "radiusM": 60,
+      "address": "Shaki",
+      "howTo": "Visit Palace of Shaki Khans.",
+      "badge": "badges/shaki-khan-palace.png"
+    },
+    {
+      "id": "shaki-caravanserai",
+      "name": "Shaki Caravanserai",
+      "lat": 41.2,
+      "lng": 47.191,
+      "radiusM": 80,
+      "address": "Shaki",
+      "howTo": "Visit Shaki Caravanserai.",
+      "badge": "badges/shaki-caravanserai.png"
+    }
+  ]
+}

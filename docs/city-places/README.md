@@ -123,7 +123,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 77. `lv` — Latvia (**complete**)
 78. `ee` — Estonia (**complete**)
 79. `am` — Armenia (**complete**)
-80. `az` — Azerbaijan
+80. `az` — Azerbaijan (**complete**)
+81. `lu` — Luxembourg
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

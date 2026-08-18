@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "az/baku/baku",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "stateCode": "BA",
+  "stateName": "Baku",
+  "cityName": "Baku",
+  "bbox": {
+    "minLat": 40.356,
+    "minLng": 49.823,
+    "maxLat": 40.37,
+    "maxLng": 49.842
+  },
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maiden-tower",
+      "name": "Maiden Tower",
+      "lat": 40.3661,
+      "lng": 49.8372,
+      "radiusM": 40,
+      "address": "Icherisheher",
+      "howTo": "Visit Maiden Tower.",
+      "badge": "badges/maiden-tower.png"
+    },
+    {
+      "id": "shirvanshahs-palace",
+      "name": "Palace of the Shirvanshahs",
+      "lat": 40.3656,
+      "lng": 49.8331,
+      "radiusM": 80,
+      "address": "Icherisheher",
+      "howTo": "Visit Palace of the Shirvanshahs.",
+      "badge": "badges/shirvanshahs-palace.png"
+    },
+    {
+      "id": "flame-towers",
+      "name": "Flame Towers",
+      "lat": 40.3594,
+      "lng": 49.8267,
+      "radiusM": 120,
+      "address": "Baku",
+      "howTo": "Visit Flame Towers.",
+      "badge": "badges/flame-towers.png"
+    }
+  ]
+}

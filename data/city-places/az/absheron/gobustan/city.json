@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "az/absheron/gobustan",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "stateCode": "ABS",
+  "stateName": "Absheron",
+  "cityName": "Gobustan",
+  "bbox": {
+    "minLat": 40.05,
+    "minLng": 49.36,
+    "maxLat": 40.14,
+    "maxLng": 49.4
+  },
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gobustan-petroglyphs",
+      "name": "Gobustan Petroglyphs",
+      "lat": 40.127,
+      "lng": 49.379,
+      "radiusM": 200,
+      "address": "Gobustan NP",
+      "howTo": "Visit Gobustan Petroglyphs.",
+      "badge": "badges/gobustan-petroglyphs.png"
+    },
+    {
+      "id": "mud-volcanoes",
+      "name": "Gobustan Mud Volcanoes",
+      "lat": 40.058,
+      "lng": 49.383,
+      "radiusM": 250,
+      "address": "Gobustan",
+      "howTo": "Visit Gobustan Mud Volcanoes.",
+      "badge": "badges/mud-volcanoes.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "az/gabala/gabala",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "stateCode": "QA",
+  "stateName": "Gabala",
+  "cityName": "Gabala",
+  "bbox": {
+    "minLat": 40.848,
+    "minLng": 47.87,
+    "maxLat": 40.935,
+    "maxLng": 47.9
+  },
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nohur-lake",
+      "name": "Nohur Lake",
+      "lat": 40.93,
+      "lng": 47.891,
+      "radiusM": 200,
+      "address": "Gabala",
+      "howTo": "Visit Nohur Lake.",
+      "badge": "badges/nohur-lake.png"
+    },
+    {
+      "id": "tufandag",
+      "name": "Tufandag",
+      "lat": 40.854,
+      "lng": 47.877,
+      "radiusM": 250,
+      "address": "Gabala",
+      "howTo": "Visit Tufandag.",
+      "badge": "badges/tufandag.png"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "az/absheron/surakhani",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "stateCode": "ABS",
+  "stateName": "Absheron",
+  "cityName": "Surakhani",
+  "bbox": {
+    "minLat": 40.412,
+    "minLng": 50.004,
+    "maxLat": 40.42,
+    "maxLng": 50.014
+  },
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ateshgah",
+      "name": "Ateshgah Fire Temple",
+      "lat": 40.4156,
+      "lng": 50.0089,
+      "radiusM": 60,
+      "address": "Surakhani",
+      "howTo": "Visit Ateshgah Fire Temple.",
+      "badge": "badges/ateshgah.png"
+    }
+  ]
+}

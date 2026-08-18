@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:37:38.000Z",
-  "notes": "Armenia (am) complete. Next: Azerbaijan (az) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "notes": "Azerbaijan (az) complete. Next: Luxembourg (lu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16133,6 +16133,111 @@
                 "minLng": 46.245,
                 "maxLat": 39.412,
                 "maxLng": 46.278
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "az",
+      "countryCode": "AZ",
+      "name": "Azerbaijan",
+      "states": [
+        {
+          "id": "baku",
+          "stateCode": "BA",
+          "name": "Baku",
+          "cities": [
+            {
+              "id": "baku",
+              "name": "Baku",
+              "status": "complete",
+              "packPath": "az/baku/baku/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:41:18.000Z",
+              "bbox": {
+                "minLat": 40.356,
+                "minLng": 49.823,
+                "maxLat": 40.37,
+                "maxLng": 49.842
+              }
+            }
+          ]
+        },
+        {
+          "id": "absheron",
+          "stateCode": "ABS",
+          "name": "Absheron",
+          "cities": [
+            {
+              "id": "gobustan",
+              "name": "Gobustan",
+              "status": "complete",
+              "packPath": "az/absheron/gobustan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:41:18.000Z",
+              "bbox": {
+                "minLat": 40.05,
+                "minLng": 49.36,
+                "maxLat": 40.14,
+                "maxLng": 49.4
+              }
+            },
+            {
+              "id": "surakhani",
+              "name": "Surakhani",
+              "status": "complete",
+              "packPath": "az/absheron/surakhani/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:41:18.000Z",
+              "bbox": {
+                "minLat": 40.412,
+                "minLng": 50.004,
+                "maxLat": 40.42,
+                "maxLng": 50.014
+              }
+            }
+          ]
+        },
+        {
+          "id": "shaki",
+          "stateCode": "SA",
+          "name": "Shaki",
+          "cities": [
+            {
+              "id": "shaki",
+              "name": "Shaki",
+              "status": "complete",
+              "packPath": "az/shaki/shaki/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:41:18.000Z",
+              "bbox": {
+                "minLat": 41.197,
+                "minLng": 47.186,
+                "maxLat": 41.208,
+                "maxLng": 47.203
+              }
+            }
+          ]
+        },
+        {
+          "id": "gabala",
+          "stateCode": "QA",
+          "name": "Gabala",
+          "cities": [
+            {
+              "id": "gabala",
+              "name": "Gabala",
+              "status": "complete",
+              "packPath": "az/gabala/gabala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:41:18.000Z",
+              "bbox": {
+                "minLat": 40.848,
+                "minLng": 47.87,
+                "maxLat": 40.935,
+                "maxLng": 47.9
               }
             }
           ]
