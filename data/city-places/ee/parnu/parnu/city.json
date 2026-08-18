@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ee/parnu/parnu",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "stateCode": "67",
+  "stateName": "P\u00e4rnu",
+  "cityName": "P\u00e4rnu",
+  "bbox": {
+    "minLat": 58.375,
+    "minLng": 24.493,
+    "maxLat": 58.387,
+    "maxLng": 24.515
+  },
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parnu-beach",
+      "name": "P\u00e4rnu Beach",
+      "lat": 58.378,
+      "lng": 24.508,
+      "radiusM": 250,
+      "address": "P\u00e4rnu",
+      "howTo": "Visit P\u00e4rnu Beach.",
+      "badge": "badges/parnu-beach.png"
+    },
+    {
+      "id": "parnu-mud-baths",
+      "name": "P\u00e4rnu Mud Baths",
+      "lat": 58.3844,
+      "lng": 24.4986,
+      "radiusM": 60,
+      "address": "P\u00e4rnu",
+      "howTo": "Visit P\u00e4rnu Mud Baths.",
+      "badge": "badges/parnu-mud-baths.png"
+    }
+  ]
+}

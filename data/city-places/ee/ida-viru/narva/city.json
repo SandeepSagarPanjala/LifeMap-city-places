@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ee/ida-viru/narva",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "stateCode": "44",
+  "stateName": "Ida-Viru",
+  "cityName": "Narva",
+  "bbox": {
+    "minLat": 59.373,
+    "minLng": 28.192,
+    "maxLat": 59.382,
+    "maxLng": 28.201
+  },
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "narva-castle",
+      "name": "Narva Castle",
+      "lat": 59.3756,
+      "lng": 28.1956,
+      "radiusM": 100,
+      "address": "Narva",
+      "howTo": "Visit Narva Castle.",
+      "badge": "badges/narva-castle.png"
+    },
+    {
+      "id": "narva-town-hall",
+      "name": "Narva Town Hall",
+      "lat": 59.379,
+      "lng": 28.196,
+      "radiusM": 40,
+      "address": "Narva",
+      "howTo": "Visit Narva Town Hall.",
+      "badge": "badges/narva-town-hall.png"
+    }
+  ]
+}

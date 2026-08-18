@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:29:29.000Z",
-  "notes": "Latvia (lv) complete. Next: Estonia (ee) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "notes": "Estonia (ee) complete. Next: Armenia (am) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15916,6 +15916,118 @@
                 "minLng": 24.022,
                 "maxLat": 56.416,
                 "maxLng": 24.029
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee",
+      "countryCode": "EE",
+      "name": "Estonia",
+      "states": [
+        {
+          "id": "harju",
+          "stateCode": "37",
+          "name": "Harju",
+          "cities": [
+            {
+              "id": "tallinn",
+              "name": "Tallinn",
+              "status": "complete",
+              "packPath": "ee/harju/tallinn/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:33:29.000Z",
+              "bbox": {
+                "minLat": 59.434,
+                "minLng": 24.736,
+                "maxLat": 59.445,
+                "maxLng": 24.752
+              }
+            }
+          ]
+        },
+        {
+          "id": "tartu",
+          "stateCode": "78",
+          "name": "Tartu",
+          "cities": [
+            {
+              "id": "tartu",
+              "name": "Tartu",
+              "status": "complete",
+              "packPath": "ee/tartu/tartu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:33:29.000Z",
+              "bbox": {
+                "minLat": 58.378,
+                "minLng": 26.718,
+                "maxLat": 58.385,
+                "maxLng": 26.726
+              }
+            }
+          ]
+        },
+        {
+          "id": "parnu",
+          "stateCode": "67",
+          "name": "P\u00e4rnu",
+          "cities": [
+            {
+              "id": "parnu",
+              "name": "P\u00e4rnu",
+              "status": "complete",
+              "packPath": "ee/parnu/parnu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:33:29.000Z",
+              "bbox": {
+                "minLat": 58.375,
+                "minLng": 24.493,
+                "maxLat": 58.387,
+                "maxLng": 24.515
+              }
+            }
+          ]
+        },
+        {
+          "id": "saare",
+          "stateCode": "74",
+          "name": "Saare",
+          "cities": [
+            {
+              "id": "kuressaare",
+              "name": "Kuressaare",
+              "status": "complete",
+              "packPath": "ee/saare/kuressaare/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:33:29.000Z",
+              "bbox": {
+                "minLat": 58.244,
+                "minLng": 22.475,
+                "maxLat": 58.25,
+                "maxLng": 22.483
+              }
+            }
+          ]
+        },
+        {
+          "id": "ida-viru",
+          "stateCode": "44",
+          "name": "Ida-Viru",
+          "cities": [
+            {
+              "id": "narva",
+              "name": "Narva",
+              "status": "complete",
+              "packPath": "ee/ida-viru/narva/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:33:29.000Z",
+              "bbox": {
+                "minLat": 59.373,
+                "minLng": 28.192,
+                "maxLat": 59.382,
+                "maxLng": 28.201
               }
             }
           ]

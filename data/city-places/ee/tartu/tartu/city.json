@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ee/tartu/tartu",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "stateCode": "78",
+  "stateName": "Tartu",
+  "cityName": "Tartu",
+  "bbox": {
+    "minLat": 58.378,
+    "minLng": 26.718,
+    "maxLat": 58.385,
+    "maxLng": 26.726
+  },
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tartu-town-hall",
+      "name": "Tartu Town Hall",
+      "lat": 58.38,
+      "lng": 26.7225,
+      "radiusM": 50,
+      "address": "Raekoja plats",
+      "howTo": "Visit Tartu Town Hall.",
+      "badge": "badges/tartu-town-hall.png"
+    },
+    {
+      "id": "st-johns-church",
+      "name": "St John's Church",
+      "lat": 58.3825,
+      "lng": 26.7208,
+      "radiusM": 50,
+      "address": "Tartu",
+      "howTo": "Visit St John's Church.",
+      "badge": "badges/st-johns-church.png"
+    }
+  ]
+}

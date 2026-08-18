@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:29:29.758Z",
+  "generatedAt": "2026-08-18T03:33:29.653Z",
   "cellDeg": 0.5,
-  "cityCount": 844,
+  "cityCount": 849,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1325,6 +1325,51 @@
         "minLng": -78.445,
         "maxLat": -1.385,
         "maxLng": -78.415
+      }
+    },
+    "ee/harju/tallinn": {
+      "name": "Tallinn",
+      "bbox": {
+        "minLat": 59.434,
+        "minLng": 24.736,
+        "maxLat": 59.445,
+        "maxLng": 24.752
+      }
+    },
+    "ee/ida-viru/narva": {
+      "name": "Narva",
+      "bbox": {
+        "minLat": 59.373,
+        "minLng": 28.192,
+        "maxLat": 59.382,
+        "maxLng": 28.201
+      }
+    },
+    "ee/parnu/parnu": {
+      "name": "Pärnu",
+      "bbox": {
+        "minLat": 58.375,
+        "minLng": 24.493,
+        "maxLat": 58.387,
+        "maxLng": 24.515
+      }
+    },
+    "ee/saare/kuressaare": {
+      "name": "Kuressaare",
+      "bbox": {
+        "minLat": 58.244,
+        "minLng": 22.475,
+        "maxLat": 58.25,
+        "maxLng": 22.483
+      }
+    },
+    "ee/tartu/tartu": {
+      "name": "Tartu",
+      "bbox": {
+        "minLat": 58.378,
+        "minLng": 26.718,
+        "maxLat": 58.385,
+        "maxLng": 26.726
       }
     },
     "eg/aswan/aswan": {
@@ -11738,6 +11783,24 @@
     ],
     "112,48": [
       "lv/zemgale/rundale"
+    ],
+    "118,49": [
+      "ee/harju/tallinn"
+    ],
+    "116,53": [
+      "ee/tartu/tartu"
+    ],
+    "116,48": [
+      "ee/parnu/parnu"
+    ],
+    "116,49": [
+      "ee/parnu/parnu"
+    ],
+    "116,44": [
+      "ee/saare/kuressaare"
+    ],
+    "118,56": [
+      "ee/ida-viru/narva"
     ]
   }
 }

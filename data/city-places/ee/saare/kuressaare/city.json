@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "ee/saare/kuressaare",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "stateCode": "74",
+  "stateName": "Saare",
+  "cityName": "Kuressaare",
+  "bbox": {
+    "minLat": 58.244,
+    "minLng": 22.475,
+    "maxLat": 58.25,
+    "maxLng": 22.483
+  },
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kuressaare-castle",
+      "name": "Kuressaare Castle",
+      "lat": 58.2467,
+      "lng": 22.4789,
+      "radiusM": 120,
+      "address": "Saaremaa",
+      "howTo": "Visit Kuressaare Castle.",
+      "badge": "badges/kuressaare-castle.png"
+    }
+  ]
+}

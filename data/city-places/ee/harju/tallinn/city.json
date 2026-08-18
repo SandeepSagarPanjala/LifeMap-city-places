@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ee/harju/tallinn",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "stateCode": "37",
+  "stateName": "Harju",
+  "cityName": "Tallinn",
+  "bbox": {
+    "minLat": 59.434,
+    "minLng": 24.736,
+    "maxLat": 59.445,
+    "maxLng": 24.752
+  },
+  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tallinn-town-hall",
+      "name": "Tallinn Town Hall",
+      "lat": 59.43722,
+      "lng": 24.74528,
+      "radiusM": 50,
+      "address": "Raekoja plats",
+      "howTo": "Visit Tallinn Town Hall.",
+      "badge": "badges/tallinn-town-hall.png"
+    },
+    {
+      "id": "alexander-nevsky",
+      "name": "Alexander Nevsky Cathedral",
+      "lat": 59.4358,
+      "lng": 24.7394,
+      "radiusM": 50,
+      "address": "Toompea",
+      "howTo": "Visit Alexander Nevsky Cathedral.",
+      "badge": "badges/alexander-nevsky.png"
+    },
+    {
+      "id": "fat-margaret",
+      "name": "Fat Margaret",
+      "lat": 59.4425,
+      "lng": 24.7497,
+      "radiusM": 40,
+      "address": "Great Coastal Gate",
+      "howTo": "Visit Fat Margaret.",
+      "badge": "badges/fat-margaret.png"
+    }
+  ]
+}
