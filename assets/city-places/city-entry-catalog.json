@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:02:04.758Z",
+  "generatedAt": "2026-08-18T00:06:35.186Z",
   "cellDeg": 0.5,
-  "cityCount": 622,
+  "cityCount": 627,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -524,6 +524,51 @@
         "minLng": 8.52,
         "maxLat": 47.39,
         "maxLng": 8.56
+      }
+    },
+    "cl/atacama/san-pedro-de-atacama": {
+      "name": "San Pedro de Atacama",
+      "bbox": {
+        "minLat": -22.92,
+        "minLng": -68.22,
+        "maxLat": -22.89,
+        "maxLng": -68.19
+      }
+    },
+    "cl/magallanes/puerto-natales": {
+      "name": "Puerto Natales",
+      "bbox": {
+        "minLat": -51.05,
+        "minLng": -72.55,
+        "maxLat": -50.95,
+        "maxLng": -72.45
+      }
+    },
+    "cl/metropolitan/santiago": {
+      "name": "Santiago",
+      "bbox": {
+        "minLat": -33.48,
+        "minLng": -70.68,
+        "maxLat": -33.42,
+        "maxLng": -70.62
+      }
+    },
+    "cl/valparaiso/valparaiso": {
+      "name": "Valparaiso",
+      "bbox": {
+        "minLat": -33.06,
+        "minLng": -71.64,
+        "maxLat": -33.03,
+        "maxLng": -71.6
+      }
+    },
+    "cl/valparaiso/vina-del-mar": {
+      "name": "Vina del Mar",
+      "bbox": {
+        "minLat": -33.02,
+        "minLng": -71.58,
+        "maxLat": -33,
+        "maxLng": -71.54
       }
     },
     "co/antioquia/medellin": {
@@ -8937,6 +8982,31 @@
     ],
     "22,-149": [
       "co/magdalena/santa-marta"
+    ],
+    "-67,-142": [
+      "cl/metropolitan/santiago"
+    ],
+    "-67,-144": [
+      "cl/valparaiso/valparaiso",
+      "cl/valparaiso/vina-del-mar"
+    ],
+    "-66,-144": [
+      "cl/valparaiso/vina-del-mar"
+    ],
+    "-46,-137": [
+      "cl/atacama/san-pedro-de-atacama"
+    ],
+    "-103,-146": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-103,-145": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-102,-146": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-102,-145": [
+      "cl/magallanes/puerto-natales"
     ]
   }
 }

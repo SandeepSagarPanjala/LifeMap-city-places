@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cl/valparaiso/vina-del-mar",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "stateCode": "VAL",
+  "stateName": "Valparaiso",
+  "cityName": "Vina del Mar",
+  "bbox": {
+    "minLat": -33.02,
+    "minLng": -71.58,
+    "maxLat": -33.0,
+    "maxLng": -71.54
+  },
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vina-del-mar-beach",
+      "name": "Vina del Mar Beach",
+      "lat": -33.015,
+      "lng": -71.552,
+      "radiusM": 300,
+      "address": "Playa Re\u00f1aca",
+      "howTo": "Visit Vina del Mar Beach.",
+      "badge": "badges/vina-del-mar-beach.png"
+    },
+    {
+      "id": "flower-clock-vina",
+      "name": "Vina del Mar Flower Clock",
+      "lat": -33.024,
+      "lng": -71.552,
+      "radiusM": 100,
+      "address": "Av. Marina",
+      "howTo": "Visit Vina del Mar Flower Clock.",
+      "badge": "badges/flower-clock-vina.png"
+    }
+  ]
+}

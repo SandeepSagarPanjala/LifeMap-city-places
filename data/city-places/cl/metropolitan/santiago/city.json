@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "cl/metropolitan/santiago",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "stateCode": "RM",
+  "stateName": "Santiago Metropolitan",
+  "cityName": "Santiago",
+  "bbox": {
+    "minLat": -33.48,
+    "minLng": -70.68,
+    "maxLat": -33.42,
+    "maxLng": -70.62
+  },
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-de-armas-santiago",
+      "name": "Plaza de Armas Santiago",
+      "lat": -33.4372,
+      "lng": -70.6506,
+      "radiusM": 150,
+      "address": "Centro",
+      "howTo": "Visit Plaza de Armas Santiago.",
+      "badge": "badges/plaza-de-armas-santiago.png"
+    },
+    {
+      "id": "san-cristobal-hill",
+      "name": "San Cristobal Hill",
+      "lat": -33.425,
+      "lng": -70.634,
+      "radiusM": 300,
+      "address": "Providencia",
+      "howTo": "Visit San Cristobal Hill.",
+      "badge": "badges/san-cristobal-hill.png"
+    },
+    {
+      "id": "la-moneda-palace",
+      "name": "La Moneda Palace",
+      "lat": -33.442,
+      "lng": -70.653,
+      "radiusM": 120,
+      "address": "Centro",
+      "howTo": "Visit La Moneda Palace.",
+      "badge": "badges/la-moneda-palace.png"
+    },
+    {
+      "id": "bellavista-santiago",
+      "name": "Bellavista Neighborhood",
+      "lat": -33.43,
+      "lng": -70.635,
+      "radiusM": 200,
+      "address": "Bellavista",
+      "howTo": "Visit Bellavista Neighborhood.",
+      "badge": "badges/bellavista-santiago.png"
+    }
+  ]
+}

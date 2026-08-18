@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cl/magallanes/puerto-natales",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "stateCode": "MAG",
+  "stateName": "Magallanes",
+  "cityName": "Puerto Natales",
+  "bbox": {
+    "minLat": -51.05,
+    "minLng": -72.55,
+    "maxLat": -50.95,
+    "maxLng": -72.45
+  },
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "torres-del-paine",
+      "name": "Torres del Paine",
+      "lat": -50.942,
+      "lng": -73.406,
+      "radiusM": 500,
+      "address": "Torres del Paine",
+      "howTo": "Visit Torres del Paine.",
+      "badge": "badges/torres-del-paine.png"
+    },
+    {
+      "id": "grey-glacier",
+      "name": "Grey Glacier",
+      "lat": -51.0,
+      "lng": -73.2,
+      "radiusM": 400,
+      "address": "Torres del Paine",
+      "howTo": "Visit Grey Glacier.",
+      "badge": "badges/grey-glacier.png"
+    }
+  ]
+}

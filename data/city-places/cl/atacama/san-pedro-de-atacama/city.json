@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cl/atacama/san-pedro-de-atacama",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "stateCode": "AT",
+  "stateName": "Antofagasta",
+  "cityName": "San Pedro de Atacama",
+  "bbox": {
+    "minLat": -22.92,
+    "minLng": -68.22,
+    "maxLat": -22.89,
+    "maxLng": -68.19
+  },
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "valle-de-la-luna",
+      "name": "Valle de la Luna",
+      "lat": -22.92,
+      "lng": -68.3,
+      "radiusM": 300,
+      "address": "Atacama Desert",
+      "howTo": "Visit Valle de la Luna.",
+      "badge": "badges/valle-de-la-luna.png"
+    },
+    {
+      "id": "el-tatio-geysers",
+      "name": "El Tatio Geysers",
+      "lat": -22.33,
+      "lng": -68.01,
+      "radiusM": 400,
+      "address": "El Tatio",
+      "howTo": "Visit El Tatio Geysers.",
+      "badge": "badges/el-tatio-geysers.png"
+    }
+  ]
+}

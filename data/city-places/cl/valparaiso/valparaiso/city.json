@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "cl/valparaiso/valparaiso",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "stateCode": "VAL",
+  "stateName": "Valparaiso",
+  "cityName": "Valparaiso",
+  "bbox": {
+    "minLat": -33.06,
+    "minLng": -71.64,
+    "maxLat": -33.03,
+    "maxLng": -71.6
+  },
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "valparaiso-hills",
+      "name": "Valparaiso Colorful Hills",
+      "lat": -33.045,
+      "lng": -71.62,
+      "radiusM": 250,
+      "address": "Cerro Alegre",
+      "howTo": "Visit Valparaiso Colorful Hills.",
+      "badge": "badges/valparaiso-hills.png"
+    },
+    {
+      "id": "valparaiso-port",
+      "name": "Valparaiso Port",
+      "lat": -33.038,
+      "lng": -71.628,
+      "radiusM": 200,
+      "address": "Puerto",
+      "howTo": "Visit Valparaiso Port.",
+      "badge": "badges/valparaiso-port.png"
+    },
+    {
+      "id": "pablo-neruda-house",
+      "name": "La Sebastiana",
+      "lat": -33.04,
+      "lng": -71.615,
+      "radiusM": 100,
+      "address": "Cerro Bellavista",
+      "howTo": "Visit La Sebastiana.",
+      "badge": "badges/pablo-neruda-house.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:40:00.000Z",
-  "notes": "Queue through Colombia complete. Next: Chile (cl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "notes": "Queue through Chile complete. Next: Ireland (ie) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11177,6 +11177,111 @@
                 "minLng": -74.22,
                 "maxLat": 11.26,
                 "maxLng": -74.18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cl",
+      "countryCode": "CL",
+      "name": "Chile",
+      "states": [
+        {
+          "id": "metropolitan",
+          "stateCode": "RM",
+          "name": "Santiago Metropolitan",
+          "cities": [
+            {
+              "id": "santiago",
+              "name": "Santiago",
+              "status": "complete",
+              "packPath": "cl/metropolitan/santiago/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T05:00:00.000Z",
+              "bbox": {
+                "minLat": -33.48,
+                "minLng": -70.68,
+                "maxLat": -33.42,
+                "maxLng": -70.62
+              }
+            }
+          ]
+        },
+        {
+          "id": "valparaiso",
+          "stateCode": "VAL",
+          "name": "Valparaiso",
+          "cities": [
+            {
+              "id": "valparaiso",
+              "name": "Valparaiso",
+              "status": "complete",
+              "packPath": "cl/valparaiso/valparaiso/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T05:00:00.000Z",
+              "bbox": {
+                "minLat": -33.06,
+                "minLng": -71.64,
+                "maxLat": -33.03,
+                "maxLng": -71.6
+              }
+            },
+            {
+              "id": "vina-del-mar",
+              "name": "Vina del Mar",
+              "status": "complete",
+              "packPath": "cl/valparaiso/vina-del-mar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:00:00.000Z",
+              "bbox": {
+                "minLat": -33.02,
+                "minLng": -71.58,
+                "maxLat": -33.0,
+                "maxLng": -71.54
+              }
+            }
+          ]
+        },
+        {
+          "id": "atacama",
+          "stateCode": "AT",
+          "name": "Antofagasta",
+          "cities": [
+            {
+              "id": "san-pedro-de-atacama",
+              "name": "San Pedro de Atacama",
+              "status": "complete",
+              "packPath": "cl/atacama/san-pedro-de-atacama/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:00:00.000Z",
+              "bbox": {
+                "minLat": -22.92,
+                "minLng": -68.22,
+                "maxLat": -22.89,
+                "maxLng": -68.19
+              }
+            }
+          ]
+        },
+        {
+          "id": "magallanes",
+          "stateCode": "MAG",
+          "name": "Magallanes",
+          "cities": [
+            {
+              "id": "puerto-natales",
+              "name": "Puerto Natales",
+              "status": "complete",
+              "packPath": "cl/magallanes/puerto-natales/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:00:00.000Z",
+              "bbox": {
+                "minLat": -51.05,
+                "minLng": -72.55,
+                "maxLat": -50.95,
+                "maxLng": -72.45
               }
             }
           ]
