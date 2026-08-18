@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:48:40.674Z",
+  "generatedAt": "2026-08-18T01:55:21.513Z",
   "cellDeg": 0.5,
-  "cityCount": 734,
+  "cityCount": 739,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4628,6 +4628,51 @@
         "minLng": -8.63,
         "maxLat": 41.15,
         "maxLng": -8.6
+      }
+    },
+    "ro/brasov/bran": {
+      "name": "Bran",
+      "bbox": {
+        "minLat": 45.51,
+        "minLng": 25.36,
+        "maxLat": 45.595,
+        "maxLng": 25.465
+      }
+    },
+    "ro/brasov/brasov": {
+      "name": "Brasov",
+      "bbox": {
+        "minLat": 45.638,
+        "minLng": 25.585,
+        "maxLat": 45.645,
+        "maxLng": 25.595
+      }
+    },
+    "ro/bucharest/bucharest": {
+      "name": "Bucharest",
+      "bbox": {
+        "minLat": 44.425,
+        "minLng": 26.085,
+        "maxLat": 44.445,
+        "maxLng": 26.105
+      }
+    },
+    "ro/mures/sighisoara": {
+      "name": "Sighisoara",
+      "bbox": {
+        "minLat": 46.216,
+        "minLng": 24.788,
+        "maxLat": 46.222,
+        "maxLng": 24.796
+      }
+    },
+    "ro/sibiu/sibiu": {
+      "name": "Sibiu",
+      "bbox": {
+        "minLat": 45.793,
+        "minLng": 24.148,
+        "maxLat": 45.799,
+        "maxLng": 24.155
       }
     },
     "se/gotland/visby": {
@@ -10364,6 +10409,21 @@
     ],
     "38,-142": [
       "do/santiago/santiago"
+    ],
+    "88,52": [
+      "ro/bucharest/bucharest"
+    ],
+    "91,51": [
+      "ro/brasov/brasov"
+    ],
+    "91,50": [
+      "ro/brasov/bran"
+    ],
+    "91,48": [
+      "ro/sibiu/sibiu"
+    ],
+    "92,49": [
+      "ro/mures/sighisoara"
     ]
   }
 }

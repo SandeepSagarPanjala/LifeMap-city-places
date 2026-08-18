@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ro/brasov/brasov",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "stateCode": "BV",
+  "stateName": "Brasov",
+  "cityName": "Brasov",
+  "bbox": {
+    "minLat": 45.638,
+    "minLng": 25.585,
+    "maxLat": 45.645,
+    "maxLng": 25.595
+  },
+  "updatedAt": "2026-08-18T01:55:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "council-square-brasov",
+      "name": "Council Square",
+      "lat": 45.6427,
+      "lng": 25.5887,
+      "radiusM": 120,
+      "address": "Piata Sfatului",
+      "howTo": "Visit Council Square.",
+      "badge": "badges/council-square-brasov.png"
+    },
+    {
+      "id": "black-church",
+      "name": "Black Church",
+      "lat": 45.6413,
+      "lng": 25.5881,
+      "radiusM": 80,
+      "address": "Curtea Johannes Honterus",
+      "howTo": "Visit Black Church.",
+      "badge": "badges/black-church.png"
+    }
+  ]
+}

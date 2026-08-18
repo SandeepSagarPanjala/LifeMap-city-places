@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ro/mures/sighisoara",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "stateCode": "MS",
+  "stateName": "Mures",
+  "cityName": "Sighisoara",
+  "bbox": {
+    "minLat": 46.216,
+    "minLng": 24.788,
+    "maxLat": 46.222,
+    "maxLng": 24.796
+  },
+  "updatedAt": "2026-08-18T01:55:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clock-tower-sighisoara",
+      "name": "Clock Tower",
+      "lat": 46.2197,
+      "lng": 24.7931,
+      "radiusM": 80,
+      "address": "Piata Cetatii",
+      "howTo": "Visit Clock Tower.",
+      "badge": "badges/clock-tower-sighisoara.png"
+    },
+    {
+      "id": "church-on-the-hill",
+      "name": "Church on the Hill",
+      "lat": 46.218,
+      "lng": 24.79,
+      "radiusM": 80,
+      "address": "Sighisoara Citadel",
+      "howTo": "Visit Church on the Hill.",
+      "badge": "badges/church-on-the-hill.png"
+    }
+  ]
+}

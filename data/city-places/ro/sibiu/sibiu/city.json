@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ro/sibiu/sibiu",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "stateCode": "SB",
+  "stateName": "Sibiu",
+  "cityName": "Sibiu",
+  "bbox": {
+    "minLat": 45.793,
+    "minLng": 24.148,
+    "maxLat": 45.799,
+    "maxLng": 24.155
+  },
+  "updatedAt": "2026-08-18T01:55:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "piata-mare",
+      "name": "Piata Mare",
+      "lat": 45.7964,
+      "lng": 24.1522,
+      "radiusM": 120,
+      "address": "Large Square",
+      "howTo": "Visit Piata Mare.",
+      "badge": "badges/piata-mare.png"
+    },
+    {
+      "id": "bridge-of-lies",
+      "name": "Bridge of Lies",
+      "lat": 45.7955,
+      "lng": 24.1503,
+      "radiusM": 50,
+      "address": "Podul Minciunilor",
+      "howTo": "Visit Bridge of Lies.",
+      "badge": "badges/bridge-of-lies.png"
+    }
+  ]
+}

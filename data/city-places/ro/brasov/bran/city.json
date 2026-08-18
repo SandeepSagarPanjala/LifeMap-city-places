@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ro/brasov/bran",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "stateCode": "BV",
+  "stateName": "Brasov",
+  "cityName": "Bran",
+  "bbox": {
+    "minLat": 45.51,
+    "minLng": 25.36,
+    "maxLat": 45.595,
+    "maxLng": 25.465
+  },
+  "updatedAt": "2026-08-18T01:55:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bran-castle",
+      "name": "Bran Castle",
+      "lat": 45.5156,
+      "lng": 25.3672,
+      "radiusM": 120,
+      "address": "Bran",
+      "howTo": "Visit Bran Castle.",
+      "badge": "badges/bran-castle.png"
+    },
+    {
+      "id": "rasnov-citadel",
+      "name": "Rasnov Citadel",
+      "lat": 45.591,
+      "lng": 25.461,
+      "radiusM": 150,
+      "address": "Rasnov",
+      "howTo": "Visit Rasnov Citadel.",
+      "badge": "badges/rasnov-citadel.png"
+    }
+  ]
+}
