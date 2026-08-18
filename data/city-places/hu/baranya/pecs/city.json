@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hu/baranya/pecs",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "stateCode": "BA",
+  "stateName": "Baranya",
+  "cityName": "Pecs",
+  "bbox": {
+    "minLat": 46.07,
+    "minLng": 18.22,
+    "maxLat": 46.08,
+    "maxLng": 18.24
+  },
+  "updatedAt": "2026-08-18T06:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pecs-cathedral",
+      "name": "Pecs Cathedral",
+      "lat": 46.0785,
+      "lng": 18.227,
+      "radiusM": 120,
+      "address": "Dom Square",
+      "howTo": "Visit Pecs Cathedral.",
+      "badge": "badges/pecs-cathedral.png"
+    },
+    {
+      "id": "pecs-mosque-church",
+      "name": "Pecs Mosque Church",
+      "lat": 46.0765,
+      "lng": 18.228,
+      "radiusM": 100,
+      "address": "Szechenyi Square",
+      "howTo": "Visit Pecs Mosque Church.",
+      "badge": "badges/pecs-mosque-church.png"
+    }
+  ]
+}

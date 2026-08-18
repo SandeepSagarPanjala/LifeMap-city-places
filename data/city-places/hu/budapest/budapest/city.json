@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "hu/budapest/budapest",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "stateCode": "BU",
+  "stateName": "Budapest",
+  "cityName": "Budapest",
+  "bbox": {
+    "minLat": 47.48,
+    "minLng": 19.03,
+    "maxLat": 47.52,
+    "maxLng": 19.08
+  },
+  "updatedAt": "2026-08-18T06:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parliament-budapest",
+      "name": "Hungarian Parliament Building",
+      "lat": 47.5071,
+      "lng": 19.0457,
+      "radiusM": 200,
+      "address": "Kossuth Square",
+      "howTo": "Visit Hungarian Parliament Building.",
+      "badge": "badges/parliament-budapest.png"
+    },
+    {
+      "id": "buda-castle",
+      "name": "Buda Castle",
+      "lat": 47.4962,
+      "lng": 19.0396,
+      "radiusM": 250,
+      "address": "Castle Hill",
+      "howTo": "Visit Buda Castle.",
+      "badge": "badges/buda-castle.png"
+    },
+    {
+      "id": "fishermans-bastion",
+      "name": "Fisherman's Bastion",
+      "lat": 47.502,
+      "lng": 19.0348,
+      "radiusM": 120,
+      "address": "Castle Hill",
+      "howTo": "Visit Fisherman's Bastion.",
+      "badge": "badges/fishermans-bastion.png"
+    },
+    {
+      "id": "szechenyi-baths",
+      "name": "Szechenyi Thermal Bath",
+      "lat": 47.5186,
+      "lng": 19.0818,
+      "radiusM": 150,
+      "address": "City Park",
+      "howTo": "Visit Szechenyi Thermal Bath.",
+      "badge": "badges/szechenyi-baths.png"
+    },
+    {
+      "id": "chain-bridge",
+      "name": "Szechenyi Chain Bridge",
+      "lat": 47.4989,
+      "lng": 19.0436,
+      "radiusM": 150,
+      "address": "Danube",
+      "howTo": "Visit Szechenyi Chain Bridge.",
+      "badge": "badges/chain-bridge.png"
+    }
+  ]
+}

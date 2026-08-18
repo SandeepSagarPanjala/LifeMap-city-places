@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hu/heves/eger",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "stateCode": "HE",
+  "stateName": "Heves",
+  "cityName": "Eger",
+  "bbox": {
+    "minLat": 47.89,
+    "minLng": 20.36,
+    "maxLat": 47.91,
+    "maxLng": 20.39
+  },
+  "updatedAt": "2026-08-18T06:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "eger-castle",
+      "name": "Eger Castle",
+      "lat": 47.903,
+      "lng": 20.379,
+      "radiusM": 200,
+      "address": "Var",
+      "howTo": "Visit Eger Castle.",
+      "badge": "badges/eger-castle.png"
+    },
+    {
+      "id": "eger-minaret",
+      "name": "Eger Minaret",
+      "lat": 47.9035,
+      "lng": 20.375,
+      "radiusM": 80,
+      "address": "Knezich Street",
+      "howTo": "Visit Eger Minaret.",
+      "badge": "badges/eger-minaret.png"
+    }
+  ]
+}

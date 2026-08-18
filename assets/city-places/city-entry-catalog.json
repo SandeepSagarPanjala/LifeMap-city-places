@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:30:24.546Z",
+  "generatedAt": "2026-08-18T00:34:29.136Z",
   "cellDeg": 0.5,
-  "cityCount": 651,
+  "cityCount": 655,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1676,6 +1676,42 @@
         "minLng": 15.96,
         "maxLat": 45.83,
         "maxLng": 16
+      }
+    },
+    "hu/baranya/pecs": {
+      "name": "Pecs",
+      "bbox": {
+        "minLat": 46.07,
+        "minLng": 18.22,
+        "maxLat": 46.08,
+        "maxLng": 18.24
+      }
+    },
+    "hu/budapest/budapest": {
+      "name": "Budapest",
+      "bbox": {
+        "minLat": 47.48,
+        "minLng": 19.03,
+        "maxLat": 47.52,
+        "maxLng": 19.08
+      }
+    },
+    "hu/heves/eger": {
+      "name": "Eger",
+      "bbox": {
+        "minLat": 47.89,
+        "minLng": 20.36,
+        "maxLat": 47.91,
+        "maxLng": 20.39
+      }
+    },
+    "hu/veszprem/lake-balaton": {
+      "name": "Lake Balaton",
+      "bbox": {
+        "minLat": 46.75,
+        "minLng": 17.2,
+        "maxLat": 46.92,
+        "maxLng": 18.05
       }
     },
     "id/bali/denpasar": {
@@ -9322,6 +9358,27 @@
     ],
     "89,31": [
       "hr/plitvice/plitvice-lakes"
+    ],
+    "94,38": [
+      "hu/budapest/budapest"
+    ],
+    "95,38": [
+      "hu/budapest/budapest"
+    ],
+    "95,40": [
+      "hu/heves/eger"
+    ],
+    "92,36": [
+      "hu/baranya/pecs"
+    ],
+    "93,34": [
+      "hu/veszprem/lake-balaton"
+    ],
+    "93,35": [
+      "hu/veszprem/lake-balaton"
+    ],
+    "93,36": [
+      "hu/veszprem/lake-balaton"
     ]
   }
 }

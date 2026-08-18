@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T06:15:00.000Z",
-  "notes": "Queue through Croatia complete. Next: Hungary (hu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T06:30:00.000Z",
+  "notes": "Queue through Hungary complete. Next: Poland (pl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11807,6 +11807,97 @@
                 "minLng": 15.58,
                 "maxLat": 44.9,
                 "maxLng": 15.62
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu",
+      "countryCode": "HU",
+      "name": "Hungary",
+      "states": [
+        {
+          "id": "budapest",
+          "stateCode": "BU",
+          "name": "Budapest",
+          "cities": [
+            {
+              "id": "budapest",
+              "name": "Budapest",
+              "status": "complete",
+              "packPath": "hu/budapest/budapest/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T06:30:00.000Z",
+              "bbox": {
+                "minLat": 47.48,
+                "minLng": 19.03,
+                "maxLat": 47.52,
+                "maxLng": 19.08
+              }
+            }
+          ]
+        },
+        {
+          "id": "heves",
+          "stateCode": "HE",
+          "name": "Heves",
+          "cities": [
+            {
+              "id": "eger",
+              "name": "Eger",
+              "status": "complete",
+              "packPath": "hu/heves/eger/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:30:00.000Z",
+              "bbox": {
+                "minLat": 47.89,
+                "minLng": 20.36,
+                "maxLat": 47.91,
+                "maxLng": 20.39
+              }
+            }
+          ]
+        },
+        {
+          "id": "baranya",
+          "stateCode": "BA",
+          "name": "Baranya",
+          "cities": [
+            {
+              "id": "pecs",
+              "name": "Pecs",
+              "status": "complete",
+              "packPath": "hu/baranya/pecs/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:30:00.000Z",
+              "bbox": {
+                "minLat": 46.07,
+                "minLng": 18.22,
+                "maxLat": 46.08,
+                "maxLng": 18.24
+              }
+            }
+          ]
+        },
+        {
+          "id": "veszprem",
+          "stateCode": "VE",
+          "name": "Veszprem",
+          "cities": [
+            {
+              "id": "lake-balaton",
+              "name": "Lake Balaton",
+              "status": "complete",
+              "packPath": "hu/veszprem/lake-balaton/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:30:00.000Z",
+              "bbox": {
+                "minLat": 46.75,
+                "minLng": 17.2,
+                "maxLat": 46.92,
+                "maxLng": 18.05
               }
             }
           ]
