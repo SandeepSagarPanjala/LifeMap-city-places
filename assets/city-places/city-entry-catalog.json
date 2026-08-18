@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:26:46.522Z",
+  "generatedAt": "2026-08-18T02:32:07.129Z",
   "cellDeg": 0.5,
-  "cityCount": 769,
+  "cityCount": 774,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -290,6 +290,51 @@
         "minLng": 3.218,
         "maxLat": 51.212,
         "maxLng": 3.23
+      }
+    },
+    "bg/burgas/nessebar": {
+      "name": "Nessebar",
+      "bbox": {
+        "minLat": 42.655,
+        "minLng": 27.725,
+        "maxLat": 42.662,
+        "maxLng": 27.738
+      }
+    },
+    "bg/kyustendil/rila": {
+      "name": "Rila",
+      "bbox": {
+        "minLat": 42.128,
+        "minLng": 23.335,
+        "maxLat": 42.14,
+        "maxLng": 23.345
+      }
+    },
+    "bg/plovdiv/plovdiv": {
+      "name": "Plovdiv",
+      "bbox": {
+        "minLat": 42.143,
+        "minLng": 24.745,
+        "maxLat": 42.155,
+        "maxLng": 24.758
+      }
+    },
+    "bg/sofia/sofia": {
+      "name": "Sofia",
+      "bbox": {
+        "minLat": 42.55,
+        "minLng": 23.26,
+        "maxLat": 42.71,
+        "maxLng": 23.35
+      }
+    },
+    "bg/veliko-tarnovo/veliko-tarnovo": {
+      "name": "Veliko Tarnovo",
+      "bbox": {
+        "minLat": 43.075,
+        "minLng": 25.63,
+        "maxLat": 43.09,
+        "maxLng": 25.66
       }
     },
     "bo/chuquisaca/sucre": {
@@ -10819,6 +10864,21 @@
     ],
     "-39,-131": [
       "bo/chuquisaca/sucre"
+    ],
+    "85,46": [
+      "bg/sofia/sofia"
+    ],
+    "84,49": [
+      "bg/plovdiv/plovdiv"
+    ],
+    "86,51": [
+      "bg/veliko-tarnovo/veliko-tarnovo"
+    ],
+    "85,55": [
+      "bg/burgas/nessebar"
+    ],
+    "84,46": [
+      "bg/kyustendil/rila"
     ]
   }
 }

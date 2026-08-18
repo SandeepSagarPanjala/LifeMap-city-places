@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bg/plovdiv/plovdiv",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "stateCode": "16",
+  "stateName": "Plovdiv",
+  "cityName": "Plovdiv",
+  "bbox": {
+    "minLat": 42.143,
+    "minLng": 24.745,
+    "maxLat": 42.155,
+    "maxLng": 24.758
+  },
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ancient-theatre-plovdiv",
+      "name": "Ancient Theatre of Plovdiv",
+      "lat": 42.147,
+      "lng": 24.751,
+      "radiusM": 100,
+      "address": "Old Town",
+      "howTo": "Visit Ancient Theatre of Plovdiv.",
+      "badge": "badges/ancient-theatre-plovdiv.png"
+    },
+    {
+      "id": "old-town-plovdiv",
+      "name": "Plovdiv Old Town",
+      "lat": 42.1495,
+      "lng": 24.7525,
+      "radiusM": 200,
+      "address": "Kapana / Old Town",
+      "howTo": "Visit Plovdiv Old Town.",
+      "badge": "badges/old-town-plovdiv.png"
+    }
+  ]
+}

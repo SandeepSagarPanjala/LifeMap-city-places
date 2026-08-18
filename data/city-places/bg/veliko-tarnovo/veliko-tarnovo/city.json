@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bg/veliko-tarnovo/veliko-tarnovo",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "stateCode": "04",
+  "stateName": "Veliko Tarnovo",
+  "cityName": "Veliko Tarnovo",
+  "bbox": {
+    "minLat": 43.075,
+    "minLng": 25.63,
+    "maxLat": 43.09,
+    "maxLng": 25.66
+  },
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tsarevets",
+      "name": "Tsarevets Fortress",
+      "lat": 43.0833,
+      "lng": 25.6531,
+      "radiusM": 200,
+      "address": "Veliko Tarnovo",
+      "howTo": "Visit Tsarevets Fortress.",
+      "badge": "badges/tsarevets.png"
+    },
+    {
+      "id": "samovodska-charshiya",
+      "name": "Samovodska Charshiya",
+      "lat": 43.082,
+      "lng": 25.635,
+      "radiusM": 120,
+      "address": "Veliko Tarnovo",
+      "howTo": "Visit Samovodska Charshiya.",
+      "badge": "badges/samovodska-charshiya.png"
+    }
+  ]
+}

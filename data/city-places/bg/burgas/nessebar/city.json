@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bg/burgas/nessebar",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "stateCode": "02",
+  "stateName": "Burgas",
+  "cityName": "Nessebar",
+  "bbox": {
+    "minLat": 42.655,
+    "minLng": 27.725,
+    "maxLat": 42.662,
+    "maxLng": 27.738
+  },
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nessebar-old-town",
+      "name": "Nessebar Old Town",
+      "lat": 42.659,
+      "lng": 27.732,
+      "radiusM": 200,
+      "address": "Ancient Nessebar",
+      "howTo": "Visit Nessebar Old Town.",
+      "badge": "badges/nessebar-old-town.png"
+    },
+    {
+      "id": "church-christ-pantocrator",
+      "name": "Church of Christ Pantocrator",
+      "lat": 42.6595,
+      "lng": 27.7335,
+      "radiusM": 80,
+      "address": "Nessebar",
+      "howTo": "Visit Church of Christ Pantocrator.",
+      "badge": "badges/church-christ-pantocrator.png"
+    }
+  ]
+}

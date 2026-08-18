@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "bg/sofia/sofia",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "stateCode": "22",
+  "stateName": "Sofia",
+  "cityName": "Sofia",
+  "bbox": {
+    "minLat": 42.55,
+    "minLng": 23.26,
+    "maxLat": 42.71,
+    "maxLng": 23.35
+  },
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alexander-nevsky",
+      "name": "Alexander Nevsky Cathedral",
+      "lat": 42.6958,
+      "lng": 23.3328,
+      "radiusM": 120,
+      "address": "Sofia",
+      "howTo": "Visit Alexander Nevsky Cathedral.",
+      "badge": "badges/alexander-nevsky.png"
+    },
+    {
+      "id": "boyana-church",
+      "name": "Boyana Church",
+      "lat": 42.6444,
+      "lng": 23.2664,
+      "radiusM": 80,
+      "address": "Boyana",
+      "howTo": "Visit Boyana Church.",
+      "badge": "badges/boyana-church.png"
+    },
+    {
+      "id": "vitosha",
+      "name": "Vitosha",
+      "lat": 42.568,
+      "lng": 23.283,
+      "radiusM": 300,
+      "address": "Vitosha Mountain",
+      "howTo": "Visit Vitosha.",
+      "badge": "badges/vitosha.png"
+    }
+  ]
+}

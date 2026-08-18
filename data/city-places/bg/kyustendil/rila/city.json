@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "bg/kyustendil/rila",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "stateCode": "10",
+  "stateName": "Kyustendil",
+  "cityName": "Rila",
+  "bbox": {
+    "minLat": 42.128,
+    "minLng": 23.335,
+    "maxLat": 42.14,
+    "maxLng": 23.345
+  },
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rila-monastery",
+      "name": "Rila Monastery",
+      "lat": 42.1336,
+      "lng": 23.3403,
+      "radiusM": 200,
+      "address": "Rila Monastery",
+      "howTo": "Visit Rila Monastery.",
+      "badge": "badges/rila-monastery.png"
+    }
+  ]
+}

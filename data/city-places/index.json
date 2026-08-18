@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:26:46.000Z",
-  "notes": "Bolivia (bo) complete. Next: Bulgaria (bg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "notes": "Bulgaria (bg) complete. Next: Slovenia (si) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14355,6 +14355,118 @@
                 "minLng": -65.265,
                 "maxLat": -19.04,
                 "maxLng": -65.245
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bg",
+      "countryCode": "BG",
+      "name": "Bulgaria",
+      "states": [
+        {
+          "id": "sofia",
+          "stateCode": "22",
+          "name": "Sofia",
+          "cities": [
+            {
+              "id": "sofia",
+              "name": "Sofia",
+              "status": "complete",
+              "packPath": "bg/sofia/sofia/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:32:07.000Z",
+              "bbox": {
+                "minLat": 42.55,
+                "minLng": 23.26,
+                "maxLat": 42.71,
+                "maxLng": 23.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "plovdiv",
+          "stateCode": "16",
+          "name": "Plovdiv",
+          "cities": [
+            {
+              "id": "plovdiv",
+              "name": "Plovdiv",
+              "status": "complete",
+              "packPath": "bg/plovdiv/plovdiv/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:32:07.000Z",
+              "bbox": {
+                "minLat": 42.143,
+                "minLng": 24.745,
+                "maxLat": 42.155,
+                "maxLng": 24.758
+              }
+            }
+          ]
+        },
+        {
+          "id": "veliko-tarnovo",
+          "stateCode": "04",
+          "name": "Veliko Tarnovo",
+          "cities": [
+            {
+              "id": "veliko-tarnovo",
+              "name": "Veliko Tarnovo",
+              "status": "complete",
+              "packPath": "bg/veliko-tarnovo/veliko-tarnovo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:32:07.000Z",
+              "bbox": {
+                "minLat": 43.075,
+                "minLng": 25.63,
+                "maxLat": 43.09,
+                "maxLng": 25.66
+              }
+            }
+          ]
+        },
+        {
+          "id": "burgas",
+          "stateCode": "02",
+          "name": "Burgas",
+          "cities": [
+            {
+              "id": "nessebar",
+              "name": "Nessebar",
+              "status": "complete",
+              "packPath": "bg/burgas/nessebar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:32:07.000Z",
+              "bbox": {
+                "minLat": 42.655,
+                "minLng": 27.725,
+                "maxLat": 42.662,
+                "maxLng": 27.738
+              }
+            }
+          ]
+        },
+        {
+          "id": "kyustendil",
+          "stateCode": "10",
+          "name": "Kyustendil",
+          "cities": [
+            {
+              "id": "rila",
+              "name": "Rila",
+              "status": "complete",
+              "packPath": "bg/kyustendil/rila/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T02:32:07.000Z",
+              "bbox": {
+                "minLat": 42.128,
+                "minLng": 23.335,
+                "maxLat": 42.14,
+                "maxLng": 23.345
               }
             }
           ]
