@@ -119,7 +119,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 73. `al` — Albania (**complete**)
 74. `ba` — Bosnia and Herzegovina (**complete**)
 75. `mk` — North Macedonia (**complete**)
-76. `lt` — Lithuania
+76. `lt` — Lithuania (**complete**)
+77. `lv` — Latvia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

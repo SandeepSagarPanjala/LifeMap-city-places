@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "lt/siauliai/siauliai",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "stateCode": "SA",
+  "stateName": "\u0160iauliai",
+  "cityName": "\u0160iauliai",
+  "bbox": {
+    "minLat": 56.013,
+    "minLng": 23.413,
+    "maxLat": 56.018,
+    "maxLng": 23.42
+  },
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hill-of-crosses",
+      "name": "Hill of Crosses",
+      "lat": 56.0153,
+      "lng": 23.4167,
+      "radiusM": 120,
+      "address": "Jurgai\u010diai",
+      "howTo": "Visit Hill of Crosses.",
+      "badge": "badges/hill-of-crosses.png"
+    }
+  ]
+}

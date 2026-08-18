@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lt/kaunas/kaunas",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "stateCode": "KU",
+  "stateName": "Kaunas",
+  "cityName": "Kaunas",
+  "bbox": {
+    "minLat": 54.895,
+    "minLng": 23.882,
+    "maxLat": 54.901,
+    "maxLng": 23.89
+  },
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kaunas-castle",
+      "name": "Kaunas Castle",
+      "lat": 54.8989,
+      "lng": 23.8853,
+      "radiusM": 80,
+      "address": "Neris\u2013Nemunas",
+      "howTo": "Visit Kaunas Castle.",
+      "badge": "badges/kaunas-castle.png"
+    },
+    {
+      "id": "kaunas-town-hall",
+      "name": "Kaunas Town Hall",
+      "lat": 54.8967,
+      "lng": 23.8861,
+      "radiusM": 50,
+      "address": "Rotu\u0161\u0117s aik\u0161t\u0117",
+      "howTo": "Visit Kaunas Town Hall.",
+      "badge": "badges/kaunas-town-hall.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:21:43.000Z",
-  "notes": "North Macedonia (mk) complete. Next: Lithuania (lt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "notes": "Lithuania (lt) complete. Next: Latvia (lv) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15713,6 +15713,111 @@
                 "minLng": 21.33,
                 "maxLat": 41.034,
                 "maxLng": 21.348
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lt",
+      "countryCode": "LT",
+      "name": "Lithuania",
+      "states": [
+        {
+          "id": "vilnius",
+          "stateCode": "VL",
+          "name": "Vilnius",
+          "cities": [
+            {
+              "id": "vilnius",
+              "name": "Vilnius",
+              "status": "complete",
+              "packPath": "lt/vilnius/vilnius/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:25:42.000Z",
+              "bbox": {
+                "minLat": 54.681,
+                "minLng": 25.285,
+                "maxLat": 54.688,
+                "maxLng": 25.296
+              }
+            },
+            {
+              "id": "trakai",
+              "name": "Trakai",
+              "status": "complete",
+              "packPath": "lt/vilnius/trakai/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:25:42.000Z",
+              "bbox": {
+                "minLat": 54.643,
+                "minLng": 24.928,
+                "maxLat": 54.655,
+                "maxLng": 24.945
+              }
+            }
+          ]
+        },
+        {
+          "id": "kaunas",
+          "stateCode": "KU",
+          "name": "Kaunas",
+          "cities": [
+            {
+              "id": "kaunas",
+              "name": "Kaunas",
+              "status": "complete",
+              "packPath": "lt/kaunas/kaunas/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:25:42.000Z",
+              "bbox": {
+                "minLat": 54.895,
+                "minLng": 23.882,
+                "maxLat": 54.901,
+                "maxLng": 23.89
+              }
+            }
+          ]
+        },
+        {
+          "id": "klaipeda",
+          "stateCode": "KL",
+          "name": "Klaip\u0117da",
+          "cities": [
+            {
+              "id": "nida",
+              "name": "Nida",
+              "status": "complete",
+              "packPath": "lt/klaipeda/nida/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:25:42.000Z",
+              "bbox": {
+                "minLat": 55.293,
+                "minLng": 20.99,
+                "maxLat": 55.307,
+                "maxLng": 21.01
+              }
+            }
+          ]
+        },
+        {
+          "id": "siauliai",
+          "stateCode": "SA",
+          "name": "\u0160iauliai",
+          "cities": [
+            {
+              "id": "siauliai",
+              "name": "\u0160iauliai",
+              "status": "complete",
+              "packPath": "lt/siauliai/siauliai/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:25:42.000Z",
+              "bbox": {
+                "minLat": 56.013,
+                "minLng": 23.413,
+                "maxLat": 56.018,
+                "maxLng": 23.42
               }
             }
           ]

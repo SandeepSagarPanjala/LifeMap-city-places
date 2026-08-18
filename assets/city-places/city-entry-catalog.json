@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:21:43.350Z",
+  "generatedAt": "2026-08-18T03:25:42.983Z",
   "cellDeg": 0.5,
-  "cityCount": 834,
+  "cityCount": 839,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4187,6 +4187,51 @@
         "minLng": 79.84,
         "maxLat": 6.935,
         "maxLng": 79.865
+      }
+    },
+    "lt/kaunas/kaunas": {
+      "name": "Kaunas",
+      "bbox": {
+        "minLat": 54.895,
+        "minLng": 23.882,
+        "maxLat": 54.901,
+        "maxLng": 23.89
+      }
+    },
+    "lt/klaipeda/nida": {
+      "name": "Nida",
+      "bbox": {
+        "minLat": 55.293,
+        "minLng": 20.99,
+        "maxLat": 55.307,
+        "maxLng": 21.01
+      }
+    },
+    "lt/siauliai/siauliai": {
+      "name": "Šiauliai",
+      "bbox": {
+        "minLat": 56.013,
+        "minLng": 23.413,
+        "maxLat": 56.018,
+        "maxLng": 23.42
+      }
+    },
+    "lt/vilnius/trakai": {
+      "name": "Trakai",
+      "bbox": {
+        "minLat": 54.643,
+        "minLng": 24.928,
+        "maxLat": 54.655,
+        "maxLng": 24.945
+      }
+    },
+    "lt/vilnius/vilnius": {
+      "name": "Vilnius",
+      "bbox": {
+        "minLat": 54.681,
+        "minLng": 25.285,
+        "maxLat": 54.688,
+        "maxLng": 25.296
       }
     },
     "ma/casablanca/casablanca": {
@@ -11615,6 +11660,24 @@
     ],
     "82,42": [
       "mk/bitola/bitola"
+    ],
+    "109,50": [
+      "lt/vilnius/vilnius"
+    ],
+    "109,49": [
+      "lt/vilnius/trakai"
+    ],
+    "109,47": [
+      "lt/kaunas/kaunas"
+    ],
+    "110,41": [
+      "lt/klaipeda/nida"
+    ],
+    "110,42": [
+      "lt/klaipeda/nida"
+    ],
+    "112,46": [
+      "lt/siauliai/siauliai"
     ]
   }
 }

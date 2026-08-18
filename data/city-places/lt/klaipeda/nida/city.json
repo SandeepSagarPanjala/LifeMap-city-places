@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lt/klaipeda/nida",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "stateCode": "KL",
+  "stateName": "Klaip\u0117da",
+  "cityName": "Nida",
+  "bbox": {
+    "minLat": 55.293,
+    "minLng": 20.99,
+    "maxLat": 55.307,
+    "maxLng": 21.01
+  },
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parnidis-dune",
+      "name": "Parnidis Dune",
+      "lat": 55.2964,
+      "lng": 20.9944,
+      "radiusM": 200,
+      "address": "Curonian Spit",
+      "howTo": "Visit Parnidis Dune.",
+      "badge": "badges/parnidis-dune.png"
+    },
+    {
+      "id": "nida-lighthouse",
+      "name": "Nida Lighthouse",
+      "lat": 55.3036,
+      "lng": 21.0056,
+      "radiusM": 40,
+      "address": "Nida",
+      "howTo": "Visit Nida Lighthouse.",
+      "badge": "badges/nida-lighthouse.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "lt/vilnius/vilnius",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "stateCode": "VL",
+  "stateName": "Vilnius",
+  "cityName": "Vilnius",
+  "bbox": {
+    "minLat": 54.681,
+    "minLng": 25.285,
+    "maxLat": 54.688,
+    "maxLng": 25.296
+  },
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vilnius-cathedral",
+      "name": "Vilnius Cathedral",
+      "lat": 54.68583,
+      "lng": 25.28778,
+      "radiusM": 80,
+      "address": "Cathedral Square",
+      "howTo": "Visit Vilnius Cathedral.",
+      "badge": "badges/vilnius-cathedral.png"
+    },
+    {
+      "id": "gediminas-tower",
+      "name": "Gediminas Tower",
+      "lat": 54.68647,
+      "lng": 25.29056,
+      "radiusM": 60,
+      "address": "Castle Hill",
+      "howTo": "Visit Gediminas Tower.",
+      "badge": "badges/gediminas-tower.png"
+    },
+    {
+      "id": "st-annes-church",
+      "name": "St Anne's Church",
+      "lat": 54.68306,
+      "lng": 25.29306,
+      "radiusM": 50,
+      "address": "Old Town",
+      "howTo": "Visit St Anne's Church.",
+      "badge": "badges/st-annes-church.png"
+    }
+  ]
+}

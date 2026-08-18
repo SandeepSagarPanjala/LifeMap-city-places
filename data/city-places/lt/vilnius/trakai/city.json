@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lt/vilnius/trakai",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "stateCode": "VL",
+  "stateName": "Vilnius",
+  "cityName": "Trakai",
+  "bbox": {
+    "minLat": 54.643,
+    "minLng": 24.928,
+    "maxLat": 54.655,
+    "maxLng": 24.945
+  },
+  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "trakai-island-castle",
+      "name": "Trakai Island Castle",
+      "lat": 54.6522,
+      "lng": 24.9335,
+      "radiusM": 100,
+      "address": "Lake Galv\u0117",
+      "howTo": "Visit Trakai Island Castle.",
+      "badge": "badges/trakai-island-castle.png"
+    },
+    {
+      "id": "trakai-peninsula-castle",
+      "name": "Trakai Peninsula Castle",
+      "lat": 54.6453,
+      "lng": 24.9417,
+      "radiusM": 80,
+      "address": "Trakai",
+      "howTo": "Visit Trakai Peninsula Castle.",
+      "badge": "badges/trakai-peninsula-castle.png"
+    }
+  ]
+}
