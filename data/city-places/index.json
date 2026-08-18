@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:20:37.000Z",
-  "notes": "Namibia (na) complete. Next: Ethiopia (et) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "notes": "Ethiopia (et) complete. Next: Botswana (bw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17225,6 +17225,104 @@
                 "minLng": 15.91,
                 "maxLat": -19.095,
                 "maxLng": 15.96
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "et",
+      "countryCode": "ET",
+      "name": "Ethiopia",
+      "states": [
+        {
+          "id": "addis-ababa",
+          "stateCode": "AA",
+          "name": "Addis Ababa",
+          "cities": [
+            {
+              "id": "addis-ababa",
+              "name": "Addis Ababa",
+              "status": "complete",
+              "packPath": "et/addis-ababa/addis-ababa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:27:02.000Z",
+              "bbox": {
+                "minLat": 9.028,
+                "minLng": 38.758,
+                "maxLat": 9.04,
+                "maxLng": 38.77
+              }
+            }
+          ]
+        },
+        {
+          "id": "amhara",
+          "stateCode": "AM",
+          "name": "Amhara",
+          "cities": [
+            {
+              "id": "lalibela",
+              "name": "Lalibela",
+              "status": "complete",
+              "packPath": "et/amhara/lalibela/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:27:02.000Z",
+              "bbox": {
+                "minLat": 12.029,
+                "minLng": 39.038,
+                "maxLat": 12.036,
+                "maxLng": 39.046
+              }
+            },
+            {
+              "id": "gondar",
+              "name": "Gondar",
+              "status": "complete",
+              "packPath": "et/amhara/gondar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:27:02.000Z",
+              "bbox": {
+                "minLat": 12.595,
+                "minLng": 37.458,
+                "maxLat": 12.611,
+                "maxLng": 37.473
+              }
+            },
+            {
+              "id": "simien",
+              "name": "Simien",
+              "status": "complete",
+              "packPath": "et/amhara/simien/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:27:02.000Z",
+              "bbox": {
+                "minLat": 13.255,
+                "minLng": 38.19,
+                "maxLat": 13.275,
+                "maxLng": 38.22
+              }
+            }
+          ]
+        },
+        {
+          "id": "tigray",
+          "stateCode": "TI",
+          "name": "Tigray",
+          "cities": [
+            {
+              "id": "axum",
+              "name": "Axum",
+              "status": "complete",
+              "packPath": "et/tigray/axum/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:27:02.000Z",
+              "bbox": {
+                "minLat": 14.127,
+                "minLng": 38.716,
+                "maxLat": 14.134,
+                "maxLng": 38.723
               }
             }
           ]

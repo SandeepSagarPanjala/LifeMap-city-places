@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:20:37.174Z",
+  "generatedAt": "2026-08-18T23:27:02.613Z",
   "cellDeg": 0.5,
-  "cityCount": 904,
+  "cityCount": 909,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1766,6 +1766,51 @@
         "minLng": -1.99,
         "maxLat": 43.33,
         "maxLng": -1.97
+      }
+    },
+    "et/addis-ababa/addis-ababa": {
+      "name": "Addis Ababa",
+      "bbox": {
+        "minLat": 9.028,
+        "minLng": 38.758,
+        "maxLat": 9.04,
+        "maxLng": 38.77
+      }
+    },
+    "et/amhara/gondar": {
+      "name": "Gondar",
+      "bbox": {
+        "minLat": 12.595,
+        "minLng": 37.458,
+        "maxLat": 12.611,
+        "maxLng": 37.473
+      }
+    },
+    "et/amhara/lalibela": {
+      "name": "Lalibela",
+      "bbox": {
+        "minLat": 12.029,
+        "minLng": 39.038,
+        "maxLat": 12.036,
+        "maxLng": 39.046
+      }
+    },
+    "et/amhara/simien": {
+      "name": "Simien",
+      "bbox": {
+        "minLat": 13.255,
+        "minLng": 38.19,
+        "maxLat": 13.275,
+        "maxLng": 38.22
+      }
+    },
+    "et/tigray/axum": {
+      "name": "Axum",
+      "bbox": {
+        "minLat": 14.127,
+        "minLng": 38.716,
+        "maxLat": 14.134,
+        "maxLng": 38.723
       }
     },
     "fi/lapland/rovaniemi": {
@@ -12442,6 +12487,21 @@
     ],
     "-39,31": [
       "na/oshikoto/etosha"
+    ],
+    "18,77": [
+      "et/addis-ababa/addis-ababa"
+    ],
+    "24,78": [
+      "et/amhara/lalibela"
+    ],
+    "25,74": [
+      "et/amhara/gondar"
+    ],
+    "26,76": [
+      "et/amhara/simien"
+    ],
+    "28,77": [
+      "et/tigray/axum"
     ]
   }
 }

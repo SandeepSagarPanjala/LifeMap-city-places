@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "et/amhara/simien",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "stateCode": "AM",
+  "stateName": "Amhara",
+  "cityName": "Simien",
+  "bbox": {
+    "minLat": 13.255,
+    "minLng": 38.19,
+    "maxLat": 13.275,
+    "maxLng": 38.22
+  },
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "simien-escarpment",
+      "name": "Simien Escarpment",
+      "lat": 13.26,
+      "lng": 38.195,
+      "radiusM": 250,
+      "address": "Simien Mountains",
+      "howTo": "Visit Simien Escarpment.",
+      "badge": "badges/simien-escarpment.png"
+    },
+    {
+      "id": "imet-gogo",
+      "name": "Imet Gogo",
+      "lat": 13.271,
+      "lng": 38.215,
+      "radiusM": 150,
+      "address": "Simien Mountains",
+      "howTo": "Visit Imet Gogo.",
+      "badge": "badges/imet-gogo.png"
+    }
+  ]
+}

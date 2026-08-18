@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "et/addis-ababa/addis-ababa",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "stateCode": "AA",
+  "stateName": "Addis Ababa",
+  "cityName": "Addis Ababa",
+  "bbox": {
+    "minLat": 9.028,
+    "minLng": 38.758,
+    "maxLat": 9.04,
+    "maxLng": 38.77
+  },
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "holy-trinity-cathedral",
+      "name": "Holy Trinity Cathedral",
+      "lat": 9.0308,
+      "lng": 38.7667,
+      "radiusM": 80,
+      "address": "Addis Ababa",
+      "howTo": "Visit Holy Trinity Cathedral.",
+      "badge": "badges/holy-trinity-cathedral.png"
+    },
+    {
+      "id": "national-museum",
+      "name": "National Museum",
+      "lat": 9.0372,
+      "lng": 38.7614,
+      "radiusM": 60,
+      "address": "Addis Ababa",
+      "howTo": "Visit National Museum.",
+      "badge": "badges/national-museum.png"
+    }
+  ]
+}

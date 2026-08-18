@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "et/amhara/lalibela",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "stateCode": "AM",
+  "stateName": "Amhara",
+  "cityName": "Lalibela",
+  "bbox": {
+    "minLat": 12.029,
+    "minLng": 39.038,
+    "maxLat": 12.036,
+    "maxLng": 39.046
+  },
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "biete-giyorgis",
+      "name": "Biete Giyorgis",
+      "lat": 12.03139,
+      "lng": 39.04111,
+      "radiusM": 60,
+      "address": "Lalibela",
+      "howTo": "Visit Biete Giyorgis.",
+      "badge": "badges/biete-giyorgis.png"
+    },
+    {
+      "id": "biete-medhane-alem",
+      "name": "Biete Medhane Alem",
+      "lat": 12.0339,
+      "lng": 39.0436,
+      "radiusM": 60,
+      "address": "Lalibela",
+      "howTo": "Visit Biete Medhane Alem.",
+      "badge": "badges/biete-medhane-alem.png"
+    }
+  ]
+}

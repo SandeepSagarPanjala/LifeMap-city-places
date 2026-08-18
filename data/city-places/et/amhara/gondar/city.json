@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "et/amhara/gondar",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "stateCode": "AM",
+  "stateName": "Amhara",
+  "cityName": "Gondar",
+  "bbox": {
+    "minLat": 12.595,
+    "minLng": 37.458,
+    "maxLat": 12.611,
+    "maxLng": 37.473
+  },
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fasil-ghebbi",
+      "name": "Fasil Ghebbi",
+      "lat": 12.6081,
+      "lng": 37.4697,
+      "radiusM": 100,
+      "address": "Gondar",
+      "howTo": "Visit Fasil Ghebbi.",
+      "badge": "badges/fasil-ghebbi.png"
+    },
+    {
+      "id": "fasilides-bath",
+      "name": "Fasilides Bath",
+      "lat": 12.5975,
+      "lng": 37.4614,
+      "radiusM": 80,
+      "address": "Gondar",
+      "howTo": "Visit Fasilides Bath.",
+      "badge": "badges/fasilides-bath.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "et/tigray/axum",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "stateCode": "TI",
+  "stateName": "Tigray",
+  "cityName": "Axum",
+  "bbox": {
+    "minLat": 14.127,
+    "minLng": 38.716,
+    "maxLat": 14.134,
+    "maxLng": 38.723
+  },
+  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "northern-stelae",
+      "name": "Northern Stelae Park",
+      "lat": 14.1319,
+      "lng": 38.7194,
+      "radiusM": 80,
+      "address": "Axum",
+      "howTo": "Visit Northern Stelae Park.",
+      "badge": "badges/northern-stelae.png"
+    },
+    {
+      "id": "mary-of-zion",
+      "name": "Church of Our Lady Mary of Zion",
+      "lat": 14.1294,
+      "lng": 38.7197,
+      "radiusM": 60,
+      "address": "Axum",
+      "howTo": "Visit Church of Our Lady Mary of Zion.",
+      "badge": "badges/mary-of-zion.png"
+    }
+  ]
+}
