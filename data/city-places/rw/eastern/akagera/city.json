@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rw/eastern/akagera",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "stateCode": "03",
+  "stateName": "Eastern",
+  "cityName": "Akagera",
+  "bbox": {
+    "minLat": -1.89,
+    "minLng": 30.71,
+    "maxLat": -1.865,
+    "maxLng": 30.74
+  },
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-ihema",
+      "name": "Lake Ihema",
+      "lat": -1.883,
+      "lng": 30.733,
+      "radiusM": 200,
+      "address": "Akagera",
+      "howTo": "Visit Lake Ihema.",
+      "badge": "badges/lake-ihema.png"
+    },
+    {
+      "id": "akagera-plains",
+      "name": "Akagera Plains",
+      "lat": -1.87,
+      "lng": 30.72,
+      "radiusM": 250,
+      "address": "Akagera",
+      "howTo": "Visit Akagera Plains.",
+      "badge": "badges/akagera-plains.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rw/western/rubavu",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "stateCode": "05",
+  "stateName": "Western",
+  "cityName": "Rubavu",
+  "bbox": {
+    "minLat": -1.722,
+    "minLng": 29.25,
+    "maxLat": -1.698,
+    "maxLng": 29.27
+  },
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-kivu",
+      "name": "Lake Kivu",
+      "lat": -1.7028,
+      "lng": 29.2564,
+      "radiusM": 200,
+      "address": "Rubavu",
+      "howTo": "Visit Lake Kivu.",
+      "badge": "badges/lake-kivu.png"
+    },
+    {
+      "id": "gisenyi-beach",
+      "name": "Gisenyi Beach",
+      "lat": -1.7,
+      "lng": 29.26,
+      "radiusM": 120,
+      "address": "Rubavu",
+      "howTo": "Visit Gisenyi Beach.",
+      "badge": "badges/gisenyi-beach.png"
+    }
+  ]
+}

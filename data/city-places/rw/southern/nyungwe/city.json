@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rw/southern/nyungwe",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "stateCode": "02",
+  "stateName": "Southern",
+  "cityName": "Nyungwe",
+  "bbox": {
+    "minLat": -2.485,
+    "minLng": 29.23,
+    "maxLat": -2.47,
+    "maxLng": 29.25
+  },
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nyungwe-canopy",
+      "name": "Nyungwe Canopy Walk",
+      "lat": -2.478,
+      "lng": 29.239,
+      "radiusM": 80,
+      "address": "Nyungwe",
+      "howTo": "Visit Nyungwe Canopy Walk.",
+      "badge": "badges/nyungwe-canopy.png"
+    },
+    {
+      "id": "uwinka",
+      "name": "Uwinka",
+      "lat": -2.4785,
+      "lng": 29.241,
+      "radiusM": 80,
+      "address": "Nyungwe",
+      "howTo": "Visit Uwinka.",
+      "badge": "badges/uwinka.png"
+    }
+  ]
+}

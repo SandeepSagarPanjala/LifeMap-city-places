@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:31:30.000Z",
-  "notes": "Botswana (bw) complete. Next: Rwanda (rw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "notes": "Rwanda (rw) complete. Next: Ghana (gh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17428,6 +17428,118 @@
                 "minLng": 25.79,
                 "maxLat": -20.865,
                 "maxLng": 25.835
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw",
+      "countryCode": "RW",
+      "name": "Rwanda",
+      "states": [
+        {
+          "id": "kigali",
+          "stateCode": "01",
+          "name": "Kigali",
+          "cities": [
+            {
+              "id": "kigali",
+              "name": "Kigali",
+              "status": "complete",
+              "packPath": "rw/kigali/kigali/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:36:33.000Z",
+              "bbox": {
+                "minLat": -1.958,
+                "minLng": 30.055,
+                "maxLat": -1.943,
+                "maxLng": 30.098
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern",
+          "stateCode": "04",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "volcanoes",
+              "name": "Volcanoes",
+              "status": "complete",
+              "packPath": "rw/northern/volcanoes/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:36:33.000Z",
+              "bbox": {
+                "minLat": -1.512,
+                "minLng": 29.445,
+                "maxLat": -1.46,
+                "maxLng": 29.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "western",
+          "stateCode": "05",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "rubavu",
+              "name": "Rubavu",
+              "status": "complete",
+              "packPath": "rw/western/rubavu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:36:33.000Z",
+              "bbox": {
+                "minLat": -1.722,
+                "minLng": 29.25,
+                "maxLat": -1.698,
+                "maxLng": 29.27
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "02",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "nyungwe",
+              "name": "Nyungwe",
+              "status": "complete",
+              "packPath": "rw/southern/nyungwe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:36:33.000Z",
+              "bbox": {
+                "minLat": -2.485,
+                "minLng": 29.23,
+                "maxLat": -2.47,
+                "maxLng": 29.25
+              }
+            }
+          ]
+        },
+        {
+          "id": "eastern",
+          "stateCode": "03",
+          "name": "Eastern",
+          "cities": [
+            {
+              "id": "akagera",
+              "name": "Akagera",
+              "status": "complete",
+              "packPath": "rw/eastern/akagera/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:36:33.000Z",
+              "bbox": {
+                "minLat": -1.89,
+                "minLng": 30.71,
+                "maxLat": -1.865,
+                "maxLng": 30.74
               }
             }
           ]

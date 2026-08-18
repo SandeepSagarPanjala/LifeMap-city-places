@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rw/northern/volcanoes",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "stateCode": "04",
+  "stateName": "Northern",
+  "cityName": "Volcanoes",
+  "bbox": {
+    "minLat": -1.512,
+    "minLng": 29.445,
+    "maxLat": -1.46,
+    "maxLng": 29.5
+  },
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-bisoke",
+      "name": "Mount Bisoke",
+      "lat": -1.4675,
+      "lng": 29.4925,
+      "radiusM": 200,
+      "address": "Volcanoes National Park",
+      "howTo": "Visit Mount Bisoke.",
+      "badge": "badges/mount-bisoke.png"
+    },
+    {
+      "id": "mount-karisimbi",
+      "name": "Mount Karisimbi",
+      "lat": -1.5069,
+      "lng": 29.45,
+      "radiusM": 200,
+      "address": "Volcanoes National Park",
+      "howTo": "Visit Mount Karisimbi.",
+      "badge": "badges/mount-karisimbi.png"
+    }
+  ]
+}

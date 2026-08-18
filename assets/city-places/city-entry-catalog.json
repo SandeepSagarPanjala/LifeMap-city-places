@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:31:30.177Z",
+  "generatedAt": "2026-08-18T23:36:33.544Z",
   "cellDeg": 0.5,
-  "cityCount": 914,
+  "cityCount": 919,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5933,6 +5933,51 @@
         "minLng": 19.658,
         "maxLat": 46.105,
         "maxLng": 19.672
+      }
+    },
+    "rw/eastern/akagera": {
+      "name": "Akagera",
+      "bbox": {
+        "minLat": -1.89,
+        "minLng": 30.71,
+        "maxLat": -1.865,
+        "maxLng": 30.74
+      }
+    },
+    "rw/kigali/kigali": {
+      "name": "Kigali",
+      "bbox": {
+        "minLat": -1.958,
+        "minLng": 30.055,
+        "maxLat": -1.943,
+        "maxLng": 30.098
+      }
+    },
+    "rw/northern/volcanoes": {
+      "name": "Volcanoes",
+      "bbox": {
+        "minLat": -1.512,
+        "minLng": 29.445,
+        "maxLat": -1.46,
+        "maxLng": 29.5
+      }
+    },
+    "rw/southern/nyungwe": {
+      "name": "Nyungwe",
+      "bbox": {
+        "minLat": -2.485,
+        "minLng": 29.23,
+        "maxLat": -2.47,
+        "maxLng": 29.25
+      }
+    },
+    "rw/western/rubavu": {
+      "name": "Rubavu",
+      "bbox": {
+        "minLat": -1.722,
+        "minLng": 29.25,
+        "maxLat": -1.698,
+        "maxLng": 29.27
       }
     },
     "se/gotland/visby": {
@@ -12562,6 +12607,28 @@
     ],
     "-42,51": [
       "bw/central/makgadikgadi"
+    ],
+    "-4,60": [
+      "rw/kigali/kigali"
+    ],
+    "-4,58": [
+      "rw/northern/volcanoes",
+      "rw/western/rubavu"
+    ],
+    "-4,59": [
+      "rw/northern/volcanoes"
+    ],
+    "-3,58": [
+      "rw/northern/volcanoes"
+    ],
+    "-3,59": [
+      "rw/northern/volcanoes"
+    ],
+    "-5,58": [
+      "rw/southern/nyungwe"
+    ],
+    "-4,61": [
+      "rw/eastern/akagera"
     ]
   }
 }

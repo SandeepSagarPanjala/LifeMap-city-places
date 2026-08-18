@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rw/kigali/kigali",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "stateCode": "01",
+  "stateName": "Kigali",
+  "cityName": "Kigali",
+  "bbox": {
+    "minLat": -1.958,
+    "minLng": 30.055,
+    "maxLat": -1.943,
+    "maxLng": 30.098
+  },
+  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kigali-genocide-memorial",
+      "name": "Kigali Genocide Memorial",
+      "lat": -1.94639,
+      "lng": 30.05972,
+      "radiusM": 80,
+      "address": "Kigali",
+      "howTo": "Visit Kigali Genocide Memorial.",
+      "badge": "badges/kigali-genocide-memorial.png"
+    },
+    {
+      "id": "kigali-convention-centre",
+      "name": "Kigali Convention Centre",
+      "lat": -1.95417,
+      "lng": 30.09361,
+      "radiusM": 80,
+      "address": "Kigali",
+      "howTo": "Visit Kigali Convention Centre.",
+      "badge": "badges/kigali-convention-centre.png"
+    }
+  ]
+}
