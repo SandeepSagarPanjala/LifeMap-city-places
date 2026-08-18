@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "be/west-flanders/bruges",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "stateCode": "VWV",
+  "stateName": "West Flanders",
+  "cityName": "Bruges",
+  "bbox": {
+    "minLat": 51.198,
+    "minLng": 3.218,
+    "maxLat": 51.212,
+    "maxLng": 3.23
+  },
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "brugge-belfry",
+      "name": "Belfry of Bruges",
+      "lat": 51.2084,
+      "lng": 3.2249,
+      "radiusM": 100,
+      "address": "Markt 7",
+      "howTo": "Visit Belfry of Bruges.",
+      "badge": "badges/brugge-belfry.png"
+    },
+    {
+      "id": "minnewater",
+      "name": "Minnewater",
+      "lat": 51.2014,
+      "lng": 3.2236,
+      "radiusM": 150,
+      "address": "Minnewaterpark",
+      "howTo": "Visit Minnewater.",
+      "badge": "badges/minnewater.png"
+    }
+  ]
+}

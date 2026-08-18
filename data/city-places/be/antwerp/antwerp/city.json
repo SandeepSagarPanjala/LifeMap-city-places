@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "be/antwerp/antwerp",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "stateCode": "VAN",
+  "stateName": "Antwerp",
+  "cityName": "Antwerp",
+  "bbox": {
+    "minLat": 51.218,
+    "minLng": 4.396,
+    "maxLat": 51.224,
+    "maxLng": 4.405
+  },
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "antwerp-cathedral",
+      "name": "Cathedral of Our Lady",
+      "lat": 51.2204,
+      "lng": 4.4015,
+      "radiusM": 120,
+      "address": "Handschoenmarkt",
+      "howTo": "Visit Cathedral of Our Lady.",
+      "badge": "badges/antwerp-cathedral.png"
+    },
+    {
+      "id": "grote-markt-antwerp",
+      "name": "Grote Markt",
+      "lat": 51.2211,
+      "lng": 4.3997,
+      "radiusM": 120,
+      "address": "Grote Markt",
+      "howTo": "Visit Grote Markt.",
+      "badge": "badges/grote-markt-antwerp.png"
+    }
+  ]
+}

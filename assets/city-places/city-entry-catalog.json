@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:59:27.319Z",
+  "generatedAt": "2026-08-18T01:04:48.071Z",
   "cellDeg": 0.5,
-  "cityCount": 680,
+  "cityCount": 685,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -245,6 +245,51 @@
         "minLng": 115.84,
         "maxLat": -31.94,
         "maxLng": 115.88
+      }
+    },
+    "be/antwerp/antwerp": {
+      "name": "Antwerp",
+      "bbox": {
+        "minLat": 51.218,
+        "minLng": 4.396,
+        "maxLat": 51.224,
+        "maxLng": 4.405
+      }
+    },
+    "be/brussels/brussels": {
+      "name": "Brussels",
+      "bbox": {
+        "minLat": 50.84,
+        "minLng": 4.33,
+        "maxLat": 50.9,
+        "maxLng": 4.37
+      }
+    },
+    "be/east-flanders/ghent": {
+      "name": "Ghent",
+      "bbox": {
+        "minLat": 51.05,
+        "minLng": 3.715,
+        "maxLat": 51.06,
+        "maxLng": 3.732
+      }
+    },
+    "be/flemish-brabant/leuven": {
+      "name": "Leuven",
+      "bbox": {
+        "minLat": 50.868,
+        "minLng": 4.695,
+        "maxLat": 50.882,
+        "maxLng": 4.705
+      }
+    },
+    "be/west-flanders/bruges": {
+      "name": "Bruges",
+      "bbox": {
+        "minLat": 51.198,
+        "minLng": 3.218,
+        "maxLat": 51.212,
+        "maxLng": 3.23
       }
     },
     "br/amazonas/manaus": {
@@ -9710,6 +9755,21 @@
     ],
     "133,51": [
       "fi/lapland/rovaniemi"
+    ],
+    "101,8": [
+      "be/brussels/brussels"
+    ],
+    "102,6": [
+      "be/west-flanders/bruges"
+    ],
+    "102,7": [
+      "be/east-flanders/ghent"
+    ],
+    "102,8": [
+      "be/antwerp/antwerp"
+    ],
+    "101,9": [
+      "be/flemish-brabant/leuven"
     ]
   }
 }

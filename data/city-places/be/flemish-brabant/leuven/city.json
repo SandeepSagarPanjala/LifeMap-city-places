@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "be/flemish-brabant/leuven",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "stateCode": "VBR",
+  "stateName": "Flemish Brabant",
+  "cityName": "Leuven",
+  "bbox": {
+    "minLat": 50.868,
+    "minLng": 4.695,
+    "maxLat": 50.882,
+    "maxLng": 4.705
+  },
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "leuven-town-hall",
+      "name": "Leuven Town Hall",
+      "lat": 50.8791,
+      "lng": 4.7011,
+      "radiusM": 80,
+      "address": "Grote Markt 9",
+      "howTo": "Visit Leuven Town Hall.",
+      "badge": "badges/leuven-town-hall.png"
+    },
+    {
+      "id": "groot-begijnhof",
+      "name": "Groot Begijnhof",
+      "lat": 50.8717,
+      "lng": 4.6983,
+      "radiusM": 200,
+      "address": "Groot Begijnhof",
+      "howTo": "Visit Groot Begijnhof.",
+      "badge": "badges/groot-begijnhof.png"
+    }
+  ]
+}

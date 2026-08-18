@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "be/brussels/brussels",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "stateCode": "BRU",
+  "stateName": "Brussels-Capital",
+  "cityName": "Brussels",
+  "bbox": {
+    "minLat": 50.84,
+    "minLng": 4.33,
+    "maxLat": 50.9,
+    "maxLng": 4.37
+  },
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grand-place-brussels",
+      "name": "Grand Place",
+      "lat": 50.8467,
+      "lng": 4.3525,
+      "radiusM": 120,
+      "address": "Grand Place",
+      "howTo": "Visit Grand Place.",
+      "badge": "badges/grand-place-brussels.png"
+    },
+    {
+      "id": "atomium",
+      "name": "Atomium",
+      "lat": 50.8947,
+      "lng": 4.3414,
+      "radiusM": 150,
+      "address": "Square de l Atomium",
+      "howTo": "Visit Atomium.",
+      "badge": "badges/atomium.png"
+    },
+    {
+      "id": "manneken-pis",
+      "name": "Manneken Pis",
+      "lat": 50.845,
+      "lng": 4.3499,
+      "radiusM": 60,
+      "address": "Rue de l Etuve",
+      "howTo": "Visit Manneken Pis.",
+      "badge": "badges/manneken-pis.png"
+    },
+    {
+      "id": "mont-des-arts",
+      "name": "Mont des Arts",
+      "lat": 50.8422,
+      "lng": 4.3592,
+      "radiusM": 150,
+      "address": "Mont des Arts",
+      "howTo": "Visit Mont des Arts.",
+      "badge": "badges/mont-des-arts.png"
+    }
+  ]
+}

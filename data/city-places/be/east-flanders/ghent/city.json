@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "be/east-flanders/ghent",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "stateCode": "VOV",
+  "stateName": "East Flanders",
+  "cityName": "Ghent",
+  "bbox": {
+    "minLat": 51.05,
+    "minLng": 3.715,
+    "maxLat": 51.06,
+    "maxLng": 3.732
+  },
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gravensteen",
+      "name": "Gravensteen",
+      "lat": 51.0574,
+      "lng": 3.7208,
+      "radiusM": 120,
+      "address": "Sint-Veerleplein 11",
+      "howTo": "Visit Gravensteen.",
+      "badge": "badges/gravensteen.png"
+    },
+    {
+      "id": "sint-baafs",
+      "name": "St Bavo's Cathedral",
+      "lat": 51.053,
+      "lng": 3.727,
+      "radiusM": 120,
+      "address": "Sint-Baafsplein",
+      "howTo": "Visit St Bavo's Cathedral.",
+      "badge": "badges/sint-baafs.png"
+    }
+  ]
+}

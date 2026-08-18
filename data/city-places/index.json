@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T08:00:00.000Z",
-  "notes": "Queue through Finland complete. Next: Belgium (be) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "notes": "Queue through Belgium complete. Next: Taiwan (tw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12430,6 +12430,118 @@
                 "minLng": 25.73,
                 "maxLat": 66.55,
                 "maxLng": 25.86
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be",
+      "countryCode": "BE",
+      "name": "Belgium",
+      "states": [
+        {
+          "id": "brussels",
+          "stateCode": "BRU",
+          "name": "Brussels-Capital",
+          "cities": [
+            {
+              "id": "brussels",
+              "name": "Brussels",
+              "status": "complete",
+              "packPath": "be/brussels/brussels/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T08:15:00.000Z",
+              "bbox": {
+                "minLat": 50.84,
+                "minLng": 4.33,
+                "maxLat": 50.9,
+                "maxLng": 4.37
+              }
+            }
+          ]
+        },
+        {
+          "id": "west-flanders",
+          "stateCode": "VWV",
+          "name": "West Flanders",
+          "cities": [
+            {
+              "id": "bruges",
+              "name": "Bruges",
+              "status": "complete",
+              "packPath": "be/west-flanders/bruges/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:15:00.000Z",
+              "bbox": {
+                "minLat": 51.198,
+                "minLng": 3.218,
+                "maxLat": 51.212,
+                "maxLng": 3.23
+              }
+            }
+          ]
+        },
+        {
+          "id": "east-flanders",
+          "stateCode": "VOV",
+          "name": "East Flanders",
+          "cities": [
+            {
+              "id": "ghent",
+              "name": "Ghent",
+              "status": "complete",
+              "packPath": "be/east-flanders/ghent/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:15:00.000Z",
+              "bbox": {
+                "minLat": 51.05,
+                "minLng": 3.715,
+                "maxLat": 51.06,
+                "maxLng": 3.732
+              }
+            }
+          ]
+        },
+        {
+          "id": "antwerp",
+          "stateCode": "VAN",
+          "name": "Antwerp",
+          "cities": [
+            {
+              "id": "antwerp",
+              "name": "Antwerp",
+              "status": "complete",
+              "packPath": "be/antwerp/antwerp/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:15:00.000Z",
+              "bbox": {
+                "minLat": 51.218,
+                "minLng": 4.396,
+                "maxLat": 51.224,
+                "maxLng": 4.405
+              }
+            }
+          ]
+        },
+        {
+          "id": "flemish-brabant",
+          "stateCode": "VBR",
+          "name": "Flemish Brabant",
+          "cities": [
+            {
+              "id": "leuven",
+              "name": "Leuven",
+              "status": "complete",
+              "packPath": "be/flemish-brabant/leuven/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:15:00.000Z",
+              "bbox": {
+                "minLat": 50.868,
+                "minLng": 4.695,
+                "maxLat": 50.882,
+                "maxLng": 4.705
               }
             }
           ]
