@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:42:06.000Z",
-  "notes": "Ghana (gh) complete. Next: Kazakhstan (kz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "notes": "Kazakhstan (kz) complete. Next: Mongolia (mn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17638,6 +17638,111 @@
                 "minLng": -1.8585,
                 "maxLat": 9.2625,
                 "maxLng": -1.8515
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kz",
+      "countryCode": "KZ",
+      "name": "Kazakhstan",
+      "states": [
+        {
+          "id": "almaty",
+          "stateCode": "ALA",
+          "name": "Almaty",
+          "cities": [
+            {
+              "id": "almaty",
+              "name": "Almaty",
+              "status": "complete",
+              "packPath": "kz/almaty/almaty/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:47:54.000Z",
+              "bbox": {
+                "minLat": 43.23,
+                "minLng": 76.95,
+                "maxLat": 43.262,
+                "maxLng": 76.979
+              }
+            },
+            {
+              "id": "big-almaty-lake",
+              "name": "Big Almaty Lake",
+              "status": "complete",
+              "packPath": "kz/almaty/big-almaty-lake/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:47:54.000Z",
+              "bbox": {
+                "minLat": 43.049,
+                "minLng": 76.968,
+                "maxLat": 43.06,
+                "maxLng": 76.988
+              }
+            }
+          ]
+        },
+        {
+          "id": "astana",
+          "stateCode": "AST",
+          "name": "Astana",
+          "cities": [
+            {
+              "id": "astana",
+              "name": "Astana",
+              "status": "complete",
+              "packPath": "kz/astana/astana/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:47:54.000Z",
+              "bbox": {
+                "minLat": 51.126,
+                "minLng": 71.403,
+                "maxLat": 51.134,
+                "maxLng": 71.434
+              }
+            }
+          ]
+        },
+        {
+          "id": "almaty-region",
+          "stateCode": "ALM",
+          "name": "Almaty Region",
+          "cities": [
+            {
+              "id": "charyn",
+              "name": "Charyn",
+              "status": "complete",
+              "packPath": "kz/almaty-region/charyn/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:47:54.000Z",
+              "bbox": {
+                "minLat": 43.348,
+                "minLng": 79.052,
+                "maxLat": 43.358,
+                "maxLng": 79.084
+              }
+            }
+          ]
+        },
+        {
+          "id": "turkistan",
+          "stateCode": "YUZ",
+          "name": "Turkistan",
+          "cities": [
+            {
+              "id": "turkestan",
+              "name": "Turkestan",
+              "status": "complete",
+              "packPath": "kz/turkistan/turkestan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:47:54.000Z",
+              "bbox": {
+                "minLat": 43.293,
+                "minLng": 68.266,
+                "maxLat": 43.3,
+                "maxLng": 68.274
               }
             }
           ]

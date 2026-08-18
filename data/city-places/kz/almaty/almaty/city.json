@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kz/almaty/almaty",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "stateCode": "ALA",
+  "stateName": "Almaty",
+  "cityName": "Almaty",
+  "bbox": {
+    "minLat": 43.23,
+    "minLng": 76.95,
+    "maxLat": 43.262,
+    "maxLng": 76.979
+  },
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kok-tobe",
+      "name": "Kok Tobe",
+      "lat": 43.2331,
+      "lng": 76.97553,
+      "radiusM": 120,
+      "address": "Almaty",
+      "howTo": "Visit Kok Tobe.",
+      "badge": "badges/kok-tobe.png"
+    },
+    {
+      "id": "zenkov-cathedral",
+      "name": "Zenkov Cathedral",
+      "lat": 43.25879,
+      "lng": 76.95311,
+      "radiusM": 60,
+      "address": "Almaty",
+      "howTo": "Visit Zenkov Cathedral.",
+      "badge": "badges/zenkov-cathedral.png"
+    }
+  ]
+}

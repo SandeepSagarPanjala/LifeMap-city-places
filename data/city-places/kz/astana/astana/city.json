@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kz/astana/astana",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "stateCode": "AST",
+  "stateName": "Astana",
+  "cityName": "Astana",
+  "bbox": {
+    "minLat": 51.126,
+    "minLng": 71.403,
+    "maxLat": 51.134,
+    "maxLng": 71.434
+  },
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bayterek",
+      "name": "Bayterek",
+      "lat": 51.12829,
+      "lng": 71.43046,
+      "radiusM": 80,
+      "address": "Astana",
+      "howTo": "Visit Bayterek.",
+      "badge": "badges/bayterek.png"
+    },
+    {
+      "id": "khan-shatyr",
+      "name": "Khan Shatyr",
+      "lat": 51.13115,
+      "lng": 71.40655,
+      "radiusM": 80,
+      "address": "Astana",
+      "howTo": "Visit Khan Shatyr.",
+      "badge": "badges/khan-shatyr.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kz/almaty/big-almaty-lake",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "stateCode": "ALA",
+  "stateName": "Almaty",
+  "cityName": "Big Almaty Lake",
+  "bbox": {
+    "minLat": 43.049,
+    "minLng": 76.968,
+    "maxLat": 43.06,
+    "maxLng": 76.988
+  },
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "big-almaty-lake",
+      "name": "Big Almaty Lake",
+      "lat": 43.05103,
+      "lng": 76.98539,
+      "radiusM": 200,
+      "address": "Almaty",
+      "howTo": "Visit Big Almaty Lake.",
+      "badge": "badges/big-almaty-lake.png"
+    },
+    {
+      "id": "tien-shan-observatory",
+      "name": "Tien Shan Observatory",
+      "lat": 43.05785,
+      "lng": 76.97147,
+      "radiusM": 80,
+      "address": "Almaty",
+      "howTo": "Visit Tien Shan Observatory.",
+      "badge": "badges/tien-shan-observatory.png"
+    }
+  ]
+}

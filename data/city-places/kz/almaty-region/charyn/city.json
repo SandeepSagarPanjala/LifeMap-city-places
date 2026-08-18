@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kz/almaty-region/charyn",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "stateCode": "ALM",
+  "stateName": "Almaty Region",
+  "cityName": "Charyn",
+  "bbox": {
+    "minLat": 43.348,
+    "minLng": 79.052,
+    "maxLat": 43.358,
+    "maxLng": 79.084
+  },
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "valley-of-castles",
+      "name": "Valley of Castles",
+      "lat": 43.35602,
+      "lng": 79.05517,
+      "radiusM": 200,
+      "address": "Charyn Canyon",
+      "howTo": "Visit Valley of Castles.",
+      "badge": "badges/valley-of-castles.png"
+    },
+    {
+      "id": "charyn-canyon",
+      "name": "Charyn Canyon",
+      "lat": 43.3505,
+      "lng": 79.08134,
+      "radiusM": 200,
+      "address": "Charyn Canyon",
+      "howTo": "Visit Charyn Canyon.",
+      "badge": "badges/charyn-canyon.png"
+    }
+  ]
+}

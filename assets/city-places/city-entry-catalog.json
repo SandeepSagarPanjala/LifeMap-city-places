@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:42:06.699Z",
+  "generatedAt": "2026-08-18T23:47:54.908Z",
   "cellDeg": 0.5,
-  "cityCount": 924,
+  "cityCount": 929,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -4547,6 +4547,51 @@
         "minLng": 47.673,
         "maxLat": 29.342,
         "maxLng": 47.682
+      }
+    },
+    "kz/almaty-region/charyn": {
+      "name": "Charyn",
+      "bbox": {
+        "minLat": 43.348,
+        "minLng": 79.052,
+        "maxLat": 43.358,
+        "maxLng": 79.084
+      }
+    },
+    "kz/almaty/almaty": {
+      "name": "Almaty",
+      "bbox": {
+        "minLat": 43.23,
+        "minLng": 76.95,
+        "maxLat": 43.262,
+        "maxLng": 76.979
+      }
+    },
+    "kz/almaty/big-almaty-lake": {
+      "name": "Big Almaty Lake",
+      "bbox": {
+        "minLat": 43.049,
+        "minLng": 76.968,
+        "maxLat": 43.06,
+        "maxLng": 76.988
+      }
+    },
+    "kz/astana/astana": {
+      "name": "Astana",
+      "bbox": {
+        "minLat": 51.126,
+        "minLng": 71.403,
+        "maxLat": 51.134,
+        "maxLng": 71.434
+      }
+    },
+    "kz/turkistan/turkestan": {
+      "name": "Turkestan",
+      "bbox": {
+        "minLat": 43.293,
+        "minLng": 68.266,
+        "maxLat": 43.3,
+        "maxLng": 68.274
       }
     },
     "la/champasak/champasak": {
@@ -12685,6 +12730,19 @@
     ],
     "18,-4": [
       "gh/savannah/mole"
+    ],
+    "86,153": [
+      "kz/almaty/almaty",
+      "kz/almaty/big-almaty-lake"
+    ],
+    "102,142": [
+      "kz/astana/astana"
+    ],
+    "86,158": [
+      "kz/almaty-region/charyn"
+    ],
+    "86,136": [
+      "kz/turkistan/turkestan"
     ]
   }
 }

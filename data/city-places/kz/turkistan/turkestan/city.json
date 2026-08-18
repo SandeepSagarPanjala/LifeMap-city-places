@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kz/turkistan/turkestan",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "stateCode": "YUZ",
+  "stateName": "Turkistan",
+  "cityName": "Turkestan",
+  "bbox": {
+    "minLat": 43.293,
+    "minLng": 68.266,
+    "maxLat": 43.3,
+    "maxLng": 68.274
+  },
+  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "yasawi-mausoleum",
+      "name": "Yasawi Mausoleum",
+      "lat": 43.29771,
+      "lng": 68.27096,
+      "radiusM": 80,
+      "address": "Turkestan",
+      "howTo": "Visit Yasawi Mausoleum.",
+      "badge": "badges/yasawi-mausoleum.png"
+    },
+    {
+      "id": "azret-sultan",
+      "name": "Azret Sultan",
+      "lat": 43.29485,
+      "lng": 68.26806,
+      "radiusM": 80,
+      "address": "Turkestan",
+      "howTo": "Visit Azret Sultan.",
+      "badge": "badges/azret-sultan.png"
+    }
+  ]
+}
