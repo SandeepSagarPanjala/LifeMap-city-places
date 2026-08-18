@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "qa/ad-dawhah/doha",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "stateCode": "DA",
+  "stateName": "Ad Dawhah",
+  "cityName": "Doha",
+  "bbox": {
+    "minLat": 25.28,
+    "minLng": 51.5,
+    "maxLat": 25.37,
+    "maxLng": 51.545
+  },
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "souq-waqif",
+      "name": "Souq Waqif",
+      "lat": 25.2865,
+      "lng": 51.533,
+      "radiusM": 150,
+      "address": "Doha",
+      "howTo": "Visit Souq Waqif.",
+      "badge": "badges/souq-waqif.png"
+    },
+    {
+      "id": "museum-of-islamic-art",
+      "name": "Museum of Islamic Art",
+      "lat": 25.295,
+      "lng": 51.539,
+      "radiusM": 120,
+      "address": "Corniche",
+      "howTo": "Visit Museum of Islamic Art.",
+      "badge": "badges/museum-of-islamic-art.png"
+    },
+    {
+      "id": "katara",
+      "name": "Katara Cultural Village",
+      "lat": 25.359,
+      "lng": 51.528,
+      "radiusM": 200,
+      "address": "Katara",
+      "howTo": "Visit Katara Cultural Village.",
+      "badge": "badges/katara.png"
+    }
+  ]
+}

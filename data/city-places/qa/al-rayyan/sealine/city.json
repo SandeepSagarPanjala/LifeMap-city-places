@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "qa/al-rayyan/sealine",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "stateCode": "RA",
+  "stateName": "Al Rayyan",
+  "cityName": "Sealine",
+  "bbox": {
+    "minLat": 24.62,
+    "minLng": 51.28,
+    "maxLat": 24.86,
+    "maxLng": 51.52
+  },
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "inland-sea",
+      "name": "Inland Sea",
+      "lat": 24.64,
+      "lng": 51.32,
+      "radiusM": 400,
+      "address": "Khor Al Adaid",
+      "howTo": "Visit Inland Sea.",
+      "badge": "badges/inland-sea.png"
+    },
+    {
+      "id": "sealine-beach",
+      "name": "Sealine Beach",
+      "lat": 24.85,
+      "lng": 51.51,
+      "radiusM": 250,
+      "address": "Mesaieed",
+      "howTo": "Visit Sealine Beach.",
+      "badge": "badges/sealine-beach.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "qa/al-wakrah/al-wakrah",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "stateCode": "WA",
+  "stateName": "Al Wakrah",
+  "cityName": "Al Wakrah",
+  "bbox": {
+    "minLat": 25.16,
+    "minLng": 51.595,
+    "maxLat": 25.175,
+    "maxLng": 51.615
+  },
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-wakrah-souq",
+      "name": "Al Wakrah Souq",
+      "lat": 25.168,
+      "lng": 51.606,
+      "radiusM": 150,
+      "address": "Al Wakrah",
+      "howTo": "Visit Al Wakrah Souq.",
+      "badge": "badges/al-wakrah-souq.png"
+    },
+    {
+      "id": "al-wakrah-beach",
+      "name": "Al Wakrah Beach",
+      "lat": 25.165,
+      "lng": 51.61,
+      "radiusM": 200,
+      "address": "Al Wakrah",
+      "howTo": "Visit Al Wakrah Beach.",
+      "badge": "badges/al-wakrah-beach.png"
+    }
+  ]
+}

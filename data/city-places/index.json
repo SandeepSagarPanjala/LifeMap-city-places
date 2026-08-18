@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:48:12.000Z",
-  "notes": "Oman (om) complete. Next: Qatar (qa) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "notes": "Qatar (qa) complete. Next: Serbia (rs) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14880,6 +14880,118 @@
                 "minLng": 59.04,
                 "maxLat": 22.85,
                 "maxLng": 59.85
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "countryCode": "QA",
+      "name": "Qatar",
+      "states": [
+        {
+          "id": "ad-dawhah",
+          "stateCode": "DA",
+          "name": "Ad Dawhah",
+          "cities": [
+            {
+              "id": "doha",
+              "name": "Doha",
+              "status": "complete",
+              "packPath": "qa/ad-dawhah/doha/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:52:33.000Z",
+              "bbox": {
+                "minLat": 25.28,
+                "minLng": 51.5,
+                "maxLat": 25.37,
+                "maxLng": 51.545
+              }
+            }
+          ]
+        },
+        {
+          "id": "al-shamal",
+          "stateCode": "MS",
+          "name": "Al Shamal",
+          "cities": [
+            {
+              "id": "al-zubarah",
+              "name": "Al Zubarah",
+              "status": "complete",
+              "packPath": "qa/al-shamal/al-zubarah/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:52:33.000Z",
+              "bbox": {
+                "minLat": 25.97,
+                "minLng": 51.025,
+                "maxLat": 25.985,
+                "maxLng": 51.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "al-wakrah",
+          "stateCode": "WA",
+          "name": "Al Wakrah",
+          "cities": [
+            {
+              "id": "al-wakrah",
+              "name": "Al Wakrah",
+              "status": "complete",
+              "packPath": "qa/al-wakrah/al-wakrah/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:52:33.000Z",
+              "bbox": {
+                "minLat": 25.16,
+                "minLng": 51.595,
+                "maxLat": 25.175,
+                "maxLng": 51.615
+              }
+            }
+          ]
+        },
+        {
+          "id": "al-khor",
+          "stateCode": "KH",
+          "name": "Al Khor",
+          "cities": [
+            {
+              "id": "al-khor",
+              "name": "Al Khor",
+              "status": "complete",
+              "packPath": "qa/al-khor/al-khor/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T02:52:33.000Z",
+              "bbox": {
+                "minLat": 25.67,
+                "minLng": 51.49,
+                "maxLat": 25.69,
+                "maxLng": 51.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "al-rayyan",
+          "stateCode": "RA",
+          "name": "Al Rayyan",
+          "cities": [
+            {
+              "id": "sealine",
+              "name": "Sealine",
+              "status": "complete",
+              "packPath": "qa/al-rayyan/sealine/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:52:33.000Z",
+              "bbox": {
+                "minLat": 24.62,
+                "minLng": 51.28,
+                "maxLat": 24.86,
+                "maxLng": 51.52
               }
             }
           ]

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:48:13.005Z",
+  "generatedAt": "2026-08-18T02:52:33.484Z",
   "cellDeg": 0.5,
-  "cityCount": 794,
+  "cityCount": 799,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4988,6 +4988,51 @@
         "minLng": -8.63,
         "maxLat": 41.15,
         "maxLng": -8.6
+      }
+    },
+    "qa/ad-dawhah/doha": {
+      "name": "Doha",
+      "bbox": {
+        "minLat": 25.28,
+        "minLng": 51.5,
+        "maxLat": 25.37,
+        "maxLng": 51.545
+      }
+    },
+    "qa/al-khor/al-khor": {
+      "name": "Al Khor",
+      "bbox": {
+        "minLat": 25.67,
+        "minLng": 51.49,
+        "maxLat": 25.69,
+        "maxLng": 51.52
+      }
+    },
+    "qa/al-rayyan/sealine": {
+      "name": "Sealine",
+      "bbox": {
+        "minLat": 24.62,
+        "minLng": 51.28,
+        "maxLat": 24.86,
+        "maxLng": 51.52
+      }
+    },
+    "qa/al-shamal/al-zubarah": {
+      "name": "Al Zubarah",
+      "bbox": {
+        "minLat": 25.97,
+        "minLng": 51.025,
+        "maxLat": 25.985,
+        "maxLng": 51.05
+      }
+    },
+    "qa/al-wakrah/al-wakrah": {
+      "name": "Al Wakrah",
+      "bbox": {
+        "minLat": 25.16,
+        "minLng": 51.595,
+        "maxLat": 25.175,
+        "maxLng": 51.615
       }
     },
     "ro/brasov/bran": {
@@ -11137,6 +11182,23 @@
     ],
     "45,119": [
       "om/ash-sharqiyah/sur"
+    ],
+    "50,103": [
+      "qa/ad-dawhah/doha",
+      "qa/al-wakrah/al-wakrah"
+    ],
+    "51,102": [
+      "qa/al-khor/al-khor",
+      "qa/al-shamal/al-zubarah"
+    ],
+    "51,103": [
+      "qa/al-khor/al-khor"
+    ],
+    "49,102": [
+      "qa/al-rayyan/sealine"
+    ],
+    "49,103": [
+      "qa/al-rayyan/sealine"
     ]
   }
 }

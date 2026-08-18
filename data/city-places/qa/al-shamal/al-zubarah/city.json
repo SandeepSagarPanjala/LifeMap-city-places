@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "qa/al-shamal/al-zubarah",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "stateCode": "MS",
+  "stateName": "Al Shamal",
+  "cityName": "Al Zubarah",
+  "bbox": {
+    "minLat": 25.97,
+    "minLng": 51.025,
+    "maxLat": 25.985,
+    "maxLng": 51.05
+  },
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-zubarah-fort",
+      "name": "Al Zubarah Fort",
+      "lat": 25.978,
+      "lng": 51.037,
+      "radiusM": 120,
+      "address": "Al Zubarah",
+      "howTo": "Visit Al Zubarah Fort.",
+      "badge": "badges/al-zubarah-fort.png"
+    },
+    {
+      "id": "al-zubarah-town",
+      "name": "Al Zubarah Town",
+      "lat": 25.9785,
+      "lng": 51.045,
+      "radiusM": 200,
+      "address": "UNESCO site",
+      "howTo": "Visit Al Zubarah Town.",
+      "badge": "badges/al-zubarah-town.png"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "qa/al-khor/al-khor",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "stateCode": "KH",
+  "stateName": "Al Khor",
+  "cityName": "Al Khor",
+  "bbox": {
+    "minLat": 25.67,
+    "minLng": 51.49,
+    "maxLat": 25.69,
+    "maxLng": 51.52
+  },
+  "updatedAt": "2026-08-18T02:52:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-khor-corniche",
+      "name": "Al Khor Corniche",
+      "lat": 25.68,
+      "lng": 51.51,
+      "radiusM": 200,
+      "address": "Al Khor",
+      "howTo": "Visit Al Khor Corniche.",
+      "badge": "badges/al-khor-corniche.png"
+    }
+  ]
+}
