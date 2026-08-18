@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T05:30:00.000Z",
-  "notes": "Queue through Czech Republic complete. Next: Austria (at) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "notes": "Queue through Austria complete. Next: Norway (no) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11485,6 +11485,97 @@
                 "minLng": 16.59,
                 "maxLat": 49.21,
                 "maxLng": 16.62
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "at",
+      "countryCode": "AT",
+      "name": "Austria",
+      "states": [
+        {
+          "id": "vienna",
+          "stateCode": "W",
+          "name": "Vienna",
+          "cities": [
+            {
+              "id": "vienna",
+              "name": "Vienna",
+              "status": "complete",
+              "packPath": "at/vienna/vienna/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T05:45:00.000Z",
+              "bbox": {
+                "minLat": 48.18,
+                "minLng": 16.35,
+                "maxLat": 48.22,
+                "maxLng": 16.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "salzburg",
+          "stateCode": "S",
+          "name": "Salzburg",
+          "cities": [
+            {
+              "id": "salzburg",
+              "name": "Salzburg",
+              "status": "complete",
+              "packPath": "at/salzburg/salzburg/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T05:45:00.000Z",
+              "bbox": {
+                "minLat": 47.79,
+                "minLng": 13.03,
+                "maxLat": 47.81,
+                "maxLng": 13.06
+              }
+            }
+          ]
+        },
+        {
+          "id": "tyrol",
+          "stateCode": "T",
+          "name": "Tyrol",
+          "cities": [
+            {
+              "id": "innsbruck",
+              "name": "Innsbruck",
+              "status": "complete",
+              "packPath": "at/tyrol/innsbruck/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:45:00.000Z",
+              "bbox": {
+                "minLat": 47.25,
+                "minLng": 11.38,
+                "maxLat": 47.28,
+                "maxLng": 11.41
+              }
+            }
+          ]
+        },
+        {
+          "id": "upper-austria",
+          "stateCode": "OOE",
+          "name": "Upper Austria",
+          "cities": [
+            {
+              "id": "hallstatt",
+              "name": "Hallstatt",
+              "status": "complete",
+              "packPath": "at/upper-austria/hallstatt/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:45:00.000Z",
+              "bbox": {
+                "minLat": 47.55,
+                "minLng": 13.64,
+                "maxLat": 47.57,
+                "maxLng": 13.66
               }
             }
           ]

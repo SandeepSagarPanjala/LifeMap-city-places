@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "at/upper-austria/hallstatt",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "stateCode": "OOE",
+  "stateName": "Upper Austria",
+  "cityName": "Hallstatt",
+  "bbox": {
+    "minLat": 47.55,
+    "minLng": 13.64,
+    "maxLat": 47.57,
+    "maxLng": 13.66
+  },
+  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hallstatt-village",
+      "name": "Hallstatt Village",
+      "lat": 47.5622,
+      "lng": 13.6493,
+      "radiusM": 200,
+      "address": "Hallstatt",
+      "howTo": "Visit Hallstatt Village.",
+      "badge": "badges/hallstatt-village.png"
+    },
+    {
+      "id": "hallstatt-skywalk",
+      "name": "Hallstatt Skywalk",
+      "lat": 47.561,
+      "lng": 13.647,
+      "radiusM": 150,
+      "address": "Salzwelten",
+      "howTo": "Visit Hallstatt Skywalk.",
+      "badge": "badges/hallstatt-skywalk.png"
+    }
+  ]
+}

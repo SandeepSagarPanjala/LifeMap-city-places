@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:15:40.698Z",
+  "generatedAt": "2026-08-18T00:19:17.563Z",
   "cellDeg": 0.5,
-  "cityCount": 636,
+  "cityCount": 640,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -83,6 +83,42 @@
         "minLng": -68.32,
         "maxLat": -54.78,
         "maxLng": -68.28
+      }
+    },
+    "at/salzburg/salzburg": {
+      "name": "Salzburg",
+      "bbox": {
+        "minLat": 47.79,
+        "minLng": 13.03,
+        "maxLat": 47.81,
+        "maxLng": 13.06
+      }
+    },
+    "at/tyrol/innsbruck": {
+      "name": "Innsbruck",
+      "bbox": {
+        "minLat": 47.25,
+        "minLng": 11.38,
+        "maxLat": 47.28,
+        "maxLng": 11.41
+      }
+    },
+    "at/upper-austria/hallstatt": {
+      "name": "Hallstatt",
+      "bbox": {
+        "minLat": 47.55,
+        "minLng": 13.64,
+        "maxLat": 47.57,
+        "maxLng": 13.66
+      }
+    },
+    "at/vienna/vienna": {
+      "name": "Vienna",
+      "bbox": {
+        "minLat": 48.18,
+        "minLng": 16.35,
+        "maxLat": 48.22,
+        "maxLng": 16.4
       }
     },
     "au/australian-capital-territory/canberra": {
@@ -9118,6 +9154,18 @@
     ],
     "98,33": [
       "cz/south-moravia/brno"
+    ],
+    "96,32": [
+      "at/vienna/vienna"
+    ],
+    "95,26": [
+      "at/salzburg/salzburg"
+    ],
+    "94,22": [
+      "at/tyrol/innsbruck"
+    ],
+    "95,27": [
+      "at/upper-austria/hallstatt"
     ]
   }
 }

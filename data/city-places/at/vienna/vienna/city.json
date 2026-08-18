@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "at/vienna/vienna",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "stateCode": "W",
+  "stateName": "Vienna",
+  "cityName": "Vienna",
+  "bbox": {
+    "minLat": 48.18,
+    "minLng": 16.35,
+    "maxLat": 48.22,
+    "maxLng": 16.4
+  },
+  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "schonbrunn-palace",
+      "name": "Schonbrunn Palace",
+      "lat": 48.1845,
+      "lng": 16.3122,
+      "radiusM": 250,
+      "address": "Schonbrunn",
+      "howTo": "Visit Schonbrunn Palace.",
+      "badge": "badges/schonbrunn-palace.png"
+    },
+    {
+      "id": "st-stephens-cathedral-vienna",
+      "name": "St Stephen's Cathedral",
+      "lat": 48.2085,
+      "lng": 16.3731,
+      "radiusM": 120,
+      "address": "Stephansplatz",
+      "howTo": "Visit St Stephen's Cathedral.",
+      "badge": "badges/st-stephens-cathedral-vienna.png"
+    },
+    {
+      "id": "hofburg",
+      "name": "Hofburg Palace",
+      "lat": 48.2065,
+      "lng": 16.365,
+      "radiusM": 200,
+      "address": "Innere Stadt",
+      "howTo": "Visit Hofburg Palace.",
+      "badge": "badges/hofburg.png"
+    },
+    {
+      "id": "belvedere-palace",
+      "name": "Belvedere Palace",
+      "lat": 48.1915,
+      "lng": 16.3808,
+      "radiusM": 200,
+      "address": "Landstrasse",
+      "howTo": "Visit Belvedere Palace.",
+      "badge": "badges/belvedere-palace.png"
+    },
+    {
+      "id": "prater-ferris-wheel",
+      "name": "Wiener Riesenrad",
+      "lat": 48.2166,
+      "lng": 16.3958,
+      "radiusM": 150,
+      "address": "Prater",
+      "howTo": "Visit Wiener Riesenrad.",
+      "badge": "badges/prater-ferris-wheel.png"
+    }
+  ]
+}

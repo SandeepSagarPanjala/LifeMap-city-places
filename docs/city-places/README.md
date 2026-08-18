@@ -79,7 +79,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 33. `cl` — Chile (**complete**)
 34. `ie` — Ireland (**complete**)
 35. `cz` — Czech Republic (**complete**)
-36. `at` — Austria
+36. `at` — Austria (**complete**)
+37. `no` — Norway
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

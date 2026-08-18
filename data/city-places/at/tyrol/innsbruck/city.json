@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "at/tyrol/innsbruck",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "stateCode": "T",
+  "stateName": "Tyrol",
+  "cityName": "Innsbruck",
+  "bbox": {
+    "minLat": 47.25,
+    "minLng": 11.38,
+    "maxLat": 47.28,
+    "maxLng": 11.41
+  },
+  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golden-roof",
+      "name": "Golden Roof",
+      "lat": 47.2685,
+      "lng": 11.3933,
+      "radiusM": 80,
+      "address": "Altstadt",
+      "howTo": "Visit Golden Roof.",
+      "badge": "badges/golden-roof.png"
+    },
+    {
+      "id": "nordkette",
+      "name": "Nordkette",
+      "lat": 47.286,
+      "lng": 11.395,
+      "radiusM": 300,
+      "address": "Hungerburg",
+      "howTo": "Visit Nordkette.",
+      "badge": "badges/nordkette.png"
+    }
+  ]
+}

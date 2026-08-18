@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "at/salzburg/salzburg",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "stateCode": "S",
+  "stateName": "Salzburg",
+  "cityName": "Salzburg",
+  "bbox": {
+    "minLat": 47.79,
+    "minLng": 13.03,
+    "maxLat": 47.81,
+    "maxLng": 13.06
+  },
+  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hohen-salzburg-fortress",
+      "name": "Hohensalzburg Fortress",
+      "lat": 47.795,
+      "lng": 13.047,
+      "radiusM": 200,
+      "address": "Festungsberg",
+      "howTo": "Visit Hohensalzburg Fortress.",
+      "badge": "badges/hohen-salzburg-fortress.png"
+    },
+    {
+      "id": "mirabell-palace",
+      "name": "Mirabell Palace Gardens",
+      "lat": 47.8055,
+      "lng": 13.0419,
+      "radiusM": 150,
+      "address": "Mirabell",
+      "howTo": "Visit Mirabell Palace Gardens.",
+      "badge": "badges/mirabell-palace.png"
+    },
+    {
+      "id": "mozart-birthplace",
+      "name": "Mozart's Birthplace",
+      "lat": 47.8,
+      "lng": 13.0439,
+      "radiusM": 80,
+      "address": "Getreidegasse",
+      "howTo": "Visit Mozart's Birthplace.",
+      "badge": "badges/mozart-birthplace.png"
+    }
+  ]
+}
