@@ -96,7 +96,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 50. `kh` — Cambodia (**complete**)
 51. `lk` — Sri Lanka (**complete**)
 52. `np` — Nepal (**complete**)
-53. `ke` — Kenya
+53. `ke` — Kenya (**complete**)
+54. `cr` — Costa Rica
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

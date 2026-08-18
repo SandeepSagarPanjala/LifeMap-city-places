@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T09:50:00.000Z",
-  "notes": "Queue through Nepal complete. Next: Kenya (ke) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "notes": "Queue through Kenya complete. Next: Costa Rica (cr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13284,6 +13284,118 @@
                 "minLng": 83.27,
                 "maxLat": 27.5,
                 "maxLng": 83.28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ke",
+      "countryCode": "KE",
+      "name": "Kenya",
+      "states": [
+        {
+          "id": "nairobi",
+          "stateCode": "30",
+          "name": "Nairobi",
+          "cities": [
+            {
+              "id": "nairobi",
+              "name": "Nairobi",
+              "status": "complete",
+              "packPath": "ke/nairobi/nairobi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T10:05:00.000Z",
+              "bbox": {
+                "minLat": -1.38,
+                "minLng": 36.74,
+                "maxLat": -1.28,
+                "maxLng": 36.86
+              }
+            }
+          ]
+        },
+        {
+          "id": "mombasa",
+          "stateCode": "1",
+          "name": "Mombasa",
+          "cities": [
+            {
+              "id": "mombasa",
+              "name": "Mombasa",
+              "status": "complete",
+              "packPath": "ke/mombasa/mombasa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:05:00.000Z",
+              "bbox": {
+                "minLat": -4.066,
+                "minLng": 39.674,
+                "maxLat": -4.058,
+                "maxLng": 39.684
+              }
+            }
+          ]
+        },
+        {
+          "id": "narok",
+          "stateCode": "33",
+          "name": "Narok",
+          "cities": [
+            {
+              "id": "maasai-mara",
+              "name": "Maasai Mara",
+              "status": "complete",
+              "packPath": "ke/narok/maasai-mara/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:05:00.000Z",
+              "bbox": {
+                "minLat": -1.55,
+                "minLng": 35.0,
+                "maxLat": -1.4,
+                "maxLng": 35.36
+              }
+            }
+          ]
+        },
+        {
+          "id": "lamu",
+          "stateCode": "5",
+          "name": "Lamu",
+          "cities": [
+            {
+              "id": "lamu",
+              "name": "Lamu",
+              "status": "complete",
+              "packPath": "ke/lamu/lamu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:05:00.000Z",
+              "bbox": {
+                "minLat": -2.3,
+                "minLng": 40.898,
+                "maxLat": -2.268,
+                "maxLng": 40.928
+              }
+            }
+          ]
+        },
+        {
+          "id": "nakuru",
+          "stateCode": "31",
+          "name": "Nakuru",
+          "cities": [
+            {
+              "id": "nakuru",
+              "name": "Nakuru",
+              "status": "complete",
+              "packPath": "ke/nakuru/nakuru/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:05:00.000Z",
+              "bbox": {
+                "minLat": -0.38,
+                "minLng": 36.06,
+                "maxLat": -0.25,
+                "maxLng": 36.1
               }
             }
           ]

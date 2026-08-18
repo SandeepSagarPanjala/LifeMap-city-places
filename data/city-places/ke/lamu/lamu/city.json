@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ke/lamu/lamu",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "stateCode": "5",
+  "stateName": "Lamu",
+  "cityName": "Lamu",
+  "bbox": {
+    "minLat": -2.3,
+    "minLng": 40.898,
+    "maxLat": -2.268,
+    "maxLng": 40.928
+  },
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lamu-old-town",
+      "name": "Lamu Old Town",
+      "lat": -2.2714,
+      "lng": 40.9021,
+      "radiusM": 200,
+      "address": "Lamu Island",
+      "howTo": "Visit Lamu Old Town.",
+      "badge": "badges/lamu-old-town.png"
+    },
+    {
+      "id": "shela-beach",
+      "name": "Shela Beach",
+      "lat": -2.2975,
+      "lng": 40.9244,
+      "radiusM": 200,
+      "address": "Shela",
+      "howTo": "Visit Shela Beach.",
+      "badge": "badges/shela-beach.png"
+    }
+  ]
+}

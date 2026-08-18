@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ke/narok/maasai-mara",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "stateCode": "33",
+  "stateName": "Narok",
+  "cityName": "Maasai Mara",
+  "bbox": {
+    "minLat": -1.55,
+    "minLng": 35.0,
+    "maxLat": -1.4,
+    "maxLng": 35.36
+  },
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sekenani-gate",
+      "name": "Sekenani Gate",
+      "lat": -1.5267,
+      "lng": 35.3514,
+      "radiusM": 200,
+      "address": "Maasai Mara",
+      "howTo": "Visit Sekenani Gate.",
+      "badge": "badges/sekenani-gate.png"
+    },
+    {
+      "id": "mara-river",
+      "name": "Mara River",
+      "lat": -1.431,
+      "lng": 35.214,
+      "radiusM": 300,
+      "address": "Maasai Mara",
+      "howTo": "Visit Mara River.",
+      "badge": "badges/mara-river.png"
+    }
+  ]
+}

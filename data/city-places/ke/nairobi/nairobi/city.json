@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ke/nairobi/nairobi",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "stateCode": "30",
+  "stateName": "Nairobi",
+  "cityName": "Nairobi",
+  "bbox": {
+    "minLat": -1.38,
+    "minLng": 36.74,
+    "maxLat": -1.28,
+    "maxLng": 36.86
+  },
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nairobi-national-park",
+      "name": "Nairobi National Park",
+      "lat": -1.3733,
+      "lng": 36.8589,
+      "radiusM": 400,
+      "address": "Main Gate",
+      "howTo": "Visit Nairobi National Park.",
+      "badge": "badges/nairobi-national-park.png"
+    },
+    {
+      "id": "giraffe-centre",
+      "name": "Giraffe Centre",
+      "lat": -1.3753,
+      "lng": 36.7456,
+      "radiusM": 120,
+      "address": "Langata",
+      "howTo": "Visit Giraffe Centre.",
+      "badge": "badges/giraffe-centre.png"
+    },
+    {
+      "id": "kicc",
+      "name": "KICC",
+      "lat": -1.2888,
+      "lng": 36.8234,
+      "radiusM": 100,
+      "address": "Harambee Avenue",
+      "howTo": "Visit KICC.",
+      "badge": "badges/kicc.png"
+    }
+  ]
+}

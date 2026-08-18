@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ke/mombasa/mombasa",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "stateCode": "1",
+  "stateName": "Mombasa",
+  "cityName": "Mombasa",
+  "bbox": {
+    "minLat": -4.066,
+    "minLng": 39.674,
+    "maxLat": -4.058,
+    "maxLng": 39.684
+  },
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fort-jesus",
+      "name": "Fort Jesus",
+      "lat": -4.0625,
+      "lng": 39.6794,
+      "radiusM": 120,
+      "address": "Nkrumah Road",
+      "howTo": "Visit Fort Jesus.",
+      "badge": "badges/fort-jesus.png"
+    },
+    {
+      "id": "mombasa-old-town",
+      "name": "Mombasa Old Town",
+      "lat": -4.061,
+      "lng": 39.678,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Mombasa Old Town.",
+      "badge": "badges/mombasa-old-town.png"
+    }
+  ]
+}

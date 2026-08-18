@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:36:02.678Z",
+  "generatedAt": "2026-08-18T01:39:41.627Z",
   "cellDeg": 0.5,
-  "cityCount": 719,
+  "cityCount": 724,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3512,6 +3512,51 @@
         "minLng": 138.74,
         "maxLat": 35.52,
         "maxLng": 138.78
+      }
+    },
+    "ke/lamu/lamu": {
+      "name": "Lamu",
+      "bbox": {
+        "minLat": -2.3,
+        "minLng": 40.898,
+        "maxLat": -2.268,
+        "maxLng": 40.928
+      }
+    },
+    "ke/mombasa/mombasa": {
+      "name": "Mombasa",
+      "bbox": {
+        "minLat": -4.066,
+        "minLng": 39.674,
+        "maxLat": -4.058,
+        "maxLng": 39.684
+      }
+    },
+    "ke/nairobi/nairobi": {
+      "name": "Nairobi",
+      "bbox": {
+        "minLat": -1.38,
+        "minLng": 36.74,
+        "maxLat": -1.28,
+        "maxLng": 36.86
+      }
+    },
+    "ke/nakuru/nakuru": {
+      "name": "Nakuru",
+      "bbox": {
+        "minLat": -0.38,
+        "minLng": 36.06,
+        "maxLat": -0.25,
+        "maxLng": 36.1
+      }
+    },
+    "ke/narok/maasai-mara": {
+      "name": "Maasai Mara",
+      "bbox": {
+        "minLat": -1.55,
+        "minLng": 35,
+        "maxLat": -1.4,
+        "maxLng": 35.36
       }
     },
     "kh/battambang/battambang": {
@@ -10180,6 +10225,24 @@
     ],
     "55,166": [
       "np/lumbini/lumbini"
+    ],
+    "-3,73": [
+      "ke/nairobi/nairobi"
+    ],
+    "-9,79": [
+      "ke/mombasa/mombasa"
+    ],
+    "-4,70": [
+      "ke/narok/maasai-mara"
+    ],
+    "-3,70": [
+      "ke/narok/maasai-mara"
+    ],
+    "-5,81": [
+      "ke/lamu/lamu"
+    ],
+    "-1,72": [
+      "ke/nakuru/nakuru"
     ]
   }
 }

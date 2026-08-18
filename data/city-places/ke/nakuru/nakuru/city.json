@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ke/nakuru/nakuru",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "stateCode": "31",
+  "stateName": "Nakuru",
+  "cityName": "Nakuru",
+  "bbox": {
+    "minLat": -0.38,
+    "minLng": 36.06,
+    "maxLat": -0.25,
+    "maxLng": 36.1
+  },
+  "updatedAt": "2026-08-18T10:05:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-nakuru",
+      "name": "Lake Nakuru",
+      "lat": -0.366,
+      "lng": 36.088,
+      "radiusM": 400,
+      "address": "Lake Nakuru National Park",
+      "howTo": "Visit Lake Nakuru.",
+      "badge": "badges/lake-nakuru.png"
+    },
+    {
+      "id": "menengai-crater",
+      "name": "Menengai Crater",
+      "lat": -0.266,
+      "lng": 36.072,
+      "radiusM": 250,
+      "address": "Menengai",
+      "howTo": "Visit Menengai Crater.",
+      "badge": "badges/menengai-crater.png"
+    }
+  ]
+}
