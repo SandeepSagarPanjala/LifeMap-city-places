@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ad/escaldes-engordany/escaldes-engordany",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "stateCode": "08",
+  "stateName": "Escaldes-Engordany",
+  "cityName": "Escaldes-Engordany",
+  "bbox": {
+    "minLat": 42.509,
+    "minLng": 1.534,
+    "maxLat": 42.515,
+    "maxLng": 1.574
+  },
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "caldea",
+      "name": "Caldea",
+      "lat": 42.51159,
+      "lng": 1.53723,
+      "radiusM": 80,
+      "address": "Escaldes-Engordany",
+      "howTo": "Visit Caldea.",
+      "badge": "badges/caldea.png"
+    },
+    {
+      "id": "sant-miquel-dengolasters",
+      "name": "Sant Miquel d'Engolasters",
+      "lat": 42.51194,
+      "lng": 1.57056,
+      "radiusM": 60,
+      "address": "Engolasters",
+      "howTo": "Visit Sant Miquel d'Engolasters.",
+      "badge": "badges/sant-miquel-dengolasters.png"
+    }
+  ]
+}

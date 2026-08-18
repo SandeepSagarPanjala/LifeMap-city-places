@@ -1,9 +1,54 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T04:01:28.637Z",
+  "generatedAt": "2026-08-18T04:11:51.353Z",
   "cellDeg": 0.5,
-  "cityCount": 879,
+  "cityCount": 884,
   "cities": {
+    "ad/andorra-la-vella/andorra-la-vella": {
+      "name": "Andorra la Vella",
+      "bbox": {
+        "minLat": 42.498,
+        "minLng": 1.496,
+        "maxLat": 42.509,
+        "maxLng": 1.524
+      }
+    },
+    "ad/canillo/canillo": {
+      "name": "Canillo",
+      "bbox": {
+        "minLat": 42.551,
+        "minLng": 1.587,
+        "maxLat": 42.574,
+        "maxLng": 1.6
+      }
+    },
+    "ad/encamp/encamp": {
+      "name": "Encamp",
+      "bbox": {
+        "minLat": 42.534,
+        "minLng": 1.58,
+        "maxLat": 42.538,
+        "maxLng": 1.585
+      }
+    },
+    "ad/escaldes-engordany/escaldes-engordany": {
+      "name": "Escaldes-Engordany",
+      "bbox": {
+        "minLat": 42.509,
+        "minLng": 1.534,
+        "maxLat": 42.515,
+        "maxLng": 1.574
+      }
+    },
+    "ad/ordino/ordino": {
+      "name": "Ordino",
+      "bbox": {
+        "minLat": 42.553,
+        "minLng": 1.53,
+        "maxLat": 42.558,
+        "maxLng": 1.536
+      }
+    },
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
       "bbox": {
@@ -12141,6 +12186,22 @@
     ],
     "84,40": [
       "xk/gjakova/gjakova"
+    ],
+    "84,2": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "84,3": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "85,2": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "85,3": [
+      "ad/andorra-la-vella/andorra-la-vella",
+      "ad/canillo/canillo",
+      "ad/encamp/encamp",
+      "ad/escaldes-engordany/escaldes-engordany",
+      "ad/ordino/ordino"
     ]
   }
 }

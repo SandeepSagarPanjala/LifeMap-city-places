@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ad/ordino/ordino",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "stateCode": "05",
+  "stateName": "Ordino",
+  "cityName": "Ordino",
+  "bbox": {
+    "minLat": 42.553,
+    "minLng": 1.53,
+    "maxLat": 42.558,
+    "maxLng": 1.536
+  },
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "casa-areny-plandolit",
+      "name": "Casa d'Areny-Plandolit",
+      "lat": 42.55528,
+      "lng": 1.53306,
+      "radiusM": 50,
+      "address": "Ordino",
+      "howTo": "Visit Casa d'Areny-Plandolit.",
+      "badge": "badges/casa-areny-plandolit.png"
+    },
+    {
+      "id": "sant-corneli",
+      "name": "Sant Corneli i Sant Cebri\u00e0",
+      "lat": 42.55583,
+      "lng": 1.5325,
+      "radiusM": 50,
+      "address": "Ordino",
+      "howTo": "Visit Sant Corneli i Sant Cebri\u00e0.",
+      "badge": "badges/sant-corneli.png"
+    }
+  ]
+}

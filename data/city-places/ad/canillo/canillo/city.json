@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ad/canillo/canillo",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "stateCode": "02",
+  "stateName": "Canillo",
+  "cityName": "Canillo",
+  "bbox": {
+    "minLat": 42.551,
+    "minLng": 1.587,
+    "maxLat": 42.574,
+    "maxLng": 1.6
+  },
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sant-joan-de-caselles",
+      "name": "Sant Joan de Caselles",
+      "lat": 42.57111,
+      "lng": 1.59722,
+      "radiusM": 60,
+      "address": "Canillo",
+      "howTo": "Visit Sant Joan de Caselles.",
+      "badge": "badges/sant-joan-de-caselles.png"
+    },
+    {
+      "id": "meritxell",
+      "name": "Santuari de Meritxell",
+      "lat": 42.55389,
+      "lng": 1.59056,
+      "radiusM": 80,
+      "address": "Meritxell",
+      "howTo": "Visit Santuari de Meritxell.",
+      "badge": "badges/meritxell.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ad/andorra-la-vella/andorra-la-vella",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "stateCode": "07",
+  "stateName": "Andorra la Vella",
+  "cityName": "Andorra la Vella",
+  "bbox": {
+    "minLat": 42.498,
+    "minLng": 1.496,
+    "maxLat": 42.509,
+    "maxLng": 1.524
+  },
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "casa-de-la-vall",
+      "name": "Casa de la Vall",
+      "lat": 42.50667,
+      "lng": 1.52056,
+      "radiusM": 60,
+      "address": "Andorra la Vella",
+      "howTo": "Visit Casa de la Vall.",
+      "badge": "badges/casa-de-la-vall.png"
+    },
+    {
+      "id": "sant-esteve",
+      "name": "Sant Esteve",
+      "lat": 42.507,
+      "lng": 1.5216,
+      "radiusM": 50,
+      "address": "Andorra la Vella",
+      "howTo": "Visit Sant Esteve.",
+      "badge": "badges/sant-esteve.png"
+    },
+    {
+      "id": "santa-coloma",
+      "name": "Santa Coloma",
+      "lat": 42.50028,
+      "lng": 1.49806,
+      "radiusM": 60,
+      "address": "Santa Coloma",
+      "howTo": "Visit Santa Coloma.",
+      "badge": "badges/santa-coloma.png"
+    }
+  ]
+}

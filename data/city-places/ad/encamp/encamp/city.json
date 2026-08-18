@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "ad/encamp/encamp",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "stateCode": "03",
+  "stateName": "Encamp",
+  "cityName": "Encamp",
+  "bbox": {
+    "minLat": 42.534,
+    "minLng": 1.58,
+    "maxLat": 42.538,
+    "maxLng": 1.585
+  },
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-eulalia",
+      "name": "Santa Eul\u00e0lia d'Encamp",
+      "lat": 42.53611,
+      "lng": 1.5825,
+      "radiusM": 60,
+      "address": "Encamp",
+      "howTo": "Visit Santa Eul\u00e0lia d'Encamp.",
+      "badge": "badges/santa-eulalia.png"
+    }
+  ]
+}

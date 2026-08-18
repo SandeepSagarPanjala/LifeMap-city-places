@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:01:28.000Z",
-  "notes": "Kosovo (xk) complete. Next: Andorra (ad) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "notes": "Andorra (ad) complete. Next: Malta (mt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16672,6 +16672,118 @@
                 "minLng": 20.425,
                 "maxLat": 42.382,
                 "maxLng": 20.43
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad",
+      "countryCode": "AD",
+      "name": "Andorra",
+      "states": [
+        {
+          "id": "andorra-la-vella",
+          "stateCode": "07",
+          "name": "Andorra la Vella",
+          "cities": [
+            {
+              "id": "andorra-la-vella",
+              "name": "Andorra la Vella",
+              "status": "complete",
+              "packPath": "ad/andorra-la-vella/andorra-la-vella/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:11:51.000Z",
+              "bbox": {
+                "minLat": 42.498,
+                "minLng": 1.496,
+                "maxLat": 42.509,
+                "maxLng": 1.524
+              }
+            }
+          ]
+        },
+        {
+          "id": "escaldes-engordany",
+          "stateCode": "08",
+          "name": "Escaldes-Engordany",
+          "cities": [
+            {
+              "id": "escaldes-engordany",
+              "name": "Escaldes-Engordany",
+              "status": "complete",
+              "packPath": "ad/escaldes-engordany/escaldes-engordany/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:11:51.000Z",
+              "bbox": {
+                "minLat": 42.509,
+                "minLng": 1.534,
+                "maxLat": 42.515,
+                "maxLng": 1.574
+              }
+            }
+          ]
+        },
+        {
+          "id": "canillo",
+          "stateCode": "02",
+          "name": "Canillo",
+          "cities": [
+            {
+              "id": "canillo",
+              "name": "Canillo",
+              "status": "complete",
+              "packPath": "ad/canillo/canillo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:11:51.000Z",
+              "bbox": {
+                "minLat": 42.551,
+                "minLng": 1.587,
+                "maxLat": 42.574,
+                "maxLng": 1.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "ordino",
+          "stateCode": "05",
+          "name": "Ordino",
+          "cities": [
+            {
+              "id": "ordino",
+              "name": "Ordino",
+              "status": "complete",
+              "packPath": "ad/ordino/ordino/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:11:51.000Z",
+              "bbox": {
+                "minLat": 42.553,
+                "minLng": 1.53,
+                "maxLat": 42.558,
+                "maxLng": 1.536
+              }
+            }
+          ]
+        },
+        {
+          "id": "encamp",
+          "stateCode": "03",
+          "name": "Encamp",
+          "cities": [
+            {
+              "id": "encamp",
+              "name": "Encamp",
+              "status": "complete",
+              "packPath": "ad/encamp/encamp/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T04:11:51.000Z",
+              "bbox": {
+                "minLat": 42.534,
+                "minLng": 1.58,
+                "maxLat": 42.538,
+                "maxLng": 1.585
               }
             }
           ]
