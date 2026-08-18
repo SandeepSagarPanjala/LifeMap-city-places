@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rs/vojvodina/subotica",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "stateCode": "VO",
+  "stateName": "Vojvodina",
+  "cityName": "Subotica",
+  "bbox": {
+    "minLat": 46.096,
+    "minLng": 19.658,
+    "maxLat": 46.105,
+    "maxLng": 19.672
+  },
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "subotica-city-hall",
+      "name": "Subotica City Hall",
+      "lat": 46.1003,
+      "lng": 19.6653,
+      "radiusM": 80,
+      "address": "Trg Republike",
+      "howTo": "Visit Subotica City Hall.",
+      "badge": "badges/subotica-city-hall.png"
+    },
+    {
+      "id": "subotica-synagogue",
+      "name": "Subotica Synagogue",
+      "lat": 46.1014,
+      "lng": 19.6644,
+      "radiusM": 60,
+      "address": "Subotica",
+      "howTo": "Visit Subotica Synagogue.",
+      "badge": "badges/subotica-synagogue.png"
+    }
+  ]
+}

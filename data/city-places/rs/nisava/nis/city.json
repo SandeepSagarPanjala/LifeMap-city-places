@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rs/nisava/nis",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "stateCode": "20",
+  "stateName": "Ni\u0161ava",
+  "cityName": "Ni\u0161",
+  "bbox": {
+    "minLat": 43.305,
+    "minLng": 21.888,
+    "maxLat": 43.332,
+    "maxLng": 21.955
+  },
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nis-fortress",
+      "name": "Ni\u0161 Fortress",
+      "lat": 43.3264,
+      "lng": 21.8953,
+      "radiusM": 180,
+      "address": "Ni\u0161",
+      "howTo": "Visit Ni\u0161 Fortress.",
+      "badge": "badges/nis-fortress.png"
+    },
+    {
+      "id": "mediana",
+      "name": "Mediana",
+      "lat": 43.31028,
+      "lng": 21.94889,
+      "radiusM": 150,
+      "address": "Ni\u0161",
+      "howTo": "Visit Mediana.",
+      "badge": "badges/mediana.png"
+    }
+  ]
+}

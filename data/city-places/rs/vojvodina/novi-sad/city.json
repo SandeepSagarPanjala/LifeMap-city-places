@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rs/vojvodina/novi-sad",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "stateCode": "VO",
+  "stateName": "Vojvodina",
+  "cityName": "Novi Sad",
+  "bbox": {
+    "minLat": 45.248,
+    "minLng": 19.838,
+    "maxLat": 45.26,
+    "maxLng": 19.87
+  },
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "petrovaradin-fortress",
+      "name": "Petrovaradin Fortress",
+      "lat": 45.252,
+      "lng": 19.8617,
+      "radiusM": 200,
+      "address": "Petrovaradin",
+      "howTo": "Visit Petrovaradin Fortress.",
+      "badge": "badges/petrovaradin-fortress.png"
+    },
+    {
+      "id": "name-of-mary-church",
+      "name": "Name of Mary Church",
+      "lat": 45.2555,
+      "lng": 19.8453,
+      "radiusM": 80,
+      "address": "Trg Slobode",
+      "howTo": "Visit Name of Mary Church.",
+      "badge": "badges/name-of-mary-church.png"
+    }
+  ]
+}

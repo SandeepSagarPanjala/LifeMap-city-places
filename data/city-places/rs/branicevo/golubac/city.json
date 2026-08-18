@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "rs/branicevo/golubac",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "stateCode": "14",
+  "stateName": "Brani\u010devo",
+  "cityName": "Golubac",
+  "bbox": {
+    "minLat": 44.655,
+    "minLng": 21.668,
+    "maxLat": 44.668,
+    "maxLng": 21.688
+  },
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "golubac-fortress",
+      "name": "Golubac Fortress",
+      "lat": 44.66119,
+      "lng": 21.67848,
+      "radiusM": 150,
+      "address": "Danube",
+      "howTo": "Visit Golubac Fortress.",
+      "badge": "badges/golubac-fortress.png"
+    }
+  ]
+}

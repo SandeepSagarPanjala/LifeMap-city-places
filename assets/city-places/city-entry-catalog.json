@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:52:33.484Z",
+  "generatedAt": "2026-08-18T02:56:22.707Z",
   "cellDeg": 0.5,
-  "cityCount": 799,
+  "cityCount": 804,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -5078,6 +5078,51 @@
         "minLng": 24.148,
         "maxLat": 45.799,
         "maxLng": 24.155
+      }
+    },
+    "rs/belgrade/belgrade": {
+      "name": "Belgrade",
+      "bbox": {
+        "minLat": 44.79,
+        "minLng": 20.44,
+        "maxLat": 44.83,
+        "maxLng": 20.48
+      }
+    },
+    "rs/branicevo/golubac": {
+      "name": "Golubac",
+      "bbox": {
+        "minLat": 44.655,
+        "minLng": 21.668,
+        "maxLat": 44.668,
+        "maxLng": 21.688
+      }
+    },
+    "rs/nisava/nis": {
+      "name": "Niš",
+      "bbox": {
+        "minLat": 43.305,
+        "minLng": 21.888,
+        "maxLat": 43.332,
+        "maxLng": 21.955
+      }
+    },
+    "rs/vojvodina/novi-sad": {
+      "name": "Novi Sad",
+      "bbox": {
+        "minLat": 45.248,
+        "minLng": 19.838,
+        "maxLat": 45.26,
+        "maxLng": 19.87
+      }
+    },
+    "rs/vojvodina/subotica": {
+      "name": "Subotica",
+      "bbox": {
+        "minLat": 46.096,
+        "minLng": 19.658,
+        "maxLat": 46.105,
+        "maxLng": 19.672
       }
     },
     "se/gotland/visby": {
@@ -11199,6 +11244,21 @@
     ],
     "49,103": [
       "qa/al-rayyan/sealine"
+    ],
+    "89,40": [
+      "rs/belgrade/belgrade"
+    ],
+    "90,39": [
+      "rs/vojvodina/novi-sad"
+    ],
+    "92,39": [
+      "rs/vojvodina/subotica"
+    ],
+    "86,43": [
+      "rs/nisava/nis"
+    ],
+    "89,43": [
+      "rs/branicevo/golubac"
     ]
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:52:33.000Z",
-  "notes": "Qatar (qa) complete. Next: Serbia (rs) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "notes": "Serbia (rs) complete. Next: Slovakia (sk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14992,6 +14992,111 @@
                 "minLng": 51.28,
                 "maxLat": 24.86,
                 "maxLng": 51.52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rs",
+      "countryCode": "RS",
+      "name": "Serbia",
+      "states": [
+        {
+          "id": "belgrade",
+          "stateCode": "00",
+          "name": "Belgrade",
+          "cities": [
+            {
+              "id": "belgrade",
+              "name": "Belgrade",
+              "status": "complete",
+              "packPath": "rs/belgrade/belgrade/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:56:22.000Z",
+              "bbox": {
+                "minLat": 44.79,
+                "minLng": 20.44,
+                "maxLat": 44.83,
+                "maxLng": 20.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "vojvodina",
+          "stateCode": "VO",
+          "name": "Vojvodina",
+          "cities": [
+            {
+              "id": "novi-sad",
+              "name": "Novi Sad",
+              "status": "complete",
+              "packPath": "rs/vojvodina/novi-sad/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:56:22.000Z",
+              "bbox": {
+                "minLat": 45.248,
+                "minLng": 19.838,
+                "maxLat": 45.26,
+                "maxLng": 19.87
+              }
+            },
+            {
+              "id": "subotica",
+              "name": "Subotica",
+              "status": "complete",
+              "packPath": "rs/vojvodina/subotica/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:56:22.000Z",
+              "bbox": {
+                "minLat": 46.096,
+                "minLng": 19.658,
+                "maxLat": 46.105,
+                "maxLng": 19.672
+              }
+            }
+          ]
+        },
+        {
+          "id": "nisava",
+          "stateCode": "20",
+          "name": "Ni\u0161ava",
+          "cities": [
+            {
+              "id": "nis",
+              "name": "Ni\u0161",
+              "status": "complete",
+              "packPath": "rs/nisava/nis/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:56:22.000Z",
+              "bbox": {
+                "minLat": 43.305,
+                "minLng": 21.888,
+                "maxLat": 43.332,
+                "maxLng": 21.955
+              }
+            }
+          ]
+        },
+        {
+          "id": "branicevo",
+          "stateCode": "14",
+          "name": "Brani\u010devo",
+          "cities": [
+            {
+              "id": "golubac",
+              "name": "Golubac",
+              "status": "complete",
+              "packPath": "rs/branicevo/golubac/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T02:56:22.000Z",
+              "bbox": {
+                "minLat": 44.655,
+                "minLng": 21.668,
+                "maxLat": 44.668,
+                "maxLng": 21.688
               }
             }
           ]

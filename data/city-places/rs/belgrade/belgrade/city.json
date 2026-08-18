@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "rs/belgrade/belgrade",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "stateCode": "00",
+  "stateName": "Belgrade",
+  "cityName": "Belgrade",
+  "bbox": {
+    "minLat": 44.79,
+    "minLng": 20.44,
+    "maxLat": 44.83,
+    "maxLng": 20.48
+  },
+  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kalemegdan",
+      "name": "Kalemegdan Fortress",
+      "lat": 44.82333,
+      "lng": 20.45028,
+      "radiusM": 200,
+      "address": "Stari Grad",
+      "howTo": "Visit Kalemegdan Fortress.",
+      "badge": "badges/kalemegdan.png"
+    },
+    {
+      "id": "temple-of-saint-sava",
+      "name": "Temple of Saint Sava",
+      "lat": 44.7981,
+      "lng": 20.46912,
+      "radiusM": 120,
+      "address": "Vracar",
+      "howTo": "Visit Temple of Saint Sava.",
+      "badge": "badges/temple-of-saint-sava.png"
+    },
+    {
+      "id": "skadarlija",
+      "name": "Skadarlija",
+      "lat": 44.8178,
+      "lng": 20.4639,
+      "radiusM": 120,
+      "address": "Stari Grad",
+      "howTo": "Visit Skadarlija.",
+      "badge": "badges/skadarlija.png"
+    }
+  ]
+}
