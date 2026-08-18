@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lk/southern/galle",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "stateCode": "3",
+  "stateName": "Southern",
+  "cityName": "Galle",
+  "bbox": {
+    "minLat": 6.022,
+    "minLng": 80.214,
+    "maxLat": 6.03,
+    "maxLng": 80.222
+  },
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "galle-fort",
+      "name": "Galle Fort",
+      "lat": 6.026,
+      "lng": 80.217,
+      "radiusM": 200,
+      "address": "Galle Fort",
+      "howTo": "Visit Galle Fort.",
+      "badge": "badges/galle-fort.png"
+    },
+    {
+      "id": "galle-lighthouse",
+      "name": "Galle Lighthouse",
+      "lat": 6.0244,
+      "lng": 80.2194,
+      "radiusM": 80,
+      "address": "Fort Rampart",
+      "howTo": "Visit Galle Lighthouse.",
+      "badge": "badges/galle-lighthouse.png"
+    }
+  ]
+}

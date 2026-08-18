@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lk/central/kandy",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "stateCode": "2",
+  "stateName": "Central",
+  "cityName": "Kandy",
+  "bbox": {
+    "minLat": 7.268,
+    "minLng": 80.59,
+    "maxLat": 7.3,
+    "maxLng": 80.65
+  },
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "temple-of-the-tooth",
+      "name": "Temple of the Tooth",
+      "lat": 7.2936,
+      "lng": 80.6413,
+      "radiusM": 120,
+      "address": "Sri Dalada Maligawa",
+      "howTo": "Visit Temple of the Tooth.",
+      "badge": "badges/temple-of-the-tooth.png"
+    },
+    {
+      "id": "peradeniya-gardens",
+      "name": "Royal Botanical Gardens",
+      "lat": 7.2714,
+      "lng": 80.5966,
+      "radiusM": 250,
+      "address": "Peradeniya",
+      "howTo": "Visit Royal Botanical Gardens.",
+      "badge": "badges/peradeniya-gardens.png"
+    }
+  ]
+}

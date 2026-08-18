@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T09:20:00.000Z",
-  "notes": "Queue through Cambodia complete. Next: Sri Lanka (lk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "notes": "Queue through Sri Lanka complete. Next: Nepal (np) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13081,6 +13081,111 @@
                 "minLng": 104.29,
                 "maxLat": 10.5,
                 "maxLng": 104.33
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lk",
+      "countryCode": "LK",
+      "name": "Sri Lanka",
+      "states": [
+        {
+          "id": "western",
+          "stateCode": "1",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "colombo",
+              "name": "Colombo",
+              "status": "complete",
+              "packPath": "lk/western/colombo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T09:35:00.000Z",
+              "bbox": {
+                "minLat": 6.91,
+                "minLng": 79.84,
+                "maxLat": 6.935,
+                "maxLng": 79.865
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "2",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "kandy",
+              "name": "Kandy",
+              "status": "complete",
+              "packPath": "lk/central/kandy/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:35:00.000Z",
+              "bbox": {
+                "minLat": 7.268,
+                "minLng": 80.59,
+                "maxLat": 7.3,
+                "maxLng": 80.65
+              }
+            },
+            {
+              "id": "sigiriya",
+              "name": "Sigiriya",
+              "status": "complete",
+              "packPath": "lk/central/sigiriya/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:35:00.000Z",
+              "bbox": {
+                "minLat": 7.954,
+                "minLng": 80.755,
+                "maxLat": 7.968,
+                "maxLng": 80.765
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "3",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "galle",
+              "name": "Galle",
+              "status": "complete",
+              "packPath": "lk/southern/galle/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:35:00.000Z",
+              "bbox": {
+                "minLat": 6.022,
+                "minLng": 80.214,
+                "maxLat": 6.03,
+                "maxLng": 80.222
+              }
+            }
+          ]
+        },
+        {
+          "id": "uva",
+          "stateCode": "8",
+          "name": "Uva",
+          "cities": [
+            {
+              "id": "ella",
+              "name": "Ella",
+              "status": "complete",
+              "packPath": "lk/uva/ella/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:35:00.000Z",
+              "bbox": {
+                "minLat": 6.86,
+                "minLng": 81.04,
+                "maxLat": 6.88,
+                "maxLng": 81.07
               }
             }
           ]

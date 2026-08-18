@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:27:25.162Z",
+  "generatedAt": "2026-08-18T01:31:22.002Z",
   "cellDeg": 0.5,
-  "cityCount": 709,
+  "cityCount": 714,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3647,6 +3647,51 @@
         "minLng": 127,
         "maxLat": 37.29,
         "maxLng": 127.02
+      }
+    },
+    "lk/central/kandy": {
+      "name": "Kandy",
+      "bbox": {
+        "minLat": 7.268,
+        "minLng": 80.59,
+        "maxLat": 7.3,
+        "maxLng": 80.65
+      }
+    },
+    "lk/central/sigiriya": {
+      "name": "Sigiriya",
+      "bbox": {
+        "minLat": 7.954,
+        "minLng": 80.755,
+        "maxLat": 7.968,
+        "maxLng": 80.765
+      }
+    },
+    "lk/southern/galle": {
+      "name": "Galle",
+      "bbox": {
+        "minLat": 6.022,
+        "minLng": 80.214,
+        "maxLat": 6.03,
+        "maxLng": 80.222
+      }
+    },
+    "lk/uva/ella": {
+      "name": "Ella",
+      "bbox": {
+        "minLat": 6.86,
+        "minLng": 81.04,
+        "maxLat": 6.88,
+        "maxLng": 81.07
+      }
+    },
+    "lk/western/colombo": {
+      "name": "Colombo",
+      "bbox": {
+        "minLat": 6.91,
+        "minLng": 79.84,
+        "maxLat": 6.935,
+        "maxLng": 79.865
       }
     },
     "ma/casablanca/casablanca": {
@@ -10061,6 +10106,21 @@
     ],
     "20,208": [
       "kh/kep/kep"
+    ],
+    "13,159": [
+      "lk/western/colombo"
+    ],
+    "14,161": [
+      "lk/central/kandy"
+    ],
+    "15,161": [
+      "lk/central/sigiriya"
+    ],
+    "12,160": [
+      "lk/southern/galle"
+    ],
+    "13,162": [
+      "lk/uva/ella"
     ]
   }
 }

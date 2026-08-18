@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lk/uva/ella",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "stateCode": "8",
+  "stateName": "Uva",
+  "cityName": "Ella",
+  "bbox": {
+    "minLat": 6.86,
+    "minLng": 81.04,
+    "maxLat": 6.88,
+    "maxLng": 81.07
+  },
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nine-arch-bridge",
+      "name": "Nine Arch Bridge",
+      "lat": 6.8766,
+      "lng": 81.0611,
+      "radiusM": 120,
+      "address": "Demodara",
+      "howTo": "Visit Nine Arch Bridge.",
+      "badge": "badges/nine-arch-bridge.png"
+    },
+    {
+      "id": "little-adams-peak",
+      "name": "Little Adams Peak",
+      "lat": 6.8658,
+      "lng": 81.0465,
+      "radiusM": 150,
+      "address": "Ella",
+      "howTo": "Visit Little Adams Peak.",
+      "badge": "badges/little-adams-peak.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "lk/western/colombo",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "stateCode": "1",
+  "stateName": "Western",
+  "cityName": "Colombo",
+  "bbox": {
+    "minLat": 6.91,
+    "minLng": 79.84,
+    "maxLat": 6.935,
+    "maxLng": 79.865
+  },
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gangaramaya",
+      "name": "Gangaramaya Temple",
+      "lat": 6.9165,
+      "lng": 79.8564,
+      "radiusM": 100,
+      "address": "Sri Jinaratana Road",
+      "howTo": "Visit Gangaramaya Temple.",
+      "badge": "badges/gangaramaya.png"
+    },
+    {
+      "id": "galle-face-green",
+      "name": "Galle Face Green",
+      "lat": 6.9271,
+      "lng": 79.8449,
+      "radiusM": 200,
+      "address": "Galle Face",
+      "howTo": "Visit Galle Face Green.",
+      "badge": "badges/galle-face-green.png"
+    },
+    {
+      "id": "lotus-tower",
+      "name": "Lotus Tower",
+      "lat": 6.927,
+      "lng": 79.858,
+      "radiusM": 120,
+      "address": "Arunachalam Mawatha",
+      "howTo": "Visit Lotus Tower.",
+      "badge": "badges/lotus-tower.png"
+    }
+  ]
+}

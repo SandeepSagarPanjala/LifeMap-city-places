@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lk/central/sigiriya",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "stateCode": "2",
+  "stateName": "Central",
+  "cityName": "Sigiriya",
+  "bbox": {
+    "minLat": 7.954,
+    "minLng": 80.755,
+    "maxLat": 7.968,
+    "maxLng": 80.765
+  },
+  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sigiriya",
+      "name": "Sigiriya",
+      "lat": 7.957,
+      "lng": 80.7603,
+      "radiusM": 200,
+      "address": "Lion Rock",
+      "howTo": "Visit Sigiriya.",
+      "badge": "badges/sigiriya.png"
+    },
+    {
+      "id": "pidurangala",
+      "name": "Pidurangala",
+      "lat": 7.9658,
+      "lng": 80.76,
+      "radiusM": 150,
+      "address": "Pidurangala Rock",
+      "howTo": "Visit Pidurangala.",
+      "badge": "badges/pidurangala.png"
+    }
+  ]
+}
