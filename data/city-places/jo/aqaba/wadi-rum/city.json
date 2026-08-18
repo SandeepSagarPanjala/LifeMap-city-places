@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "jo/aqaba/wadi-rum",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "stateCode": "AQ",
+  "stateName": "Aqaba",
+  "cityName": "Wadi Rum",
+  "bbox": {
+    "minLat": 29.535,
+    "minLng": 35.39,
+    "maxLat": 29.585,
+    "maxLng": 35.43
+  },
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seven-pillars",
+      "name": "Seven Pillars of Wisdom",
+      "lat": 29.5782,
+      "lng": 35.4195,
+      "radiusM": 250,
+      "address": "Wadi Rum",
+      "howTo": "Visit Seven Pillars of Wisdom.",
+      "badge": "badges/seven-pillars.png"
+    },
+    {
+      "id": "khazali-canyon",
+      "name": "Khazali Canyon",
+      "lat": 29.54,
+      "lng": 35.398,
+      "radiusM": 200,
+      "address": "Wadi Rum",
+      "howTo": "Visit Khazali Canyon.",
+      "badge": "badges/khazali-canyon.png"
+    }
+  ]
+}

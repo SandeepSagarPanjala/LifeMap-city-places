@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "jo/madaba/madaba",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "stateCode": "MD",
+  "stateName": "Madaba",
+  "cityName": "Madaba",
+  "bbox": {
+    "minLat": 31.715,
+    "minLng": 35.72,
+    "maxLat": 31.77,
+    "maxLng": 35.8
+  },
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "madaba-map",
+      "name": "Madaba Map",
+      "lat": 31.7165,
+      "lng": 35.7938,
+      "radiusM": 80,
+      "address": "St George Church",
+      "howTo": "Visit Madaba Map.",
+      "badge": "badges/madaba-map.png"
+    },
+    {
+      "id": "mount-nebo",
+      "name": "Mount Nebo",
+      "lat": 31.7677,
+      "lng": 35.7253,
+      "radiusM": 200,
+      "address": "Mount Nebo",
+      "howTo": "Visit Mount Nebo.",
+      "badge": "badges/mount-nebo.png"
+    }
+  ]
+}

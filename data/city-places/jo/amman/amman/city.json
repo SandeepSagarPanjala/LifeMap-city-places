@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "jo/amman/amman",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "stateCode": "AM",
+  "stateName": "Amman",
+  "cityName": "Amman",
+  "bbox": {
+    "minLat": 31.95,
+    "minLng": 35.908,
+    "maxLat": 31.965,
+    "maxLng": 35.942
+  },
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "amman-citadel",
+      "name": "Amman Citadel",
+      "lat": 31.9544,
+      "lng": 35.9346,
+      "radiusM": 200,
+      "address": "Jabal al-Qalaa",
+      "howTo": "Visit Amman Citadel.",
+      "badge": "badges/amman-citadel.png"
+    },
+    {
+      "id": "roman-theatre-amman",
+      "name": "Roman Theatre",
+      "lat": 31.9516,
+      "lng": 35.9393,
+      "radiusM": 120,
+      "address": "Downtown Amman",
+      "howTo": "Visit Roman Theatre.",
+      "badge": "badges/roman-theatre-amman.png"
+    },
+    {
+      "id": "king-abdullah-mosque",
+      "name": "King Abdullah I Mosque",
+      "lat": 31.9626,
+      "lng": 35.9118,
+      "radiusM": 120,
+      "address": "Suleiman al-Nabulsi St",
+      "howTo": "Visit King Abdullah I Mosque.",
+      "badge": "badges/king-abdullah-mosque.png"
+    }
+  ]
+}

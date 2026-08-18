@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "jo/maan/petra",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "stateCode": "MN",
+  "stateName": "Maan",
+  "cityName": "Petra",
+  "bbox": {
+    "minLat": 30.32,
+    "minLng": 35.43,
+    "maxLat": 30.342,
+    "maxLng": 35.456
+  },
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "petra-treasury",
+      "name": "The Treasury",
+      "lat": 30.3225,
+      "lng": 35.4513,
+      "radiusM": 80,
+      "address": "Al-Khazneh",
+      "howTo": "Visit The Treasury.",
+      "badge": "badges/petra-treasury.png"
+    },
+    {
+      "id": "petra-monastery",
+      "name": "The Monastery",
+      "lat": 30.3372,
+      "lng": 35.441,
+      "radiusM": 120,
+      "address": "Ad-Deir",
+      "howTo": "Visit The Monastery.",
+      "badge": "badges/petra-monastery.png"
+    }
+  ]
+}

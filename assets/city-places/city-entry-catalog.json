@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:15:03.978Z",
+  "generatedAt": "2026-08-18T01:20:10.606Z",
   "cellDeg": 0.5,
-  "cityCount": 694,
+  "cityCount": 699,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3089,6 +3089,51 @@
         "minLng": 10.98,
         "maxLat": 45.45,
         "maxLng": 11.01
+      }
+    },
+    "jo/amman/amman": {
+      "name": "Amman",
+      "bbox": {
+        "minLat": 31.95,
+        "minLng": 35.908,
+        "maxLat": 31.965,
+        "maxLng": 35.942
+      }
+    },
+    "jo/aqaba/wadi-rum": {
+      "name": "Wadi Rum",
+      "bbox": {
+        "minLat": 29.535,
+        "minLng": 35.39,
+        "maxLat": 29.585,
+        "maxLng": 35.43
+      }
+    },
+    "jo/jerash/jerash": {
+      "name": "Jerash",
+      "bbox": {
+        "minLat": 32.27,
+        "minLng": 35.888,
+        "maxLat": 32.283,
+        "maxLng": 35.895
+      }
+    },
+    "jo/maan/petra": {
+      "name": "Petra",
+      "bbox": {
+        "minLat": 30.32,
+        "minLng": 35.43,
+        "maxLat": 30.342,
+        "maxLng": 35.456
+      }
+    },
+    "jo/madaba/madaba": {
+      "name": "Madaba",
+      "bbox": {
+        "minLat": 31.715,
+        "minLng": 35.72,
+        "maxLat": 31.77,
+        "maxLng": 35.8
       }
     },
     "jp/aichi/nagoya": {
@@ -9876,6 +9921,19 @@
     ],
     "44,227": [
       "hk/lantau/lantau"
+    ],
+    "63,71": [
+      "jo/amman/amman",
+      "jo/madaba/madaba"
+    ],
+    "60,70": [
+      "jo/maan/petra"
+    ],
+    "59,70": [
+      "jo/aqaba/wadi-rum"
+    ],
+    "64,71": [
+      "jo/jerash/jerash"
     ]
   }
 }

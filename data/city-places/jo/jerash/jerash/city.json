@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "jo/jerash/jerash",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "stateCode": "JA",
+  "stateName": "Jerash",
+  "cityName": "Jerash",
+  "bbox": {
+    "minLat": 32.27,
+    "minLng": 35.888,
+    "maxLat": 32.283,
+    "maxLng": 35.895
+  },
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hadrians-arch",
+      "name": "Hadrian's Arch",
+      "lat": 32.2724,
+      "lng": 35.891,
+      "radiusM": 80,
+      "address": "Jerash",
+      "howTo": "Visit Hadrian's Arch.",
+      "badge": "badges/hadrians-arch.png"
+    },
+    {
+      "id": "jerash-oval-plaza",
+      "name": "Oval Plaza",
+      "lat": 32.28,
+      "lng": 35.8914,
+      "radiusM": 120,
+      "address": "Jerash Archaeological Site",
+      "howTo": "Visit Oval Plaza.",
+      "badge": "badges/jerash-oval-plaza.png"
+    }
+  ]
+}

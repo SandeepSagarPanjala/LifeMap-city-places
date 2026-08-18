@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T08:35:00.000Z",
-  "notes": "Queue through Hong Kong complete. Next: Jordan (jo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "notes": "Queue through Jordan complete. Next: Israel (il) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12745,6 +12745,118 @@
                 "minLng": 114.18,
                 "maxLat": 22.39,
                 "maxLng": 114.19
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jo",
+      "countryCode": "JO",
+      "name": "Jordan",
+      "states": [
+        {
+          "id": "amman",
+          "stateCode": "AM",
+          "name": "Amman",
+          "cities": [
+            {
+              "id": "amman",
+              "name": "Amman",
+              "status": "complete",
+              "packPath": "jo/amman/amman/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T08:50:00.000Z",
+              "bbox": {
+                "minLat": 31.95,
+                "minLng": 35.908,
+                "maxLat": 31.965,
+                "maxLng": 35.942
+              }
+            }
+          ]
+        },
+        {
+          "id": "maan",
+          "stateCode": "MN",
+          "name": "Maan",
+          "cities": [
+            {
+              "id": "petra",
+              "name": "Petra",
+              "status": "complete",
+              "packPath": "jo/maan/petra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:50:00.000Z",
+              "bbox": {
+                "minLat": 30.32,
+                "minLng": 35.43,
+                "maxLat": 30.342,
+                "maxLng": 35.456
+              }
+            }
+          ]
+        },
+        {
+          "id": "aqaba",
+          "stateCode": "AQ",
+          "name": "Aqaba",
+          "cities": [
+            {
+              "id": "wadi-rum",
+              "name": "Wadi Rum",
+              "status": "complete",
+              "packPath": "jo/aqaba/wadi-rum/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:50:00.000Z",
+              "bbox": {
+                "minLat": 29.535,
+                "minLng": 35.39,
+                "maxLat": 29.585,
+                "maxLng": 35.43
+              }
+            }
+          ]
+        },
+        {
+          "id": "jerash",
+          "stateCode": "JA",
+          "name": "Jerash",
+          "cities": [
+            {
+              "id": "jerash",
+              "name": "Jerash",
+              "status": "complete",
+              "packPath": "jo/jerash/jerash/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:50:00.000Z",
+              "bbox": {
+                "minLat": 32.27,
+                "minLng": 35.888,
+                "maxLat": 32.283,
+                "maxLng": 35.895
+              }
+            }
+          ]
+        },
+        {
+          "id": "madaba",
+          "stateCode": "MD",
+          "name": "Madaba",
+          "cities": [
+            {
+              "id": "madaba",
+              "name": "Madaba",
+              "status": "complete",
+              "packPath": "jo/madaba/madaba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:50:00.000Z",
+              "bbox": {
+                "minLat": 31.715,
+                "minLng": 35.72,
+                "maxLat": 31.77,
+                "maxLng": 35.8
               }
             }
           ]
