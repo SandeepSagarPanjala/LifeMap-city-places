@@ -103,7 +103,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 57. `tn` — Tunisia (**complete**)
 58. `pa` — Panama (**complete**)
 59. `ec` — Ecuador (**complete**)
-60. `uy` — Uruguay
+60. `uy` — Uruguay (**complete**)
+61. `gt` — Guatemala
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

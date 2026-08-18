@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:11:01.000Z",
-  "notes": "Ecuador (ec) complete. Next: Uruguay (uy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "notes": "Uruguay (uy) complete. Next: Guatemala (gt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14040,6 +14040,118 @@
                 "minLng": -90.33,
                 "maxLat": -0.73,
                 "maxLng": -90.29
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uy",
+      "countryCode": "UY",
+      "name": "Uruguay",
+      "states": [
+        {
+          "id": "montevideo",
+          "stateCode": "MO",
+          "name": "Montevideo",
+          "cities": [
+            {
+              "id": "montevideo",
+              "name": "Montevideo",
+              "status": "complete",
+              "packPath": "uy/montevideo/montevideo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:14:11.000Z",
+              "bbox": {
+                "minLat": -34.915,
+                "minLng": -56.22,
+                "maxLat": -34.895,
+                "maxLng": -56.19
+              }
+            }
+          ]
+        },
+        {
+          "id": "colonia",
+          "stateCode": "CO",
+          "name": "Colonia",
+          "cities": [
+            {
+              "id": "colonia",
+              "name": "Colonia del Sacramento",
+              "status": "complete",
+              "packPath": "uy/colonia/colonia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:14:11.000Z",
+              "bbox": {
+                "minLat": -34.478,
+                "minLng": -57.855,
+                "maxLat": -34.465,
+                "maxLng": -57.838
+              }
+            }
+          ]
+        },
+        {
+          "id": "maldonado",
+          "stateCode": "MA",
+          "name": "Maldonado",
+          "cities": [
+            {
+              "id": "punta-del-este",
+              "name": "Punta del Este",
+              "status": "complete",
+              "packPath": "uy/maldonado/punta-del-este/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:14:11.000Z",
+              "bbox": {
+                "minLat": -34.965,
+                "minLng": -54.945,
+                "maxLat": -34.955,
+                "maxLng": -54.925
+              }
+            }
+          ]
+        },
+        {
+          "id": "rocha",
+          "stateCode": "RO",
+          "name": "Rocha",
+          "cities": [
+            {
+              "id": "cabo-polonio",
+              "name": "Cabo Polonio",
+              "status": "complete",
+              "packPath": "uy/rocha/cabo-polonio/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:14:11.000Z",
+              "bbox": {
+                "minLat": -34.415,
+                "minLng": -53.805,
+                "maxLat": -34.395,
+                "maxLng": -53.775
+              }
+            }
+          ]
+        },
+        {
+          "id": "canelones",
+          "stateCode": "CA",
+          "name": "Canelones",
+          "cities": [
+            {
+              "id": "piriapolis",
+              "name": "Piriapolis",
+              "status": "complete",
+              "packPath": "uy/canelones/piriapolis/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:14:11.000Z",
+              "bbox": {
+                "minLat": -34.875,
+                "minLng": -55.285,
+                "maxLat": -34.855,
+                "maxLng": -55.265
               }
             }
           ]

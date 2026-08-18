@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uy/maldonado/punta-del-este",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "stateCode": "MA",
+  "stateName": "Maldonado",
+  "cityName": "Punta del Este",
+  "bbox": {
+    "minLat": -34.965,
+    "minLng": -54.945,
+    "maxLat": -34.955,
+    "maxLng": -54.925
+  },
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "la-mano-punta-del-este",
+      "name": "La Mano",
+      "lat": -34.959,
+      "lng": -54.937,
+      "radiusM": 120,
+      "address": "Playa Brava",
+      "howTo": "Visit La Mano.",
+      "badge": "badges/la-mano-punta-del-este.png"
+    },
+    {
+      "id": "playa-brava",
+      "name": "Playa Brava",
+      "lat": -34.958,
+      "lng": -54.935,
+      "radiusM": 250,
+      "address": "Punta del Este",
+      "howTo": "Visit Playa Brava.",
+      "badge": "badges/playa-brava.png"
+    }
+  ]
+}

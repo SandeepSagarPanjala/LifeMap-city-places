@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:11:01.986Z",
+  "generatedAt": "2026-08-18T02:14:11.176Z",
   "cellDeg": 0.5,
-  "cityCount": 754,
+  "cityCount": 759,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -6664,6 +6664,51 @@
         "maxLng": -110.73
       }
     },
+    "uy/canelones/piriapolis": {
+      "name": "Piriapolis",
+      "bbox": {
+        "minLat": -34.875,
+        "minLng": -55.285,
+        "maxLat": -34.855,
+        "maxLng": -55.265
+      }
+    },
+    "uy/colonia/colonia": {
+      "name": "Colonia del Sacramento",
+      "bbox": {
+        "minLat": -34.478,
+        "minLng": -57.855,
+        "maxLat": -34.465,
+        "maxLng": -57.838
+      }
+    },
+    "uy/maldonado/punta-del-este": {
+      "name": "Punta del Este",
+      "bbox": {
+        "minLat": -34.965,
+        "minLng": -54.945,
+        "maxLat": -34.955,
+        "maxLng": -54.925
+      }
+    },
+    "uy/montevideo/montevideo": {
+      "name": "Montevideo",
+      "bbox": {
+        "minLat": -34.915,
+        "minLng": -56.22,
+        "maxLat": -34.895,
+        "maxLng": -56.19
+      }
+    },
+    "uy/rocha/cabo-polonio": {
+      "name": "Cabo Polonio",
+      "bbox": {
+        "minLat": -34.415,
+        "minLng": -53.805,
+        "maxLat": -34.395,
+        "maxLng": -53.775
+      }
+    },
     "vn/da-nang/da-nang": {
       "name": "Da Nang",
       "bbox": {
@@ -10627,6 +10672,21 @@
     ],
     "-2,-181": [
       "ec/galapagos/puerto-ayora"
+    ],
+    "-70,-113": [
+      "uy/montevideo/montevideo"
+    ],
+    "-69,-116": [
+      "uy/colonia/colonia"
+    ],
+    "-70,-110": [
+      "uy/maldonado/punta-del-este"
+    ],
+    "-69,-108": [
+      "uy/rocha/cabo-polonio"
+    ],
+    "-70,-111": [
+      "uy/canelones/piriapolis"
     ]
   }
 }

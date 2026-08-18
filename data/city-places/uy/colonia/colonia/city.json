@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uy/colonia/colonia",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "stateCode": "CO",
+  "stateName": "Colonia",
+  "cityName": "Colonia del Sacramento",
+  "bbox": {
+    "minLat": -34.478,
+    "minLng": -57.855,
+    "maxLat": -34.465,
+    "maxLng": -57.838
+  },
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "barrio-historico-colonia",
+      "name": "Barrio Historico",
+      "lat": -34.471,
+      "lng": -57.844,
+      "radiusM": 200,
+      "address": "Colonia del Sacramento",
+      "howTo": "Visit Barrio Historico.",
+      "badge": "badges/barrio-historico-colonia.png"
+    },
+    {
+      "id": "lighthouse-colonia",
+      "name": "Colonia Lighthouse",
+      "lat": -34.47,
+      "lng": -57.851,
+      "radiusM": 80,
+      "address": "Colonia del Sacramento",
+      "howTo": "Visit Colonia Lighthouse.",
+      "badge": "badges/lighthouse-colonia.png"
+    }
+  ]
+}

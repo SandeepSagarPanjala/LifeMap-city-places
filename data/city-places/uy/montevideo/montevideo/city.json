@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "uy/montevideo/montevideo",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "stateCode": "MO",
+  "stateName": "Montevideo",
+  "cityName": "Montevideo",
+  "bbox": {
+    "minLat": -34.915,
+    "minLng": -56.22,
+    "maxLat": -34.895,
+    "maxLng": -56.19
+  },
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ciudad-vieja",
+      "name": "Ciudad Vieja",
+      "lat": -34.90667,
+      "lng": -56.20833,
+      "radiusM": 200,
+      "address": "Ciudad Vieja",
+      "howTo": "Visit Ciudad Vieja.",
+      "badge": "badges/ciudad-vieja.png"
+    },
+    {
+      "id": "mercado-del-puerto",
+      "name": "Mercado del Puerto",
+      "lat": -34.9055,
+      "lng": -56.212,
+      "radiusM": 120,
+      "address": "Puerto",
+      "howTo": "Visit Mercado del Puerto.",
+      "badge": "badges/mercado-del-puerto.png"
+    },
+    {
+      "id": "palacio-salvo",
+      "name": "Palacio Salvo",
+      "lat": -34.9066,
+      "lng": -56.2019,
+      "radiusM": 80,
+      "address": "Centro",
+      "howTo": "Visit Palacio Salvo.",
+      "badge": "badges/palacio-salvo.png"
+    }
+  ]
+}

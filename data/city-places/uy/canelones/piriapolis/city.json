@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uy/canelones/piriapolis",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "stateCode": "CA",
+  "stateName": "Canelones",
+  "cityName": "Piriapolis",
+  "bbox": {
+    "minLat": -34.875,
+    "minLng": -55.285,
+    "maxLat": -34.855,
+    "maxLng": -55.265
+  },
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cerro-san-antonio",
+      "name": "Cerro San Antonio",
+      "lat": -34.868,
+      "lng": -55.274,
+      "radiusM": 200,
+      "address": "Piriapolis",
+      "howTo": "Visit Cerro San Antonio.",
+      "badge": "badges/cerro-san-antonio.png"
+    },
+    {
+      "id": "piriapolis-rambla",
+      "name": "Piriapolis Rambla",
+      "lat": -34.862,
+      "lng": -55.272,
+      "radiusM": 200,
+      "address": "Piriapolis",
+      "howTo": "Visit Piriapolis Rambla.",
+      "badge": "badges/piriapolis-rambla.png"
+    }
+  ]
+}

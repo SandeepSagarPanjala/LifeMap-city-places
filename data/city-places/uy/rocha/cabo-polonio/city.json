@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uy/rocha/cabo-polonio",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "stateCode": "RO",
+  "stateName": "Rocha",
+  "cityName": "Cabo Polonio",
+  "bbox": {
+    "minLat": -34.415,
+    "minLng": -53.805,
+    "maxLat": -34.395,
+    "maxLng": -53.775
+  },
+  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cabo-polonio-lighthouse",
+      "name": "Cabo Polonio Lighthouse",
+      "lat": -34.404,
+      "lng": -53.792,
+      "radiusM": 150,
+      "address": "Cabo Polonio",
+      "howTo": "Visit Cabo Polonio Lighthouse.",
+      "badge": "badges/cabo-polonio-lighthouse.png"
+    },
+    {
+      "id": "cabo-polonio-dunes",
+      "name": "Cabo Polonio Dunes",
+      "lat": -34.401,
+      "lng": -53.788,
+      "radiusM": 250,
+      "address": "Cabo Polonio",
+      "howTo": "Visit Cabo Polonio Dunes.",
+      "badge": "badges/cabo-polonio-dunes.png"
+    }
+  ]
+}
