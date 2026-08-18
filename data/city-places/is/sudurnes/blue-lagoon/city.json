@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "is/sudurnes/blue-lagoon",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "stateCode": "2",
+  "stateName": "Southern Peninsula",
+  "cityName": "Blue Lagoon",
+  "bbox": {
+    "minLat": 63.86,
+    "minLng": -22.7,
+    "maxLat": 63.89,
+    "maxLng": -22.43
+  },
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blue-lagoon",
+      "name": "Blue Lagoon",
+      "lat": 63.8804,
+      "lng": -22.4495,
+      "radiusM": 200,
+      "address": "Grindavik",
+      "howTo": "Visit Blue Lagoon.",
+      "badge": "badges/blue-lagoon.png"
+    },
+    {
+      "id": "bridge-between-continents",
+      "name": "Bridge Between Continents",
+      "lat": 63.868,
+      "lng": -22.675,
+      "radiusM": 150,
+      "address": "Reykjanes",
+      "howTo": "Visit Bridge Between Continents.",
+      "badge": "badges/bridge-between-continents.png"
+    }
+  ]
+}

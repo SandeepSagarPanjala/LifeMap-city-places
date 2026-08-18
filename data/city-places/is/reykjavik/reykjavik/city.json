@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "is/reykjavik/reykjavik",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "stateCode": "1",
+  "stateName": "Capital Region",
+  "cityName": "Reykjavik",
+  "bbox": {
+    "minLat": 64.12,
+    "minLng": -21.95,
+    "maxLat": 64.16,
+    "maxLng": -21.88
+  },
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hallgrimskirkja",
+      "name": "Hallgrimskirkja",
+      "lat": 64.1417,
+      "lng": -21.9266,
+      "radiusM": 120,
+      "address": "Skolavorduholt",
+      "howTo": "Visit Hallgrimskirkja.",
+      "badge": "badges/hallgrimskirkja.png"
+    },
+    {
+      "id": "harpa",
+      "name": "Harpa Concert Hall",
+      "lat": 64.1504,
+      "lng": -21.9326,
+      "radiusM": 120,
+      "address": "Austurhofn",
+      "howTo": "Visit Harpa Concert Hall.",
+      "badge": "badges/harpa.png"
+    },
+    {
+      "id": "sun-voyager",
+      "name": "Sun Voyager",
+      "lat": 64.1475,
+      "lng": -21.9224,
+      "radiusM": 80,
+      "address": "Saebraut",
+      "howTo": "Visit Sun Voyager.",
+      "badge": "badges/sun-voyager.png"
+    },
+    {
+      "id": "perlan",
+      "name": "Perlan",
+      "lat": 64.129,
+      "lng": -21.916,
+      "radiusM": 150,
+      "address": "Oskjuhlid",
+      "howTo": "Visit Perlan.",
+      "badge": "badges/perlan.png"
+    }
+  ]
+}

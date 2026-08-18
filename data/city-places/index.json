@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T06:45:00.000Z",
-  "notes": "Queue through Poland complete. Next: Iceland (is) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "notes": "Queue through Iceland complete. Next: Sweden (se) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12003,6 +12003,111 @@
                 "minLng": 16.92,
                 "maxLat": 52.42,
                 "maxLng": 16.94
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "is",
+      "countryCode": "IS",
+      "name": "Iceland",
+      "states": [
+        {
+          "id": "reykjavik",
+          "stateCode": "1",
+          "name": "Capital Region",
+          "cities": [
+            {
+              "id": "reykjavik",
+              "name": "Reykjavik",
+              "status": "complete",
+              "packPath": "is/reykjavik/reykjavik/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T07:00:00.000Z",
+              "bbox": {
+                "minLat": 64.12,
+                "minLng": -21.95,
+                "maxLat": 64.16,
+                "maxLng": -21.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "south",
+          "stateCode": "8",
+          "name": "South",
+          "cities": [
+            {
+              "id": "golden-circle",
+              "name": "Golden Circle",
+              "status": "complete",
+              "packPath": "is/south/golden-circle/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T07:00:00.000Z",
+              "bbox": {
+                "minLat": 64.0,
+                "minLng": -21.2,
+                "maxLat": 64.35,
+                "maxLng": -20.1
+              }
+            },
+            {
+              "id": "vik",
+              "name": "Vik",
+              "status": "complete",
+              "packPath": "is/south/vik/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:00:00.000Z",
+              "bbox": {
+                "minLat": 63.39,
+                "minLng": -19.55,
+                "maxLat": 63.55,
+                "maxLng": -19.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "sudurnes",
+          "stateCode": "2",
+          "name": "Southern Peninsula",
+          "cities": [
+            {
+              "id": "blue-lagoon",
+              "name": "Blue Lagoon",
+              "status": "complete",
+              "packPath": "is/sudurnes/blue-lagoon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:00:00.000Z",
+              "bbox": {
+                "minLat": 63.86,
+                "minLng": -22.7,
+                "maxLat": 63.89,
+                "maxLng": -22.43
+              }
+            }
+          ]
+        },
+        {
+          "id": "east",
+          "stateCode": "7",
+          "name": "East",
+          "cities": [
+            {
+              "id": "jokulsarlon",
+              "name": "Jokulsarlon",
+              "status": "complete",
+              "packPath": "is/east/jokulsarlon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:00:00.000Z",
+              "bbox": {
+                "minLat": 64.04,
+                "minLng": -16.22,
+                "maxLat": 64.08,
+                "maxLng": -16.17
               }
             }
           ]

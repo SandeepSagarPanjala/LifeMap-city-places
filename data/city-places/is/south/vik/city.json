@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "is/south/vik",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "stateCode": "8",
+  "stateName": "South",
+  "cityName": "Vik",
+  "bbox": {
+    "minLat": 63.39,
+    "minLng": -19.55,
+    "maxLat": 63.55,
+    "maxLng": -19.0
+  },
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "reynisfjara",
+      "name": "Reynisfjara Black Sand Beach",
+      "lat": 63.4047,
+      "lng": -19.043,
+      "radiusM": 250,
+      "address": "Reynisfjara",
+      "howTo": "Visit Reynisfjara Black Sand Beach.",
+      "badge": "badges/reynisfjara.png"
+    },
+    {
+      "id": "skogafoss",
+      "name": "Skogafoss",
+      "lat": 63.5321,
+      "lng": -19.5115,
+      "radiusM": 200,
+      "address": "Skogar",
+      "howTo": "Visit Skogafoss.",
+      "badge": "badges/skogafoss.png"
+    }
+  ]
+}

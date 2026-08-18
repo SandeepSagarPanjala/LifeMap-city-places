@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "is/east/jokulsarlon",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "stateCode": "7",
+  "stateName": "East",
+  "cityName": "Jokulsarlon",
+  "bbox": {
+    "minLat": 64.04,
+    "minLng": -16.22,
+    "maxLat": 64.08,
+    "maxLng": -16.17
+  },
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jokulsarlon-lagoon",
+      "name": "Jokulsarlon Glacier Lagoon",
+      "lat": 64.0485,
+      "lng": -16.179,
+      "radiusM": 300,
+      "address": "Jokulsarlon",
+      "howTo": "Visit Jokulsarlon Glacier Lagoon.",
+      "badge": "badges/jokulsarlon-lagoon.png"
+    },
+    {
+      "id": "diamond-beach",
+      "name": "Diamond Beach",
+      "lat": 64.044,
+      "lng": -16.178,
+      "radiusM": 250,
+      "address": "Breidamerkursandur",
+      "howTo": "Visit Diamond Beach.",
+      "badge": "badges/diamond-beach.png"
+    }
+  ]
+}

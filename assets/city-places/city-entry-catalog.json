@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:40:02.301Z",
+  "generatedAt": "2026-08-18T00:45:30.856Z",
   "cellDeg": 0.5,
-  "cityCount": 660,
+  "cityCount": 665,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -2639,6 +2639,51 @@
         "minLng": 88.3,
         "maxLat": 22.6,
         "maxLng": 88.4
+      }
+    },
+    "is/east/jokulsarlon": {
+      "name": "Jokulsarlon",
+      "bbox": {
+        "minLat": 64.04,
+        "minLng": -16.22,
+        "maxLat": 64.08,
+        "maxLng": -16.17
+      }
+    },
+    "is/reykjavik/reykjavik": {
+      "name": "Reykjavik",
+      "bbox": {
+        "minLat": 64.12,
+        "minLng": -21.95,
+        "maxLat": 64.16,
+        "maxLng": -21.88
+      }
+    },
+    "is/south/golden-circle": {
+      "name": "Golden Circle",
+      "bbox": {
+        "minLat": 64,
+        "minLng": -21.2,
+        "maxLat": 64.35,
+        "maxLng": -20.1
+      }
+    },
+    "is/south/vik": {
+      "name": "Vik",
+      "bbox": {
+        "minLat": 63.39,
+        "minLng": -19.55,
+        "maxLat": 63.55,
+        "maxLng": -19
+      }
+    },
+    "is/sudurnes/blue-lagoon": {
+      "name": "Blue Lagoon",
+      "bbox": {
+        "minLat": 63.86,
+        "minLng": -22.7,
+        "maxLat": 63.89,
+        "maxLng": -22.43
       }
     },
     "it/campania/amalfi": {
@@ -9442,6 +9487,45 @@
     ],
     "104,33": [
       "pl/wielkopolskie/poznan"
+    ],
+    "128,-44": [
+      "is/reykjavik/reykjavik"
+    ],
+    "128,-43": [
+      "is/south/golden-circle"
+    ],
+    "128,-42": [
+      "is/south/golden-circle"
+    ],
+    "128,-41": [
+      "is/south/golden-circle"
+    ],
+    "126,-40": [
+      "is/south/vik"
+    ],
+    "126,-39": [
+      "is/south/vik"
+    ],
+    "126,-38": [
+      "is/south/vik"
+    ],
+    "127,-40": [
+      "is/south/vik"
+    ],
+    "127,-39": [
+      "is/south/vik"
+    ],
+    "127,-38": [
+      "is/south/vik"
+    ],
+    "127,-46": [
+      "is/sudurnes/blue-lagoon"
+    ],
+    "127,-45": [
+      "is/sudurnes/blue-lagoon"
+    ],
+    "128,-33": [
+      "is/east/jokulsarlon"
     ]
   }
 }

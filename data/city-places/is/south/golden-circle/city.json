@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "is/south/golden-circle",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "stateCode": "8",
+  "stateName": "South",
+  "cityName": "Golden Circle",
+  "bbox": {
+    "minLat": 64.0,
+    "minLng": -21.2,
+    "maxLat": 64.35,
+    "maxLng": -20.1
+  },
+  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gullfoss",
+      "name": "Gullfoss",
+      "lat": 64.3271,
+      "lng": -20.12,
+      "radiusM": 250,
+      "address": "Golden Circle",
+      "howTo": "Visit Gullfoss.",
+      "badge": "badges/gullfoss.png"
+    },
+    {
+      "id": "geysir",
+      "name": "Geysir",
+      "lat": 64.3104,
+      "lng": -20.3024,
+      "radiusM": 200,
+      "address": "Haukadalur",
+      "howTo": "Visit Geysir.",
+      "badge": "badges/geysir.png"
+    },
+    {
+      "id": "thingvellir",
+      "name": "Thingvellir National Park",
+      "lat": 64.255,
+      "lng": -21.13,
+      "radiusM": 400,
+      "address": "Thingvellir",
+      "howTo": "Visit Thingvellir National Park.",
+      "badge": "badges/thingvellir.png"
+    }
+  ]
+}
