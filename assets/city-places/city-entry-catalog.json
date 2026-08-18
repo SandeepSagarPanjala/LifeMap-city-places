@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:20:10.606Z",
+  "generatedAt": "2026-08-18T01:23:36.996Z",
   "cellDeg": 0.5,
-  "cityCount": 699,
+  "cityCount": 704,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -2027,6 +2027,51 @@
         "minLng": -9.55,
         "maxLat": 52.07,
         "maxLng": -9.48
+      }
+    },
+    "il/haifa/haifa": {
+      "name": "Haifa",
+      "bbox": {
+        "minLat": 32.808,
+        "minLng": 34.965,
+        "maxLat": 32.832,
+        "maxLng": 34.99
+      }
+    },
+    "il/jerusalem/jerusalem": {
+      "name": "Jerusalem",
+      "bbox": {
+        "minLat": 31.775,
+        "minLng": 35.226,
+        "maxLat": 31.78,
+        "maxLng": 35.237
+      }
+    },
+    "il/northern/acre": {
+      "name": "Acre",
+      "bbox": {
+        "minLat": 32.918,
+        "minLng": 35.066,
+        "maxLat": 32.926,
+        "maxLng": 35.075
+      }
+    },
+    "il/southern/masada": {
+      "name": "Masada",
+      "bbox": {
+        "minLat": 31.31,
+        "minLng": 35.35,
+        "maxLat": 31.32,
+        "maxLng": 35.36
+      }
+    },
+    "il/tel-aviv/tel-aviv": {
+      "name": "Tel Aviv",
+      "bbox": {
+        "minLat": 32.05,
+        "minLng": 34.748,
+        "maxLat": 32.085,
+        "maxLng": 34.772
       }
     },
     "in/andaman-and-nicobar/port-blair": {
@@ -9934,6 +9979,21 @@
     ],
     "64,71": [
       "jo/jerash/jerash"
+    ],
+    "63,70": [
+      "il/jerusalem/jerusalem"
+    ],
+    "64,69": [
+      "il/tel-aviv/tel-aviv"
+    ],
+    "65,69": [
+      "il/haifa/haifa"
+    ],
+    "62,70": [
+      "il/southern/masada"
+    ],
+    "65,70": [
+      "il/northern/acre"
     ]
   }
 }

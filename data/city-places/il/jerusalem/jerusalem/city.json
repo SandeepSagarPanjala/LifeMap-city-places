@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "il/jerusalem/jerusalem",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "stateCode": "JM",
+  "stateName": "Jerusalem",
+  "cityName": "Jerusalem",
+  "bbox": {
+    "minLat": 31.775,
+    "minLng": 35.226,
+    "maxLat": 31.78,
+    "maxLng": 35.237
+  },
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "western-wall",
+      "name": "Western Wall",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "radiusM": 80,
+      "address": "Old City",
+      "howTo": "Visit Western Wall.",
+      "badge": "badges/western-wall.png"
+    },
+    {
+      "id": "dome-of-the-rock",
+      "name": "Dome of the Rock",
+      "lat": 31.7781,
+      "lng": 35.2354,
+      "radiusM": 80,
+      "address": "Temple Mount",
+      "howTo": "Visit Dome of the Rock.",
+      "badge": "badges/dome-of-the-rock.png"
+    },
+    {
+      "id": "holy-sepulchre",
+      "name": "Church of the Holy Sepulchre",
+      "lat": 31.7784,
+      "lng": 35.2296,
+      "radiusM": 80,
+      "address": "Christian Quarter",
+      "howTo": "Visit Church of the Holy Sepulchre.",
+      "badge": "badges/holy-sepulchre.png"
+    },
+    {
+      "id": "tower-of-david",
+      "name": "Tower of David",
+      "lat": 31.7763,
+      "lng": 35.2285,
+      "radiusM": 100,
+      "address": "Jaffa Gate",
+      "howTo": "Visit Tower of David.",
+      "badge": "badges/tower-of-david.png"
+    }
+  ]
+}

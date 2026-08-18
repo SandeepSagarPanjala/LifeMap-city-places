@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "il/northern/acre",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "stateCode": "Z",
+  "stateName": "Northern",
+  "cityName": "Acre",
+  "bbox": {
+    "minLat": 32.918,
+    "minLng": 35.066,
+    "maxLat": 32.926,
+    "maxLng": 35.075
+  },
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "acre-old-city",
+      "name": "Acre Old City",
+      "lat": 32.9216,
+      "lng": 35.07,
+      "radiusM": 200,
+      "address": "Old Acre walls",
+      "howTo": "Visit Acre Old City.",
+      "badge": "badges/acre-old-city.png"
+    },
+    {
+      "id": "knights-halls",
+      "name": "Knights' Halls",
+      "lat": 32.9234,
+      "lng": 35.0708,
+      "radiusM": 120,
+      "address": "Hospitaller Fortress",
+      "howTo": "Visit Knights' Halls.",
+      "badge": "badges/knights-halls.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "il/tel-aviv/tel-aviv",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "stateCode": "TA",
+  "stateName": "Tel Aviv",
+  "cityName": "Tel Aviv",
+  "bbox": {
+    "minLat": 32.05,
+    "minLng": 34.748,
+    "maxLat": 32.085,
+    "maxLng": 34.772
+  },
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jaffa-old-city",
+      "name": "Jaffa Old City",
+      "lat": 32.054,
+      "lng": 34.7522,
+      "radiusM": 180,
+      "address": "Old Jaffa",
+      "howTo": "Visit Jaffa Old City.",
+      "badge": "badges/jaffa-old-city.png"
+    },
+    {
+      "id": "tel-aviv-promenade",
+      "name": "Tel Aviv Promenade",
+      "lat": 32.0815,
+      "lng": 34.7673,
+      "radiusM": 200,
+      "address": "Gordon Beach",
+      "howTo": "Visit Tel Aviv Promenade.",
+      "badge": "badges/tel-aviv-promenade.png"
+    }
+  ]
+}

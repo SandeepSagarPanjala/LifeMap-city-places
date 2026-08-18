@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T08:50:00.000Z",
-  "notes": "Queue through Jordan complete. Next: Israel (il) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "notes": "Queue through Israel complete. Next: Cambodia (kh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12857,6 +12857,118 @@
                 "minLng": 35.72,
                 "maxLat": 31.77,
                 "maxLng": 35.8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "il",
+      "countryCode": "IL",
+      "name": "Israel",
+      "states": [
+        {
+          "id": "jerusalem",
+          "stateCode": "JM",
+          "name": "Jerusalem",
+          "cities": [
+            {
+              "id": "jerusalem",
+              "name": "Jerusalem",
+              "status": "complete",
+              "packPath": "il/jerusalem/jerusalem/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T09:00:00.000Z",
+              "bbox": {
+                "minLat": 31.775,
+                "minLng": 35.226,
+                "maxLat": 31.78,
+                "maxLng": 35.237
+              }
+            }
+          ]
+        },
+        {
+          "id": "tel-aviv",
+          "stateCode": "TA",
+          "name": "Tel Aviv",
+          "cities": [
+            {
+              "id": "tel-aviv",
+              "name": "Tel Aviv",
+              "status": "complete",
+              "packPath": "il/tel-aviv/tel-aviv/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:00:00.000Z",
+              "bbox": {
+                "minLat": 32.05,
+                "minLng": 34.748,
+                "maxLat": 32.085,
+                "maxLng": 34.772
+              }
+            }
+          ]
+        },
+        {
+          "id": "haifa",
+          "stateCode": "HA",
+          "name": "Haifa",
+          "cities": [
+            {
+              "id": "haifa",
+              "name": "Haifa",
+              "status": "complete",
+              "packPath": "il/haifa/haifa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:00:00.000Z",
+              "bbox": {
+                "minLat": 32.808,
+                "minLng": 34.965,
+                "maxLat": 32.832,
+                "maxLng": 34.99
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "D",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "masada",
+              "name": "Masada",
+              "status": "complete",
+              "packPath": "il/southern/masada/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T09:00:00.000Z",
+              "bbox": {
+                "minLat": 31.31,
+                "minLng": 35.35,
+                "maxLat": 31.32,
+                "maxLng": 35.36
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern",
+          "stateCode": "Z",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "acre",
+              "name": "Acre",
+              "status": "complete",
+              "packPath": "il/northern/acre/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:00:00.000Z",
+              "bbox": {
+                "minLat": 32.918,
+                "minLng": 35.066,
+                "maxLat": 32.926,
+                "maxLng": 35.075
               }
             }
           ]

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "il/southern/masada",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "stateCode": "D",
+  "stateName": "Southern",
+  "cityName": "Masada",
+  "bbox": {
+    "minLat": 31.31,
+    "minLng": 35.35,
+    "maxLat": 31.32,
+    "maxLng": 35.36
+  },
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "masada",
+      "name": "Masada",
+      "lat": 31.3157,
+      "lng": 35.3539,
+      "radiusM": 250,
+      "address": "Masada National Park",
+      "howTo": "Visit Masada.",
+      "badge": "badges/masada.png"
+    }
+  ]
+}

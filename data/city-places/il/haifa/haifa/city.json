@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "il/haifa/haifa",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "stateCode": "HA",
+  "stateName": "Haifa",
+  "cityName": "Haifa",
+  "bbox": {
+    "minLat": 32.808,
+    "minLng": 34.965,
+    "maxLat": 32.832,
+    "maxLng": 34.99
+  },
+  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bahai-gardens",
+      "name": "Baha'i Gardens",
+      "lat": 32.8116,
+      "lng": 34.9864,
+      "radiusM": 200,
+      "address": "German Colony",
+      "howTo": "Visit Baha'i Gardens.",
+      "badge": "badges/bahai-gardens.png"
+    },
+    {
+      "id": "stella-maris",
+      "name": "Stella Maris",
+      "lat": 32.8278,
+      "lng": 34.9695,
+      "radiusM": 100,
+      "address": "Carmel",
+      "howTo": "Visit Stella Maris.",
+      "badge": "badges/stella-maris.png"
+    }
+  ]
+}
