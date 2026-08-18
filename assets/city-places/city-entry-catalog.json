@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:33:29.653Z",
+  "generatedAt": "2026-08-18T03:37:38.644Z",
   "cellDeg": 0.5,
-  "cityCount": 849,
+  "cityCount": 854,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -74,6 +74,51 @@
         "minLng": 19.998,
         "maxLat": 39.88,
         "maxLng": 20.025
+      }
+    },
+    "am/kotayk/garni": {
+      "name": "Garni",
+      "bbox": {
+        "minLat": 40.108,
+        "minLng": 44.718,
+        "maxLat": 40.122,
+        "maxLng": 44.735
+      }
+    },
+    "am/kotayk/geghard": {
+      "name": "Geghard",
+      "bbox": {
+        "minLat": 40.138,
+        "minLng": 44.815,
+        "maxLat": 40.143,
+        "maxLng": 44.822
+      }
+    },
+    "am/syunik/tatev": {
+      "name": "Tatev",
+      "bbox": {
+        "minLat": 39.375,
+        "minLng": 46.245,
+        "maxLat": 39.412,
+        "maxLng": 46.278
+      }
+    },
+    "am/tavush/dilijan": {
+      "name": "Dilijan",
+      "bbox": {
+        "minLat": 40.735,
+        "minLng": 44.855,
+        "maxLat": 40.805,
+        "maxLng": 44.895
+      }
+    },
+    "am/yerevan/yerevan": {
+      "name": "Yerevan",
+      "bbox": {
+        "minLat": 40.175,
+        "minLng": 44.508,
+        "maxLat": 40.195,
+        "maxLng": 44.525
       }
     },
     "ar/buenos-aires/buenos-aires": {
@@ -11801,6 +11846,17 @@
     ],
     "118,56": [
       "ee/ida-viru/narva"
+    ],
+    "80,89": [
+      "am/kotayk/garni",
+      "am/kotayk/geghard",
+      "am/yerevan/yerevan"
+    ],
+    "81,89": [
+      "am/tavush/dilijan"
+    ],
+    "78,92": [
+      "am/syunik/tatev"
     ]
   }
 }

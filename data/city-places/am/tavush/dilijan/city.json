@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "am/tavush/dilijan",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "stateCode": "TV",
+  "stateName": "Tavush",
+  "cityName": "Dilijan",
+  "bbox": {
+    "minLat": 40.735,
+    "minLng": 44.855,
+    "maxLat": 40.805,
+    "maxLng": 44.895
+  },
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dilijan-old-town",
+      "name": "Dilijan Old Town",
+      "lat": 40.7408,
+      "lng": 44.863,
+      "radiusM": 120,
+      "address": "Sharambeyan",
+      "howTo": "Visit Dilijan Old Town.",
+      "badge": "badges/dilijan-old-town.png"
+    },
+    {
+      "id": "haghartsin",
+      "name": "Haghartsin Monastery",
+      "lat": 40.8014,
+      "lng": 44.8903,
+      "radiusM": 80,
+      "address": "Dilijan NP",
+      "howTo": "Visit Haghartsin Monastery.",
+      "badge": "badges/haghartsin.png"
+    }
+  ]
+}

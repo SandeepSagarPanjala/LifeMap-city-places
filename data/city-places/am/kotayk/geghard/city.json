@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "am/kotayk/geghard",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "stateCode": "KT",
+  "stateName": "Kotayk",
+  "cityName": "Geghard",
+  "bbox": {
+    "minLat": 40.138,
+    "minLng": 44.815,
+    "maxLat": 40.143,
+    "maxLng": 44.822
+  },
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "geghard-monastery",
+      "name": "Geghard Monastery",
+      "lat": 40.1403,
+      "lng": 44.8185,
+      "radiusM": 80,
+      "address": "Azat Gorge",
+      "howTo": "Visit Geghard Monastery.",
+      "badge": "badges/geghard-monastery.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "am/kotayk/garni",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "stateCode": "KT",
+  "stateName": "Kotayk",
+  "cityName": "Garni",
+  "bbox": {
+    "minLat": 40.108,
+    "minLng": 44.718,
+    "maxLat": 40.122,
+    "maxLng": 44.735
+  },
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "garni-temple",
+      "name": "Garni Temple",
+      "lat": 40.1124,
+      "lng": 44.7302,
+      "radiusM": 80,
+      "address": "Garni",
+      "howTo": "Visit Garni Temple.",
+      "badge": "badges/garni-temple.png"
+    },
+    {
+      "id": "symphony-of-stones",
+      "name": "Symphony of Stones",
+      "lat": 40.119,
+      "lng": 44.722,
+      "radiusM": 150,
+      "address": "Azat Gorge",
+      "howTo": "Visit Symphony of Stones.",
+      "badge": "badges/symphony-of-stones.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "am/syunik/tatev",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "stateCode": "SU",
+  "stateName": "Syunik",
+  "cityName": "Tatev",
+  "bbox": {
+    "minLat": 39.375,
+    "minLng": 46.245,
+    "maxLat": 39.412,
+    "maxLng": 46.278
+  },
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tatev-monastery",
+      "name": "Tatev Monastery",
+      "lat": 39.3794,
+      "lng": 46.2503,
+      "radiusM": 100,
+      "address": "Syunik",
+      "howTo": "Visit Tatev Monastery.",
+      "badge": "badges/tatev-monastery.png"
+    },
+    {
+      "id": "wings-of-tatev",
+      "name": "Wings of Tatev",
+      "lat": 39.407,
+      "lng": 46.272,
+      "radiusM": 80,
+      "address": "Halidzor",
+      "howTo": "Visit Wings of Tatev.",
+      "badge": "badges/wings-of-tatev.png"
+    }
+  ]
+}

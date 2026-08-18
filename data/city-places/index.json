@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:33:29.000Z",
-  "notes": "Estonia (ee) complete. Next: Armenia (am) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "notes": "Armenia (am) complete. Next: Azerbaijan (az) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16028,6 +16028,111 @@
                 "minLng": 28.192,
                 "maxLat": 59.382,
                 "maxLng": 28.201
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "am",
+      "countryCode": "AM",
+      "name": "Armenia",
+      "states": [
+        {
+          "id": "yerevan",
+          "stateCode": "ER",
+          "name": "Yerevan",
+          "cities": [
+            {
+              "id": "yerevan",
+              "name": "Yerevan",
+              "status": "complete",
+              "packPath": "am/yerevan/yerevan/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:37:38.000Z",
+              "bbox": {
+                "minLat": 40.175,
+                "minLng": 44.508,
+                "maxLat": 40.195,
+                "maxLng": 44.525
+              }
+            }
+          ]
+        },
+        {
+          "id": "kotayk",
+          "stateCode": "KT",
+          "name": "Kotayk",
+          "cities": [
+            {
+              "id": "garni",
+              "name": "Garni",
+              "status": "complete",
+              "packPath": "am/kotayk/garni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:37:38.000Z",
+              "bbox": {
+                "minLat": 40.108,
+                "minLng": 44.718,
+                "maxLat": 40.122,
+                "maxLng": 44.735
+              }
+            },
+            {
+              "id": "geghard",
+              "name": "Geghard",
+              "status": "complete",
+              "packPath": "am/kotayk/geghard/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:37:38.000Z",
+              "bbox": {
+                "minLat": 40.138,
+                "minLng": 44.815,
+                "maxLat": 40.143,
+                "maxLng": 44.822
+              }
+            }
+          ]
+        },
+        {
+          "id": "tavush",
+          "stateCode": "TV",
+          "name": "Tavush",
+          "cities": [
+            {
+              "id": "dilijan",
+              "name": "Dilijan",
+              "status": "complete",
+              "packPath": "am/tavush/dilijan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:37:38.000Z",
+              "bbox": {
+                "minLat": 40.735,
+                "minLng": 44.855,
+                "maxLat": 40.805,
+                "maxLng": 44.895
+              }
+            }
+          ]
+        },
+        {
+          "id": "syunik",
+          "stateCode": "SU",
+          "name": "Syunik",
+          "cities": [
+            {
+              "id": "tatev",
+              "name": "Tatev",
+              "status": "complete",
+              "packPath": "am/syunik/tatev/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:37:38.000Z",
+              "bbox": {
+                "minLat": 39.375,
+                "minLng": 46.245,
+                "maxLat": 39.412,
+                "maxLng": 46.278
               }
             }
           ]

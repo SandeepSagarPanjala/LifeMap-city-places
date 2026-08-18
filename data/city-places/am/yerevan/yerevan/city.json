@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "am/yerevan/yerevan",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "stateCode": "ER",
+  "stateName": "Yerevan",
+  "cityName": "Yerevan",
+  "bbox": {
+    "minLat": 40.175,
+    "minLng": 44.508,
+    "maxLat": 40.195,
+    "maxLng": 44.525
+  },
+  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "republic-square",
+      "name": "Republic Square",
+      "lat": 40.17778,
+      "lng": 44.51278,
+      "radiusM": 150,
+      "address": "Kentron",
+      "howTo": "Visit Republic Square.",
+      "badge": "badges/republic-square.png"
+    },
+    {
+      "id": "cascade",
+      "name": "The Cascade",
+      "lat": 40.19111,
+      "lng": 44.51556,
+      "radiusM": 120,
+      "address": "Kentron",
+      "howTo": "Visit The Cascade.",
+      "badge": "badges/cascade.png"
+    },
+    {
+      "id": "matenadaran",
+      "name": "Matenadaran",
+      "lat": 40.1922,
+      "lng": 44.5211,
+      "radiusM": 60,
+      "address": "Mashtots Avenue",
+      "howTo": "Visit Matenadaran.",
+      "badge": "badges/matenadaran.png"
+    }
+  ]
+}
