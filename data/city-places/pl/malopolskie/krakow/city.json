@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pl/malopolskie/krakow",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "stateCode": "MP",
+  "stateName": "Malopolskie",
+  "cityName": "Krakow",
+  "bbox": {
+    "minLat": 50.04,
+    "minLng": 19.92,
+    "maxLat": 50.07,
+    "maxLng": 19.96
+  },
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wawel-castle",
+      "name": "Wawel Castle",
+      "lat": 50.0546,
+      "lng": 19.9366,
+      "radiusM": 200,
+      "address": "Wawel",
+      "howTo": "Visit Wawel Castle.",
+      "badge": "badges/wawel-castle.png"
+    },
+    {
+      "id": "rynek-glowny",
+      "name": "Main Market Square",
+      "lat": 50.0619,
+      "lng": 19.937,
+      "radiusM": 200,
+      "address": "Rynek Glowny",
+      "howTo": "Visit Main Market Square.",
+      "badge": "badges/rynek-glowny.png"
+    },
+    {
+      "id": "st-marys-basilica-krakow",
+      "name": "St Mary's Basilica",
+      "lat": 50.0617,
+      "lng": 19.9394,
+      "radiusM": 100,
+      "address": "Rynek Glowny",
+      "howTo": "Visit St Mary's Basilica.",
+      "badge": "badges/st-marys-basilica-krakow.png"
+    }
+  ]
+}

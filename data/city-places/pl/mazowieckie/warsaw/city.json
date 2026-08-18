@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "pl/mazowieckie/warsaw",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "stateCode": "MZ",
+  "stateName": "Mazowieckie",
+  "cityName": "Warsaw",
+  "bbox": {
+    "minLat": 52.22,
+    "minLng": 21.0,
+    "maxLat": 52.26,
+    "maxLng": 21.04
+  },
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "old-town-warsaw",
+      "name": "Warsaw Old Town",
+      "lat": 52.2497,
+      "lng": 21.0122,
+      "radiusM": 200,
+      "address": "Stare Miasto",
+      "howTo": "Visit Warsaw Old Town.",
+      "badge": "badges/old-town-warsaw.png"
+    },
+    {
+      "id": "royal-castle-warsaw",
+      "name": "Royal Castle",
+      "lat": 52.2479,
+      "lng": 21.0145,
+      "radiusM": 150,
+      "address": "Plac Zamkowy",
+      "howTo": "Visit Royal Castle.",
+      "badge": "badges/royal-castle-warsaw.png"
+    },
+    {
+      "id": "palace-of-culture",
+      "name": "Palace of Culture and Science",
+      "lat": 52.2319,
+      "lng": 21.0067,
+      "radiusM": 150,
+      "address": "Parades Square",
+      "howTo": "Visit Palace of Culture and Science.",
+      "badge": "badges/palace-of-culture.png"
+    },
+    {
+      "id": "lazienki-park",
+      "name": "Lazienki Park",
+      "lat": 52.2147,
+      "lng": 21.035,
+      "radiusM": 300,
+      "address": "Lazienki Krolewskie",
+      "howTo": "Visit Lazienki Park.",
+      "badge": "badges/lazienki-park.png"
+    }
+  ]
+}

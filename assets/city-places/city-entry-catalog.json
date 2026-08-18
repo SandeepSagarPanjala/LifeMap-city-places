@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:34:29.136Z",
+  "generatedAt": "2026-08-18T00:40:02.301Z",
   "cellDeg": 0.5,
-  "cityCount": 655,
+  "cityCount": 660,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3917,6 +3917,51 @@
         "minLng": 118.72,
         "maxLat": 9.76,
         "maxLng": 118.77
+      }
+    },
+    "pl/malopolskie/krakow": {
+      "name": "Krakow",
+      "bbox": {
+        "minLat": 50.04,
+        "minLng": 19.92,
+        "maxLat": 50.07,
+        "maxLng": 19.96
+      }
+    },
+    "pl/malopolskie/zakopane": {
+      "name": "Zakopane",
+      "bbox": {
+        "minLat": 49.28,
+        "minLng": 19.94,
+        "maxLat": 49.32,
+        "maxLng": 20
+      }
+    },
+    "pl/mazowieckie/warsaw": {
+      "name": "Warsaw",
+      "bbox": {
+        "minLat": 52.22,
+        "minLng": 21,
+        "maxLat": 52.26,
+        "maxLng": 21.04
+      }
+    },
+    "pl/pomorskie/gdansk": {
+      "name": "Gdansk",
+      "bbox": {
+        "minLat": 54.34,
+        "minLng": 18.64,
+        "maxLat": 54.36,
+        "maxLng": 18.66
+      }
+    },
+    "pl/wielkopolskie/poznan": {
+      "name": "Poznan",
+      "bbox": {
+        "minLat": 52.4,
+        "minLng": 16.92,
+        "maxLat": 52.42,
+        "maxLng": 16.94
       }
     },
     "pt/acores/ponta-delgada": {
@@ -9379,6 +9424,24 @@
     ],
     "93,36": [
       "hu/veszprem/lake-balaton"
+    ],
+    "104,42": [
+      "pl/mazowieckie/warsaw"
+    ],
+    "100,39": [
+      "pl/malopolskie/krakow"
+    ],
+    "98,39": [
+      "pl/malopolskie/zakopane"
+    ],
+    "98,40": [
+      "pl/malopolskie/zakopane"
+    ],
+    "108,37": [
+      "pl/pomorskie/gdansk"
+    ],
+    "104,33": [
+      "pl/wielkopolskie/poznan"
     ]
   }
 }

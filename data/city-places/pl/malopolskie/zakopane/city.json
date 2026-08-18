@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pl/malopolskie/zakopane",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "stateCode": "MP",
+  "stateName": "Malopolskie",
+  "cityName": "Zakopane",
+  "bbox": {
+    "minLat": 49.28,
+    "minLng": 19.94,
+    "maxLat": 49.32,
+    "maxLng": 20.0
+  },
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "krupowki-street",
+      "name": "Krupowki Street",
+      "lat": 49.294,
+      "lng": 19.958,
+      "radiusM": 200,
+      "address": "Krupowki",
+      "howTo": "Visit Krupowki Street.",
+      "badge": "badges/krupowki-street.png"
+    },
+    {
+      "id": "gubalowka",
+      "name": "Gubalowka",
+      "lat": 49.307,
+      "lng": 19.948,
+      "radiusM": 250,
+      "address": "Gubalowka",
+      "howTo": "Visit Gubalowka.",
+      "badge": "badges/gubalowka.png"
+    }
+  ]
+}

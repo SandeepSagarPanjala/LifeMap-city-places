@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pl/pomorskie/gdansk",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "stateCode": "PM",
+  "stateName": "Pomorskie",
+  "cityName": "Gdansk",
+  "bbox": {
+    "minLat": 54.34,
+    "minLng": 18.64,
+    "maxLat": 54.36,
+    "maxLng": 18.66
+  },
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gdansk-old-town",
+      "name": "Gdansk Old Town",
+      "lat": 54.349,
+      "lng": 18.653,
+      "radiusM": 200,
+      "address": "Dlugi Targ",
+      "howTo": "Visit Gdansk Old Town.",
+      "badge": "badges/gdansk-old-town.png"
+    },
+    {
+      "id": "neptune-fountain-gdansk",
+      "name": "Neptune Fountain",
+      "lat": 54.3485,
+      "lng": 18.6533,
+      "radiusM": 80,
+      "address": "Dlugi Targ",
+      "howTo": "Visit Neptune Fountain.",
+      "badge": "badges/neptune-fountain-gdansk.png"
+    }
+  ]
+}

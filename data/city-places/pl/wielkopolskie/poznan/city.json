@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pl/wielkopolskie/poznan",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "stateCode": "WP",
+  "stateName": "Wielkopolskie",
+  "cityName": "Poznan",
+  "bbox": {
+    "minLat": 52.4,
+    "minLng": 16.92,
+    "maxLat": 52.42,
+    "maxLng": 16.94
+  },
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "poznan-old-market",
+      "name": "Poznan Old Market Square",
+      "lat": 52.408,
+      "lng": 16.934,
+      "radiusM": 150,
+      "address": "Stary Rynek",
+      "howTo": "Visit Poznan Old Market Square.",
+      "badge": "badges/poznan-old-market.png"
+    },
+    {
+      "id": "poznan-cathedral",
+      "name": "Poznan Cathedral",
+      "lat": 52.4115,
+      "lng": 16.948,
+      "radiusM": 120,
+      "address": "Ostrow Tumski",
+      "howTo": "Visit Poznan Cathedral.",
+      "badge": "badges/poznan-cathedral.png"
+    }
+  ]
+}

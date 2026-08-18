@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T06:30:00.000Z",
-  "notes": "Queue through Hungary complete. Next: Poland (pl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "notes": "Queue through Poland complete. Next: Iceland (is) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11898,6 +11898,111 @@
                 "minLng": 17.2,
                 "maxLat": 46.92,
                 "maxLng": 18.05
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl",
+      "countryCode": "PL",
+      "name": "Poland",
+      "states": [
+        {
+          "id": "mazowieckie",
+          "stateCode": "MZ",
+          "name": "Mazowieckie",
+          "cities": [
+            {
+              "id": "warsaw",
+              "name": "Warsaw",
+              "status": "complete",
+              "packPath": "pl/mazowieckie/warsaw/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T06:45:00.000Z",
+              "bbox": {
+                "minLat": 52.22,
+                "minLng": 21.0,
+                "maxLat": 52.26,
+                "maxLng": 21.04
+              }
+            }
+          ]
+        },
+        {
+          "id": "malopolskie",
+          "stateCode": "MP",
+          "name": "Malopolskie",
+          "cities": [
+            {
+              "id": "krakow",
+              "name": "Krakow",
+              "status": "complete",
+              "packPath": "pl/malopolskie/krakow/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T06:45:00.000Z",
+              "bbox": {
+                "minLat": 50.04,
+                "minLng": 19.92,
+                "maxLat": 50.07,
+                "maxLng": 19.96
+              }
+            },
+            {
+              "id": "zakopane",
+              "name": "Zakopane",
+              "status": "complete",
+              "packPath": "pl/malopolskie/zakopane/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:45:00.000Z",
+              "bbox": {
+                "minLat": 49.28,
+                "minLng": 19.94,
+                "maxLat": 49.32,
+                "maxLng": 20.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "pomorskie",
+          "stateCode": "PM",
+          "name": "Pomorskie",
+          "cities": [
+            {
+              "id": "gdansk",
+              "name": "Gdansk",
+              "status": "complete",
+              "packPath": "pl/pomorskie/gdansk/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:45:00.000Z",
+              "bbox": {
+                "minLat": 54.34,
+                "minLng": 18.64,
+                "maxLat": 54.36,
+                "maxLng": 18.66
+              }
+            }
+          ]
+        },
+        {
+          "id": "wielkopolskie",
+          "stateCode": "WP",
+          "name": "Wielkopolskie",
+          "cities": [
+            {
+              "id": "poznan",
+              "name": "Poznan",
+              "status": "complete",
+              "packPath": "pl/wielkopolskie/poznan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T06:45:00.000Z",
+              "bbox": {
+                "minLat": 52.4,
+                "minLng": 16.92,
+                "maxLat": 52.42,
+                "maxLng": 16.94
               }
             }
           ]
