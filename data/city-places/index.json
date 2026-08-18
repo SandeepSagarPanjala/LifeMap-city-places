@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:43:33.000Z",
-  "notes": "Malta (mt) complete. Next: Oman (om) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:48:12.000Z",
+  "notes": "Oman (om) complete. Next: Qatar (qa) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14782,6 +14782,104 @@
                 "minLng": 14.44,
                 "maxLat": 35.832,
                 "maxLng": 14.46
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "om",
+      "countryCode": "OM",
+      "name": "Oman",
+      "states": [
+        {
+          "id": "muscat",
+          "stateCode": "MA",
+          "name": "Muscat",
+          "cities": [
+            {
+              "id": "muscat",
+              "name": "Muscat",
+              "status": "complete",
+              "packPath": "om/muscat/muscat/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:48:12.000Z",
+              "bbox": {
+                "minLat": 23.575,
+                "minLng": 58.38,
+                "maxLat": 23.625,
+                "maxLng": 58.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "ad-dakhiliyah",
+          "stateCode": "DA",
+          "name": "Ad Dakhiliyah",
+          "cities": [
+            {
+              "id": "nizwa",
+              "name": "Nizwa",
+              "status": "complete",
+              "packPath": "om/ad-dakhiliyah/nizwa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:48:12.000Z",
+              "bbox": {
+                "minLat": 22.925,
+                "minLng": 57.525,
+                "maxLat": 22.94,
+                "maxLng": 57.54
+              }
+            },
+            {
+              "id": "al-hamra",
+              "name": "Al Hamra",
+              "status": "complete",
+              "packPath": "om/ad-dakhiliyah/al-hamra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:48:12.000Z",
+              "bbox": {
+                "minLat": 23.1,
+                "minLng": 57.2,
+                "maxLat": 23.25,
+                "maxLng": 57.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "ash-sharqiyah",
+          "stateCode": "SH",
+          "name": "Ash Sharqiyah",
+          "cities": [
+            {
+              "id": "bidiyah",
+              "name": "Bidiyah",
+              "status": "complete",
+              "packPath": "om/ash-sharqiyah/bidiyah/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T02:48:12.000Z",
+              "bbox": {
+                "minLat": 22.4,
+                "minLng": 58.7,
+                "maxLat": 22.55,
+                "maxLng": 58.95
+              }
+            },
+            {
+              "id": "sur",
+              "name": "Sur",
+              "status": "complete",
+              "packPath": "om/ash-sharqiyah/sur/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:48:12.000Z",
+              "bbox": {
+                "minLat": 22.42,
+                "minLng": 59.04,
+                "maxLat": 22.85,
+                "maxLng": 59.85
               }
             }
           ]

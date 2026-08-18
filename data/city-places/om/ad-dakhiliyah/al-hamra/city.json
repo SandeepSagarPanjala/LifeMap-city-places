@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "om/ad-dakhiliyah/al-hamra",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "stateCode": "DA",
+  "stateName": "Ad Dakhiliyah",
+  "cityName": "Al Hamra",
+  "bbox": {
+    "minLat": 23.1,
+    "minLng": 57.2,
+    "maxLat": 23.25,
+    "maxLng": 57.3
+  },
+  "updatedAt": "2026-08-18T02:48:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jebel-shams",
+      "name": "Jebel Shams",
+      "lat": 23.237,
+      "lng": 57.264,
+      "radiusM": 300,
+      "address": "Grand Canyon of Oman",
+      "howTo": "Visit Jebel Shams.",
+      "badge": "badges/jebel-shams.png"
+    },
+    {
+      "id": "misfat-al-abriyeen",
+      "name": "Misfat Al Abriyeen",
+      "lat": 23.14,
+      "lng": 57.21,
+      "radiusM": 150,
+      "address": "Al Hamra",
+      "howTo": "Visit Misfat Al Abriyeen.",
+      "badge": "badges/misfat-al-abriyeen.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "om/muscat/muscat",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "stateCode": "MA",
+  "stateName": "Muscat",
+  "cityName": "Muscat",
+  "bbox": {
+    "minLat": 23.575,
+    "minLng": 58.38,
+    "maxLat": 23.625,
+    "maxLng": 58.6
+  },
+  "updatedAt": "2026-08-18T02:48:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sultan-qaboos-mosque",
+      "name": "Sultan Qaboos Grand Mosque",
+      "lat": 23.584,
+      "lng": 58.389,
+      "radiusM": 200,
+      "address": "Al Ghubrah",
+      "howTo": "Visit Sultan Qaboos Grand Mosque.",
+      "badge": "badges/sultan-qaboos-mosque.png"
+    },
+    {
+      "id": "muttrah-souq",
+      "name": "Muttrah Souq",
+      "lat": 23.6165,
+      "lng": 58.566,
+      "radiusM": 120,
+      "address": "Muttrah",
+      "howTo": "Visit Muttrah Souq.",
+      "badge": "badges/muttrah-souq.png"
+    },
+    {
+      "id": "al-alam-palace",
+      "name": "Al Alam Palace",
+      "lat": 23.616,
+      "lng": 58.594,
+      "radiusM": 100,
+      "address": "Old Muscat",
+      "howTo": "Visit Al Alam Palace.",
+      "badge": "badges/al-alam-palace.png"
+    }
+  ]
+}

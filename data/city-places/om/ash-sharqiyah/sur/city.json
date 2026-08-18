@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "om/ash-sharqiyah/sur",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "stateCode": "SH",
+  "stateName": "Ash Sharqiyah",
+  "cityName": "Sur",
+  "bbox": {
+    "minLat": 22.42,
+    "minLng": 59.04,
+    "maxLat": 22.85,
+    "maxLng": 59.85
+  },
+  "updatedAt": "2026-08-18T02:48:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wadi-shab",
+      "name": "Wadi Shab",
+      "lat": 22.83,
+      "lng": 59.24,
+      "radiusM": 250,
+      "address": "Tiwi",
+      "howTo": "Visit Wadi Shab.",
+      "badge": "badges/wadi-shab.png"
+    },
+    {
+      "id": "ras-al-jinz",
+      "name": "Ras Al Jinz",
+      "lat": 22.43,
+      "lng": 59.825,
+      "radiusM": 250,
+      "address": "Ras Al Jinz",
+      "howTo": "Visit Ras Al Jinz.",
+      "badge": "badges/ras-al-jinz.png"
+    }
+  ]
+}
