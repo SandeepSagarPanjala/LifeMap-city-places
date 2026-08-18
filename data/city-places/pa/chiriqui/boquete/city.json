@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pa/chiriqui/boquete",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "stateCode": "4",
+  "stateName": "Chiriqui",
+  "cityName": "Boquete",
+  "bbox": {
+    "minLat": 8.77,
+    "minLng": -82.55,
+    "maxLat": 8.82,
+    "maxLng": -82.42
+  },
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "volcan-baru",
+      "name": "Volcan Baru",
+      "lat": 8.80881,
+      "lng": -82.54234,
+      "radiusM": 300,
+      "address": "Volcan Baru National Park",
+      "howTo": "Visit Volcan Baru.",
+      "badge": "badges/volcan-baru.png"
+    },
+    {
+      "id": "lost-waterfalls",
+      "name": "Lost Waterfalls",
+      "lat": 8.79,
+      "lng": -82.448,
+      "radiusM": 200,
+      "address": "Boquete",
+      "howTo": "Visit Lost Waterfalls.",
+      "badge": "badges/lost-waterfalls.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pa/cocle/el-valle",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "stateCode": "2",
+  "stateName": "Cocle",
+  "cityName": "El Valle",
+  "bbox": {
+    "minLat": 8.595,
+    "minLng": -80.155,
+    "maxLat": 8.635,
+    "maxLng": -80.12
+  },
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "la-india-dormida",
+      "name": "La India Dormida",
+      "lat": 8.609,
+      "lng": -80.148,
+      "radiusM": 250,
+      "address": "El Valle de Anton",
+      "howTo": "Visit La India Dormida.",
+      "badge": "badges/la-india-dormida.png"
+    },
+    {
+      "id": "chorro-el-macho",
+      "name": "Chorro El Macho",
+      "lat": 8.619,
+      "lng": -80.137,
+      "radiusM": 150,
+      "address": "El Valle de Anton",
+      "howTo": "Visit Chorro El Macho.",
+      "badge": "badges/chorro-el-macho.png"
+    }
+  ]
+}

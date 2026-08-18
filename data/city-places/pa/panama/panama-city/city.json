@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pa/panama/panama-city",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "stateCode": "8",
+  "stateName": "Panama",
+  "cityName": "Panama City",
+  "bbox": {
+    "minLat": 8.945,
+    "minLng": -79.6,
+    "maxLat": 9.015,
+    "maxLng": -79.48
+  },
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "casco-viejo",
+      "name": "Casco Viejo",
+      "lat": 8.9525,
+      "lng": -79.535,
+      "radiusM": 200,
+      "address": "San Felipe",
+      "howTo": "Visit Casco Viejo.",
+      "badge": "badges/casco-viejo.png"
+    },
+    {
+      "id": "miraflores-locks",
+      "name": "Miraflores Locks",
+      "lat": 8.99708,
+      "lng": -79.59187,
+      "radiusM": 200,
+      "address": "Panama Canal",
+      "howTo": "Visit Miraflores Locks.",
+      "badge": "badges/miraflores-locks.png"
+    },
+    {
+      "id": "panama-viejo",
+      "name": "Panama Viejo",
+      "lat": 9.00556,
+      "lng": -79.48583,
+      "radiusM": 200,
+      "address": "Panama la Vieja",
+      "howTo": "Visit Panama Viejo.",
+      "badge": "badges/panama-viejo.png"
+    }
+  ]
+}

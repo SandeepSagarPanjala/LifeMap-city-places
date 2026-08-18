@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pa/bocas-del-toro/bocas-town",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "stateCode": "1",
+  "stateName": "Bocas del Toro",
+  "cityName": "Bocas Town",
+  "bbox": {
+    "minLat": 9.32,
+    "minLng": -82.26,
+    "maxLat": 9.36,
+    "maxLng": -82.16
+  },
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "starfish-beach",
+      "name": "Starfish Beach",
+      "lat": 9.3472,
+      "lng": -82.2415,
+      "radiusM": 250,
+      "address": "Isla Colon",
+      "howTo": "Visit Starfish Beach.",
+      "badge": "badges/starfish-beach.png"
+    },
+    {
+      "id": "red-frog-beach",
+      "name": "Red Frog Beach",
+      "lat": 9.3406,
+      "lng": -82.1764,
+      "radiusM": 250,
+      "address": "Isla Bastimentos",
+      "howTo": "Visit Red Frog Beach.",
+      "badge": "badges/red-frog-beach.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pa/colon/portobelo",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "stateCode": "3",
+  "stateName": "Colon",
+  "cityName": "Portobelo",
+  "bbox": {
+    "minLat": 9.548,
+    "minLng": -79.662,
+    "maxLat": 9.56,
+    "maxLng": -79.648
+  },
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fuerte-san-jeronimo",
+      "name": "Fuerte San Jeronimo",
+      "lat": 9.5547,
+      "lng": -79.6553,
+      "radiusM": 120,
+      "address": "Portobelo",
+      "howTo": "Visit Fuerte San Jeronimo.",
+      "badge": "badges/fuerte-san-jeronimo.png"
+    },
+    {
+      "id": "iglesia-san-felipe",
+      "name": "Iglesia San Felipe",
+      "lat": 9.5536,
+      "lng": -79.6544,
+      "radiusM": 80,
+      "address": "Portobelo",
+      "howTo": "Visit Iglesia San Felipe.",
+      "badge": "badges/iglesia-san-felipe.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:03:46.000Z",
-  "notes": "Tunisia (tn) complete. Next: Panama (pa) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "notes": "Panama (pa) complete. Next: Ecuador (ec) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13816,6 +13816,118 @@
                 "minLng": 7.82,
                 "maxLat": 34.34,
                 "maxLng": 8.16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa",
+      "countryCode": "PA",
+      "name": "Panama",
+      "states": [
+        {
+          "id": "panama",
+          "stateCode": "8",
+          "name": "Panama",
+          "cities": [
+            {
+              "id": "panama-city",
+              "name": "Panama City",
+              "status": "complete",
+              "packPath": "pa/panama/panama-city/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:08:37.000Z",
+              "bbox": {
+                "minLat": 8.945,
+                "minLng": -79.6,
+                "maxLat": 9.015,
+                "maxLng": -79.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "bocas-del-toro",
+          "stateCode": "1",
+          "name": "Bocas del Toro",
+          "cities": [
+            {
+              "id": "bocas-town",
+              "name": "Bocas Town",
+              "status": "complete",
+              "packPath": "pa/bocas-del-toro/bocas-town/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:08:37.000Z",
+              "bbox": {
+                "minLat": 9.32,
+                "minLng": -82.26,
+                "maxLat": 9.36,
+                "maxLng": -82.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "chiriqui",
+          "stateCode": "4",
+          "name": "Chiriqui",
+          "cities": [
+            {
+              "id": "boquete",
+              "name": "Boquete",
+              "status": "complete",
+              "packPath": "pa/chiriqui/boquete/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:08:37.000Z",
+              "bbox": {
+                "minLat": 8.77,
+                "minLng": -82.55,
+                "maxLat": 8.82,
+                "maxLng": -82.42
+              }
+            }
+          ]
+        },
+        {
+          "id": "colon",
+          "stateCode": "3",
+          "name": "Colon",
+          "cities": [
+            {
+              "id": "portobelo",
+              "name": "Portobelo",
+              "status": "complete",
+              "packPath": "pa/colon/portobelo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:08:37.000Z",
+              "bbox": {
+                "minLat": 9.548,
+                "minLng": -79.662,
+                "maxLat": 9.56,
+                "maxLng": -79.648
+              }
+            }
+          ]
+        },
+        {
+          "id": "cocle",
+          "stateCode": "2",
+          "name": "Cocle",
+          "cities": [
+            {
+              "id": "el-valle",
+              "name": "El Valle",
+              "status": "complete",
+              "packPath": "pa/cocle/el-valle/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:08:37.000Z",
+              "bbox": {
+                "minLat": 8.595,
+                "minLng": -80.155,
+                "maxLat": 8.635,
+                "maxLng": -80.12
               }
             }
           ]

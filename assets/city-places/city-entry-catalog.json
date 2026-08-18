@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:03:47.020Z",
+  "generatedAt": "2026-08-18T02:08:37.859Z",
   "cellDeg": 0.5,
-  "cityCount": 744,
+  "cityCount": 749,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4367,6 +4367,51 @@
         "minLng": 170.18,
         "maxLat": -43.38,
         "maxLng": 170.2
+      }
+    },
+    "pa/bocas-del-toro/bocas-town": {
+      "name": "Bocas Town",
+      "bbox": {
+        "minLat": 9.32,
+        "minLng": -82.26,
+        "maxLat": 9.36,
+        "maxLng": -82.16
+      }
+    },
+    "pa/chiriqui/boquete": {
+      "name": "Boquete",
+      "bbox": {
+        "minLat": 8.77,
+        "minLng": -82.55,
+        "maxLat": 8.82,
+        "maxLng": -82.42
+      }
+    },
+    "pa/cocle/el-valle": {
+      "name": "El Valle",
+      "bbox": {
+        "minLat": 8.595,
+        "minLng": -80.155,
+        "maxLat": 8.635,
+        "maxLng": -80.12
+      }
+    },
+    "pa/colon/portobelo": {
+      "name": "Portobelo",
+      "bbox": {
+        "minLat": 9.548,
+        "minLng": -79.662,
+        "maxLat": 9.56,
+        "maxLng": -79.648
+      }
+    },
+    "pa/panama/panama-city": {
+      "name": "Panama City",
+      "bbox": {
+        "minLat": 8.945,
+        "minLng": -79.6,
+        "maxLat": 9.015,
+        "maxLng": -79.48
       }
     },
     "pe/arequipa/arequipa": {
@@ -10489,6 +10534,33 @@
     ],
     "68,16": [
       "tn/tozeur/tozeur"
+    ],
+    "17,-160": [
+      "pa/panama/panama-city"
+    ],
+    "17,-159": [
+      "pa/panama/panama-city"
+    ],
+    "18,-160": [
+      "pa/panama/panama-city"
+    ],
+    "18,-159": [
+      "pa/panama/panama-city"
+    ],
+    "18,-165": [
+      "pa/bocas-del-toro/bocas-town"
+    ],
+    "17,-166": [
+      "pa/chiriqui/boquete"
+    ],
+    "17,-165": [
+      "pa/chiriqui/boquete"
+    ],
+    "19,-160": [
+      "pa/colon/portobelo"
+    ],
+    "17,-161": [
+      "pa/cocle/el-valle"
     ]
   }
 }
