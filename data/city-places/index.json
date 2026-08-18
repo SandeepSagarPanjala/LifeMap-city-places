@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:41:18.000Z",
-  "notes": "Azerbaijan (az) complete. Next: Luxembourg (lu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "notes": "Luxembourg (lu) complete. Next: Bahrain (bh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16238,6 +16238,118 @@
                 "minLng": 47.87,
                 "maxLat": 40.935,
                 "maxLng": 47.9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu",
+      "countryCode": "LU",
+      "name": "Luxembourg",
+      "states": [
+        {
+          "id": "luxembourg",
+          "stateCode": "L",
+          "name": "Luxembourg",
+          "cities": [
+            {
+              "id": "luxembourg-city",
+              "name": "Luxembourg City",
+              "status": "complete",
+              "packPath": "lu/luxembourg/luxembourg-city/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:44:31.000Z",
+              "bbox": {
+                "minLat": 49.606,
+                "minLng": 6.124,
+                "maxLat": 49.615,
+                "maxLng": 6.14
+              }
+            }
+          ]
+        },
+        {
+          "id": "vianden",
+          "stateCode": "VD",
+          "name": "Vianden",
+          "cities": [
+            {
+              "id": "vianden",
+              "name": "Vianden",
+              "status": "complete",
+              "packPath": "lu/vianden/vianden/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:44:31.000Z",
+              "bbox": {
+                "minLat": 49.932,
+                "minLng": 6.199,
+                "maxLat": 49.938,
+                "maxLng": 6.206
+              }
+            }
+          ]
+        },
+        {
+          "id": "echternach",
+          "stateCode": "EC",
+          "name": "Echternach",
+          "cities": [
+            {
+              "id": "echternach",
+              "name": "Echternach",
+              "status": "complete",
+              "packPath": "lu/echternach/echternach/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:44:31.000Z",
+              "bbox": {
+                "minLat": 49.8,
+                "minLng": 6.408,
+                "maxLat": 49.817,
+                "maxLng": 6.428
+              }
+            }
+          ]
+        },
+        {
+          "id": "clervaux",
+          "stateCode": "CL",
+          "name": "Clervaux",
+          "cities": [
+            {
+              "id": "clervaux",
+              "name": "Clervaux",
+              "status": "complete",
+              "packPath": "lu/clervaux/clervaux/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:44:31.000Z",
+              "bbox": {
+                "minLat": 50.052,
+                "minLng": 6.027,
+                "maxLat": 50.058,
+                "maxLng": 6.035
+              }
+            }
+          ]
+        },
+        {
+          "id": "wiltz",
+          "stateCode": "WI",
+          "name": "Wiltz",
+          "cities": [
+            {
+              "id": "esch-sur-sure",
+              "name": "Esch-sur-S\u00fbre",
+              "status": "complete",
+              "packPath": "lu/wiltz/esch-sur-sure/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:44:31.000Z",
+              "bbox": {
+                "minLat": 49.906,
+                "minLng": 5.925,
+                "maxLat": 49.915,
+                "maxLng": 5.94
               }
             }
           ]

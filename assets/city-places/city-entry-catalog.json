@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:41:18.288Z",
+  "generatedAt": "2026-08-18T03:44:31.255Z",
   "cellDeg": 0.5,
-  "cityCount": 859,
+  "cityCount": 864,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4367,6 +4367,51 @@
         "minLng": 25.285,
         "maxLat": 54.688,
         "maxLng": 25.296
+      }
+    },
+    "lu/clervaux/clervaux": {
+      "name": "Clervaux",
+      "bbox": {
+        "minLat": 50.052,
+        "minLng": 6.027,
+        "maxLat": 50.058,
+        "maxLng": 6.035
+      }
+    },
+    "lu/echternach/echternach": {
+      "name": "Echternach",
+      "bbox": {
+        "minLat": 49.8,
+        "minLng": 6.408,
+        "maxLat": 49.817,
+        "maxLng": 6.428
+      }
+    },
+    "lu/luxembourg/luxembourg-city": {
+      "name": "Luxembourg City",
+      "bbox": {
+        "minLat": 49.606,
+        "minLng": 6.124,
+        "maxLat": 49.615,
+        "maxLng": 6.14
+      }
+    },
+    "lu/vianden/vianden": {
+      "name": "Vianden",
+      "bbox": {
+        "minLat": 49.932,
+        "minLng": 6.199,
+        "maxLat": 49.938,
+        "maxLng": 6.206
+      }
+    },
+    "lu/wiltz/esch-sur-sure": {
+      "name": "Esch-sur-Sûre",
+      "bbox": {
+        "minLat": 49.906,
+        "minLng": 5.925,
+        "maxLat": 49.915,
+        "maxLng": 5.94
       }
     },
     "lv/riga/jurmala": {
@@ -11917,6 +11962,17 @@
     ],
     "81,95": [
       "az/gabala/gabala"
+    ],
+    "99,12": [
+      "lu/echternach/echternach",
+      "lu/luxembourg/luxembourg-city",
+      "lu/vianden/vianden"
+    ],
+    "100,12": [
+      "lu/clervaux/clervaux"
+    ],
+    "99,11": [
+      "lu/wiltz/esch-sur-sure"
     ]
   }
 }

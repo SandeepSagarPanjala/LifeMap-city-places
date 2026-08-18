@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "lu/luxembourg/luxembourg-city",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "stateCode": "L",
+  "stateName": "Luxembourg",
+  "cityName": "Luxembourg City",
+  "bbox": {
+    "minLat": 49.606,
+    "minLng": 6.124,
+    "maxLat": 49.615,
+    "maxLng": 6.14
+  },
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bock-casemates",
+      "name": "Bock Casemates",
+      "lat": 49.6117,
+      "lng": 6.1367,
+      "radiusM": 80,
+      "address": "Mont\u00e9e de Clausen",
+      "howTo": "Visit Bock Casemates.",
+      "badge": "badges/bock-casemates.png"
+    },
+    {
+      "id": "grand-ducal-palace",
+      "name": "Grand Ducal Palace",
+      "lat": 49.6111,
+      "lng": 6.1317,
+      "radiusM": 40,
+      "address": "Rue du March\u00e9-aux-Herbes",
+      "howTo": "Visit Grand Ducal Palace.",
+      "badge": "badges/grand-ducal-palace.png"
+    },
+    {
+      "id": "adolphe-bridge",
+      "name": "Adolphe Bridge",
+      "lat": 49.6081,
+      "lng": 6.1272,
+      "radiusM": 80,
+      "address": "P\u00e9trusse valley",
+      "howTo": "Visit Adolphe Bridge.",
+      "badge": "badges/adolphe-bridge.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lu/wiltz/esch-sur-sure",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "stateCode": "WI",
+  "stateName": "Wiltz",
+  "cityName": "Esch-sur-S\u00fbre",
+  "bbox": {
+    "minLat": 49.906,
+    "minLng": 5.925,
+    "maxLat": 49.915,
+    "maxLng": 5.94
+  },
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "esch-sur-sure-castle",
+      "name": "Esch-sur-S\u00fbre Castle",
+      "lat": 49.911,
+      "lng": 5.935,
+      "radiusM": 60,
+      "address": "S\u00fbre",
+      "howTo": "Visit Esch-sur-S\u00fbre Castle.",
+      "badge": "badges/esch-sur-sure-castle.png"
+    },
+    {
+      "id": "upper-sure-lake",
+      "name": "Upper S\u00fbre Lake",
+      "lat": 49.909,
+      "lng": 5.93,
+      "radiusM": 200,
+      "address": "Esch-sur-S\u00fbre",
+      "howTo": "Visit Upper S\u00fbre Lake.",
+      "badge": "badges/upper-sure-lake.png"
+    }
+  ]
+}

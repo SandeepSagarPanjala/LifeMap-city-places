@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lu/echternach/echternach",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "stateCode": "EC",
+  "stateName": "Echternach",
+  "cityName": "Echternach",
+  "bbox": {
+    "minLat": 49.8,
+    "minLng": 6.408,
+    "maxLat": 49.817,
+    "maxLng": 6.428
+  },
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "echternach-abbey",
+      "name": "Echternach Abbey",
+      "lat": 49.8139,
+      "lng": 6.4219,
+      "radiusM": 80,
+      "address": "Echternach",
+      "howTo": "Visit Echternach Abbey.",
+      "badge": "badges/echternach-abbey.png"
+    },
+    {
+      "id": "echternach-lake",
+      "name": "Echternach Lake",
+      "lat": 49.804,
+      "lng": 6.415,
+      "radiusM": 200,
+      "address": "Mullerthal",
+      "howTo": "Visit Echternach Lake.",
+      "badge": "badges/echternach-lake.png"
+    }
+  ]
+}

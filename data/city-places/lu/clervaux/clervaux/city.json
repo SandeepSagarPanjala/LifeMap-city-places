@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "lu/clervaux/clervaux",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "stateCode": "CL",
+  "stateName": "Clervaux",
+  "cityName": "Clervaux",
+  "bbox": {
+    "minLat": 50.052,
+    "minLng": 6.027,
+    "maxLat": 50.058,
+    "maxLng": 6.035
+  },
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clervaux-castle",
+      "name": "Clervaux Castle",
+      "lat": 50.0547,
+      "lng": 6.0311,
+      "radiusM": 80,
+      "address": "Clervaux",
+      "howTo": "Visit Clervaux Castle.",
+      "badge": "badges/clervaux-castle.png"
+    }
+  ]
+}

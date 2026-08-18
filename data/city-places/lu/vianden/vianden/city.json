@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lu/vianden/vianden",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "stateCode": "VD",
+  "stateName": "Vianden",
+  "cityName": "Vianden",
+  "bbox": {
+    "minLat": 49.932,
+    "minLng": 6.199,
+    "maxLat": 49.938,
+    "maxLng": 6.206
+  },
+  "updatedAt": "2026-08-18T03:44:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vianden-castle",
+      "name": "Vianden Castle",
+      "lat": 49.93503,
+      "lng": 6.20272,
+      "radiusM": 100,
+      "address": "Vianden",
+      "howTo": "Visit Vianden Castle.",
+      "badge": "badges/vianden-castle.png"
+    },
+    {
+      "id": "vianden-old-town",
+      "name": "Vianden Old Town",
+      "lat": 49.9335,
+      "lng": 6.2035,
+      "radiusM": 120,
+      "address": "Grand-Rue",
+      "howTo": "Visit Vianden Old Town.",
+      "badge": "badges/vianden-old-town.png"
+    }
+  ]
+}
