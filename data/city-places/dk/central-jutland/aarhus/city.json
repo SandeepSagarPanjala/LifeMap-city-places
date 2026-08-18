@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dk/central-jutland/aarhus",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "stateCode": "82",
+  "stateName": "Central Jutland",
+  "cityName": "Aarhus",
+  "bbox": {
+    "minLat": 56.15,
+    "minLng": 10.185,
+    "maxLat": 56.165,
+    "maxLng": 10.205
+  },
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aros",
+      "name": "ARoS Aarhus Art Museum",
+      "lat": 56.1539,
+      "lng": 10.1997,
+      "radiusM": 120,
+      "address": "Aros Alle 2",
+      "howTo": "Visit ARoS Aarhus Art Museum.",
+      "badge": "badges/aros.png"
+    },
+    {
+      "id": "den-gamle-by",
+      "name": "Den Gamle By",
+      "lat": 56.1586,
+      "lng": 10.1912,
+      "radiusM": 200,
+      "address": "Viborgvej 2",
+      "howTo": "Visit Den Gamle By.",
+      "badge": "badges/den-gamle-by.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dk/capital/helsingor",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "stateCode": "84",
+  "stateName": "Capital Region",
+  "cityName": "Helsingor",
+  "bbox": {
+    "minLat": 56.033,
+    "minLng": 12.61,
+    "maxLat": 56.042,
+    "maxLng": 12.625
+  },
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kronborg-castle",
+      "name": "Kronborg Castle",
+      "lat": 56.0389,
+      "lng": 12.6216,
+      "radiusM": 200,
+      "address": "Kronborg 2C",
+      "howTo": "Visit Kronborg Castle.",
+      "badge": "badges/kronborg-castle.png"
+    },
+    {
+      "id": "helsingor-cathedral",
+      "name": "Helsingor Cathedral",
+      "lat": 56.0361,
+      "lng": 12.6134,
+      "radiusM": 100,
+      "address": "Sankt Olai Gade",
+      "howTo": "Visit Helsingor Cathedral.",
+      "badge": "badges/helsingor-cathedral.png"
+    }
+  ]
+}

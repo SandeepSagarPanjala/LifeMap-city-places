@@ -86,7 +86,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 40. `pl` — Poland (**complete**)
 41. `is` — Iceland (**complete**)
 42. `se` — Sweden (**complete**)
-43. `dk` — Denmark
+43. `dk` — Denmark (**complete**)
+44. `fi` — Finland
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

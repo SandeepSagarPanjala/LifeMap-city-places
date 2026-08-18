@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:50:42.474Z",
+  "generatedAt": "2026-08-18T00:55:04.114Z",
   "cellDeg": 0.5,
-  "cityCount": 670,
+  "cityCount": 675,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -875,6 +875,51 @@
         "minLng": 10.68,
         "maxLat": 53.87,
         "maxLng": 10.69
+      }
+    },
+    "dk/capital/copenhagen": {
+      "name": "Copenhagen",
+      "bbox": {
+        "minLat": 55.67,
+        "minLng": 12.57,
+        "maxLat": 55.7,
+        "maxLng": 12.61
+      }
+    },
+    "dk/capital/helsingor": {
+      "name": "Helsingor",
+      "bbox": {
+        "minLat": 56.033,
+        "minLng": 12.61,
+        "maxLat": 56.042,
+        "maxLng": 12.625
+      }
+    },
+    "dk/central-jutland/aarhus": {
+      "name": "Aarhus",
+      "bbox": {
+        "minLat": 56.15,
+        "minLng": 10.185,
+        "maxLat": 56.165,
+        "maxLng": 10.205
+      }
+    },
+    "dk/southern-denmark/odense": {
+      "name": "Odense",
+      "bbox": {
+        "minLat": 55.39,
+        "minLng": 10.38,
+        "maxLat": 55.405,
+        "maxLng": 10.4
+      }
+    },
+    "dk/zealand/roskilde": {
+      "name": "Roskilde",
+      "bbox": {
+        "minLat": 55.64,
+        "minLng": 12.07,
+        "maxLat": 55.655,
+        "maxLng": 12.09
       }
     },
     "eg/aswan/aswan": {
@@ -9579,6 +9624,7 @@
       "se/vastra-gotaland/gothenburg"
     ],
     "111,25": [
+      "dk/capital/copenhagen",
       "se/skane/malmo"
     ],
     "119,35": [
@@ -9586,6 +9632,18 @@
     ],
     "115,36": [
       "se/gotland/visby"
+    ],
+    "112,25": [
+      "dk/capital/helsingor"
+    ],
+    "112,20": [
+      "dk/central-jutland/aarhus"
+    ],
+    "110,20": [
+      "dk/southern-denmark/odense"
+    ],
+    "111,24": [
+      "dk/zealand/roskilde"
     ]
   }
 }

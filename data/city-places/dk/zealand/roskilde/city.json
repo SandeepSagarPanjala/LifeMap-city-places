@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dk/zealand/roskilde",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "stateCode": "85",
+  "stateName": "Zealand",
+  "cityName": "Roskilde",
+  "bbox": {
+    "minLat": 55.64,
+    "minLng": 12.07,
+    "maxLat": 55.655,
+    "maxLng": 12.09
+  },
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "roskilde-cathedral",
+      "name": "Roskilde Cathedral",
+      "lat": 55.6428,
+      "lng": 12.0803,
+      "radiusM": 120,
+      "address": "Domkirkepladsen 3",
+      "howTo": "Visit Roskilde Cathedral.",
+      "badge": "badges/roskilde-cathedral.png"
+    },
+    {
+      "id": "viking-ship-museum-roskilde",
+      "name": "Viking Ship Museum",
+      "lat": 55.6508,
+      "lng": 12.0805,
+      "radiusM": 150,
+      "address": "Vindeboder 12",
+      "howTo": "Visit Viking Ship Museum.",
+      "badge": "badges/viking-ship-museum-roskilde.png"
+    }
+  ]
+}

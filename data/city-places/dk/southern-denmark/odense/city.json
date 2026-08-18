@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dk/southern-denmark/odense",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "stateCode": "83",
+  "stateName": "Southern Denmark",
+  "cityName": "Odense",
+  "bbox": {
+    "minLat": 55.39,
+    "minLng": 10.38,
+    "maxLat": 55.405,
+    "maxLng": 10.4
+  },
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hc-andersen-museum",
+      "name": "Hans Christian Andersen Museum",
+      "lat": 55.399,
+      "lng": 10.3885,
+      "radiusM": 120,
+      "address": "H.C. Andersen Haven",
+      "howTo": "Visit Hans Christian Andersen Museum.",
+      "badge": "badges/hc-andersen-museum.png"
+    },
+    {
+      "id": "odense-cathedral",
+      "name": "Odense Cathedral",
+      "lat": 55.3954,
+      "lng": 10.3886,
+      "radiusM": 100,
+      "address": "Klosterbakken 2",
+      "howTo": "Visit Odense Cathedral.",
+      "badge": "badges/odense-cathedral.png"
+    }
+  ]
+}

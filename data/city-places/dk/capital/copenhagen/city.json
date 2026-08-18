@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "dk/capital/copenhagen",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "stateCode": "84",
+  "stateName": "Capital Region",
+  "cityName": "Copenhagen",
+  "bbox": {
+    "minLat": 55.67,
+    "minLng": 12.57,
+    "maxLat": 55.7,
+    "maxLng": 12.61
+  },
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nyhavn",
+      "name": "Nyhavn",
+      "lat": 55.6797,
+      "lng": 12.5907,
+      "radiusM": 180,
+      "address": "Nyhavn",
+      "howTo": "Visit Nyhavn.",
+      "badge": "badges/nyhavn.png"
+    },
+    {
+      "id": "the-little-mermaid",
+      "name": "The Little Mermaid",
+      "lat": 55.6929,
+      "lng": 12.5993,
+      "radiusM": 80,
+      "address": "Langelinie",
+      "howTo": "Visit The Little Mermaid.",
+      "badge": "badges/the-little-mermaid.png"
+    },
+    {
+      "id": "rosenborg-castle",
+      "name": "Rosenborg Castle",
+      "lat": 55.6856,
+      "lng": 12.5774,
+      "radiusM": 120,
+      "address": "Oster Voldgade 4A",
+      "howTo": "Visit Rosenborg Castle.",
+      "badge": "badges/rosenborg-castle.png"
+    },
+    {
+      "id": "christiansborg-palace",
+      "name": "Christiansborg Palace",
+      "lat": 55.6761,
+      "lng": 12.5806,
+      "radiusM": 150,
+      "address": "Prins Jorgens Gard 1",
+      "howTo": "Visit Christiansborg Palace.",
+      "badge": "badges/christiansborg-palace.png"
+    }
+  ]
+}

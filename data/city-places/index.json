@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T07:20:00.000Z",
-  "notes": "Queue through Sweden complete. Next: Denmark (dk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T07:40:00.000Z",
+  "notes": "Queue through Denmark complete. Next: Finland (fi) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12220,6 +12220,111 @@
                 "minLng": 18.288,
                 "maxLat": 57.646,
                 "maxLng": 18.305
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dk",
+      "countryCode": "DK",
+      "name": "Denmark",
+      "states": [
+        {
+          "id": "capital",
+          "stateCode": "84",
+          "name": "Capital Region",
+          "cities": [
+            {
+              "id": "copenhagen",
+              "name": "Copenhagen",
+              "status": "complete",
+              "packPath": "dk/capital/copenhagen/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T07:40:00.000Z",
+              "bbox": {
+                "minLat": 55.67,
+                "minLng": 12.57,
+                "maxLat": 55.7,
+                "maxLng": 12.61
+              }
+            },
+            {
+              "id": "helsingor",
+              "name": "Helsingor",
+              "status": "complete",
+              "packPath": "dk/capital/helsingor/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:40:00.000Z",
+              "bbox": {
+                "minLat": 56.033,
+                "minLng": 12.61,
+                "maxLat": 56.042,
+                "maxLng": 12.625
+              }
+            }
+          ]
+        },
+        {
+          "id": "central-jutland",
+          "stateCode": "82",
+          "name": "Central Jutland",
+          "cities": [
+            {
+              "id": "aarhus",
+              "name": "Aarhus",
+              "status": "complete",
+              "packPath": "dk/central-jutland/aarhus/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:40:00.000Z",
+              "bbox": {
+                "minLat": 56.15,
+                "minLng": 10.185,
+                "maxLat": 56.165,
+                "maxLng": 10.205
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern-denmark",
+          "stateCode": "83",
+          "name": "Southern Denmark",
+          "cities": [
+            {
+              "id": "odense",
+              "name": "Odense",
+              "status": "complete",
+              "packPath": "dk/southern-denmark/odense/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:40:00.000Z",
+              "bbox": {
+                "minLat": 55.39,
+                "minLng": 10.38,
+                "maxLat": 55.405,
+                "maxLng": 10.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "zealand",
+          "stateCode": "85",
+          "name": "Zealand",
+          "cities": [
+            {
+              "id": "roskilde",
+              "name": "Roskilde",
+              "status": "complete",
+              "packPath": "dk/zealand/roskilde/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T07:40:00.000Z",
+              "bbox": {
+                "minLat": 55.64,
+                "minLng": 12.07,
+                "maxLat": 55.655,
+                "maxLng": 12.09
               }
             }
           ]
