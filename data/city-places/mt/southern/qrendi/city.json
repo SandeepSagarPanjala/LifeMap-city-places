@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mt/southern/qrendi",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "stateCode": "44",
+  "stateName": "Southern",
+  "cityName": "Qrendi",
+  "bbox": {
+    "minLat": 35.818,
+    "minLng": 14.44,
+    "maxLat": 35.832,
+    "maxLng": 14.46
+  },
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blue-grotto-malta",
+      "name": "Blue Grotto",
+      "lat": 35.821,
+      "lng": 14.4565,
+      "radiusM": 150,
+      "address": "Wied iz-Zurrieq",
+      "howTo": "Visit Blue Grotto.",
+      "badge": "badges/blue-grotto-malta.png"
+    },
+    {
+      "id": "hagar-qim",
+      "name": "Hagar Qim",
+      "lat": 35.8277,
+      "lng": 14.4423,
+      "radiusM": 120,
+      "address": "Qrendi",
+      "howTo": "Visit Hagar Qim.",
+      "badge": "badges/hagar-qim.png"
+    }
+  ]
+}

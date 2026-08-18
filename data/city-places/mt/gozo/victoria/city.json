@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mt/gozo/victoria",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "stateCode": "45",
+  "stateName": "Gozo",
+  "cityName": "Victoria",
+  "bbox": {
+    "minLat": 36.04,
+    "minLng": 14.235,
+    "maxLat": 36.052,
+    "maxLng": 14.275
+  },
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "citadella-gozo",
+      "name": "Citadella",
+      "lat": 36.0465,
+      "lng": 14.2395,
+      "radiusM": 150,
+      "address": "Victoria",
+      "howTo": "Visit Citadella.",
+      "badge": "badges/citadella-gozo.png"
+    },
+    {
+      "id": "ggantija",
+      "name": "Ggantija",
+      "lat": 36.04725,
+      "lng": 14.26903,
+      "radiusM": 150,
+      "address": "Xaghra",
+      "howTo": "Visit Ggantija.",
+      "badge": "badges/ggantija.png"
+    }
+  ]
+}

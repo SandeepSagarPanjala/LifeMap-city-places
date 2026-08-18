@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mt/western/mdina",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "stateCode": "29",
+  "stateName": "Western",
+  "cityName": "Mdina",
+  "bbox": {
+    "minLat": 35.883,
+    "minLng": 14.4,
+    "maxLat": 35.888,
+    "maxLng": 14.406
+  },
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mdina-gate",
+      "name": "Mdina Gate",
+      "lat": 35.885,
+      "lng": 14.4035,
+      "radiusM": 60,
+      "address": "Mdina",
+      "howTo": "Visit Mdina Gate.",
+      "badge": "badges/mdina-gate.png"
+    },
+    {
+      "id": "st-pauls-cathedral-mdina",
+      "name": "St Paul's Cathedral",
+      "lat": 35.8858,
+      "lng": 14.4039,
+      "radiusM": 80,
+      "address": "Mdina",
+      "howTo": "Visit St Paul's Cathedral.",
+      "badge": "badges/st-pauls-cathedral-mdina.png"
+    }
+  ]
+}

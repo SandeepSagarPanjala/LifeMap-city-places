@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "mt/southern-harbour/valletta",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "stateCode": "60",
+  "stateName": "Southern Harbour",
+  "cityName": "Valletta",
+  "bbox": {
+    "minLat": 35.894,
+    "minLng": 14.508,
+    "maxLat": 35.902,
+    "maxLng": 14.518
+  },
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-johns-co-cathedral",
+      "name": "St John's Co-Cathedral",
+      "lat": 35.8977,
+      "lng": 14.5125,
+      "radiusM": 80,
+      "address": "Valletta",
+      "howTo": "Visit St John's Co-Cathedral.",
+      "badge": "badges/st-johns-co-cathedral.png"
+    },
+    {
+      "id": "upper-barrakka",
+      "name": "Upper Barrakka Gardens",
+      "lat": 35.8956,
+      "lng": 14.5114,
+      "radiusM": 80,
+      "address": "Valletta",
+      "howTo": "Visit Upper Barrakka Gardens.",
+      "badge": "badges/upper-barrakka.png"
+    },
+    {
+      "id": "grandmasters-palace",
+      "name": "Grandmaster's Palace",
+      "lat": 35.8989,
+      "lng": 14.5142,
+      "radiusM": 80,
+      "address": "Valletta",
+      "howTo": "Visit Grandmaster's Palace.",
+      "badge": "badges/grandmasters-palace.png"
+    }
+  ]
+}

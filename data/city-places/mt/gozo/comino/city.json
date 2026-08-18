@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mt/gozo/comino",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "stateCode": "45",
+  "stateName": "Gozo",
+  "cityName": "Comino",
+  "bbox": {
+    "minLat": 36.008,
+    "minLng": 14.33,
+    "maxLat": 36.018,
+    "maxLng": 14.345
+  },
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blue-lagoon-comino",
+      "name": "Blue Lagoon",
+      "lat": 36.0145,
+      "lng": 14.334,
+      "radiusM": 200,
+      "address": "Comino",
+      "howTo": "Visit Blue Lagoon.",
+      "badge": "badges/blue-lagoon-comino.png"
+    },
+    {
+      "id": "st-marys-tower",
+      "name": "St Mary's Tower",
+      "lat": 36.0115,
+      "lng": 14.341,
+      "radiusM": 80,
+      "address": "Comino",
+      "howTo": "Visit St Mary's Tower.",
+      "badge": "badges/st-marys-tower.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:40:09.000Z",
-  "notes": "Cyprus (cy) complete. Next: Malta (mt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "notes": "Malta (mt) complete. Next: Oman (om) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14677,6 +14677,111 @@
                 "minLng": 33.97,
                 "maxLat": 34.995,
                 "maxLng": 34.09
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mt",
+      "countryCode": "MT",
+      "name": "Malta",
+      "states": [
+        {
+          "id": "southern-harbour",
+          "stateCode": "60",
+          "name": "Southern Harbour",
+          "cities": [
+            {
+              "id": "valletta",
+              "name": "Valletta",
+              "status": "complete",
+              "packPath": "mt/southern-harbour/valletta/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:43:33.000Z",
+              "bbox": {
+                "minLat": 35.894,
+                "minLng": 14.508,
+                "maxLat": 35.902,
+                "maxLng": 14.518
+              }
+            }
+          ]
+        },
+        {
+          "id": "western",
+          "stateCode": "29",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "mdina",
+              "name": "Mdina",
+              "status": "complete",
+              "packPath": "mt/western/mdina/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:43:33.000Z",
+              "bbox": {
+                "minLat": 35.883,
+                "minLng": 14.4,
+                "maxLat": 35.888,
+                "maxLng": 14.406
+              }
+            }
+          ]
+        },
+        {
+          "id": "gozo",
+          "stateCode": "45",
+          "name": "Gozo",
+          "cities": [
+            {
+              "id": "victoria",
+              "name": "Victoria",
+              "status": "complete",
+              "packPath": "mt/gozo/victoria/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:43:33.000Z",
+              "bbox": {
+                "minLat": 36.04,
+                "minLng": 14.235,
+                "maxLat": 36.052,
+                "maxLng": 14.275
+              }
+            },
+            {
+              "id": "comino",
+              "name": "Comino",
+              "status": "complete",
+              "packPath": "mt/gozo/comino/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:43:33.000Z",
+              "bbox": {
+                "minLat": 36.008,
+                "minLng": 14.33,
+                "maxLat": 36.018,
+                "maxLng": 14.345
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "44",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "qrendi",
+              "name": "Qrendi",
+              "status": "complete",
+              "packPath": "mt/southern/qrendi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:43:33.000Z",
+              "bbox": {
+                "minLat": 35.818,
+                "minLng": 14.44,
+                "maxLat": 35.832,
+                "maxLng": 14.46
               }
             }
           ]

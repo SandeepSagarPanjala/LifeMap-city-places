@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:40:09.425Z",
+  "generatedAt": "2026-08-18T02:43:33.819Z",
   "cellDeg": 0.5,
-  "cityCount": 784,
+  "cityCount": 789,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4124,6 +4124,51 @@
         "minLng": -5.85,
         "maxLat": 35.8,
         "maxLng": -5.78
+      }
+    },
+    "mt/gozo/comino": {
+      "name": "Comino",
+      "bbox": {
+        "minLat": 36.008,
+        "minLng": 14.33,
+        "maxLat": 36.018,
+        "maxLng": 14.345
+      }
+    },
+    "mt/gozo/victoria": {
+      "name": "Victoria",
+      "bbox": {
+        "minLat": 36.04,
+        "minLng": 14.235,
+        "maxLat": 36.052,
+        "maxLng": 14.275
+      }
+    },
+    "mt/southern-harbour/valletta": {
+      "name": "Valletta",
+      "bbox": {
+        "minLat": 35.894,
+        "minLng": 14.508,
+        "maxLat": 35.902,
+        "maxLng": 14.518
+      }
+    },
+    "mt/southern/qrendi": {
+      "name": "Qrendi",
+      "bbox": {
+        "minLat": 35.818,
+        "minLng": 14.44,
+        "maxLat": 35.832,
+        "maxLng": 14.46
+      }
+    },
+    "mt/western/mdina": {
+      "name": "Mdina",
+      "bbox": {
+        "minLat": 35.883,
+        "minLng": 14.4,
+        "maxLat": 35.888,
+        "maxLng": 14.406
       }
     },
     "mx/baja-california-sur/cabo-san-lucas": {
@@ -11006,6 +11051,17 @@
     ],
     "69,68": [
       "cy/famagusta/ayia-napa"
+    ],
+    "71,29": [
+      "mt/southern-harbour/valletta"
+    ],
+    "71,28": [
+      "mt/southern/qrendi",
+      "mt/western/mdina"
+    ],
+    "72,28": [
+      "mt/gozo/comino",
+      "mt/gozo/victoria"
     ]
   }
 }
