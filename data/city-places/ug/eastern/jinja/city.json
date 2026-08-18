@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ug/eastern/jinja",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "stateCode": "E",
+  "stateName": "Eastern",
+  "cityName": "Jinja",
+  "bbox": {
+    "minLat": 0.418,
+    "minLng": 33.185,
+    "maxLat": 0.446,
+    "maxLng": 33.2
+  },
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "source-of-the-nile",
+      "name": "Source of the Nile",
+      "lat": 0.42093,
+      "lng": 33.1968,
+      "radiusM": 120,
+      "address": "Jinja",
+      "howTo": "Visit Source of the Nile.",
+      "badge": "badges/source-of-the-nile.png"
+    },
+    {
+      "id": "owen-falls",
+      "name": "Owen Falls",
+      "lat": 0.44337,
+      "lng": 33.18781,
+      "radiusM": 100,
+      "address": "Jinja",
+      "howTo": "Visit Owen Falls.",
+      "badge": "badges/owen-falls.png"
+    }
+  ]
+}

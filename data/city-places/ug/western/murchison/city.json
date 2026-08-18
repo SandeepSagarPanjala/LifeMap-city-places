@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ug/western/murchison",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "stateCode": "W",
+  "stateName": "Western",
+  "cityName": "Murchison",
+  "bbox": {
+    "minLat": 2.276,
+    "minLng": 31.675,
+    "maxLat": 2.283,
+    "maxLng": 31.688
+  },
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "murchison-falls",
+      "name": "Murchison Falls",
+      "lat": 2.27846,
+      "lng": 31.68585,
+      "radiusM": 150,
+      "address": "Murchison",
+      "howTo": "Visit Murchison Falls.",
+      "badge": "badges/murchison-falls.png"
+    },
+    {
+      "id": "nile-gorge",
+      "name": "Nile Gorge",
+      "lat": 2.2805,
+      "lng": 31.678,
+      "radiusM": 150,
+      "address": "Murchison",
+      "howTo": "Visit Nile Gorge.",
+      "badge": "badges/nile-gorge.png"
+    }
+  ]
+}

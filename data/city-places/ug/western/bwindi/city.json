@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ug/western/bwindi",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "stateCode": "W",
+  "stateName": "Western",
+  "cityName": "Bwindi",
+  "bbox": {
+    "minLat": -0.972,
+    "minLng": 29.612,
+    "maxLat": -0.963,
+    "maxLng": 29.622
+  },
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "buhoma",
+      "name": "Buhoma",
+      "lat": -0.96573,
+      "lng": 29.61425,
+      "radiusM": 120,
+      "address": "Bwindi",
+      "howTo": "Visit Buhoma.",
+      "badge": "badges/buhoma.png"
+    },
+    {
+      "id": "bwindi-forest",
+      "name": "Bwindi Forest",
+      "lat": -0.97,
+      "lng": 29.62,
+      "radiusM": 200,
+      "address": "Bwindi",
+      "howTo": "Visit Bwindi Forest.",
+      "badge": "badges/bwindi-forest.png"
+    }
+  ]
+}

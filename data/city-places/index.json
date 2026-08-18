@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:53:15.000Z",
-  "notes": "Mongolia (mn) complete. Next: Uganda (ug) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "notes": "Uganda (ug) complete. Next: Senegal (sn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17841,6 +17841,104 @@
                 "minLng": 103.72,
                 "maxLat": 44.147,
                 "maxLng": 103.726
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ug",
+      "countryCode": "UG",
+      "name": "Uganda",
+      "states": [
+        {
+          "id": "kampala",
+          "stateCode": "C",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "kampala",
+              "name": "Kampala",
+              "status": "complete",
+              "packPath": "ug/kampala/kampala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:57:33.000Z",
+              "bbox": {
+                "minLat": 0.313,
+                "minLng": 32.55,
+                "maxLat": 0.332,
+                "maxLng": 32.571
+              }
+            }
+          ]
+        },
+        {
+          "id": "eastern",
+          "stateCode": "E",
+          "name": "Eastern",
+          "cities": [
+            {
+              "id": "jinja",
+              "name": "Jinja",
+              "status": "complete",
+              "packPath": "ug/eastern/jinja/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:57:33.000Z",
+              "bbox": {
+                "minLat": 0.418,
+                "minLng": 33.185,
+                "maxLat": 0.446,
+                "maxLng": 33.2
+              }
+            },
+            {
+              "id": "sipi",
+              "name": "Sipi",
+              "status": "complete",
+              "packPath": "ug/eastern/sipi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:57:33.000Z",
+              "bbox": {
+                "minLat": 1.334,
+                "minLng": 34.375,
+                "maxLat": 1.339,
+                "maxLng": 34.387
+              }
+            }
+          ]
+        },
+        {
+          "id": "western",
+          "stateCode": "W",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "murchison",
+              "name": "Murchison",
+              "status": "complete",
+              "packPath": "ug/western/murchison/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:57:33.000Z",
+              "bbox": {
+                "minLat": 2.276,
+                "minLng": 31.675,
+                "maxLat": 2.283,
+                "maxLng": 31.688
+              }
+            },
+            {
+              "id": "bwindi",
+              "name": "Bwindi",
+              "status": "complete",
+              "packPath": "ug/western/bwindi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:57:33.000Z",
+              "bbox": {
+                "minLat": -0.972,
+                "minLng": 29.612,
+                "maxLat": -0.963,
+                "maxLng": 29.622
               }
             }
           ]

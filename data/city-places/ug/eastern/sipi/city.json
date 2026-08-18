@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ug/eastern/sipi",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "stateCode": "E",
+  "stateName": "Eastern",
+  "cityName": "Sipi",
+  "bbox": {
+    "minLat": 1.334,
+    "minLng": 34.375,
+    "maxLat": 1.339,
+    "maxLng": 34.387
+  },
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sipi-falls",
+      "name": "Sipi Falls",
+      "lat": 1.33617,
+      "lng": 34.37752,
+      "radiusM": 80,
+      "address": "Sipi",
+      "howTo": "Visit Sipi Falls.",
+      "badge": "badges/sipi-falls.png"
+    },
+    {
+      "id": "sipi-escarpment",
+      "name": "Sipi Escarpment",
+      "lat": 1.33715,
+      "lng": 34.38477,
+      "radiusM": 120,
+      "address": "Sipi",
+      "howTo": "Visit Sipi Escarpment.",
+      "badge": "badges/sipi-escarpment.png"
+    }
+  ]
+}

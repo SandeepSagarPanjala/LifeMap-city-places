@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ug/kampala/kampala",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "stateCode": "C",
+  "stateName": "Central",
+  "cityName": "Kampala",
+  "bbox": {
+    "minLat": 0.313,
+    "minLng": 32.55,
+    "maxLat": 0.332,
+    "maxLng": 32.571
+  },
+  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kasubi-tombs",
+      "name": "Kasubi Tombs",
+      "lat": 0.32931,
+      "lng": 32.55298,
+      "radiusM": 80,
+      "address": "Kampala",
+      "howTo": "Visit Kasubi Tombs.",
+      "badge": "badges/kasubi-tombs.png"
+    },
+    {
+      "id": "uganda-national-mosque",
+      "name": "Uganda National Mosque",
+      "lat": 0.3156,
+      "lng": 32.56856,
+      "radiusM": 80,
+      "address": "Kampala",
+      "howTo": "Visit Uganda National Mosque.",
+      "badge": "badges/uganda-national-mosque.png"
+    }
+  ]
+}
