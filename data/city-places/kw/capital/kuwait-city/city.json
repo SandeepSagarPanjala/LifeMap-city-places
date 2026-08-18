@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "kw/capital/kuwait-city",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "stateCode": "KU",
+  "stateName": "Capital",
+  "cityName": "Kuwait City",
+  "bbox": {
+    "minLat": 29.37,
+    "minLng": 47.968,
+    "maxLat": 29.395,
+    "maxLng": 48.008
+  },
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kuwait-towers",
+      "name": "Kuwait Towers",
+      "lat": 29.39,
+      "lng": 48.00306,
+      "radiusM": 80,
+      "address": "Arabian Gulf Street",
+      "howTo": "Visit Kuwait Towers.",
+      "badge": "badges/kuwait-towers.png"
+    },
+    {
+      "id": "grand-mosque",
+      "name": "Grand Mosque",
+      "lat": 29.3792,
+      "lng": 47.9744,
+      "radiusM": 100,
+      "address": "Kuwait City",
+      "howTo": "Visit Grand Mosque.",
+      "badge": "badges/grand-mosque.png"
+    },
+    {
+      "id": "souq-al-mubarakiya",
+      "name": "Souq Al Mubarakiya",
+      "lat": 29.3736,
+      "lng": 47.9722,
+      "radiusM": 150,
+      "address": "Kuwait City",
+      "howTo": "Visit Souq Al Mubarakiya.",
+      "badge": "badges/souq-al-mubarakiya.png"
+    }
+  ]
+}

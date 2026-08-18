@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kw/jahra/jahra",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "stateCode": "JA",
+  "stateName": "Jahra",
+  "cityName": "Jahra",
+  "bbox": {
+    "minLat": 29.334,
+    "minLng": 47.673,
+    "maxLat": 29.342,
+    "maxLng": 47.682
+  },
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "red-palace",
+      "name": "Red Palace",
+      "lat": 29.3375,
+      "lng": 47.6778,
+      "radiusM": 80,
+      "address": "Jahra",
+      "howTo": "Visit Red Palace.",
+      "badge": "badges/red-palace.png"
+    }
+  ]
+}

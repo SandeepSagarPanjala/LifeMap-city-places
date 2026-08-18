@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kw/ahmadi/fahaheel",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "stateCode": "AH",
+  "stateName": "Ahmadi",
+  "cityName": "Fahaheel",
+  "bbox": {
+    "minLat": 29.078,
+    "minLng": 48.13,
+    "maxLat": 29.09,
+    "maxLng": 48.145
+  },
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-kout",
+      "name": "Al Kout",
+      "lat": 29.082,
+      "lng": 48.137,
+      "radiusM": 120,
+      "address": "Fahaheel",
+      "howTo": "Visit Al Kout.",
+      "badge": "badges/al-kout.png"
+    },
+    {
+      "id": "fahaheel-corniche",
+      "name": "Fahaheel Corniche",
+      "lat": 29.085,
+      "lng": 48.14,
+      "radiusM": 200,
+      "address": "Fahaheel",
+      "howTo": "Visit Fahaheel Corniche.",
+      "badge": "badges/fahaheel-corniche.png"
+    }
+  ]
+}

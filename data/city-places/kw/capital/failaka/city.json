@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kw/capital/failaka",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "stateCode": "KU",
+  "stateName": "Capital",
+  "cityName": "Failaka",
+  "bbox": {
+    "minLat": 29.42,
+    "minLng": 48.26,
+    "maxLat": 29.45,
+    "maxLng": 48.35
+  },
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "failaka-beach",
+      "name": "Failaka Beach",
+      "lat": 29.439,
+      "lng": 48.28,
+      "radiusM": 250,
+      "address": "Failaka Island",
+      "howTo": "Visit Failaka Beach.",
+      "badge": "badges/failaka-beach.png"
+    },
+    {
+      "id": "tell-saad",
+      "name": "Tell Sa'ad",
+      "lat": 29.441,
+      "lng": 48.332,
+      "radiusM": 150,
+      "address": "Failaka",
+      "howTo": "Visit Tell Sa'ad.",
+      "badge": "badges/tell-saad.png"
+    }
+  ]
+}

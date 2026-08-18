@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:48:23.261Z",
+  "generatedAt": "2026-08-18T03:54:40.541Z",
   "cellDeg": 0.5,
-  "cityCount": 869,
+  "cityCount": 874,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4322,6 +4322,51 @@
         "minLng": 127,
         "maxLat": 37.29,
         "maxLng": 127.02
+      }
+    },
+    "kw/ahmadi/fahaheel": {
+      "name": "Fahaheel",
+      "bbox": {
+        "minLat": 29.078,
+        "minLng": 48.13,
+        "maxLat": 29.09,
+        "maxLng": 48.145
+      }
+    },
+    "kw/capital/failaka": {
+      "name": "Failaka",
+      "bbox": {
+        "minLat": 29.42,
+        "minLng": 48.26,
+        "maxLat": 29.45,
+        "maxLng": 48.35
+      }
+    },
+    "kw/capital/kuwait-city": {
+      "name": "Kuwait City",
+      "bbox": {
+        "minLat": 29.37,
+        "minLng": 47.968,
+        "maxLat": 29.395,
+        "maxLng": 48.008
+      }
+    },
+    "kw/hawalli/salmiya": {
+      "name": "Salmiya",
+      "bbox": {
+        "minLat": 29.333,
+        "minLng": 48.075,
+        "maxLat": 29.345,
+        "maxLng": 48.105
+      }
+    },
+    "kw/jahra/jahra": {
+      "name": "Jahra",
+      "bbox": {
+        "minLat": 29.334,
+        "minLng": 47.673,
+        "maxLat": 29.342,
+        "maxLng": 47.682
       }
     },
     "lk/central/kandy": {
@@ -12028,6 +12073,16 @@
     ],
     "51,101": [
       "bh/southern/tree-of-life"
+    ],
+    "58,95": [
+      "kw/capital/kuwait-city",
+      "kw/jahra/jahra"
+    ],
+    "58,96": [
+      "kw/ahmadi/fahaheel",
+      "kw/capital/failaka",
+      "kw/capital/kuwait-city",
+      "kw/hawalli/salmiya"
     ]
   }
 }

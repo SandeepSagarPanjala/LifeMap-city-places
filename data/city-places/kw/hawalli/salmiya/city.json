@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kw/hawalli/salmiya",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "stateCode": "HA",
+  "stateName": "Hawalli",
+  "cityName": "Salmiya",
+  "bbox": {
+    "minLat": 29.333,
+    "minLng": 48.075,
+    "maxLat": 29.345,
+    "maxLng": 48.105
+  },
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "scientific-center",
+      "name": "The Scientific Center",
+      "lat": 29.339,
+      "lng": 48.096,
+      "radiusM": 80,
+      "address": "Salmiya",
+      "howTo": "Visit The Scientific Center.",
+      "badge": "badges/scientific-center.png"
+    },
+    {
+      "id": "marina-crescent",
+      "name": "Marina Crescent",
+      "lat": 29.339,
+      "lng": 48.08,
+      "radiusM": 120,
+      "address": "Salmiya",
+      "howTo": "Visit Marina Crescent.",
+      "badge": "badges/marina-crescent.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:48:23.000Z",
-  "notes": "Bahrain (bh) complete. Next: Kuwait (kw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:54:40.000Z",
+  "notes": "Kuwait (kw) complete. Next: Kosovo (xk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16462,6 +16462,111 @@
                 "minLng": 50.551,
                 "maxLat": 26.122,
                 "maxLng": 50.56
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kw",
+      "countryCode": "KW",
+      "name": "Kuwait",
+      "states": [
+        {
+          "id": "capital",
+          "stateCode": "KU",
+          "name": "Capital",
+          "cities": [
+            {
+              "id": "kuwait-city",
+              "name": "Kuwait City",
+              "status": "complete",
+              "packPath": "kw/capital/kuwait-city/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:54:40.000Z",
+              "bbox": {
+                "minLat": 29.37,
+                "minLng": 47.968,
+                "maxLat": 29.395,
+                "maxLng": 48.008
+              }
+            },
+            {
+              "id": "failaka",
+              "name": "Failaka",
+              "status": "complete",
+              "packPath": "kw/capital/failaka/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:54:40.000Z",
+              "bbox": {
+                "minLat": 29.42,
+                "minLng": 48.26,
+                "maxLat": 29.45,
+                "maxLng": 48.35
+              }
+            }
+          ]
+        },
+        {
+          "id": "hawalli",
+          "stateCode": "HA",
+          "name": "Hawalli",
+          "cities": [
+            {
+              "id": "salmiya",
+              "name": "Salmiya",
+              "status": "complete",
+              "packPath": "kw/hawalli/salmiya/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:54:40.000Z",
+              "bbox": {
+                "minLat": 29.333,
+                "minLng": 48.075,
+                "maxLat": 29.345,
+                "maxLng": 48.105
+              }
+            }
+          ]
+        },
+        {
+          "id": "jahra",
+          "stateCode": "JA",
+          "name": "Jahra",
+          "cities": [
+            {
+              "id": "jahra",
+              "name": "Jahra",
+              "status": "complete",
+              "packPath": "kw/jahra/jahra/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:54:40.000Z",
+              "bbox": {
+                "minLat": 29.334,
+                "minLng": 47.673,
+                "maxLat": 29.342,
+                "maxLng": 47.682
+              }
+            }
+          ]
+        },
+        {
+          "id": "ahmadi",
+          "stateCode": "AH",
+          "name": "Ahmadi",
+          "cities": [
+            {
+              "id": "fahaheel",
+              "name": "Fahaheel",
+              "status": "complete",
+              "packPath": "kw/ahmadi/fahaheel/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:54:40.000Z",
+              "bbox": {
+                "minLat": 29.078,
+                "minLng": 48.13,
+                "maxLat": 29.09,
+                "maxLng": 48.145
               }
             }
           ]
