@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "np/gandaki/pokhara",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "stateCode": "P4",
+  "stateName": "Gandaki",
+  "cityName": "Pokhara",
+  "bbox": {
+    "minLat": 28.198,
+    "minLng": 83.94,
+    "maxLat": 28.215,
+    "maxLng": 83.962
+  },
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "phewa-lake",
+      "name": "Phewa Lake",
+      "lat": 28.2096,
+      "lng": 83.9554,
+      "radiusM": 250,
+      "address": "Lakeside",
+      "howTo": "Visit Phewa Lake.",
+      "badge": "badges/phewa-lake.png"
+    },
+    {
+      "id": "world-peace-pagoda-pokhara",
+      "name": "World Peace Pagoda",
+      "lat": 28.2003,
+      "lng": 83.945,
+      "radiusM": 120,
+      "address": "Anadu Hill",
+      "howTo": "Visit World Peace Pagoda.",
+      "badge": "badges/world-peace-pagoda-pokhara.png"
+    }
+  ]
+}

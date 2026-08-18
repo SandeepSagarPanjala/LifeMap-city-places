@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "np/lumbini/lumbini",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "stateCode": "P5",
+  "stateName": "Lumbini",
+  "cityName": "Lumbini",
+  "bbox": {
+    "minLat": 27.465,
+    "minLng": 83.27,
+    "maxLat": 27.5,
+    "maxLng": 83.28
+  },
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maya-devi-temple",
+      "name": "Maya Devi Temple",
+      "lat": 27.4696,
+      "lng": 83.2756,
+      "radiusM": 120,
+      "address": "Sacred Garden",
+      "howTo": "Visit Maya Devi Temple.",
+      "badge": "badges/maya-devi-temple.png"
+    },
+    {
+      "id": "lumbini-peace-pagoda",
+      "name": "Lumbini Peace Pagoda",
+      "lat": 27.498,
+      "lng": 83.276,
+      "radiusM": 120,
+      "address": "Lumbini",
+      "howTo": "Visit Lumbini Peace Pagoda.",
+      "badge": "badges/lumbini-peace-pagoda.png"
+    }
+  ]
+}

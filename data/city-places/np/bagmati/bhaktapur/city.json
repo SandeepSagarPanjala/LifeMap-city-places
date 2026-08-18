@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "np/bagmati/bhaktapur",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "stateCode": "P3",
+  "stateName": "Bagmati",
+  "cityName": "Bhaktapur",
+  "bbox": {
+    "minLat": 27.668,
+    "minLng": 85.425,
+    "maxLat": 27.675,
+    "maxLng": 85.432
+  },
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bhaktapur-durbar",
+      "name": "Bhaktapur Durbar Square",
+      "lat": 27.672,
+      "lng": 85.428,
+      "radiusM": 150,
+      "address": "Taumadhi",
+      "howTo": "Visit Bhaktapur Durbar Square.",
+      "badge": "badges/bhaktapur-durbar.png"
+    },
+    {
+      "id": "nyatapola",
+      "name": "Nyatapola Temple",
+      "lat": 27.6712,
+      "lng": 85.4295,
+      "radiusM": 80,
+      "address": "Taumadhi Square",
+      "howTo": "Visit Nyatapola Temple.",
+      "badge": "badges/nyatapola.png"
+    }
+  ]
+}

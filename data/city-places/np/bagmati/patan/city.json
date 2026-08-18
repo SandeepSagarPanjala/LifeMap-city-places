@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "np/bagmati/patan",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "stateCode": "P3",
+  "stateName": "Bagmati",
+  "cityName": "Patan",
+  "bbox": {
+    "minLat": 27.67,
+    "minLng": 85.322,
+    "maxLat": 27.678,
+    "maxLng": 85.328
+  },
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "patan-durbar",
+      "name": "Patan Durbar Square",
+      "lat": 27.6732,
+      "lng": 85.325,
+      "radiusM": 150,
+      "address": "Patan",
+      "howTo": "Visit Patan Durbar Square.",
+      "badge": "badges/patan-durbar.png"
+    },
+    {
+      "id": "golden-temple-patan",
+      "name": "Golden Temple",
+      "lat": 27.675,
+      "lng": 85.3255,
+      "radiusM": 80,
+      "address": "Kwa Bahal",
+      "howTo": "Visit Golden Temple.",
+      "badge": "badges/golden-temple-patan.png"
+    }
+  ]
+}

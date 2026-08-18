@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:31:22.002Z",
+  "generatedAt": "2026-08-18T01:36:02.678Z",
   "cellDeg": 0.5,
-  "cityCount": 714,
+  "cityCount": 719,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4088,6 +4088,51 @@
         "minLng": 7.1,
         "maxLat": 60.87,
         "maxLng": 7.13
+      }
+    },
+    "np/bagmati/bhaktapur": {
+      "name": "Bhaktapur",
+      "bbox": {
+        "minLat": 27.668,
+        "minLng": 85.425,
+        "maxLat": 27.675,
+        "maxLng": 85.432
+      }
+    },
+    "np/bagmati/kathmandu": {
+      "name": "Kathmandu",
+      "bbox": {
+        "minLat": 27.7,
+        "minLng": 85.29,
+        "maxLat": 27.73,
+        "maxLng": 85.37
+      }
+    },
+    "np/bagmati/patan": {
+      "name": "Patan",
+      "bbox": {
+        "minLat": 27.67,
+        "minLng": 85.322,
+        "maxLat": 27.678,
+        "maxLng": 85.328
+      }
+    },
+    "np/gandaki/pokhara": {
+      "name": "Pokhara",
+      "bbox": {
+        "minLat": 28.198,
+        "minLng": 83.94,
+        "maxLat": 28.215,
+        "maxLng": 83.962
+      }
+    },
+    "np/lumbini/lumbini": {
+      "name": "Lumbini",
+      "bbox": {
+        "minLat": 27.465,
+        "minLng": 83.27,
+        "maxLat": 27.5,
+        "maxLng": 83.28
       }
     },
     "nz/auckland/auckland": {
@@ -10121,6 +10166,20 @@
     ],
     "13,162": [
       "lk/uva/ella"
+    ],
+    "55,170": [
+      "np/bagmati/bhaktapur",
+      "np/bagmati/kathmandu",
+      "np/bagmati/patan"
+    ],
+    "56,167": [
+      "np/gandaki/pokhara"
+    ],
+    "54,166": [
+      "np/lumbini/lumbini"
+    ],
+    "55,166": [
+      "np/lumbini/lumbini"
     ]
   }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T09:35:00.000Z",
-  "notes": "Queue through Sri Lanka complete. Next: Nepal (np) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "notes": "Queue through Nepal complete. Next: Kenya (ke) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13186,6 +13186,104 @@
                 "minLng": 81.04,
                 "maxLat": 6.88,
                 "maxLng": 81.07
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "np",
+      "countryCode": "NP",
+      "name": "Nepal",
+      "states": [
+        {
+          "id": "bagmati",
+          "stateCode": "P3",
+          "name": "Bagmati",
+          "cities": [
+            {
+              "id": "kathmandu",
+              "name": "Kathmandu",
+              "status": "complete",
+              "packPath": "np/bagmati/kathmandu/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T09:50:00.000Z",
+              "bbox": {
+                "minLat": 27.7,
+                "minLng": 85.29,
+                "maxLat": 27.73,
+                "maxLng": 85.37
+              }
+            },
+            {
+              "id": "bhaktapur",
+              "name": "Bhaktapur",
+              "status": "complete",
+              "packPath": "np/bagmati/bhaktapur/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:50:00.000Z",
+              "bbox": {
+                "minLat": 27.668,
+                "minLng": 85.425,
+                "maxLat": 27.675,
+                "maxLng": 85.432
+              }
+            },
+            {
+              "id": "patan",
+              "name": "Patan",
+              "status": "complete",
+              "packPath": "np/bagmati/patan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:50:00.000Z",
+              "bbox": {
+                "minLat": 27.67,
+                "minLng": 85.322,
+                "maxLat": 27.678,
+                "maxLng": 85.328
+              }
+            }
+          ]
+        },
+        {
+          "id": "gandaki",
+          "stateCode": "P4",
+          "name": "Gandaki",
+          "cities": [
+            {
+              "id": "pokhara",
+              "name": "Pokhara",
+              "status": "complete",
+              "packPath": "np/gandaki/pokhara/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:50:00.000Z",
+              "bbox": {
+                "minLat": 28.198,
+                "minLng": 83.94,
+                "maxLat": 28.215,
+                "maxLng": 83.962
+              }
+            }
+          ]
+        },
+        {
+          "id": "lumbini",
+          "stateCode": "P5",
+          "name": "Lumbini",
+          "cities": [
+            {
+              "id": "lumbini",
+              "name": "Lumbini",
+              "status": "complete",
+              "packPath": "np/lumbini/lumbini/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:50:00.000Z",
+              "bbox": {
+                "minLat": 27.465,
+                "minLng": 83.27,
+                "maxLat": 27.5,
+                "maxLng": 83.28
               }
             }
           ]

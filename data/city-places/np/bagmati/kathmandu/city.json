@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "np/bagmati/kathmandu",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "stateCode": "P3",
+  "stateName": "Bagmati",
+  "cityName": "Kathmandu",
+  "bbox": {
+    "minLat": 27.7,
+    "minLng": 85.29,
+    "maxLat": 27.73,
+    "maxLng": 85.37
+  },
+  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "swayambhunath",
+      "name": "Swayambhunath",
+      "lat": 27.7149,
+      "lng": 85.2906,
+      "radiusM": 150,
+      "address": "Swayambhu",
+      "howTo": "Visit Swayambhunath.",
+      "badge": "badges/swayambhunath.png"
+    },
+    {
+      "id": "boudhanath",
+      "name": "Boudhanath",
+      "lat": 27.7215,
+      "lng": 85.362,
+      "radiusM": 120,
+      "address": "Boudha",
+      "howTo": "Visit Boudhanath.",
+      "badge": "badges/boudhanath.png"
+    },
+    {
+      "id": "kathmandu-durbar",
+      "name": "Kathmandu Durbar Square",
+      "lat": 27.7045,
+      "lng": 85.3072,
+      "radiusM": 150,
+      "address": "Basantapur",
+      "howTo": "Visit Kathmandu Durbar Square.",
+      "badge": "badges/kathmandu-durbar.png"
+    },
+    {
+      "id": "pashupatinath",
+      "name": "Pashupatinath",
+      "lat": 27.7105,
+      "lng": 85.3487,
+      "radiusM": 150,
+      "address": "Gaushala",
+      "howTo": "Visit Pashupatinath.",
+      "badge": "badges/pashupatinath.png"
+    }
+  ]
+}
