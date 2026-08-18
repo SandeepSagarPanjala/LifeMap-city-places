@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bw/north-west/tsodilo",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "stateCode": "NW",
+  "stateName": "North West",
+  "cityName": "Tsodilo",
+  "bbox": {
+    "minLat": -18.78,
+    "minLng": 21.744,
+    "maxLat": -18.764,
+    "maxLng": 21.76
+  },
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "male-hill",
+      "name": "Male Hill",
+      "lat": -18.768,
+      "lng": 21.754,
+      "radiusM": 100,
+      "address": "Tsodilo",
+      "howTo": "Visit Male Hill.",
+      "badge": "badges/male-hill.png"
+    },
+    {
+      "id": "female-hill",
+      "name": "Female Hill",
+      "lat": -18.775,
+      "lng": 21.748,
+      "radiusM": 100,
+      "address": "Tsodilo",
+      "howTo": "Visit Female Hill.",
+      "badge": "badges/female-hill.png"
+    }
+  ]
+}

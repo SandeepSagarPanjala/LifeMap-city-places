@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bw/central/makgadikgadi",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "stateCode": "CE",
+  "stateName": "Central",
+  "cityName": "Makgadikgadi",
+  "bbox": {
+    "minLat": -20.9,
+    "minLng": 25.79,
+    "maxLat": -20.865,
+    "maxLng": 25.835
+  },
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kubu-island",
+      "name": "Kubu Island",
+      "lat": -20.8939,
+      "lng": 25.8256,
+      "radiusM": 120,
+      "address": "Makgadikgadi",
+      "howTo": "Visit Kubu Island.",
+      "badge": "badges/kubu-island.png"
+    },
+    {
+      "id": "makgadikgadi-pans",
+      "name": "Makgadikgadi Pans",
+      "lat": -20.87,
+      "lng": 25.8,
+      "radiusM": 300,
+      "address": "Makgadikgadi",
+      "howTo": "Visit Makgadikgadi Pans.",
+      "badge": "badges/makgadikgadi-pans.png"
+    }
+  ]
+}

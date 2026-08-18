@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:27:02.000Z",
-  "notes": "Ethiopia (et) complete. Next: Botswana (bw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "notes": "Botswana (bw) complete. Next: Rwanda (rw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17323,6 +17323,111 @@
                 "minLng": 38.716,
                 "maxLat": 14.134,
                 "maxLng": 38.723
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bw",
+      "countryCode": "BW",
+      "name": "Botswana",
+      "states": [
+        {
+          "id": "south-east",
+          "stateCode": "SE",
+          "name": "South East",
+          "cities": [
+            {
+              "id": "gaborone",
+              "name": "Gaborone",
+              "status": "complete",
+              "packPath": "bw/south-east/gaborone/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:31:30.000Z",
+              "bbox": {
+                "minLat": -24.735,
+                "minLng": 25.865,
+                "maxLat": -24.655,
+                "maxLng": 25.915
+              }
+            }
+          ]
+        },
+        {
+          "id": "north-west",
+          "stateCode": "NW",
+          "name": "North West",
+          "cities": [
+            {
+              "id": "okavango",
+              "name": "Okavango",
+              "status": "complete",
+              "packPath": "bw/north-west/okavango/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:31:30.000Z",
+              "bbox": {
+                "minLat": -19.26,
+                "minLng": 23.34,
+                "maxLat": -19.17,
+                "maxLng": 23.43
+              }
+            },
+            {
+              "id": "tsodilo",
+              "name": "Tsodilo",
+              "status": "complete",
+              "packPath": "bw/north-west/tsodilo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:31:30.000Z",
+              "bbox": {
+                "minLat": -18.78,
+                "minLng": 21.744,
+                "maxLat": -18.764,
+                "maxLng": 21.76
+              }
+            }
+          ]
+        },
+        {
+          "id": "chobe",
+          "stateCode": "CH",
+          "name": "Chobe",
+          "cities": [
+            {
+              "id": "kasane",
+              "name": "Kasane",
+              "status": "complete",
+              "packPath": "bw/chobe/kasane/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:31:30.000Z",
+              "bbox": {
+                "minLat": -17.81,
+                "minLng": 25.125,
+                "maxLat": -17.79,
+                "maxLng": 25.165
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "CE",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "makgadikgadi",
+              "name": "Makgadikgadi",
+              "status": "complete",
+              "packPath": "bw/central/makgadikgadi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:31:30.000Z",
+              "bbox": {
+                "minLat": -20.9,
+                "minLng": 25.79,
+                "maxLat": -20.865,
+                "maxLng": 25.835
               }
             }
           ]

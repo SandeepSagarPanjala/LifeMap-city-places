@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bw/north-west/okavango",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "stateCode": "NW",
+  "stateName": "North West",
+  "cityName": "Okavango",
+  "bbox": {
+    "minLat": -19.26,
+    "minLng": 23.34,
+    "maxLat": -19.17,
+    "maxLng": 23.43
+  },
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "xakanaxa",
+      "name": "Xakanaxa",
+      "lat": -19.183,
+      "lng": 23.417,
+      "radiusM": 200,
+      "address": "Moremi",
+      "howTo": "Visit Xakanaxa.",
+      "badge": "badges/xakanaxa.png"
+    },
+    {
+      "id": "okavango-channels",
+      "name": "Okavango Channels",
+      "lat": -19.25,
+      "lng": 23.35,
+      "radiusM": 250,
+      "address": "Okavango Delta",
+      "howTo": "Visit Okavango Channels.",
+      "badge": "badges/okavango-channels.png"
+    }
+  ]
+}

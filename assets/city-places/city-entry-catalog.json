@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:27:02.613Z",
+  "generatedAt": "2026-08-18T23:31:30.177Z",
   "cellDeg": 0.5,
-  "cityCount": 909,
+  "cityCount": 914,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -749,6 +749,51 @@
         "minLng": -46.68,
         "maxLat": -23.52,
         "maxLng": -46.62
+      }
+    },
+    "bw/central/makgadikgadi": {
+      "name": "Makgadikgadi",
+      "bbox": {
+        "minLat": -20.9,
+        "minLng": 25.79,
+        "maxLat": -20.865,
+        "maxLng": 25.835
+      }
+    },
+    "bw/chobe/kasane": {
+      "name": "Kasane",
+      "bbox": {
+        "minLat": -17.81,
+        "minLng": 25.125,
+        "maxLat": -17.79,
+        "maxLng": 25.165
+      }
+    },
+    "bw/north-west/okavango": {
+      "name": "Okavango",
+      "bbox": {
+        "minLat": -19.26,
+        "minLng": 23.34,
+        "maxLat": -19.17,
+        "maxLng": 23.43
+      }
+    },
+    "bw/north-west/tsodilo": {
+      "name": "Tsodilo",
+      "bbox": {
+        "minLat": -18.78,
+        "minLng": 21.744,
+        "maxLat": -18.764,
+        "maxLng": 21.76
+      }
+    },
+    "bw/south-east/gaborone": {
+      "name": "Gaborone",
+      "bbox": {
+        "minLat": -24.735,
+        "minLng": 25.865,
+        "maxLat": -24.655,
+        "maxLng": 25.915
       }
     },
     "ca/alberta/banff": {
@@ -12502,6 +12547,21 @@
     ],
     "28,77": [
       "et/tigray/axum"
+    ],
+    "-50,51": [
+      "bw/south-east/gaborone"
+    ],
+    "-39,46": [
+      "bw/north-west/okavango"
+    ],
+    "-38,43": [
+      "bw/north-west/tsodilo"
+    ],
+    "-36,50": [
+      "bw/chobe/kasane"
+    ],
+    "-42,51": [
+      "bw/central/makgadikgadi"
     ]
   }
 }

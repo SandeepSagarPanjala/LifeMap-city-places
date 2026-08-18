@@ -134,7 +134,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 88. `tz` — Tanzania (**complete**)
 89. `na` — Namibia (**complete**)
 90. `et` — Ethiopia (**complete**)
-91. `bw` — Botswana
+91. `bw` — Botswana (**complete**)
+92. `rw` — Rwanda
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

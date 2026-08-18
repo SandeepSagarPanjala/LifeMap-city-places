@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bw/south-east/gaborone",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "stateCode": "SE",
+  "stateName": "South East",
+  "cityName": "Gaborone",
+  "bbox": {
+    "minLat": -24.735,
+    "minLng": 25.865,
+    "maxLat": -24.655,
+    "maxLng": 25.915
+  },
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kgale-hill",
+      "name": "Kgale Hill",
+      "lat": -24.7289,
+      "lng": 25.8694,
+      "radiusM": 120,
+      "address": "Gaborone",
+      "howTo": "Visit Kgale Hill.",
+      "badge": "badges/kgale-hill.png"
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament of Botswana",
+      "lat": -24.6583,
+      "lng": 25.9083,
+      "radiusM": 60,
+      "address": "Gaborone",
+      "howTo": "Visit Parliament of Botswana.",
+      "badge": "badges/parliament.png"
+    }
+  ]
+}

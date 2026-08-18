@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bw/chobe/kasane",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "stateCode": "CH",
+  "stateName": "Chobe",
+  "cityName": "Kasane",
+  "bbox": {
+    "minLat": -17.81,
+    "minLng": 25.125,
+    "maxLat": -17.79,
+    "maxLng": 25.165
+  },
+  "updatedAt": "2026-08-18T23:31:30.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chobe-river",
+      "name": "Chobe River",
+      "lat": -17.798,
+      "lng": 25.153,
+      "radiusM": 200,
+      "address": "Kasane",
+      "howTo": "Visit Chobe River.",
+      "badge": "badges/chobe-river.png"
+    },
+    {
+      "id": "sedudu",
+      "name": "Sedudu",
+      "lat": -17.8,
+      "lng": 25.135,
+      "radiusM": 150,
+      "address": "Chobe",
+      "howTo": "Visit Sedudu.",
+      "badge": "badges/sedudu.png"
+    }
+  ]
+}
