@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "co/quindio/salento",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "stateCode": "QUI",
+  "stateName": "Quindio",
+  "cityName": "Salento",
+  "bbox": {
+    "minLat": 4.62,
+    "minLng": -75.58,
+    "maxLat": 4.65,
+    "maxLng": 75.55
+  },
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cocora-valley",
+      "name": "Cocora Valley Wax Palms",
+      "lat": 4.637,
+      "lng": 75.487,
+      "radiusM": 400,
+      "address": "Valle de Cocora",
+      "howTo": "Visit Cocora Valley Wax Palms.",
+      "badge": "badges/cocora-valley.png"
+    },
+    {
+      "id": "salento-town",
+      "name": "Salento Town Square",
+      "lat": 4.637,
+      "lng": 75.57,
+      "radiusM": 150,
+      "address": "Salento",
+      "howTo": "Visit Salento Town Square.",
+      "badge": "badges/salento-town.png"
+    }
+  ]
+}

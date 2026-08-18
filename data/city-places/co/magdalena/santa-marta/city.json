@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "co/magdalena/santa-marta",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "stateCode": "MAG",
+  "stateName": "Magdalena",
+  "cityName": "Santa Marta",
+  "bbox": {
+    "minLat": 11.22,
+    "minLng": -74.22,
+    "maxLat": 11.26,
+    "maxLng": -74.18
+  },
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tayrona-park",
+      "name": "Tayrona National Park",
+      "lat": 11.32,
+      "lng": 74.08,
+      "radiusM": 400,
+      "address": "Tayrona",
+      "howTo": "Visit Tayrona National Park.",
+      "badge": "badges/tayrona-park.png"
+    },
+    {
+      "id": "santa-marta-bay",
+      "name": "Santa Marta Bay",
+      "lat": 11.245,
+      "lng": 74.215,
+      "radiusM": 300,
+      "address": "Rodadero",
+      "howTo": "Visit Santa Marta Bay.",
+      "badge": "badges/santa-marta-bay.png"
+    }
+  ]
+}

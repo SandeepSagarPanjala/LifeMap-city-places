@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:20:00.000Z",
-  "notes": "Queue through Peru complete. Next: Colombia (co) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "notes": "Queue through Colombia complete. Next: Chile (cl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11065,6 +11065,118 @@
                 "minLng": -70.05,
                 "maxLat": -15.82,
                 "maxLng": -69.8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "co",
+      "countryCode": "CO",
+      "name": "Colombia",
+      "states": [
+        {
+          "id": "bogota",
+          "stateCode": "BOG",
+          "name": "Bogota",
+          "cities": [
+            {
+              "id": "bogota",
+              "name": "Bogota",
+              "status": "complete",
+              "packPath": "co/bogota/bogota/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T04:40:00.000Z",
+              "bbox": {
+                "minLat": 4.58,
+                "minLng": -74.1,
+                "maxLat": 4.65,
+                "maxLng": -74.05
+              }
+            }
+          ]
+        },
+        {
+          "id": "antioquia",
+          "stateCode": "ANT",
+          "name": "Antioquia",
+          "cities": [
+            {
+              "id": "medellin",
+              "name": "Medellin",
+              "status": "complete",
+              "packPath": "co/antioquia/medellin/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:40:00.000Z",
+              "bbox": {
+                "minLat": 6.22,
+                "minLng": -75.59,
+                "maxLat": 6.27,
+                "maxLng": -75.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "bolivar",
+          "stateCode": "BOL",
+          "name": "Bolivar",
+          "cities": [
+            {
+              "id": "cartagena",
+              "name": "Cartagena",
+              "status": "complete",
+              "packPath": "co/bolivar/cartagena/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:40:00.000Z",
+              "bbox": {
+                "minLat": 10.38,
+                "minLng": -75.55,
+                "maxLat": 10.42,
+                "maxLng": -75.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "quindio",
+          "stateCode": "QUI",
+          "name": "Quindio",
+          "cities": [
+            {
+              "id": "salento",
+              "name": "Salento",
+              "status": "complete",
+              "packPath": "co/quindio/salento/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:40:00.000Z",
+              "bbox": {
+                "minLat": 4.62,
+                "minLng": -75.58,
+                "maxLat": 4.65,
+                "maxLng": 75.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "magdalena",
+          "stateCode": "MAG",
+          "name": "Magdalena",
+          "cities": [
+            {
+              "id": "santa-marta",
+              "name": "Santa Marta",
+              "status": "complete",
+              "packPath": "co/magdalena/santa-marta/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:40:00.000Z",
+              "bbox": {
+                "minLat": 11.22,
+                "minLng": -74.22,
+                "maxLat": 11.26,
+                "maxLng": -74.18
               }
             }
           ]

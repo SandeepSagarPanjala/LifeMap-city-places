@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "co/bolivar/cartagena",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "stateCode": "BOL",
+  "stateName": "Bolivar",
+  "cityName": "Cartagena",
+  "bbox": {
+    "minLat": 10.38,
+    "minLng": -75.55,
+    "maxLat": 10.42,
+    "maxLng": -75.52
+  },
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cartagena-walled-city",
+      "name": "Cartagena Walled City",
+      "lat": 10.423,
+      "lng": 75.549,
+      "radiusM": 250,
+      "address": "Centro Historico",
+      "howTo": "Visit Cartagena Walled City.",
+      "badge": "badges/cartagena-walled-city.png"
+    },
+    {
+      "id": "castillo-san-felipe",
+      "name": "Castillo San Felipe",
+      "lat": 10.425,
+      "lng": 75.538,
+      "radiusM": 200,
+      "address": "Getsemani",
+      "howTo": "Visit Castillo San Felipe.",
+      "badge": "badges/castillo-san-felipe.png"
+    },
+    {
+      "id": "getsemani-street-art",
+      "name": "Getsemani Street Art",
+      "lat": 10.421,
+      "lng": 75.545,
+      "radiusM": 200,
+      "address": "Getsemani",
+      "howTo": "Visit Getsemani Street Art.",
+      "badge": "badges/getsemani-street-art.png"
+    }
+  ]
+}

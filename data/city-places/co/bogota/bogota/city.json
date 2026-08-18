@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "co/bogota/bogota",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "stateCode": "BOG",
+  "stateName": "Bogota",
+  "cityName": "Bogota",
+  "bbox": {
+    "minLat": 4.58,
+    "minLng": -74.1,
+    "maxLat": 4.65,
+    "maxLng": -74.05
+  },
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "monserrate",
+      "name": "Monserrate",
+      "lat": 4.605,
+      "lng": 74.0555,
+      "radiusM": 200,
+      "address": "Monserrate",
+      "howTo": "Visit Monserrate.",
+      "badge": "badges/monserrate.png"
+    },
+    {
+      "id": "la-candelaria",
+      "name": "La Candelaria",
+      "lat": 4.597,
+      "lng": 74.072,
+      "radiusM": 250,
+      "address": "La Candelaria",
+      "howTo": "Visit La Candelaria.",
+      "badge": "badges/la-candelaria.png"
+    },
+    {
+      "id": "gold-museum-bogota",
+      "name": "Gold Museum",
+      "lat": 4.601,
+      "lng": 74.072,
+      "radiusM": 120,
+      "address": "Centro",
+      "howTo": "Visit Gold Museum.",
+      "badge": "badges/gold-museum-bogota.png"
+    },
+    {
+      "id": "plaza-bolivar-bogota",
+      "name": "Plaza de Bolivar",
+      "lat": 4.598,
+      "lng": 74.076,
+      "radiusM": 150,
+      "address": "La Candelaria",
+      "howTo": "Visit Plaza de Bolivar.",
+      "badge": "badges/plaza-bolivar-bogota.png"
+    }
+  ]
+}

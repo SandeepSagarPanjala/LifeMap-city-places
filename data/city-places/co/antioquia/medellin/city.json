@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "co/antioquia/medellin",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "stateCode": "ANT",
+  "stateName": "Antioquia",
+  "cityName": "Medellin",
+  "bbox": {
+    "minLat": 6.22,
+    "minLng": -75.59,
+    "maxLat": 6.27,
+    "maxLng": -75.55
+  },
+  "updatedAt": "2026-08-18T04:40:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "comuna-13",
+      "name": "Comuna 13",
+      "lat": 6.251,
+      "lng": 75.615,
+      "radiusM": 200,
+      "address": "San Javier",
+      "howTo": "Visit Comuna 13.",
+      "badge": "badges/comuna-13.png"
+    },
+    {
+      "id": "botero-plaza",
+      "name": "Botero Plaza",
+      "lat": 6.252,
+      "lng": 75.568,
+      "radiusM": 120,
+      "address": "El Centro",
+      "howTo": "Visit Botero Plaza.",
+      "badge": "badges/botero-plaza.png"
+    },
+    {
+      "id": "metrocable-medellin",
+      "name": "Metrocable",
+      "lat": 6.293,
+      "lng": 75.556,
+      "radiusM": 250,
+      "address": "Santo Domingo",
+      "howTo": "Visit Metrocable.",
+      "badge": "badges/metrocable-medellin.png"
+    }
+  ]
+}

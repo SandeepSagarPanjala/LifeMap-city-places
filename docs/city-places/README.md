@@ -75,7 +75,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 29. `za` — South Africa (**complete**)
 30. `ar` — Argentina (**complete**)
 31. `pe` — Peru (**complete**)
-32. `co` — Colombia
+32. `co` — Colombia (**complete**)
+33. `cl` — Chile
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

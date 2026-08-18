@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T23:56:17.604Z",
+  "generatedAt": "2026-08-18T00:02:04.758Z",
   "cellDeg": 0.5,
-  "cityCount": 617,
+  "cityCount": 622,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -524,6 +524,51 @@
         "minLng": 8.52,
         "maxLat": 47.39,
         "maxLng": 8.56
+      }
+    },
+    "co/antioquia/medellin": {
+      "name": "Medellin",
+      "bbox": {
+        "minLat": 6.22,
+        "minLng": -75.59,
+        "maxLat": 6.27,
+        "maxLng": -75.55
+      }
+    },
+    "co/bogota/bogota": {
+      "name": "Bogota",
+      "bbox": {
+        "minLat": 4.58,
+        "minLng": -74.1,
+        "maxLat": 4.65,
+        "maxLng": -74.05
+      }
+    },
+    "co/bolivar/cartagena": {
+      "name": "Cartagena",
+      "bbox": {
+        "minLat": 10.38,
+        "minLng": -75.55,
+        "maxLat": 10.42,
+        "maxLng": -75.52
+      }
+    },
+    "co/magdalena/santa-marta": {
+      "name": "Santa Marta",
+      "bbox": {
+        "minLat": 11.22,
+        "minLng": -74.22,
+        "maxLat": 11.26,
+        "maxLng": -74.18
+      }
+    },
+    "co/quindio/salento": {
+      "name": "Salento",
+      "bbox": {
+        "minLat": 4.62,
+        "minLng": -75.58,
+        "maxLat": 4.65,
+        "maxLng": 75.55
       }
     },
     "de/baden-wuerttemberg/freiburg": {
@@ -7970,6 +8015,928 @@
     ],
     "-32,-140": [
       "pe/puno/puno"
+    ],
+    "9,-149": [
+      "co/bogota/bogota",
+      "co/quindio/salento"
+    ],
+    "12,-152": [
+      "co/antioquia/medellin"
+    ],
+    "20,-152": [
+      "co/bolivar/cartagena"
+    ],
+    "9,-152": [
+      "co/quindio/salento"
+    ],
+    "9,-151": [
+      "co/quindio/salento"
+    ],
+    "9,-150": [
+      "co/quindio/salento"
+    ],
+    "9,-148": [
+      "co/quindio/salento"
+    ],
+    "9,-147": [
+      "co/quindio/salento"
+    ],
+    "9,-146": [
+      "co/quindio/salento"
+    ],
+    "9,-145": [
+      "co/quindio/salento"
+    ],
+    "9,-144": [
+      "co/quindio/salento"
+    ],
+    "9,-143": [
+      "co/quindio/salento"
+    ],
+    "9,-142": [
+      "co/quindio/salento"
+    ],
+    "9,-141": [
+      "co/quindio/salento"
+    ],
+    "9,-140": [
+      "co/quindio/salento"
+    ],
+    "9,-139": [
+      "co/quindio/salento"
+    ],
+    "9,-138": [
+      "co/quindio/salento"
+    ],
+    "9,-137": [
+      "co/quindio/salento"
+    ],
+    "9,-136": [
+      "co/quindio/salento"
+    ],
+    "9,-135": [
+      "co/quindio/salento"
+    ],
+    "9,-134": [
+      "co/quindio/salento"
+    ],
+    "9,-133": [
+      "co/quindio/salento"
+    ],
+    "9,-132": [
+      "co/quindio/salento"
+    ],
+    "9,-131": [
+      "co/quindio/salento"
+    ],
+    "9,-130": [
+      "co/quindio/salento"
+    ],
+    "9,-129": [
+      "co/quindio/salento"
+    ],
+    "9,-128": [
+      "co/quindio/salento"
+    ],
+    "9,-127": [
+      "co/quindio/salento"
+    ],
+    "9,-126": [
+      "co/quindio/salento"
+    ],
+    "9,-125": [
+      "co/quindio/salento"
+    ],
+    "9,-124": [
+      "co/quindio/salento"
+    ],
+    "9,-123": [
+      "co/quindio/salento"
+    ],
+    "9,-122": [
+      "co/quindio/salento"
+    ],
+    "9,-121": [
+      "co/quindio/salento"
+    ],
+    "9,-120": [
+      "co/quindio/salento"
+    ],
+    "9,-119": [
+      "co/quindio/salento"
+    ],
+    "9,-118": [
+      "co/quindio/salento"
+    ],
+    "9,-117": [
+      "co/quindio/salento"
+    ],
+    "9,-116": [
+      "co/quindio/salento"
+    ],
+    "9,-115": [
+      "co/quindio/salento"
+    ],
+    "9,-114": [
+      "co/quindio/salento"
+    ],
+    "9,-113": [
+      "co/quindio/salento"
+    ],
+    "9,-112": [
+      "co/quindio/salento"
+    ],
+    "9,-111": [
+      "co/quindio/salento"
+    ],
+    "9,-110": [
+      "co/quindio/salento"
+    ],
+    "9,-109": [
+      "co/quindio/salento"
+    ],
+    "9,-108": [
+      "co/quindio/salento"
+    ],
+    "9,-107": [
+      "co/quindio/salento"
+    ],
+    "9,-106": [
+      "co/quindio/salento"
+    ],
+    "9,-105": [
+      "co/quindio/salento"
+    ],
+    "9,-104": [
+      "co/quindio/salento"
+    ],
+    "9,-103": [
+      "co/quindio/salento"
+    ],
+    "9,-102": [
+      "co/quindio/salento"
+    ],
+    "9,-101": [
+      "co/quindio/salento"
+    ],
+    "9,-100": [
+      "co/quindio/salento"
+    ],
+    "9,-99": [
+      "co/quindio/salento"
+    ],
+    "9,-98": [
+      "co/quindio/salento"
+    ],
+    "9,-97": [
+      "co/quindio/salento"
+    ],
+    "9,-96": [
+      "co/quindio/salento"
+    ],
+    "9,-95": [
+      "co/quindio/salento"
+    ],
+    "9,-94": [
+      "co/quindio/salento"
+    ],
+    "9,-93": [
+      "co/quindio/salento"
+    ],
+    "9,-92": [
+      "co/quindio/salento"
+    ],
+    "9,-91": [
+      "co/quindio/salento"
+    ],
+    "9,-90": [
+      "co/quindio/salento"
+    ],
+    "9,-89": [
+      "co/quindio/salento"
+    ],
+    "9,-88": [
+      "co/quindio/salento"
+    ],
+    "9,-87": [
+      "co/quindio/salento"
+    ],
+    "9,-86": [
+      "co/quindio/salento"
+    ],
+    "9,-85": [
+      "co/quindio/salento"
+    ],
+    "9,-84": [
+      "co/quindio/salento"
+    ],
+    "9,-83": [
+      "co/quindio/salento"
+    ],
+    "9,-82": [
+      "co/quindio/salento"
+    ],
+    "9,-81": [
+      "co/quindio/salento"
+    ],
+    "9,-80": [
+      "co/quindio/salento"
+    ],
+    "9,-79": [
+      "co/quindio/salento"
+    ],
+    "9,-78": [
+      "co/quindio/salento"
+    ],
+    "9,-77": [
+      "co/quindio/salento"
+    ],
+    "9,-76": [
+      "co/quindio/salento"
+    ],
+    "9,-75": [
+      "co/quindio/salento"
+    ],
+    "9,-74": [
+      "co/quindio/salento"
+    ],
+    "9,-73": [
+      "co/quindio/salento"
+    ],
+    "9,-72": [
+      "co/quindio/salento"
+    ],
+    "9,-71": [
+      "co/quindio/salento"
+    ],
+    "9,-70": [
+      "co/quindio/salento"
+    ],
+    "9,-69": [
+      "co/quindio/salento"
+    ],
+    "9,-68": [
+      "co/quindio/salento"
+    ],
+    "9,-67": [
+      "co/quindio/salento"
+    ],
+    "9,-66": [
+      "co/quindio/salento"
+    ],
+    "9,-65": [
+      "co/quindio/salento"
+    ],
+    "9,-64": [
+      "co/quindio/salento"
+    ],
+    "9,-63": [
+      "co/quindio/salento"
+    ],
+    "9,-62": [
+      "co/quindio/salento"
+    ],
+    "9,-61": [
+      "co/quindio/salento"
+    ],
+    "9,-60": [
+      "co/quindio/salento"
+    ],
+    "9,-59": [
+      "co/quindio/salento"
+    ],
+    "9,-58": [
+      "co/quindio/salento"
+    ],
+    "9,-57": [
+      "co/quindio/salento"
+    ],
+    "9,-56": [
+      "co/quindio/salento"
+    ],
+    "9,-55": [
+      "co/quindio/salento"
+    ],
+    "9,-54": [
+      "co/quindio/salento"
+    ],
+    "9,-53": [
+      "co/quindio/salento"
+    ],
+    "9,-52": [
+      "co/quindio/salento"
+    ],
+    "9,-51": [
+      "co/quindio/salento"
+    ],
+    "9,-50": [
+      "co/quindio/salento"
+    ],
+    "9,-49": [
+      "co/quindio/salento"
+    ],
+    "9,-48": [
+      "co/quindio/salento"
+    ],
+    "9,-47": [
+      "co/quindio/salento"
+    ],
+    "9,-46": [
+      "co/quindio/salento"
+    ],
+    "9,-45": [
+      "co/quindio/salento"
+    ],
+    "9,-44": [
+      "co/quindio/salento"
+    ],
+    "9,-43": [
+      "co/quindio/salento"
+    ],
+    "9,-42": [
+      "co/quindio/salento"
+    ],
+    "9,-41": [
+      "co/quindio/salento"
+    ],
+    "9,-40": [
+      "co/quindio/salento"
+    ],
+    "9,-39": [
+      "co/quindio/salento"
+    ],
+    "9,-38": [
+      "co/quindio/salento"
+    ],
+    "9,-37": [
+      "co/quindio/salento"
+    ],
+    "9,-36": [
+      "co/quindio/salento"
+    ],
+    "9,-35": [
+      "co/quindio/salento"
+    ],
+    "9,-34": [
+      "co/quindio/salento"
+    ],
+    "9,-33": [
+      "co/quindio/salento"
+    ],
+    "9,-32": [
+      "co/quindio/salento"
+    ],
+    "9,-31": [
+      "co/quindio/salento"
+    ],
+    "9,-30": [
+      "co/quindio/salento"
+    ],
+    "9,-29": [
+      "co/quindio/salento"
+    ],
+    "9,-28": [
+      "co/quindio/salento"
+    ],
+    "9,-27": [
+      "co/quindio/salento"
+    ],
+    "9,-26": [
+      "co/quindio/salento"
+    ],
+    "9,-25": [
+      "co/quindio/salento"
+    ],
+    "9,-24": [
+      "co/quindio/salento"
+    ],
+    "9,-23": [
+      "co/quindio/salento"
+    ],
+    "9,-22": [
+      "co/quindio/salento"
+    ],
+    "9,-21": [
+      "co/quindio/salento"
+    ],
+    "9,-20": [
+      "co/quindio/salento"
+    ],
+    "9,-19": [
+      "co/quindio/salento"
+    ],
+    "9,-18": [
+      "co/quindio/salento"
+    ],
+    "9,-17": [
+      "co/quindio/salento"
+    ],
+    "9,-16": [
+      "co/quindio/salento"
+    ],
+    "9,-15": [
+      "co/quindio/salento"
+    ],
+    "9,-14": [
+      "co/quindio/salento"
+    ],
+    "9,-13": [
+      "co/quindio/salento"
+    ],
+    "9,-12": [
+      "co/quindio/salento"
+    ],
+    "9,-11": [
+      "co/quindio/salento"
+    ],
+    "9,-10": [
+      "co/quindio/salento"
+    ],
+    "9,-9": [
+      "co/quindio/salento"
+    ],
+    "9,-8": [
+      "co/quindio/salento"
+    ],
+    "9,-7": [
+      "co/quindio/salento"
+    ],
+    "9,-6": [
+      "co/quindio/salento"
+    ],
+    "9,-5": [
+      "co/quindio/salento"
+    ],
+    "9,-4": [
+      "co/quindio/salento"
+    ],
+    "9,-3": [
+      "co/quindio/salento"
+    ],
+    "9,-2": [
+      "co/quindio/salento"
+    ],
+    "9,-1": [
+      "co/quindio/salento"
+    ],
+    "9,0": [
+      "co/quindio/salento"
+    ],
+    "9,1": [
+      "co/quindio/salento"
+    ],
+    "9,2": [
+      "co/quindio/salento"
+    ],
+    "9,3": [
+      "co/quindio/salento"
+    ],
+    "9,4": [
+      "co/quindio/salento"
+    ],
+    "9,5": [
+      "co/quindio/salento"
+    ],
+    "9,6": [
+      "co/quindio/salento"
+    ],
+    "9,7": [
+      "co/quindio/salento"
+    ],
+    "9,8": [
+      "co/quindio/salento"
+    ],
+    "9,9": [
+      "co/quindio/salento"
+    ],
+    "9,10": [
+      "co/quindio/salento"
+    ],
+    "9,11": [
+      "co/quindio/salento"
+    ],
+    "9,12": [
+      "co/quindio/salento"
+    ],
+    "9,13": [
+      "co/quindio/salento"
+    ],
+    "9,14": [
+      "co/quindio/salento"
+    ],
+    "9,15": [
+      "co/quindio/salento"
+    ],
+    "9,16": [
+      "co/quindio/salento"
+    ],
+    "9,17": [
+      "co/quindio/salento"
+    ],
+    "9,18": [
+      "co/quindio/salento"
+    ],
+    "9,19": [
+      "co/quindio/salento"
+    ],
+    "9,20": [
+      "co/quindio/salento"
+    ],
+    "9,21": [
+      "co/quindio/salento"
+    ],
+    "9,22": [
+      "co/quindio/salento"
+    ],
+    "9,23": [
+      "co/quindio/salento"
+    ],
+    "9,24": [
+      "co/quindio/salento"
+    ],
+    "9,25": [
+      "co/quindio/salento"
+    ],
+    "9,26": [
+      "co/quindio/salento"
+    ],
+    "9,27": [
+      "co/quindio/salento"
+    ],
+    "9,28": [
+      "co/quindio/salento"
+    ],
+    "9,29": [
+      "co/quindio/salento"
+    ],
+    "9,30": [
+      "co/quindio/salento"
+    ],
+    "9,31": [
+      "co/quindio/salento"
+    ],
+    "9,32": [
+      "co/quindio/salento"
+    ],
+    "9,33": [
+      "co/quindio/salento"
+    ],
+    "9,34": [
+      "co/quindio/salento"
+    ],
+    "9,35": [
+      "co/quindio/salento"
+    ],
+    "9,36": [
+      "co/quindio/salento"
+    ],
+    "9,37": [
+      "co/quindio/salento"
+    ],
+    "9,38": [
+      "co/quindio/salento"
+    ],
+    "9,39": [
+      "co/quindio/salento"
+    ],
+    "9,40": [
+      "co/quindio/salento"
+    ],
+    "9,41": [
+      "co/quindio/salento"
+    ],
+    "9,42": [
+      "co/quindio/salento"
+    ],
+    "9,43": [
+      "co/quindio/salento"
+    ],
+    "9,44": [
+      "co/quindio/salento"
+    ],
+    "9,45": [
+      "co/quindio/salento"
+    ],
+    "9,46": [
+      "co/quindio/salento"
+    ],
+    "9,47": [
+      "co/quindio/salento"
+    ],
+    "9,48": [
+      "co/quindio/salento"
+    ],
+    "9,49": [
+      "co/quindio/salento"
+    ],
+    "9,50": [
+      "co/quindio/salento"
+    ],
+    "9,51": [
+      "co/quindio/salento"
+    ],
+    "9,52": [
+      "co/quindio/salento"
+    ],
+    "9,53": [
+      "co/quindio/salento"
+    ],
+    "9,54": [
+      "co/quindio/salento"
+    ],
+    "9,55": [
+      "co/quindio/salento"
+    ],
+    "9,56": [
+      "co/quindio/salento"
+    ],
+    "9,57": [
+      "co/quindio/salento"
+    ],
+    "9,58": [
+      "co/quindio/salento"
+    ],
+    "9,59": [
+      "co/quindio/salento"
+    ],
+    "9,60": [
+      "co/quindio/salento"
+    ],
+    "9,61": [
+      "co/quindio/salento"
+    ],
+    "9,62": [
+      "co/quindio/salento"
+    ],
+    "9,63": [
+      "co/quindio/salento"
+    ],
+    "9,64": [
+      "co/quindio/salento"
+    ],
+    "9,65": [
+      "co/quindio/salento"
+    ],
+    "9,66": [
+      "co/quindio/salento"
+    ],
+    "9,67": [
+      "co/quindio/salento"
+    ],
+    "9,68": [
+      "co/quindio/salento"
+    ],
+    "9,69": [
+      "co/quindio/salento"
+    ],
+    "9,70": [
+      "co/quindio/salento"
+    ],
+    "9,71": [
+      "co/quindio/salento"
+    ],
+    "9,72": [
+      "co/quindio/salento"
+    ],
+    "9,73": [
+      "co/quindio/salento"
+    ],
+    "9,74": [
+      "co/quindio/salento"
+    ],
+    "9,75": [
+      "co/quindio/salento"
+    ],
+    "9,76": [
+      "co/quindio/salento"
+    ],
+    "9,77": [
+      "co/quindio/salento"
+    ],
+    "9,78": [
+      "co/quindio/salento"
+    ],
+    "9,79": [
+      "co/quindio/salento"
+    ],
+    "9,80": [
+      "co/quindio/salento"
+    ],
+    "9,81": [
+      "co/quindio/salento"
+    ],
+    "9,82": [
+      "co/quindio/salento"
+    ],
+    "9,83": [
+      "co/quindio/salento"
+    ],
+    "9,84": [
+      "co/quindio/salento"
+    ],
+    "9,85": [
+      "co/quindio/salento"
+    ],
+    "9,86": [
+      "co/quindio/salento"
+    ],
+    "9,87": [
+      "co/quindio/salento"
+    ],
+    "9,88": [
+      "co/quindio/salento"
+    ],
+    "9,89": [
+      "co/quindio/salento"
+    ],
+    "9,90": [
+      "co/quindio/salento"
+    ],
+    "9,91": [
+      "co/quindio/salento"
+    ],
+    "9,92": [
+      "co/quindio/salento"
+    ],
+    "9,93": [
+      "co/quindio/salento"
+    ],
+    "9,94": [
+      "co/quindio/salento"
+    ],
+    "9,95": [
+      "co/quindio/salento"
+    ],
+    "9,96": [
+      "co/quindio/salento"
+    ],
+    "9,97": [
+      "co/quindio/salento"
+    ],
+    "9,98": [
+      "co/quindio/salento"
+    ],
+    "9,99": [
+      "co/quindio/salento"
+    ],
+    "9,100": [
+      "co/quindio/salento"
+    ],
+    "9,101": [
+      "co/quindio/salento"
+    ],
+    "9,102": [
+      "co/quindio/salento"
+    ],
+    "9,103": [
+      "co/quindio/salento"
+    ],
+    "9,104": [
+      "co/quindio/salento"
+    ],
+    "9,105": [
+      "co/quindio/salento"
+    ],
+    "9,106": [
+      "co/quindio/salento"
+    ],
+    "9,107": [
+      "co/quindio/salento"
+    ],
+    "9,108": [
+      "co/quindio/salento"
+    ],
+    "9,109": [
+      "co/quindio/salento"
+    ],
+    "9,110": [
+      "co/quindio/salento"
+    ],
+    "9,111": [
+      "co/quindio/salento"
+    ],
+    "9,112": [
+      "co/quindio/salento"
+    ],
+    "9,113": [
+      "co/quindio/salento"
+    ],
+    "9,114": [
+      "co/quindio/salento"
+    ],
+    "9,115": [
+      "co/quindio/salento"
+    ],
+    "9,116": [
+      "co/quindio/salento"
+    ],
+    "9,117": [
+      "co/quindio/salento"
+    ],
+    "9,118": [
+      "co/quindio/salento"
+    ],
+    "9,119": [
+      "co/quindio/salento"
+    ],
+    "9,120": [
+      "co/quindio/salento"
+    ],
+    "9,121": [
+      "co/quindio/salento"
+    ],
+    "9,122": [
+      "co/quindio/salento"
+    ],
+    "9,123": [
+      "co/quindio/salento"
+    ],
+    "9,124": [
+      "co/quindio/salento"
+    ],
+    "9,125": [
+      "co/quindio/salento"
+    ],
+    "9,126": [
+      "co/quindio/salento"
+    ],
+    "9,127": [
+      "co/quindio/salento"
+    ],
+    "9,128": [
+      "co/quindio/salento"
+    ],
+    "9,129": [
+      "co/quindio/salento"
+    ],
+    "9,130": [
+      "co/quindio/salento"
+    ],
+    "9,131": [
+      "co/quindio/salento"
+    ],
+    "9,132": [
+      "co/quindio/salento"
+    ],
+    "9,133": [
+      "co/quindio/salento"
+    ],
+    "9,134": [
+      "co/quindio/salento"
+    ],
+    "9,135": [
+      "co/quindio/salento"
+    ],
+    "9,136": [
+      "co/quindio/salento"
+    ],
+    "9,137": [
+      "co/quindio/salento"
+    ],
+    "9,138": [
+      "co/quindio/salento"
+    ],
+    "9,139": [
+      "co/quindio/salento"
+    ],
+    "9,140": [
+      "co/quindio/salento"
+    ],
+    "9,141": [
+      "co/quindio/salento"
+    ],
+    "9,142": [
+      "co/quindio/salento"
+    ],
+    "9,143": [
+      "co/quindio/salento"
+    ],
+    "9,144": [
+      "co/quindio/salento"
+    ],
+    "9,145": [
+      "co/quindio/salento"
+    ],
+    "9,146": [
+      "co/quindio/salento"
+    ],
+    "9,147": [
+      "co/quindio/salento"
+    ],
+    "9,148": [
+      "co/quindio/salento"
+    ],
+    "9,149": [
+      "co/quindio/salento"
+    ],
+    "9,150": [
+      "co/quindio/salento"
+    ],
+    "9,151": [
+      "co/quindio/salento"
+    ],
+    "22,-149": [
+      "co/magdalena/santa-marta"
     ]
   }
 }
