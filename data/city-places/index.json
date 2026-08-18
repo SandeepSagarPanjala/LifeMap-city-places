@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:08:37.000Z",
-  "notes": "Panama (pa) complete. Next: Ecuador (ec) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "notes": "Ecuador (ec) complete. Next: Uruguay (uy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13928,6 +13928,118 @@
                 "minLng": -80.155,
                 "maxLat": 8.635,
                 "maxLng": -80.12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec",
+      "countryCode": "EC",
+      "name": "Ecuador",
+      "states": [
+        {
+          "id": "pichincha",
+          "stateCode": "P",
+          "name": "Pichincha",
+          "cities": [
+            {
+              "id": "quito",
+              "name": "Quito",
+              "status": "complete",
+              "packPath": "ec/pichincha/quito/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:11:01.000Z",
+              "bbox": {
+                "minLat": -0.23,
+                "minLng": -78.53,
+                "maxLat": -0.2,
+                "maxLng": -78.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "azuay",
+          "stateCode": "A",
+          "name": "Azuay",
+          "cities": [
+            {
+              "id": "cuenca",
+              "name": "Cuenca",
+              "status": "complete",
+              "packPath": "ec/azuay/cuenca/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:11:01.000Z",
+              "bbox": {
+                "minLat": -2.905,
+                "minLng": -79.01,
+                "maxLat": -2.895,
+                "maxLng": -79.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "tungurahua",
+          "stateCode": "T",
+          "name": "Tungurahua",
+          "cities": [
+            {
+              "id": "banos",
+              "name": "Banos",
+              "status": "complete",
+              "packPath": "ec/tungurahua/banos/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:11:01.000Z",
+              "bbox": {
+                "minLat": -1.405,
+                "minLng": -78.445,
+                "maxLat": -1.385,
+                "maxLng": -78.415
+              }
+            }
+          ]
+        },
+        {
+          "id": "imbabura",
+          "stateCode": "I",
+          "name": "Imbabura",
+          "cities": [
+            {
+              "id": "otavalo",
+              "name": "Otavalo",
+              "status": "complete",
+              "packPath": "ec/imbabura/otavalo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:11:01.000Z",
+              "bbox": {
+                "minLat": 0.22,
+                "minLng": -78.27,
+                "maxLat": 0.32,
+                "maxLng": -78.23
+              }
+            }
+          ]
+        },
+        {
+          "id": "galapagos",
+          "stateCode": "W",
+          "name": "Galapagos",
+          "cities": [
+            {
+              "id": "puerto-ayora",
+              "name": "Puerto Ayora",
+              "status": "complete",
+              "packPath": "ec/galapagos/puerto-ayora/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:11:01.000Z",
+              "bbox": {
+                "minLat": -0.77,
+                "minLng": -90.33,
+                "maxLat": -0.73,
+                "maxLng": -90.29
               }
             }
           ]

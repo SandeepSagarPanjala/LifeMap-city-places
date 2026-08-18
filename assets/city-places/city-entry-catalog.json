@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:08:37.859Z",
+  "generatedAt": "2026-08-18T02:11:01.986Z",
   "cellDeg": 0.5,
-  "cityCount": 749,
+  "cityCount": 754,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1055,6 +1055,51 @@
         "minLng": -70.7,
         "maxLat": 19.455,
         "maxLng": -70.688
+      }
+    },
+    "ec/azuay/cuenca": {
+      "name": "Cuenca",
+      "bbox": {
+        "minLat": -2.905,
+        "minLng": -79.01,
+        "maxLat": -2.895,
+        "maxLng": -79
+      }
+    },
+    "ec/galapagos/puerto-ayora": {
+      "name": "Puerto Ayora",
+      "bbox": {
+        "minLat": -0.77,
+        "minLng": -90.33,
+        "maxLat": -0.73,
+        "maxLng": -90.29
+      }
+    },
+    "ec/imbabura/otavalo": {
+      "name": "Otavalo",
+      "bbox": {
+        "minLat": 0.22,
+        "minLng": -78.27,
+        "maxLat": 0.32,
+        "maxLng": -78.23
+      }
+    },
+    "ec/pichincha/quito": {
+      "name": "Quito",
+      "bbox": {
+        "minLat": -0.23,
+        "minLng": -78.53,
+        "maxLat": -0.2,
+        "maxLng": -78.48
+      }
+    },
+    "ec/tungurahua/banos": {
+      "name": "Banos",
+      "bbox": {
+        "minLat": -1.405,
+        "minLng": -78.445,
+        "maxLat": -1.385,
+        "maxLng": -78.415
       }
     },
     "eg/aswan/aswan": {
@@ -10561,6 +10606,27 @@
     ],
     "17,-161": [
       "pa/cocle/el-valle"
+    ],
+    "-1,-158": [
+      "ec/pichincha/quito"
+    ],
+    "-1,-157": [
+      "ec/pichincha/quito"
+    ],
+    "-6,-159": [
+      "ec/azuay/cuenca"
+    ],
+    "-6,-158": [
+      "ec/azuay/cuenca"
+    ],
+    "-3,-157": [
+      "ec/tungurahua/banos"
+    ],
+    "0,-157": [
+      "ec/imbabura/otavalo"
+    ],
+    "-2,-181": [
+      "ec/galapagos/puerto-ayora"
     ]
   }
 }

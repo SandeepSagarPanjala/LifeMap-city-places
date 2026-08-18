@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ec/imbabura/otavalo",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "stateCode": "I",
+  "stateName": "Imbabura",
+  "cityName": "Otavalo",
+  "bbox": {
+    "minLat": 0.22,
+    "minLng": -78.27,
+    "maxLat": 0.32,
+    "maxLng": -78.23
+  },
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "otavalo-market",
+      "name": "Otavalo Market",
+      "lat": 0.231,
+      "lng": -78.263,
+      "radiusM": 150,
+      "address": "Plaza de Ponchos",
+      "howTo": "Visit Otavalo Market.",
+      "badge": "badges/otavalo-market.png"
+    },
+    {
+      "id": "peguche-waterfall",
+      "name": "Peguche Waterfall",
+      "lat": 0.314,
+      "lng": -78.244,
+      "radiusM": 150,
+      "address": "Peguche",
+      "howTo": "Visit Peguche Waterfall.",
+      "badge": "badges/peguche-waterfall.png"
+    }
+  ]
+}

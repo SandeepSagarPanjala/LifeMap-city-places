@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ec/galapagos/puerto-ayora",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "stateCode": "W",
+  "stateName": "Galapagos",
+  "cityName": "Puerto Ayora",
+  "bbox": {
+    "minLat": -0.77,
+    "minLng": -90.33,
+    "maxLat": -0.73,
+    "maxLng": -90.29
+  },
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "charles-darwin-station",
+      "name": "Charles Darwin Research Station",
+      "lat": -0.743,
+      "lng": -90.304,
+      "radiusM": 150,
+      "address": "Puerto Ayora",
+      "howTo": "Visit Charles Darwin Research Station.",
+      "badge": "badges/charles-darwin-station.png"
+    },
+    {
+      "id": "tortuga-bay",
+      "name": "Tortuga Bay",
+      "lat": -0.758,
+      "lng": -90.318,
+      "radiusM": 250,
+      "address": "Santa Cruz Island",
+      "howTo": "Visit Tortuga Bay.",
+      "badge": "badges/tortuga-bay.png"
+    }
+  ]
+}

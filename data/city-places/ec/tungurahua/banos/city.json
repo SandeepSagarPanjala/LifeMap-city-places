@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ec/tungurahua/banos",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "stateCode": "T",
+  "stateName": "Tungurahua",
+  "cityName": "Banos",
+  "bbox": {
+    "minLat": -1.405,
+    "minLng": -78.445,
+    "maxLat": -1.385,
+    "maxLng": -78.415
+  },
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pailon-del-diablo",
+      "name": "Pailon del Diablo",
+      "lat": -1.399,
+      "lng": -78.442,
+      "radiusM": 200,
+      "address": "Pastaza River",
+      "howTo": "Visit Pailon del Diablo.",
+      "badge": "badges/pailon-del-diablo.png"
+    },
+    {
+      "id": "basilica-banos",
+      "name": "Basilica of Banos",
+      "lat": -1.392,
+      "lng": -78.422,
+      "radiusM": 80,
+      "address": "Banos",
+      "howTo": "Visit Basilica of Banos.",
+      "badge": "badges/basilica-banos.png"
+    }
+  ]
+}

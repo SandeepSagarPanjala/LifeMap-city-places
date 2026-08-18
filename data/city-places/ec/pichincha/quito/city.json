@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ec/pichincha/quito",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "stateCode": "P",
+  "stateName": "Pichincha",
+  "cityName": "Quito",
+  "bbox": {
+    "minLat": -0.23,
+    "minLng": -78.53,
+    "maxLat": -0.2,
+    "maxLng": -78.48
+  },
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-grande",
+      "name": "Plaza Grande",
+      "lat": -0.2208,
+      "lng": -78.5125,
+      "radiusM": 120,
+      "address": "Centro Historico",
+      "howTo": "Visit Plaza Grande.",
+      "badge": "badges/plaza-grande.png"
+    },
+    {
+      "id": "basilica-del-voto-nacional",
+      "name": "Basilica del Voto Nacional",
+      "lat": -0.2142,
+      "lng": -78.5275,
+      "radiusM": 120,
+      "address": "Centro Historico",
+      "howTo": "Visit Basilica del Voto Nacional.",
+      "badge": "badges/basilica-del-voto-nacional.png"
+    },
+    {
+      "id": "la-compania-quito",
+      "name": "La Compania Church",
+      "lat": -0.255,
+      "lng": -78.5125,
+      "radiusM": 80,
+      "address": "Centro Historico",
+      "howTo": "Visit La Compania Church.",
+      "badge": "badges/la-compania-quito.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ec/azuay/cuenca",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "stateCode": "A",
+  "stateName": "Azuay",
+  "cityName": "Cuenca",
+  "bbox": {
+    "minLat": -2.905,
+    "minLng": -79.01,
+    "maxLat": -2.895,
+    "maxLng": -79.0
+  },
+  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "new-cathedral-cuenca",
+      "name": "New Cathedral of Cuenca",
+      "lat": -2.897,
+      "lng": -79.0045,
+      "radiusM": 100,
+      "address": "Centro Historico",
+      "howTo": "Visit New Cathedral of Cuenca.",
+      "badge": "badges/new-cathedral-cuenca.png"
+    },
+    {
+      "id": "tomebamba-riverfront",
+      "name": "Tomebamba Riverfront",
+      "lat": -2.903,
+      "lng": -79.007,
+      "radiusM": 200,
+      "address": "El Barranco",
+      "howTo": "Visit Tomebamba Riverfront.",
+      "badge": "badges/tomebamba-riverfront.png"
+    }
+  ]
+}
