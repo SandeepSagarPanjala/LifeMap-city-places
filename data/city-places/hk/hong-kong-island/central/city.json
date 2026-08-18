@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "hk/hong-kong-island/central",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "stateCode": "HK",
+  "stateName": "Hong Kong Island",
+  "cityName": "Central",
+  "bbox": {
+    "minLat": 22.275,
+    "minLng": 114.145,
+    "maxLat": 22.286,
+    "maxLng": 114.165
+  },
+  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "victoria-peak",
+      "name": "Victoria Peak",
+      "lat": 22.2758,
+      "lng": 114.1455,
+      "radiusM": 200,
+      "address": "The Peak",
+      "howTo": "Visit Victoria Peak.",
+      "badge": "badges/victoria-peak.png"
+    },
+    {
+      "id": "man-mo-temple",
+      "name": "Man Mo Temple",
+      "lat": 22.28405,
+      "lng": 114.15015,
+      "radiusM": 60,
+      "address": "Hollywood Road",
+      "howTo": "Visit Man Mo Temple.",
+      "badge": "badges/man-mo-temple.png"
+    },
+    {
+      "id": "bank-of-china-tower",
+      "name": "Bank of China Tower",
+      "lat": 22.2793,
+      "lng": 114.1614,
+      "radiusM": 80,
+      "address": "1 Garden Road",
+      "howTo": "Visit Bank of China Tower.",
+      "badge": "badges/bank-of-china-tower.png"
+    },
+    {
+      "id": "tai-kwun",
+      "name": "Tai Kwun",
+      "lat": 22.2813,
+      "lng": 114.154,
+      "radiusM": 100,
+      "address": "10 Hollywood Road",
+      "howTo": "Visit Tai Kwun.",
+      "badge": "badges/tai-kwun.png"
+    }
+  ]
+}

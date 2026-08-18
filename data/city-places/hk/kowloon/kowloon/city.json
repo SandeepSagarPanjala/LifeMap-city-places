@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "hk/kowloon/kowloon",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "stateCode": "KLN",
+  "stateName": "Kowloon",
+  "cityName": "Kowloon",
+  "bbox": {
+    "minLat": 22.29,
+    "minLng": 114.17,
+    "maxLat": 22.345,
+    "maxLng": 114.21
+  },
+  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "avenue-of-stars",
+      "name": "Avenue of Stars",
+      "lat": 22.293,
+      "lng": 114.1744,
+      "radiusM": 150,
+      "address": "Tsim Sha Tsui",
+      "howTo": "Visit Avenue of Stars.",
+      "badge": "badges/avenue-of-stars.png"
+    },
+    {
+      "id": "chi-lin-nunnery",
+      "name": "Chi Lin Nunnery",
+      "lat": 22.3388,
+      "lng": 114.2047,
+      "radiusM": 120,
+      "address": "Diamond Hill",
+      "howTo": "Visit Chi Lin Nunnery.",
+      "badge": "badges/chi-lin-nunnery.png"
+    },
+    {
+      "id": "wong-tai-sin-temple",
+      "name": "Wong Tai Sin Temple",
+      "lat": 22.3423,
+      "lng": 114.1936,
+      "radiusM": 120,
+      "address": "Wong Tai Sin",
+      "howTo": "Visit Wong Tai Sin Temple.",
+      "badge": "badges/wong-tai-sin-temple.png"
+    }
+  ]
+}

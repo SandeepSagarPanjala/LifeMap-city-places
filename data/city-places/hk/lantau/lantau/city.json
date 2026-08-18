@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hk/lantau/lantau",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "stateCode": "LT",
+  "stateName": "Lantau",
+  "cityName": "Lantau",
+  "bbox": {
+    "minLat": 22.25,
+    "minLng": 113.858,
+    "maxLat": 22.26,
+    "maxLng": 113.91
+  },
+  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tian-tan-buddha",
+      "name": "Tian Tan Buddha",
+      "lat": 22.2542,
+      "lng": 113.905,
+      "radiusM": 200,
+      "address": "Ngong Ping",
+      "howTo": "Visit Tian Tan Buddha.",
+      "badge": "badges/tian-tan-buddha.png"
+    },
+    {
+      "id": "tai-o",
+      "name": "Tai O",
+      "lat": 22.2548,
+      "lng": 113.8634,
+      "radiusM": 200,
+      "address": "Tai O",
+      "howTo": "Visit Tai O.",
+      "badge": "badges/tai-o.png"
+    }
+  ]
+}

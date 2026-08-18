@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hk/new-territories/sha-tin",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "stateCode": "NT",
+  "stateName": "New Territories",
+  "cityName": "Sha Tin",
+  "bbox": {
+    "minLat": 22.37,
+    "minLng": 114.18,
+    "maxLat": 22.39,
+    "maxLng": 114.19
+  },
+  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ten-thousand-buddhas",
+      "name": "Ten Thousand Buddhas Monastery",
+      "lat": 22.3876,
+      "lng": 114.1847,
+      "radiusM": 150,
+      "address": "Sha Tin",
+      "howTo": "Visit Ten Thousand Buddhas Monastery.",
+      "badge": "badges/ten-thousand-buddhas.png"
+    },
+    {
+      "id": "che-kung-temple",
+      "name": "Che Kung Temple",
+      "lat": 22.373,
+      "lng": 114.1863,
+      "radiusM": 100,
+      "address": "Sha Tin",
+      "howTo": "Visit Che Kung Temple.",
+      "badge": "badges/che-kung-temple.png"
+    }
+  ]
+}

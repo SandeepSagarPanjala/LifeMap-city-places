@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:10:06.009Z",
+  "generatedAt": "2026-08-18T01:15:03.978Z",
   "cellDeg": 0.5,
-  "cityCount": 690,
+  "cityCount": 694,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1757,6 +1757,42 @@
         "minLng": 25.42,
         "maxLat": 36.45,
         "maxLng": 25.47
+      }
+    },
+    "hk/hong-kong-island/central": {
+      "name": "Central",
+      "bbox": {
+        "minLat": 22.275,
+        "minLng": 114.145,
+        "maxLat": 22.286,
+        "maxLng": 114.165
+      }
+    },
+    "hk/kowloon/kowloon": {
+      "name": "Kowloon",
+      "bbox": {
+        "minLat": 22.29,
+        "minLng": 114.17,
+        "maxLat": 22.345,
+        "maxLng": 114.21
+      }
+    },
+    "hk/lantau/lantau": {
+      "name": "Lantau",
+      "bbox": {
+        "minLat": 22.25,
+        "minLng": 113.858,
+        "maxLat": 22.26,
+        "maxLng": 113.91
+      }
+    },
+    "hk/new-territories/sha-tin": {
+      "name": "Sha Tin",
+      "bbox": {
+        "minLat": 22.37,
+        "minLng": 114.18,
+        "maxLat": 22.39,
+        "maxLng": 114.19
       }
     },
     "hr/dubrovnik-neretva/dubrovnik": {
@@ -9832,6 +9868,14 @@
     ],
     "48,243": [
       "tw/hualien/hualien"
+    ],
+    "44,228": [
+      "hk/hong-kong-island/central",
+      "hk/kowloon/kowloon",
+      "hk/new-territories/sha-tin"
+    ],
+    "44,227": [
+      "hk/lantau/lantau"
     ]
   }
 }

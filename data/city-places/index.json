@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T08:25:00.000Z",
-  "notes": "Queue through Taiwan complete. Next: Hong Kong (hk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "notes": "Queue through Hong Kong complete. Next: Jordan (jo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12654,6 +12654,97 @@
                 "minLng": 121.6,
                 "maxLat": 24.17,
                 "maxLng": 121.65
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hk",
+      "countryCode": "HK",
+      "name": "Hong Kong",
+      "states": [
+        {
+          "id": "hong-kong-island",
+          "stateCode": "HK",
+          "name": "Hong Kong Island",
+          "cities": [
+            {
+              "id": "central",
+              "name": "Central",
+              "status": "complete",
+              "packPath": "hk/hong-kong-island/central/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T08:35:00.000Z",
+              "bbox": {
+                "minLat": 22.275,
+                "minLng": 114.145,
+                "maxLat": 22.286,
+                "maxLng": 114.165
+              }
+            }
+          ]
+        },
+        {
+          "id": "kowloon",
+          "stateCode": "KLN",
+          "name": "Kowloon",
+          "cities": [
+            {
+              "id": "kowloon",
+              "name": "Kowloon",
+              "status": "complete",
+              "packPath": "hk/kowloon/kowloon/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T08:35:00.000Z",
+              "bbox": {
+                "minLat": 22.29,
+                "minLng": 114.17,
+                "maxLat": 22.345,
+                "maxLng": 114.21
+              }
+            }
+          ]
+        },
+        {
+          "id": "lantau",
+          "stateCode": "LT",
+          "name": "Lantau",
+          "cities": [
+            {
+              "id": "lantau",
+              "name": "Lantau",
+              "status": "complete",
+              "packPath": "hk/lantau/lantau/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:35:00.000Z",
+              "bbox": {
+                "minLat": 22.25,
+                "minLng": 113.858,
+                "maxLat": 22.26,
+                "maxLng": 113.91
+              }
+            }
+          ]
+        },
+        {
+          "id": "new-territories",
+          "stateCode": "NT",
+          "name": "New Territories",
+          "cities": [
+            {
+              "id": "sha-tin",
+              "name": "Sha Tin",
+              "status": "complete",
+              "packPath": "hk/new-territories/sha-tin/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:35:00.000Z",
+              "bbox": {
+                "minLat": 22.37,
+                "minLng": 114.18,
+                "maxLat": 22.39,
+                "maxLng": 114.19
               }
             }
           ]
