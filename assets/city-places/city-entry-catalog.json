@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:20:31.056Z",
+  "generatedAt": "2026-08-18T02:26:46.522Z",
   "cellDeg": 0.5,
-  "cityCount": 764,
+  "cityCount": 769,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -290,6 +290,51 @@
         "minLng": 3.218,
         "maxLat": 51.212,
         "maxLng": 3.23
+      }
+    },
+    "bo/chuquisaca/sucre": {
+      "name": "Sucre",
+      "bbox": {
+        "minLat": -19.055,
+        "minLng": -65.265,
+        "maxLat": -19.04,
+        "maxLng": -65.245
+      }
+    },
+    "bo/la-paz/copacabana": {
+      "name": "Copacabana",
+      "bbox": {
+        "minLat": -16.18,
+        "minLng": -69.18,
+        "maxLat": -16,
+        "maxLng": -69.07
+      }
+    },
+    "bo/la-paz/la-paz": {
+      "name": "La Paz",
+      "bbox": {
+        "minLat": -16.575,
+        "minLng": -68.145,
+        "maxLat": -16.485,
+        "maxLng": -68.085
+      }
+    },
+    "bo/potosi/potosi": {
+      "name": "Potosi",
+      "bbox": {
+        "minLat": -19.625,
+        "minLng": -65.76,
+        "maxLat": -19.575,
+        "maxLng": -65.74
+      }
+    },
+    "bo/potosi/uyuni": {
+      "name": "Uyuni",
+      "bbox": {
+        "minLat": -20.48,
+        "minLng": -67.55,
+        "maxLat": -20.13,
+        "maxLng": -66.8
       }
     },
     "br/amazonas/manaus": {
@@ -10747,6 +10792,33 @@
     ],
     "31,-180": [
       "gt/alta-verapaz/lanquin"
+    ],
+    "-34,-137": [
+      "bo/la-paz/la-paz"
+    ],
+    "-33,-137": [
+      "bo/la-paz/la-paz"
+    ],
+    "-33,-139": [
+      "bo/la-paz/copacabana"
+    ],
+    "-32,-139": [
+      "bo/la-paz/copacabana"
+    ],
+    "-41,-136": [
+      "bo/potosi/uyuni"
+    ],
+    "-41,-135": [
+      "bo/potosi/uyuni"
+    ],
+    "-41,-134": [
+      "bo/potosi/uyuni"
+    ],
+    "-40,-132": [
+      "bo/potosi/potosi"
+    ],
+    "-39,-131": [
+      "bo/chuquisaca/sucre"
     ]
   }
 }

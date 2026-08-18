@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bo/chuquisaca/sucre",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "stateCode": "H",
+  "stateName": "Chuquisaca",
+  "cityName": "Sucre",
+  "bbox": {
+    "minLat": -19.055,
+    "minLng": -65.265,
+    "maxLat": -19.04,
+    "maxLng": -65.245
+  },
+  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-25-de-mayo",
+      "name": "Plaza 25 de Mayo",
+      "lat": -19.0478,
+      "lng": -65.2596,
+      "radiusM": 120,
+      "address": "Centro Historico",
+      "howTo": "Visit Plaza 25 de Mayo.",
+      "badge": "badges/plaza-25-de-mayo.png"
+    },
+    {
+      "id": "la-recoleta-sucre",
+      "name": "La Recoleta",
+      "lat": -19.0525,
+      "lng": -65.25,
+      "radiusM": 100,
+      "address": "Sucre",
+      "howTo": "Visit La Recoleta.",
+      "badge": "badges/la-recoleta-sucre.png"
+    }
+  ]
+}

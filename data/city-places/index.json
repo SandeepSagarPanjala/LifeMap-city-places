@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:20:31.000Z",
-  "notes": "Guatemala (gt) complete. Next: Bolivia (bo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "notes": "Bolivia (bo) complete. Next: Bulgaria (bg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14257,6 +14257,104 @@
                 "minLng": -89.97,
                 "maxLat": 15.58,
                 "maxLng": -89.95
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo",
+      "countryCode": "BO",
+      "name": "Bolivia",
+      "states": [
+        {
+          "id": "la-paz",
+          "stateCode": "L",
+          "name": "La Paz",
+          "cities": [
+            {
+              "id": "la-paz",
+              "name": "La Paz",
+              "status": "complete",
+              "packPath": "bo/la-paz/la-paz/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:26:46.000Z",
+              "bbox": {
+                "minLat": -16.575,
+                "minLng": -68.145,
+                "maxLat": -16.485,
+                "maxLng": -68.085
+              }
+            },
+            {
+              "id": "copacabana",
+              "name": "Copacabana",
+              "status": "complete",
+              "packPath": "bo/la-paz/copacabana/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:26:46.000Z",
+              "bbox": {
+                "minLat": -16.18,
+                "minLng": -69.18,
+                "maxLat": -16.0,
+                "maxLng": -69.07
+              }
+            }
+          ]
+        },
+        {
+          "id": "potosi",
+          "stateCode": "P",
+          "name": "Potosi",
+          "cities": [
+            {
+              "id": "uyuni",
+              "name": "Uyuni",
+              "status": "complete",
+              "packPath": "bo/potosi/uyuni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:26:46.000Z",
+              "bbox": {
+                "minLat": -20.48,
+                "minLng": -67.55,
+                "maxLat": -20.13,
+                "maxLng": -66.8
+              }
+            },
+            {
+              "id": "potosi",
+              "name": "Potosi",
+              "status": "complete",
+              "packPath": "bo/potosi/potosi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:26:46.000Z",
+              "bbox": {
+                "minLat": -19.625,
+                "minLng": -65.76,
+                "maxLat": -19.575,
+                "maxLng": -65.74
+              }
+            }
+          ]
+        },
+        {
+          "id": "chuquisaca",
+          "stateCode": "H",
+          "name": "Chuquisaca",
+          "cities": [
+            {
+              "id": "sucre",
+              "name": "Sucre",
+              "status": "complete",
+              "packPath": "bo/chuquisaca/sucre/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:26:46.000Z",
+              "bbox": {
+                "minLat": -19.055,
+                "minLng": -65.265,
+                "maxLat": -19.04,
+                "maxLng": -65.245
               }
             }
           ]

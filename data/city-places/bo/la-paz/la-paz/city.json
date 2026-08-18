@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "bo/la-paz/la-paz",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "stateCode": "L",
+  "stateName": "La Paz",
+  "cityName": "La Paz",
+  "bbox": {
+    "minLat": -16.575,
+    "minLng": -68.145,
+    "maxLat": -16.485,
+    "maxLng": -68.085
+  },
+  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "plaza-murillo",
+      "name": "Plaza Murillo",
+      "lat": -16.4958,
+      "lng": -68.1333,
+      "radiusM": 120,
+      "address": "Centro",
+      "howTo": "Visit Plaza Murillo.",
+      "badge": "badges/plaza-murillo.png"
+    },
+    {
+      "id": "valle-de-la-luna",
+      "name": "Valle de la Luna",
+      "lat": -16.56722,
+      "lng": -68.09444,
+      "radiusM": 200,
+      "address": "Mallasa",
+      "howTo": "Visit Valle de la Luna.",
+      "badge": "badges/valle-de-la-luna.png"
+    },
+    {
+      "id": "witches-market",
+      "name": "Witches Market",
+      "lat": -16.4965,
+      "lng": -68.1375,
+      "radiusM": 80,
+      "address": "Calle Linares",
+      "howTo": "Visit Witches Market.",
+      "badge": "badges/witches-market.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bo/la-paz/copacabana",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "stateCode": "L",
+  "stateName": "La Paz",
+  "cityName": "Copacabana",
+  "bbox": {
+    "minLat": -16.18,
+    "minLng": -69.18,
+    "maxLat": -16.0,
+    "maxLng": -69.07
+  },
+  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "basilica-copacabana",
+      "name": "Basilica of Copacabana",
+      "lat": -16.1665,
+      "lng": -69.0855,
+      "radiusM": 100,
+      "address": "Copacabana",
+      "howTo": "Visit Basilica of Copacabana.",
+      "badge": "badges/basilica-copacabana.png"
+    },
+    {
+      "id": "isla-del-sol",
+      "name": "Isla del Sol",
+      "lat": -16.02,
+      "lng": -69.17,
+      "radiusM": 300,
+      "address": "Lake Titicaca",
+      "howTo": "Visit Isla del Sol.",
+      "badge": "badges/isla-del-sol.png"
+    }
+  ]
+}

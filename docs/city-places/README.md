@@ -105,7 +105,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 59. `ec` — Ecuador (**complete**)
 60. `uy` — Uruguay (**complete**)
 61. `gt` — Guatemala (**complete**)
-62. `bo` — Bolivia
+62. `bo` — Bolivia (**complete**)
+63. `bg` — Bulgaria
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

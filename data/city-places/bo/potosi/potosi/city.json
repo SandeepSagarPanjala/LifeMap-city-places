@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bo/potosi/potosi",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "stateCode": "P",
+  "stateName": "Potosi",
+  "cityName": "Potosi",
+  "bbox": {
+    "minLat": -19.625,
+    "minLng": -65.76,
+    "maxLat": -19.575,
+    "maxLng": -65.74
+  },
+  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cerro-rico",
+      "name": "Cerro Rico",
+      "lat": -19.618,
+      "lng": -65.75,
+      "radiusM": 250,
+      "address": "Potosi",
+      "howTo": "Visit Cerro Rico.",
+      "badge": "badges/cerro-rico.png"
+    },
+    {
+      "id": "casa-nacional-de-moneda",
+      "name": "Casa Nacional de la Moneda",
+      "lat": -19.5885,
+      "lng": -65.7538,
+      "radiusM": 80,
+      "address": "Potosi",
+      "howTo": "Visit Casa Nacional de la Moneda.",
+      "badge": "badges/casa-nacional-de-moneda.png"
+    }
+  ]
+}
