@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cz/south-moravia/brno",
+  "countryCode": "CZ",
+  "countryName": "Czech Republic",
+  "stateCode": "JM",
+  "stateName": "South Moravia",
+  "cityName": "Brno",
+  "bbox": {
+    "minLat": 49.18,
+    "minLng": 16.59,
+    "maxLat": 49.21,
+    "maxLng": 16.62
+  },
+  "updatedAt": "2026-08-18T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "spilberk-castle",
+      "name": "Spilberk Castle",
+      "lat": 49.194,
+      "lng": 16.599,
+      "radiusM": 200,
+      "address": "Spilberk",
+      "howTo": "Visit Spilberk Castle.",
+      "badge": "badges/spilberk-castle.png"
+    },
+    {
+      "id": "cathedral-st-peter-paul-brno",
+      "name": "Cathedral of St Peter and Paul",
+      "lat": 49.191,
+      "lng": 16.607,
+      "radiusM": 120,
+      "address": "Petrov",
+      "howTo": "Visit Cathedral of St Peter and Paul.",
+      "badge": "badges/cathedral-st-peter-paul-brno.png"
+    }
+  ]
+}

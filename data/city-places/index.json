@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T05:15:00.000Z",
-  "notes": "Queue through Ireland complete. Next: Czech Republic (cz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T05:30:00.000Z",
+  "notes": "Queue through Czech Republic complete. Next: Austria (at) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11394,6 +11394,97 @@
                 "minLng": -8.5,
                 "maxLat": 51.91,
                 "maxLng": -8.45
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cz",
+      "countryCode": "CZ",
+      "name": "Czech Republic",
+      "states": [
+        {
+          "id": "prague",
+          "stateCode": "PR",
+          "name": "Prague",
+          "cities": [
+            {
+              "id": "prague",
+              "name": "Prague",
+              "status": "complete",
+              "packPath": "cz/prague/prague/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T05:30:00.000Z",
+              "bbox": {
+                "minLat": 50.07,
+                "minLng": 14.4,
+                "maxLat": 50.1,
+                "maxLng": 14.45
+              }
+            }
+          ]
+        },
+        {
+          "id": "south-bohemia",
+          "stateCode": "JC",
+          "name": "South Bohemia",
+          "cities": [
+            {
+              "id": "cesky-krumlov",
+              "name": "Cesky Krumlov",
+              "status": "complete",
+              "packPath": "cz/south-bohemia/cesky-krumlov/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:30:00.000Z",
+              "bbox": {
+                "minLat": 48.8,
+                "minLng": 14.31,
+                "maxLat": 48.82,
+                "maxLng": 14.33
+              }
+            }
+          ]
+        },
+        {
+          "id": "karlovy-vary",
+          "stateCode": "KV",
+          "name": "Karlovy Vary",
+          "cities": [
+            {
+              "id": "karlovy-vary",
+              "name": "Karlovy Vary",
+              "status": "complete",
+              "packPath": "cz/karlovy-vary/karlovy-vary/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:30:00.000Z",
+              "bbox": {
+                "minLat": 50.22,
+                "minLng": 12.86,
+                "maxLat": 50.24,
+                "maxLng": 12.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "south-moravia",
+          "stateCode": "JM",
+          "name": "South Moravia",
+          "cities": [
+            {
+              "id": "brno",
+              "name": "Brno",
+              "status": "complete",
+              "packPath": "cz/south-moravia/brno/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:30:00.000Z",
+              "bbox": {
+                "minLat": 49.18,
+                "minLng": 16.59,
+                "maxLat": 49.21,
+                "maxLng": 16.62
               }
             }
           ]

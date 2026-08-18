@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cz/karlovy-vary/karlovy-vary",
+  "countryCode": "CZ",
+  "countryName": "Czech Republic",
+  "stateCode": "KV",
+  "stateName": "Karlovy Vary",
+  "cityName": "Karlovy Vary",
+  "bbox": {
+    "minLat": 50.22,
+    "minLng": 12.86,
+    "maxLat": 50.24,
+    "maxLng": 12.88
+  },
+  "updatedAt": "2026-08-18T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "karlovy-vary-colonnade",
+      "name": "Mill Colonnade",
+      "lat": 50.225,
+      "lng": 12.875,
+      "radiusM": 150,
+      "address": "Ml\u00fdnsk\u00e1 kolon\u00e1da",
+      "howTo": "Visit Mill Colonnade.",
+      "badge": "badges/karlovy-vary-colonnade.png"
+    },
+    {
+      "id": "karlovy-vary-spa",
+      "name": "Karlovy Vary Spa Town",
+      "lat": 50.223,
+      "lng": 12.871,
+      "radiusM": 250,
+      "address": "Spa Centre",
+      "howTo": "Visit Karlovy Vary Spa Town.",
+      "badge": "badges/karlovy-vary-spa.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:11:55.177Z",
+  "generatedAt": "2026-08-18T00:15:40.698Z",
   "cellDeg": 0.5,
-  "cityCount": 632,
+  "cityCount": 636,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -614,6 +614,42 @@
         "minLng": -75.58,
         "maxLat": 4.65,
         "maxLng": 75.55
+      }
+    },
+    "cz/karlovy-vary/karlovy-vary": {
+      "name": "Karlovy Vary",
+      "bbox": {
+        "minLat": 50.22,
+        "minLng": 12.86,
+        "maxLat": 50.24,
+        "maxLng": 12.88
+      }
+    },
+    "cz/prague/prague": {
+      "name": "Prague",
+      "bbox": {
+        "minLat": 50.07,
+        "minLng": 14.4,
+        "maxLat": 50.1,
+        "maxLng": 14.45
+      }
+    },
+    "cz/south-bohemia/cesky-krumlov": {
+      "name": "Cesky Krumlov",
+      "bbox": {
+        "minLat": 48.8,
+        "minLng": 14.31,
+        "maxLat": 48.82,
+        "maxLng": 14.33
+      }
+    },
+    "cz/south-moravia/brno": {
+      "name": "Brno",
+      "bbox": {
+        "minLat": 49.18,
+        "minLng": 16.59,
+        "maxLat": 49.21,
+        "maxLng": 16.62
       }
     },
     "de/baden-wuerttemberg/freiburg": {
@@ -9070,6 +9106,18 @@
     ],
     "103,-17": [
       "ie/cork/cork"
+    ],
+    "100,28": [
+      "cz/prague/prague"
+    ],
+    "97,28": [
+      "cz/south-bohemia/cesky-krumlov"
+    ],
+    "100,25": [
+      "cz/karlovy-vary/karlovy-vary"
+    ],
+    "98,33": [
+      "cz/south-moravia/brno"
     ]
   }
 }

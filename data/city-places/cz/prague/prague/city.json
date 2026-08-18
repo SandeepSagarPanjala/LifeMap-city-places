@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "cz/prague/prague",
+  "countryCode": "CZ",
+  "countryName": "Czech Republic",
+  "stateCode": "PR",
+  "stateName": "Prague",
+  "cityName": "Prague",
+  "bbox": {
+    "minLat": 50.07,
+    "minLng": 14.4,
+    "maxLat": 50.1,
+    "maxLng": 14.45
+  },
+  "updatedAt": "2026-08-18T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "charles-bridge",
+      "name": "Charles Bridge",
+      "lat": 50.0865,
+      "lng": 14.4114,
+      "radiusM": 200,
+      "address": "Stare Mesto",
+      "howTo": "Visit Charles Bridge.",
+      "badge": "badges/charles-bridge.png"
+    },
+    {
+      "id": "prague-castle",
+      "name": "Prague Castle",
+      "lat": 50.091,
+      "lng": 14.4016,
+      "radiusM": 250,
+      "address": "Hradcany",
+      "howTo": "Visit Prague Castle.",
+      "badge": "badges/prague-castle.png"
+    },
+    {
+      "id": "old-town-square-prague",
+      "name": "Old Town Square",
+      "lat": 50.0875,
+      "lng": 14.4211,
+      "radiusM": 150,
+      "address": "Stare Mesto",
+      "howTo": "Visit Old Town Square.",
+      "badge": "badges/old-town-square-prague.png"
+    },
+    {
+      "id": "astronomical-clock",
+      "name": "Prague Astronomical Clock",
+      "lat": 50.087,
+      "lng": 14.4207,
+      "radiusM": 80,
+      "address": "Old Town Hall",
+      "howTo": "Visit Prague Astronomical Clock.",
+      "badge": "badges/astronomical-clock.png"
+    },
+    {
+      "id": "petrin-tower",
+      "name": "Petrin Lookout Tower",
+      "lat": 50.0836,
+      "lng": 14.3952,
+      "radiusM": 150,
+      "address": "Petrin Hill",
+      "howTo": "Visit Petrin Lookout Tower.",
+      "badge": "badges/petrin-tower.png"
+    }
+  ]
+}

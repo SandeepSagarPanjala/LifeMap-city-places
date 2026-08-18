@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cz/south-bohemia/cesky-krumlov",
+  "countryCode": "CZ",
+  "countryName": "Czech Republic",
+  "stateCode": "JC",
+  "stateName": "South Bohemia",
+  "cityName": "Cesky Krumlov",
+  "bbox": {
+    "minLat": 48.8,
+    "minLng": 14.31,
+    "maxLat": 48.82,
+    "maxLng": 14.33
+  },
+  "updatedAt": "2026-08-18T05:30:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cesky-krumlov-castle",
+      "name": "Cesky Krumlov Castle",
+      "lat": 48.8127,
+      "lng": 14.317,
+      "radiusM": 200,
+      "address": "Castle",
+      "howTo": "Visit Cesky Krumlov Castle.",
+      "badge": "badges/cesky-krumlov-castle.png"
+    },
+    {
+      "id": "cesky-krumlov-old-town",
+      "name": "Cesky Krumlov Old Town",
+      "lat": 48.811,
+      "lng": 14.315,
+      "radiusM": 200,
+      "address": "Historic Centre",
+      "howTo": "Visit Cesky Krumlov Old Town.",
+      "badge": "badges/cesky-krumlov-old-town.png"
+    }
+  ]
+}
