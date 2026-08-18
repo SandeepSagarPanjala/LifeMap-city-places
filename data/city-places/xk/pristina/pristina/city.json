@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "xk/pristina/pristina",
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "stateCode": "01",
+  "stateName": "Pristina",
+  "cityName": "Pristina",
+  "bbox": {
+    "minLat": 42.654,
+    "minLng": 21.156,
+    "maxLat": 42.669,
+    "maxLng": 21.17
+  },
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mother-teresa-cathedral",
+      "name": "Cathedral of Saint Mother Teresa",
+      "lat": 42.65639,
+      "lng": 21.15933,
+      "radiusM": 80,
+      "address": "Pristina",
+      "howTo": "Visit Cathedral of Saint Mother Teresa.",
+      "badge": "badges/mother-teresa-cathedral.png"
+    },
+    {
+      "id": "national-library",
+      "name": "National Library of Kosovo",
+      "lat": 42.65722,
+      "lng": 21.16222,
+      "radiusM": 80,
+      "address": "Pristina",
+      "howTo": "Visit National Library of Kosovo.",
+      "badge": "badges/national-library.png"
+    },
+    {
+      "id": "imperial-mosque",
+      "name": "Imperial Mosque",
+      "lat": 42.66697,
+      "lng": 21.16688,
+      "radiusM": 80,
+      "address": "Pristina",
+      "howTo": "Visit Imperial Mosque.",
+      "badge": "badges/imperial-mosque.png"
+    }
+  ]
+}

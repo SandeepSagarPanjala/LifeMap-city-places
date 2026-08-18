@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "xk/gjakova/gjakova",
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "stateCode": "02",
+  "stateName": "Gjakova",
+  "cityName": "Gjakova",
+  "bbox": {
+    "minLat": 42.377,
+    "minLng": 20.425,
+    "maxLat": 42.382,
+    "maxLng": 20.43
+  },
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hadum-mosque",
+      "name": "Hadum Mosque",
+      "lat": 42.3792,
+      "lng": 20.4273,
+      "radiusM": 80,
+      "address": "Gjakova",
+      "howTo": "Visit Hadum Mosque.",
+      "badge": "badges/hadum-mosque.png"
+    }
+  ]
+}

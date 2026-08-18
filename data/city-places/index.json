@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:54:40.000Z",
-  "notes": "Kuwait (kw) complete. Next: Kosovo (xk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "notes": "Kosovo (xk) complete. Next: Andorra (ad) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16567,6 +16567,111 @@
                 "minLng": 48.13,
                 "maxLat": 29.09,
                 "maxLng": 48.145
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xk",
+      "countryCode": "XK",
+      "name": "Kosovo",
+      "states": [
+        {
+          "id": "pristina",
+          "stateCode": "01",
+          "name": "Pristina",
+          "cities": [
+            {
+              "id": "pristina",
+              "name": "Pristina",
+              "status": "complete",
+              "packPath": "xk/pristina/pristina/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:01:28.000Z",
+              "bbox": {
+                "minLat": 42.654,
+                "minLng": 21.156,
+                "maxLat": 42.669,
+                "maxLng": 21.17
+              }
+            },
+            {
+              "id": "gracanica",
+              "name": "Gra\u010danica",
+              "status": "complete",
+              "packPath": "xk/pristina/gracanica/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T04:01:28.000Z",
+              "bbox": {
+                "minLat": 42.596,
+                "minLng": 21.191,
+                "maxLat": 42.601,
+                "maxLng": 21.196
+              }
+            }
+          ]
+        },
+        {
+          "id": "prizren",
+          "stateCode": "04",
+          "name": "Prizren",
+          "cities": [
+            {
+              "id": "prizren",
+              "name": "Prizren",
+              "status": "complete",
+              "packPath": "xk/prizren/prizren/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:01:28.000Z",
+              "bbox": {
+                "minLat": 42.207,
+                "minLng": 20.737,
+                "maxLat": 42.211,
+                "maxLng": 20.748
+              }
+            }
+          ]
+        },
+        {
+          "id": "peja",
+          "stateCode": "03",
+          "name": "Peja",
+          "cities": [
+            {
+              "id": "peja",
+              "name": "Peja",
+              "status": "complete",
+              "packPath": "xk/peja/peja/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:01:28.000Z",
+              "bbox": {
+                "minLat": 42.658,
+                "minLng": 20.25,
+                "maxLat": 42.668,
+                "maxLng": 20.27
+              }
+            }
+          ]
+        },
+        {
+          "id": "gjakova",
+          "stateCode": "02",
+          "name": "Gjakova",
+          "cities": [
+            {
+              "id": "gjakova",
+              "name": "Gjakova",
+              "status": "complete",
+              "packPath": "xk/gjakova/gjakova/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T04:01:28.000Z",
+              "bbox": {
+                "minLat": 42.377,
+                "minLng": 20.425,
+                "maxLat": 42.382,
+                "maxLng": 20.43
               }
             }
           ]

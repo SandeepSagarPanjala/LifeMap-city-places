@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "xk/peja/peja",
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "stateCode": "03",
+  "stateName": "Peja",
+  "cityName": "Peja",
+  "bbox": {
+    "minLat": 42.658,
+    "minLng": 20.25,
+    "maxLat": 42.668,
+    "maxLng": 20.27
+  },
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "patriarchate-of-pec",
+      "name": "Patriarchate of Pe\u0107",
+      "lat": 42.661,
+      "lng": 20.266,
+      "radiusM": 100,
+      "address": "Peja",
+      "howTo": "Visit Patriarchate of Pe\u0107.",
+      "badge": "badges/patriarchate-of-pec.png"
+    },
+    {
+      "id": "rugova-canyon",
+      "name": "Rugova Canyon",
+      "lat": 42.664,
+      "lng": 20.255,
+      "radiusM": 250,
+      "address": "Peja",
+      "howTo": "Visit Rugova Canyon.",
+      "badge": "badges/rugova-canyon.png"
+    }
+  ]
+}

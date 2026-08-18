@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "xk/prizren/prizren",
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "stateCode": "04",
+  "stateName": "Prizren",
+  "cityName": "Prizren",
+  "bbox": {
+    "minLat": 42.207,
+    "minLng": 20.737,
+    "maxLat": 42.211,
+    "maxLng": 20.748
+  },
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "prizren-fortress",
+      "name": "Prizren Fortress",
+      "lat": 42.20944,
+      "lng": 20.74556,
+      "radiusM": 120,
+      "address": "Prizren",
+      "howTo": "Visit Prizren Fortress.",
+      "badge": "badges/prizren-fortress.png"
+    },
+    {
+      "id": "sinan-pasha-mosque",
+      "name": "Sinan Pasha Mosque",
+      "lat": 42.20861,
+      "lng": 20.74139,
+      "radiusM": 80,
+      "address": "Prizren",
+      "howTo": "Visit Sinan Pasha Mosque.",
+      "badge": "badges/sinan-pasha-mosque.png"
+    },
+    {
+      "id": "old-stone-bridge",
+      "name": "Old Stone Bridge",
+      "lat": 42.2092,
+      "lng": 20.7398,
+      "radiusM": 60,
+      "address": "Prizren",
+      "howTo": "Visit Old Stone Bridge.",
+      "badge": "badges/old-stone-bridge.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:54:40.541Z",
+  "generatedAt": "2026-08-18T04:01:28.637Z",
   "cellDeg": 0.5,
-  "cityCount": 874,
+  "cityCount": 879,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -7816,6 +7816,51 @@
         "maxLng": 107.6
       }
     },
+    "xk/gjakova/gjakova": {
+      "name": "Gjakova",
+      "bbox": {
+        "minLat": 42.377,
+        "minLng": 20.425,
+        "maxLat": 42.382,
+        "maxLng": 20.43
+      }
+    },
+    "xk/peja/peja": {
+      "name": "Peja",
+      "bbox": {
+        "minLat": 42.658,
+        "minLng": 20.25,
+        "maxLat": 42.668,
+        "maxLng": 20.27
+      }
+    },
+    "xk/pristina/gracanica": {
+      "name": "Gračanica",
+      "bbox": {
+        "minLat": 42.596,
+        "minLng": 21.191,
+        "maxLat": 42.601,
+        "maxLng": 21.196
+      }
+    },
+    "xk/pristina/pristina": {
+      "name": "Pristina",
+      "bbox": {
+        "minLat": 42.654,
+        "minLng": 21.156,
+        "maxLat": 42.669,
+        "maxLng": 21.17
+      }
+    },
+    "xk/prizren/prizren": {
+      "name": "Prizren",
+      "bbox": {
+        "minLat": 42.207,
+        "minLng": 20.737,
+        "maxLat": 42.211,
+        "maxLng": 20.748
+      }
+    },
     "za/gauteng/johannesburg": {
       "name": "Johannesburg",
       "bbox": {
@@ -12083,6 +12128,19 @@
       "kw/capital/failaka",
       "kw/capital/kuwait-city",
       "kw/hawalli/salmiya"
+    ],
+    "85,42": [
+      "xk/pristina/gracanica",
+      "xk/pristina/pristina"
+    ],
+    "84,41": [
+      "xk/prizren/prizren"
+    ],
+    "85,40": [
+      "xk/peja/peja"
+    ],
+    "84,40": [
+      "xk/gjakova/gjakova"
     ]
   }
 }

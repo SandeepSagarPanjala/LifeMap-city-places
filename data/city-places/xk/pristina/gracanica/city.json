@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "xk/pristina/gracanica",
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "stateCode": "01",
+  "stateName": "Pristina",
+  "cityName": "Gra\u010danica",
+  "bbox": {
+    "minLat": 42.596,
+    "minLng": 21.191,
+    "maxLat": 42.601,
+    "maxLng": 21.196
+  },
+  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gracanica-monastery",
+      "name": "Gra\u010danica Monastery",
+      "lat": 42.59833,
+      "lng": 21.19333,
+      "radiusM": 80,
+      "address": "Gra\u010danica",
+      "howTo": "Visit Gra\u010danica Monastery.",
+      "badge": "badges/gracanica-monastery.png"
+    }
+  ]
+}
