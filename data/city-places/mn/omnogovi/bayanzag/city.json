@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mn/omnogovi/bayanzag",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "stateCode": "053",
+  "stateName": "Omnogovi",
+  "cityName": "Bayanzag",
+  "bbox": {
+    "minLat": 44.138,
+    "minLng": 103.72,
+    "maxLat": 44.147,
+    "maxLng": 103.726
+  },
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "flaming-cliffs",
+      "name": "Flaming Cliffs",
+      "lat": 44.1403,
+      "lng": 103.72349,
+      "radiusM": 200,
+      "address": "Bayanzag",
+      "howTo": "Visit Flaming Cliffs.",
+      "badge": "badges/flaming-cliffs.png"
+    },
+    {
+      "id": "bayanzag",
+      "name": "Bayanzag",
+      "lat": 44.14448,
+      "lng": 103.72305,
+      "radiusM": 200,
+      "address": "Bayanzag",
+      "howTo": "Visit Bayanzag.",
+      "badge": "badges/bayanzag.png"
+    }
+  ]
+}

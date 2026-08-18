@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mn/omnogovi/khongor",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "stateCode": "053",
+  "stateName": "Omnogovi",
+  "cityName": "Khongor",
+  "bbox": {
+    "minLat": 43.768,
+    "minLng": 102.168,
+    "maxLat": 43.781,
+    "maxLng": 102.188
+  },
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "khongoryn-els",
+      "name": "Khongoryn Els",
+      "lat": 43.77076,
+      "lng": 102.17193,
+      "radiusM": 250,
+      "address": "Khongor",
+      "howTo": "Visit Khongoryn Els.",
+      "badge": "badges/khongoryn-els.png"
+    },
+    {
+      "id": "khongor-dunes",
+      "name": "Khongor Dunes",
+      "lat": 43.778,
+      "lng": 102.185,
+      "radiusM": 250,
+      "address": "Khongor",
+      "howTo": "Visit Khongor Dunes.",
+      "badge": "badges/khongor-dunes.png"
+    }
+  ]
+}

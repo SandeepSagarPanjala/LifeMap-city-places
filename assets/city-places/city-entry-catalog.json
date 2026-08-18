@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:47:54.908Z",
+  "generatedAt": "2026-08-18T23:53:15.552Z",
   "cellDeg": 0.5,
-  "cityCount": 929,
+  "cityCount": 934,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -4979,6 +4979,51 @@
         "minLng": 21.43,
         "maxLat": 42.004,
         "maxLng": 21.44
+      }
+    },
+    "mn/omnogovi/bayanzag": {
+      "name": "Bayanzag",
+      "bbox": {
+        "minLat": 44.138,
+        "minLng": 103.72,
+        "maxLat": 44.147,
+        "maxLng": 103.726
+      }
+    },
+    "mn/omnogovi/khongor": {
+      "name": "Khongor",
+      "bbox": {
+        "minLat": 43.768,
+        "minLng": 102.168,
+        "maxLat": 43.781,
+        "maxLng": 102.188
+      }
+    },
+    "mn/ovorkhangai/kharkhorin": {
+      "name": "Kharkhorin",
+      "bbox": {
+        "minLat": 47.198,
+        "minLng": 102.818,
+        "maxLat": 47.209,
+        "maxLng": 102.845
+      }
+    },
+    "mn/ulaanbaatar/terelj": {
+      "name": "Terelj",
+      "bbox": {
+        "minLat": 47.886,
+        "minLng": 107.418,
+        "maxLat": 47.91,
+        "maxLng": 107.428
+      }
+    },
+    "mn/ulaanbaatar/ulaanbaatar": {
+      "name": "Ulaanbaatar",
+      "bbox": {
+        "minLat": 47.917,
+        "minLng": 106.892,
+        "maxLat": 47.924,
+        "maxLng": 106.919
       }
     },
     "mt/gozo/comino": {
@@ -12743,6 +12788,21 @@
     ],
     "86,136": [
       "kz/turkistan/turkestan"
+    ],
+    "95,213": [
+      "mn/ulaanbaatar/ulaanbaatar"
+    ],
+    "95,214": [
+      "mn/ulaanbaatar/terelj"
+    ],
+    "94,205": [
+      "mn/ovorkhangai/kharkhorin"
+    ],
+    "87,204": [
+      "mn/omnogovi/khongor"
+    ],
+    "88,207": [
+      "mn/omnogovi/bayanzag"
     ]
   }
 }

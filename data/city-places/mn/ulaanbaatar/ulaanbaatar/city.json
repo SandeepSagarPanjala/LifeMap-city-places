@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mn/ulaanbaatar/ulaanbaatar",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "stateCode": "1",
+  "stateName": "Ulaanbaatar",
+  "cityName": "Ulaanbaatar",
+  "bbox": {
+    "minLat": 47.917,
+    "minLng": 106.892,
+    "maxLat": 47.924,
+    "maxLng": 106.919
+  },
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gandan",
+      "name": "Gandan Monastery",
+      "lat": 47.92204,
+      "lng": 106.89476,
+      "radiusM": 80,
+      "address": "Ulaanbaatar",
+      "howTo": "Visit Gandan Monastery.",
+      "badge": "badges/gandan.png"
+    },
+    {
+      "id": "sukhbaatar-square",
+      "name": "Sukhbaatar Square",
+      "lat": 47.91881,
+      "lng": 106.9169,
+      "radiusM": 100,
+      "address": "Ulaanbaatar",
+      "howTo": "Visit Sukhbaatar Square.",
+      "badge": "badges/sukhbaatar-square.png"
+    }
+  ]
+}

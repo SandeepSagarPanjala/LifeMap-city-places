@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mn/ovorkhangai/kharkhorin",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "stateCode": "055",
+  "stateName": "Ovorkhangai",
+  "cityName": "Kharkhorin",
+  "bbox": {
+    "minLat": 47.198,
+    "minLng": 102.818,
+    "maxLat": 47.209,
+    "maxLng": 102.845
+  },
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "erdene-zuu",
+      "name": "Erdene Zuu",
+      "lat": 47.20115,
+      "lng": 102.84174,
+      "radiusM": 80,
+      "address": "Kharkhorin",
+      "howTo": "Visit Erdene Zuu.",
+      "badge": "badges/erdene-zuu.png"
+    },
+    {
+      "id": "karakorum",
+      "name": "Karakorum",
+      "lat": 47.20613,
+      "lng": 102.82054,
+      "radiusM": 150,
+      "address": "Kharkhorin",
+      "howTo": "Visit Karakorum.",
+      "badge": "badges/karakorum.png"
+    }
+  ]
+}

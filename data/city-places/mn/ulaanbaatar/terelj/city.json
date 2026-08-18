@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mn/ulaanbaatar/terelj",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "stateCode": "1",
+  "stateName": "Ulaanbaatar",
+  "cityName": "Terelj",
+  "bbox": {
+    "minLat": 47.886,
+    "minLng": 107.418,
+    "maxLat": 47.91,
+    "maxLng": 107.428
+  },
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "turtle-rock",
+      "name": "Turtle Rock",
+      "lat": 47.90743,
+      "lng": 107.42288,
+      "radiusM": 80,
+      "address": "Terelj",
+      "howTo": "Visit Turtle Rock.",
+      "badge": "badges/turtle-rock.png"
+    },
+    {
+      "id": "terelj-valley",
+      "name": "Terelj Valley",
+      "lat": 47.88843,
+      "lng": 107.42282,
+      "radiusM": 200,
+      "address": "Terelj",
+      "howTo": "Visit Terelj Valley.",
+      "badge": "badges/terelj-valley.png"
+    }
+  ]
+}

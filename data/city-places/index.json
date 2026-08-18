@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:47:54.000Z",
-  "notes": "Kazakhstan (kz) complete. Next: Mongolia (mn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "notes": "Mongolia (mn) complete. Next: Uganda (ug) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17743,6 +17743,104 @@
                 "minLng": 68.266,
                 "maxLat": 43.3,
                 "maxLng": 68.274
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mn",
+      "countryCode": "MN",
+      "name": "Mongolia",
+      "states": [
+        {
+          "id": "ulaanbaatar",
+          "stateCode": "1",
+          "name": "Ulaanbaatar",
+          "cities": [
+            {
+              "id": "ulaanbaatar",
+              "name": "Ulaanbaatar",
+              "status": "complete",
+              "packPath": "mn/ulaanbaatar/ulaanbaatar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:53:15.000Z",
+              "bbox": {
+                "minLat": 47.917,
+                "minLng": 106.892,
+                "maxLat": 47.924,
+                "maxLng": 106.919
+              }
+            },
+            {
+              "id": "terelj",
+              "name": "Terelj",
+              "status": "complete",
+              "packPath": "mn/ulaanbaatar/terelj/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:53:15.000Z",
+              "bbox": {
+                "minLat": 47.886,
+                "minLng": 107.418,
+                "maxLat": 47.91,
+                "maxLng": 107.428
+              }
+            }
+          ]
+        },
+        {
+          "id": "ovorkhangai",
+          "stateCode": "055",
+          "name": "Ovorkhangai",
+          "cities": [
+            {
+              "id": "kharkhorin",
+              "name": "Kharkhorin",
+              "status": "complete",
+              "packPath": "mn/ovorkhangai/kharkhorin/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:53:15.000Z",
+              "bbox": {
+                "minLat": 47.198,
+                "minLng": 102.818,
+                "maxLat": 47.209,
+                "maxLng": 102.845
+              }
+            }
+          ]
+        },
+        {
+          "id": "omnogovi",
+          "stateCode": "053",
+          "name": "Omnogovi",
+          "cities": [
+            {
+              "id": "khongor",
+              "name": "Khongor",
+              "status": "complete",
+              "packPath": "mn/omnogovi/khongor/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:53:15.000Z",
+              "bbox": {
+                "minLat": 43.768,
+                "minLng": 102.168,
+                "maxLat": 43.781,
+                "maxLng": 102.188
+              }
+            },
+            {
+              "id": "bayanzag",
+              "name": "Bayanzag",
+              "status": "complete",
+              "packPath": "mn/omnogovi/bayanzag/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:53:15.000Z",
+              "bbox": {
+                "minLat": 44.138,
+                "minLng": 103.72,
+                "maxLat": 44.147,
+                "maxLng": 103.726
               }
             }
           ]
