@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T05:00:00.000Z",
-  "notes": "Queue through Chile complete. Next: Ireland (ie) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "notes": "Queue through Ireland complete. Next: Czech Republic (cz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -11282,6 +11282,118 @@
                 "minLng": -72.55,
                 "maxLat": -50.95,
                 "maxLng": -72.45
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ie",
+      "countryCode": "IE",
+      "name": "Ireland",
+      "states": [
+        {
+          "id": "dublin",
+          "stateCode": "D",
+          "name": "Dublin",
+          "cities": [
+            {
+              "id": "dublin",
+              "name": "Dublin",
+              "status": "complete",
+              "packPath": "ie/dublin/dublin/city.json",
+              "placeCount": 5,
+              "completedAt": "2026-08-18T05:15:00.000Z",
+              "bbox": {
+                "minLat": 53.33,
+                "minLng": -6.28,
+                "maxLat": 53.36,
+                "maxLng": -6.24
+              }
+            }
+          ]
+        },
+        {
+          "id": "kerry",
+          "stateCode": "KY",
+          "name": "Kerry",
+          "cities": [
+            {
+              "id": "killarney",
+              "name": "Killarney",
+              "status": "complete",
+              "packPath": "ie/kerry/killarney/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T05:15:00.000Z",
+              "bbox": {
+                "minLat": 52.0,
+                "minLng": -9.55,
+                "maxLat": 52.07,
+                "maxLng": -9.48
+              }
+            }
+          ]
+        },
+        {
+          "id": "clare",
+          "stateCode": "CE",
+          "name": "Clare",
+          "cities": [
+            {
+              "id": "cliffs-of-moher",
+              "name": "Cliffs of Moher",
+              "status": "complete",
+              "packPath": "ie/clare/cliffs-of-moher/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:15:00.000Z",
+              "bbox": {
+                "minLat": 52.96,
+                "minLng": -9.44,
+                "maxLat": 52.98,
+                "maxLng": -9.41
+              }
+            }
+          ]
+        },
+        {
+          "id": "galway",
+          "stateCode": "G",
+          "name": "Galway",
+          "cities": [
+            {
+              "id": "galway",
+              "name": "Galway",
+              "status": "complete",
+              "packPath": "ie/galway/galway/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:15:00.000Z",
+              "bbox": {
+                "minLat": 53.26,
+                "minLng": -9.07,
+                "maxLat": 53.28,
+                "maxLng": -9.04
+              }
+            }
+          ]
+        },
+        {
+          "id": "cork",
+          "stateCode": "C",
+          "name": "Cork",
+          "cities": [
+            {
+              "id": "cork",
+              "name": "Cork",
+              "status": "complete",
+              "packPath": "ie/cork/cork/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T05:15:00.000Z",
+              "bbox": {
+                "minLat": 51.88,
+                "minLng": -8.5,
+                "maxLat": 51.91,
+                "maxLng": -8.45
               }
             }
           ]

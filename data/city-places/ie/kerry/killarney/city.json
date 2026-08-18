@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ie/kerry/killarney",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "stateCode": "KY",
+  "stateName": "Kerry",
+  "cityName": "Killarney",
+  "bbox": {
+    "minLat": 52.0,
+    "minLng": -9.55,
+    "maxLat": 52.07,
+    "maxLng": -9.48
+  },
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "killarney-national-park",
+      "name": "Killarney National Park",
+      "lat": 52.01,
+      "lng": -9.55,
+      "radiusM": 400,
+      "address": "Muckross",
+      "howTo": "Visit Killarney National Park.",
+      "badge": "badges/killarney-national-park.png"
+    },
+    {
+      "id": "ring-of-kerry-view",
+      "name": "Ladies View",
+      "lat": 51.98,
+      "lng": -9.59,
+      "radiusM": 200,
+      "address": "Ring of Kerry",
+      "howTo": "Visit Ladies View.",
+      "badge": "badges/ring-of-kerry-view.png"
+    },
+    {
+      "id": "ross-castle",
+      "name": "Ross Castle",
+      "lat": 52.041,
+      "lng": -9.531,
+      "radiusM": 150,
+      "address": "Lough Leane",
+      "howTo": "Visit Ross Castle.",
+      "badge": "badges/ross-castle.png"
+    }
+  ]
+}

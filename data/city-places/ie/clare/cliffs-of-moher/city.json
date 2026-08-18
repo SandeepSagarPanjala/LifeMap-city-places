@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ie/clare/cliffs-of-moher",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "stateCode": "CE",
+  "stateName": "Clare",
+  "cityName": "Cliffs of Moher",
+  "bbox": {
+    "minLat": 52.96,
+    "minLng": -9.44,
+    "maxLat": 52.98,
+    "maxLng": -9.41
+  },
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cliffs-of-moher",
+      "name": "Cliffs of Moher",
+      "lat": 52.9715,
+      "lng": -9.4309,
+      "radiusM": 300,
+      "address": "Liscannor",
+      "howTo": "Visit Cliffs of Moher.",
+      "badge": "badges/cliffs-of-moher.png"
+    },
+    {
+      "id": "o-brien-tower",
+      "name": "O'Brien's Tower",
+      "lat": 52.973,
+      "lng": -9.427,
+      "radiusM": 100,
+      "address": "Cliffs of Moher",
+      "howTo": "Visit O'Brien's Tower.",
+      "badge": "badges/o-brien-tower.png"
+    }
+  ]
+}

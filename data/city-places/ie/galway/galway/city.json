@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ie/galway/galway",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "stateCode": "G",
+  "stateName": "Galway",
+  "cityName": "Galway",
+  "bbox": {
+    "minLat": 53.26,
+    "minLng": -9.07,
+    "maxLat": 53.28,
+    "maxLng": -9.04
+  },
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "galway-spanish-arch",
+      "name": "Spanish Arch",
+      "lat": 53.269,
+      "lng": -9.054,
+      "radiusM": 100,
+      "address": "Latin Quarter",
+      "howTo": "Visit Spanish Arch.",
+      "badge": "badges/galway-spanish-arch.png"
+    },
+    {
+      "id": "eyre-square",
+      "name": "Eyre Square",
+      "lat": 53.274,
+      "lng": -9.049,
+      "radiusM": 150,
+      "address": "Eyre Square",
+      "howTo": "Visit Eyre Square.",
+      "badge": "badges/eyre-square.png"
+    }
+  ]
+}

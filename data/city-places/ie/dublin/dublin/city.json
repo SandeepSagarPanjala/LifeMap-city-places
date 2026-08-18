@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ie/dublin/dublin",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "stateCode": "D",
+  "stateName": "Dublin",
+  "cityName": "Dublin",
+  "bbox": {
+    "minLat": 53.33,
+    "minLng": -6.28,
+    "maxLat": 53.36,
+    "maxLng": -6.24
+  },
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "trinity-college-dublin",
+      "name": "Trinity College Dublin",
+      "lat": 53.3439,
+      "lng": -6.2546,
+      "radiusM": 150,
+      "address": "College Green",
+      "howTo": "Visit Trinity College Dublin.",
+      "badge": "badges/trinity-college-dublin.png"
+    },
+    {
+      "id": "guinness-storehouse",
+      "name": "Guinness Storehouse",
+      "lat": 53.3419,
+      "lng": -6.2867,
+      "radiusM": 150,
+      "address": "St James's Gate",
+      "howTo": "Visit Guinness Storehouse.",
+      "badge": "badges/guinness-storehouse.png"
+    },
+    {
+      "id": "temple-bar",
+      "name": "Temple Bar",
+      "lat": 53.3454,
+      "lng": -6.2641,
+      "radiusM": 200,
+      "address": "Temple Bar",
+      "howTo": "Visit Temple Bar.",
+      "badge": "badges/temple-bar.png"
+    },
+    {
+      "id": "dublin-castle",
+      "name": "Dublin Castle",
+      "lat": 53.3429,
+      "lng": -6.2674,
+      "radiusM": 150,
+      "address": "Dame Street",
+      "howTo": "Visit Dublin Castle.",
+      "badge": "badges/dublin-castle.png"
+    },
+    {
+      "id": "phoenix-park",
+      "name": "Phoenix Park",
+      "lat": 53.3559,
+      "lng": -6.3298,
+      "radiusM": 400,
+      "address": "Phoenix Park",
+      "howTo": "Visit Phoenix Park.",
+      "badge": "badges/phoenix-park.png"
+    }
+  ]
+}

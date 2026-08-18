@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ie/cork/cork",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "stateCode": "C",
+  "stateName": "Cork",
+  "cityName": "Cork",
+  "bbox": {
+    "minLat": 51.88,
+    "minLng": -8.5,
+    "maxLat": 51.91,
+    "maxLng": -8.45
+  },
+  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "english-market-cork",
+      "name": "English Market",
+      "lat": 51.897,
+      "lng": -8.474,
+      "radiusM": 120,
+      "address": "Princes Street",
+      "howTo": "Visit English Market.",
+      "badge": "badges/english-market-cork.png"
+    },
+    {
+      "id": "blarney-castle",
+      "name": "Blarney Castle",
+      "lat": 51.929,
+      "lng": -8.571,
+      "radiusM": 200,
+      "address": "Blarney",
+      "howTo": "Visit Blarney Castle.",
+      "badge": "badges/blarney-castle.png"
+    }
+  ]
+}

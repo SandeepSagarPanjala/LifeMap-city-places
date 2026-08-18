@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:06:35.186Z",
+  "generatedAt": "2026-08-18T00:11:55.177Z",
   "cellDeg": 0.5,
-  "cityCount": 627,
+  "cityCount": 632,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1649,6 +1649,51 @@
         "minLng": 110.35,
         "maxLat": -7.75,
         "maxLng": 110.42
+      }
+    },
+    "ie/clare/cliffs-of-moher": {
+      "name": "Cliffs of Moher",
+      "bbox": {
+        "minLat": 52.96,
+        "minLng": -9.44,
+        "maxLat": 52.98,
+        "maxLng": -9.41
+      }
+    },
+    "ie/cork/cork": {
+      "name": "Cork",
+      "bbox": {
+        "minLat": 51.88,
+        "minLng": -8.5,
+        "maxLat": 51.91,
+        "maxLng": -8.45
+      }
+    },
+    "ie/dublin/dublin": {
+      "name": "Dublin",
+      "bbox": {
+        "minLat": 53.33,
+        "minLng": -6.28,
+        "maxLat": 53.36,
+        "maxLng": -6.24
+      }
+    },
+    "ie/galway/galway": {
+      "name": "Galway",
+      "bbox": {
+        "minLat": 53.26,
+        "minLng": -9.07,
+        "maxLat": 53.28,
+        "maxLng": -9.04
+      }
+    },
+    "ie/kerry/killarney": {
+      "name": "Killarney",
+      "bbox": {
+        "minLat": 52,
+        "minLng": -9.55,
+        "maxLat": 52.07,
+        "maxLng": -9.48
       }
     },
     "in/andaman-and-nicobar/port-blair": {
@@ -9007,6 +9052,24 @@
     ],
     "-102,-145": [
       "cl/magallanes/puerto-natales"
+    ],
+    "106,-13": [
+      "ie/dublin/dublin"
+    ],
+    "104,-20": [
+      "ie/kerry/killarney"
+    ],
+    "104,-19": [
+      "ie/kerry/killarney"
+    ],
+    "105,-19": [
+      "ie/clare/cliffs-of-moher"
+    ],
+    "106,-19": [
+      "ie/galway/galway"
+    ],
+    "103,-17": [
+      "ie/cork/cork"
     ]
   }
 }
