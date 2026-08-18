@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fi/lapland/rovaniemi",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "stateCode": "10",
+  "stateName": "Lapland",
+  "cityName": "Rovaniemi",
+  "bbox": {
+    "minLat": 66.5,
+    "minLng": 25.73,
+    "maxLat": 66.55,
+    "maxLng": 25.86
+  },
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-claus-village",
+      "name": "Santa Claus Village",
+      "lat": 66.5436,
+      "lng": 25.8474,
+      "radiusM": 200,
+      "address": "Arctic Circle",
+      "howTo": "Visit Santa Claus Village.",
+      "badge": "badges/santa-claus-village.png"
+    },
+    {
+      "id": "arktikum",
+      "name": "Arktikum",
+      "lat": 66.5085,
+      "lng": 25.736,
+      "radiusM": 120,
+      "address": "Pohjoisranta 4",
+      "howTo": "Visit Arktikum.",
+      "badge": "badges/arktikum.png"
+    }
+  ]
+}

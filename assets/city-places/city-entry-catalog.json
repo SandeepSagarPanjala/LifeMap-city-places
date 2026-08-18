@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:55:04.114Z",
+  "generatedAt": "2026-08-18T00:59:27.319Z",
   "cellDeg": 0.5,
-  "cityCount": 675,
+  "cityCount": 680,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1136,6 +1136,51 @@
         "minLng": -1.99,
         "maxLat": 43.33,
         "maxLng": -1.97
+      }
+    },
+    "fi/lapland/rovaniemi": {
+      "name": "Rovaniemi",
+      "bbox": {
+        "minLat": 66.5,
+        "minLng": 25.73,
+        "maxLat": 66.55,
+        "maxLng": 25.86
+      }
+    },
+    "fi/pirkanmaa/tampere": {
+      "name": "Tampere",
+      "bbox": {
+        "minLat": 61.495,
+        "minLng": 23.74,
+        "maxLat": 61.512,
+        "maxLng": 23.78
+      }
+    },
+    "fi/southwest/turku": {
+      "name": "Turku",
+      "bbox": {
+        "minLat": 60.43,
+        "minLng": 22.22,
+        "maxLat": 60.46,
+        "maxLng": 22.29
+      }
+    },
+    "fi/uusimaa/helsinki": {
+      "name": "Helsinki",
+      "bbox": {
+        "minLat": 60.14,
+        "minLng": 24.93,
+        "maxLat": 60.18,
+        "maxLng": 25
+      }
+    },
+    "fi/uusimaa/porvoo": {
+      "name": "Porvoo",
+      "bbox": {
+        "minLat": 60.392,
+        "minLng": 25.652,
+        "maxLat": 60.4,
+        "maxLng": 25.668
       }
     },
     "fr/auvergne-rhone-alpes/annecy": {
@@ -9644,6 +9689,27 @@
     ],
     "111,24": [
       "dk/zealand/roskilde"
+    ],
+    "120,49": [
+      "fi/uusimaa/helsinki"
+    ],
+    "120,50": [
+      "fi/uusimaa/helsinki"
+    ],
+    "120,51": [
+      "fi/uusimaa/porvoo"
+    ],
+    "122,47": [
+      "fi/pirkanmaa/tampere"
+    ],
+    "123,47": [
+      "fi/pirkanmaa/tampere"
+    ],
+    "120,44": [
+      "fi/southwest/turku"
+    ],
+    "133,51": [
+      "fi/lapland/rovaniemi"
     ]
   }
 }

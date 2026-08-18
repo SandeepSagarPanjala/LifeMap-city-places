@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fi/pirkanmaa/tampere",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "stateCode": "11",
+  "stateName": "Pirkanmaa",
+  "cityName": "Tampere",
+  "bbox": {
+    "minLat": 61.495,
+    "minLng": 23.74,
+    "maxLat": 61.512,
+    "maxLng": 23.78
+  },
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tampere-cathedral",
+      "name": "Tampere Cathedral",
+      "lat": 61.4981,
+      "lng": 23.773,
+      "radiusM": 100,
+      "address": "Tuomiokirkonkatu 3",
+      "howTo": "Visit Tampere Cathedral.",
+      "badge": "badges/tampere-cathedral.png"
+    },
+    {
+      "id": "nasinneula",
+      "name": "Nasinneula",
+      "lat": 61.5078,
+      "lng": 23.7434,
+      "radiusM": 120,
+      "address": "Sarkanniemi",
+      "howTo": "Visit Nasinneula.",
+      "badge": "badges/nasinneula.png"
+    }
+  ]
+}

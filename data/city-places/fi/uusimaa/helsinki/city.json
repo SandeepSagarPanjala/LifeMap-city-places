@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "fi/uusimaa/helsinki",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "stateCode": "18",
+  "stateName": "Uusimaa",
+  "cityName": "Helsinki",
+  "bbox": {
+    "minLat": 60.14,
+    "minLng": 24.93,
+    "maxLat": 60.18,
+    "maxLng": 25.0
+  },
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "helsinki-cathedral",
+      "name": "Helsinki Cathedral",
+      "lat": 60.1704,
+      "lng": 24.9522,
+      "radiusM": 120,
+      "address": "Unioninkatu 29",
+      "howTo": "Visit Helsinki Cathedral.",
+      "badge": "badges/helsinki-cathedral.png"
+    },
+    {
+      "id": "suomenlinna",
+      "name": "Suomenlinna",
+      "lat": 60.1456,
+      "lng": 24.9892,
+      "radiusM": 300,
+      "address": "Suomenlinna",
+      "howTo": "Visit Suomenlinna.",
+      "badge": "badges/suomenlinna.png"
+    },
+    {
+      "id": "kauppatori",
+      "name": "Market Square",
+      "lat": 60.1676,
+      "lng": 24.9528,
+      "radiusM": 120,
+      "address": "Kauppatori",
+      "howTo": "Visit Market Square.",
+      "badge": "badges/kauppatori.png"
+    },
+    {
+      "id": "temppeliaukio",
+      "name": "Temppeliaukio Church",
+      "lat": 60.173,
+      "lng": 24.9352,
+      "radiusM": 80,
+      "address": "Lutherinkatu 3",
+      "howTo": "Visit Temppeliaukio Church.",
+      "badge": "badges/temppeliaukio.png"
+    }
+  ]
+}

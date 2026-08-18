@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T07:40:00.000Z",
-  "notes": "Queue through Denmark complete. Next: Finland (fi) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "notes": "Queue through Finland complete. Next: Belgium (be) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12325,6 +12325,111 @@
                 "minLng": 12.07,
                 "maxLat": 55.655,
                 "maxLng": 12.09
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fi",
+      "countryCode": "FI",
+      "name": "Finland",
+      "states": [
+        {
+          "id": "uusimaa",
+          "stateCode": "18",
+          "name": "Uusimaa",
+          "cities": [
+            {
+              "id": "helsinki",
+              "name": "Helsinki",
+              "status": "complete",
+              "packPath": "fi/uusimaa/helsinki/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T08:00:00.000Z",
+              "bbox": {
+                "minLat": 60.14,
+                "minLng": 24.93,
+                "maxLat": 60.18,
+                "maxLng": 25.0
+              }
+            },
+            {
+              "id": "porvoo",
+              "name": "Porvoo",
+              "status": "complete",
+              "packPath": "fi/uusimaa/porvoo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:00:00.000Z",
+              "bbox": {
+                "minLat": 60.392,
+                "minLng": 25.652,
+                "maxLat": 60.4,
+                "maxLng": 25.668
+              }
+            }
+          ]
+        },
+        {
+          "id": "pirkanmaa",
+          "stateCode": "11",
+          "name": "Pirkanmaa",
+          "cities": [
+            {
+              "id": "tampere",
+              "name": "Tampere",
+              "status": "complete",
+              "packPath": "fi/pirkanmaa/tampere/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:00:00.000Z",
+              "bbox": {
+                "minLat": 61.495,
+                "minLng": 23.74,
+                "maxLat": 61.512,
+                "maxLng": 23.78
+              }
+            }
+          ]
+        },
+        {
+          "id": "southwest",
+          "stateCode": "19",
+          "name": "Southwest Finland",
+          "cities": [
+            {
+              "id": "turku",
+              "name": "Turku",
+              "status": "complete",
+              "packPath": "fi/southwest/turku/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:00:00.000Z",
+              "bbox": {
+                "minLat": 60.43,
+                "minLng": 22.22,
+                "maxLat": 60.46,
+                "maxLng": 22.29
+              }
+            }
+          ]
+        },
+        {
+          "id": "lapland",
+          "stateCode": "10",
+          "name": "Lapland",
+          "cities": [
+            {
+              "id": "rovaniemi",
+              "name": "Rovaniemi",
+              "status": "complete",
+              "packPath": "fi/lapland/rovaniemi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:00:00.000Z",
+              "bbox": {
+                "minLat": 66.5,
+                "minLng": 25.73,
+                "maxLat": 66.55,
+                "maxLng": 25.86
               }
             }
           ]

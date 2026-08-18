@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fi/southwest/turku",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "stateCode": "19",
+  "stateName": "Southwest Finland",
+  "cityName": "Turku",
+  "bbox": {
+    "minLat": 60.43,
+    "minLng": 22.22,
+    "maxLat": 60.46,
+    "maxLng": 22.29
+  },
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "turku-castle",
+      "name": "Turku Castle",
+      "lat": 60.4353,
+      "lng": 22.2284,
+      "radiusM": 150,
+      "address": "Linnankatu 80",
+      "howTo": "Visit Turku Castle.",
+      "badge": "badges/turku-castle.png"
+    },
+    {
+      "id": "turku-cathedral",
+      "name": "Turku Cathedral",
+      "lat": 60.4525,
+      "lng": 22.2783,
+      "radiusM": 120,
+      "address": "Tuomiokirkonkatu 1",
+      "howTo": "Visit Turku Cathedral.",
+      "badge": "badges/turku-cathedral.png"
+    }
+  ]
+}

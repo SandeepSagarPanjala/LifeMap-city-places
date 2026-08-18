@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fi/uusimaa/porvoo",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "stateCode": "18",
+  "stateName": "Uusimaa",
+  "cityName": "Porvoo",
+  "bbox": {
+    "minLat": 60.392,
+    "minLng": 25.652,
+    "maxLat": 60.4,
+    "maxLng": 25.668
+  },
+  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "old-porvoo",
+      "name": "Old Porvoo",
+      "lat": 60.3954,
+      "lng": 25.6605,
+      "radiusM": 200,
+      "address": "Old Town",
+      "howTo": "Visit Old Porvoo.",
+      "badge": "badges/old-porvoo.png"
+    },
+    {
+      "id": "porvoo-cathedral",
+      "name": "Porvoo Cathedral",
+      "lat": 60.3967,
+      "lng": 25.658,
+      "radiusM": 100,
+      "address": "Kirkkotori 1",
+      "howTo": "Visit Porvoo Cathedral.",
+      "badge": "badges/porvoo-cathedral.png"
+    }
+  ]
+}
