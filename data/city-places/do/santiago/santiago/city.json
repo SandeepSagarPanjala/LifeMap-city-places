@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "do/santiago/santiago",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "stateCode": "25",
+  "stateName": "Santiago",
+  "cityName": "Santiago",
+  "bbox": {
+    "minLat": 19.448,
+    "minLng": -70.7,
+    "maxLat": 19.455,
+    "maxLng": -70.688
+  },
+  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "monumento-heroes",
+      "name": "Monumento a los Heroes",
+      "lat": 19.45,
+      "lng": -70.694,
+      "radiusM": 120,
+      "address": "Santiago",
+      "howTo": "Visit Monumento a los Heroes.",
+      "badge": "badges/monumento-heroes.png"
+    },
+    {
+      "id": "catedral-santiago",
+      "name": "Santiago Cathedral",
+      "lat": 19.4515,
+      "lng": -70.697,
+      "radiusM": 80,
+      "address": "Parque Duarte",
+      "howTo": "Visit Santiago Cathedral.",
+      "badge": "badges/catedral-santiago.png"
+    }
+  ]
+}

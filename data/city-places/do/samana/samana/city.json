@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "do/samana/samana",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "stateCode": "20",
+  "stateName": "Samana",
+  "cityName": "Samana",
+  "bbox": {
+    "minLat": 19.16,
+    "minLng": -69.44,
+    "maxLat": 19.275,
+    "maxLng": -69.26
+  },
+  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "el-limon-waterfall",
+      "name": "El Limon Waterfall",
+      "lat": 19.266,
+      "lng": -69.433,
+      "radiusM": 150,
+      "address": "El Limon",
+      "howTo": "Visit El Limon Waterfall.",
+      "badge": "badges/el-limon-waterfall.png"
+    },
+    {
+      "id": "cayo-levantado",
+      "name": "Cayo Levantado",
+      "lat": 19.167,
+      "lng": -69.268,
+      "radiusM": 200,
+      "address": "Bacardi Island",
+      "howTo": "Visit Cayo Levantado.",
+      "badge": "badges/cayo-levantado.png"
+    }
+  ]
+}

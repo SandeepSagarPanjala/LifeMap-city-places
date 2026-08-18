@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T10:20:00.000Z",
-  "notes": "Queue through Costa Rica complete. Next: Dominican Republic (do) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "notes": "Queue through Dominican Republic complete. Next: Romania (ro) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13501,6 +13501,118 @@
                 "minLng": -85.86,
                 "maxLat": 10.34,
                 "maxLng": -85.835
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "do",
+      "countryCode": "DO",
+      "name": "Dominican Republic",
+      "states": [
+        {
+          "id": "distrito-nacional",
+          "stateCode": "01",
+          "name": "Distrito Nacional",
+          "cities": [
+            {
+              "id": "santo-domingo",
+              "name": "Santo Domingo",
+              "status": "complete",
+              "packPath": "do/distrito-nacional/santo-domingo/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T10:35:00.000Z",
+              "bbox": {
+                "minLat": 18.47,
+                "minLng": -69.888,
+                "maxLat": 18.48,
+                "maxLng": -69.88
+              }
+            }
+          ]
+        },
+        {
+          "id": "la-altagracia",
+          "stateCode": "11",
+          "name": "La Altagracia",
+          "cities": [
+            {
+              "id": "punta-cana",
+              "name": "Punta Cana",
+              "status": "complete",
+              "packPath": "do/la-altagracia/punta-cana/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:35:00.000Z",
+              "bbox": {
+                "minLat": 18.61,
+                "minLng": -68.72,
+                "maxLat": 18.7,
+                "maxLng": -68.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "puerto-plata",
+          "stateCode": "18",
+          "name": "Puerto Plata",
+          "cities": [
+            {
+              "id": "puerto-plata",
+              "name": "Puerto Plata",
+              "status": "complete",
+              "packPath": "do/puerto-plata/puerto-plata/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:35:00.000Z",
+              "bbox": {
+                "minLat": 19.745,
+                "minLng": -70.76,
+                "maxLat": 19.81,
+                "maxLng": -70.69
+              }
+            }
+          ]
+        },
+        {
+          "id": "samana",
+          "stateCode": "20",
+          "name": "Samana",
+          "cities": [
+            {
+              "id": "samana",
+              "name": "Samana",
+              "status": "complete",
+              "packPath": "do/samana/samana/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:35:00.000Z",
+              "bbox": {
+                "minLat": 19.16,
+                "minLng": -69.44,
+                "maxLat": 19.275,
+                "maxLng": -69.26
+              }
+            }
+          ]
+        },
+        {
+          "id": "santiago",
+          "stateCode": "25",
+          "name": "Santiago",
+          "cities": [
+            {
+              "id": "santiago",
+              "name": "Santiago",
+              "status": "complete",
+              "packPath": "do/santiago/santiago/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:35:00.000Z",
+              "bbox": {
+                "minLat": 19.448,
+                "minLng": -70.7,
+                "maxLat": 19.455,
+                "maxLng": -70.688
               }
             }
           ]

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "do/distrito-nacional/santo-domingo",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "stateCode": "01",
+  "stateName": "Distrito Nacional",
+  "cityName": "Santo Domingo",
+  "bbox": {
+    "minLat": 18.47,
+    "minLng": -69.888,
+    "maxLat": 18.48,
+    "maxLng": -69.88
+  },
+  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zona-colonial",
+      "name": "Zona Colonial",
+      "lat": 18.473,
+      "lng": -69.884,
+      "radiusM": 200,
+      "address": "Calle Las Damas",
+      "howTo": "Visit Zona Colonial.",
+      "badge": "badges/zona-colonial.png"
+    },
+    {
+      "id": "alcazar-de-colon",
+      "name": "Alcazar de Colon",
+      "lat": 18.4775,
+      "lng": -69.883,
+      "radiusM": 100,
+      "address": "Plaza Espana",
+      "howTo": "Visit Alcazar de Colon.",
+      "badge": "badges/alcazar-de-colon.png"
+    },
+    {
+      "id": "catedral-primada",
+      "name": "Catedral Primada",
+      "lat": 18.473,
+      "lng": -69.8838,
+      "radiusM": 80,
+      "address": "Parque Colon",
+      "howTo": "Visit Catedral Primada.",
+      "badge": "badges/catedral-primada.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "do/la-altagracia/punta-cana",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "stateCode": "11",
+  "stateName": "La Altagracia",
+  "cityName": "Punta Cana",
+  "bbox": {
+    "minLat": 18.61,
+    "minLng": -68.72,
+    "maxLat": 18.7,
+    "maxLng": -68.4
+  },
+  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bavaro-beach",
+      "name": "Bavaro Beach",
+      "lat": 18.68,
+      "lng": -68.405,
+      "radiusM": 300,
+      "address": "Bavaro",
+      "howTo": "Visit Bavaro Beach.",
+      "badge": "badges/bavaro-beach.png"
+    },
+    {
+      "id": "basilica-higuey",
+      "name": "Basilica of Higuey",
+      "lat": 18.6158,
+      "lng": -68.7078,
+      "radiusM": 150,
+      "address": "Higuey",
+      "howTo": "Visit Basilica of Higuey.",
+      "badge": "badges/basilica-higuey.png"
+    }
+  ]
+}

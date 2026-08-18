@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:43:49.705Z",
+  "generatedAt": "2026-08-18T01:48:40.674Z",
   "cellDeg": 0.5,
-  "cityCount": 729,
+  "cityCount": 734,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1010,6 +1010,51 @@
         "minLng": 12.07,
         "maxLat": 55.655,
         "maxLng": 12.09
+      }
+    },
+    "do/distrito-nacional/santo-domingo": {
+      "name": "Santo Domingo",
+      "bbox": {
+        "minLat": 18.47,
+        "minLng": -69.888,
+        "maxLat": 18.48,
+        "maxLng": -69.88
+      }
+    },
+    "do/la-altagracia/punta-cana": {
+      "name": "Punta Cana",
+      "bbox": {
+        "minLat": 18.61,
+        "minLng": -68.72,
+        "maxLat": 18.7,
+        "maxLng": -68.4
+      }
+    },
+    "do/puerto-plata/puerto-plata": {
+      "name": "Puerto Plata",
+      "bbox": {
+        "minLat": 19.745,
+        "minLng": -70.76,
+        "maxLat": 19.81,
+        "maxLng": -70.69
+      }
+    },
+    "do/samana/samana": {
+      "name": "Samana",
+      "bbox": {
+        "minLat": 19.16,
+        "minLng": -69.44,
+        "maxLat": 19.275,
+        "maxLng": -69.26
+      }
+    },
+    "do/santiago/santiago": {
+      "name": "Santiago",
+      "bbox": {
+        "minLat": 19.448,
+        "minLng": -70.7,
+        "maxLat": 19.455,
+        "maxLng": -70.688
       }
     },
     "eg/aswan/aswan": {
@@ -10301,6 +10346,24 @@
     ],
     "20,-172": [
       "cr/guanacaste/tamarindo"
+    ],
+    "36,-140": [
+      "do/distrito-nacional/santo-domingo"
+    ],
+    "37,-138": [
+      "do/la-altagracia/punta-cana"
+    ],
+    "37,-137": [
+      "do/la-altagracia/punta-cana"
+    ],
+    "39,-142": [
+      "do/puerto-plata/puerto-plata"
+    ],
+    "38,-139": [
+      "do/samana/samana"
+    ],
+    "38,-142": [
+      "do/santiago/santiago"
     ]
   }
 }
