@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gh/savannah/mole",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "stateCode": "SV",
+  "stateName": "Savannah",
+  "cityName": "Mole",
+  "bbox": {
+    "minLat": 9.2565,
+    "minLng": -1.8585,
+    "maxLat": 9.2625,
+    "maxLng": -1.8515
+  },
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mole-escarpment",
+      "name": "Mole Escarpment",
+      "lat": 9.26045,
+      "lng": -1.85566,
+      "radiusM": 150,
+      "address": "Mole",
+      "howTo": "Visit Mole Escarpment.",
+      "badge": "badges/mole-escarpment.png"
+    },
+    {
+      "id": "mole-savanna",
+      "name": "Mole Savanna",
+      "lat": 9.258,
+      "lng": -1.8535,
+      "radiusM": 200,
+      "address": "Mole",
+      "howTo": "Visit Mole Savanna.",
+      "badge": "badges/mole-savanna.png"
+    }
+  ]
+}

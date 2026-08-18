@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:36:33.544Z",
+  "generatedAt": "2026-08-18T23:42:06.699Z",
   "cellDeg": 0.5,
-  "cityCount": 919,
+  "cityCount": 924,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2405,6 +2405,51 @@
         "minLng": 44.805,
         "maxLat": 41.696,
         "maxLng": 44.82
+      }
+    },
+    "gh/central/cape-coast": {
+      "name": "Cape Coast",
+      "bbox": {
+        "minLat": 5.102,
+        "minLng": -1.246,
+        "maxLat": 5.1095,
+        "maxLng": -1.239
+      }
+    },
+    "gh/central/elmina": {
+      "name": "Elmina",
+      "bbox": {
+        "minLat": 5.0815,
+        "minLng": -1.3525,
+        "maxLat": 5.086,
+        "maxLng": -1.347
+      }
+    },
+    "gh/central/kakum": {
+      "name": "Kakum",
+      "bbox": {
+        "minLat": 5.3515,
+        "minLng": -1.387,
+        "maxLat": 5.357,
+        "maxLng": -1.381
+      }
+    },
+    "gh/greater-accra/accra": {
+      "name": "Accra",
+      "bbox": {
+        "minLat": 5.543,
+        "minLng": -0.2045,
+        "maxLat": 5.548,
+        "maxLng": -0.191
+      }
+    },
+    "gh/savannah/mole": {
+      "name": "Mole",
+      "bbox": {
+        "minLat": 9.2565,
+        "minLng": -1.8585,
+        "maxLat": 9.2625,
+        "maxLng": -1.8515
       }
     },
     "gr/attica/athens": {
@@ -12629,6 +12674,17 @@
     ],
     "-4,61": [
       "rw/eastern/akagera"
+    ],
+    "11,-1": [
+      "gh/greater-accra/accra"
+    ],
+    "10,-3": [
+      "gh/central/cape-coast",
+      "gh/central/elmina",
+      "gh/central/kakum"
+    ],
+    "18,-4": [
+      "gh/savannah/mole"
     ]
   }
 }

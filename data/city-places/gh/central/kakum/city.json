@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gh/central/kakum",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "stateCode": "CP",
+  "stateName": "Central",
+  "cityName": "Kakum",
+  "bbox": {
+    "minLat": 5.3515,
+    "minLng": -1.387,
+    "maxLat": 5.357,
+    "maxLng": -1.381
+  },
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kakum-canopy",
+      "name": "Kakum Canopy Walkway",
+      "lat": 5.35362,
+      "lng": -1.38344,
+      "radiusM": 80,
+      "address": "Kakum",
+      "howTo": "Visit Kakum Canopy Walkway.",
+      "badge": "badges/kakum-canopy.png"
+    },
+    {
+      "id": "kakum-rainforest",
+      "name": "Kakum Rainforest",
+      "lat": 5.3555,
+      "lng": -1.3855,
+      "radiusM": 150,
+      "address": "Kakum",
+      "howTo": "Visit Kakum Rainforest.",
+      "badge": "badges/kakum-rainforest.png"
+    }
+  ]
+}

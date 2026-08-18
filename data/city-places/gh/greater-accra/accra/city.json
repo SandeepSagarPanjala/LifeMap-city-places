@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gh/greater-accra/accra",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "stateCode": "AA",
+  "stateName": "Greater Accra",
+  "cityName": "Accra",
+  "bbox": {
+    "minLat": 5.543,
+    "minLng": -0.2045,
+    "maxLat": 5.548,
+    "maxLng": -0.191
+  },
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "independence-arch",
+      "name": "Independence Arch",
+      "lat": 5.54647,
+      "lng": -0.19241,
+      "radiusM": 80,
+      "address": "Accra",
+      "howTo": "Visit Independence Arch.",
+      "badge": "badges/independence-arch.png"
+    },
+    {
+      "id": "nkrumah-mausoleum",
+      "name": "Kwame Nkrumah Mausoleum",
+      "lat": 5.54435,
+      "lng": -0.20269,
+      "radiusM": 80,
+      "address": "Accra",
+      "howTo": "Visit Kwame Nkrumah Mausoleum.",
+      "badge": "badges/nkrumah-mausoleum.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gh/central/elmina",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "stateCode": "CP",
+  "stateName": "Central",
+  "cityName": "Elmina",
+  "bbox": {
+    "minLat": 5.0815,
+    "minLng": -1.3525,
+    "maxLat": 5.086,
+    "maxLng": -1.347
+  },
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "elmina-castle",
+      "name": "Elmina Castle",
+      "lat": 5.08274,
+      "lng": -1.34824,
+      "radiusM": 80,
+      "address": "Elmina",
+      "howTo": "Visit Elmina Castle.",
+      "badge": "badges/elmina-castle.png"
+    },
+    {
+      "id": "fort-st-jago",
+      "name": "Fort St. Jago",
+      "lat": 5.08482,
+      "lng": -1.35081,
+      "radiusM": 60,
+      "address": "Elmina",
+      "howTo": "Visit Fort St. Jago.",
+      "badge": "badges/fort-st-jago.png"
+    }
+  ]
+}

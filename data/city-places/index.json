@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:36:33.000Z",
-  "notes": "Rwanda (rw) complete. Next: Ghana (gh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "notes": "Ghana (gh) complete. Next: Kazakhstan (kz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17540,6 +17540,104 @@
                 "minLng": 30.71,
                 "maxLat": -1.865,
                 "maxLng": 30.74
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gh",
+      "countryCode": "GH",
+      "name": "Ghana",
+      "states": [
+        {
+          "id": "greater-accra",
+          "stateCode": "AA",
+          "name": "Greater Accra",
+          "cities": [
+            {
+              "id": "accra",
+              "name": "Accra",
+              "status": "complete",
+              "packPath": "gh/greater-accra/accra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:42:06.000Z",
+              "bbox": {
+                "minLat": 5.543,
+                "minLng": -0.2045,
+                "maxLat": 5.548,
+                "maxLng": -0.191
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "CP",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "cape-coast",
+              "name": "Cape Coast",
+              "status": "complete",
+              "packPath": "gh/central/cape-coast/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:42:06.000Z",
+              "bbox": {
+                "minLat": 5.102,
+                "minLng": -1.246,
+                "maxLat": 5.1095,
+                "maxLng": -1.239
+              }
+            },
+            {
+              "id": "elmina",
+              "name": "Elmina",
+              "status": "complete",
+              "packPath": "gh/central/elmina/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:42:06.000Z",
+              "bbox": {
+                "minLat": 5.0815,
+                "minLng": -1.3525,
+                "maxLat": 5.086,
+                "maxLng": -1.347
+              }
+            },
+            {
+              "id": "kakum",
+              "name": "Kakum",
+              "status": "complete",
+              "packPath": "gh/central/kakum/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:42:06.000Z",
+              "bbox": {
+                "minLat": 5.3515,
+                "minLng": -1.387,
+                "maxLat": 5.357,
+                "maxLng": -1.381
+              }
+            }
+          ]
+        },
+        {
+          "id": "savannah",
+          "stateCode": "SV",
+          "name": "Savannah",
+          "cities": [
+            {
+              "id": "mole",
+              "name": "Mole",
+              "status": "complete",
+              "packPath": "gh/savannah/mole/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:42:06.000Z",
+              "bbox": {
+                "minLat": 9.2565,
+                "minLng": -1.8585,
+                "maxLat": 9.2625,
+                "maxLng": -1.8515
               }
             }
           ]

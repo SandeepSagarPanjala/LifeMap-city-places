@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gh/central/cape-coast",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "stateCode": "CP",
+  "stateName": "Central",
+  "cityName": "Cape Coast",
+  "bbox": {
+    "minLat": 5.102,
+    "minLng": -1.246,
+    "maxLat": 5.1095,
+    "maxLng": -1.239
+  },
+  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cape-coast-castle",
+      "name": "Cape Coast Castle",
+      "lat": 5.10363,
+      "lng": -1.2411,
+      "radiusM": 80,
+      "address": "Cape Coast",
+      "howTo": "Visit Cape Coast Castle.",
+      "badge": "badges/cape-coast-castle.png"
+    },
+    {
+      "id": "fort-william",
+      "name": "Fort William",
+      "lat": 5.10804,
+      "lng": -1.24434,
+      "radiusM": 60,
+      "address": "Cape Coast",
+      "howTo": "Visit Fort William.",
+      "badge": "badges/fort-william.png"
+    }
+  ]
+}
