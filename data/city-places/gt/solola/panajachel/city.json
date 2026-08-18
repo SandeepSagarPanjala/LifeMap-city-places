@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gt/solola/panajachel",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "stateCode": "SO",
+  "stateName": "Solola",
+  "cityName": "Panajachel",
+  "bbox": {
+    "minLat": 14.735,
+    "minLng": -91.165,
+    "maxLat": 14.748,
+    "maxLng": -91.145
+  },
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-atitlan",
+      "name": "Lake Atitlan",
+      "lat": 14.7411,
+      "lng": -91.156,
+      "radiusM": 250,
+      "address": "Panajachel waterfront",
+      "howTo": "Visit Lake Atitlan.",
+      "badge": "badges/lake-atitlan.png"
+    },
+    {
+      "id": "reserva-natural-atitlan",
+      "name": "Reserva Natural Atitlan",
+      "lat": 14.746,
+      "lng": -91.152,
+      "radiusM": 200,
+      "address": "Panajachel",
+      "howTo": "Visit Reserva Natural Atitlan.",
+      "badge": "badges/reserva-natural-atitlan.png"
+    }
+  ]
+}

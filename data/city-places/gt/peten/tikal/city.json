@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gt/peten/tikal",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "stateCode": "PE",
+  "stateName": "Peten",
+  "cityName": "Tikal",
+  "bbox": {
+    "minLat": 17.215,
+    "minLng": -89.635,
+    "maxLat": 17.228,
+    "maxLng": -89.615
+  },
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "temple-i-tikal",
+      "name": "Temple I",
+      "lat": 17.222,
+      "lng": -89.6236,
+      "radiusM": 150,
+      "address": "Tikal National Park",
+      "howTo": "Visit Temple I.",
+      "badge": "badges/temple-i-tikal.png"
+    },
+    {
+      "id": "temple-iv-tikal",
+      "name": "Temple IV",
+      "lat": 17.2235,
+      "lng": -89.6297,
+      "radiusM": 150,
+      "address": "Tikal National Park",
+      "howTo": "Visit Temple IV.",
+      "badge": "badges/temple-iv-tikal.png"
+    }
+  ]
+}

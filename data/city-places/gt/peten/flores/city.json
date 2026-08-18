@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gt/peten/flores",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "stateCode": "PE",
+  "stateName": "Peten",
+  "cityName": "Flores",
+  "bbox": {
+    "minLat": 16.925,
+    "minLng": -89.895,
+    "maxLat": 16.933,
+    "maxLng": -89.885
+  },
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "flores-island",
+      "name": "Flores Island",
+      "lat": 16.9297,
+      "lng": -89.8917,
+      "radiusM": 200,
+      "address": "Isla de Flores",
+      "howTo": "Visit Flores Island.",
+      "badge": "badges/flores-island.png"
+    },
+    {
+      "id": "malecon-flores",
+      "name": "Malecon Flores",
+      "lat": 16.9285,
+      "lng": -89.89,
+      "radiusM": 150,
+      "address": "Lake Peten Itza",
+      "howTo": "Visit Malecon Flores.",
+      "badge": "badges/malecon-flores.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:14:11.176Z",
+  "generatedAt": "2026-08-18T02:20:31.056Z",
   "cellDeg": 0.5,
-  "cityCount": 759,
+  "cityCount": 764,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1892,6 +1892,51 @@
         "minLng": 25.42,
         "maxLat": 36.45,
         "maxLng": 25.47
+      }
+    },
+    "gt/alta-verapaz/lanquin": {
+      "name": "Lanquin",
+      "bbox": {
+        "minLat": 15.53,
+        "minLng": -89.97,
+        "maxLat": 15.58,
+        "maxLng": -89.95
+      }
+    },
+    "gt/peten/flores": {
+      "name": "Flores",
+      "bbox": {
+        "minLat": 16.925,
+        "minLng": -89.895,
+        "maxLat": 16.933,
+        "maxLng": -89.885
+      }
+    },
+    "gt/peten/tikal": {
+      "name": "Tikal",
+      "bbox": {
+        "minLat": 17.215,
+        "minLng": -89.635,
+        "maxLat": 17.228,
+        "maxLng": -89.615
+      }
+    },
+    "gt/sacatepequez/antigua": {
+      "name": "Antigua",
+      "bbox": {
+        "minLat": 14.55,
+        "minLng": -90.74,
+        "maxLat": 14.57,
+        "maxLng": -90.725
+      }
+    },
+    "gt/solola/panajachel": {
+      "name": "Panajachel",
+      "bbox": {
+        "minLat": 14.735,
+        "minLng": -91.165,
+        "maxLat": 14.748,
+        "maxLng": -91.145
       }
     },
     "hk/hong-kong-island/central": {
@@ -10687,6 +10732,21 @@
     ],
     "-70,-111": [
       "uy/canelones/piriapolis"
+    ],
+    "29,-182": [
+      "gt/sacatepequez/antigua"
+    ],
+    "29,-183": [
+      "gt/solola/panajachel"
+    ],
+    "34,-180": [
+      "gt/peten/tikal"
+    ],
+    "33,-180": [
+      "gt/peten/flores"
+    ],
+    "31,-180": [
+      "gt/alta-verapaz/lanquin"
     ]
   }
 }

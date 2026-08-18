@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:14:11.000Z",
-  "notes": "Uruguay (uy) complete. Next: Guatemala (gt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "notes": "Guatemala (gt) complete. Next: Bolivia (bo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14152,6 +14152,111 @@
                 "minLng": -55.285,
                 "maxLat": -34.855,
                 "maxLng": -55.265
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gt",
+      "countryCode": "GT",
+      "name": "Guatemala",
+      "states": [
+        {
+          "id": "sacatepequez",
+          "stateCode": "SA",
+          "name": "Sacatepequez",
+          "cities": [
+            {
+              "id": "antigua",
+              "name": "Antigua",
+              "status": "complete",
+              "packPath": "gt/sacatepequez/antigua/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:20:31.000Z",
+              "bbox": {
+                "minLat": 14.55,
+                "minLng": -90.74,
+                "maxLat": 14.57,
+                "maxLng": -90.725
+              }
+            }
+          ]
+        },
+        {
+          "id": "solola",
+          "stateCode": "SO",
+          "name": "Solola",
+          "cities": [
+            {
+              "id": "panajachel",
+              "name": "Panajachel",
+              "status": "complete",
+              "packPath": "gt/solola/panajachel/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:20:31.000Z",
+              "bbox": {
+                "minLat": 14.735,
+                "minLng": -91.165,
+                "maxLat": 14.748,
+                "maxLng": -91.145
+              }
+            }
+          ]
+        },
+        {
+          "id": "peten",
+          "stateCode": "PE",
+          "name": "Peten",
+          "cities": [
+            {
+              "id": "tikal",
+              "name": "Tikal",
+              "status": "complete",
+              "packPath": "gt/peten/tikal/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:20:31.000Z",
+              "bbox": {
+                "minLat": 17.215,
+                "minLng": -89.635,
+                "maxLat": 17.228,
+                "maxLng": -89.615
+              }
+            },
+            {
+              "id": "flores",
+              "name": "Flores",
+              "status": "complete",
+              "packPath": "gt/peten/flores/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:20:31.000Z",
+              "bbox": {
+                "minLat": 16.925,
+                "minLng": -89.895,
+                "maxLat": 16.933,
+                "maxLng": -89.885
+              }
+            }
+          ]
+        },
+        {
+          "id": "alta-verapaz",
+          "stateCode": "AV",
+          "name": "Alta Verapaz",
+          "cities": [
+            {
+              "id": "lanquin",
+              "name": "Lanquin",
+              "status": "complete",
+              "packPath": "gt/alta-verapaz/lanquin/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:20:31.000Z",
+              "bbox": {
+                "minLat": 15.53,
+                "minLng": -89.97,
+                "maxLat": 15.58,
+                "maxLng": -89.95
               }
             }
           ]

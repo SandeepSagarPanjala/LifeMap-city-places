@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gt/sacatepequez/antigua",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "stateCode": "SA",
+  "stateName": "Sacatepequez",
+  "cityName": "Antigua",
+  "bbox": {
+    "minLat": 14.55,
+    "minLng": -90.74,
+    "maxLat": 14.57,
+    "maxLng": -90.725
+  },
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-catalina-arch",
+      "name": "Santa Catalina Arch",
+      "lat": 14.5589,
+      "lng": -90.7342,
+      "radiusM": 80,
+      "address": "5a Avenida Norte",
+      "howTo": "Visit Santa Catalina Arch.",
+      "badge": "badges/santa-catalina-arch.png"
+    },
+    {
+      "id": "antigua-cathedral",
+      "name": "Antigua Cathedral",
+      "lat": 14.5564,
+      "lng": -90.7339,
+      "radiusM": 100,
+      "address": "Parque Central",
+      "howTo": "Visit Antigua Cathedral.",
+      "badge": "badges/antigua-cathedral.png"
+    },
+    {
+      "id": "cerro-de-la-cruz",
+      "name": "Cerro de la Cruz",
+      "lat": 14.567,
+      "lng": -90.729,
+      "radiusM": 150,
+      "address": "Antigua",
+      "howTo": "Visit Cerro de la Cruz.",
+      "badge": "badges/cerro-de-la-cruz.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gt/alta-verapaz/lanquin",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "stateCode": "AV",
+  "stateName": "Alta Verapaz",
+  "cityName": "Lanquin",
+  "bbox": {
+    "minLat": 15.53,
+    "minLng": -89.97,
+    "maxLat": 15.58,
+    "maxLng": -89.95
+  },
+  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "semuc-champey",
+      "name": "Semuc Champey",
+      "lat": 15.5335,
+      "lng": -89.9615,
+      "radiusM": 250,
+      "address": "Cahabon River",
+      "howTo": "Visit Semuc Champey.",
+      "badge": "badges/semuc-champey.png"
+    },
+    {
+      "id": "grutas-de-lanquin",
+      "name": "Grutas de Lanquin",
+      "lat": 15.575,
+      "lng": -89.981,
+      "radiusM": 150,
+      "address": "Lanquin",
+      "howTo": "Visit Grutas de Lanquin.",
+      "badge": "badges/grutas-de-lanquin.png"
+    }
+  ]
+}
