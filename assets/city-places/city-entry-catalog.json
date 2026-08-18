@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:32:07.129Z",
+  "generatedAt": "2026-08-18T02:36:13.744Z",
   "cellDeg": 0.5,
-  "cityCount": 774,
+  "cityCount": 779,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4952,6 +4952,51 @@
         "minLng": 103.82,
         "maxLat": 1.32,
         "maxLng": 103.9
+      }
+    },
+    "si/gorenjska/bled": {
+      "name": "Bled",
+      "bbox": {
+        "minLat": 46.358,
+        "minLng": 14.085,
+        "maxLat": 46.375,
+        "maxLng": 14.11
+      }
+    },
+    "si/gorenjska/bohinj": {
+      "name": "Bohinj",
+      "bbox": {
+        "minLat": 46.275,
+        "minLng": 13.795,
+        "maxLat": 46.295,
+        "maxLng": 13.87
+      }
+    },
+    "si/ljubljana/ljubljana": {
+      "name": "Ljubljana",
+      "bbox": {
+        "minLat": 46.045,
+        "minLng": 14.5,
+        "maxLat": 46.056,
+        "maxLng": 14.515
+      }
+    },
+    "si/notranjsko-kraska/postojna": {
+      "name": "Postojna",
+      "bbox": {
+        "minLat": 45.78,
+        "minLng": 14.12,
+        "maxLat": 45.82,
+        "maxLng": 14.21
+      }
+    },
+    "si/obalno-kraska/piran": {
+      "name": "Piran",
+      "bbox": {
+        "minLat": 45.525,
+        "minLng": 13.565,
+        "maxLat": 45.532,
+        "maxLng": 13.575
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -10879,6 +10924,21 @@
     ],
     "84,46": [
       "bg/kyustendil/rila"
+    ],
+    "92,29": [
+      "si/ljubljana/ljubljana"
+    ],
+    "92,28": [
+      "si/gorenjska/bled"
+    ],
+    "92,27": [
+      "si/gorenjska/bohinj"
+    ],
+    "91,27": [
+      "si/obalno-kraska/piran"
+    ],
+    "91,28": [
+      "si/notranjsko-kraska/postojna"
     ]
   }
 }

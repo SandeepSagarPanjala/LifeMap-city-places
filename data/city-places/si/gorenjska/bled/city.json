@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "si/gorenjska/bled",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "stateCode": "04",
+  "stateName": "Gorenjska",
+  "cityName": "Bled",
+  "bbox": {
+    "minLat": 46.358,
+    "minLng": 14.085,
+    "maxLat": 46.375,
+    "maxLng": 14.11
+  },
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bled-island",
+      "name": "Bled Island",
+      "lat": 46.3635,
+      "lng": 14.0895,
+      "radiusM": 120,
+      "address": "Lake Bled",
+      "howTo": "Visit Bled Island.",
+      "badge": "badges/bled-island.png"
+    },
+    {
+      "id": "bled-castle",
+      "name": "Bled Castle",
+      "lat": 46.3697,
+      "lng": 14.1006,
+      "radiusM": 100,
+      "address": "Bled",
+      "howTo": "Visit Bled Castle.",
+      "badge": "badges/bled-castle.png"
+    }
+  ]
+}

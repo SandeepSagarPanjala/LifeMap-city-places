@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "si/notranjsko-kraska/postojna",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "stateCode": "07",
+  "stateName": "Notranjsko-kraska",
+  "cityName": "Postojna",
+  "bbox": {
+    "minLat": 45.78,
+    "minLng": 14.12,
+    "maxLat": 45.82,
+    "maxLng": 14.21
+  },
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "postojna-cave",
+      "name": "Postojna Cave",
+      "lat": 45.7827,
+      "lng": 14.2039,
+      "radiusM": 200,
+      "address": "Postojna",
+      "howTo": "Visit Postojna Cave.",
+      "badge": "badges/postojna-cave.png"
+    },
+    {
+      "id": "predjama-castle",
+      "name": "Predjama Castle",
+      "lat": 45.8156,
+      "lng": 14.1267,
+      "radiusM": 120,
+      "address": "Predjama",
+      "howTo": "Visit Predjama Castle.",
+      "badge": "badges/predjama-castle.png"
+    }
+  ]
+}

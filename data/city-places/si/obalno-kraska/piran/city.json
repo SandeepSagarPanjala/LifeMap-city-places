@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "si/obalno-kraska/piran",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "stateCode": "09",
+  "stateName": "Obalno-kraska",
+  "cityName": "Piran",
+  "bbox": {
+    "minLat": 45.525,
+    "minLng": 13.565,
+    "maxLat": 45.532,
+    "maxLng": 13.575
+  },
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tartini-square",
+      "name": "Tartini Square",
+      "lat": 45.5285,
+      "lng": 13.5684,
+      "radiusM": 80,
+      "address": "Piran",
+      "howTo": "Visit Tartini Square.",
+      "badge": "badges/tartini-square.png"
+    },
+    {
+      "id": "piran-walls",
+      "name": "Piran Walls",
+      "lat": 45.5275,
+      "lng": 13.5705,
+      "radiusM": 100,
+      "address": "Piran",
+      "howTo": "Visit Piran Walls.",
+      "badge": "badges/piran-walls.png"
+    }
+  ]
+}

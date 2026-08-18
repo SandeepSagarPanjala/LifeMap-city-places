@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "si/gorenjska/bohinj",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "stateCode": "04",
+  "stateName": "Gorenjska",
+  "cityName": "Bohinj",
+  "bbox": {
+    "minLat": 46.275,
+    "minLng": 13.795,
+    "maxLat": 46.295,
+    "maxLng": 13.87
+  },
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lake-bohinj",
+      "name": "Lake Bohinj",
+      "lat": 46.284,
+      "lng": 13.861,
+      "radiusM": 300,
+      "address": "Bohinjsko jezero",
+      "howTo": "Visit Lake Bohinj.",
+      "badge": "badges/lake-bohinj.png"
+    },
+    {
+      "id": "savica-waterfall",
+      "name": "Savica Waterfall",
+      "lat": 46.2895,
+      "lng": 13.8025,
+      "radiusM": 150,
+      "address": "Bohinj",
+      "howTo": "Visit Savica Waterfall.",
+      "badge": "badges/savica-waterfall.png"
+    }
+  ]
+}

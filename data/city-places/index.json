@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:32:07.000Z",
-  "notes": "Bulgaria (bg) complete. Next: Slovenia (si) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "notes": "Slovenia (si) complete. Next: Cyprus (cy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -14467,6 +14467,111 @@
                 "minLng": 23.335,
                 "maxLat": 42.14,
                 "maxLng": 23.345
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "si",
+      "countryCode": "SI",
+      "name": "Slovenia",
+      "states": [
+        {
+          "id": "ljubljana",
+          "stateCode": "LJ",
+          "name": "Ljubljana",
+          "cities": [
+            {
+              "id": "ljubljana",
+              "name": "Ljubljana",
+              "status": "complete",
+              "packPath": "si/ljubljana/ljubljana/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:36:13.000Z",
+              "bbox": {
+                "minLat": 46.045,
+                "minLng": 14.5,
+                "maxLat": 46.056,
+                "maxLng": 14.515
+              }
+            }
+          ]
+        },
+        {
+          "id": "gorenjska",
+          "stateCode": "04",
+          "name": "Gorenjska",
+          "cities": [
+            {
+              "id": "bled",
+              "name": "Bled",
+              "status": "complete",
+              "packPath": "si/gorenjska/bled/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:36:13.000Z",
+              "bbox": {
+                "minLat": 46.358,
+                "minLng": 14.085,
+                "maxLat": 46.375,
+                "maxLng": 14.11
+              }
+            },
+            {
+              "id": "bohinj",
+              "name": "Bohinj",
+              "status": "complete",
+              "packPath": "si/gorenjska/bohinj/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:36:13.000Z",
+              "bbox": {
+                "minLat": 46.275,
+                "minLng": 13.795,
+                "maxLat": 46.295,
+                "maxLng": 13.87
+              }
+            }
+          ]
+        },
+        {
+          "id": "obalno-kraska",
+          "stateCode": "09",
+          "name": "Obalno-kraska",
+          "cities": [
+            {
+              "id": "piran",
+              "name": "Piran",
+              "status": "complete",
+              "packPath": "si/obalno-kraska/piran/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:36:13.000Z",
+              "bbox": {
+                "minLat": 45.525,
+                "minLng": 13.565,
+                "maxLat": 45.532,
+                "maxLng": 13.575
+              }
+            }
+          ]
+        },
+        {
+          "id": "notranjsko-kraska",
+          "stateCode": "07",
+          "name": "Notranjsko-kraska",
+          "cities": [
+            {
+              "id": "postojna",
+              "name": "Postojna",
+              "status": "complete",
+              "packPath": "si/notranjsko-kraska/postojna/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:36:13.000Z",
+              "bbox": {
+                "minLat": 45.78,
+                "minLng": 14.12,
+                "maxLat": 45.82,
+                "maxLng": 14.21
               }
             }
           ]

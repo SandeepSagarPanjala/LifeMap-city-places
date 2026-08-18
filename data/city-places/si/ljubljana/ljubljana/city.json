@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "si/ljubljana/ljubljana",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "stateCode": "LJ",
+  "stateName": "Ljubljana",
+  "cityName": "Ljubljana",
+  "bbox": {
+    "minLat": 46.045,
+    "minLng": 14.5,
+    "maxLat": 46.056,
+    "maxLng": 14.515
+  },
+  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ljubljana-castle",
+      "name": "Ljubljana Castle",
+      "lat": 46.0488,
+      "lng": 14.5084,
+      "radiusM": 120,
+      "address": "Grajska planota",
+      "howTo": "Visit Ljubljana Castle.",
+      "badge": "badges/ljubljana-castle.png"
+    },
+    {
+      "id": "triple-bridge",
+      "name": "Triple Bridge",
+      "lat": 46.0511,
+      "lng": 14.5061,
+      "radiusM": 80,
+      "address": "Preseren Square",
+      "howTo": "Visit Triple Bridge.",
+      "badge": "badges/triple-bridge.png"
+    },
+    {
+      "id": "dragon-bridge",
+      "name": "Dragon Bridge",
+      "lat": 46.0522,
+      "lng": 14.5103,
+      "radiusM": 60,
+      "address": "Ljubljana",
+      "howTo": "Visit Dragon Bridge.",
+      "badge": "badges/dragon-bridge.png"
+    }
+  ]
+}
