@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kh/kep/kep",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "stateCode": "23",
+  "stateName": "Kep",
+  "cityName": "Kep",
+  "bbox": {
+    "minLat": 10.47,
+    "minLng": 104.29,
+    "maxLat": 10.5,
+    "maxLng": 104.33
+  },
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kep-beach",
+      "name": "Kep Beach",
+      "lat": 10.482,
+      "lng": 104.316,
+      "radiusM": 200,
+      "address": "Kep",
+      "howTo": "Visit Kep Beach.",
+      "badge": "badges/kep-beach.png"
+    },
+    {
+      "id": "kep-national-park",
+      "name": "Kep National Park",
+      "lat": 10.49,
+      "lng": 104.305,
+      "radiusM": 250,
+      "address": "Kep",
+      "howTo": "Visit Kep National Park.",
+      "badge": "badges/kep-national-park.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kh/battambang/battambang",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "stateCode": "2",
+  "stateName": "Battambang",
+  "cityName": "Battambang",
+  "bbox": {
+    "minLat": 12.93,
+    "minLng": 103.1,
+    "maxLat": 13.03,
+    "maxLng": 103.16
+  },
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wat-banan",
+      "name": "Wat Banan",
+      "lat": 12.933,
+      "lng": 103.147,
+      "radiusM": 150,
+      "address": "Banan",
+      "howTo": "Visit Wat Banan.",
+      "badge": "badges/wat-banan.png"
+    },
+    {
+      "id": "phnom-sampeau",
+      "name": "Phnom Sampeau",
+      "lat": 13.018,
+      "lng": 103.103,
+      "radiusM": 200,
+      "address": "Phnom Sampeau",
+      "howTo": "Visit Phnom Sampeau.",
+      "badge": "badges/phnom-sampeau.png"
+    }
+  ]
+}

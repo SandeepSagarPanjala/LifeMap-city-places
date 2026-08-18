@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kh/phnom-penh/phnom-penh",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "stateCode": "12",
+  "stateName": "Phnom Penh",
+  "cityName": "Phnom Penh",
+  "bbox": {
+    "minLat": 11.56,
+    "minLng": 104.918,
+    "maxLat": 11.58,
+    "maxLng": 104.935
+  },
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "royal-palace-phnom-penh",
+      "name": "Royal Palace",
+      "lat": 11.5633,
+      "lng": 104.9314,
+      "radiusM": 150,
+      "address": "Sothearos Blvd",
+      "howTo": "Visit Royal Palace.",
+      "badge": "badges/royal-palace-phnom-penh.png"
+    },
+    {
+      "id": "wat-phnom",
+      "name": "Wat Phnom",
+      "lat": 11.5763,
+      "lng": 104.9216,
+      "radiusM": 100,
+      "address": "Wat Phnom",
+      "howTo": "Visit Wat Phnom.",
+      "badge": "badges/wat-phnom.png"
+    }
+  ]
+}

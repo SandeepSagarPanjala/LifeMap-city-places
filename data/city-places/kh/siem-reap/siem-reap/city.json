@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "kh/siem-reap/siem-reap",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "stateCode": "17",
+  "stateName": "Siem Reap",
+  "cityName": "Siem Reap",
+  "bbox": {
+    "minLat": 13.41,
+    "minLng": 103.85,
+    "maxLat": 13.61,
+    "maxLng": 103.97
+  },
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "angkor-wat",
+      "name": "Angkor Wat",
+      "lat": 13.4125,
+      "lng": 103.867,
+      "radiusM": 250,
+      "address": "Angkor",
+      "howTo": "Visit Angkor Wat.",
+      "badge": "badges/angkor-wat.png"
+    },
+    {
+      "id": "bayon",
+      "name": "Bayon",
+      "lat": 13.4411,
+      "lng": 103.859,
+      "radiusM": 120,
+      "address": "Angkor Thom",
+      "howTo": "Visit Bayon.",
+      "badge": "badges/bayon.png"
+    },
+    {
+      "id": "ta-prohm",
+      "name": "Ta Prohm",
+      "lat": 13.435,
+      "lng": 103.8892,
+      "radiusM": 150,
+      "address": "Angkor",
+      "howTo": "Visit Ta Prohm.",
+      "badge": "badges/ta-prohm.png"
+    },
+    {
+      "id": "banteay-srei",
+      "name": "Banteay Srei",
+      "lat": 13.5989,
+      "lng": 103.9628,
+      "radiusM": 120,
+      "address": "Banteay Srei",
+      "howTo": "Visit Banteay Srei.",
+      "badge": "badges/banteay-srei.png"
+    }
+  ]
+}

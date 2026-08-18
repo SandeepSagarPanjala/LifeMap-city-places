@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T09:00:00.000Z",
-  "notes": "Queue through Israel complete. Next: Cambodia (kh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "notes": "Queue through Cambodia complete. Next: Sri Lanka (lk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12969,6 +12969,118 @@
                 "minLng": 35.066,
                 "maxLat": 32.926,
                 "maxLng": 35.075
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kh",
+      "countryCode": "KH",
+      "name": "Cambodia",
+      "states": [
+        {
+          "id": "siem-reap",
+          "stateCode": "17",
+          "name": "Siem Reap",
+          "cities": [
+            {
+              "id": "siem-reap",
+              "name": "Siem Reap",
+              "status": "complete",
+              "packPath": "kh/siem-reap/siem-reap/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T09:20:00.000Z",
+              "bbox": {
+                "minLat": 13.41,
+                "minLng": 103.85,
+                "maxLat": 13.61,
+                "maxLng": 103.97
+              }
+            }
+          ]
+        },
+        {
+          "id": "phnom-penh",
+          "stateCode": "12",
+          "name": "Phnom Penh",
+          "cities": [
+            {
+              "id": "phnom-penh",
+              "name": "Phnom Penh",
+              "status": "complete",
+              "packPath": "kh/phnom-penh/phnom-penh/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:20:00.000Z",
+              "bbox": {
+                "minLat": 11.56,
+                "minLng": 104.918,
+                "maxLat": 11.58,
+                "maxLng": 104.935
+              }
+            }
+          ]
+        },
+        {
+          "id": "kampot",
+          "stateCode": "7",
+          "name": "Kampot",
+          "cities": [
+            {
+              "id": "kampot",
+              "name": "Kampot",
+              "status": "complete",
+              "packPath": "kh/kampot/kampot/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:20:00.000Z",
+              "bbox": {
+                "minLat": 10.6,
+                "minLng": 104.02,
+                "maxLat": 10.64,
+                "maxLng": 104.19
+              }
+            }
+          ]
+        },
+        {
+          "id": "battambang",
+          "stateCode": "2",
+          "name": "Battambang",
+          "cities": [
+            {
+              "id": "battambang",
+              "name": "Battambang",
+              "status": "complete",
+              "packPath": "kh/battambang/battambang/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:20:00.000Z",
+              "bbox": {
+                "minLat": 12.93,
+                "minLng": 103.1,
+                "maxLat": 13.03,
+                "maxLng": 103.16
+              }
+            }
+          ]
+        },
+        {
+          "id": "kep",
+          "stateCode": "23",
+          "name": "Kep",
+          "cities": [
+            {
+              "id": "kep",
+              "name": "Kep",
+              "status": "complete",
+              "packPath": "kh/kep/kep/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T09:20:00.000Z",
+              "bbox": {
+                "minLat": 10.47,
+                "minLng": 104.29,
+                "maxLat": 10.5,
+                "maxLng": 104.33
               }
             }
           ]

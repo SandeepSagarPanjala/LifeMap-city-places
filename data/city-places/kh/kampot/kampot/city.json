@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "kh/kampot/kampot",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "stateCode": "7",
+  "stateName": "Kampot",
+  "cityName": "Kampot",
+  "bbox": {
+    "minLat": 10.6,
+    "minLng": 104.02,
+    "maxLat": 10.64,
+    "maxLng": 104.19
+  },
+  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kampot-riverfront",
+      "name": "Kampot Riverfront",
+      "lat": 10.61,
+      "lng": 104.181,
+      "radiusM": 200,
+      "address": "Riverside Road",
+      "howTo": "Visit Kampot Riverfront.",
+      "badge": "badges/kampot-riverfront.png"
+    },
+    {
+      "id": "bokor-palace",
+      "name": "Bokor Palace",
+      "lat": 10.627,
+      "lng": 104.026,
+      "radiusM": 150,
+      "address": "Bokor Hill Station",
+      "howTo": "Visit Bokor Palace.",
+      "badge": "badges/bokor-palace.png"
+    }
+  ]
+}

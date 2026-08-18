@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:23:36.996Z",
+  "generatedAt": "2026-08-18T01:27:25.162Z",
   "cellDeg": 0.5,
-  "cityCount": 704,
+  "cityCount": 709,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -3512,6 +3512,51 @@
         "minLng": 138.74,
         "maxLat": 35.52,
         "maxLng": 138.78
+      }
+    },
+    "kh/battambang/battambang": {
+      "name": "Battambang",
+      "bbox": {
+        "minLat": 12.93,
+        "minLng": 103.1,
+        "maxLat": 13.03,
+        "maxLng": 103.16
+      }
+    },
+    "kh/kampot/kampot": {
+      "name": "Kampot",
+      "bbox": {
+        "minLat": 10.6,
+        "minLng": 104.02,
+        "maxLat": 10.64,
+        "maxLng": 104.19
+      }
+    },
+    "kh/kep/kep": {
+      "name": "Kep",
+      "bbox": {
+        "minLat": 10.47,
+        "minLng": 104.29,
+        "maxLat": 10.5,
+        "maxLng": 104.33
+      }
+    },
+    "kh/phnom-penh/phnom-penh": {
+      "name": "Phnom Penh",
+      "bbox": {
+        "minLat": 11.56,
+        "minLng": 104.918,
+        "maxLat": 11.58,
+        "maxLng": 104.935
+      }
+    },
+    "kh/siem-reap/siem-reap": {
+      "name": "Siem Reap",
+      "bbox": {
+        "minLat": 13.41,
+        "minLng": 103.85,
+        "maxLat": 13.61,
+        "maxLng": 103.97
       }
     },
     "kr/busan/busan": {
@@ -9994,6 +10039,28 @@
     ],
     "65,70": [
       "il/northern/acre"
+    ],
+    "26,207": [
+      "kh/siem-reap/siem-reap"
+    ],
+    "27,207": [
+      "kh/siem-reap/siem-reap"
+    ],
+    "23,209": [
+      "kh/phnom-penh/phnom-penh"
+    ],
+    "21,208": [
+      "kh/kampot/kampot",
+      "kh/kep/kep"
+    ],
+    "25,206": [
+      "kh/battambang/battambang"
+    ],
+    "26,206": [
+      "kh/battambang/battambang"
+    ],
+    "20,208": [
+      "kh/kep/kep"
     ]
   }
 }
