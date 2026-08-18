@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "na/hardap/sossusvlei",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "stateCode": "HA",
+  "stateName": "Hardap",
+  "cityName": "Sossusvlei",
+  "bbox": {
+    "minLat": -24.766,
+    "minLng": 15.284,
+    "maxLat": -24.724,
+    "maxLng": 15.39
+  },
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sossusvlei",
+      "name": "Sossusvlei",
+      "lat": -24.73983,
+      "lng": 15.28765,
+      "radiusM": 150,
+      "address": "Namib-Naukluft",
+      "howTo": "Visit Sossusvlei.",
+      "badge": "badges/sossusvlei.png"
+    },
+    {
+      "id": "deadvlei",
+      "name": "Deadvlei",
+      "lat": -24.76333,
+      "lng": 15.29194,
+      "radiusM": 120,
+      "address": "Namib-Naukluft",
+      "howTo": "Visit Deadvlei.",
+      "badge": "badges/deadvlei.png"
+    },
+    {
+      "id": "dune-45",
+      "name": "Dune 45",
+      "lat": -24.72833,
+      "lng": 15.38667,
+      "radiusM": 80,
+      "address": "Namib-Naukluft",
+      "howTo": "Visit Dune 45.",
+      "badge": "badges/dune-45.png"
+    }
+  ]
+}

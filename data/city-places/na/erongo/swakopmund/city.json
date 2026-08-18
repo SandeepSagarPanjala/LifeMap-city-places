@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "na/erongo/swakopmund",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "stateCode": "ER",
+  "stateName": "Erongo",
+  "cityName": "Swakopmund",
+  "bbox": {
+    "minLat": -22.688,
+    "minLng": 14.517,
+    "maxLat": -22.672,
+    "maxLng": 14.53
+  },
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "swakopmund-lighthouse",
+      "name": "Swakopmund Lighthouse",
+      "lat": -22.6756,
+      "lng": 14.5256,
+      "radiusM": 40,
+      "address": "Swakopmund",
+      "howTo": "Visit Swakopmund Lighthouse.",
+      "badge": "badges/swakopmund-lighthouse.png"
+    },
+    {
+      "id": "swakopmund-jetty",
+      "name": "Swakopmund Jetty",
+      "lat": -22.6847,
+      "lng": 14.5208,
+      "radiusM": 80,
+      "address": "Swakopmund",
+      "howTo": "Visit Swakopmund Jetty.",
+      "badge": "badges/swakopmund-jetty.png"
+    }
+  ]
+}

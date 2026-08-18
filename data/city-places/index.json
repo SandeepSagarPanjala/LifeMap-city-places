@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:15:56.000Z",
-  "notes": "Tanzania (tz) complete. Next: Namibia (na) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "notes": "Namibia (na) complete. Next: Ethiopia (et) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17113,6 +17113,118 @@
                 "minLng": 34.815,
                 "maxLat": -2.415,
                 "maxLng": 34.84
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "na",
+      "countryCode": "NA",
+      "name": "Namibia",
+      "states": [
+        {
+          "id": "khomas",
+          "stateCode": "KH",
+          "name": "Khomas",
+          "cities": [
+            {
+              "id": "windhoek",
+              "name": "Windhoek",
+              "status": "complete",
+              "packPath": "na/khomas/windhoek/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:20:37.000Z",
+              "bbox": {
+                "minLat": -22.573,
+                "minLng": 17.08,
+                "maxLat": -22.566,
+                "maxLng": 17.092
+              }
+            }
+          ]
+        },
+        {
+          "id": "hardap",
+          "stateCode": "HA",
+          "name": "Hardap",
+          "cities": [
+            {
+              "id": "sossusvlei",
+              "name": "Sossusvlei",
+              "status": "complete",
+              "packPath": "na/hardap/sossusvlei/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T23:20:37.000Z",
+              "bbox": {
+                "minLat": -24.766,
+                "minLng": 15.284,
+                "maxLat": -24.724,
+                "maxLng": 15.39
+              }
+            }
+          ]
+        },
+        {
+          "id": "karas",
+          "stateCode": "KA",
+          "name": "Karas",
+          "cities": [
+            {
+              "id": "fish-river-canyon",
+              "name": "Fish River Canyon",
+              "status": "complete",
+              "packPath": "na/karas/fish-river-canyon/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T23:20:37.000Z",
+              "bbox": {
+                "minLat": -27.778,
+                "minLng": 17.552,
+                "maxLat": -27.764,
+                "maxLng": 17.566
+              }
+            }
+          ]
+        },
+        {
+          "id": "erongo",
+          "stateCode": "ER",
+          "name": "Erongo",
+          "cities": [
+            {
+              "id": "swakopmund",
+              "name": "Swakopmund",
+              "status": "complete",
+              "packPath": "na/erongo/swakopmund/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:20:37.000Z",
+              "bbox": {
+                "minLat": -22.688,
+                "minLng": 14.517,
+                "maxLat": -22.672,
+                "maxLng": 14.53
+              }
+            }
+          ]
+        },
+        {
+          "id": "oshikoto",
+          "stateCode": "OT",
+          "name": "Oshikoto",
+          "cities": [
+            {
+              "id": "etosha",
+              "name": "Etosha",
+              "status": "complete",
+              "packPath": "na/oshikoto/etosha/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T23:20:37.000Z",
+              "bbox": {
+                "minLat": -19.185,
+                "minLng": 15.91,
+                "maxLat": -19.095,
+                "maxLng": 15.96
               }
             }
           ]

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "na/karas/fish-river-canyon",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "stateCode": "KA",
+  "stateName": "Karas",
+  "cityName": "Fish River Canyon",
+  "bbox": {
+    "minLat": -27.778,
+    "minLng": 17.552,
+    "maxLat": -27.764,
+    "maxLng": 17.566
+  },
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fish-river-canyon",
+      "name": "Fish River Canyon",
+      "lat": -27.771,
+      "lng": 17.559,
+      "radiusM": 250,
+      "address": "Karas",
+      "howTo": "Visit Fish River Canyon.",
+      "badge": "badges/fish-river-canyon.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:15:56.257Z",
+  "generatedAt": "2026-08-18T23:20:37.174Z",
   "cellDeg": 0.5,
-  "cityCount": 899,
+  "cityCount": 904,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5024,6 +5024,51 @@
         "minLng": 116.04,
         "maxLat": 5.99,
         "maxLng": 116.1
+      }
+    },
+    "na/erongo/swakopmund": {
+      "name": "Swakopmund",
+      "bbox": {
+        "minLat": -22.688,
+        "minLng": 14.517,
+        "maxLat": -22.672,
+        "maxLng": 14.53
+      }
+    },
+    "na/hardap/sossusvlei": {
+      "name": "Sossusvlei",
+      "bbox": {
+        "minLat": -24.766,
+        "minLng": 15.284,
+        "maxLat": -24.724,
+        "maxLng": 15.39
+      }
+    },
+    "na/karas/fish-river-canyon": {
+      "name": "Fish River Canyon",
+      "bbox": {
+        "minLat": -27.778,
+        "minLng": 17.552,
+        "maxLat": -27.764,
+        "maxLng": 17.566
+      }
+    },
+    "na/khomas/windhoek": {
+      "name": "Windhoek",
+      "bbox": {
+        "minLat": -22.573,
+        "minLng": 17.08,
+        "maxLat": -22.566,
+        "maxLng": 17.092
+      }
+    },
+    "na/oshikoto/etosha": {
+      "name": "Etosha",
+      "bbox": {
+        "minLat": -19.185,
+        "minLng": 15.91,
+        "maxLat": -19.095,
+        "maxLng": 15.96
       }
     },
     "nl/friesland/giethoorn": {
@@ -12382,6 +12427,21 @@
     ],
     "-5,69": [
       "tz/mara/serengeti"
+    ],
+    "-46,34": [
+      "na/khomas/windhoek"
+    ],
+    "-50,30": [
+      "na/hardap/sossusvlei"
+    ],
+    "-56,35": [
+      "na/karas/fish-river-canyon"
+    ],
+    "-46,29": [
+      "na/erongo/swakopmund"
+    ],
+    "-39,31": [
+      "na/oshikoto/etosha"
     ]
   }
 }

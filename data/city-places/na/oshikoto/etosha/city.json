@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "na/oshikoto/etosha",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "stateCode": "OT",
+  "stateName": "Oshikoto",
+  "cityName": "Etosha",
+  "bbox": {
+    "minLat": -19.185,
+    "minLng": 15.91,
+    "maxLat": -19.095,
+    "maxLng": 15.96
+  },
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "okaukuejo-tower",
+      "name": "Okaukuejo Tower",
+      "lat": -19.1783,
+      "lng": 15.9189,
+      "radiusM": 60,
+      "address": "Etosha",
+      "howTo": "Visit Okaukuejo Tower.",
+      "badge": "badges/okaukuejo-tower.png"
+    },
+    {
+      "id": "etosha-pan",
+      "name": "Etosha Pan",
+      "lat": -19.1,
+      "lng": 15.95,
+      "radiusM": 300,
+      "address": "Etosha",
+      "howTo": "Visit Etosha Pan.",
+      "badge": "badges/etosha-pan.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "na/khomas/windhoek",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "stateCode": "KH",
+  "stateName": "Khomas",
+  "cityName": "Windhoek",
+  "bbox": {
+    "minLat": -22.573,
+    "minLng": 17.08,
+    "maxLat": -22.566,
+    "maxLng": 17.092
+  },
+  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "christuskirche",
+      "name": "Christuskirche",
+      "lat": -22.5703,
+      "lng": 17.0839,
+      "radiusM": 50,
+      "address": "Windhoek",
+      "howTo": "Visit Christuskirche.",
+      "badge": "badges/christuskirche.png"
+    },
+    {
+      "id": "tintenpalast",
+      "name": "Tintenpalast",
+      "lat": -22.5686,
+      "lng": 17.0883,
+      "radiusM": 60,
+      "address": "Windhoek",
+      "howTo": "Visit Tintenpalast.",
+      "badge": "badges/tintenpalast.png"
+    }
+  ]
+}
