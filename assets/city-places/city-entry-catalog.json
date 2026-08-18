@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:25:42.983Z",
+  "generatedAt": "2026-08-18T03:29:29.758Z",
   "cellDeg": 0.5,
-  "cityCount": 839,
+  "cityCount": 844,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4232,6 +4232,51 @@
         "minLng": 25.285,
         "maxLat": 54.688,
         "maxLng": 25.296
+      }
+    },
+    "lv/riga/jurmala": {
+      "name": "Jūrmala",
+      "bbox": {
+        "minLat": 56.968,
+        "minLng": 23.793,
+        "maxLat": 56.978,
+        "maxLng": 23.82
+      }
+    },
+    "lv/riga/riga": {
+      "name": "Riga",
+      "bbox": {
+        "minLat": 56.946,
+        "minLng": 24.102,
+        "maxLat": 56.952,
+        "maxLng": 24.114
+      }
+    },
+    "lv/vidzeme/cesis": {
+      "name": "Cēsis",
+      "bbox": {
+        "minLat": 57.311,
+        "minLng": 25.268,
+        "maxLat": 57.316,
+        "maxLng": 25.275
+      }
+    },
+    "lv/vidzeme/sigulda": {
+      "name": "Sigulda",
+      "bbox": {
+        "minLat": 57.163,
+        "minLng": 24.845,
+        "maxLat": 57.185,
+        "maxLng": 24.855
+      }
+    },
+    "lv/zemgale/rundale": {
+      "name": "Rundāle",
+      "bbox": {
+        "minLat": 56.41,
+        "minLng": 24.022,
+        "maxLat": 56.416,
+        "maxLng": 24.029
       }
     },
     "ma/casablanca/casablanca": {
@@ -11678,6 +11723,21 @@
     ],
     "112,46": [
       "lt/siauliai/siauliai"
+    ],
+    "113,48": [
+      "lv/riga/riga"
+    ],
+    "113,47": [
+      "lv/riga/jurmala"
+    ],
+    "114,49": [
+      "lv/vidzeme/sigulda"
+    ],
+    "114,50": [
+      "lv/vidzeme/cesis"
+    ],
+    "112,48": [
+      "lv/zemgale/rundale"
     ]
   }
 }

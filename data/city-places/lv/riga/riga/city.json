@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "lv/riga/riga",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "stateCode": "RIX",
+  "stateName": "Riga",
+  "cityName": "Riga",
+  "bbox": {
+    "minLat": 56.946,
+    "minLng": 24.102,
+    "maxLat": 56.952,
+    "maxLng": 24.114
+  },
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "house-of-blackheads",
+      "name": "House of the Blackheads",
+      "lat": 56.9472,
+      "lng": 24.1068,
+      "radiusM": 50,
+      "address": "R\u0101tslaukums",
+      "howTo": "Visit House of the Blackheads.",
+      "badge": "badges/house-of-blackheads.png"
+    },
+    {
+      "id": "riga-cathedral",
+      "name": "Riga Cathedral",
+      "lat": 56.9493,
+      "lng": 24.1046,
+      "radiusM": 80,
+      "address": "Doma laukums",
+      "howTo": "Visit Riga Cathedral.",
+      "badge": "badges/riga-cathedral.png"
+    },
+    {
+      "id": "st-peters-church",
+      "name": "St Peter's Church",
+      "lat": 56.9475,
+      "lng": 24.1086,
+      "radiusM": 50,
+      "address": "Old Town",
+      "howTo": "Visit St Peter's Church.",
+      "badge": "badges/st-peters-church.png"
+    }
+  ]
+}

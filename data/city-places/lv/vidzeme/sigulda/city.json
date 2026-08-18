@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lv/vidzeme/sigulda",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "stateCode": "VI",
+  "stateName": "Vidzeme",
+  "cityName": "Sigulda",
+  "bbox": {
+    "minLat": 57.163,
+    "minLng": 24.845,
+    "maxLat": 57.185,
+    "maxLng": 24.855
+  },
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "turaida-castle",
+      "name": "Turaida Castle",
+      "lat": 57.1819,
+      "lng": 24.8506,
+      "radiusM": 80,
+      "address": "Gauja",
+      "howTo": "Visit Turaida Castle.",
+      "badge": "badges/turaida-castle.png"
+    },
+    {
+      "id": "gutmanis-cave",
+      "name": "G\u016btmanis Cave",
+      "lat": 57.176,
+      "lng": 24.847,
+      "radiusM": 60,
+      "address": "Gauja National Park",
+      "howTo": "Visit G\u016btmanis Cave.",
+      "badge": "badges/gutmanis-cave.png"
+    }
+  ]
+}

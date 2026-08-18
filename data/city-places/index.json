@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:25:42.000Z",
-  "notes": "Lithuania (lt) complete. Next: Latvia (lv) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "notes": "Latvia (lv) complete. Next: Estonia (ee) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15818,6 +15818,104 @@
                 "minLng": 23.413,
                 "maxLat": 56.018,
                 "maxLng": 23.42
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv",
+      "countryCode": "LV",
+      "name": "Latvia",
+      "states": [
+        {
+          "id": "riga",
+          "stateCode": "RIX",
+          "name": "Riga",
+          "cities": [
+            {
+              "id": "riga",
+              "name": "Riga",
+              "status": "complete",
+              "packPath": "lv/riga/riga/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:29:29.000Z",
+              "bbox": {
+                "minLat": 56.946,
+                "minLng": 24.102,
+                "maxLat": 56.952,
+                "maxLng": 24.114
+              }
+            },
+            {
+              "id": "jurmala",
+              "name": "J\u016brmala",
+              "status": "complete",
+              "packPath": "lv/riga/jurmala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:29:29.000Z",
+              "bbox": {
+                "minLat": 56.968,
+                "minLng": 23.793,
+                "maxLat": 56.978,
+                "maxLng": 23.82
+              }
+            }
+          ]
+        },
+        {
+          "id": "vidzeme",
+          "stateCode": "VI",
+          "name": "Vidzeme",
+          "cities": [
+            {
+              "id": "sigulda",
+              "name": "Sigulda",
+              "status": "complete",
+              "packPath": "lv/vidzeme/sigulda/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:29:29.000Z",
+              "bbox": {
+                "minLat": 57.163,
+                "minLng": 24.845,
+                "maxLat": 57.185,
+                "maxLng": 24.855
+              }
+            },
+            {
+              "id": "cesis",
+              "name": "C\u0113sis",
+              "status": "complete",
+              "packPath": "lv/vidzeme/cesis/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:29:29.000Z",
+              "bbox": {
+                "minLat": 57.311,
+                "minLng": 25.268,
+                "maxLat": 57.316,
+                "maxLng": 25.275
+              }
+            }
+          ]
+        },
+        {
+          "id": "zemgale",
+          "stateCode": "ZE",
+          "name": "Zemgale",
+          "cities": [
+            {
+              "id": "rundale",
+              "name": "Rund\u0101le",
+              "status": "complete",
+              "packPath": "lv/zemgale/rundale/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:29:29.000Z",
+              "bbox": {
+                "minLat": 56.41,
+                "minLng": 24.022,
+                "maxLat": 56.416,
+                "maxLng": 24.029
               }
             }
           ]

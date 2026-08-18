@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lv/zemgale/rundale",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "stateCode": "ZE",
+  "stateName": "Zemgale",
+  "cityName": "Rund\u0101le",
+  "bbox": {
+    "minLat": 56.41,
+    "minLng": 24.022,
+    "maxLat": 56.416,
+    "maxLng": 24.029
+  },
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rundale-palace",
+      "name": "Rund\u0101le Palace",
+      "lat": 56.4133,
+      "lng": 24.0247,
+      "radiusM": 120,
+      "address": "Pilsrund\u0101le",
+      "howTo": "Visit Rund\u0101le Palace.",
+      "badge": "badges/rundale-palace.png"
+    },
+    {
+      "id": "rundale-garden",
+      "name": "Rund\u0101le Garden",
+      "lat": 56.4115,
+      "lng": 24.0255,
+      "radiusM": 150,
+      "address": "Pilsrund\u0101le",
+      "howTo": "Visit Rund\u0101le Garden.",
+      "badge": "badges/rundale-garden.png"
+    }
+  ]
+}

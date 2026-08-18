@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "lv/vidzeme/cesis",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "stateCode": "VI",
+  "stateName": "Vidzeme",
+  "cityName": "C\u0113sis",
+  "bbox": {
+    "minLat": 57.311,
+    "minLng": 25.268,
+    "maxLat": 57.316,
+    "maxLng": 25.275
+  },
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cesis-castle",
+      "name": "C\u0113sis Castle",
+      "lat": 57.3136,
+      "lng": 25.2717,
+      "radiusM": 100,
+      "address": "C\u0113sis",
+      "howTo": "Visit C\u0113sis Castle.",
+      "badge": "badges/cesis-castle.png"
+    }
+  ]
+}

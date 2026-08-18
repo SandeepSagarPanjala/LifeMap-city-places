@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lv/riga/jurmala",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "stateCode": "RIX",
+  "stateName": "Riga",
+  "cityName": "J\u016brmala",
+  "bbox": {
+    "minLat": 56.968,
+    "minLng": 23.793,
+    "maxLat": 56.978,
+    "maxLng": 23.82
+  },
+  "updatedAt": "2026-08-18T03:29:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "majori-beach",
+      "name": "Majori Beach",
+      "lat": 56.9715,
+      "lng": 23.7985,
+      "radiusM": 200,
+      "address": "J\u016brmala",
+      "howTo": "Visit Majori Beach.",
+      "badge": "badges/majori-beach.png"
+    },
+    {
+      "id": "dzintari-concert-hall",
+      "name": "Dzintari Concert Hall",
+      "lat": 56.9756,
+      "lng": 23.8133,
+      "radiusM": 80,
+      "address": "J\u016brmala",
+      "howTo": "Visit Dzintari Concert Hall.",
+      "badge": "badges/dzintari-concert-hall.png"
+    }
+  ]
+}
