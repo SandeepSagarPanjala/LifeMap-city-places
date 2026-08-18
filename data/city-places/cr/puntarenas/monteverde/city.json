@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cr/puntarenas/monteverde",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "stateCode": "P",
+  "stateName": "Puntarenas",
+  "cityName": "Monteverde",
+  "bbox": {
+    "minLat": 10.295,
+    "minLng": -84.83,
+    "maxLat": 10.325,
+    "maxLng": -84.79
+  },
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "monteverde-cloud-forest",
+      "name": "Monteverde Cloud Forest",
+      "lat": 10.301,
+      "lng": -84.795,
+      "radiusM": 250,
+      "address": "Monteverde Reserve",
+      "howTo": "Visit Monteverde Cloud Forest.",
+      "badge": "badges/monteverde-cloud-forest.png"
+    },
+    {
+      "id": "santa-elena-reserve",
+      "name": "Santa Elena Reserve",
+      "lat": 10.32,
+      "lng": -84.825,
+      "radiusM": 200,
+      "address": "Santa Elena",
+      "howTo": "Visit Santa Elena Reserve.",
+      "badge": "badges/santa-elena-reserve.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:39:41.627Z",
+  "generatedAt": "2026-08-18T01:43:49.705Z",
   "cellDeg": 0.5,
-  "cityCount": 724,
+  "cityCount": 729,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -695,6 +695,51 @@
         "minLng": -75.58,
         "maxLat": 4.65,
         "maxLng": 75.55
+      }
+    },
+    "cr/alajuela/la-fortuna": {
+      "name": "La Fortuna",
+      "bbox": {
+        "minLat": 10.46,
+        "minLng": -84.71,
+        "maxLat": 10.475,
+        "maxLng": -84.64
+      }
+    },
+    "cr/guanacaste/tamarindo": {
+      "name": "Tamarindo",
+      "bbox": {
+        "minLat": 10.295,
+        "minLng": -85.86,
+        "maxLat": 10.34,
+        "maxLng": -85.835
+      }
+    },
+    "cr/puntarenas/manuel-antonio": {
+      "name": "Manuel Antonio",
+      "bbox": {
+        "minLat": 9.385,
+        "minLng": -84.155,
+        "maxLat": 9.395,
+        "maxLng": -84.135
+      }
+    },
+    "cr/puntarenas/monteverde": {
+      "name": "Monteverde",
+      "bbox": {
+        "minLat": 10.295,
+        "minLng": -84.83,
+        "maxLat": 10.325,
+        "maxLng": -84.79
+      }
+    },
+    "cr/san-jose/san-jose": {
+      "name": "San Jose",
+      "bbox": {
+        "minLat": 9.93,
+        "minLng": -84.085,
+        "maxLat": 9.936,
+        "maxLng": -84.072
       }
     },
     "cz/karlovy-vary/karlovy-vary": {
@@ -10243,6 +10288,19 @@
     ],
     "-1,72": [
       "ke/nakuru/nakuru"
+    ],
+    "19,-169": [
+      "cr/san-jose/san-jose"
+    ],
+    "20,-170": [
+      "cr/alajuela/la-fortuna",
+      "cr/puntarenas/monteverde"
+    ],
+    "18,-169": [
+      "cr/puntarenas/manuel-antonio"
+    ],
+    "20,-172": [
+      "cr/guanacaste/tamarindo"
     ]
   }
 }

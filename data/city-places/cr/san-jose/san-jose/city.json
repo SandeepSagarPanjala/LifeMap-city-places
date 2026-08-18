@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "cr/san-jose/san-jose",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "stateCode": "SJ",
+  "stateName": "San Jose",
+  "cityName": "San Jose",
+  "bbox": {
+    "minLat": 9.93,
+    "minLng": -84.085,
+    "maxLat": 9.936,
+    "maxLng": -84.072
+  },
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "teatro-nacional",
+      "name": "National Theatre",
+      "lat": 9.9331,
+      "lng": -84.0773,
+      "radiusM": 80,
+      "address": "Avenida 2",
+      "howTo": "Visit National Theatre.",
+      "badge": "badges/teatro-nacional.png"
+    },
+    {
+      "id": "catedral-metropolitana-sj",
+      "name": "Metropolitan Cathedral",
+      "lat": 9.9327,
+      "lng": -84.0778,
+      "radiusM": 80,
+      "address": "Calle Central",
+      "howTo": "Visit Metropolitan Cathedral.",
+      "badge": "badges/catedral-metropolitana-sj.png"
+    },
+    {
+      "id": "plaza-de-la-cultura",
+      "name": "Plaza de la Cultura",
+      "lat": 9.9335,
+      "lng": -84.0768,
+      "radiusM": 100,
+      "address": "Avenida Central",
+      "howTo": "Visit Plaza de la Cultura.",
+      "badge": "badges/plaza-de-la-cultura.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cr/guanacaste/tamarindo",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "stateCode": "G",
+  "stateName": "Guanacaste",
+  "cityName": "Tamarindo",
+  "bbox": {
+    "minLat": 10.295,
+    "minLng": -85.86,
+    "maxLat": 10.34,
+    "maxLng": -85.835
+  },
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tamarindo-beach",
+      "name": "Tamarindo Beach",
+      "lat": 10.299,
+      "lng": -85.841,
+      "radiusM": 250,
+      "address": "Tamarindo",
+      "howTo": "Visit Tamarindo Beach.",
+      "badge": "badges/tamarindo-beach.png"
+    },
+    {
+      "id": "playa-grande",
+      "name": "Playa Grande",
+      "lat": 10.335,
+      "lng": -85.854,
+      "radiusM": 250,
+      "address": "Las Baulas",
+      "howTo": "Visit Playa Grande.",
+      "badge": "badges/playa-grande.png"
+    }
+  ]
+}

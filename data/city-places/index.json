@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T10:05:00.000Z",
-  "notes": "Queue through Kenya complete. Next: Costa Rica (cr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "notes": "Queue through Costa Rica complete. Next: Dominican Republic (do) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13396,6 +13396,111 @@
                 "minLng": 36.06,
                 "maxLat": -0.25,
                 "maxLng": 36.1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cr",
+      "countryCode": "CR",
+      "name": "Costa Rica",
+      "states": [
+        {
+          "id": "san-jose",
+          "stateCode": "SJ",
+          "name": "San Jose",
+          "cities": [
+            {
+              "id": "san-jose",
+              "name": "San Jose",
+              "status": "complete",
+              "packPath": "cr/san-jose/san-jose/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T10:20:00.000Z",
+              "bbox": {
+                "minLat": 9.93,
+                "minLng": -84.085,
+                "maxLat": 9.936,
+                "maxLng": -84.072
+              }
+            }
+          ]
+        },
+        {
+          "id": "alajuela",
+          "stateCode": "A",
+          "name": "Alajuela",
+          "cities": [
+            {
+              "id": "la-fortuna",
+              "name": "La Fortuna",
+              "status": "complete",
+              "packPath": "cr/alajuela/la-fortuna/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:20:00.000Z",
+              "bbox": {
+                "minLat": 10.46,
+                "minLng": -84.71,
+                "maxLat": 10.475,
+                "maxLng": -84.64
+              }
+            }
+          ]
+        },
+        {
+          "id": "puntarenas",
+          "stateCode": "P",
+          "name": "Puntarenas",
+          "cities": [
+            {
+              "id": "manuel-antonio",
+              "name": "Manuel Antonio",
+              "status": "complete",
+              "packPath": "cr/puntarenas/manuel-antonio/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:20:00.000Z",
+              "bbox": {
+                "minLat": 9.385,
+                "minLng": -84.155,
+                "maxLat": 9.395,
+                "maxLng": -84.135
+              }
+            },
+            {
+              "id": "monteverde",
+              "name": "Monteverde",
+              "status": "complete",
+              "packPath": "cr/puntarenas/monteverde/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:20:00.000Z",
+              "bbox": {
+                "minLat": 10.295,
+                "minLng": -84.83,
+                "maxLat": 10.325,
+                "maxLng": -84.79
+              }
+            }
+          ]
+        },
+        {
+          "id": "guanacaste",
+          "stateCode": "G",
+          "name": "Guanacaste",
+          "cities": [
+            {
+              "id": "tamarindo",
+              "name": "Tamarindo",
+              "status": "complete",
+              "packPath": "cr/guanacaste/tamarindo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T10:20:00.000Z",
+              "bbox": {
+                "minLat": 10.295,
+                "minLng": -85.86,
+                "maxLat": 10.34,
+                "maxLng": -85.835
               }
             }
           ]

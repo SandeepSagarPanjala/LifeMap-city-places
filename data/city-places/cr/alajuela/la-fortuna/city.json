@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cr/alajuela/la-fortuna",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "stateCode": "A",
+  "stateName": "Alajuela",
+  "cityName": "La Fortuna",
+  "bbox": {
+    "minLat": 10.46,
+    "minLng": -84.71,
+    "maxLat": 10.475,
+    "maxLng": -84.64
+  },
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "arenal-volcano",
+      "name": "Arenal Volcano",
+      "lat": 10.463,
+      "lng": -84.703,
+      "radiusM": 400,
+      "address": "Arenal",
+      "howTo": "Visit Arenal Volcano.",
+      "badge": "badges/arenal-volcano.png"
+    },
+    {
+      "id": "la-fortuna-waterfall",
+      "name": "La Fortuna Waterfall",
+      "lat": 10.467,
+      "lng": -84.645,
+      "radiusM": 150,
+      "address": "La Fortuna",
+      "howTo": "Visit La Fortuna Waterfall.",
+      "badge": "badges/la-fortuna-waterfall.png"
+    }
+  ]
+}

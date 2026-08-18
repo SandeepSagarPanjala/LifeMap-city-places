@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cr/puntarenas/manuel-antonio",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "stateCode": "P",
+  "stateName": "Puntarenas",
+  "cityName": "Manuel Antonio",
+  "bbox": {
+    "minLat": 9.385,
+    "minLng": -84.155,
+    "maxLat": 9.395,
+    "maxLng": -84.135
+  },
+  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "manuel-antonio-beach",
+      "name": "Manuel Antonio Beach",
+      "lat": 9.39,
+      "lng": -84.141,
+      "radiusM": 200,
+      "address": "Manuel Antonio National Park",
+      "howTo": "Visit Manuel Antonio Beach.",
+      "badge": "badges/manuel-antonio-beach.png"
+    },
+    {
+      "id": "cathedral-point",
+      "name": "Cathedral Point",
+      "lat": 9.387,
+      "lng": -84.148,
+      "radiusM": 150,
+      "address": "Manuel Antonio",
+      "howTo": "Visit Cathedral Point.",
+      "badge": "badges/cathedral-point.png"
+    }
+  ]
+}
