@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tw/new-taipei/jiufen",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "stateCode": "NWT",
+  "stateName": "New Taipei",
+  "cityName": "Jiufen",
+  "bbox": {
+    "minLat": 25.105,
+    "minLng": 121.838,
+    "maxLat": 25.115,
+    "maxLng": 121.862
+  },
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jiufen-old-street",
+      "name": "Jiufen Old Street",
+      "lat": 25.1095,
+      "lng": 121.8444,
+      "radiusM": 150,
+      "address": "Ruifang",
+      "howTo": "Visit Jiufen Old Street.",
+      "badge": "badges/jiufen-old-street.png"
+    },
+    {
+      "id": "jinguashi",
+      "name": "Jinguashi",
+      "lat": 25.1083,
+      "lng": 121.8575,
+      "radiusM": 200,
+      "address": "Gold Museum",
+      "howTo": "Visit Jinguashi.",
+      "badge": "badges/jinguashi.png"
+    }
+  ]
+}

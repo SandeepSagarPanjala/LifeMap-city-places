@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:04:48.071Z",
+  "generatedAt": "2026-08-18T01:10:06.009Z",
   "cellDeg": 0.5,
-  "cityCount": 685,
+  "cityCount": 690,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4439,6 +4439,51 @@
         "minLng": 34.8,
         "maxLat": 38.68,
         "maxLng": 34.88
+      }
+    },
+    "tw/hualien/hualien": {
+      "name": "Hualien",
+      "bbox": {
+        "minLat": 24.02,
+        "minLng": 121.6,
+        "maxLat": 24.17,
+        "maxLng": 121.65
+      }
+    },
+    "tw/kaohsiung/kaohsiung": {
+      "name": "Kaohsiung",
+      "bbox": {
+        "minLat": 22.615,
+        "minLng": 120.258,
+        "maxLat": 22.66,
+        "maxLng": 120.29
+      }
+    },
+    "tw/new-taipei/jiufen": {
+      "name": "Jiufen",
+      "bbox": {
+        "minLat": 25.105,
+        "minLng": 121.838,
+        "maxLat": 25.115,
+        "maxLng": 121.862
+      }
+    },
+    "tw/tainan/tainan": {
+      "name": "Tainan",
+      "bbox": {
+        "minLat": 22.988,
+        "minLng": 120.198,
+        "maxLat": 23.002,
+        "maxLng": 120.21
+      }
+    },
+    "tw/taipei/taipei": {
+      "name": "Taipei",
+      "bbox": {
+        "minLat": 25.03,
+        "minLng": 121.49,
+        "maxLat": 25.11,
+        "maxLng": 121.57
       }
     },
     "us/alabama/birmingham": {
@@ -9770,6 +9815,23 @@
     ],
     "101,9": [
       "be/flemish-brabant/leuven"
+    ],
+    "50,242": [
+      "tw/taipei/taipei"
+    ],
+    "50,243": [
+      "tw/new-taipei/jiufen",
+      "tw/taipei/taipei"
+    ],
+    "45,240": [
+      "tw/kaohsiung/kaohsiung",
+      "tw/tainan/tainan"
+    ],
+    "46,240": [
+      "tw/tainan/tainan"
+    ],
+    "48,243": [
+      "tw/hualien/hualien"
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tw/kaohsiung/kaohsiung",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "stateCode": "KHH",
+  "stateName": "Kaohsiung",
+  "cityName": "Kaohsiung",
+  "bbox": {
+    "minLat": 22.615,
+    "minLng": 120.258,
+    "maxLat": 22.66,
+    "maxLng": 120.29
+  },
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dragon-tiger-pagodas",
+      "name": "Dragon and Tiger Pagodas",
+      "lat": 22.655,
+      "lng": 120.2644,
+      "radiusM": 120,
+      "address": "Lotus Pond",
+      "howTo": "Visit Dragon and Tiger Pagodas.",
+      "badge": "badges/dragon-tiger-pagodas.png"
+    },
+    {
+      "id": "pier-2",
+      "name": "Pier-2 Art Center",
+      "lat": 22.6203,
+      "lng": 120.2816,
+      "radiusM": 180,
+      "address": "Yancheng District",
+      "howTo": "Visit Pier-2 Art Center.",
+      "badge": "badges/pier-2.png"
+    }
+  ]
+}

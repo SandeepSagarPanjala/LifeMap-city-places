@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tw/tainan/tainan",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "stateCode": "TNN",
+  "stateName": "Tainan",
+  "cityName": "Tainan",
+  "bbox": {
+    "minLat": 22.988,
+    "minLng": 120.198,
+    "maxLat": 23.002,
+    "maxLng": 120.21
+  },
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chihkan-tower",
+      "name": "Chihkan Tower",
+      "lat": 22.9976,
+      "lng": 120.2026,
+      "radiusM": 100,
+      "address": "West Central District",
+      "howTo": "Visit Chihkan Tower.",
+      "badge": "badges/chihkan-tower.png"
+    },
+    {
+      "id": "tainan-confucius-temple",
+      "name": "Tainan Confucius Temple",
+      "lat": 22.9904,
+      "lng": 120.2047,
+      "radiusM": 100,
+      "address": "Nanmen Road",
+      "howTo": "Visit Tainan Confucius Temple.",
+      "badge": "badges/tainan-confucius-temple.png"
+    }
+  ]
+}

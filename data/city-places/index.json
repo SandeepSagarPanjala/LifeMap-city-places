@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T08:15:00.000Z",
-  "notes": "Queue through Belgium complete. Next: Taiwan (tw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "notes": "Queue through Taiwan complete. Next: Hong Kong (hk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -12542,6 +12542,118 @@
                 "minLng": 4.695,
                 "maxLat": 50.882,
                 "maxLng": 4.705
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tw",
+      "countryCode": "TW",
+      "name": "Taiwan",
+      "states": [
+        {
+          "id": "taipei",
+          "stateCode": "TPE",
+          "name": "Taipei",
+          "cities": [
+            {
+              "id": "taipei",
+              "name": "Taipei",
+              "status": "complete",
+              "packPath": "tw/taipei/taipei/city.json",
+              "placeCount": 4,
+              "completedAt": "2026-08-18T08:25:00.000Z",
+              "bbox": {
+                "minLat": 25.03,
+                "minLng": 121.49,
+                "maxLat": 25.11,
+                "maxLng": 121.57
+              }
+            }
+          ]
+        },
+        {
+          "id": "tainan",
+          "stateCode": "TNN",
+          "name": "Tainan",
+          "cities": [
+            {
+              "id": "tainan",
+              "name": "Tainan",
+              "status": "complete",
+              "packPath": "tw/tainan/tainan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:25:00.000Z",
+              "bbox": {
+                "minLat": 22.988,
+                "minLng": 120.198,
+                "maxLat": 23.002,
+                "maxLng": 120.21
+              }
+            }
+          ]
+        },
+        {
+          "id": "kaohsiung",
+          "stateCode": "KHH",
+          "name": "Kaohsiung",
+          "cities": [
+            {
+              "id": "kaohsiung",
+              "name": "Kaohsiung",
+              "status": "complete",
+              "packPath": "tw/kaohsiung/kaohsiung/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:25:00.000Z",
+              "bbox": {
+                "minLat": 22.615,
+                "minLng": 120.258,
+                "maxLat": 22.66,
+                "maxLng": 120.29
+              }
+            }
+          ]
+        },
+        {
+          "id": "new-taipei",
+          "stateCode": "NWT",
+          "name": "New Taipei",
+          "cities": [
+            {
+              "id": "jiufen",
+              "name": "Jiufen",
+              "status": "complete",
+              "packPath": "tw/new-taipei/jiufen/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:25:00.000Z",
+              "bbox": {
+                "minLat": 25.105,
+                "minLng": 121.838,
+                "maxLat": 25.115,
+                "maxLng": 121.862
+              }
+            }
+          ]
+        },
+        {
+          "id": "hualien",
+          "stateCode": "HUA",
+          "name": "Hualien",
+          "cities": [
+            {
+              "id": "hualien",
+              "name": "Hualien",
+              "status": "complete",
+              "packPath": "tw/hualien/hualien/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T08:25:00.000Z",
+              "bbox": {
+                "minLat": 24.02,
+                "minLng": 121.6,
+                "maxLat": 24.17,
+                "maxLng": 121.65
               }
             }
           ]

@@ -89,7 +89,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 43. `dk` — Denmark (**complete**)
 44. `fi` — Finland (**complete**)
 45. `be` — Belgium (**complete**)
-46. `tw` — Taiwan
+46. `tw` — Taiwan (**complete**)
+47. `hk` — Hong Kong
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

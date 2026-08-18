@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "tw/taipei/taipei",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "stateCode": "TPE",
+  "stateName": "Taipei",
+  "cityName": "Taipei",
+  "bbox": {
+    "minLat": 25.03,
+    "minLng": 121.49,
+    "maxLat": 25.11,
+    "maxLng": 121.57
+  },
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "taipei-101",
+      "name": "Taipei 101",
+      "lat": 25.03397,
+      "lng": 121.56447,
+      "radiusM": 150,
+      "address": "Xinyi District",
+      "howTo": "Visit Taipei 101.",
+      "badge": "badges/taipei-101.png"
+    },
+    {
+      "id": "chiang-kai-shek-memorial",
+      "name": "Chiang Kai-shek Memorial Hall",
+      "lat": 25.03456,
+      "lng": 121.52185,
+      "radiusM": 180,
+      "address": "Zhongzheng District",
+      "howTo": "Visit Chiang Kai-shek Memorial Hall.",
+      "badge": "badges/chiang-kai-shek-memorial.png"
+    },
+    {
+      "id": "longshan-temple",
+      "name": "Longshan Temple",
+      "lat": 25.03715,
+      "lng": 121.4999,
+      "radiusM": 80,
+      "address": "Wanhua District",
+      "howTo": "Visit Longshan Temple.",
+      "badge": "badges/longshan-temple.png"
+    },
+    {
+      "id": "national-palace-museum",
+      "name": "National Palace Museum",
+      "lat": 25.10235,
+      "lng": 121.54851,
+      "radiusM": 150,
+      "address": "Shilin District",
+      "howTo": "Visit National Palace Museum.",
+      "badge": "badges/national-palace-museum.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tw/hualien/hualien",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "stateCode": "HUA",
+  "stateName": "Hualien",
+  "cityName": "Hualien",
+  "bbox": {
+    "minLat": 24.02,
+    "minLng": 121.6,
+    "maxLat": 24.17,
+    "maxLng": 121.65
+  },
+  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "taroko-gorge",
+      "name": "Taroko Gorge",
+      "lat": 24.1635,
+      "lng": 121.6115,
+      "radiusM": 300,
+      "address": "Eternal Spring Shrine",
+      "howTo": "Visit Taroko Gorge.",
+      "badge": "badges/taroko-gorge.png"
+    },
+    {
+      "id": "qixingtan",
+      "name": "Qixingtan",
+      "lat": 24.0322,
+      "lng": 121.637,
+      "radiusM": 200,
+      "address": "Xincheng",
+      "howTo": "Visit Qixingtan.",
+      "badge": "badges/qixingtan.png"
+    }
+  ]
+}
