@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sk/banska-bystrica/banska-stiavnica",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "stateCode": "BC",
+  "stateName": "Bansk\u00e1 Bystrica",
+  "cityName": "Bansk\u00e1 \u0160tiavnica",
+  "bbox": {
+    "minLat": 48.449,
+    "minLng": 18.888,
+    "maxLat": 48.462,
+    "maxLng": 18.912
+  },
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "trinity-square",
+      "name": "Trinity Square",
+      "lat": 48.4588,
+      "lng": 18.8931,
+      "radiusM": 100,
+      "address": "Old Town",
+      "howTo": "Visit Trinity Square.",
+      "badge": "badges/trinity-square.png"
+    },
+    {
+      "id": "stiavnica-calvary",
+      "name": "Bansk\u00e1 \u0160tiavnica Calvary",
+      "lat": 48.4519,
+      "lng": 18.9067,
+      "radiusM": 150,
+      "address": "Calvary Hill",
+      "howTo": "Visit Bansk\u00e1 \u0160tiavnica Calvary.",
+      "badge": "badges/stiavnica-calvary.png"
+    }
+  ]
+}

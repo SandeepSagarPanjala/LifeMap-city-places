@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sk/kosice/kosice",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "stateCode": "KI",
+  "stateName": "Ko\u0161ice",
+  "cityName": "Ko\u0161ice",
+  "bbox": {
+    "minLat": 48.718,
+    "minLng": 21.255,
+    "maxLat": 48.724,
+    "maxLng": 21.262
+  },
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-elisabeth-cathedral",
+      "name": "St Elisabeth Cathedral",
+      "lat": 48.72026,
+      "lng": 21.25821,
+      "radiusM": 80,
+      "address": "Hlavn\u00e1",
+      "howTo": "Visit St Elisabeth Cathedral.",
+      "badge": "badges/st-elisabeth-cathedral.png"
+    },
+    {
+      "id": "kosice-state-theatre",
+      "name": "Ko\u0161ice State Theatre",
+      "lat": 48.7214,
+      "lng": 21.2578,
+      "radiusM": 60,
+      "address": "Hlavn\u00e1",
+      "howTo": "Visit Ko\u0161ice State Theatre.",
+      "badge": "badges/kosice-state-theatre.png"
+    }
+  ]
+}

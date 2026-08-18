@@ -113,7 +113,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 67. `om` — Oman (**complete**)
 68. `qa` — Qatar (**complete**)
 69. `rs` — Serbia (**complete**)
-70. `sk` — Slovakia
+70. `sk` — Slovakia (**complete**)
+71. `ge` — Georgia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

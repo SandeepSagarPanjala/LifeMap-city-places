@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sk/presov/vysoke-tatry",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "stateCode": "PV",
+  "stateName": "Pre\u0161ov",
+  "cityName": "Vysok\u00e9 Tatry",
+  "bbox": {
+    "minLat": 49.115,
+    "minLng": 20.05,
+    "maxLat": 49.158,
+    "maxLng": 20.085
+  },
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "strbske-pleso",
+      "name": "\u0160trbsk\u00e9 Pleso",
+      "lat": 49.1192,
+      "lng": 20.0594,
+      "radiusM": 250,
+      "address": "High Tatras",
+      "howTo": "Visit \u0160trbsk\u00e9 Pleso.",
+      "badge": "badges/strbske-pleso.png"
+    },
+    {
+      "id": "popradske-pleso",
+      "name": "Popradsk\u00e9 Pleso",
+      "lat": 49.1533,
+      "lng": 20.0797,
+      "radiusM": 200,
+      "address": "High Tatras",
+      "howTo": "Visit Popradsk\u00e9 Pleso.",
+      "badge": "badges/popradske-pleso.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T02:56:22.707Z",
+  "generatedAt": "2026-08-18T03:01:15.235Z",
   "cellDeg": 0.5,
-  "cityCount": 804,
+  "cityCount": 809,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -5222,6 +5222,51 @@
         "minLng": 13.565,
         "maxLat": 45.532,
         "maxLng": 13.575
+      }
+    },
+    "sk/banska-bystrica/banska-stiavnica": {
+      "name": "Banská Štiavnica",
+      "bbox": {
+        "minLat": 48.449,
+        "minLng": 18.888,
+        "maxLat": 48.462,
+        "maxLng": 18.912
+      }
+    },
+    "sk/bratislava/bratislava": {
+      "name": "Bratislava",
+      "bbox": {
+        "minLat": 48.14,
+        "minLng": 17.098,
+        "maxLat": 48.147,
+        "maxLng": 17.111
+      }
+    },
+    "sk/kosice/kosice": {
+      "name": "Košice",
+      "bbox": {
+        "minLat": 48.718,
+        "minLng": 21.255,
+        "maxLat": 48.724,
+        "maxLng": 21.262
+      }
+    },
+    "sk/presov/spisske-podhradie": {
+      "name": "Spišské Podhradie",
+      "bbox": {
+        "minLat": 48.996,
+        "minLng": 20.735,
+        "maxLat": 49.005,
+        "maxLng": 20.775
+      }
+    },
+    "sk/presov/vysoke-tatry": {
+      "name": "Vysoké Tatry",
+      "bbox": {
+        "minLat": 49.115,
+        "minLng": 20.05,
+        "maxLat": 49.158,
+        "maxLng": 20.085
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -10731,7 +10776,8 @@
       "pl/malopolskie/zakopane"
     ],
     "98,40": [
-      "pl/malopolskie/zakopane"
+      "pl/malopolskie/zakopane",
+      "sk/presov/vysoke-tatry"
     ],
     "108,37": [
       "pl/pomorskie/gdansk"
@@ -11259,6 +11305,21 @@
     ],
     "89,43": [
       "rs/branicevo/golubac"
+    ],
+    "96,34": [
+      "sk/bratislava/bratislava"
+    ],
+    "97,42": [
+      "sk/kosice/kosice"
+    ],
+    "97,41": [
+      "sk/presov/spisske-podhradie"
+    ],
+    "98,41": [
+      "sk/presov/spisske-podhradie"
+    ],
+    "96,37": [
+      "sk/banska-bystrica/banska-stiavnica"
     ]
   }
 }

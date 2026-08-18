@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sk/presov/spisske-podhradie",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "stateCode": "PV",
+  "stateName": "Pre\u0161ov",
+  "cityName": "Spi\u0161sk\u00e9 Podhradie",
+  "bbox": {
+    "minLat": 48.996,
+    "minLng": 20.735,
+    "maxLat": 49.005,
+    "maxLng": 20.775
+  },
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "spis-castle",
+      "name": "Spi\u0161 Castle",
+      "lat": 49.0005,
+      "lng": 20.76863,
+      "radiusM": 200,
+      "address": "\u017dehra",
+      "howTo": "Visit Spi\u0161 Castle.",
+      "badge": "badges/spis-castle.png"
+    },
+    {
+      "id": "spisska-kapitula",
+      "name": "Spi\u0161sk\u00e1 Kapitula",
+      "lat": 49.0006,
+      "lng": 20.7411,
+      "radiusM": 120,
+      "address": "Spi\u0161sk\u00e9 Podhradie",
+      "howTo": "Visit Spi\u0161sk\u00e1 Kapitula.",
+      "badge": "badges/spisska-kapitula.png"
+    }
+  ]
+}

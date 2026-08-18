@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T02:56:22.000Z",
-  "notes": "Serbia (rs) complete. Next: Slovakia (sk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "notes": "Slovakia (sk) complete. Next: Georgia (ge) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15097,6 +15097,111 @@
                 "minLng": 21.668,
                 "maxLat": 44.668,
                 "maxLng": 21.688
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sk",
+      "countryCode": "SK",
+      "name": "Slovakia",
+      "states": [
+        {
+          "id": "bratislava",
+          "stateCode": "BL",
+          "name": "Bratislava",
+          "cities": [
+            {
+              "id": "bratislava",
+              "name": "Bratislava",
+              "status": "complete",
+              "packPath": "sk/bratislava/bratislava/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:01:15.000Z",
+              "bbox": {
+                "minLat": 48.14,
+                "minLng": 17.098,
+                "maxLat": 48.147,
+                "maxLng": 17.111
+              }
+            }
+          ]
+        },
+        {
+          "id": "kosice",
+          "stateCode": "KI",
+          "name": "Ko\u0161ice",
+          "cities": [
+            {
+              "id": "kosice",
+              "name": "Ko\u0161ice",
+              "status": "complete",
+              "packPath": "sk/kosice/kosice/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:01:15.000Z",
+              "bbox": {
+                "minLat": 48.718,
+                "minLng": 21.255,
+                "maxLat": 48.724,
+                "maxLng": 21.262
+              }
+            }
+          ]
+        },
+        {
+          "id": "presov",
+          "stateCode": "PV",
+          "name": "Pre\u0161ov",
+          "cities": [
+            {
+              "id": "vysoke-tatry",
+              "name": "Vysok\u00e9 Tatry",
+              "status": "complete",
+              "packPath": "sk/presov/vysoke-tatry/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:01:15.000Z",
+              "bbox": {
+                "minLat": 49.115,
+                "minLng": 20.05,
+                "maxLat": 49.158,
+                "maxLng": 20.085
+              }
+            },
+            {
+              "id": "spisske-podhradie",
+              "name": "Spi\u0161sk\u00e9 Podhradie",
+              "status": "complete",
+              "packPath": "sk/presov/spisske-podhradie/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:01:15.000Z",
+              "bbox": {
+                "minLat": 48.996,
+                "minLng": 20.735,
+                "maxLat": 49.005,
+                "maxLng": 20.775
+              }
+            }
+          ]
+        },
+        {
+          "id": "banska-bystrica",
+          "stateCode": "BC",
+          "name": "Bansk\u00e1 Bystrica",
+          "cities": [
+            {
+              "id": "banska-stiavnica",
+              "name": "Bansk\u00e1 \u0160tiavnica",
+              "status": "complete",
+              "packPath": "sk/banska-bystrica/banska-stiavnica/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:01:15.000Z",
+              "bbox": {
+                "minLat": 48.449,
+                "minLng": 18.888,
+                "maxLat": 48.462,
+                "maxLng": 18.912
               }
             }
           ]

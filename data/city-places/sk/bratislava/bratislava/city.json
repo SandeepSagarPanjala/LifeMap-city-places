@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "sk/bratislava/bratislava",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "stateCode": "BL",
+  "stateName": "Bratislava",
+  "cityName": "Bratislava",
+  "bbox": {
+    "minLat": 48.14,
+    "minLng": 17.098,
+    "maxLat": 48.147,
+    "maxLng": 17.111
+  },
+  "updatedAt": "2026-08-18T03:01:15.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bratislava-castle",
+      "name": "Bratislava Castle",
+      "lat": 48.14211,
+      "lng": 17.10024,
+      "radiusM": 150,
+      "address": "Castle Hill",
+      "howTo": "Visit Bratislava Castle.",
+      "badge": "badges/bratislava-castle.png"
+    },
+    {
+      "id": "st-martins-cathedral",
+      "name": "St Martin's Cathedral",
+      "lat": 48.14214,
+      "lng": 17.10478,
+      "radiusM": 80,
+      "address": "Old Town",
+      "howTo": "Visit St Martin's Cathedral.",
+      "badge": "badges/st-martins-cathedral.png"
+    },
+    {
+      "id": "michaels-gate",
+      "name": "Michael's Gate",
+      "lat": 48.14528,
+      "lng": 17.10861,
+      "radiusM": 50,
+      "address": "Old Town",
+      "howTo": "Visit Michael's Gate.",
+      "badge": "badges/michaels-gate.png"
+    }
+  ]
+}
