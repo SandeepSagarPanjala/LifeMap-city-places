@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "bh/northern/qalat-al-bahrain",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "stateCode": "17",
+  "stateName": "Northern",
+  "cityName": "Qal'at al-Bahrain",
+  "bbox": {
+    "minLat": 26.23,
+    "minLng": 50.516,
+    "maxLat": 26.238,
+    "maxLng": 50.525
+  },
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bahrain-fort",
+      "name": "Bahrain Fort",
+      "lat": 26.2336,
+      "lng": 50.5203,
+      "radiusM": 150,
+      "address": "Dilmun capital",
+      "howTo": "Visit Bahrain Fort.",
+      "badge": "badges/bahrain-fort.png"
+    }
+  ]
+}

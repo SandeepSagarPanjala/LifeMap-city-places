@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bh/muharraq/muharraq",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "stateCode": "15",
+  "stateName": "Muharraq",
+  "cityName": "Muharraq",
+  "bbox": {
+    "minLat": 26.24,
+    "minLng": 50.605,
+    "maxLat": 26.257,
+    "maxLng": 50.616
+  },
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bu-maher-fort",
+      "name": "Bu Maher Fort",
+      "lat": 26.243,
+      "lng": 50.608,
+      "radiusM": 60,
+      "address": "Pearling Path",
+      "howTo": "Visit Bu Maher Fort.",
+      "badge": "badges/bu-maher-fort.png"
+    },
+    {
+      "id": "sheikh-isa-house",
+      "name": "Sheikh Isa House",
+      "lat": 26.2535,
+      "lng": 50.6114,
+      "radiusM": 40,
+      "address": "Muharraq",
+      "howTo": "Visit Sheikh Isa House.",
+      "badge": "badges/sheikh-isa-house.png"
+    }
+  ]
+}

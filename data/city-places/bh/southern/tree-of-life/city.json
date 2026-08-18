@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "bh/southern/tree-of-life",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "stateCode": "14",
+  "stateName": "Southern",
+  "cityName": "Tree of Life",
+  "bbox": {
+    "minLat": 25.999,
+    "minLng": 50.615,
+    "maxLat": 26.006,
+    "maxLng": 50.622
+  },
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tree-of-life",
+      "name": "Tree of Life",
+      "lat": 26.0022,
+      "lng": 50.6186,
+      "radiusM": 80,
+      "address": "Desert",
+      "howTo": "Visit Tree of Life.",
+      "badge": "badges/tree-of-life.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:44:31.255Z",
+  "generatedAt": "2026-08-18T03:48:23.261Z",
   "cellDeg": 0.5,
-  "cityCount": 864,
+  "cityCount": 869,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -515,6 +515,51 @@
         "minLng": 25.63,
         "maxLat": 43.09,
         "maxLng": 25.66
+      }
+    },
+    "bh/capital/manama": {
+      "name": "Manama",
+      "bbox": {
+        "minLat": 26.215,
+        "minLng": 50.575,
+        "maxLat": 26.242,
+        "maxLng": 50.602
+      }
+    },
+    "bh/central/riffa": {
+      "name": "Riffa",
+      "bbox": {
+        "minLat": 26.115,
+        "minLng": 50.551,
+        "maxLat": 26.122,
+        "maxLng": 50.56
+      }
+    },
+    "bh/muharraq/muharraq": {
+      "name": "Muharraq",
+      "bbox": {
+        "minLat": 26.24,
+        "minLng": 50.605,
+        "maxLat": 26.257,
+        "maxLng": 50.616
+      }
+    },
+    "bh/northern/qalat-al-bahrain": {
+      "name": "Qal'at al-Bahrain",
+      "bbox": {
+        "minLat": 26.23,
+        "minLng": 50.516,
+        "maxLat": 26.238,
+        "maxLng": 50.525
+      }
+    },
+    "bh/southern/tree-of-life": {
+      "name": "Tree of Life",
+      "bbox": {
+        "minLat": 25.999,
+        "minLng": 50.615,
+        "maxLat": 26.006,
+        "maxLng": 50.622
       }
     },
     "bo/chuquisaca/sucre": {
@@ -11973,6 +12018,16 @@
     ],
     "99,11": [
       "lu/wiltz/esch-sur-sure"
+    ],
+    "52,101": [
+      "bh/capital/manama",
+      "bh/central/riffa",
+      "bh/muharraq/muharraq",
+      "bh/northern/qalat-al-bahrain",
+      "bh/southern/tree-of-life"
+    ],
+    "51,101": [
+      "bh/southern/tree-of-life"
     ]
   }
 }

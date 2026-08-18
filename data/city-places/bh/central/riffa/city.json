@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bh/central/riffa",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "stateCode": "16",
+  "stateName": "Central",
+  "cityName": "Riffa",
+  "bbox": {
+    "minLat": 26.115,
+    "minLng": 50.551,
+    "maxLat": 26.122,
+    "maxLng": 50.56
+  },
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "riffa-fort",
+      "name": "Riffa Fort",
+      "lat": 26.118,
+      "lng": 50.555,
+      "radiusM": 80,
+      "address": "Riffa",
+      "howTo": "Visit Riffa Fort.",
+      "badge": "badges/riffa-fort.png"
+    },
+    {
+      "id": "riffa-views",
+      "name": "Riffa Views",
+      "lat": 26.12,
+      "lng": 50.557,
+      "radiusM": 150,
+      "address": "Riffa",
+      "howTo": "Visit Riffa Views.",
+      "badge": "badges/riffa-views.png"
+    }
+  ]
+}

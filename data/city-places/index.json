@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:44:31.000Z",
-  "notes": "Luxembourg (lu) complete. Next: Bahrain (bh) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "notes": "Bahrain (bh) complete. Next: Kuwait (kw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16350,6 +16350,118 @@
                 "minLng": 5.925,
                 "maxLat": 49.915,
                 "maxLng": 5.94
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bh",
+      "countryCode": "BH",
+      "name": "Bahrain",
+      "states": [
+        {
+          "id": "capital",
+          "stateCode": "13",
+          "name": "Capital",
+          "cities": [
+            {
+              "id": "manama",
+              "name": "Manama",
+              "status": "complete",
+              "packPath": "bh/capital/manama/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:48:23.000Z",
+              "bbox": {
+                "minLat": 26.215,
+                "minLng": 50.575,
+                "maxLat": 26.242,
+                "maxLng": 50.602
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern",
+          "stateCode": "17",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "qalat-al-bahrain",
+              "name": "Qal'at al-Bahrain",
+              "status": "complete",
+              "packPath": "bh/northern/qalat-al-bahrain/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:48:23.000Z",
+              "bbox": {
+                "minLat": 26.23,
+                "minLng": 50.516,
+                "maxLat": 26.238,
+                "maxLng": 50.525
+              }
+            }
+          ]
+        },
+        {
+          "id": "muharraq",
+          "stateCode": "15",
+          "name": "Muharraq",
+          "cities": [
+            {
+              "id": "muharraq",
+              "name": "Muharraq",
+              "status": "complete",
+              "packPath": "bh/muharraq/muharraq/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:48:23.000Z",
+              "bbox": {
+                "minLat": 26.24,
+                "minLng": 50.605,
+                "maxLat": 26.257,
+                "maxLng": 50.616
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "14",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "tree-of-life",
+              "name": "Tree of Life",
+              "status": "complete",
+              "packPath": "bh/southern/tree-of-life/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:48:23.000Z",
+              "bbox": {
+                "minLat": 25.999,
+                "minLng": 50.615,
+                "maxLat": 26.006,
+                "maxLng": 50.622
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "16",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "riffa",
+              "name": "Riffa",
+              "status": "complete",
+              "packPath": "bh/central/riffa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:48:23.000Z",
+              "bbox": {
+                "minLat": 26.115,
+                "minLng": 50.551,
+                "maxLat": 26.122,
+                "maxLng": 50.56
               }
             }
           ]

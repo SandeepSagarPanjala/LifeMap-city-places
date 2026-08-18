@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "bh/capital/manama",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "stateCode": "13",
+  "stateName": "Capital",
+  "cityName": "Manama",
+  "bbox": {
+    "minLat": 26.215,
+    "minLng": 50.575,
+    "maxLat": 26.242,
+    "maxLng": 50.602
+  },
+  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-fateh-mosque",
+      "name": "Al Fateh Grand Mosque",
+      "lat": 26.21889,
+      "lng": 50.59806,
+      "radiusM": 120,
+      "address": "Juffair",
+      "howTo": "Visit Al Fateh Grand Mosque.",
+      "badge": "badges/al-fateh-mosque.png"
+    },
+    {
+      "id": "bab-al-bahrain",
+      "name": "Bab Al Bahrain",
+      "lat": 26.2356,
+      "lng": 50.5783,
+      "radiusM": 40,
+      "address": "Manama Souq",
+      "howTo": "Visit Bab Al Bahrain.",
+      "badge": "badges/bab-al-bahrain.png"
+    },
+    {
+      "id": "bahrain-wtc",
+      "name": "Bahrain World Trade Center",
+      "lat": 26.239,
+      "lng": 50.583,
+      "radiusM": 80,
+      "address": "King Faisal Highway",
+      "howTo": "Visit Bahrain World Trade Center.",
+      "badge": "badges/bahrain-wtc.png"
+    }
+  ]
+}
