@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ge/tbilisi/tbilisi",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "stateCode": "TB",
+  "stateName": "Tbilisi",
+  "cityName": "Tbilisi",
+  "bbox": {
+    "minLat": 41.685,
+    "minLng": 44.805,
+    "maxLat": 41.696,
+    "maxLng": 44.82
+  },
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "narikala",
+      "name": "Narikala Fortress",
+      "lat": 41.68778,
+      "lng": 44.80861,
+      "radiusM": 180,
+      "address": "Old Tbilisi",
+      "howTo": "Visit Narikala Fortress.",
+      "badge": "badges/narikala.png"
+    },
+    {
+      "id": "sameba",
+      "name": "Holy Trinity Cathedral",
+      "lat": 41.69333,
+      "lng": 44.81667,
+      "radiusM": 120,
+      "address": "Avlabari",
+      "howTo": "Visit Holy Trinity Cathedral.",
+      "badge": "badges/sameba.png"
+    },
+    {
+      "id": "abanotubani",
+      "name": "Abanotubani",
+      "lat": 41.6897,
+      "lng": 44.8115,
+      "radiusM": 100,
+      "address": "Sulfur baths",
+      "howTo": "Visit Abanotubani.",
+      "badge": "badges/abanotubani.png"
+    }
+  ]
+}

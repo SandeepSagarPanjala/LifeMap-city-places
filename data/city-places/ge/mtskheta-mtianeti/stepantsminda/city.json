@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "ge/mtskheta-mtianeti/stepantsminda",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "stateCode": "MM",
+  "stateName": "Mtskheta-Mtianeti",
+  "cityName": "Stepantsminda",
+  "bbox": {
+    "minLat": 42.658,
+    "minLng": 44.615,
+    "maxLat": 42.667,
+    "maxLng": 44.627
+  },
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gergeti-trinity",
+      "name": "Gergeti Trinity Church",
+      "lat": 42.6624,
+      "lng": 44.6208,
+      "radiusM": 80,
+      "address": "Kazbegi",
+      "howTo": "Visit Gergeti Trinity Church.",
+      "badge": "badges/gergeti-trinity.png"
+    }
+  ]
+}

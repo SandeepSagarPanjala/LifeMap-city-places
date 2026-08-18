@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T03:01:15.000Z",
-  "notes": "Slovakia (sk) complete. Next: Georgia (ge) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "notes": "Georgia (ge) complete. Next: Montenegro (me) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -15202,6 +15202,111 @@
                 "minLng": 18.888,
                 "maxLat": 48.462,
                 "maxLng": 18.912
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ge",
+      "countryCode": "GE",
+      "name": "Georgia",
+      "states": [
+        {
+          "id": "tbilisi",
+          "stateCode": "TB",
+          "name": "Tbilisi",
+          "cities": [
+            {
+              "id": "tbilisi",
+              "name": "Tbilisi",
+              "status": "complete",
+              "packPath": "ge/tbilisi/tbilisi/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T03:05:24.000Z",
+              "bbox": {
+                "minLat": 41.685,
+                "minLng": 44.805,
+                "maxLat": 41.696,
+                "maxLng": 44.82
+              }
+            }
+          ]
+        },
+        {
+          "id": "mtskheta-mtianeti",
+          "stateCode": "MM",
+          "name": "Mtskheta-Mtianeti",
+          "cities": [
+            {
+              "id": "mtskheta",
+              "name": "Mtskheta",
+              "status": "complete",
+              "packPath": "ge/mtskheta-mtianeti/mtskheta/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:05:24.000Z",
+              "bbox": {
+                "minLat": 41.835,
+                "minLng": 44.712,
+                "maxLat": 41.846,
+                "maxLng": 44.738
+              }
+            },
+            {
+              "id": "stepantsminda",
+              "name": "Stepantsminda",
+              "status": "complete",
+              "packPath": "ge/mtskheta-mtianeti/stepantsminda/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T03:05:24.000Z",
+              "bbox": {
+                "minLat": 42.658,
+                "minLng": 44.615,
+                "maxLat": 42.667,
+                "maxLng": 44.627
+              }
+            }
+          ]
+        },
+        {
+          "id": "adjara",
+          "stateCode": "AJ",
+          "name": "Adjara",
+          "cities": [
+            {
+              "id": "batumi",
+              "name": "Batumi",
+              "status": "complete",
+              "packPath": "ge/adjara/batumi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:05:24.000Z",
+              "bbox": {
+                "minLat": 41.648,
+                "minLng": 41.63,
+                "maxLat": 41.658,
+                "maxLng": 41.653
+              }
+            }
+          ]
+        },
+        {
+          "id": "kakheti",
+          "stateCode": "KA",
+          "name": "Kakheti",
+          "cities": [
+            {
+              "id": "sighnaghi",
+              "name": "Sighnaghi",
+              "status": "complete",
+              "packPath": "ge/kakheti/sighnaghi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T03:05:24.000Z",
+              "bbox": {
+                "minLat": 41.603,
+                "minLng": 45.915,
+                "maxLat": 41.625,
+                "maxLng": 45.94
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ge/adjara/batumi",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "stateCode": "AJ",
+  "stateName": "Adjara",
+  "cityName": "Batumi",
+  "bbox": {
+    "minLat": 41.648,
+    "minLng": 41.63,
+    "maxLat": 41.658,
+    "maxLng": 41.653
+  },
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "batumi-boulevard",
+      "name": "Batumi Boulevard",
+      "lat": 41.6515,
+      "lng": 41.636,
+      "radiusM": 250,
+      "address": "Batumi",
+      "howTo": "Visit Batumi Boulevard.",
+      "badge": "badges/batumi-boulevard.png"
+    },
+    {
+      "id": "alphabet-tower",
+      "name": "Alphabet Tower",
+      "lat": 41.6555,
+      "lng": 41.6489,
+      "radiusM": 80,
+      "address": "Batumi",
+      "howTo": "Visit Alphabet Tower.",
+      "badge": "badges/alphabet-tower.png"
+    }
+  ]
+}

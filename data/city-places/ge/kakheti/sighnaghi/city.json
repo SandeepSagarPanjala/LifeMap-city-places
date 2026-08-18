@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ge/kakheti/sighnaghi",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "stateCode": "KA",
+  "stateName": "Kakheti",
+  "cityName": "Sighnaghi",
+  "bbox": {
+    "minLat": 41.603,
+    "minLng": 45.915,
+    "maxLat": 41.625,
+    "maxLng": 45.94
+  },
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sighnaghi-walls",
+      "name": "Sighnaghi Walls",
+      "lat": 41.619,
+      "lng": 45.9216,
+      "radiusM": 150,
+      "address": "Sighnaghi",
+      "howTo": "Visit Sighnaghi Walls.",
+      "badge": "badges/sighnaghi-walls.png"
+    },
+    {
+      "id": "bodbe-monastery",
+      "name": "Bodbe Monastery",
+      "lat": 41.6065,
+      "lng": 45.9335,
+      "radiusM": 100,
+      "address": "Kakheti",
+      "howTo": "Visit Bodbe Monastery.",
+      "badge": "badges/bodbe-monastery.png"
+    }
+  ]
+}

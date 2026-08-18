@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ge/mtskheta-mtianeti/mtskheta",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "stateCode": "MM",
+  "stateName": "Mtskheta-Mtianeti",
+  "cityName": "Mtskheta",
+  "bbox": {
+    "minLat": 41.835,
+    "minLng": 44.712,
+    "maxLat": 41.846,
+    "maxLng": 44.738
+  },
+  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "svetitskhoveli",
+      "name": "Svetitskhoveli Cathedral",
+      "lat": 41.8422,
+      "lng": 44.7169,
+      "radiusM": 100,
+      "address": "Mtskheta",
+      "howTo": "Visit Svetitskhoveli Cathedral.",
+      "badge": "badges/svetitskhoveli.png"
+    },
+    {
+      "id": "jvari",
+      "name": "Jvari Monastery",
+      "lat": 41.83838,
+      "lng": 44.73347,
+      "radiusM": 80,
+      "address": "Mtskheta",
+      "howTo": "Visit Jvari Monastery.",
+      "badge": "badges/jvari.png"
+    }
+  ]
+}

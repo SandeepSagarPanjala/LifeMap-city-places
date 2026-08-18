@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:01:15.235Z",
+  "generatedAt": "2026-08-18T03:05:24.735Z",
   "cellDeg": 0.5,
-  "cityCount": 809,
+  "cityCount": 814,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -1955,6 +1955,51 @@
         "minLng": -4.1,
         "maxLat": 53.12,
         "maxLng": -3.95
+      }
+    },
+    "ge/adjara/batumi": {
+      "name": "Batumi",
+      "bbox": {
+        "minLat": 41.648,
+        "minLng": 41.63,
+        "maxLat": 41.658,
+        "maxLng": 41.653
+      }
+    },
+    "ge/kakheti/sighnaghi": {
+      "name": "Sighnaghi",
+      "bbox": {
+        "minLat": 41.603,
+        "minLng": 45.915,
+        "maxLat": 41.625,
+        "maxLng": 45.94
+      }
+    },
+    "ge/mtskheta-mtianeti/mtskheta": {
+      "name": "Mtskheta",
+      "bbox": {
+        "minLat": 41.835,
+        "minLng": 44.712,
+        "maxLat": 41.846,
+        "maxLng": 44.738
+      }
+    },
+    "ge/mtskheta-mtianeti/stepantsminda": {
+      "name": "Stepantsminda",
+      "bbox": {
+        "minLat": 42.658,
+        "minLng": 44.615,
+        "maxLat": 42.667,
+        "maxLng": 44.627
+      }
+    },
+    "ge/tbilisi/tbilisi": {
+      "name": "Tbilisi",
+      "bbox": {
+        "minLat": 41.685,
+        "minLng": 44.805,
+        "maxLat": 41.696,
+        "maxLng": 44.82
       }
     },
     "gr/attica/athens": {
@@ -11320,6 +11365,19 @@
     ],
     "96,37": [
       "sk/banska-bystrica/banska-stiavnica"
+    ],
+    "83,89": [
+      "ge/mtskheta-mtianeti/mtskheta",
+      "ge/tbilisi/tbilisi"
+    ],
+    "85,89": [
+      "ge/mtskheta-mtianeti/stepantsminda"
+    ],
+    "83,83": [
+      "ge/adjara/batumi"
+    ],
+    "83,91": [
+      "ge/kakheti/sighnaghi"
     ]
   }
 }
