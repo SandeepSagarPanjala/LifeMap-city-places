@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tn/tunis/sidi-bou-said",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "stateCode": "11",
+  "stateName": "Tunis",
+  "cityName": "Sidi Bou Said",
+  "bbox": {
+    "minLat": 36.865,
+    "minLng": 10.338,
+    "maxLat": 36.874,
+    "maxLng": 10.351
+  },
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sidi-bou-said-village",
+      "name": "Sidi Bou Said Village",
+      "lat": 36.8684,
+      "lng": 10.3419,
+      "radiusM": 150,
+      "address": "Sidi Bou Said",
+      "howTo": "Visit Sidi Bou Said Village.",
+      "badge": "badges/sidi-bou-said-village.png"
+    },
+    {
+      "id": "ennejma-ezzahra",
+      "name": "Ennejma Ezzahra",
+      "lat": 36.8706,
+      "lng": 10.3472,
+      "radiusM": 80,
+      "address": "Sidi Bou Said",
+      "howTo": "Visit Ennejma Ezzahra.",
+      "badge": "badges/ennejma-ezzahra.png"
+    }
+  ]
+}

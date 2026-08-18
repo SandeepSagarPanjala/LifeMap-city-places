@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tn/tunis/tunis",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "stateCode": "11",
+  "stateName": "Tunis",
+  "cityName": "Tunis",
+  "bbox": {
+    "minLat": 36.79,
+    "minLng": 10.125,
+    "maxLat": 36.815,
+    "maxLng": 10.185
+  },
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "medina-tunis",
+      "name": "Medina of Tunis",
+      "lat": 36.799,
+      "lng": 10.1715,
+      "radiusM": 200,
+      "address": "Medina",
+      "howTo": "Visit Medina of Tunis.",
+      "badge": "badges/medina-tunis.png"
+    },
+    {
+      "id": "zitouna-mosque",
+      "name": "Zitouna Mosque",
+      "lat": 36.7972,
+      "lng": 10.1711,
+      "radiusM": 80,
+      "address": "Medina",
+      "howTo": "Visit Zitouna Mosque.",
+      "badge": "badges/zitouna-mosque.png"
+    },
+    {
+      "id": "bardo-museum",
+      "name": "Bardo National Museum",
+      "lat": 36.80944,
+      "lng": 10.13444,
+      "radiusM": 120,
+      "address": "Le Bardo",
+      "howTo": "Visit Bardo National Museum.",
+      "badge": "badges/bardo-museum.png"
+    }
+  ]
+}

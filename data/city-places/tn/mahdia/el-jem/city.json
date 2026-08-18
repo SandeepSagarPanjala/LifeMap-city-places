@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "tn/mahdia/el-jem",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "stateCode": "53",
+  "stateName": "Mahdia",
+  "cityName": "El Jem",
+  "bbox": {
+    "minLat": 35.292,
+    "minLng": 10.702,
+    "maxLat": 35.301,
+    "maxLng": 10.712
+  },
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "amphitheatre-el-jem",
+      "name": "Amphitheatre of El Jem",
+      "lat": 35.2964,
+      "lng": 10.7069,
+      "radiusM": 200,
+      "address": "El Jem",
+      "howTo": "Visit Amphitheatre of El Jem.",
+      "badge": "badges/amphitheatre-el-jem.png"
+    }
+  ]
+}

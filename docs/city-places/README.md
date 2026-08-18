@@ -100,7 +100,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 54. `cr` — Costa Rica (**complete**)
 55. `do` — Dominican Republic (**complete**)
 56. `ro` — Romania (**complete**)
-57. `tn` — Tunisia
+57. `tn` — Tunisia (**complete**)
+58. `pa` — Panama
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tn/tunis/carthage",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "stateCode": "11",
+  "stateName": "Tunis",
+  "cityName": "Carthage",
+  "bbox": {
+    "minLat": 36.848,
+    "minLng": 10.318,
+    "maxLat": 36.858,
+    "maxLng": 10.34
+  },
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "antonine-baths",
+      "name": "Antonine Baths",
+      "lat": 36.8543,
+      "lng": 10.3351,
+      "radiusM": 200,
+      "address": "Carthage",
+      "howTo": "Visit Antonine Baths.",
+      "badge": "badges/antonine-baths.png"
+    },
+    {
+      "id": "byrsa-hill",
+      "name": "Byrsa Hill",
+      "lat": 36.85222,
+      "lng": 10.32389,
+      "radiusM": 150,
+      "address": "Carthage",
+      "howTo": "Visit Byrsa Hill.",
+      "badge": "badges/byrsa-hill.png"
+    }
+  ]
+}

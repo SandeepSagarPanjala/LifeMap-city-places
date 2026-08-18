@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T01:55:21.000Z",
-  "notes": "Romania (ro) complete. Next: Tunisia (tn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "notes": "Tunisia (tn) complete. Next: Panama (pa) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -13718,6 +13718,104 @@
                 "minLng": 24.788,
                 "maxLat": 46.222,
                 "maxLng": 24.796
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tn",
+      "countryCode": "TN",
+      "name": "Tunisia",
+      "states": [
+        {
+          "id": "tunis",
+          "stateCode": "11",
+          "name": "Tunis",
+          "cities": [
+            {
+              "id": "tunis",
+              "name": "Tunis",
+              "status": "complete",
+              "packPath": "tn/tunis/tunis/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:03:46.000Z",
+              "bbox": {
+                "minLat": 36.79,
+                "minLng": 10.125,
+                "maxLat": 36.815,
+                "maxLng": 10.185
+              }
+            },
+            {
+              "id": "carthage",
+              "name": "Carthage",
+              "status": "complete",
+              "packPath": "tn/tunis/carthage/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:03:46.000Z",
+              "bbox": {
+                "minLat": 36.848,
+                "minLng": 10.318,
+                "maxLat": 36.858,
+                "maxLng": 10.34
+              }
+            },
+            {
+              "id": "sidi-bou-said",
+              "name": "Sidi Bou Said",
+              "status": "complete",
+              "packPath": "tn/tunis/sidi-bou-said/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T02:03:46.000Z",
+              "bbox": {
+                "minLat": 36.865,
+                "minLng": 10.338,
+                "maxLat": 36.874,
+                "maxLng": 10.351
+              }
+            }
+          ]
+        },
+        {
+          "id": "mahdia",
+          "stateCode": "53",
+          "name": "Mahdia",
+          "cities": [
+            {
+              "id": "el-jem",
+              "name": "El Jem",
+              "status": "complete",
+              "packPath": "tn/mahdia/el-jem/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T02:03:46.000Z",
+              "bbox": {
+                "minLat": 35.292,
+                "minLng": 10.702,
+                "maxLat": 35.301,
+                "maxLng": 10.712
+              }
+            }
+          ]
+        },
+        {
+          "id": "tozeur",
+          "stateCode": "72",
+          "name": "Tozeur",
+          "cities": [
+            {
+              "id": "tozeur",
+              "name": "Tozeur",
+              "status": "complete",
+              "packPath": "tn/tozeur/tozeur/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T02:03:46.000Z",
+              "bbox": {
+                "minLat": 33.9,
+                "minLng": 7.82,
+                "maxLat": 34.34,
+                "maxLng": 8.16
               }
             }
           ]

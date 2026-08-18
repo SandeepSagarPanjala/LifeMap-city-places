@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "tn/tozeur/tozeur",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "stateCode": "72",
+  "stateName": "Tozeur",
+  "cityName": "Tozeur",
+  "bbox": {
+    "minLat": 33.9,
+    "minLng": 7.82,
+    "maxLat": 34.34,
+    "maxLng": 8.16
+  },
+  "updatedAt": "2026-08-18T02:03:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tozeur-medina",
+      "name": "Tozeur Medina",
+      "lat": 33.9197,
+      "lng": 8.1336,
+      "radiusM": 150,
+      "address": "Ouled El Hadef",
+      "howTo": "Visit Tozeur Medina.",
+      "badge": "badges/tozeur-medina.png"
+    },
+    {
+      "id": "chebika-oasis",
+      "name": "Chebika Oasis",
+      "lat": 34.3206,
+      "lng": 7.9428,
+      "radiusM": 250,
+      "address": "Chebika",
+      "howTo": "Visit Chebika Oasis.",
+      "badge": "badges/chebika-oasis.png"
+    },
+    {
+      "id": "ong-jemel",
+      "name": "Ong Jemel",
+      "lat": 34.0044,
+      "lng": 7.8478,
+      "radiusM": 250,
+      "address": "Chott el Gharsa",
+      "howTo": "Visit Ong Jemel.",
+      "badge": "badges/ong-jemel.png"
+    }
+  ]
+}

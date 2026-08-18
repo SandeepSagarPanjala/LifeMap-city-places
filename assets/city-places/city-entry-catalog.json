@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:55:21.513Z",
+  "generatedAt": "2026-08-18T02:03:47.020Z",
   "cellDeg": 0.5,
-  "cityCount": 739,
+  "cityCount": 744,
   "cities": {
     "ae/abu-dhabi/abu-dhabi": {
       "name": "Abu Dhabi",
@@ -4826,6 +4826,51 @@
         "minLng": 99.69,
         "maxLat": 17.03,
         "maxLng": 99.71
+      }
+    },
+    "tn/mahdia/el-jem": {
+      "name": "El Jem",
+      "bbox": {
+        "minLat": 35.292,
+        "minLng": 10.702,
+        "maxLat": 35.301,
+        "maxLng": 10.712
+      }
+    },
+    "tn/tozeur/tozeur": {
+      "name": "Tozeur",
+      "bbox": {
+        "minLat": 33.9,
+        "minLng": 7.82,
+        "maxLat": 34.34,
+        "maxLng": 8.16
+      }
+    },
+    "tn/tunis/carthage": {
+      "name": "Carthage",
+      "bbox": {
+        "minLat": 36.848,
+        "minLng": 10.318,
+        "maxLat": 36.858,
+        "maxLng": 10.34
+      }
+    },
+    "tn/tunis/sidi-bou-said": {
+      "name": "Sidi Bou Said",
+      "bbox": {
+        "minLat": 36.865,
+        "minLng": 10.338,
+        "maxLat": 36.874,
+        "maxLng": 10.351
+      }
+    },
+    "tn/tunis/tunis": {
+      "name": "Tunis",
+      "bbox": {
+        "minLat": 36.79,
+        "minLng": 10.125,
+        "maxLat": 36.815,
+        "maxLng": 10.185
       }
     },
     "tr/antalya/antalya": {
@@ -10424,6 +10469,26 @@
     ],
     "92,49": [
       "ro/mures/sighisoara"
+    ],
+    "73,20": [
+      "tn/tunis/carthage",
+      "tn/tunis/sidi-bou-said",
+      "tn/tunis/tunis"
+    ],
+    "70,21": [
+      "tn/mahdia/el-jem"
+    ],
+    "67,15": [
+      "tn/tozeur/tozeur"
+    ],
+    "67,16": [
+      "tn/tozeur/tozeur"
+    ],
+    "68,15": [
+      "tn/tozeur/tozeur"
+    ],
+    "68,16": [
+      "tn/tozeur/tozeur"
     ]
   }
 }
