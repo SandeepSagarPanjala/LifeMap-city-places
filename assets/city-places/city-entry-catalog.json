@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T04:11:51.353Z",
+  "generatedAt": "2026-08-18T04:18:46.265Z",
   "cellDeg": 0.5,
-  "cityCount": 884,
+  "cityCount": 889,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7789,6 +7789,51 @@
         "maxLng": -53.775
       }
     },
+    "uz/bukhara/bukhara": {
+      "name": "Bukhara",
+      "bbox": {
+        "minLat": 39.771,
+        "minLng": 64.408,
+        "maxLat": 39.78,
+        "maxLng": 64.423
+      }
+    },
+    "uz/qashqadaryo/shakhrisabz": {
+      "name": "Shakhrisabz",
+      "bbox": {
+        "minLat": 39.052,
+        "minLng": 66.826,
+        "maxLat": 39.058,
+        "maxLng": 66.833
+      }
+    },
+    "uz/samarqand/samarkand": {
+      "name": "Samarkand",
+      "bbox": {
+        "minLat": 39.646,
+        "minLng": 66.966,
+        "maxLat": 39.663,
+        "maxLng": 66.982
+      }
+    },
+    "uz/tashkent/tashkent": {
+      "name": "Tashkent",
+      "bbox": {
+        "minLat": 41.323,
+        "minLng": 69.232,
+        "maxLat": 41.329,
+        "maxLng": 69.245
+      }
+    },
+    "uz/xorazm/khiva": {
+      "name": "Khiva",
+      "bbox": {
+        "minLat": 41.375,
+        "minLng": 60.355,
+        "maxLat": 41.381,
+        "maxLng": 60.363
+      }
+    },
     "vn/da-nang/da-nang": {
       "name": "Da Nang",
       "bbox": {
@@ -12202,6 +12247,21 @@
       "ad/encamp/encamp",
       "ad/escaldes-engordany/escaldes-engordany",
       "ad/ordino/ordino"
+    ],
+    "82,138": [
+      "uz/tashkent/tashkent"
+    ],
+    "79,133": [
+      "uz/samarqand/samarkand"
+    ],
+    "79,128": [
+      "uz/bukhara/bukhara"
+    ],
+    "82,120": [
+      "uz/xorazm/khiva"
+    ],
+    "78,133": [
+      "uz/qashqadaryo/shakhrisabz"
     ]
   }
 }

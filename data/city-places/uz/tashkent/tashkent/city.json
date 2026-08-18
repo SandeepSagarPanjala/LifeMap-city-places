@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uz/tashkent/tashkent",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "stateCode": "TK",
+  "stateName": "Tashkent",
+  "cityName": "Tashkent",
+  "bbox": {
+    "minLat": 41.323,
+    "minLng": 69.232,
+    "maxLat": 41.329,
+    "maxLng": 69.245
+  },
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hast-imam",
+      "name": "Hast Imam",
+      "lat": 41.3258,
+      "lng": 69.2417,
+      "radiusM": 100,
+      "address": "Tashkent",
+      "howTo": "Visit Hast Imam.",
+      "badge": "badges/hast-imam.png"
+    },
+    {
+      "id": "chorsu-bazaar",
+      "name": "Chorsu Bazaar",
+      "lat": 41.3264,
+      "lng": 69.235,
+      "radiusM": 120,
+      "address": "Tashkent",
+      "howTo": "Visit Chorsu Bazaar.",
+      "badge": "badges/chorsu-bazaar.png"
+    }
+  ]
+}

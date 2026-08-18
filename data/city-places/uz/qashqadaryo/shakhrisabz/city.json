@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "uz/qashqadaryo/shakhrisabz",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "stateCode": "QA",
+  "stateName": "Qashqadaryo",
+  "cityName": "Shakhrisabz",
+  "bbox": {
+    "minLat": 39.052,
+    "minLng": 66.826,
+    "maxLat": 39.058,
+    "maxLng": 66.833
+  },
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ak-saray",
+      "name": "Ak-Saray",
+      "lat": 39.055,
+      "lng": 66.82917,
+      "radiusM": 80,
+      "address": "Shakhrisabz",
+      "howTo": "Visit Ak-Saray.",
+      "badge": "badges/ak-saray.png"
+    }
+  ]
+}

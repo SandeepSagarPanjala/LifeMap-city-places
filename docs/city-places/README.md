@@ -129,7 +129,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 83. `kw` — Kuwait (**complete**)
 84. `xk` — Kosovo (**complete**)
 85. `ad` — Andorra (**complete**)
-86. `mt` — Malta
+86. `uz` — Uzbekistan (**complete**)
+87. `la` — Laos
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

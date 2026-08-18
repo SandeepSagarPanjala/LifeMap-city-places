@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uz/xorazm/khiva",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "stateCode": "XO",
+  "stateName": "Xorazm",
+  "cityName": "Khiva",
+  "bbox": {
+    "minLat": 41.375,
+    "minLng": 60.355,
+    "maxLat": 41.381,
+    "maxLng": 60.363
+  },
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kalta-minor",
+      "name": "Kalta Minor",
+      "lat": 41.37833,
+      "lng": 60.3575,
+      "radiusM": 50,
+      "address": "Khiva",
+      "howTo": "Visit Kalta Minor.",
+      "badge": "badges/kalta-minor.png"
+    },
+    {
+      "id": "islam-khodja",
+      "name": "Islam Khodja Minaret",
+      "lat": 41.37722,
+      "lng": 60.36028,
+      "radiusM": 50,
+      "address": "Khiva",
+      "howTo": "Visit Islam Khodja Minaret.",
+      "badge": "badges/islam-khodja.png"
+    }
+  ]
+}

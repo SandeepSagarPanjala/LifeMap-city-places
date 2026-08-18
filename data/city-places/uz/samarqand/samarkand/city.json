@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "uz/samarqand/samarkand",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "stateCode": "SA",
+  "stateName": "Samarqand",
+  "cityName": "Samarkand",
+  "bbox": {
+    "minLat": 39.646,
+    "minLng": 66.966,
+    "maxLat": 39.663,
+    "maxLng": 66.982
+  },
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "registan",
+      "name": "Registan",
+      "lat": 39.65472,
+      "lng": 66.97556,
+      "radiusM": 120,
+      "address": "Samarkand",
+      "howTo": "Visit Registan.",
+      "badge": "badges/registan.png"
+    },
+    {
+      "id": "gur-e-amir",
+      "name": "Gur-e-Amir",
+      "lat": 39.64833,
+      "lng": 66.96889,
+      "radiusM": 80,
+      "address": "Samarkand",
+      "howTo": "Visit Gur-e-Amir.",
+      "badge": "badges/gur-e-amir.png"
+    },
+    {
+      "id": "bibi-khanym",
+      "name": "Bibi-Khanym Mosque",
+      "lat": 39.66056,
+      "lng": 66.97917,
+      "radiusM": 80,
+      "address": "Samarkand",
+      "howTo": "Visit Bibi-Khanym Mosque.",
+      "badge": "badges/bibi-khanym.png"
+    }
+  ]
+}

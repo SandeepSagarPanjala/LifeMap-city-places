@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T04:11:51.000Z",
-  "notes": "Andorra (ad) complete. Next: Malta (mt) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "notes": "Uzbekistan (uz) complete. Next: Laos (la) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -16784,6 +16784,118 @@
                 "minLng": 1.58,
                 "maxLat": 42.538,
                 "maxLng": 1.585
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uz",
+      "countryCode": "UZ",
+      "name": "Uzbekistan",
+      "states": [
+        {
+          "id": "tashkent",
+          "stateCode": "TK",
+          "name": "Tashkent",
+          "cities": [
+            {
+              "id": "tashkent",
+              "name": "Tashkent",
+              "status": "complete",
+              "packPath": "uz/tashkent/tashkent/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:18:46.000Z",
+              "bbox": {
+                "minLat": 41.323,
+                "minLng": 69.232,
+                "maxLat": 41.329,
+                "maxLng": 69.245
+              }
+            }
+          ]
+        },
+        {
+          "id": "samarqand",
+          "stateCode": "SA",
+          "name": "Samarqand",
+          "cities": [
+            {
+              "id": "samarkand",
+              "name": "Samarkand",
+              "status": "complete",
+              "packPath": "uz/samarqand/samarkand/city.json",
+              "placeCount": 3,
+              "completedAt": "2026-08-18T04:18:46.000Z",
+              "bbox": {
+                "minLat": 39.646,
+                "minLng": 66.966,
+                "maxLat": 39.663,
+                "maxLng": 66.982
+              }
+            }
+          ]
+        },
+        {
+          "id": "bukhara",
+          "stateCode": "BU",
+          "name": "Bukhara",
+          "cities": [
+            {
+              "id": "bukhara",
+              "name": "Bukhara",
+              "status": "complete",
+              "packPath": "uz/bukhara/bukhara/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:18:46.000Z",
+              "bbox": {
+                "minLat": 39.771,
+                "minLng": 64.408,
+                "maxLat": 39.78,
+                "maxLng": 64.423
+              }
+            }
+          ]
+        },
+        {
+          "id": "xorazm",
+          "stateCode": "XO",
+          "name": "Xorazm",
+          "cities": [
+            {
+              "id": "khiva",
+              "name": "Khiva",
+              "status": "complete",
+              "packPath": "uz/xorazm/khiva/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-18T04:18:46.000Z",
+              "bbox": {
+                "minLat": 41.375,
+                "minLng": 60.355,
+                "maxLat": 41.381,
+                "maxLng": 60.363
+              }
+            }
+          ]
+        },
+        {
+          "id": "qashqadaryo",
+          "stateCode": "QA",
+          "name": "Qashqadaryo",
+          "cities": [
+            {
+              "id": "shakhrisabz",
+              "name": "Shakhrisabz",
+              "status": "complete",
+              "packPath": "uz/qashqadaryo/shakhrisabz/city.json",
+              "placeCount": 1,
+              "completedAt": "2026-08-18T04:18:46.000Z",
+              "bbox": {
+                "minLat": 39.052,
+                "minLng": 66.826,
+                "maxLat": 39.058,
+                "maxLng": 66.833
               }
             }
           ]

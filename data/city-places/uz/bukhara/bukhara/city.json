@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "uz/bukhara/bukhara",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "stateCode": "BU",
+  "stateName": "Bukhara",
+  "cityName": "Bukhara",
+  "bbox": {
+    "minLat": 39.771,
+    "minLng": 64.408,
+    "maxLat": 39.78,
+    "maxLng": 64.423
+  },
+  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kalyan-minaret",
+      "name": "Kalyan Minaret",
+      "lat": 39.77583,
+      "lng": 64.41417,
+      "radiusM": 60,
+      "address": "Bukhara",
+      "howTo": "Visit Kalyan Minaret.",
+      "badge": "badges/kalyan-minaret.png"
+    },
+    {
+      "id": "ark-of-bukhara",
+      "name": "Ark of Bukhara",
+      "lat": 39.77778,
+      "lng": 64.41028,
+      "radiusM": 100,
+      "address": "Bukhara",
+      "howTo": "Visit Ark of Bukhara.",
+      "badge": "badges/ark-of-bukhara.png"
+    }
+  ]
+}
