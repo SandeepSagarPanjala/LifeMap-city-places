@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mr/nouakchott/nouakchott",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "stateCode": "NKC",
+  "stateName": "Nouakchott",
+  "cityName": "Nouakchott",
+  "bbox": {
+    "minLat": 18.089,
+    "minLng": -15.977,
+    "maxLat": 18.097,
+    "maxLng": -15.969
+  },
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grande-mosquee",
+      "name": "Grande Mosquee",
+      "lat": 18.09045,
+      "lng": -15.97563,
+      "radiusM": 50,
+      "address": "Nouakchott",
+      "howTo": "Visit Grande Mosquee.",
+      "badge": "badges/grande-mosquee.png"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Palais Presidentiel",
+      "lat": 18.09494,
+      "lng": -15.97062,
+      "radiusM": 50,
+      "address": "Nouakchott",
+      "howTo": "Visit Palais Presidentiel.",
+      "badge": "badges/presidential-palace.png"
+    }
+  ]
+}

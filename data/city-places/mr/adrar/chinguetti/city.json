@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mr/adrar/chinguetti",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "stateCode": "07",
+  "stateName": "Adrar",
+  "cityName": "Chinguetti",
+  "bbox": {
+    "minLat": 20.473,
+    "minLng": -12.334,
+    "maxLat": 20.478,
+    "maxLng": -12.327
+  },
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chinguetti-mosque",
+      "name": "Chinguetti Mosque",
+      "lat": 20.47443,
+      "lng": -12.33218,
+      "radiusM": 40,
+      "address": "Chinguetti",
+      "howTo": "Visit Chinguetti Mosque.",
+      "badge": "badges/chinguetti-mosque.png"
+    },
+    {
+      "id": "chinguetti-ksar",
+      "name": "Chinguetti Ksar",
+      "lat": 20.4765,
+      "lng": -12.329,
+      "radiusM": 60,
+      "address": "Chinguetti",
+      "howTo": "Visit Chinguetti Ksar.",
+      "badge": "badges/chinguetti-ksar.png"
+    }
+  ]
+}

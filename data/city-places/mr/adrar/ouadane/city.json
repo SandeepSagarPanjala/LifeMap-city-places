@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mr/adrar/ouadane",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "stateCode": "07",
+  "stateName": "Adrar",
+  "cityName": "Ouadane",
+  "bbox": {
+    "minLat": 20.932,
+    "minLng": -11.619,
+    "maxLat": 20.938,
+    "maxLng": -11.612
+  },
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ouadane",
+      "name": "Ouadane",
+      "lat": 20.93373,
+      "lng": -11.61737,
+      "radiusM": 80,
+      "address": "Adrar",
+      "howTo": "Visit Ouadane.",
+      "badge": "badges/ouadane.png"
+    },
+    {
+      "id": "ouadane-walls",
+      "name": "Ouadane Walls",
+      "lat": 20.936,
+      "lng": -11.6145,
+      "radiusM": 60,
+      "address": "Adrar",
+      "howTo": "Visit Ouadane Walls.",
+      "badge": "badges/ouadane-walls.png"
+    }
+  ]
+}

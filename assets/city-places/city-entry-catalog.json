@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:18:04.319Z",
+  "generatedAt": "2026-08-19T02:23:24.349Z",
   "cellDeg": 0.5,
-  "cityCount": 1069,
+  "cityCount": 1074,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5744,6 +5744,51 @@
         "minLng": 106.892,
         "maxLat": 47.924,
         "maxLng": 106.919
+      }
+    },
+    "mr/adrar/chinguetti": {
+      "name": "Chinguetti",
+      "bbox": {
+        "minLat": 20.473,
+        "minLng": -12.334,
+        "maxLat": 20.478,
+        "maxLng": -12.327
+      }
+    },
+    "mr/adrar/ouadane": {
+      "name": "Ouadane",
+      "bbox": {
+        "minLat": 20.932,
+        "minLng": -11.619,
+        "maxLat": 20.938,
+        "maxLng": -11.612
+      }
+    },
+    "mr/adrar/terjit": {
+      "name": "Terjit",
+      "bbox": {
+        "minLat": 20.256,
+        "minLng": -13.098,
+        "maxLat": 20.262,
+        "maxLng": -13.091
+      }
+    },
+    "mr/hodh-ech-chargui/oualata": {
+      "name": "Oualata",
+      "bbox": {
+        "minLat": 17.299,
+        "minLng": -7.027,
+        "maxLat": 17.302,
+        "maxLng": -7.023
+      }
+    },
+    "mr/nouakchott/nouakchott": {
+      "name": "Nouakchott",
+      "bbox": {
+        "minLat": 18.089,
+        "minLng": -15.977,
+        "maxLat": 18.097,
+        "maxLng": -15.969
       }
     },
     "mt/gozo/comino": {
@@ -14378,6 +14423,21 @@
     ],
     "24,-34": [
       "gw/cacheu/varela"
+    ],
+    "36,-32": [
+      "mr/nouakchott/nouakchott"
+    ],
+    "40,-25": [
+      "mr/adrar/chinguetti"
+    ],
+    "41,-24": [
+      "mr/adrar/ouadane"
+    ],
+    "40,-27": [
+      "mr/adrar/terjit"
+    ],
+    "34,-15": [
+      "mr/hodh-ech-chargui/oualata"
     ]
   }
 }

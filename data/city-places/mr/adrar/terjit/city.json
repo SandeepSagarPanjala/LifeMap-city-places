@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mr/adrar/terjit",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "stateCode": "07",
+  "stateName": "Adrar",
+  "cityName": "Terjit",
+  "bbox": {
+    "minLat": 20.256,
+    "minLng": -13.098,
+    "maxLat": 20.262,
+    "maxLng": -13.091
+  },
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "terjit",
+      "name": "Terjit",
+      "lat": 20.25816,
+      "lng": -13.09645,
+      "radiusM": 80,
+      "address": "Adrar",
+      "howTo": "Visit Terjit.",
+      "badge": "badges/terjit.png"
+    },
+    {
+      "id": "terjit-oasis",
+      "name": "Terjit Oasis",
+      "lat": 20.2605,
+      "lng": -13.0935,
+      "radiusM": 60,
+      "address": "Adrar",
+      "howTo": "Visit Terjit Oasis.",
+      "badge": "badges/terjit-oasis.png"
+    }
+  ]
+}

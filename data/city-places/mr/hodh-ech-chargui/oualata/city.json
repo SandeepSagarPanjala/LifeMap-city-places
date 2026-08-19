@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mr/hodh-ech-chargui/oualata",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "stateCode": "01",
+  "stateName": "Hodh Ech Chargui",
+  "cityName": "Oualata",
+  "bbox": {
+    "minLat": 17.299,
+    "minLng": -7.027,
+    "maxLat": 17.302,
+    "maxLng": -7.023
+  },
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "oualata",
+      "name": "Oualata",
+      "lat": 17.30047,
+      "lng": -7.02581,
+      "radiusM": 50,
+      "address": "Hodh Ech Chargui",
+      "howTo": "Visit Oualata.",
+      "badge": "badges/oualata.png"
+    },
+    {
+      "id": "oualata-mosque",
+      "name": "Mosquee El-Mahabba",
+      "lat": 17.30039,
+      "lng": -7.02423,
+      "radiusM": 40,
+      "address": "Oualata",
+      "howTo": "Visit Mosquee El-Mahabba.",
+      "badge": "badges/oualata-mosque.png"
+    }
+  ]
+}

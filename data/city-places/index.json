@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:18:04.000Z",
-  "notes": "Guinea-Bissau (gw) complete. Next: Mauritania (mr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:23:24.000Z",
+  "notes": "Mauritania (mr) complete. Next: Niger (ne) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20585,6 +20585,104 @@
                 "minLng": -16.59,
                 "maxLat": 12.295,
                 "maxLng": -16.582
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mr",
+      "countryCode": "MR",
+      "name": "Mauritania",
+      "states": [
+        {
+          "id": "nouakchott",
+          "stateCode": "NKC",
+          "name": "Nouakchott",
+          "cities": [
+            {
+              "id": "nouakchott",
+              "name": "Nouakchott",
+              "status": "complete",
+              "packPath": "mr/nouakchott/nouakchott/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:23:24.000Z",
+              "bbox": {
+                "minLat": 18.089,
+                "minLng": -15.977,
+                "maxLat": 18.097,
+                "maxLng": -15.969
+              }
+            }
+          ]
+        },
+        {
+          "id": "adrar",
+          "stateCode": "07",
+          "name": "Adrar",
+          "cities": [
+            {
+              "id": "chinguetti",
+              "name": "Chinguetti",
+              "status": "complete",
+              "packPath": "mr/adrar/chinguetti/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:23:24.000Z",
+              "bbox": {
+                "minLat": 20.473,
+                "minLng": -12.334,
+                "maxLat": 20.478,
+                "maxLng": -12.327
+              }
+            },
+            {
+              "id": "ouadane",
+              "name": "Ouadane",
+              "status": "complete",
+              "packPath": "mr/adrar/ouadane/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:23:24.000Z",
+              "bbox": {
+                "minLat": 20.932,
+                "minLng": -11.619,
+                "maxLat": 20.938,
+                "maxLng": -11.612
+              }
+            },
+            {
+              "id": "terjit",
+              "name": "Terjit",
+              "status": "complete",
+              "packPath": "mr/adrar/terjit/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:23:24.000Z",
+              "bbox": {
+                "minLat": 20.256,
+                "minLng": -13.098,
+                "maxLat": 20.262,
+                "maxLng": -13.091
+              }
+            }
+          ]
+        },
+        {
+          "id": "hodh-ech-chargui",
+          "stateCode": "01",
+          "name": "Hodh Ech Chargui",
+          "cities": [
+            {
+              "id": "oualata",
+              "name": "Oualata",
+              "status": "complete",
+              "packPath": "mr/hodh-ech-chargui/oualata/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:23:24.000Z",
+              "bbox": {
+                "minLat": 17.299,
+                "minLng": -7.027,
+                "maxLat": 17.302,
+                "maxLng": -7.023
               }
             }
           ]
