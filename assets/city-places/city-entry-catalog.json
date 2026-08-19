@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:01:51.839Z",
+  "generatedAt": "2026-08-19T01:06:52.757Z",
   "cellDeg": 0.5,
-  "cityCount": 999,
+  "cityCount": 1004,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6752,6 +6752,51 @@
         "minLng": -16.507,
         "maxLat": 16.031,
         "maxLng": -16.499
+      }
+    },
+    "sz/hhohho/lobamba": {
+      "name": "Lobamba",
+      "bbox": {
+        "minLat": -26.449,
+        "minLng": 31.203,
+        "maxLat": -26.441,
+        "maxLng": 31.21
+      }
+    },
+    "sz/hhohho/malolotja": {
+      "name": "Malolotja",
+      "bbox": {
+        "minLat": -26.122,
+        "minLng": 31.1,
+        "maxLat": -26.114,
+        "maxLng": 31.108
+      }
+    },
+    "sz/hhohho/mantenga": {
+      "name": "Mantenga",
+      "bbox": {
+        "minLat": -26.448,
+        "minLng": 31.156,
+        "maxLat": -26.44,
+        "maxLng": 31.164
+      }
+    },
+    "sz/hhohho/mlilwane": {
+      "name": "Mlilwane",
+      "bbox": {
+        "minLat": -26.442,
+        "minLng": 31.132,
+        "maxLat": -26.433,
+        "maxLng": 31.14
+      }
+    },
+    "sz/hhohho/sibebe": {
+      "name": "Sibebe",
+      "bbox": {
+        "minLat": -26.269,
+        "minLng": 31.17,
+        "maxLat": -26.26,
+        "maxLng": 31.178
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -13581,6 +13626,13 @@
     ],
     "-60,58": [
       "ls/qachas-nek/sehlabathebe"
+    ],
+    "-53,62": [
+      "sz/hhohho/lobamba",
+      "sz/hhohho/malolotja",
+      "sz/hhohho/mantenga",
+      "sz/hhohho/mlilwane",
+      "sz/hhohho/sibebe"
     ]
   }
 }

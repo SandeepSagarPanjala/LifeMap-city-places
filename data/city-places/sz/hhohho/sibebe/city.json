@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sz/hhohho/sibebe",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "stateCode": "HH",
+  "stateName": "Hhohho",
+  "cityName": "Sibebe",
+  "bbox": {
+    "minLat": -26.269,
+    "minLng": 31.17,
+    "maxLat": -26.26,
+    "maxLng": 31.178
+  },
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sibebe-rock",
+      "name": "Sibebe Rock",
+      "lat": -26.26258,
+      "lng": 31.17251,
+      "radiusM": 200,
+      "address": "Sibebe",
+      "howTo": "Visit Sibebe Rock.",
+      "badge": "badges/sibebe-rock.png"
+    },
+    {
+      "id": "sibebe-granite",
+      "name": "Sibebe Granite",
+      "lat": -26.267,
+      "lng": 31.176,
+      "radiusM": 150,
+      "address": "Sibebe",
+      "howTo": "Visit Sibebe Granite.",
+      "badge": "badges/sibebe-granite.png"
+    }
+  ]
+}

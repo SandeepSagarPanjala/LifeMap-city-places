@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sz/hhohho/mlilwane",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "stateCode": "HH",
+  "stateName": "Hhohho",
+  "cityName": "Mlilwane",
+  "bbox": {
+    "minLat": -26.442,
+    "minLng": 31.132,
+    "maxLat": -26.433,
+    "maxLng": 31.14
+  },
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mlilwane",
+      "name": "Mlilwane Wildlife Sanctuary",
+      "lat": -26.43534,
+      "lng": 31.1341,
+      "radiusM": 250,
+      "address": "Mlilwane",
+      "howTo": "Visit Mlilwane Wildlife Sanctuary.",
+      "badge": "badges/mlilwane.png"
+    },
+    {
+      "id": "mlilwane-hills",
+      "name": "Mlilwane Hills",
+      "lat": -26.44,
+      "lng": 31.138,
+      "radiusM": 200,
+      "address": "Mlilwane",
+      "howTo": "Visit Mlilwane Hills.",
+      "badge": "badges/mlilwane-hills.png"
+    }
+  ]
+}

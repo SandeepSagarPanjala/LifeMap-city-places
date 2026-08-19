@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sz/hhohho/mantenga",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "stateCode": "HH",
+  "stateName": "Hhohho",
+  "cityName": "Mantenga",
+  "bbox": {
+    "minLat": -26.448,
+    "minLng": 31.156,
+    "maxLat": -26.44,
+    "maxLng": 31.164
+  },
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mantenga-falls",
+      "name": "Mantenga Falls",
+      "lat": -26.44244,
+      "lng": 31.15879,
+      "radiusM": 80,
+      "address": "Mantenga",
+      "howTo": "Visit Mantenga Falls.",
+      "badge": "badges/mantenga-falls.png"
+    },
+    {
+      "id": "mantenga-river",
+      "name": "Mantenga River",
+      "lat": -26.446,
+      "lng": 31.162,
+      "radiusM": 80,
+      "address": "Mantenga",
+      "howTo": "Visit Mantenga River.",
+      "badge": "badges/mantenga-river.png"
+    }
+  ]
+}

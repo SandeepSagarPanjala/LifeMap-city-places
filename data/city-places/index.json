@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:01:51.000Z",
-  "notes": "Lesotho (ls) complete. Next: Eswatini (sz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "notes": "Eswatini (sz) complete. Next: Benin (bj) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19164,6 +19164,90 @@
                 "minLng": 29.114,
                 "maxLat": -29.906,
                 "maxLng": 29.124
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sz",
+      "countryCode": "SZ",
+      "name": "Eswatini",
+      "states": [
+        {
+          "id": "hhohho",
+          "stateCode": "HH",
+          "name": "Hhohho",
+          "cities": [
+            {
+              "id": "lobamba",
+              "name": "Lobamba",
+              "status": "complete",
+              "packPath": "sz/hhohho/lobamba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:06:52.000Z",
+              "bbox": {
+                "minLat": -26.449,
+                "minLng": 31.203,
+                "maxLat": -26.441,
+                "maxLng": 31.21
+              }
+            },
+            {
+              "id": "sibebe",
+              "name": "Sibebe",
+              "status": "complete",
+              "packPath": "sz/hhohho/sibebe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:06:52.000Z",
+              "bbox": {
+                "minLat": -26.269,
+                "minLng": 31.17,
+                "maxLat": -26.26,
+                "maxLng": 31.178
+              }
+            },
+            {
+              "id": "mantenga",
+              "name": "Mantenga",
+              "status": "complete",
+              "packPath": "sz/hhohho/mantenga/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:06:52.000Z",
+              "bbox": {
+                "minLat": -26.448,
+                "minLng": 31.156,
+                "maxLat": -26.44,
+                "maxLng": 31.164
+              }
+            },
+            {
+              "id": "mlilwane",
+              "name": "Mlilwane",
+              "status": "complete",
+              "packPath": "sz/hhohho/mlilwane/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:06:52.000Z",
+              "bbox": {
+                "minLat": -26.442,
+                "minLng": 31.132,
+                "maxLat": -26.433,
+                "maxLng": 31.14
+              }
+            },
+            {
+              "id": "malolotja",
+              "name": "Malolotja",
+              "status": "complete",
+              "packPath": "sz/hhohho/malolotja/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:06:52.000Z",
+              "bbox": {
+                "minLat": -26.122,
+                "minLng": 31.1,
+                "maxLat": -26.114,
+                "maxLng": 31.108
               }
             }
           ]

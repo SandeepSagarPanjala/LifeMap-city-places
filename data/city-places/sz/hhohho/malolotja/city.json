@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sz/hhohho/malolotja",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "stateCode": "HH",
+  "stateName": "Hhohho",
+  "cityName": "Malolotja",
+  "bbox": {
+    "minLat": -26.122,
+    "minLng": 31.1,
+    "maxLat": -26.114,
+    "maxLng": 31.108
+  },
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "malolotja-falls",
+      "name": "Malolotja Falls",
+      "lat": -26.11674,
+      "lng": 31.1027,
+      "radiusM": 120,
+      "address": "Malolotja",
+      "howTo": "Visit Malolotja Falls.",
+      "badge": "badges/malolotja-falls.png"
+    },
+    {
+      "id": "malolotja-gorge",
+      "name": "Malolotja Gorge",
+      "lat": -26.12,
+      "lng": 31.106,
+      "radiusM": 150,
+      "address": "Malolotja",
+      "howTo": "Visit Malolotja Gorge.",
+      "badge": "badges/malolotja-gorge.png"
+    }
+  ]
+}

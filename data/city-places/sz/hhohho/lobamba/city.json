@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sz/hhohho/lobamba",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "stateCode": "HH",
+  "stateName": "Hhohho",
+  "cityName": "Lobamba",
+  "bbox": {
+    "minLat": -26.449,
+    "minLng": 31.203,
+    "maxLat": -26.441,
+    "maxLng": 31.21
+  },
+  "updatedAt": "2026-08-19T01:06:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "national-museum",
+      "name": "Swaziland National Museum",
+      "lat": -26.44675,
+      "lng": 31.20765,
+      "radiusM": 50,
+      "address": "Lobamba",
+      "howTo": "Visit Swaziland National Museum.",
+      "badge": "badges/national-museum.png"
+    },
+    {
+      "id": "somhlolo-stadium",
+      "name": "Somhlolo National Stadium",
+      "lat": -26.44293,
+      "lng": 31.20549,
+      "radiusM": 80,
+      "address": "Lobamba",
+      "howTo": "Visit Somhlolo National Stadium.",
+      "badge": "badges/somhlolo-stadium.png"
+    }
+  ]
+}
