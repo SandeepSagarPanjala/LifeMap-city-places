@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mg/analamanga/antananarivo",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "stateCode": "T",
+  "stateName": "Analamanga",
+  "cityName": "Antananarivo",
+  "bbox": {
+    "minLat": -18.926,
+    "minLng": 47.518,
+    "maxLat": -18.913,
+    "maxLng": 47.535
+  },
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rova",
+      "name": "Rova of Antananarivo",
+      "lat": -18.92371,
+      "lng": 47.5322,
+      "radiusM": 80,
+      "address": "Antananarivo",
+      "howTo": "Visit Rova of Antananarivo.",
+      "badge": "badges/rova.png"
+    },
+    {
+      "id": "lac-anosy",
+      "name": "Lac Anosy",
+      "lat": -18.91565,
+      "lng": 47.52038,
+      "radiusM": 100,
+      "address": "Antananarivo",
+      "howTo": "Visit Lac Anosy.",
+      "badge": "badges/lac-anosy.png"
+    }
+  ]
+}

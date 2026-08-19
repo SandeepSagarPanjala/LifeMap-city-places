@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mg/alaotra-mangoro/andasibe",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "stateCode": "A",
+  "stateName": "Alaotra-Mangoro",
+  "cityName": "Andasibe",
+  "bbox": {
+    "minLat": -18.953,
+    "minLng": 48.411,
+    "maxLat": -18.933,
+    "maxLng": 48.418
+  },
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "andasibe-forest",
+      "name": "Andasibe Forest",
+      "lat": -18.93583,
+      "lng": 48.41471,
+      "radiusM": 200,
+      "address": "Andasibe",
+      "howTo": "Visit Andasibe Forest.",
+      "badge": "badges/andasibe-forest.png"
+    },
+    {
+      "id": "analamazaotra",
+      "name": "Analamazaotra",
+      "lat": -18.95037,
+      "lng": 48.41453,
+      "radiusM": 150,
+      "address": "Andasibe",
+      "howTo": "Visit Analamazaotra.",
+      "badge": "badges/analamazaotra.png"
+    }
+  ]
+}

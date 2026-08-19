@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mg/diana/nosy-be",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "stateCode": "D",
+  "stateName": "Diana",
+  "cityName": "Nosy Be",
+  "bbox": {
+    "minLat": -13.257,
+    "minLng": 48.187,
+    "maxLat": -13.249,
+    "maxLng": 48.197
+  },
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "andilana-beach",
+      "name": "Andilana Beach",
+      "lat": -13.25175,
+      "lng": 48.1897,
+      "radiusM": 120,
+      "address": "Nosy Be",
+      "howTo": "Visit Andilana Beach.",
+      "badge": "badges/andilana-beach.png"
+    },
+    {
+      "id": "andilana-lagoon",
+      "name": "Andilana Lagoon",
+      "lat": -13.255,
+      "lng": 48.195,
+      "radiusM": 150,
+      "address": "Nosy Be",
+      "howTo": "Visit Andilana Lagoon.",
+      "badge": "badges/andilana-lagoon.png"
+    }
+  ]
+}

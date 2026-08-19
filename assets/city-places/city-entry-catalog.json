@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:14:14.620Z",
+  "generatedAt": "2026-08-19T00:19:40.064Z",
   "cellDeg": 0.5,
-  "cityCount": 954,
+  "cityCount": 959,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5024,6 +5024,51 @@
         "minLng": 18.688,
         "maxLat": 42.492,
         "maxLng": 18.703
+      }
+    },
+    "mg/alaotra-mangoro/andasibe": {
+      "name": "Andasibe",
+      "bbox": {
+        "minLat": -18.953,
+        "minLng": 48.411,
+        "maxLat": -18.933,
+        "maxLng": 48.418
+      }
+    },
+    "mg/analamanga/antananarivo": {
+      "name": "Antananarivo",
+      "bbox": {
+        "minLat": -18.926,
+        "minLng": 47.518,
+        "maxLat": -18.913,
+        "maxLng": 47.535
+      }
+    },
+    "mg/diana/nosy-be": {
+      "name": "Nosy Be",
+      "bbox": {
+        "minLat": -13.257,
+        "minLng": 48.187,
+        "maxLat": -13.249,
+        "maxLng": 48.197
+      }
+    },
+    "mg/ihorombe/isalo": {
+      "name": "Isalo",
+      "bbox": {
+        "minLat": -22.561,
+        "minLng": 45.397,
+        "maxLat": -22.549,
+        "maxLng": 45.408
+      }
+    },
+    "mg/menabe/baobabs": {
+      "name": "Baobabs",
+      "bbox": {
+        "minLat": -20.253,
+        "minLng": 44.416,
+        "maxLat": -20.248,
+        "maxLng": 44.422
       }
     },
     "mk/bitola/bitola": {
@@ -13043,6 +13088,21 @@
     ],
     "5,19": [
       "cm/sud/kribi"
+    ],
+    "-38,95": [
+      "mg/analamanga/antananarivo"
+    ],
+    "-38,96": [
+      "mg/alaotra-mangoro/andasibe"
+    ],
+    "-41,88": [
+      "mg/menabe/baobabs"
+    ],
+    "-46,90": [
+      "mg/ihorombe/isalo"
+    ],
+    "-27,96": [
+      "mg/diana/nosy-be"
     ]
   }
 }

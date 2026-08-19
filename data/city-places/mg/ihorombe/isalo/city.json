@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mg/ihorombe/isalo",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "stateCode": "I",
+  "stateName": "Ihorombe",
+  "cityName": "Isalo",
+  "bbox": {
+    "minLat": -22.561,
+    "minLng": 45.397,
+    "maxLat": -22.549,
+    "maxLng": 45.408
+  },
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "isalo-canyon",
+      "name": "Isalo Canyon",
+      "lat": -22.55822,
+      "lng": 45.40007,
+      "radiusM": 250,
+      "address": "Isalo",
+      "howTo": "Visit Isalo Canyon.",
+      "badge": "badges/isalo-canyon.png"
+    },
+    {
+      "id": "isalo-sandstone",
+      "name": "Isalo Sandstone",
+      "lat": -22.552,
+      "lng": 45.405,
+      "radiusM": 250,
+      "address": "Isalo",
+      "howTo": "Visit Isalo Sandstone.",
+      "badge": "badges/isalo-sandstone.png"
+    }
+  ]
+}

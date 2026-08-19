@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mg/menabe/baobabs",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "stateCode": "M",
+  "stateName": "Menabe",
+  "cityName": "Baobabs",
+  "bbox": {
+    "minLat": -20.253,
+    "minLng": 44.416,
+    "maxLat": -20.248,
+    "maxLng": 44.422
+  },
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "avenue-of-the-baobabs",
+      "name": "Avenue of the Baobabs",
+      "lat": -20.25033,
+      "lng": 44.41927,
+      "radiusM": 120,
+      "address": "Morondava",
+      "howTo": "Visit Avenue of the Baobabs.",
+      "badge": "badges/avenue-of-the-baobabs.png"
+    },
+    {
+      "id": "baobab-road",
+      "name": "Baobab Road",
+      "lat": -20.2517,
+      "lng": 44.418,
+      "radiusM": 100,
+      "address": "Morondava",
+      "howTo": "Visit Baobab Road.",
+      "badge": "badges/baobab-road.png"
+    }
+  ]
+}

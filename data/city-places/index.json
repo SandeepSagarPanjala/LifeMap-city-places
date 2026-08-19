@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:14:14.000Z",
-  "notes": "Cameroon (cm) complete. Next: Madagascar (mg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "notes": "Madagascar (mg) complete. Next: Zambia (zm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18247,6 +18247,118 @@
                 "minLng": 9.895,
                 "maxLat": 2.885,
                 "maxLng": 9.901
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "countryCode": "MG",
+      "name": "Madagascar",
+      "states": [
+        {
+          "id": "analamanga",
+          "stateCode": "T",
+          "name": "Analamanga",
+          "cities": [
+            {
+              "id": "antananarivo",
+              "name": "Antananarivo",
+              "status": "complete",
+              "packPath": "mg/analamanga/antananarivo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:19:39.000Z",
+              "bbox": {
+                "minLat": -18.926,
+                "minLng": 47.518,
+                "maxLat": -18.913,
+                "maxLng": 47.535
+              }
+            }
+          ]
+        },
+        {
+          "id": "alaotra-mangoro",
+          "stateCode": "A",
+          "name": "Alaotra-Mangoro",
+          "cities": [
+            {
+              "id": "andasibe",
+              "name": "Andasibe",
+              "status": "complete",
+              "packPath": "mg/alaotra-mangoro/andasibe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:19:39.000Z",
+              "bbox": {
+                "minLat": -18.953,
+                "minLng": 48.411,
+                "maxLat": -18.933,
+                "maxLng": 48.418
+              }
+            }
+          ]
+        },
+        {
+          "id": "menabe",
+          "stateCode": "M",
+          "name": "Menabe",
+          "cities": [
+            {
+              "id": "baobabs",
+              "name": "Baobabs",
+              "status": "complete",
+              "packPath": "mg/menabe/baobabs/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:19:39.000Z",
+              "bbox": {
+                "minLat": -20.253,
+                "minLng": 44.416,
+                "maxLat": -20.248,
+                "maxLng": 44.422
+              }
+            }
+          ]
+        },
+        {
+          "id": "ihorombe",
+          "stateCode": "I",
+          "name": "Ihorombe",
+          "cities": [
+            {
+              "id": "isalo",
+              "name": "Isalo",
+              "status": "complete",
+              "packPath": "mg/ihorombe/isalo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:19:39.000Z",
+              "bbox": {
+                "minLat": -22.561,
+                "minLng": 45.397,
+                "maxLat": -22.549,
+                "maxLng": 45.408
+              }
+            }
+          ]
+        },
+        {
+          "id": "diana",
+          "stateCode": "D",
+          "name": "Diana",
+          "cities": [
+            {
+              "id": "nosy-be",
+              "name": "Nosy Be",
+              "status": "complete",
+              "packPath": "mg/diana/nosy-be/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:19:39.000Z",
+              "bbox": {
+                "minLat": -13.257,
+                "minLng": 48.187,
+                "maxLat": -13.249,
+                "maxLng": 48.197
               }
             }
           ]
