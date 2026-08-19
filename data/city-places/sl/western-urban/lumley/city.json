@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sl/western-urban/lumley",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "stateCode": "WU",
+  "stateName": "Western Area Urban",
+  "cityName": "Lumley",
+  "bbox": {
+    "minLat": 8.472,
+    "minLng": -13.285,
+    "maxLat": 8.478,
+    "maxLng": -13.278
+  },
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lumley-beach",
+      "name": "Lumley Beach",
+      "lat": 8.47386,
+      "lng": -13.2834,
+      "radiusM": 80,
+      "address": "Freetown",
+      "howTo": "Visit Lumley Beach.",
+      "badge": "badges/lumley-beach.png"
+    },
+    {
+      "id": "lumley-shore",
+      "name": "Lumley Shore",
+      "lat": 8.476,
+      "lng": -13.28,
+      "radiusM": 80,
+      "address": "Freetown",
+      "howTo": "Visit Lumley Shore.",
+      "badge": "badges/lumley-shore.png"
+    }
+  ]
+}

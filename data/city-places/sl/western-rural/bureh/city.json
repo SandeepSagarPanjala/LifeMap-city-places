@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sl/western-rural/bureh",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "stateCode": "WR",
+  "stateName": "Western Area Rural",
+  "cityName": "Bureh",
+  "bbox": {
+    "minLat": 8.202,
+    "minLng": -13.161,
+    "maxLat": 8.208,
+    "maxLng": -13.153
+  },
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bureh-beach",
+      "name": "Bureh Beach",
+      "lat": 8.20365,
+      "lng": -13.15854,
+      "radiusM": 80,
+      "address": "Bureh Town",
+      "howTo": "Visit Bureh Beach.",
+      "badge": "badges/bureh-beach.png"
+    },
+    {
+      "id": "bureh-cove",
+      "name": "Bureh Cove",
+      "lat": 8.206,
+      "lng": -13.155,
+      "radiusM": 80,
+      "address": "Bureh Town",
+      "howTo": "Visit Bureh Cove.",
+      "badge": "badges/bureh-cove.png"
+    }
+  ]
+}

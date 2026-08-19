@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sl/port-loko/bunce-island",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "stateCode": "PL",
+  "stateName": "Port Loko",
+  "cityName": "Bunce Island",
+  "bbox": {
+    "minLat": 8.568,
+    "minLng": -13.042,
+    "maxLat": 8.574,
+    "maxLng": -13.035
+  },
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bunce-island",
+      "name": "Bunce Island",
+      "lat": 8.56973,
+      "lng": -13.04031,
+      "radiusM": 80,
+      "address": "Port Loko",
+      "howTo": "Visit Bunce Island.",
+      "badge": "badges/bunce-island.png"
+    },
+    {
+      "id": "bunce-shore",
+      "name": "Bunce Shore",
+      "lat": 8.572,
+      "lng": -13.037,
+      "radiusM": 80,
+      "address": "Port Loko",
+      "howTo": "Visit Bunce Shore.",
+      "badge": "badges/bunce-shore.png"
+    }
+  ]
+}

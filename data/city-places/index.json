@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:45:54.000Z",
-  "notes": "Guinea (gn) complete. Next: Sierra Leone (sl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "notes": "Sierra Leone (sl) complete. Next: Liberia (lr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19976,6 +19976,104 @@
                 "minLng": -8.407,
                 "maxLat": 7.632,
                 "maxLng": -8.398
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sl",
+      "countryCode": "SL",
+      "name": "Sierra Leone",
+      "states": [
+        {
+          "id": "western-urban",
+          "stateCode": "WU",
+          "name": "Western Area Urban",
+          "cities": [
+            {
+              "id": "freetown",
+              "name": "Freetown",
+              "status": "complete",
+              "packPath": "sl/western-urban/freetown/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:50:31.000Z",
+              "bbox": {
+                "minLat": 8.486,
+                "minLng": -13.237,
+                "maxLat": 8.491,
+                "maxLng": -13.234
+              }
+            },
+            {
+              "id": "lumley",
+              "name": "Lumley",
+              "status": "complete",
+              "packPath": "sl/western-urban/lumley/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:50:31.000Z",
+              "bbox": {
+                "minLat": 8.472,
+                "minLng": -13.285,
+                "maxLat": 8.478,
+                "maxLng": -13.278
+              }
+            }
+          ]
+        },
+        {
+          "id": "western-rural",
+          "stateCode": "WR",
+          "name": "Western Area Rural",
+          "cities": [
+            {
+              "id": "banana-island",
+              "name": "Banana Island",
+              "status": "complete",
+              "packPath": "sl/western-rural/banana-island/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:50:31.000Z",
+              "bbox": {
+                "minLat": 8.112,
+                "minLng": -13.219,
+                "maxLat": 8.119,
+                "maxLng": -13.211
+              }
+            },
+            {
+              "id": "bureh",
+              "name": "Bureh",
+              "status": "complete",
+              "packPath": "sl/western-rural/bureh/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:50:31.000Z",
+              "bbox": {
+                "minLat": 8.202,
+                "minLng": -13.161,
+                "maxLat": 8.208,
+                "maxLng": -13.153
+              }
+            }
+          ]
+        },
+        {
+          "id": "port-loko",
+          "stateCode": "PL",
+          "name": "Port Loko",
+          "cities": [
+            {
+              "id": "bunce-island",
+              "name": "Bunce Island",
+              "status": "complete",
+              "packPath": "sl/port-loko/bunce-island/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:50:31.000Z",
+              "bbox": {
+                "minLat": 8.568,
+                "minLng": -13.042,
+                "maxLat": 8.574,
+                "maxLng": -13.035
               }
             }
           ]

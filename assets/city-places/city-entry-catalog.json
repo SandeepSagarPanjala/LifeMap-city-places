@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:45:54.557Z",
+  "generatedAt": "2026-08-19T01:50:31.859Z",
   "cellDeg": 0.5,
-  "cityCount": 1039,
+  "cityCount": 1044,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6932,6 +6932,51 @@
         "minLng": 20.05,
         "maxLat": 49.158,
         "maxLng": 20.085
+      }
+    },
+    "sl/port-loko/bunce-island": {
+      "name": "Bunce Island",
+      "bbox": {
+        "minLat": 8.568,
+        "minLng": -13.042,
+        "maxLat": 8.574,
+        "maxLng": -13.035
+      }
+    },
+    "sl/western-rural/banana-island": {
+      "name": "Banana Island",
+      "bbox": {
+        "minLat": 8.112,
+        "minLng": -13.219,
+        "maxLat": 8.119,
+        "maxLng": -13.211
+      }
+    },
+    "sl/western-rural/bureh": {
+      "name": "Bureh",
+      "bbox": {
+        "minLat": 8.202,
+        "minLng": -13.161,
+        "maxLat": 8.208,
+        "maxLng": -13.153
+      }
+    },
+    "sl/western-urban/freetown": {
+      "name": "Freetown",
+      "bbox": {
+        "minLat": 8.486,
+        "minLng": -13.237,
+        "maxLat": 8.491,
+        "maxLng": -13.234
+      }
+    },
+    "sl/western-urban/lumley": {
+      "name": "Lumley",
+      "bbox": {
+        "minLat": 8.472,
+        "minLng": -13.285,
+        "maxLat": 8.478,
+        "maxLng": -13.278
       }
     },
     "sn/dakar/dakar": {
@@ -14032,6 +14077,15 @@
     ],
     "15,-17": [
       "gn/lola/mont-nimba"
+    ],
+    "16,-27": [
+      "sl/western-rural/banana-island",
+      "sl/western-rural/bureh",
+      "sl/western-urban/freetown",
+      "sl/western-urban/lumley"
+    ],
+    "17,-27": [
+      "sl/port-loko/bunce-island"
     ]
   }
 }

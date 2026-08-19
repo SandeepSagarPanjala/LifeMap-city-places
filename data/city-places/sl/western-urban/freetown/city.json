@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sl/western-urban/freetown",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "stateCode": "WU",
+  "stateName": "Western Area Urban",
+  "cityName": "Freetown",
+  "bbox": {
+    "minLat": 8.486,
+    "minLng": -13.237,
+    "maxLat": 8.491,
+    "maxLng": -13.234
+  },
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-georges",
+      "name": "St George's Cathedral",
+      "lat": 8.49,
+      "lng": -13.2357,
+      "radiusM": 40,
+      "address": "Freetown",
+      "howTo": "Visit St George's Cathedral.",
+      "badge": "badges/st-georges.png"
+    },
+    {
+      "id": "cotton-tree",
+      "name": "The Cotton Tree",
+      "lat": 8.48715,
+      "lng": -13.23562,
+      "radiusM": 40,
+      "address": "Freetown",
+      "howTo": "Visit The Cotton Tree.",
+      "badge": "badges/cotton-tree.png"
+    }
+  ]
+}

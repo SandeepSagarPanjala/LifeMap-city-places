@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sl/western-rural/banana-island",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "stateCode": "WR",
+  "stateName": "Western Area Rural",
+  "cityName": "Banana Island",
+  "bbox": {
+    "minLat": 8.112,
+    "minLng": -13.219,
+    "maxLat": 8.119,
+    "maxLng": -13.211
+  },
+  "updatedAt": "2026-08-19T01:50:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "banana-island",
+      "name": "Banana Island",
+      "lat": 8.11407,
+      "lng": -13.21661,
+      "radiusM": 150,
+      "address": "Western Area Rural",
+      "howTo": "Visit Banana Island.",
+      "badge": "badges/banana-island.png"
+    },
+    {
+      "id": "banana-cove",
+      "name": "Banana Cove",
+      "lat": 8.117,
+      "lng": -13.213,
+      "radiusM": 80,
+      "address": "Western Area Rural",
+      "howTo": "Visit Banana Cove.",
+      "badge": "badges/banana-cove.png"
+    }
+  ]
+}
