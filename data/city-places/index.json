@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:29:52.000Z",
-  "notes": "Mauritius (mu) complete. Next: Seychelles (sc) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "notes": "Seychelles (sc) complete. Next: Mozambique (mz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18555,6 +18555,104 @@
                 "minLng": 57.801,
                 "maxLat": -20.27,
                 "maxLng": 57.811
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sc",
+      "countryCode": "SC",
+      "name": "Seychelles",
+      "states": [
+        {
+          "id": "mahe",
+          "stateCode": "01",
+          "name": "Mahe",
+          "cities": [
+            {
+              "id": "victoria",
+              "name": "Victoria",
+              "status": "complete",
+              "packPath": "sc/mahe/victoria/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:35:20.000Z",
+              "bbox": {
+                "minLat": -4.624,
+                "minLng": 55.45,
+                "maxLat": -4.621,
+                "maxLng": 55.454
+              }
+            },
+            {
+              "id": "beau-vallon",
+              "name": "Beau Vallon",
+              "status": "complete",
+              "packPath": "sc/mahe/beau-vallon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:35:20.000Z",
+              "bbox": {
+                "minLat": -4.612,
+                "minLng": 55.429,
+                "maxLat": -4.607,
+                "maxLng": 55.441
+              }
+            },
+            {
+              "id": "morne-seychellois",
+              "name": "Morne Seychellois",
+              "status": "complete",
+              "packPath": "sc/mahe/morne-seychellois/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:35:20.000Z",
+              "bbox": {
+                "minLat": -4.652,
+                "minLng": 55.436,
+                "maxLat": -4.642,
+                "maxLng": 55.445
+              }
+            }
+          ]
+        },
+        {
+          "id": "praslin",
+          "stateCode": "14",
+          "name": "Praslin",
+          "cities": [
+            {
+              "id": "praslin",
+              "name": "Praslin",
+              "status": "complete",
+              "packPath": "sc/praslin/praslin/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:35:20.000Z",
+              "bbox": {
+                "minLat": -4.297,
+                "minLng": 55.678,
+                "maxLat": -4.291,
+                "maxLng": 55.704
+              }
+            }
+          ]
+        },
+        {
+          "id": "la-digue",
+          "stateCode": "15",
+          "name": "La Digue",
+          "cities": [
+            {
+              "id": "la-digue",
+              "name": "La Digue",
+              "status": "complete",
+              "packPath": "sc/la-digue/la-digue/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:35:20.000Z",
+              "bbox": {
+                "minLat": -4.372,
+                "minLng": 55.824,
+                "maxLat": -4.365,
+                "maxLng": 55.832
               }
             }
           ]

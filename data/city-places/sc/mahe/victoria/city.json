@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sc/mahe/victoria",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "stateCode": "01",
+  "stateName": "Mahe",
+  "cityName": "Victoria",
+  "bbox": {
+    "minLat": -4.624,
+    "minLng": 55.45,
+    "maxLat": -4.621,
+    "maxLng": 55.454
+  },
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "clock-tower",
+      "name": "Victoria Clock Tower",
+      "lat": -4.62315,
+      "lng": 55.45232,
+      "radiusM": 40,
+      "address": "Victoria",
+      "howTo": "Visit Victoria Clock Tower.",
+      "badge": "badges/clock-tower.png"
+    },
+    {
+      "id": "st-pauls-cathedral",
+      "name": "St. Paul's Cathedral",
+      "lat": -4.62265,
+      "lng": 55.45196,
+      "radiusM": 40,
+      "address": "Victoria",
+      "howTo": "Visit St. Paul's Cathedral.",
+      "badge": "badges/st-pauls-cathedral.png"
+    }
+  ]
+}

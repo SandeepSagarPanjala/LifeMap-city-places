@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sc/mahe/beau-vallon",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "stateCode": "01",
+  "stateName": "Mahe",
+  "cityName": "Beau Vallon",
+  "bbox": {
+    "minLat": -4.612,
+    "minLng": 55.429,
+    "maxLat": -4.607,
+    "maxLng": 55.441
+  },
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "beau-vallon",
+      "name": "Beau Vallon",
+      "lat": -4.60963,
+      "lng": 55.4381,
+      "radiusM": 120,
+      "address": "Beau Vallon",
+      "howTo": "Visit Beau Vallon.",
+      "badge": "badges/beau-vallon.png"
+    },
+    {
+      "id": "beau-vallon-beach",
+      "name": "Beau Vallon Beach",
+      "lat": -4.6085,
+      "lng": 55.431,
+      "radiusM": 120,
+      "address": "Beau Vallon",
+      "howTo": "Visit Beau Vallon Beach.",
+      "badge": "badges/beau-vallon-beach.png"
+    }
+  ]
+}

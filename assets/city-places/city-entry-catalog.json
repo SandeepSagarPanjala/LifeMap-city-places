@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:29:53.023Z",
+  "generatedAt": "2026-08-19T00:35:20.167Z",
   "cellDeg": 0.5,
-  "cityCount": 969,
+  "cityCount": 974,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6293,6 +6293,51 @@
         "minLng": 29.25,
         "maxLat": -1.698,
         "maxLng": 29.27
+      }
+    },
+    "sc/la-digue/la-digue": {
+      "name": "La Digue",
+      "bbox": {
+        "minLat": -4.372,
+        "minLng": 55.824,
+        "maxLat": -4.365,
+        "maxLng": 55.832
+      }
+    },
+    "sc/mahe/beau-vallon": {
+      "name": "Beau Vallon",
+      "bbox": {
+        "minLat": -4.612,
+        "minLng": 55.429,
+        "maxLat": -4.607,
+        "maxLng": 55.441
+      }
+    },
+    "sc/mahe/morne-seychellois": {
+      "name": "Morne Seychellois",
+      "bbox": {
+        "minLat": -4.652,
+        "minLng": 55.436,
+        "maxLat": -4.642,
+        "maxLng": 55.445
+      }
+    },
+    "sc/mahe/victoria": {
+      "name": "Victoria",
+      "bbox": {
+        "minLat": -4.624,
+        "minLng": 55.45,
+        "maxLat": -4.621,
+        "maxLng": 55.454
+      }
+    },
+    "sc/praslin/praslin": {
+      "name": "Praslin",
+      "bbox": {
+        "minLat": -4.297,
+        "minLng": 55.678,
+        "maxLat": -4.291,
+        "maxLng": 55.704
       }
     },
     "se/gotland/visby": {
@@ -13218,6 +13263,15 @@
     "-41,115": [
       "mu/flacq/ile-aux-cerfs",
       "mu/port-louis/port-louis"
+    ],
+    "-10,110": [
+      "sc/mahe/beau-vallon",
+      "sc/mahe/morne-seychellois",
+      "sc/mahe/victoria"
+    ],
+    "-9,111": [
+      "sc/la-digue/la-digue",
+      "sc/praslin/praslin"
     ]
   }
 }

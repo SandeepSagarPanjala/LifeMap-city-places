@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sc/la-digue/la-digue",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "stateCode": "15",
+  "stateName": "La Digue",
+  "cityName": "La Digue",
+  "bbox": {
+    "minLat": -4.372,
+    "minLng": 55.824,
+    "maxLat": -4.365,
+    "maxLng": 55.832
+  },
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "anse-source-dargent",
+      "name": "Anse Source d'Argent",
+      "lat": -4.36747,
+      "lng": 55.82647,
+      "radiusM": 100,
+      "address": "La Digue",
+      "howTo": "Visit Anse Source d'Argent.",
+      "badge": "badges/anse-source-dargent.png"
+    },
+    {
+      "id": "source-dargent-boulders",
+      "name": "Source d'Argent Boulders",
+      "lat": -4.37,
+      "lng": 55.8295,
+      "radiusM": 80,
+      "address": "La Digue",
+      "howTo": "Visit Source d'Argent Boulders.",
+      "badge": "badges/source-dargent-boulders.png"
+    }
+  ]
+}

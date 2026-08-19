@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sc/mahe/morne-seychellois",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "stateCode": "01",
+  "stateName": "Mahe",
+  "cityName": "Morne Seychellois",
+  "bbox": {
+    "minLat": -4.652,
+    "minLng": 55.436,
+    "maxLat": -4.642,
+    "maxLng": 55.445
+  },
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "morne-seychellois",
+      "name": "Morne Seychellois",
+      "lat": -4.64483,
+      "lng": 55.43891,
+      "radiusM": 200,
+      "address": "Mahe",
+      "howTo": "Visit Morne Seychellois.",
+      "badge": "badges/morne-seychellois.png"
+    },
+    {
+      "id": "morne-slopes",
+      "name": "Morne Slopes",
+      "lat": -4.65,
+      "lng": 55.443,
+      "radiusM": 200,
+      "address": "Mahe",
+      "howTo": "Visit Morne Slopes.",
+      "badge": "badges/morne-slopes.png"
+    }
+  ]
+}

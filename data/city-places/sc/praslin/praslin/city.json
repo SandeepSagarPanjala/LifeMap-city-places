@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sc/praslin/praslin",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "stateCode": "14",
+  "stateName": "Praslin",
+  "cityName": "Praslin",
+  "bbox": {
+    "minLat": -4.297,
+    "minLng": 55.678,
+    "maxLat": -4.291,
+    "maxLng": 55.704
+  },
+  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "anse-lazio",
+      "name": "Anse Lazio",
+      "lat": -4.29344,
+      "lng": 55.7019,
+      "radiusM": 120,
+      "address": "Praslin",
+      "howTo": "Visit Anse Lazio.",
+      "badge": "badges/anse-lazio.png"
+    },
+    {
+      "id": "anse-georgette",
+      "name": "Anse Georgette",
+      "lat": -4.29495,
+      "lng": 55.68096,
+      "radiusM": 120,
+      "address": "Praslin",
+      "howTo": "Visit Anse Georgette.",
+      "badge": "badges/anse-georgette.png"
+    }
+  ]
+}
