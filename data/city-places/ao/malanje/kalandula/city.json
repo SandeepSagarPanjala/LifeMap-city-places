@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ao/malanje/kalandula",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "stateCode": "MAL",
+  "stateName": "Malanje",
+  "cityName": "Kalandula",
+  "bbox": {
+    "minLat": -9.078,
+    "minLng": 15.998,
+    "maxLat": -9.072,
+    "maxLng": 16.005
+  },
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kalandula-falls",
+      "name": "Kalandula Falls",
+      "lat": -9.07407,
+      "lng": 16.00032,
+      "radiusM": 150,
+      "address": "Calandula",
+      "howTo": "Visit Kalandula Falls.",
+      "badge": "badges/kalandula-falls.png"
+    },
+    {
+      "id": "kalandula-viewpoint",
+      "name": "Kalandula Viewpoint",
+      "lat": -9.0765,
+      "lng": 16.003,
+      "radiusM": 120,
+      "address": "Calandula",
+      "howTo": "Visit Kalandula Viewpoint.",
+      "badge": "badges/kalandula-viewpoint.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ao/luanda/luanda",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "stateCode": "LUA",
+  "stateName": "Luanda",
+  "cityName": "Luanda",
+  "bbox": {
+    "minLat": -8.815,
+    "minLng": 13.221,
+    "maxLat": -8.806,
+    "maxLng": 13.232
+  },
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sao-miguel",
+      "name": "Fortaleza de Sao Miguel",
+      "lat": -8.80762,
+      "lng": 13.22323,
+      "radiusM": 80,
+      "address": "Luanda",
+      "howTo": "Visit Fortaleza de Sao Miguel.",
+      "badge": "badges/sao-miguel.png"
+    },
+    {
+      "id": "luanda-cathedral",
+      "name": "Se Catedral de Luanda",
+      "lat": -8.81373,
+      "lng": 13.22973,
+      "radiusM": 60,
+      "address": "Luanda",
+      "howTo": "Visit Se Catedral de Luanda.",
+      "badge": "badges/luanda-cathedral.png"
+    }
+  ]
+}

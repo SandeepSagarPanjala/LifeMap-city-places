@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ao/luanda/kissama",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "stateCode": "LUA",
+  "stateName": "Luanda",
+  "cityName": "Kissama",
+  "bbox": {
+    "minLat": -9.784,
+    "minLng": 13.601,
+    "maxLat": -9.775,
+    "maxLng": 13.612
+  },
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kissama",
+      "name": "Kissama National Park",
+      "lat": -9.77695,
+      "lng": 13.60326,
+      "radiusM": 250,
+      "address": "Qui\u00e7ama",
+      "howTo": "Visit Kissama National Park.",
+      "badge": "badges/kissama.png"
+    },
+    {
+      "id": "kissama-savanna",
+      "name": "Kissama Savanna",
+      "lat": -9.782,
+      "lng": 13.61,
+      "radiusM": 250,
+      "address": "Qui\u00e7ama",
+      "howTo": "Visit Kissama Savanna.",
+      "badge": "badges/kissama-savanna.png"
+    }
+  ]
+}

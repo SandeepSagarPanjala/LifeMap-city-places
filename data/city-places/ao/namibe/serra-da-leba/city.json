@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ao/namibe/serra-da-leba",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "stateCode": "NAM",
+  "stateName": "Namibe",
+  "cityName": "Serra da Leba",
+  "bbox": {
+    "minLat": -15.077,
+    "minLng": 13.235,
+    "maxLat": -15.067,
+    "maxLng": 13.244
+  },
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "serra-da-leba",
+      "name": "Serra da Leba",
+      "lat": -15.06932,
+      "lng": 13.23717,
+      "radiusM": 200,
+      "address": "Namibe",
+      "howTo": "Visit Serra da Leba.",
+      "badge": "badges/serra-da-leba.png"
+    },
+    {
+      "id": "leba-pass",
+      "name": "Leba Pass",
+      "lat": -15.075,
+      "lng": 13.242,
+      "radiusM": 150,
+      "address": "Namibe",
+      "howTo": "Visit Leba Pass.",
+      "badge": "badges/leba-pass.png"
+    }
+  ]
+}

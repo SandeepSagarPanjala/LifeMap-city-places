@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:40:52.000Z",
-  "notes": "Mozambique (mz) complete. Next: Angola (ao) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "notes": "Angola (ao) complete. Next: Cape Verde (cv) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18758,6 +18758,111 @@
                 "minLng": 34.35,
                 "maxLat": -18.977,
                 "maxLng": 34.36
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ao",
+      "countryCode": "AO",
+      "name": "Angola",
+      "states": [
+        {
+          "id": "luanda",
+          "stateCode": "LUA",
+          "name": "Luanda",
+          "cities": [
+            {
+              "id": "luanda",
+              "name": "Luanda",
+              "status": "complete",
+              "packPath": "ao/luanda/luanda/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:45:46.000Z",
+              "bbox": {
+                "minLat": -8.815,
+                "minLng": 13.221,
+                "maxLat": -8.806,
+                "maxLng": 13.232
+              }
+            },
+            {
+              "id": "kissama",
+              "name": "Kissama",
+              "status": "complete",
+              "packPath": "ao/luanda/kissama/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:45:46.000Z",
+              "bbox": {
+                "minLat": -9.784,
+                "minLng": 13.601,
+                "maxLat": -9.775,
+                "maxLng": 13.612
+              }
+            }
+          ]
+        },
+        {
+          "id": "malanje",
+          "stateCode": "MAL",
+          "name": "Malanje",
+          "cities": [
+            {
+              "id": "kalandula",
+              "name": "Kalandula",
+              "status": "complete",
+              "packPath": "ao/malanje/kalandula/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:45:46.000Z",
+              "bbox": {
+                "minLat": -9.078,
+                "minLng": 15.998,
+                "maxLat": -9.072,
+                "maxLng": 16.005
+              }
+            }
+          ]
+        },
+        {
+          "id": "huila",
+          "stateCode": "HUI",
+          "name": "Huila",
+          "cities": [
+            {
+              "id": "tundavala",
+              "name": "Tundavala",
+              "status": "complete",
+              "packPath": "ao/huila/tundavala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:45:46.000Z",
+              "bbox": {
+                "minLat": -14.824,
+                "minLng": 13.379,
+                "maxLat": -14.815,
+                "maxLng": 13.387
+              }
+            }
+          ]
+        },
+        {
+          "id": "namibe",
+          "stateCode": "NAM",
+          "name": "Namibe",
+          "cities": [
+            {
+              "id": "serra-da-leba",
+              "name": "Serra da Leba",
+              "status": "complete",
+              "packPath": "ao/namibe/serra-da-leba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:45:46.000Z",
+              "bbox": {
+                "minLat": -15.077,
+                "minLng": 13.235,
+                "maxLat": -15.067,
+                "maxLng": 13.244
               }
             }
           ]

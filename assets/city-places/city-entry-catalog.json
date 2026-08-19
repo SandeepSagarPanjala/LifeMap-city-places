@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:40:52.338Z",
+  "generatedAt": "2026-08-19T00:45:46.573Z",
   "cellDeg": 0.5,
-  "cityCount": 979,
+  "cityCount": 984,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -164,6 +164,51 @@
         "minLng": 44.508,
         "maxLat": 40.195,
         "maxLng": 44.525
+      }
+    },
+    "ao/huila/tundavala": {
+      "name": "Tundavala",
+      "bbox": {
+        "minLat": -14.824,
+        "minLng": 13.379,
+        "maxLat": -14.815,
+        "maxLng": 13.387
+      }
+    },
+    "ao/luanda/kissama": {
+      "name": "Kissama",
+      "bbox": {
+        "minLat": -9.784,
+        "minLng": 13.601,
+        "maxLat": -9.775,
+        "maxLng": 13.612
+      }
+    },
+    "ao/luanda/luanda": {
+      "name": "Luanda",
+      "bbox": {
+        "minLat": -8.815,
+        "minLng": 13.221,
+        "maxLat": -8.806,
+        "maxLng": 13.232
+      }
+    },
+    "ao/malanje/kalandula": {
+      "name": "Kalandula",
+      "bbox": {
+        "minLat": -9.078,
+        "minLng": 15.998,
+        "maxLat": -9.072,
+        "maxLng": 16.005
+      }
+    },
+    "ao/namibe/serra-da-leba": {
+      "name": "Serra da Leba",
+      "bbox": {
+        "minLat": -15.077,
+        "minLng": 13.235,
+        "maxLat": -15.067,
+        "maxLng": 13.244
       }
     },
     "ar/buenos-aires/buenos-aires": {
@@ -13335,6 +13380,24 @@
     ],
     "-38,68": [
       "mz/sofala/gorongosa"
+    ],
+    "-18,26": [
+      "ao/luanda/luanda"
+    ],
+    "-20,27": [
+      "ao/luanda/kissama"
+    ],
+    "-19,31": [
+      "ao/malanje/kalandula"
+    ],
+    "-19,32": [
+      "ao/malanje/kalandula"
+    ],
+    "-30,26": [
+      "ao/huila/tundavala"
+    ],
+    "-31,26": [
+      "ao/namibe/serra-da-leba"
     ]
   }
 }

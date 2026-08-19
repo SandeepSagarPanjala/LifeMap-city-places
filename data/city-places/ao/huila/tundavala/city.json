@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ao/huila/tundavala",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "stateCode": "HUI",
+  "stateName": "Huila",
+  "cityName": "Tundavala",
+  "bbox": {
+    "minLat": -14.824,
+    "minLng": 13.379,
+    "maxLat": -14.815,
+    "maxLng": 13.387
+  },
+  "updatedAt": "2026-08-19T00:45:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tundavala-gap",
+      "name": "Tundavala Gap",
+      "lat": -14.81758,
+      "lng": 13.38153,
+      "radiusM": 150,
+      "address": "Lubango",
+      "howTo": "Visit Tundavala Gap.",
+      "badge": "badges/tundavala-gap.png"
+    },
+    {
+      "id": "tundavala-cliffs",
+      "name": "Tundavala Cliffs",
+      "lat": -14.822,
+      "lng": 13.385,
+      "radiusM": 150,
+      "address": "Lubango",
+      "howTo": "Visit Tundavala Cliffs.",
+      "badge": "badges/tundavala-cliffs.png"
+    }
+  ]
+}
