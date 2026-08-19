@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:50:31.000Z",
-  "notes": "Sierra Leone (sl) complete. Next: Liberia (lr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:55:31.000Z",
+  "notes": "Liberia (lr) complete. Next: Mali (ml) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20074,6 +20074,111 @@
                 "minLng": -13.042,
                 "maxLat": 8.574,
                 "maxLng": -13.035
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr",
+      "countryCode": "LR",
+      "name": "Liberia",
+      "states": [
+        {
+          "id": "montserrado",
+          "stateCode": "MO",
+          "name": "Montserrado",
+          "cities": [
+            {
+              "id": "monrovia",
+              "name": "Monrovia",
+              "status": "complete",
+              "packPath": "lr/montserrado/monrovia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:55:31.000Z",
+              "bbox": {
+                "minLat": 6.299,
+                "minLng": -10.8,
+                "maxLat": 6.303,
+                "maxLng": -10.794
+              }
+            },
+            {
+              "id": "ducor",
+              "name": "Ducor",
+              "status": "complete",
+              "packPath": "lr/montserrado/ducor/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:55:31.000Z",
+              "bbox": {
+                "minLat": 6.317,
+                "minLng": -10.815,
+                "maxLat": 6.322,
+                "maxLng": -10.812
+              }
+            }
+          ]
+        },
+        {
+          "id": "grand-cape-mount",
+          "stateCode": "CM",
+          "name": "Grand Cape Mount",
+          "cities": [
+            {
+              "id": "robertsport",
+              "name": "Robertsport",
+              "status": "complete",
+              "packPath": "lr/grand-cape-mount/robertsport/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:55:31.000Z",
+              "bbox": {
+                "minLat": 6.751,
+                "minLng": -11.369,
+                "maxLat": 6.757,
+                "maxLng": -11.361
+              }
+            }
+          ]
+        },
+        {
+          "id": "bong",
+          "stateCode": "BG",
+          "name": "Bong",
+          "cities": [
+            {
+              "id": "kpatawee",
+              "name": "Kpatawee",
+              "status": "complete",
+              "packPath": "lr/bong/kpatawee/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:55:31.000Z",
+              "bbox": {
+                "minLat": 7.086,
+                "minLng": -9.644,
+                "maxLat": 7.093,
+                "maxLng": -9.637
+              }
+            }
+          ]
+        },
+        {
+          "id": "maryland",
+          "stateCode": "MY",
+          "name": "Maryland",
+          "cities": [
+            {
+              "id": "cape-palmas",
+              "name": "Cape Palmas",
+              "status": "complete",
+              "packPath": "lr/maryland/cape-palmas/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:55:31.000Z",
+              "bbox": {
+                "minLat": 4.363,
+                "minLng": -7.731,
+                "maxLat": 4.37,
+                "maxLng": -7.723
               }
             }
           ]

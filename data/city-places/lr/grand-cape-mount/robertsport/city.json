@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lr/grand-cape-mount/robertsport",
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "stateCode": "CM",
+  "stateName": "Grand Cape Mount",
+  "cityName": "Robertsport",
+  "bbox": {
+    "minLat": 6.751,
+    "minLng": -11.369,
+    "maxLat": 6.757,
+    "maxLng": -11.361
+  },
+  "updatedAt": "2026-08-19T01:55:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "robertsport",
+      "name": "Robertsport",
+      "lat": 6.75257,
+      "lng": -11.36695,
+      "radiusM": 120,
+      "address": "Grand Cape Mount",
+      "howTo": "Visit Robertsport.",
+      "badge": "badges/robertsport.png"
+    },
+    {
+      "id": "robertsport-beach",
+      "name": "Robertsport Beach",
+      "lat": 6.755,
+      "lng": -11.363,
+      "radiusM": 80,
+      "address": "Grand Cape Mount",
+      "howTo": "Visit Robertsport Beach.",
+      "badge": "badges/robertsport-beach.png"
+    }
+  ]
+}

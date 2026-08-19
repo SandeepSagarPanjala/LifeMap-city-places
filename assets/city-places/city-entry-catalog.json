@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:50:31.859Z",
+  "generatedAt": "2026-08-19T01:55:32.050Z",
   "cellDeg": 0.5,
-  "cityCount": 1044,
+  "cityCount": 1049,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5087,6 +5087,51 @@
         "minLng": 79.84,
         "maxLat": 6.935,
         "maxLng": 79.865
+      }
+    },
+    "lr/bong/kpatawee": {
+      "name": "Kpatawee",
+      "bbox": {
+        "minLat": 7.086,
+        "minLng": -9.644,
+        "maxLat": 7.093,
+        "maxLng": -9.637
+      }
+    },
+    "lr/grand-cape-mount/robertsport": {
+      "name": "Robertsport",
+      "bbox": {
+        "minLat": 6.751,
+        "minLng": -11.369,
+        "maxLat": 6.757,
+        "maxLng": -11.361
+      }
+    },
+    "lr/maryland/cape-palmas": {
+      "name": "Cape Palmas",
+      "bbox": {
+        "minLat": 4.363,
+        "minLng": -7.731,
+        "maxLat": 4.37,
+        "maxLng": -7.723
+      }
+    },
+    "lr/montserrado/ducor": {
+      "name": "Ducor",
+      "bbox": {
+        "minLat": 6.317,
+        "minLng": -10.815,
+        "maxLat": 6.322,
+        "maxLng": -10.812
+      }
+    },
+    "lr/montserrado/monrovia": {
+      "name": "Monrovia",
+      "bbox": {
+        "minLat": 6.299,
+        "minLng": -10.8,
+        "maxLat": 6.303,
+        "maxLng": -10.794
       }
     },
     "ls/maseru/maseru": {
@@ -14086,6 +14131,19 @@
     ],
     "17,-27": [
       "sl/port-loko/bunce-island"
+    ],
+    "12,-22": [
+      "lr/montserrado/ducor",
+      "lr/montserrado/monrovia"
+    ],
+    "13,-23": [
+      "lr/grand-cape-mount/robertsport"
+    ],
+    "14,-20": [
+      "lr/bong/kpatawee"
+    ],
+    "8,-16": [
+      "lr/maryland/cape-palmas"
     ]
   }
 }

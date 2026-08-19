@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lr/montserrado/ducor",
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "stateCode": "MO",
+  "stateName": "Montserrado",
+  "cityName": "Ducor",
+  "bbox": {
+    "minLat": 6.317,
+    "minLng": -10.815,
+    "maxLat": 6.322,
+    "maxLng": -10.812
+  },
+  "updatedAt": "2026-08-19T01:55:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ducor-palace",
+      "name": "Ducor Palace Hotel",
+      "lat": 6.3203,
+      "lng": -10.81322,
+      "radiusM": 50,
+      "address": "Monrovia",
+      "howTo": "Visit Ducor Palace Hotel.",
+      "badge": "badges/ducor-palace.png"
+    },
+    {
+      "id": "masonic-temple",
+      "name": "Masonic Temple",
+      "lat": 6.31814,
+      "lng": -10.81349,
+      "radiusM": 40,
+      "address": "Monrovia",
+      "howTo": "Visit Masonic Temple.",
+      "badge": "badges/masonic-temple.png"
+    }
+  ]
+}

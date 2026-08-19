@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lr/bong/kpatawee",
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "stateCode": "BG",
+  "stateName": "Bong",
+  "cityName": "Kpatawee",
+  "bbox": {
+    "minLat": 7.086,
+    "minLng": -9.644,
+    "maxLat": 7.093,
+    "maxLng": -9.637
+  },
+  "updatedAt": "2026-08-19T01:55:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kpatawee",
+      "name": "Kpatawee",
+      "lat": 7.08835,
+      "lng": -9.64213,
+      "radiusM": 80,
+      "address": "Suakoko",
+      "howTo": "Visit Kpatawee.",
+      "badge": "badges/kpatawee.png"
+    },
+    {
+      "id": "kpatawee-falls",
+      "name": "Kpatawee Falls",
+      "lat": 7.091,
+      "lng": -9.639,
+      "radiusM": 80,
+      "address": "Suakoko",
+      "howTo": "Visit Kpatawee Falls.",
+      "badge": "badges/kpatawee-falls.png"
+    }
+  ]
+}
