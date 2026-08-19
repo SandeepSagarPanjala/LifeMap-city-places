@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sn/dakar/goree",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "stateCode": "DK",
+  "stateName": "Dakar",
+  "cityName": "Goree",
+  "bbox": {
+    "minLat": 14.666,
+    "minLng": -17.4,
+    "maxLat": 14.669,
+    "maxLng": -17.396
+  },
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maison-des-esclaves",
+      "name": "Maison des Esclaves",
+      "lat": 14.66765,
+      "lng": -17.39725,
+      "radiusM": 40,
+      "address": "Goree",
+      "howTo": "Visit Maison des Esclaves.",
+      "badge": "badges/maison-des-esclaves.png"
+    },
+    {
+      "id": "goree-island",
+      "name": "Goree Island",
+      "lat": 14.6672,
+      "lng": -17.39836,
+      "radiusM": 80,
+      "address": "Goree",
+      "howTo": "Visit Goree Island.",
+      "badge": "badges/goree-island.png"
+    }
+  ]
+}

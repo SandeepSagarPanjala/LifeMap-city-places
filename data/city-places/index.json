@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-18T23:57:33.000Z",
-  "notes": "Uganda (ug) complete. Next: Senegal (sn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "notes": "Senegal (sn) complete. Next: Ivory Coast (ci) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -17939,6 +17939,104 @@
                 "minLng": 29.612,
                 "maxLat": -0.963,
                 "maxLng": 29.622
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sn",
+      "countryCode": "SN",
+      "name": "Senegal",
+      "states": [
+        {
+          "id": "dakar",
+          "stateCode": "DK",
+          "name": "Dakar",
+          "cities": [
+            {
+              "id": "dakar",
+              "name": "Dakar",
+              "status": "complete",
+              "packPath": "sn/dakar/dakar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:02:59.000Z",
+              "bbox": {
+                "minLat": 14.713,
+                "minLng": -17.532,
+                "maxLat": 14.744,
+                "maxLng": -17.488
+              }
+            },
+            {
+              "id": "goree",
+              "name": "Goree",
+              "status": "complete",
+              "packPath": "sn/dakar/goree/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:02:59.000Z",
+              "bbox": {
+                "minLat": 14.666,
+                "minLng": -17.4,
+                "maxLat": 14.669,
+                "maxLng": -17.396
+              }
+            },
+            {
+              "id": "lac-rose",
+              "name": "Lac Rose",
+              "status": "complete",
+              "packPath": "sn/dakar/lac-rose/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:02:59.000Z",
+              "bbox": {
+                "minLat": 14.838,
+                "minLng": -17.228,
+                "maxLat": 14.847,
+                "maxLng": -17.214
+              }
+            }
+          ]
+        },
+        {
+          "id": "saint-louis",
+          "stateCode": "SL",
+          "name": "Saint-Louis",
+          "cities": [
+            {
+              "id": "saint-louis",
+              "name": "Saint-Louis",
+              "status": "complete",
+              "packPath": "sn/saint-louis/saint-louis/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:02:59.000Z",
+              "bbox": {
+                "minLat": 16.024,
+                "minLng": -16.507,
+                "maxLat": 16.031,
+                "maxLng": -16.499
+              }
+            }
+          ]
+        },
+        {
+          "id": "diourbel",
+          "stateCode": "DB",
+          "name": "Diourbel",
+          "cities": [
+            {
+              "id": "touba",
+              "name": "Touba",
+              "status": "complete",
+              "packPath": "sn/diourbel/touba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:02:59.000Z",
+              "bbox": {
+                "minLat": 14.861,
+                "minLng": -15.88,
+                "maxLat": 14.867,
+                "maxLng": -15.873
               }
             }
           ]

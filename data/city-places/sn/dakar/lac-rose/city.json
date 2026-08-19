@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sn/dakar/lac-rose",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "stateCode": "DK",
+  "stateName": "Dakar",
+  "cityName": "Lac Rose",
+  "bbox": {
+    "minLat": 14.838,
+    "minLng": -17.228,
+    "maxLat": 14.847,
+    "maxLng": -17.214
+  },
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lac-retba",
+      "name": "Lac Retba",
+      "lat": 14.84473,
+      "lng": -17.21666,
+      "radiusM": 200,
+      "address": "Lac Rose",
+      "howTo": "Visit Lac Retba.",
+      "badge": "badges/lac-retba.png"
+    },
+    {
+      "id": "lac-rose-shore",
+      "name": "Lac Rose Shore",
+      "lat": 14.84,
+      "lng": -17.225,
+      "radiusM": 150,
+      "address": "Lac Rose",
+      "howTo": "Visit Lac Rose Shore.",
+      "badge": "badges/lac-rose-shore.png"
+    }
+  ]
+}

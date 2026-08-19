@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sn/diourbel/touba",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "stateCode": "DB",
+  "stateName": "Diourbel",
+  "cityName": "Touba",
+  "bbox": {
+    "minLat": 14.861,
+    "minLng": -15.88,
+    "maxLat": 14.867,
+    "maxLng": -15.873
+  },
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grande-mosquee",
+      "name": "Grande Mosquee de Touba",
+      "lat": 14.86319,
+      "lng": -15.87554,
+      "radiusM": 100,
+      "address": "Touba",
+      "howTo": "Visit Grande Mosquee de Touba.",
+      "badge": "badges/grande-mosquee.png"
+    },
+    {
+      "id": "touba-square",
+      "name": "Touba Square",
+      "lat": 14.8655,
+      "lng": -15.878,
+      "radiusM": 80,
+      "address": "Touba",
+      "howTo": "Visit Touba Square.",
+      "badge": "badges/touba-square.png"
+    }
+  ]
+}

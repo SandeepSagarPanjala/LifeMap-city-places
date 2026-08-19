@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:57:33.429Z",
+  "generatedAt": "2026-08-19T00:02:59.884Z",
   "cellDeg": 0.5,
-  "cityCount": 939,
+  "cityCount": 944,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6257,6 +6257,51 @@
         "minLng": 20.05,
         "maxLat": 49.158,
         "maxLng": 20.085
+      }
+    },
+    "sn/dakar/dakar": {
+      "name": "Dakar",
+      "bbox": {
+        "minLat": 14.713,
+        "minLng": -17.532,
+        "maxLat": 14.744,
+        "maxLng": -17.488
+      }
+    },
+    "sn/dakar/goree": {
+      "name": "Goree",
+      "bbox": {
+        "minLat": 14.666,
+        "minLng": -17.4,
+        "maxLat": 14.669,
+        "maxLng": -17.396
+      }
+    },
+    "sn/dakar/lac-rose": {
+      "name": "Lac Rose",
+      "bbox": {
+        "minLat": 14.838,
+        "minLng": -17.228,
+        "maxLat": 14.847,
+        "maxLng": -17.214
+      }
+    },
+    "sn/diourbel/touba": {
+      "name": "Touba",
+      "bbox": {
+        "minLat": 14.861,
+        "minLng": -15.88,
+        "maxLat": 14.867,
+        "maxLng": -15.873
+      }
+    },
+    "sn/saint-louis/saint-louis": {
+      "name": "Saint-Louis",
+      "bbox": {
+        "minLat": 16.024,
+        "minLng": -16.507,
+        "maxLat": 16.031,
+        "maxLng": -16.499
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -12863,6 +12908,23 @@
     ],
     "-2,59": [
       "ug/western/bwindi"
+    ],
+    "29,-36": [
+      "sn/dakar/dakar"
+    ],
+    "29,-35": [
+      "sn/dakar/dakar",
+      "sn/dakar/goree",
+      "sn/dakar/lac-rose"
+    ],
+    "32,-34": [
+      "sn/saint-louis/saint-louis"
+    ],
+    "32,-33": [
+      "sn/saint-louis/saint-louis"
+    ],
+    "29,-32": [
+      "sn/diourbel/touba"
     ]
   }
 }

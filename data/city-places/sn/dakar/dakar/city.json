@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sn/dakar/dakar",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "stateCode": "DK",
+  "stateName": "Dakar",
+  "cityName": "Dakar",
+  "bbox": {
+    "minLat": 14.713,
+    "minLng": -17.532,
+    "maxLat": 14.744,
+    "maxLng": -17.488
+  },
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mosque-of-the-divinity",
+      "name": "Mosque of the Divinity",
+      "lat": 14.71575,
+      "lng": -17.49045,
+      "radiusM": 80,
+      "address": "Dakar",
+      "howTo": "Visit Mosque of the Divinity.",
+      "badge": "badges/mosque-of-the-divinity.png"
+    },
+    {
+      "id": "pointe-des-almadies",
+      "name": "Pointe des Almadies",
+      "lat": 14.74106,
+      "lng": -17.52978,
+      "radiusM": 100,
+      "address": "Dakar",
+      "howTo": "Visit Pointe des Almadies.",
+      "badge": "badges/pointe-des-almadies.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sn/saint-louis/saint-louis",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "stateCode": "SL",
+  "stateName": "Saint-Louis",
+  "cityName": "Saint-Louis",
+  "bbox": {
+    "minLat": 16.024,
+    "minLng": -16.507,
+    "maxLat": 16.031,
+    "maxLng": -16.499
+  },
+  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "faidherbe-bridge",
+      "name": "Faidherbe Bridge",
+      "lat": 16.02577,
+      "lng": -16.50114,
+      "radiusM": 80,
+      "address": "Saint-Louis",
+      "howTo": "Visit Faidherbe Bridge.",
+      "badge": "badges/faidherbe-bridge.png"
+    },
+    {
+      "id": "saint-louis-island",
+      "name": "Saint-Louis Island",
+      "lat": 16.02859,
+      "lng": -16.50481,
+      "radiusM": 120,
+      "address": "Saint-Louis",
+      "howTo": "Visit Saint-Louis Island.",
+      "badge": "badges/saint-louis-island.png"
+    }
+  ]
+}
