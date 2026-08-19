@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bi/bururi/rutovu",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "stateCode": "BR",
+  "stateName": "Bururi",
+  "cityName": "Rutovu",
+  "bbox": {
+    "minLat": -3.917,
+    "minLng": 29.836,
+    "maxLat": -3.91,
+    "maxLng": 29.843
+  },
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nile-pyramid",
+      "name": "Pyramide Source du Nil",
+      "lat": -3.91507,
+      "lng": 29.83801,
+      "radiusM": 60,
+      "address": "Rutovu",
+      "howTo": "Visit Pyramide Source du Nil.",
+      "badge": "badges/nile-pyramid.png"
+    },
+    {
+      "id": "nile-spring",
+      "name": "Nile Spring",
+      "lat": -3.912,
+      "lng": 29.841,
+      "radiusM": 80,
+      "address": "Rutovu",
+      "howTo": "Visit Nile Spring.",
+      "badge": "badges/nile-spring.png"
+    }
+  ]
+}

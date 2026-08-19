@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:33:59.000Z",
-  "notes": "Equatorial Guinea (gq) complete. Next: Burundi (bi) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "notes": "Burundi (bi) complete. Next: Guinea (gn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19766,6 +19766,111 @@
                 "minLng": 8.663,
                 "maxLat": 3.322,
                 "maxLng": 8.671
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bi",
+      "countryCode": "BI",
+      "name": "Burundi",
+      "states": [
+        {
+          "id": "bujumbura-mairie",
+          "stateCode": "BM",
+          "name": "Bujumbura Mairie",
+          "cities": [
+            {
+              "id": "bujumbura",
+              "name": "Bujumbura",
+              "status": "complete",
+              "packPath": "bi/bujumbura-mairie/bujumbura/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:40:12.000Z",
+              "bbox": {
+                "minLat": -3.394,
+                "minLng": 29.362,
+                "maxLat": -3.389,
+                "maxLng": 29.367
+              }
+            },
+            {
+              "id": "saga",
+              "name": "Saga",
+              "status": "complete",
+              "packPath": "bi/bujumbura-mairie/saga/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:40:12.000Z",
+              "bbox": {
+                "minLat": -3.356,
+                "minLng": 29.318,
+                "maxLat": -3.351,
+                "maxLng": 29.325
+              }
+            }
+          ]
+        },
+        {
+          "id": "bururi",
+          "stateCode": "BR",
+          "name": "Bururi",
+          "cities": [
+            {
+              "id": "rutovu",
+              "name": "Rutovu",
+              "status": "complete",
+              "packPath": "bi/bururi/rutovu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:40:12.000Z",
+              "bbox": {
+                "minLat": -3.917,
+                "minLng": 29.836,
+                "maxLat": -3.91,
+                "maxLng": 29.843
+              }
+            }
+          ]
+        },
+        {
+          "id": "gitega",
+          "stateCode": "GI",
+          "name": "Gitega",
+          "cities": [
+            {
+              "id": "gitega",
+              "name": "Gitega",
+              "status": "complete",
+              "packPath": "bi/gitega/gitega/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:40:12.000Z",
+              "bbox": {
+                "minLat": -3.42,
+                "minLng": 29.907,
+                "maxLat": -3.414,
+                "maxLng": 29.913
+              }
+            }
+          ]
+        },
+        {
+          "id": "bujumbura-rural",
+          "stateCode": "BL",
+          "name": "Bujumbura Rural",
+          "cities": [
+            {
+              "id": "mugere",
+              "name": "Mugere",
+              "status": "complete",
+              "packPath": "bi/bujumbura-rural/mugere/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:40:12.000Z",
+              "bbox": {
+                "minLat": -3.484,
+                "minLng": 29.35,
+                "maxLat": -3.477,
+                "maxLng": 29.357
               }
             }
           ]

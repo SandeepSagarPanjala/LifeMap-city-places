@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bi/bujumbura-mairie/saga",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "stateCode": "BM",
+  "stateName": "Bujumbura Mairie",
+  "cityName": "Saga",
+  "bbox": {
+    "minLat": -3.356,
+    "minLng": 29.318,
+    "maxLat": -3.351,
+    "maxLng": 29.325
+  },
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "saga-plage",
+      "name": "Saga Plage",
+      "lat": -3.35436,
+      "lng": 29.32315,
+      "radiusM": 80,
+      "address": "Bujumbura",
+      "howTo": "Visit Saga Plage.",
+      "badge": "badges/saga-plage.png"
+    },
+    {
+      "id": "club-du-lac",
+      "name": "Club du Lac Tanganyika",
+      "lat": -3.35211,
+      "lng": 29.31954,
+      "radiusM": 80,
+      "address": "Bujumbura",
+      "howTo": "Visit Club du Lac Tanganyika.",
+      "badge": "badges/club-du-lac.png"
+    }
+  ]
+}

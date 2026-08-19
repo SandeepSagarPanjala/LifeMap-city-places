@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bi/bujumbura-rural/mugere",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "stateCode": "BL",
+  "stateName": "Bujumbura Rural",
+  "cityName": "Mugere",
+  "bbox": {
+    "minLat": -3.484,
+    "minLng": 29.35,
+    "maxLat": -3.477,
+    "maxLng": 29.357
+  },
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "livingstone-stanley",
+      "name": "Livingstone-Stanley Monument",
+      "lat": -3.4819,
+      "lng": 29.35245,
+      "radiusM": 40,
+      "address": "Mugere",
+      "howTo": "Visit Livingstone-Stanley Monument.",
+      "badge": "badges/livingstone-stanley.png"
+    },
+    {
+      "id": "mugere-hills",
+      "name": "Mugere Hills",
+      "lat": -3.479,
+      "lng": 29.3555,
+      "radiusM": 100,
+      "address": "Mugere",
+      "howTo": "Visit Mugere Hills.",
+      "badge": "badges/mugere-hills.png"
+    }
+  ]
+}

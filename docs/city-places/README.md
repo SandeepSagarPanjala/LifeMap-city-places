@@ -158,7 +158,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 112. `ga` — Gabon (**complete**)
 113. `st` — São Tomé and Príncipe (**complete**)
 114. `gq` — Equatorial Guinea (**complete**)
-115. `bi` — Burundi
+115. `bi` — Burundi (**complete**)
+116. `gn` — Guinea
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

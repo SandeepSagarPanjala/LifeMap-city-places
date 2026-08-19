@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bi/bujumbura-mairie/bujumbura",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "stateCode": "BM",
+  "stateName": "Bujumbura Mairie",
+  "cityName": "Bujumbura",
+  "bbox": {
+    "minLat": -3.394,
+    "minLng": 29.362,
+    "maxLat": -3.389,
+    "maxLng": 29.367
+  },
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "regina-mundi",
+      "name": "Regina Mundi Cathedral",
+      "lat": -3.39212,
+      "lng": 29.36376,
+      "radiusM": 50,
+      "address": "Bujumbura",
+      "howTo": "Visit Regina Mundi Cathedral.",
+      "badge": "badges/regina-mundi.png"
+    },
+    {
+      "id": "regina-square",
+      "name": "Regina Square",
+      "lat": -3.3908,
+      "lng": 29.3652,
+      "radiusM": 40,
+      "address": "Bujumbura",
+      "howTo": "Visit Regina Square.",
+      "badge": "badges/regina-square.png"
+    }
+  ]
+}

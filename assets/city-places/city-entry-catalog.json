@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:33:59.614Z",
+  "generatedAt": "2026-08-19T01:40:13.017Z",
   "cellDeg": 0.5,
-  "cityCount": 1029,
+  "cityCount": 1034,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -650,6 +650,51 @@
         "minLng": 50.615,
         "maxLat": 26.006,
         "maxLng": 50.622
+      }
+    },
+    "bi/bujumbura-mairie/bujumbura": {
+      "name": "Bujumbura",
+      "bbox": {
+        "minLat": -3.394,
+        "minLng": 29.362,
+        "maxLat": -3.389,
+        "maxLng": 29.367
+      }
+    },
+    "bi/bujumbura-mairie/saga": {
+      "name": "Saga",
+      "bbox": {
+        "minLat": -3.356,
+        "minLng": 29.318,
+        "maxLat": -3.351,
+        "maxLng": 29.325
+      }
+    },
+    "bi/bujumbura-rural/mugere": {
+      "name": "Mugere",
+      "bbox": {
+        "minLat": -3.484,
+        "minLng": 29.35,
+        "maxLat": -3.477,
+        "maxLng": 29.357
+      }
+    },
+    "bi/bururi/rutovu": {
+      "name": "Rutovu",
+      "bbox": {
+        "minLat": -3.917,
+        "minLng": 29.836,
+        "maxLat": -3.91,
+        "maxLng": 29.843
+      }
+    },
+    "bi/gitega/gitega": {
+      "name": "Gitega",
+      "bbox": {
+        "minLat": -3.42,
+        "minLng": 29.907,
+        "maxLat": -3.414,
+        "maxLng": 29.913
       }
     },
     "bj/atakora/pendjari": {
@@ -13916,6 +13961,17 @@
     ],
     "6,17": [
       "gq/bioko-sur/moca"
+    ],
+    "-7,58": [
+      "bi/bujumbura-mairie/bujumbura",
+      "bi/bujumbura-mairie/saga",
+      "bi/bujumbura-rural/mugere"
+    ],
+    "-8,59": [
+      "bi/bururi/rutovu"
+    ],
+    "-7,59": [
+      "bi/gitega/gitega"
     ]
   }
 }

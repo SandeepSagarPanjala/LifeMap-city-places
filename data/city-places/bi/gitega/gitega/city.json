@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bi/gitega/gitega",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "stateCode": "GI",
+  "stateName": "Gitega",
+  "cityName": "Gitega",
+  "bbox": {
+    "minLat": -3.42,
+    "minLng": 29.907,
+    "maxLat": -3.414,
+    "maxLng": 29.913
+  },
+  "updatedAt": "2026-08-19T01:40:12.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gitega-museum",
+      "name": "Musee National de Gitega",
+      "lat": -3.41822,
+      "lng": 29.90862,
+      "radiusM": 50,
+      "address": "Gitega",
+      "howTo": "Visit Musee National de Gitega.",
+      "badge": "badges/gitega-museum.png"
+    },
+    {
+      "id": "museum-gardens",
+      "name": "Museum Gardens",
+      "lat": -3.416,
+      "lng": 29.911,
+      "radiusM": 60,
+      "address": "Gitega",
+      "howTo": "Visit Museum Gardens.",
+      "badge": "badges/museum-gardens.png"
+    }
+  ]
+}
