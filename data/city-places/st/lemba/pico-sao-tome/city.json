@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "st/lemba/pico-sao-tome",
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "stateCode": "03",
+  "stateName": "Lemba",
+  "cityName": "Pico Sao Tome",
+  "bbox": {
+    "minLat": 0.268,
+    "minLng": 6.542,
+    "maxLat": 0.276,
+    "maxLng": 6.55
+  },
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pico-sao-tome",
+      "name": "Pico de Sao Tome",
+      "lat": 0.26996,
+      "lng": 6.54452,
+      "radiusM": 200,
+      "address": "Lemb\u00e1",
+      "howTo": "Visit Pico de Sao Tome.",
+      "badge": "badges/pico-sao-tome.png"
+    },
+    {
+      "id": "obo-slopes",
+      "name": "Obo Slopes",
+      "lat": 0.274,
+      "lng": 6.548,
+      "radiusM": 200,
+      "address": "Lemb\u00e1",
+      "howTo": "Visit Obo Slopes.",
+      "badge": "badges/obo-slopes.png"
+    }
+  ]
+}

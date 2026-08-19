@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:22:46.609Z",
+  "generatedAt": "2026-08-19T01:27:42.193Z",
   "cellDeg": 0.5,
-  "cityCount": 1019,
+  "cityCount": 1024,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6842,6 +6842,51 @@
         "minLng": -16.507,
         "maxLat": 16.031,
         "maxLng": -16.499
+      }
+    },
+    "st/agua-grande/sao-tome": {
+      "name": "Sao Tome",
+      "bbox": {
+        "minLat": 0.337,
+        "minLng": 6.731,
+        "maxLat": 0.34,
+        "maxLng": 6.735
+      }
+    },
+    "st/caue/cao-grande": {
+      "name": "Cao Grande",
+      "bbox": {
+        "minLat": 0.116,
+        "minLng": 6.564,
+        "maxLat": 0.124,
+        "maxLng": 6.572
+      }
+    },
+    "st/lemba/pico-sao-tome": {
+      "name": "Pico Sao Tome",
+      "bbox": {
+        "minLat": 0.268,
+        "minLng": 6.542,
+        "maxLat": 0.276,
+        "maxLng": 6.55
+      }
+    },
+    "st/lobata/lagoa-azul": {
+      "name": "Lagoa Azul",
+      "bbox": {
+        "minLat": 0.404,
+        "minLng": 6.608,
+        "maxLat": 0.41,
+        "maxLng": 6.615
+      }
+    },
+    "st/principe/principe": {
+      "name": "Principe",
+      "bbox": {
+        "minLat": 1.688,
+        "minLng": 7.439,
+        "maxLat": 1.695,
+        "maxLng": 7.447
       }
     },
     "sz/hhohho/lobamba": {
@@ -13806,6 +13851,15 @@
     ],
     "-2,20": [
       "ga/moyen-ogooue/lambarene"
+    ],
+    "0,13": [
+      "st/agua-grande/sao-tome",
+      "st/caue/cao-grande",
+      "st/lemba/pico-sao-tome",
+      "st/lobata/lagoa-azul"
+    ],
+    "3,14": [
+      "st/principe/principe"
     ]
   }
 }

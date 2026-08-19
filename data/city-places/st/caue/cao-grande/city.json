@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "st/caue/cao-grande",
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "stateCode": "02",
+  "stateName": "Caue",
+  "cityName": "Cao Grande",
+  "bbox": {
+    "minLat": 0.116,
+    "minLng": 6.564,
+    "maxLat": 0.124,
+    "maxLng": 6.572
+  },
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pico-cao-grande",
+      "name": "Pico Cao Grande",
+      "lat": 0.11819,
+      "lng": 6.56636,
+      "radiusM": 150,
+      "address": "Cau\u00e9",
+      "howTo": "Visit Pico Cao Grande.",
+      "badge": "badges/pico-cao-grande.png"
+    },
+    {
+      "id": "cao-grande-forest",
+      "name": "Cao Grande Forest",
+      "lat": 0.122,
+      "lng": 6.57,
+      "radiusM": 150,
+      "address": "Cau\u00e9",
+      "howTo": "Visit Cao Grande Forest.",
+      "badge": "badges/cao-grande-forest.png"
+    }
+  ]
+}

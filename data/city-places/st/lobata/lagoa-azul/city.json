@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "st/lobata/lagoa-azul",
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "stateCode": "04",
+  "stateName": "Lobata",
+  "cityName": "Lagoa Azul",
+  "bbox": {
+    "minLat": 0.404,
+    "minLng": 6.608,
+    "maxLat": 0.41,
+    "maxLng": 6.615
+  },
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lagoa-azul",
+      "name": "Lagoa Azul",
+      "lat": 0.40565,
+      "lng": 6.60995,
+      "radiusM": 80,
+      "address": "Lobata",
+      "howTo": "Visit Lagoa Azul.",
+      "badge": "badges/lagoa-azul.png"
+    },
+    {
+      "id": "lagoa-shore",
+      "name": "Lagoa Shore",
+      "lat": 0.408,
+      "lng": 6.613,
+      "radiusM": 80,
+      "address": "Lobata",
+      "howTo": "Visit Lagoa Shore.",
+      "badge": "badges/lagoa-shore.png"
+    }
+  ]
+}

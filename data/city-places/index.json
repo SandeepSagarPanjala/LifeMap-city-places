@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:22:46.000Z",
-  "notes": "Gabon (ga) complete. Next: S\u00e3o Tom\u00e9 and Pr\u00edncipe (st) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "notes": "S\u00e3o Tom\u00e9 and Pr\u00edncipe (st) complete. Next: Equatorial Guinea (gq) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19556,6 +19556,118 @@
                 "minLng": 10.228,
                 "maxLat": -0.675,
                 "maxLng": 10.237
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "st",
+      "countryCode": "ST",
+      "name": "Sao Tome and Principe",
+      "states": [
+        {
+          "id": "agua-grande",
+          "stateCode": "01",
+          "name": "Agua Grande",
+          "cities": [
+            {
+              "id": "sao-tome",
+              "name": "Sao Tome",
+              "status": "complete",
+              "packPath": "st/agua-grande/sao-tome/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:27:42.000Z",
+              "bbox": {
+                "minLat": 0.337,
+                "minLng": 6.731,
+                "maxLat": 0.34,
+                "maxLng": 6.735
+              }
+            }
+          ]
+        },
+        {
+          "id": "caue",
+          "stateCode": "02",
+          "name": "Caue",
+          "cities": [
+            {
+              "id": "cao-grande",
+              "name": "Cao Grande",
+              "status": "complete",
+              "packPath": "st/caue/cao-grande/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:27:42.000Z",
+              "bbox": {
+                "minLat": 0.116,
+                "minLng": 6.564,
+                "maxLat": 0.124,
+                "maxLng": 6.572
+              }
+            }
+          ]
+        },
+        {
+          "id": "lemba",
+          "stateCode": "03",
+          "name": "Lemba",
+          "cities": [
+            {
+              "id": "pico-sao-tome",
+              "name": "Pico Sao Tome",
+              "status": "complete",
+              "packPath": "st/lemba/pico-sao-tome/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:27:42.000Z",
+              "bbox": {
+                "minLat": 0.268,
+                "minLng": 6.542,
+                "maxLat": 0.276,
+                "maxLng": 6.55
+              }
+            }
+          ]
+        },
+        {
+          "id": "lobata",
+          "stateCode": "04",
+          "name": "Lobata",
+          "cities": [
+            {
+              "id": "lagoa-azul",
+              "name": "Lagoa Azul",
+              "status": "complete",
+              "packPath": "st/lobata/lagoa-azul/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:27:42.000Z",
+              "bbox": {
+                "minLat": 0.404,
+                "minLng": 6.608,
+                "maxLat": 0.41,
+                "maxLng": 6.615
+              }
+            }
+          ]
+        },
+        {
+          "id": "principe",
+          "stateCode": "P",
+          "name": "Principe",
+          "cities": [
+            {
+              "id": "principe",
+              "name": "Principe",
+              "status": "complete",
+              "packPath": "st/principe/principe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:27:42.000Z",
+              "bbox": {
+                "minLat": 1.688,
+                "minLng": 7.439,
+                "maxLat": 1.695,
+                "maxLng": 7.447
               }
             }
           ]

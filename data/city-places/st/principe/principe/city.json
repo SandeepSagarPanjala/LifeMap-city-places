@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "st/principe/principe",
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "stateCode": "P",
+  "stateName": "Principe",
+  "cityName": "Principe",
+  "bbox": {
+    "minLat": 1.688,
+    "minLng": 7.439,
+    "maxLat": 1.695,
+    "maxLng": 7.447
+  },
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "praia-banana",
+      "name": "Praia Banana",
+      "lat": 1.69043,
+      "lng": 7.44167,
+      "radiusM": 80,
+      "address": "Pr\u00edncipe",
+      "howTo": "Visit Praia Banana.",
+      "badge": "badges/praia-banana.png"
+    },
+    {
+      "id": "banana-cove",
+      "name": "Banana Cove",
+      "lat": 1.693,
+      "lng": 7.445,
+      "radiusM": 80,
+      "address": "Pr\u00edncipe",
+      "howTo": "Visit Banana Cove.",
+      "badge": "badges/banana-cove.png"
+    }
+  ]
+}

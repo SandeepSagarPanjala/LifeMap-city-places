@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "st/agua-grande/sao-tome",
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "stateCode": "01",
+  "stateName": "Agua Grande",
+  "cityName": "Sao Tome",
+  "bbox": {
+    "minLat": 0.337,
+    "minLng": 6.731,
+    "maxLat": 0.34,
+    "maxLng": 6.735
+  },
+  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedral",
+      "name": "Se Catedral",
+      "lat": 0.33836,
+      "lng": 6.73271,
+      "radiusM": 40,
+      "address": "S\u00e3o Tom\u00e9",
+      "howTo": "Visit Se Catedral.",
+      "badge": "badges/cathedral.png"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Presidential Palace",
+      "lat": 0.33905,
+      "lng": 6.73325,
+      "radiusM": 40,
+      "address": "S\u00e3o Tom\u00e9",
+      "howTo": "Visit Presidential Palace.",
+      "badge": "badges/presidential-palace.png"
+    }
+  ]
+}
