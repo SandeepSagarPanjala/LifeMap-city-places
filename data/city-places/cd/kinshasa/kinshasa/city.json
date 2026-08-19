@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cd/kinshasa/kinshasa",
+  "countryCode": "CD",
+  "countryName": "Democratic Republic of the Congo",
+  "stateCode": "KN",
+  "stateName": "Kinshasa",
+  "cityName": "Kinshasa",
+  "bbox": {
+    "minLat": -4.325,
+    "minLng": 15.292,
+    "maxLat": -4.32,
+    "maxLng": 15.296
+  },
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nd-congo",
+      "name": "Cathedrale Notre-Dame du Congo",
+      "lat": -4.32381,
+      "lng": 15.29463,
+      "radiusM": 50,
+      "address": "Kinshasa",
+      "howTo": "Visit Cathedrale Notre-Dame du Congo.",
+      "badge": "badges/nd-congo.png"
+    },
+    {
+      "id": "beaux-arts",
+      "name": "Academie des Beaux-Arts",
+      "lat": -4.32149,
+      "lng": 15.29338,
+      "radiusM": 40,
+      "address": "Kinshasa",
+      "howTo": "Visit Academie des Beaux-Arts.",
+      "badge": "badges/beaux-arts.png"
+    }
+  ]
+}

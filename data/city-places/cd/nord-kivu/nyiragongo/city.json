@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cd/nord-kivu/nyiragongo",
+  "countryCode": "CD",
+  "countryName": "Democratic Republic of the Congo",
+  "stateCode": "NK",
+  "stateName": "Nord-Kivu",
+  "cityName": "Nyiragongo",
+  "bbox": {
+    "minLat": -1.523,
+    "minLng": 29.248,
+    "maxLat": -1.516,
+    "maxLng": 29.255
+  },
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nyiragongo",
+      "name": "Nyiragongo",
+      "lat": -1.52145,
+      "lng": 29.24995,
+      "radiusM": 250,
+      "address": "Nord-Kivu",
+      "howTo": "Visit Nyiragongo.",
+      "badge": "badges/nyiragongo.png"
+    },
+    {
+      "id": "nyiragongo-slopes",
+      "name": "Nyiragongo Slopes",
+      "lat": -1.518,
+      "lng": 29.253,
+      "radiusM": 200,
+      "address": "Nord-Kivu",
+      "howTo": "Visit Nyiragongo Slopes.",
+      "badge": "badges/nyiragongo-slopes.png"
+    }
+  ]
+}

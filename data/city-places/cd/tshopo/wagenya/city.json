@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cd/tshopo/wagenya",
+  "countryCode": "CD",
+  "countryName": "Democratic Republic of the Congo",
+  "stateCode": "TO",
+  "stateName": "Tshopo",
+  "cityName": "Wagenya",
+  "bbox": {
+    "minLat": 0.491,
+    "minLng": 25.205,
+    "maxLat": 0.497,
+    "maxLng": 25.212
+  },
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wagenya-falls",
+      "name": "Chutes Wagenya",
+      "lat": 0.49272,
+      "lng": 25.20721,
+      "radiusM": 80,
+      "address": "Kisangani",
+      "howTo": "Visit Chutes Wagenya.",
+      "badge": "badges/wagenya-falls.png"
+    },
+    {
+      "id": "wagenya-river",
+      "name": "Wagenya River",
+      "lat": 0.495,
+      "lng": 25.21,
+      "radiusM": 80,
+      "address": "Kisangani",
+      "howTo": "Visit Wagenya River.",
+      "badge": "badges/wagenya-river.png"
+    }
+  ]
+}

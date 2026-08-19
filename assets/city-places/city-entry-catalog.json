@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:33:33.925Z",
+  "generatedAt": "2026-08-19T02:39:24.633Z",
   "cellDeg": 0.5,
-  "cityCount": 1084,
+  "cityCount": 1089,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1091,6 +1091,51 @@
         "minLng": -71.22,
         "maxLat": 46.82,
         "maxLng": -71.2
+      }
+    },
+    "cd/haut-katanga/lubumbashi": {
+      "name": "Lubumbashi",
+      "bbox": {
+        "minLat": -11.667,
+        "minLng": 27.478,
+        "maxLat": -11.662,
+        "maxLng": 27.484
+      }
+    },
+    "cd/kinshasa/kinshasa": {
+      "name": "Kinshasa",
+      "bbox": {
+        "minLat": -4.325,
+        "minLng": 15.292,
+        "maxLat": -4.32,
+        "maxLng": 15.296
+      }
+    },
+    "cd/nord-kivu/goma": {
+      "name": "Goma",
+      "bbox": {
+        "minLat": -1.654,
+        "minLng": 29.169,
+        "maxLat": -1.649,
+        "maxLng": 29.175
+      }
+    },
+    "cd/nord-kivu/nyiragongo": {
+      "name": "Nyiragongo",
+      "bbox": {
+        "minLat": -1.523,
+        "minLng": 29.248,
+        "maxLat": -1.516,
+        "maxLng": 29.255
+      }
+    },
+    "cd/tshopo/wagenya": {
+      "name": "Wagenya",
+      "bbox": {
+        "minLat": 0.491,
+        "minLng": 25.205,
+        "maxLat": 0.497,
+        "maxLng": 25.212
       }
     },
     "cg/brazzaville/brazzaville": {
@@ -14097,6 +14142,8 @@
       "rw/kigali/kigali"
     ],
     "-4,58": [
+      "cd/nord-kivu/goma",
+      "cd/nord-kivu/nyiragongo",
       "rw/northern/volcanoes",
       "rw/western/rubavu"
     ],
@@ -14545,6 +14592,7 @@
       "ne/tillaberi/parc-w"
     ],
     "-9,30": [
+      "cd/kinshasa/kinshasa",
       "cg/brazzaville/brazzaville"
     ],
     "-10,23": [
@@ -14554,6 +14602,12 @@
     ],
     "-10,29": [
       "cg/pool/loufoulakari"
+    ],
+    "-24,54": [
+      "cd/haut-katanga/lubumbashi"
+    ],
+    "0,50": [
+      "cd/tshopo/wagenya"
     ]
   }
 }

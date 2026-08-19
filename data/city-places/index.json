@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:33:33.000Z",
-  "notes": "Republic of the Congo (cg) complete. Next: Democratic Republic of the Congo (cd) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "notes": "Democratic Republic of the Congo (cd) complete. Next: Djibouti (dj) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20893,6 +20893,111 @@
                 "minLng": 11.844,
                 "maxLat": -4.616,
                 "maxLng": 11.851
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd",
+      "countryCode": "CD",
+      "name": "Democratic Republic of the Congo",
+      "states": [
+        {
+          "id": "kinshasa",
+          "stateCode": "KN",
+          "name": "Kinshasa",
+          "cities": [
+            {
+              "id": "kinshasa",
+              "name": "Kinshasa",
+              "status": "complete",
+              "packPath": "cd/kinshasa/kinshasa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:39:24.000Z",
+              "bbox": {
+                "minLat": -4.325,
+                "minLng": 15.292,
+                "maxLat": -4.32,
+                "maxLng": 15.296
+              }
+            }
+          ]
+        },
+        {
+          "id": "nord-kivu",
+          "stateCode": "NK",
+          "name": "Nord-Kivu",
+          "cities": [
+            {
+              "id": "nyiragongo",
+              "name": "Nyiragongo",
+              "status": "complete",
+              "packPath": "cd/nord-kivu/nyiragongo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:39:24.000Z",
+              "bbox": {
+                "minLat": -1.523,
+                "minLng": 29.248,
+                "maxLat": -1.516,
+                "maxLng": 29.255
+              }
+            },
+            {
+              "id": "goma",
+              "name": "Goma",
+              "status": "complete",
+              "packPath": "cd/nord-kivu/goma/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:39:24.000Z",
+              "bbox": {
+                "minLat": -1.654,
+                "minLng": 29.169,
+                "maxLat": -1.649,
+                "maxLng": 29.175
+              }
+            }
+          ]
+        },
+        {
+          "id": "haut-katanga",
+          "stateCode": "HK",
+          "name": "Haut-Katanga",
+          "cities": [
+            {
+              "id": "lubumbashi",
+              "name": "Lubumbashi",
+              "status": "complete",
+              "packPath": "cd/haut-katanga/lubumbashi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:39:24.000Z",
+              "bbox": {
+                "minLat": -11.667,
+                "minLng": 27.478,
+                "maxLat": -11.662,
+                "maxLng": 27.484
+              }
+            }
+          ]
+        },
+        {
+          "id": "tshopo",
+          "stateCode": "TO",
+          "name": "Tshopo",
+          "cities": [
+            {
+              "id": "wagenya",
+              "name": "Wagenya",
+              "status": "complete",
+              "packPath": "cd/tshopo/wagenya/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:39:24.000Z",
+              "bbox": {
+                "minLat": 0.491,
+                "minLng": 25.205,
+                "maxLat": 0.497,
+                "maxLng": 25.212
               }
             }
           ]

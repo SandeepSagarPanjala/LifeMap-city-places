@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cd/haut-katanga/lubumbashi",
+  "countryCode": "CD",
+  "countryName": "Democratic Republic of the Congo",
+  "stateCode": "HK",
+  "stateName": "Haut-Katanga",
+  "cityName": "Lubumbashi",
+  "bbox": {
+    "minLat": -11.667,
+    "minLng": 27.478,
+    "maxLat": -11.662,
+    "maxLng": 27.484
+  },
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ssp-cathedral",
+      "name": "Cathedrale Saints-Pierre-et-Paul",
+      "lat": -11.6657,
+      "lng": 27.47982,
+      "radiusM": 50,
+      "address": "Lubumbashi",
+      "howTo": "Visit Cathedrale Saints-Pierre-et-Paul.",
+      "badge": "badges/ssp-cathedral.png"
+    },
+    {
+      "id": "lubumbashi-nave",
+      "name": "Lubumbashi Nave",
+      "lat": -11.6635,
+      "lng": 27.482,
+      "radiusM": 40,
+      "address": "Lubumbashi",
+      "howTo": "Visit Lubumbashi Nave.",
+      "badge": "badges/lubumbashi-nave.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cd/nord-kivu/goma",
+  "countryCode": "CD",
+  "countryName": "Democratic Republic of the Congo",
+  "stateCode": "NK",
+  "stateName": "Nord-Kivu",
+  "cityName": "Goma",
+  "bbox": {
+    "minLat": -1.654,
+    "minLng": 29.169,
+    "maxLat": -1.649,
+    "maxLng": 29.175
+  },
+  "updatedAt": "2026-08-19T02:39:24.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "goma-cathedral",
+      "name": "Cathedrale de Goma",
+      "lat": -1.65251,
+      "lng": 29.17098,
+      "radiusM": 50,
+      "address": "Goma",
+      "howTo": "Visit Cathedrale de Goma.",
+      "badge": "badges/goma-cathedral.png"
+    },
+    {
+      "id": "goma-gardens",
+      "name": "Goma Gardens",
+      "lat": -1.6505,
+      "lng": 29.1735,
+      "radiusM": 40,
+      "address": "Goma",
+      "howTo": "Visit Goma Gardens.",
+      "badge": "badges/goma-gardens.png"
+    }
+  ]
+}
