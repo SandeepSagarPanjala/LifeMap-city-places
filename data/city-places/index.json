@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:08:18.000Z",
-  "notes": "Ivory Coast (ci) complete. Next: Cameroon (cm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:14:14.000Z",
+  "notes": "Cameroon (cm) complete. Next: Madagascar (mg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18142,6 +18142,111 @@
                 "minLng": -7.555,
                 "maxLat": 7.457,
                 "maxLng": -7.545
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cm",
+      "countryCode": "CM",
+      "name": "Cameroon",
+      "states": [
+        {
+          "id": "centre",
+          "stateCode": "CE",
+          "name": "Centre",
+          "cities": [
+            {
+              "id": "yaounde",
+              "name": "Yaounde",
+              "status": "complete",
+              "packPath": "cm/centre/yaounde/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:14:14.000Z",
+              "bbox": {
+                "minLat": 3.85,
+                "minLng": 11.511,
+                "maxLat": 3.865,
+                "maxLng": 11.523
+              }
+            }
+          ]
+        },
+        {
+          "id": "littoral",
+          "stateCode": "LT",
+          "name": "Littoral",
+          "cities": [
+            {
+              "id": "douala",
+              "name": "Douala",
+              "status": "complete",
+              "packPath": "cm/littoral/douala/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:14:14.000Z",
+              "bbox": {
+                "minLat": 4.042,
+                "minLng": 9.684,
+                "maxLat": 4.046,
+                "maxLng": 9.695
+              }
+            }
+          ]
+        },
+        {
+          "id": "southwest",
+          "stateCode": "SW",
+          "name": "Southwest",
+          "cities": [
+            {
+              "id": "limbe",
+              "name": "Limbe",
+              "status": "complete",
+              "packPath": "cm/southwest/limbe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:14:14.000Z",
+              "bbox": {
+                "minLat": 4.006,
+                "minLng": 9.195,
+                "maxLat": 4.015,
+                "maxLng": 9.209
+              }
+            },
+            {
+              "id": "mount-cameroon",
+              "name": "Mount Cameroon",
+              "status": "complete",
+              "packPath": "cm/southwest/mount-cameroon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:14:14.000Z",
+              "bbox": {
+                "minLat": 4.208,
+                "minLng": 9.17,
+                "maxLat": 4.221,
+                "maxLng": 9.181
+              }
+            }
+          ]
+        },
+        {
+          "id": "sud",
+          "stateCode": "SU",
+          "name": "Sud",
+          "cities": [
+            {
+              "id": "kribi",
+              "name": "Kribi",
+              "status": "complete",
+              "packPath": "cm/sud/kribi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:14:14.000Z",
+              "bbox": {
+                "minLat": 2.878,
+                "minLng": 9.895,
+                "maxLat": 2.885,
+                "maxLng": 9.901
               }
             }
           ]

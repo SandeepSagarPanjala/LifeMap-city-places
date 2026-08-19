@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cm/southwest/limbe",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "stateCode": "SW",
+  "stateName": "Southwest",
+  "cityName": "Limbe",
+  "bbox": {
+    "minLat": 4.006,
+    "minLng": 9.195,
+    "maxLat": 4.015,
+    "maxLng": 9.209
+  },
+  "updatedAt": "2026-08-19T00:14:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "limbe-botanical-garden",
+      "name": "Limbe Botanical Garden",
+      "lat": 4.01273,
+      "lng": 9.1975,
+      "radiusM": 100,
+      "address": "Limbe",
+      "howTo": "Visit Limbe Botanical Garden.",
+      "badge": "badges/limbe-botanical-garden.png"
+    },
+    {
+      "id": "limbe-beach",
+      "name": "Limbe Beach",
+      "lat": 4.00836,
+      "lng": 9.20635,
+      "radiusM": 120,
+      "address": "Limbe",
+      "howTo": "Visit Limbe Beach.",
+      "badge": "badges/limbe-beach.png"
+    }
+  ]
+}

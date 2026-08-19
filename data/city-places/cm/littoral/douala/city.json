@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cm/littoral/douala",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "stateCode": "LT",
+  "stateName": "Littoral",
+  "cityName": "Douala",
+  "bbox": {
+    "minLat": 4.042,
+    "minLng": 9.684,
+    "maxLat": 4.046,
+    "maxLng": 9.695
+  },
+  "updatedAt": "2026-08-19T00:14:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-pierre-cathedral",
+      "name": "St. Pierre Cathedral",
+      "lat": 4.04417,
+      "lng": 9.69259,
+      "radiusM": 60,
+      "address": "Douala",
+      "howTo": "Visit St. Pierre Cathedral.",
+      "badge": "badges/st-pierre-cathedral.png"
+    },
+    {
+      "id": "palais-de-justice",
+      "name": "Palais de Justice",
+      "lat": 4.04368,
+      "lng": 9.68649,
+      "radiusM": 60,
+      "address": "Douala",
+      "howTo": "Visit Palais de Justice.",
+      "badge": "badges/palais-de-justice.png"
+    }
+  ]
+}

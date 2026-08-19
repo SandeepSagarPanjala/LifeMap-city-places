@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cm/southwest/mount-cameroon",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "stateCode": "SW",
+  "stateName": "Southwest",
+  "cityName": "Mount Cameroon",
+  "bbox": {
+    "minLat": 4.208,
+    "minLng": 9.17,
+    "maxLat": 4.221,
+    "maxLng": 9.181
+  },
+  "updatedAt": "2026-08-19T00:14:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-cameroon",
+      "name": "Mount Cameroon",
+      "lat": 4.21803,
+      "lng": 9.17336,
+      "radiusM": 250,
+      "address": "Mount Cameroon",
+      "howTo": "Visit Mount Cameroon.",
+      "badge": "badges/mount-cameroon.png"
+    },
+    {
+      "id": "cameroon-slopes",
+      "name": "Cameroon Slopes",
+      "lat": 4.21,
+      "lng": 9.178,
+      "radiusM": 250,
+      "address": "Mount Cameroon",
+      "howTo": "Visit Cameroon Slopes.",
+      "badge": "badges/cameroon-slopes.png"
+    }
+  ]
+}

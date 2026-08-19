@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cm/centre/yaounde",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "stateCode": "CE",
+  "stateName": "Centre",
+  "cityName": "Yaounde",
+  "bbox": {
+    "minLat": 3.85,
+    "minLng": 11.511,
+    "maxLat": 3.865,
+    "maxLng": 11.523
+  },
+  "updatedAt": "2026-08-19T00:14:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "reunification-monument",
+      "name": "Reunification Monument",
+      "lat": 3.8527,
+      "lng": 11.51318,
+      "radiusM": 80,
+      "address": "Yaounde",
+      "howTo": "Visit Reunification Monument.",
+      "badge": "badges/reunification-monument.png"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre-Dame Cathedral",
+      "lat": 3.86312,
+      "lng": 11.521,
+      "radiusM": 60,
+      "address": "Yaounde",
+      "howTo": "Visit Notre-Dame Cathedral.",
+      "badge": "badges/notre-dame.png"
+    }
+  ]
+}

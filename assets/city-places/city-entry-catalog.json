@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:08:18.691Z",
+  "generatedAt": "2026-08-19T00:14:14.620Z",
   "cellDeg": 0.5,
-  "cityCount": 949,
+  "cityCount": 954,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1100,6 +1100,51 @@
         "minLng": -71.58,
         "maxLat": -33,
         "maxLng": -71.54
+      }
+    },
+    "cm/centre/yaounde": {
+      "name": "Yaounde",
+      "bbox": {
+        "minLat": 3.85,
+        "minLng": 11.511,
+        "maxLat": 3.865,
+        "maxLng": 11.523
+      }
+    },
+    "cm/littoral/douala": {
+      "name": "Douala",
+      "bbox": {
+        "minLat": 4.042,
+        "minLng": 9.684,
+        "maxLat": 4.046,
+        "maxLng": 9.695
+      }
+    },
+    "cm/southwest/limbe": {
+      "name": "Limbe",
+      "bbox": {
+        "minLat": 4.006,
+        "minLng": 9.195,
+        "maxLat": 4.015,
+        "maxLng": 9.209
+      }
+    },
+    "cm/southwest/mount-cameroon": {
+      "name": "Mount Cameroon",
+      "bbox": {
+        "minLat": 4.208,
+        "minLng": 9.17,
+        "maxLat": 4.221,
+        "maxLng": 9.181
+      }
+    },
+    "cm/sud/kribi": {
+      "name": "Kribi",
+      "bbox": {
+        "minLat": 2.878,
+        "minLng": 9.895,
+        "maxLat": 2.885,
+        "maxLng": 9.901
       }
     },
     "co/antioquia/medellin": {
@@ -12985,6 +13030,19 @@
     ],
     "14,-16": [
       "ci/montagnes/man"
+    ],
+    "7,23": [
+      "cm/centre/yaounde"
+    ],
+    "8,19": [
+      "cm/littoral/douala"
+    ],
+    "8,18": [
+      "cm/southwest/limbe",
+      "cm/southwest/mount-cameroon"
+    ],
+    "5,19": [
+      "cm/sud/kribi"
     ]
   }
 }
