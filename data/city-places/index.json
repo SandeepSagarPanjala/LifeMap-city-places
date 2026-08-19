@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:40:12.000Z",
-  "notes": "Burundi (bi) complete. Next: Guinea (gn) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "notes": "Guinea (gn) complete. Next: Sierra Leone (sl) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19871,6 +19871,111 @@
                 "minLng": 29.35,
                 "maxLat": -3.477,
                 "maxLng": 29.357
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gn",
+      "countryCode": "GN",
+      "name": "Guinea",
+      "states": [
+        {
+          "id": "conakry",
+          "stateCode": "C",
+          "name": "Conakry",
+          "cities": [
+            {
+              "id": "conakry",
+              "name": "Conakry",
+              "status": "complete",
+              "packPath": "gn/conakry/conakry/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:45:54.000Z",
+              "bbox": {
+                "minLat": 9.509,
+                "minLng": -13.719,
+                "maxLat": 9.512,
+                "maxLng": -13.714
+              }
+            },
+            {
+              "id": "ile-room",
+              "name": "Ile Room",
+              "status": "complete",
+              "packPath": "gn/conakry/ile-room/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:45:54.000Z",
+              "bbox": {
+                "minLat": 9.461,
+                "minLng": -13.798,
+                "maxLat": 9.468,
+                "maxLng": -13.789
+              }
+            }
+          ]
+        },
+        {
+          "id": "kindia",
+          "stateCode": "D",
+          "name": "Kindia",
+          "cities": [
+            {
+              "id": "kindia",
+              "name": "Kindia",
+              "status": "complete",
+              "packPath": "gn/kindia/kindia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:45:54.000Z",
+              "bbox": {
+                "minLat": 9.98,
+                "minLng": -12.799,
+                "maxLat": 9.987,
+                "maxLng": -12.791
+              }
+            }
+          ]
+        },
+        {
+          "id": "pita",
+          "stateCode": "M",
+          "name": "Mamou",
+          "cities": [
+            {
+              "id": "kinkon",
+              "name": "Kinkon",
+              "status": "complete",
+              "packPath": "gn/pita/kinkon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:45:54.000Z",
+              "bbox": {
+                "minLat": 11.064,
+                "minLng": -12.456,
+                "maxLat": 11.07,
+                "maxLng": -12.449
+              }
+            }
+          ]
+        },
+        {
+          "id": "lola",
+          "stateCode": "N",
+          "name": "Nzerekore",
+          "cities": [
+            {
+              "id": "mont-nimba",
+              "name": "Mont Nimba",
+              "status": "complete",
+              "packPath": "gn/lola/mont-nimba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:45:54.000Z",
+              "bbox": {
+                "minLat": 7.624,
+                "minLng": -8.407,
+                "maxLat": 7.632,
+                "maxLng": -8.398
               }
             }
           ]

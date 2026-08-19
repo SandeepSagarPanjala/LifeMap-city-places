@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gn/conakry/ile-room",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "stateCode": "C",
+  "stateName": "Conakry",
+  "cityName": "Ile Room",
+  "bbox": {
+    "minLat": 9.461,
+    "minLng": -13.798,
+    "maxLat": 9.468,
+    "maxLng": -13.789
+  },
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ile-room",
+      "name": "Ile Room",
+      "lat": 9.46324,
+      "lng": -13.79511,
+      "radiusM": 120,
+      "address": "\u00celes de Loos",
+      "howTo": "Visit Ile Room.",
+      "badge": "badges/ile-room.png"
+    },
+    {
+      "id": "room-cove",
+      "name": "Room Cove",
+      "lat": 9.466,
+      "lng": -13.791,
+      "radiusM": 80,
+      "address": "\u00celes de Loos",
+      "howTo": "Visit Room Cove.",
+      "badge": "badges/room-cove.png"
+    }
+  ]
+}

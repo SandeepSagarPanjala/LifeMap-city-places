@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gn/kindia/kindia",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "stateCode": "D",
+  "stateName": "Kindia",
+  "cityName": "Kindia",
+  "bbox": {
+    "minLat": 9.98,
+    "minLng": -12.799,
+    "maxLat": 9.987,
+    "maxLng": -12.791
+  },
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "voile-mariee",
+      "name": "Voile de la Mariee",
+      "lat": 9.98249,
+      "lng": -12.79638,
+      "radiusM": 80,
+      "address": "Kindia",
+      "howTo": "Visit Voile de la Mariee.",
+      "badge": "badges/voile-mariee.png"
+    },
+    {
+      "id": "kindia-forest",
+      "name": "Kindia Forest",
+      "lat": 9.985,
+      "lng": -12.793,
+      "radiusM": 100,
+      "address": "Kindia",
+      "howTo": "Visit Kindia Forest.",
+      "badge": "badges/kindia-forest.png"
+    }
+  ]
+}

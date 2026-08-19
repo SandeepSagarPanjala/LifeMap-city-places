@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gn/lola/mont-nimba",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "stateCode": "N",
+  "stateName": "Nzerekore",
+  "cityName": "Mont Nimba",
+  "bbox": {
+    "minLat": 7.624,
+    "minLng": -8.407,
+    "maxLat": 7.632,
+    "maxLng": -8.398
+  },
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mont-nimba",
+      "name": "Mont Nimba",
+      "lat": 7.62628,
+      "lng": -8.40478,
+      "radiusM": 250,
+      "address": "Lola",
+      "howTo": "Visit Mont Nimba.",
+      "badge": "badges/mont-nimba.png"
+    },
+    {
+      "id": "nimba-slopes",
+      "name": "Nimba Slopes",
+      "lat": 7.63,
+      "lng": -8.4,
+      "radiusM": 200,
+      "address": "Lola",
+      "howTo": "Visit Nimba Slopes.",
+      "badge": "badges/nimba-slopes.png"
+    }
+  ]
+}

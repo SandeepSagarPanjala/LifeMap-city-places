@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:40:13.017Z",
+  "generatedAt": "2026-08-19T01:45:54.557Z",
   "cellDeg": 0.5,
-  "cityCount": 1034,
+  "cityCount": 1039,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2765,6 +2765,51 @@
         "minLng": -1.8585,
         "maxLat": 9.2625,
         "maxLng": -1.8515
+      }
+    },
+    "gn/conakry/conakry": {
+      "name": "Conakry",
+      "bbox": {
+        "minLat": 9.509,
+        "minLng": -13.719,
+        "maxLat": 9.512,
+        "maxLng": -13.714
+      }
+    },
+    "gn/conakry/ile-room": {
+      "name": "Ile Room",
+      "bbox": {
+        "minLat": 9.461,
+        "minLng": -13.798,
+        "maxLat": 9.468,
+        "maxLng": -13.789
+      }
+    },
+    "gn/kindia/kindia": {
+      "name": "Kindia",
+      "bbox": {
+        "minLat": 9.98,
+        "minLng": -12.799,
+        "maxLat": 9.987,
+        "maxLng": -12.791
+      }
+    },
+    "gn/lola/mont-nimba": {
+      "name": "Mont Nimba",
+      "bbox": {
+        "minLat": 7.624,
+        "minLng": -8.407,
+        "maxLat": 7.632,
+        "maxLng": -8.398
+      }
+    },
+    "gn/pita/kinkon": {
+      "name": "Kinkon",
+      "bbox": {
+        "minLat": 11.064,
+        "minLng": -12.456,
+        "maxLat": 11.07,
+        "maxLng": -12.449
       }
     },
     "gq/bioko-norte/malabo": {
@@ -13972,6 +14017,21 @@
     ],
     "-7,59": [
       "bi/gitega/gitega"
+    ],
+    "19,-28": [
+      "gn/conakry/conakry"
+    ],
+    "18,-28": [
+      "gn/conakry/ile-room"
+    ],
+    "19,-26": [
+      "gn/kindia/kindia"
+    ],
+    "22,-25": [
+      "gn/pita/kinkon"
+    ],
+    "15,-17": [
+      "gn/lola/mont-nimba"
     ]
   }
 }

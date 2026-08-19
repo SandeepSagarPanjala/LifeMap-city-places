@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gn/conakry/conakry",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "stateCode": "C",
+  "stateName": "Conakry",
+  "cityName": "Conakry",
+  "bbox": {
+    "minLat": 9.509,
+    "minLng": -13.719,
+    "maxLat": 9.512,
+    "maxLng": -13.714
+  },
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sainte-marie",
+      "name": "Cathedrale Sainte-Marie",
+      "lat": 9.51017,
+      "lng": -13.71545,
+      "radiusM": 50,
+      "address": "Conakry",
+      "howTo": "Visit Cathedrale Sainte-Marie.",
+      "badge": "badges/sainte-marie.png"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Palais Presidentiel",
+      "lat": 9.51071,
+      "lng": -13.71757,
+      "radiusM": 50,
+      "address": "Conakry",
+      "howTo": "Visit Palais Presidentiel.",
+      "badge": "badges/presidential-palace.png"
+    }
+  ]
+}

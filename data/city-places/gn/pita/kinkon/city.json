@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gn/pita/kinkon",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "stateCode": "M",
+  "stateName": "Mamou",
+  "cityName": "Kinkon",
+  "bbox": {
+    "minLat": 11.064,
+    "minLng": -12.456,
+    "maxLat": 11.07,
+    "maxLng": -12.449
+  },
+  "updatedAt": "2026-08-19T01:45:54.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kinkon",
+      "name": "Kinkon",
+      "lat": 11.06604,
+      "lng": -12.45434,
+      "radiusM": 100,
+      "address": "Pita",
+      "howTo": "Visit Kinkon.",
+      "badge": "badges/kinkon.png"
+    },
+    {
+      "id": "kinkon-falls",
+      "name": "Kinkon Falls",
+      "lat": 11.0685,
+      "lng": -12.451,
+      "radiusM": 80,
+      "address": "Pita",
+      "howTo": "Visit Kinkon Falls.",
+      "badge": "badges/kinkon-falls.png"
+    }
+  ]
+}
