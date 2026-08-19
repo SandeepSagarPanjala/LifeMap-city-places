@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mu/port-louis/port-louis",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "stateCode": "PL",
+  "stateName": "Port Louis",
+  "cityName": "Port Louis",
+  "bbox": {
+    "minLat": -20.163,
+    "minLng": 57.496,
+    "maxLat": -20.157,
+    "maxLng": 57.505
+  },
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aapravasi-ghat",
+      "name": "Aapravasi Ghat",
+      "lat": -20.15857,
+      "lng": 57.50311,
+      "radiusM": 50,
+      "address": "Port Louis",
+      "howTo": "Visit Aapravasi Ghat.",
+      "badge": "badges/aapravasi-ghat.png"
+    },
+    {
+      "id": "caudan-waterfront",
+      "name": "Caudan Waterfront",
+      "lat": -20.16095,
+      "lng": 57.49854,
+      "radiusM": 80,
+      "address": "Port Louis",
+      "howTo": "Visit Caudan Waterfront.",
+      "badge": "badges/caudan-waterfront.png"
+    }
+  ]
+}

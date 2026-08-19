@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mu/flacq/ile-aux-cerfs",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "stateCode": "FL",
+  "stateName": "Flacq",
+  "cityName": "Ile aux Cerfs",
+  "bbox": {
+    "minLat": -20.277,
+    "minLng": 57.801,
+    "maxLat": -20.27,
+    "maxLng": 57.811
+  },
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ile-aux-cerfs",
+      "name": "Ile aux Cerfs",
+      "lat": -20.27203,
+      "lng": 57.80367,
+      "radiusM": 150,
+      "address": "Ile aux Cerfs",
+      "howTo": "Visit Ile aux Cerfs.",
+      "badge": "badges/ile-aux-cerfs.png"
+    },
+    {
+      "id": "cerfs-lagoon",
+      "name": "Cerfs Lagoon",
+      "lat": -20.275,
+      "lng": 57.808,
+      "radiusM": 150,
+      "address": "Ile aux Cerfs",
+      "howTo": "Visit Cerfs Lagoon.",
+      "badge": "badges/cerfs-lagoon.png"
+    }
+  ]
+}

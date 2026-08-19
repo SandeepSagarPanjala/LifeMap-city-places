@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mu/black-river/black-river-gorges",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "stateCode": "BL",
+  "stateName": "Black River",
+  "cityName": "Black River Gorges",
+  "bbox": {
+    "minLat": -20.412,
+    "minLng": 57.405,
+    "maxLat": -20.405,
+    "maxLng": 57.429
+  },
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "black-river-gorges",
+      "name": "Black River Gorges",
+      "lat": -20.40835,
+      "lng": 57.4262,
+      "radiusM": 250,
+      "address": "Black River",
+      "howTo": "Visit Black River Gorges.",
+      "badge": "badges/black-river-gorges.png"
+    },
+    {
+      "id": "piton",
+      "name": "Piton de la Petite Riviere Noire",
+      "lat": -20.40879,
+      "lng": 57.40769,
+      "radiusM": 150,
+      "address": "Black River",
+      "howTo": "Visit Piton de la Petite Riviere Noire.",
+      "badge": "badges/piton.png"
+    }
+  ]
+}

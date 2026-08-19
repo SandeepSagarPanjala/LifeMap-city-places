@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mu/black-river/le-morne",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "stateCode": "BL",
+  "stateName": "Black River",
+  "cityName": "Le Morne",
+  "bbox": {
+    "minLat": -20.458,
+    "minLng": 57.309,
+    "maxLat": -20.452,
+    "maxLng": 57.324
+  },
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "le-morne-brabant",
+      "name": "Le Morne Brabant",
+      "lat": -20.45408,
+      "lng": 57.3213,
+      "radiusM": 150,
+      "address": "Le Morne",
+      "howTo": "Visit Le Morne Brabant.",
+      "badge": "badges/le-morne-brabant.png"
+    },
+    {
+      "id": "le-morne-beach",
+      "name": "Le Morne Beach",
+      "lat": -20.45593,
+      "lng": 57.31137,
+      "radiusM": 120,
+      "address": "Le Morne",
+      "howTo": "Visit Le Morne Beach.",
+      "badge": "badges/le-morne-beach.png"
+    }
+  ]
+}

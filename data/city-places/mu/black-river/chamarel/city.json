@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mu/black-river/chamarel",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "stateCode": "BL",
+  "stateName": "Black River",
+  "cityName": "Chamarel",
+  "bbox": {
+    "minLat": -20.445,
+    "minLng": 57.371,
+    "maxLat": -20.438,
+    "maxLng": 57.388
+  },
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "seven-coloured-earths",
+      "name": "Seven Coloured Earths",
+      "lat": -20.44008,
+      "lng": 57.37321,
+      "radiusM": 80,
+      "address": "Chamarel",
+      "howTo": "Visit Seven Coloured Earths.",
+      "badge": "badges/seven-coloured-earths.png"
+    },
+    {
+      "id": "chamarel-waterfall",
+      "name": "Chamarel Waterfall",
+      "lat": -20.44305,
+      "lng": 57.38598,
+      "radiusM": 80,
+      "address": "Chamarel",
+      "howTo": "Visit Chamarel Waterfall.",
+      "badge": "badges/chamarel-waterfall.png"
+    }
+  ]
+}

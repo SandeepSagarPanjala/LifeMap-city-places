@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:25:08.000Z",
-  "notes": "Zambia (zm) complete. Next: Mauritius (mu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "notes": "Mauritius (mu) complete. Next: Seychelles (sc) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18457,6 +18457,104 @@
                 "minLng": 31.782,
                 "maxLat": -13.077,
                 "maxLng": 31.792
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mu",
+      "countryCode": "MU",
+      "name": "Mauritius",
+      "states": [
+        {
+          "id": "port-louis",
+          "stateCode": "PL",
+          "name": "Port Louis",
+          "cities": [
+            {
+              "id": "port-louis",
+              "name": "Port Louis",
+              "status": "complete",
+              "packPath": "mu/port-louis/port-louis/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:29:52.000Z",
+              "bbox": {
+                "minLat": -20.163,
+                "minLng": 57.496,
+                "maxLat": -20.157,
+                "maxLng": 57.505
+              }
+            }
+          ]
+        },
+        {
+          "id": "black-river",
+          "stateCode": "BL",
+          "name": "Black River",
+          "cities": [
+            {
+              "id": "chamarel",
+              "name": "Chamarel",
+              "status": "complete",
+              "packPath": "mu/black-river/chamarel/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:29:52.000Z",
+              "bbox": {
+                "minLat": -20.445,
+                "minLng": 57.371,
+                "maxLat": -20.438,
+                "maxLng": 57.388
+              }
+            },
+            {
+              "id": "le-morne",
+              "name": "Le Morne",
+              "status": "complete",
+              "packPath": "mu/black-river/le-morne/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:29:52.000Z",
+              "bbox": {
+                "minLat": -20.458,
+                "minLng": 57.309,
+                "maxLat": -20.452,
+                "maxLng": 57.324
+              }
+            },
+            {
+              "id": "black-river-gorges",
+              "name": "Black River Gorges",
+              "status": "complete",
+              "packPath": "mu/black-river/black-river-gorges/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:29:52.000Z",
+              "bbox": {
+                "minLat": -20.412,
+                "minLng": 57.405,
+                "maxLat": -20.405,
+                "maxLng": 57.429
+              }
+            }
+          ]
+        },
+        {
+          "id": "flacq",
+          "stateCode": "FL",
+          "name": "Flacq",
+          "cities": [
+            {
+              "id": "ile-aux-cerfs",
+              "name": "Ile aux Cerfs",
+              "status": "complete",
+              "packPath": "mu/flacq/ile-aux-cerfs/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:29:52.000Z",
+              "bbox": {
+                "minLat": -20.277,
+                "minLng": 57.801,
+                "maxLat": -20.27,
+                "maxLng": 57.811
               }
             }
           ]

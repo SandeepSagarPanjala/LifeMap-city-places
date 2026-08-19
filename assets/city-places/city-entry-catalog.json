@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:25:08.580Z",
+  "generatedAt": "2026-08-19T00:29:53.023Z",
   "cellDeg": 0.5,
-  "cityCount": 964,
+  "cityCount": 969,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5204,6 +5204,51 @@
         "minLng": 14.4,
         "maxLat": 35.888,
         "maxLng": 14.406
+      }
+    },
+    "mu/black-river/black-river-gorges": {
+      "name": "Black River Gorges",
+      "bbox": {
+        "minLat": -20.412,
+        "minLng": 57.405,
+        "maxLat": -20.405,
+        "maxLng": 57.429
+      }
+    },
+    "mu/black-river/chamarel": {
+      "name": "Chamarel",
+      "bbox": {
+        "minLat": -20.445,
+        "minLng": 57.371,
+        "maxLat": -20.438,
+        "maxLng": 57.388
+      }
+    },
+    "mu/black-river/le-morne": {
+      "name": "Le Morne",
+      "bbox": {
+        "minLat": -20.458,
+        "minLng": 57.309,
+        "maxLat": -20.452,
+        "maxLng": 57.324
+      }
+    },
+    "mu/flacq/ile-aux-cerfs": {
+      "name": "Ile aux Cerfs",
+      "bbox": {
+        "minLat": -20.277,
+        "minLng": 57.801,
+        "maxLat": -20.27,
+        "maxLng": 57.811
+      }
+    },
+    "mu/port-louis/port-louis": {
+      "name": "Port Louis",
+      "bbox": {
+        "minLat": -20.163,
+        "minLng": 57.496,
+        "maxLat": -20.157,
+        "maxLng": 57.505
       }
     },
     "mx/baja-california-sur/cabo-san-lucas": {
@@ -13163,6 +13208,16 @@
     ],
     "-27,63": [
       "zm/eastern/south-luangwa"
+    ],
+    "-41,114": [
+      "mu/black-river/black-river-gorges",
+      "mu/black-river/chamarel",
+      "mu/black-river/le-morne",
+      "mu/port-louis/port-louis"
+    ],
+    "-41,115": [
+      "mu/flacq/ile-aux-cerfs",
+      "mu/port-louis/port-louis"
     ]
   }
 }
