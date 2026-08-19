@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gq/litoral/bata",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "stateCode": "LI",
+  "stateName": "Litoral",
+  "cityName": "Bata",
+  "bbox": {
+    "minLat": 1.865,
+    "minLng": 9.767,
+    "maxLat": 1.871,
+    "maxLng": 9.774
+  },
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bata-cathedral",
+      "name": "Bata Cathedral",
+      "lat": 1.86721,
+      "lng": 9.76967,
+      "radiusM": 50,
+      "address": "Bata",
+      "howTo": "Visit Bata Cathedral.",
+      "badge": "badges/bata-cathedral.png"
+    },
+    {
+      "id": "bata-nave",
+      "name": "Bata Nave",
+      "lat": 1.869,
+      "lng": 9.772,
+      "radiusM": 40,
+      "address": "Bata",
+      "howTo": "Visit Bata Nave.",
+      "badge": "badges/bata-nave.png"
+    }
+  ]
+}

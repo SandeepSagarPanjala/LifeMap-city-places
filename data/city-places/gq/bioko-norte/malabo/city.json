@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gq/bioko-norte/malabo",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "stateCode": "BN",
+  "stateName": "Bioko Norte",
+  "cityName": "Malabo",
+  "bbox": {
+    "minLat": 3.754,
+    "minLng": 8.781,
+    "maxLat": 3.759,
+    "maxLng": 8.786
+  },
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-isabel",
+      "name": "Santa Isabel Cathedral",
+      "lat": 3.75694,
+      "lng": 8.78287,
+      "radiusM": 50,
+      "address": "Malabo",
+      "howTo": "Visit Santa Isabel Cathedral.",
+      "badge": "badges/santa-isabel.png"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Presidential Palace",
+      "lat": 3.75602,
+      "lng": 8.78396,
+      "radiusM": 50,
+      "address": "Malabo",
+      "howTo": "Visit Presidential Palace.",
+      "badge": "badges/presidential-palace.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gq/bioko-sur/moca",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "stateCode": "BS",
+  "stateName": "Bioko Sur",
+  "cityName": "Moca",
+  "bbox": {
+    "minLat": 3.314,
+    "minLng": 8.663,
+    "maxLat": 3.322,
+    "maxLng": 8.671
+  },
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "moca-falls",
+      "name": "Cascadas de Moca",
+      "lat": 3.3168,
+      "lng": 8.66559,
+      "radiusM": 80,
+      "address": "Moca",
+      "howTo": "Visit Cascadas de Moca.",
+      "badge": "badges/moca-falls.png"
+    },
+    {
+      "id": "moca-forest",
+      "name": "Moca Forest",
+      "lat": 3.32,
+      "lng": 8.669,
+      "radiusM": 100,
+      "address": "Moca",
+      "howTo": "Visit Moca Forest.",
+      "badge": "badges/moca-forest.png"
+    }
+  ]
+}

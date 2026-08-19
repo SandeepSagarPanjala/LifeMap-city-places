@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gq/bioko-norte/pico-basile",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "stateCode": "BN",
+  "stateName": "Bioko Norte",
+  "cityName": "Pico Basile",
+  "bbox": {
+    "minLat": 3.586,
+    "minLng": 8.76,
+    "maxLat": 3.595,
+    "maxLng": 8.768
+  },
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pico-basile",
+      "name": "Pico Basile",
+      "lat": 3.58851,
+      "lng": 8.76253,
+      "radiusM": 250,
+      "address": "Bioko",
+      "howTo": "Visit Pico Basile.",
+      "badge": "badges/pico-basile.png"
+    },
+    {
+      "id": "basile-slopes",
+      "name": "Basile Slopes",
+      "lat": 3.593,
+      "lng": 8.766,
+      "radiusM": 200,
+      "address": "Bioko",
+      "howTo": "Visit Basile Slopes.",
+      "badge": "badges/basile-slopes.png"
+    }
+  ]
+}

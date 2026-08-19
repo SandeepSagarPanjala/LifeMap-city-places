@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gq/bioko-norte/sipopo",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "stateCode": "BN",
+  "stateName": "Bioko Norte",
+  "cityName": "Sipopo",
+  "bbox": {
+    "minLat": 3.76,
+    "minLng": 8.889,
+    "maxLat": 3.767,
+    "maxLng": 8.898
+  },
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sipopo",
+      "name": "Sipopo",
+      "lat": 3.76218,
+      "lng": 8.89195,
+      "radiusM": 150,
+      "address": "Sipopo",
+      "howTo": "Visit Sipopo.",
+      "badge": "badges/sipopo.png"
+    },
+    {
+      "id": "sipopo-beach",
+      "name": "Sipopo Beach",
+      "lat": 3.765,
+      "lng": 8.896,
+      "radiusM": 120,
+      "address": "Sipopo",
+      "howTo": "Visit Sipopo Beach.",
+      "badge": "badges/sipopo-beach.png"
+    }
+  ]
+}

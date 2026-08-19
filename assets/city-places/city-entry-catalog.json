@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:27:42.193Z",
+  "generatedAt": "2026-08-19T01:33:59.614Z",
   "cellDeg": 0.5,
-  "cityCount": 1024,
+  "cityCount": 1029,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2720,6 +2720,51 @@
         "minLng": -1.8585,
         "maxLat": 9.2625,
         "maxLng": -1.8515
+      }
+    },
+    "gq/bioko-norte/malabo": {
+      "name": "Malabo",
+      "bbox": {
+        "minLat": 3.754,
+        "minLng": 8.781,
+        "maxLat": 3.759,
+        "maxLng": 8.786
+      }
+    },
+    "gq/bioko-norte/pico-basile": {
+      "name": "Pico Basile",
+      "bbox": {
+        "minLat": 3.586,
+        "minLng": 8.76,
+        "maxLat": 3.595,
+        "maxLng": 8.768
+      }
+    },
+    "gq/bioko-norte/sipopo": {
+      "name": "Sipopo",
+      "bbox": {
+        "minLat": 3.76,
+        "minLng": 8.889,
+        "maxLat": 3.767,
+        "maxLng": 8.898
+      }
+    },
+    "gq/bioko-sur/moca": {
+      "name": "Moca",
+      "bbox": {
+        "minLat": 3.314,
+        "minLng": 8.663,
+        "maxLat": 3.322,
+        "maxLng": 8.671
+      }
+    },
+    "gq/litoral/bata": {
+      "name": "Bata",
+      "bbox": {
+        "minLat": 1.865,
+        "minLng": 9.767,
+        "maxLat": 1.871,
+        "maxLng": 9.774
       }
     },
     "gr/attica/athens": {
@@ -13860,6 +13905,17 @@
     ],
     "3,14": [
       "st/principe/principe"
+    ],
+    "7,17": [
+      "gq/bioko-norte/malabo",
+      "gq/bioko-norte/pico-basile",
+      "gq/bioko-norte/sipopo"
+    ],
+    "3,19": [
+      "gq/litoral/bata"
+    ],
+    "6,17": [
+      "gq/bioko-sur/moca"
     ]
   }
 }

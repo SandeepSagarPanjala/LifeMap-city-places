@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:27:42.000Z",
-  "notes": "S\u00e3o Tom\u00e9 and Pr\u00edncipe (st) complete. Next: Equatorial Guinea (gq) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:33:59.000Z",
+  "notes": "Equatorial Guinea (gq) complete. Next: Burundi (bi) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19668,6 +19668,104 @@
                 "minLng": 7.439,
                 "maxLat": 1.695,
                 "maxLng": 7.447
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gq",
+      "countryCode": "GQ",
+      "name": "Equatorial Guinea",
+      "states": [
+        {
+          "id": "bioko-norte",
+          "stateCode": "BN",
+          "name": "Bioko Norte",
+          "cities": [
+            {
+              "id": "malabo",
+              "name": "Malabo",
+              "status": "complete",
+              "packPath": "gq/bioko-norte/malabo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:33:59.000Z",
+              "bbox": {
+                "minLat": 3.754,
+                "minLng": 8.781,
+                "maxLat": 3.759,
+                "maxLng": 8.786
+              }
+            },
+            {
+              "id": "pico-basile",
+              "name": "Pico Basile",
+              "status": "complete",
+              "packPath": "gq/bioko-norte/pico-basile/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:33:59.000Z",
+              "bbox": {
+                "minLat": 3.586,
+                "minLng": 8.76,
+                "maxLat": 3.595,
+                "maxLng": 8.768
+              }
+            },
+            {
+              "id": "sipopo",
+              "name": "Sipopo",
+              "status": "complete",
+              "packPath": "gq/bioko-norte/sipopo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:33:59.000Z",
+              "bbox": {
+                "minLat": 3.76,
+                "minLng": 8.889,
+                "maxLat": 3.767,
+                "maxLng": 8.898
+              }
+            }
+          ]
+        },
+        {
+          "id": "litoral",
+          "stateCode": "LI",
+          "name": "Litoral",
+          "cities": [
+            {
+              "id": "bata",
+              "name": "Bata",
+              "status": "complete",
+              "packPath": "gq/litoral/bata/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:33:59.000Z",
+              "bbox": {
+                "minLat": 1.865,
+                "minLng": 9.767,
+                "maxLat": 1.871,
+                "maxLng": 9.774
+              }
+            }
+          ]
+        },
+        {
+          "id": "bioko-sur",
+          "stateCode": "BS",
+          "name": "Bioko Sur",
+          "cities": [
+            {
+              "id": "moca",
+              "name": "Moca",
+              "status": "complete",
+              "packPath": "gq/bioko-sur/moca/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:33:59.000Z",
+              "bbox": {
+                "minLat": 3.314,
+                "minLng": 8.663,
+                "maxLat": 3.322,
+                "maxLng": 8.671
               }
             }
           ]
