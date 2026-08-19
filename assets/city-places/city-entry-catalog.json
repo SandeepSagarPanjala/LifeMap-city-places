@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:13:14.842Z",
+  "generatedAt": "2026-08-19T01:17:50.274Z",
   "cellDeg": 0.5,
-  "cityCount": 1009,
+  "cityCount": 1014,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6842,6 +6842,51 @@
         "minLng": 31.17,
         "maxLat": -26.26,
         "maxLng": 31.178
+      }
+    },
+    "tg/kara/koutammakou": {
+      "name": "Koutammakou",
+      "bbox": {
+        "minLat": 10.106,
+        "minLng": 1.097,
+        "maxLat": 10.113,
+        "maxLng": 1.104
+      }
+    },
+    "tg/maritime/lome": {
+      "name": "Lome",
+      "bbox": {
+        "minLat": 6.118,
+        "minLng": 1.21,
+        "maxLat": 6.127,
+        "maxLng": 1.229
+      }
+    },
+    "tg/maritime/togoville": {
+      "name": "Togoville",
+      "bbox": {
+        "minLat": 6.232,
+        "minLng": 1.473,
+        "maxLat": 6.239,
+        "maxLng": 1.482
+      }
+    },
+    "tg/plateaux/kpalime": {
+      "name": "Kpalime",
+      "bbox": {
+        "minLat": 6.907,
+        "minLng": 0.628,
+        "maxLat": 6.912,
+        "maxLng": 0.634
+      }
+    },
+    "tg/plateaux/wome": {
+      "name": "Wome",
+      "bbox": {
+        "minLat": 6.856,
+        "minLng": 0.552,
+        "maxLat": 6.863,
+        "maxLng": 0.559
       }
     },
     "th/ayutthaya/ayutthaya": {
@@ -13692,6 +13737,17 @@
     ],
     "22,3": [
       "bj/atakora/pendjari"
+    ],
+    "12,2": [
+      "tg/maritime/lome",
+      "tg/maritime/togoville"
+    ],
+    "20,2": [
+      "tg/kara/koutammakou"
+    ],
+    "13,1": [
+      "tg/plateaux/kpalime",
+      "tg/plateaux/wome"
     ]
   }
 }

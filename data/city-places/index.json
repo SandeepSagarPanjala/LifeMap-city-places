@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:13:14.000Z",
-  "notes": "Benin (bj) complete. Next: Togo (tg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:17:50.000Z",
+  "notes": "Togo (tg) complete. Next: Gabon (ga) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19353,6 +19353,104 @@
                 "minLng": 1.49,
                 "maxLat": 11.235,
                 "maxLng": 1.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tg",
+      "countryCode": "TG",
+      "name": "Togo",
+      "states": [
+        {
+          "id": "maritime",
+          "stateCode": "M",
+          "name": "Maritime",
+          "cities": [
+            {
+              "id": "lome",
+              "name": "Lome",
+              "status": "complete",
+              "packPath": "tg/maritime/lome/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:17:50.000Z",
+              "bbox": {
+                "minLat": 6.118,
+                "minLng": 1.21,
+                "maxLat": 6.127,
+                "maxLng": 1.229
+              }
+            },
+            {
+              "id": "togoville",
+              "name": "Togoville",
+              "status": "complete",
+              "packPath": "tg/maritime/togoville/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:17:50.000Z",
+              "bbox": {
+                "minLat": 6.232,
+                "minLng": 1.473,
+                "maxLat": 6.239,
+                "maxLng": 1.482
+              }
+            }
+          ]
+        },
+        {
+          "id": "kara",
+          "stateCode": "K",
+          "name": "Kara",
+          "cities": [
+            {
+              "id": "koutammakou",
+              "name": "Koutammakou",
+              "status": "complete",
+              "packPath": "tg/kara/koutammakou/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:17:50.000Z",
+              "bbox": {
+                "minLat": 10.106,
+                "minLng": 1.097,
+                "maxLat": 10.113,
+                "maxLng": 1.104
+              }
+            }
+          ]
+        },
+        {
+          "id": "plateaux",
+          "stateCode": "P",
+          "name": "Plateaux",
+          "cities": [
+            {
+              "id": "kpalime",
+              "name": "Kpalime",
+              "status": "complete",
+              "packPath": "tg/plateaux/kpalime/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:17:50.000Z",
+              "bbox": {
+                "minLat": 6.907,
+                "minLng": 0.628,
+                "maxLat": 6.912,
+                "maxLng": 0.634
+              }
+            },
+            {
+              "id": "wome",
+              "name": "Wome",
+              "status": "complete",
+              "packPath": "tg/plateaux/wome/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:17:50.000Z",
+              "bbox": {
+                "minLat": 6.856,
+                "minLng": 0.552,
+                "maxLat": 6.863,
+                "maxLng": 0.559
               }
             }
           ]

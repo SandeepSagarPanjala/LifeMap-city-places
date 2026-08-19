@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tg/kara/koutammakou",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "stateCode": "K",
+  "stateName": "Kara",
+  "cityName": "Koutammakou",
+  "bbox": {
+    "minLat": 10.106,
+    "minLng": 1.097,
+    "maxLat": 10.113,
+    "maxLng": 1.104
+  },
+  "updatedAt": "2026-08-19T01:17:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "koutammakou",
+      "name": "Koutammakou",
+      "lat": 10.10831,
+      "lng": 1.09918,
+      "radiusM": 200,
+      "address": "K\u00e9ran",
+      "howTo": "Visit Koutammakou.",
+      "badge": "badges/koutammakou.png"
+    },
+    {
+      "id": "takienta",
+      "name": "Takienta Towers",
+      "lat": 10.111,
+      "lng": 1.102,
+      "radiusM": 150,
+      "address": "K\u00e9ran",
+      "howTo": "Visit Takienta Towers.",
+      "badge": "badges/takienta.png"
+    }
+  ]
+}

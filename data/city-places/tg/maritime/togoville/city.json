@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tg/maritime/togoville",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "stateCode": "M",
+  "stateName": "Maritime",
+  "cityName": "Togoville",
+  "bbox": {
+    "minLat": 6.232,
+    "minLng": 1.473,
+    "maxLat": 6.239,
+    "maxLng": 1.482
+  },
+  "updatedAt": "2026-08-19T01:17:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "togoville",
+      "name": "Togoville",
+      "lat": 6.23452,
+      "lng": 1.47993,
+      "radiusM": 120,
+      "address": "Togoville",
+      "howTo": "Visit Togoville.",
+      "badge": "badges/togoville.png"
+    },
+    {
+      "id": "togo-shore",
+      "name": "Lake Togo Shore",
+      "lat": 6.237,
+      "lng": 1.475,
+      "radiusM": 120,
+      "address": "Togoville",
+      "howTo": "Visit Lake Togo Shore.",
+      "badge": "badges/togo-shore.png"
+    }
+  ]
+}

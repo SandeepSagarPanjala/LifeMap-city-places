@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tg/maritime/lome",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "stateCode": "M",
+  "stateName": "Maritime",
+  "cityName": "Lome",
+  "bbox": {
+    "minLat": 6.118,
+    "minLng": 1.21,
+    "maxLat": 6.127,
+    "maxLng": 1.229
+  },
+  "updatedAt": "2026-08-19T01:17:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sacre-coeur",
+      "name": "Sacre-Coeur Cathedral",
+      "lat": 6.12496,
+      "lng": 1.22638,
+      "radiusM": 50,
+      "address": "Lome",
+      "howTo": "Visit Sacre-Coeur Cathedral.",
+      "badge": "badges/sacre-coeur.png"
+    },
+    {
+      "id": "palais-de-lome",
+      "name": "Palais de Lome",
+      "lat": 6.12036,
+      "lng": 1.21222,
+      "radiusM": 80,
+      "address": "Lome",
+      "howTo": "Visit Palais de Lome.",
+      "badge": "badges/palais-de-lome.png"
+    }
+  ]
+}
