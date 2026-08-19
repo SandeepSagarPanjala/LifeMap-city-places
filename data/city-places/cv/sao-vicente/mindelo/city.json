@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cv/sao-vicente/mindelo",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "stateCode": "SV",
+  "stateName": "Sao Vicente",
+  "cityName": "Mindelo",
+  "bbox": {
+    "minLat": 16.883,
+    "minLng": -24.992,
+    "maxLat": 16.889,
+    "maxLng": -24.987
+  },
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "centro-cultural",
+      "name": "Centro Cultural do Mindelo",
+      "lat": 16.887,
+      "lng": -24.98902,
+      "radiusM": 50,
+      "address": "Mindelo",
+      "howTo": "Visit Centro Cultural do Mindelo.",
+      "badge": "badges/centro-cultural.png"
+    },
+    {
+      "id": "torre-belem",
+      "name": "Torre de Belem",
+      "lat": 16.88433,
+      "lng": -24.9899,
+      "radiusM": 40,
+      "address": "Mindelo",
+      "howTo": "Visit Torre de Belem.",
+      "badge": "badges/torre-belem.png"
+    }
+  ]
+}

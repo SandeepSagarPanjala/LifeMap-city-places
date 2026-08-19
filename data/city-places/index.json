@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:45:46.000Z",
-  "notes": "Angola (ao) complete. Next: Cape Verde (cv) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "notes": "Cape Verde (cv) complete. Next: Malawi (mw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18863,6 +18863,118 @@
                 "minLng": 13.235,
                 "maxLat": -15.067,
                 "maxLng": 13.244
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cv",
+      "countryCode": "CV",
+      "name": "Cape Verde",
+      "states": [
+        {
+          "id": "santiago",
+          "stateCode": "S",
+          "name": "Santiago",
+          "cities": [
+            {
+              "id": "praia",
+              "name": "Praia",
+              "status": "complete",
+              "packPath": "cv/santiago/praia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:51:09.000Z",
+              "bbox": {
+                "minLat": 14.915,
+                "minLng": -23.511,
+                "maxLat": 14.919,
+                "maxLng": -23.507
+              }
+            }
+          ]
+        },
+        {
+          "id": "sao-vicente",
+          "stateCode": "SV",
+          "name": "Sao Vicente",
+          "cities": [
+            {
+              "id": "mindelo",
+              "name": "Mindelo",
+              "status": "complete",
+              "packPath": "cv/sao-vicente/mindelo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:51:09.000Z",
+              "bbox": {
+                "minLat": 16.883,
+                "minLng": -24.992,
+                "maxLat": 16.889,
+                "maxLng": -24.987
+              }
+            }
+          ]
+        },
+        {
+          "id": "sal",
+          "stateCode": "SL",
+          "name": "Sal",
+          "cities": [
+            {
+              "id": "santa-maria",
+              "name": "Santa Maria",
+              "status": "complete",
+              "packPath": "cv/sal/santa-maria/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:51:09.000Z",
+              "bbox": {
+                "minLat": 16.595,
+                "minLng": -22.91,
+                "maxLat": 16.599,
+                "maxLng": -22.898
+              }
+            }
+          ]
+        },
+        {
+          "id": "fogo",
+          "stateCode": "F",
+          "name": "Fogo",
+          "cities": [
+            {
+              "id": "fogo",
+              "name": "Fogo",
+              "status": "complete",
+              "packPath": "cv/fogo/fogo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:51:09.000Z",
+              "bbox": {
+                "minLat": 14.947,
+                "minLng": -24.369,
+                "maxLat": 14.969,
+                "maxLng": -24.338
+              }
+            }
+          ]
+        },
+        {
+          "id": "boa-vista",
+          "stateCode": "BV",
+          "name": "Boa Vista",
+          "cities": [
+            {
+              "id": "boa-vista",
+              "name": "Boa Vista",
+              "status": "complete",
+              "packPath": "cv/boa-vista/boa-vista/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:51:09.000Z",
+              "bbox": {
+                "minLat": 16.096,
+                "minLng": -22.929,
+                "maxLat": 16.107,
+                "maxLng": -22.918
               }
             }
           ]

@@ -149,7 +149,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 103. `sc` — Seychelles (**complete**)
 104. `mz` — Mozambique (**complete**)
 105. `ao` — Angola (**complete**)
-106. `cv` — Cape Verde
+106. `cv` — Cape Verde (**complete**)
+107. `mw` — Malawi
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

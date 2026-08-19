@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cv/sal/santa-maria",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "stateCode": "SL",
+  "stateName": "Sal",
+  "cityName": "Santa Maria",
+  "bbox": {
+    "minLat": 16.595,
+    "minLng": -22.91,
+    "maxLat": 16.599,
+    "maxLng": -22.898
+  },
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "santa-maria-beach",
+      "name": "Santa Maria Beach",
+      "lat": 16.59698,
+      "lng": -22.90052,
+      "radiusM": 120,
+      "address": "Santa Maria",
+      "howTo": "Visit Santa Maria Beach.",
+      "badge": "badges/santa-maria-beach.png"
+    },
+    {
+      "id": "santa-maria-pier",
+      "name": "Santa Maria Pier",
+      "lat": 16.59718,
+      "lng": -22.9078,
+      "radiusM": 60,
+      "address": "Santa Maria",
+      "howTo": "Visit Santa Maria Pier.",
+      "badge": "badges/santa-maria-pier.png"
+    }
+  ]
+}

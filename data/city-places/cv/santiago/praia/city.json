@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cv/santiago/praia",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "stateCode": "S",
+  "stateName": "Santiago",
+  "cityName": "Praia",
+  "bbox": {
+    "minLat": 14.915,
+    "minLng": -23.511,
+    "maxLat": 14.919,
+    "maxLng": -23.507
+  },
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "presidential-palace",
+      "name": "Presidential Palace",
+      "lat": 14.9164,
+      "lng": -23.50939,
+      "radiusM": 50,
+      "address": "Praia",
+      "howTo": "Visit Presidential Palace.",
+      "badge": "badges/presidential-palace.png"
+    },
+    {
+      "id": "praca-albuquerque",
+      "name": "Praca Alexandre Albuquerque",
+      "lat": 14.91768,
+      "lng": -23.50914,
+      "radiusM": 40,
+      "address": "Praia",
+      "howTo": "Visit Praca Alexandre Albuquerque.",
+      "badge": "badges/praca-albuquerque.png"
+    }
+  ]
+}

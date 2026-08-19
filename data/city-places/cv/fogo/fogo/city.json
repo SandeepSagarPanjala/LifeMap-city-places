@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cv/fogo/fogo",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "stateCode": "F",
+  "stateName": "Fogo",
+  "cityName": "Fogo",
+  "bbox": {
+    "minLat": 14.947,
+    "minLng": -24.369,
+    "maxLat": 14.969,
+    "maxLng": -24.338
+  },
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pico-do-fogo",
+      "name": "Pico do Fogo",
+      "lat": 14.9494,
+      "lng": -24.34031,
+      "radiusM": 200,
+      "address": "Fogo",
+      "howTo": "Visit Pico do Fogo.",
+      "badge": "badges/pico-do-fogo.png"
+    },
+    {
+      "id": "cha-das-caldeiras",
+      "name": "Cha das Caldeiras",
+      "lat": 14.9672,
+      "lng": -24.36687,
+      "radiusM": 150,
+      "address": "Fogo",
+      "howTo": "Visit Cha das Caldeiras.",
+      "badge": "badges/cha-das-caldeiras.png"
+    }
+  ]
+}

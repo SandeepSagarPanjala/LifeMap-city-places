@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:45:46.573Z",
+  "generatedAt": "2026-08-19T00:51:09.479Z",
   "cellDeg": 0.5,
-  "cityCount": 984,
+  "cityCount": 989,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1280,6 +1280,51 @@
         "minLng": -84.085,
         "maxLat": 9.936,
         "maxLng": -84.072
+      }
+    },
+    "cv/boa-vista/boa-vista": {
+      "name": "Boa Vista",
+      "bbox": {
+        "minLat": 16.096,
+        "minLng": -22.929,
+        "maxLat": 16.107,
+        "maxLng": -22.918
+      }
+    },
+    "cv/fogo/fogo": {
+      "name": "Fogo",
+      "bbox": {
+        "minLat": 14.947,
+        "minLng": -24.369,
+        "maxLat": 14.969,
+        "maxLng": -24.338
+      }
+    },
+    "cv/sal/santa-maria": {
+      "name": "Santa Maria",
+      "bbox": {
+        "minLat": 16.595,
+        "minLng": -22.91,
+        "maxLat": 16.599,
+        "maxLng": -22.898
+      }
+    },
+    "cv/santiago/praia": {
+      "name": "Praia",
+      "bbox": {
+        "minLat": 14.915,
+        "minLng": -23.511,
+        "maxLat": 14.919,
+        "maxLng": -23.507
+      }
+    },
+    "cv/sao-vicente/mindelo": {
+      "name": "Mindelo",
+      "bbox": {
+        "minLat": 16.883,
+        "minLng": -24.992,
+        "maxLat": 16.889,
+        "maxLng": -24.987
       }
     },
     "cy/famagusta/ayia-napa": {
@@ -13398,6 +13443,21 @@
     ],
     "-31,26": [
       "ao/namibe/serra-da-leba"
+    ],
+    "29,-48": [
+      "cv/santiago/praia"
+    ],
+    "33,-50": [
+      "cv/sao-vicente/mindelo"
+    ],
+    "33,-46": [
+      "cv/sal/santa-maria"
+    ],
+    "29,-49": [
+      "cv/fogo/fogo"
+    ],
+    "32,-46": [
+      "cv/boa-vista/boa-vista"
     ]
   }
 }

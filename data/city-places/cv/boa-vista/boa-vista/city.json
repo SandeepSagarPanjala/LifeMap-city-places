@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cv/boa-vista/boa-vista",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "stateCode": "BV",
+  "stateName": "Boa Vista",
+  "cityName": "Boa Vista",
+  "bbox": {
+    "minLat": 16.096,
+    "minLng": -22.929,
+    "maxLat": 16.107,
+    "maxLng": -22.918
+  },
+  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "praia-de-chaves",
+      "name": "Praia de Chaves",
+      "lat": 16.09892,
+      "lng": -22.92676,
+      "radiusM": 150,
+      "address": "Boa Vista",
+      "howTo": "Visit Praia de Chaves.",
+      "badge": "badges/praia-de-chaves.png"
+    },
+    {
+      "id": "chaves-dunes",
+      "name": "Chaves Dunes",
+      "lat": 16.105,
+      "lng": -22.92,
+      "radiusM": 150,
+      "address": "Boa Vista",
+      "howTo": "Visit Chaves Dunes.",
+      "badge": "badges/chaves-dunes.png"
+    }
+  ]
+}
