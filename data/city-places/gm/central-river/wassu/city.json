@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gm/central-river/wassu",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "stateCode": "M",
+  "stateName": "Central River",
+  "cityName": "Wassu",
+  "bbox": {
+    "minLat": 13.69,
+    "minLng": -14.875,
+    "maxLat": 13.696,
+    "maxLng": -14.868
+  },
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "wassu",
+      "name": "Wassu Stone Circles",
+      "lat": 13.69177,
+      "lng": -14.87309,
+      "radiusM": 80,
+      "address": "Niani",
+      "howTo": "Visit Wassu Stone Circles.",
+      "badge": "badges/wassu.png"
+    },
+    {
+      "id": "wassu-field",
+      "name": "Wassu Field",
+      "lat": 13.6945,
+      "lng": -14.87,
+      "radiusM": 80,
+      "address": "Niani",
+      "howTo": "Visit Wassu Field.",
+      "badge": "badges/wassu-field.png"
+    }
+  ]
+}

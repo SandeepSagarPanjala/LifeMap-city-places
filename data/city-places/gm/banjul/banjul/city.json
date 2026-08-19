@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gm/banjul/banjul",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "stateCode": "B",
+  "stateName": "Banjul",
+  "cityName": "Banjul",
+  "bbox": {
+    "minLat": 13.455,
+    "minLng": -16.577,
+    "maxLat": 13.458,
+    "maxLng": -16.573
+  },
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "national-museum",
+      "name": "Gambia National Museum",
+      "lat": 13.45598,
+      "lng": -16.57578,
+      "radiusM": 40,
+      "address": "Banjul",
+      "howTo": "Visit Gambia National Museum.",
+      "badge": "badges/national-museum.png"
+    },
+    {
+      "id": "state-house",
+      "name": "State House",
+      "lat": 13.45625,
+      "lng": -16.57471,
+      "radiusM": 40,
+      "address": "Banjul",
+      "howTo": "Visit State House.",
+      "badge": "badges/state-house.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gm/north-bank/kunta-kinteh",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "stateCode": "N",
+  "stateName": "North Bank",
+  "cityName": "Kunta Kinteh Island",
+  "bbox": {
+    "minLat": 13.316,
+    "minLng": -16.364,
+    "maxLat": 13.322,
+    "maxLng": -16.356
+  },
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kunta-kinteh",
+      "name": "Kunta Kinteh Island",
+      "lat": 13.31749,
+      "lng": -16.3614,
+      "radiusM": 80,
+      "address": "North Bank",
+      "howTo": "Visit Kunta Kinteh Island.",
+      "badge": "badges/kunta-kinteh.png"
+    },
+    {
+      "id": "kinteh-shore",
+      "name": "Kinteh Shore",
+      "lat": 13.32,
+      "lng": -16.358,
+      "radiusM": 60,
+      "address": "North Bank",
+      "howTo": "Visit Kinteh Shore.",
+      "badge": "badges/kinteh-shore.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:06:51.748Z",
+  "generatedAt": "2026-08-19T02:12:59.133Z",
   "cellDeg": 0.5,
-  "cityCount": 1059,
+  "cityCount": 1064,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2810,6 +2810,51 @@
         "minLng": -1.8585,
         "maxLat": 9.2625,
         "maxLng": -1.8515
+      }
+    },
+    "gm/banjul/banjul": {
+      "name": "Banjul",
+      "bbox": {
+        "minLat": 13.455,
+        "minLng": -16.577,
+        "maxLat": 13.458,
+        "maxLng": -16.573
+      }
+    },
+    "gm/central-river/wassu": {
+      "name": "Wassu",
+      "bbox": {
+        "minLat": 13.69,
+        "minLng": -14.875,
+        "maxLat": 13.696,
+        "maxLng": -14.868
+      }
+    },
+    "gm/kanifing/kololi": {
+      "name": "Kololi",
+      "bbox": {
+        "minLat": 13.453,
+        "minLng": -16.72,
+        "maxLat": 13.459,
+        "maxLng": -16.713
+      }
+    },
+    "gm/north-bank/barra": {
+      "name": "Barra",
+      "bbox": {
+        "minLat": 13.486,
+        "minLng": -16.551,
+        "maxLat": 13.492,
+        "maxLng": -16.544
+      }
+    },
+    "gm/north-bank/kunta-kinteh": {
+      "name": "Kunta Kinteh Island",
+      "bbox": {
+        "minLat": 13.316,
+        "minLng": -16.364,
+        "maxLat": 13.322,
+        "maxLng": -16.356
       }
     },
     "gn/conakry/conakry": {
@@ -14262,6 +14307,17 @@
     ],
     "20,-8": [
       "bf/poni/loropeni"
+    ],
+    "26,-34": [
+      "gm/banjul/banjul",
+      "gm/kanifing/kololi",
+      "gm/north-bank/barra"
+    ],
+    "26,-33": [
+      "gm/north-bank/kunta-kinteh"
+    ],
+    "27,-30": [
+      "gm/central-river/wassu"
     ]
   }
 }

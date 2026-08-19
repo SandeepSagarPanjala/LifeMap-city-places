@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:06:51.000Z",
-  "notes": "Burkina Faso (bf) complete. Next: Gambia (gm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "notes": "Gambia (gm) complete. Next: Guinea-Bissau (gw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20382,6 +20382,111 @@
                 "minLng": -3.565,
                 "maxLat": 10.314,
                 "maxLng": -3.558
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gm",
+      "countryCode": "GM",
+      "name": "Gambia",
+      "states": [
+        {
+          "id": "banjul",
+          "stateCode": "B",
+          "name": "Banjul",
+          "cities": [
+            {
+              "id": "banjul",
+              "name": "Banjul",
+              "status": "complete",
+              "packPath": "gm/banjul/banjul/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:12:59.000Z",
+              "bbox": {
+                "minLat": 13.455,
+                "minLng": -16.577,
+                "maxLat": 13.458,
+                "maxLng": -16.573
+              }
+            }
+          ]
+        },
+        {
+          "id": "kanifing",
+          "stateCode": "C",
+          "name": "Kanifing",
+          "cities": [
+            {
+              "id": "kololi",
+              "name": "Kololi",
+              "status": "complete",
+              "packPath": "gm/kanifing/kololi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:12:59.000Z",
+              "bbox": {
+                "minLat": 13.453,
+                "minLng": -16.72,
+                "maxLat": 13.459,
+                "maxLng": -16.713
+              }
+            }
+          ]
+        },
+        {
+          "id": "north-bank",
+          "stateCode": "N",
+          "name": "North Bank",
+          "cities": [
+            {
+              "id": "kunta-kinteh",
+              "name": "Kunta Kinteh Island",
+              "status": "complete",
+              "packPath": "gm/north-bank/kunta-kinteh/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:12:59.000Z",
+              "bbox": {
+                "minLat": 13.316,
+                "minLng": -16.364,
+                "maxLat": 13.322,
+                "maxLng": -16.356
+              }
+            },
+            {
+              "id": "barra",
+              "name": "Barra",
+              "status": "complete",
+              "packPath": "gm/north-bank/barra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:12:59.000Z",
+              "bbox": {
+                "minLat": 13.486,
+                "minLng": -16.551,
+                "maxLat": 13.492,
+                "maxLng": -16.544
+              }
+            }
+          ]
+        },
+        {
+          "id": "central-river",
+          "stateCode": "M",
+          "name": "Central River",
+          "cities": [
+            {
+              "id": "wassu",
+              "name": "Wassu",
+              "status": "complete",
+              "packPath": "gm/central-river/wassu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:12:59.000Z",
+              "bbox": {
+                "minLat": 13.69,
+                "minLng": -14.875,
+                "maxLat": 13.696,
+                "maxLng": -14.868
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gm/north-bank/barra",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "stateCode": "N",
+  "stateName": "North Bank",
+  "cityName": "Barra",
+  "bbox": {
+    "minLat": 13.486,
+    "minLng": -16.551,
+    "maxLat": 13.492,
+    "maxLng": -16.544
+  },
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fort-bullen",
+      "name": "Fort Bullen",
+      "lat": 13.4875,
+      "lng": -16.54866,
+      "radiusM": 50,
+      "address": "Barra",
+      "howTo": "Visit Fort Bullen.",
+      "badge": "badges/fort-bullen.png"
+    },
+    {
+      "id": "barra-point",
+      "name": "Barra Point",
+      "lat": 13.49,
+      "lng": -16.5455,
+      "radiusM": 60,
+      "address": "Barra",
+      "howTo": "Visit Barra Point.",
+      "badge": "badges/barra-point.png"
+    }
+  ]
+}

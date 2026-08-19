@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gm/kanifing/kololi",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "stateCode": "C",
+  "stateName": "Kanifing",
+  "cityName": "Kololi",
+  "bbox": {
+    "minLat": 13.453,
+    "minLng": -16.72,
+    "maxLat": 13.459,
+    "maxLng": -16.713
+  },
+  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kololi-beach",
+      "name": "Kololi Beach",
+      "lat": 13.4548,
+      "lng": -16.71769,
+      "radiusM": 80,
+      "address": "Kololi",
+      "howTo": "Visit Kololi Beach.",
+      "badge": "badges/kololi-beach.png"
+    },
+    {
+      "id": "kololi-shore",
+      "name": "Kololi Shore",
+      "lat": 13.457,
+      "lng": -16.7145,
+      "radiusM": 80,
+      "address": "Kololi",
+      "howTo": "Visit Kololi Shore.",
+      "badge": "badges/kololi-shore.png"
+    }
+  ]
+}
