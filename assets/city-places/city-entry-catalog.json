@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:51:09.479Z",
+  "generatedAt": "2026-08-19T00:56:47.464Z",
   "cellDeg": 0.5,
-  "cityCount": 989,
+  "cityCount": 994,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5339,6 +5339,51 @@
         "minLng": 57.496,
         "maxLat": -20.157,
         "maxLng": 57.505
+      }
+    },
+    "mw/central/lilongwe": {
+      "name": "Lilongwe",
+      "bbox": {
+        "minLat": -13.954,
+        "minLng": 33.786,
+        "maxLat": -13.946,
+        "maxLng": 33.791
+      }
+    },
+    "mw/southern/blantyre": {
+      "name": "Blantyre",
+      "bbox": {
+        "minLat": -15.795,
+        "minLng": 35.009,
+        "maxLat": -15.782,
+        "maxLng": 35.023
+      }
+    },
+    "mw/southern/cape-maclear": {
+      "name": "Cape Maclear",
+      "bbox": {
+        "minLat": -14.042,
+        "minLng": 34.82,
+        "maxLat": -14.024,
+        "maxLng": 34.841
+      }
+    },
+    "mw/southern/liwonde": {
+      "name": "Liwonde",
+      "bbox": {
+        "minLat": -14.834,
+        "minLng": 35.34,
+        "maxLat": -14.824,
+        "maxLng": 35.35
+      }
+    },
+    "mw/southern/mulanje": {
+      "name": "Mulanje",
+      "bbox": {
+        "minLat": -15.907,
+        "minLng": 35.627,
+        "maxLat": -15.896,
+        "maxLng": 35.637
       }
     },
     "mx/baja-california-sur/cabo-san-lucas": {
@@ -13458,6 +13503,21 @@
     ],
     "32,-46": [
       "cv/boa-vista/boa-vista"
+    ],
+    "-28,67": [
+      "mw/central/lilongwe"
+    ],
+    "-32,70": [
+      "mw/southern/blantyre"
+    ],
+    "-29,69": [
+      "mw/southern/cape-maclear"
+    ],
+    "-30,70": [
+      "mw/southern/liwonde"
+    ],
+    "-32,71": [
+      "mw/southern/mulanje"
     ]
   }
 }

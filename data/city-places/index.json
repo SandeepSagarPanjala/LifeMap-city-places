@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:51:09.000Z",
-  "notes": "Cape Verde (cv) complete. Next: Malawi (mw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "notes": "Malawi (mw) complete. Next: Lesotho (ls) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18975,6 +18975,97 @@
                 "minLng": -22.929,
                 "maxLat": 16.107,
                 "maxLng": -22.918
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mw",
+      "countryCode": "MW",
+      "name": "Malawi",
+      "states": [
+        {
+          "id": "central",
+          "stateCode": "C",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "lilongwe",
+              "name": "Lilongwe",
+              "status": "complete",
+              "packPath": "mw/central/lilongwe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:56:47.000Z",
+              "bbox": {
+                "minLat": -13.954,
+                "minLng": 33.786,
+                "maxLat": -13.946,
+                "maxLng": 33.791
+              }
+            }
+          ]
+        },
+        {
+          "id": "southern",
+          "stateCode": "S",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "blantyre",
+              "name": "Blantyre",
+              "status": "complete",
+              "packPath": "mw/southern/blantyre/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:56:47.000Z",
+              "bbox": {
+                "minLat": -15.795,
+                "minLng": 35.009,
+                "maxLat": -15.782,
+                "maxLng": 35.023
+              }
+            },
+            {
+              "id": "cape-maclear",
+              "name": "Cape Maclear",
+              "status": "complete",
+              "packPath": "mw/southern/cape-maclear/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:56:47.000Z",
+              "bbox": {
+                "minLat": -14.042,
+                "minLng": 34.82,
+                "maxLat": -14.024,
+                "maxLng": 34.841
+              }
+            },
+            {
+              "id": "liwonde",
+              "name": "Liwonde",
+              "status": "complete",
+              "packPath": "mw/southern/liwonde/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:56:47.000Z",
+              "bbox": {
+                "minLat": -14.834,
+                "minLng": 35.34,
+                "maxLat": -14.824,
+                "maxLng": 35.35
+              }
+            },
+            {
+              "id": "mulanje",
+              "name": "Mulanje",
+              "status": "complete",
+              "packPath": "mw/southern/mulanje/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:56:47.000Z",
+              "bbox": {
+                "minLat": -15.907,
+                "minLng": 35.627,
+                "maxLat": -15.896,
+                "maxLng": 35.637
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mw/southern/cape-maclear",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "stateCode": "S",
+  "stateName": "Southern",
+  "cityName": "Cape Maclear",
+  "bbox": {
+    "minLat": -14.042,
+    "minLng": 34.82,
+    "maxLat": -14.024,
+    "maxLng": 34.841
+  },
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cape-maclear",
+      "name": "Cape Maclear",
+      "lat": -14.02638,
+      "lng": 34.83815,
+      "radiusM": 150,
+      "address": "Cape Maclear",
+      "howTo": "Visit Cape Maclear.",
+      "badge": "badges/cape-maclear.png"
+    },
+    {
+      "id": "otter-point",
+      "name": "Otter Point",
+      "lat": -14.03955,
+      "lng": 34.82258,
+      "radiusM": 80,
+      "address": "Cape Maclear",
+      "howTo": "Visit Otter Point.",
+      "badge": "badges/otter-point.png"
+    }
+  ]
+}

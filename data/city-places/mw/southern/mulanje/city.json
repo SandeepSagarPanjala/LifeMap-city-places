@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mw/southern/mulanje",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "stateCode": "S",
+  "stateName": "Southern",
+  "cityName": "Mulanje",
+  "bbox": {
+    "minLat": -15.907,
+    "minLng": 35.627,
+    "maxLat": -15.896,
+    "maxLng": 35.637
+  },
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-mulanje",
+      "name": "Mount Mulanje",
+      "lat": -15.89898,
+      "lng": 35.62989,
+      "radiusM": 250,
+      "address": "Mulanje",
+      "howTo": "Visit Mount Mulanje.",
+      "badge": "badges/mount-mulanje.png"
+    },
+    {
+      "id": "mulanje-slopes",
+      "name": "Mulanje Slopes",
+      "lat": -15.905,
+      "lng": 35.635,
+      "radiusM": 200,
+      "address": "Mulanje",
+      "howTo": "Visit Mulanje Slopes.",
+      "badge": "badges/mulanje-slopes.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mw/central/lilongwe",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "stateCode": "C",
+  "stateName": "Central",
+  "cityName": "Lilongwe",
+  "bbox": {
+    "minLat": -13.954,
+    "minLng": 33.786,
+    "maxLat": -13.946,
+    "maxLng": 33.791
+  },
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parliament",
+      "name": "Parliament Building",
+      "lat": -13.95222,
+      "lng": 33.7879,
+      "radiusM": 80,
+      "address": "Lilongwe",
+      "howTo": "Visit Parliament Building.",
+      "badge": "badges/parliament.png"
+    },
+    {
+      "id": "capital-hill",
+      "name": "Capital Hill",
+      "lat": -13.94758,
+      "lng": 33.78974,
+      "radiusM": 80,
+      "address": "Lilongwe",
+      "howTo": "Visit Capital Hill.",
+      "badge": "badges/capital-hill.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mw/southern/blantyre",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "stateCode": "S",
+  "stateName": "Southern",
+  "cityName": "Blantyre",
+  "bbox": {
+    "minLat": -15.795,
+    "minLng": 35.009,
+    "maxLat": -15.782,
+    "maxLng": 35.023
+  },
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mandala-house",
+      "name": "Mandala House",
+      "lat": -15.79272,
+      "lng": 35.01151,
+      "radiusM": 40,
+      "address": "Blantyre",
+      "howTo": "Visit Mandala House.",
+      "badge": "badges/mandala-house.png"
+    },
+    {
+      "id": "st-michaels",
+      "name": "St Michaels CCAP Church",
+      "lat": -15.78414,
+      "lng": 35.02076,
+      "radiusM": 50,
+      "address": "Blantyre",
+      "howTo": "Visit St Michaels CCAP Church.",
+      "badge": "badges/st-michaels.png"
+    }
+  ]
+}

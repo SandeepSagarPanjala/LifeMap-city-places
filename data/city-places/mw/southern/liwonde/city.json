@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mw/southern/liwonde",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "stateCode": "S",
+  "stateName": "Southern",
+  "cityName": "Liwonde",
+  "bbox": {
+    "minLat": -14.834,
+    "minLng": 35.34,
+    "maxLat": -14.824,
+    "maxLng": 35.35
+  },
+  "updatedAt": "2026-08-19T00:56:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "liwonde",
+      "name": "Liwonde National Park",
+      "lat": -14.82625,
+      "lng": 35.34753,
+      "radiusM": 250,
+      "address": "Liwonde",
+      "howTo": "Visit Liwonde National Park.",
+      "badge": "badges/liwonde.png"
+    },
+    {
+      "id": "shire-river",
+      "name": "Shire River",
+      "lat": -14.832,
+      "lng": 35.342,
+      "radiusM": 200,
+      "address": "Liwonde",
+      "howTo": "Visit Shire River.",
+      "badge": "badges/shire-river.png"
+    }
+  ]
+}
