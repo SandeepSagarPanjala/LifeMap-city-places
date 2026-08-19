@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:19:39.000Z",
-  "notes": "Madagascar (mg) complete. Next: Zambia (zm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "notes": "Zambia (zm) complete. Next: Mauritius (mu) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18359,6 +18359,104 @@
                 "minLng": 48.187,
                 "maxLat": -13.249,
                 "maxLng": 48.197
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zm",
+      "countryCode": "ZM",
+      "name": "Zambia",
+      "states": [
+        {
+          "id": "southern",
+          "stateCode": "07",
+          "name": "Southern",
+          "cities": [
+            {
+              "id": "livingstone",
+              "name": "Livingstone",
+              "status": "complete",
+              "packPath": "zm/southern/livingstone/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:25:08.000Z",
+              "bbox": {
+                "minLat": -17.928,
+                "minLng": 25.855,
+                "maxLat": -17.923,
+                "maxLng": 25.864
+              }
+            },
+            {
+              "id": "siavonga",
+              "name": "Siavonga",
+              "status": "complete",
+              "packPath": "zm/southern/siavonga/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:25:08.000Z",
+              "bbox": {
+                "minLat": -16.539,
+                "minLng": 28.703,
+                "maxLat": -16.534,
+                "maxLng": 28.713
+              }
+            }
+          ]
+        },
+        {
+          "id": "lusaka",
+          "stateCode": "09",
+          "name": "Lusaka",
+          "cities": [
+            {
+              "id": "lusaka",
+              "name": "Lusaka",
+              "status": "complete",
+              "packPath": "zm/lusaka/lusaka/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:25:08.000Z",
+              "bbox": {
+                "minLat": -15.424,
+                "minLng": 28.289,
+                "maxLat": -15.416,
+                "maxLng": 28.306
+              }
+            },
+            {
+              "id": "lower-zambezi",
+              "name": "Lower Zambezi",
+              "status": "complete",
+              "packPath": "zm/lusaka/lower-zambezi/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:25:08.000Z",
+              "bbox": {
+                "minLat": -15.722,
+                "minLng": 29.335,
+                "maxLat": -15.712,
+                "maxLng": 29.348
+              }
+            }
+          ]
+        },
+        {
+          "id": "eastern",
+          "stateCode": "03",
+          "name": "Eastern",
+          "cities": [
+            {
+              "id": "south-luangwa",
+              "name": "South Luangwa",
+              "status": "complete",
+              "packPath": "zm/eastern/south-luangwa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:25:08.000Z",
+              "bbox": {
+                "minLat": -13.11,
+                "minLng": 31.782,
+                "maxLat": -13.077,
+                "maxLng": 31.792
               }
             }
           ]

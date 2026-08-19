@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "zm/eastern/south-luangwa",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "stateCode": "03",
+  "stateName": "Eastern",
+  "cityName": "South Luangwa",
+  "bbox": {
+    "minLat": -13.11,
+    "minLng": 31.782,
+    "maxLat": -13.077,
+    "maxLng": 31.792
+  },
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mfuwe",
+      "name": "Mfuwe",
+      "lat": -13.07996,
+      "lng": 31.78892,
+      "radiusM": 200,
+      "address": "South Luangwa",
+      "howTo": "Visit Mfuwe.",
+      "badge": "badges/mfuwe.png"
+    },
+    {
+      "id": "luangwa-river",
+      "name": "Luangwa River",
+      "lat": -13.10731,
+      "lng": 31.78519,
+      "radiusM": 250,
+      "address": "South Luangwa",
+      "howTo": "Visit Luangwa River.",
+      "badge": "badges/luangwa-river.png"
+    }
+  ]
+}

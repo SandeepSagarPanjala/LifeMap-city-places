@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "zm/lusaka/lower-zambezi",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "stateCode": "09",
+  "stateName": "Lusaka",
+  "cityName": "Lower Zambezi",
+  "bbox": {
+    "minLat": -15.722,
+    "minLng": 29.335,
+    "maxLat": -15.712,
+    "maxLng": 29.348
+  },
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chongwe",
+      "name": "Chongwe",
+      "lat": -15.71478,
+      "lng": 29.3379,
+      "radiusM": 200,
+      "address": "Lower Zambezi",
+      "howTo": "Visit Chongwe.",
+      "badge": "badges/chongwe.png"
+    },
+    {
+      "id": "zambezi-channel",
+      "name": "Zambezi Channel",
+      "lat": -15.72,
+      "lng": 29.345,
+      "radiusM": 200,
+      "address": "Lower Zambezi",
+      "howTo": "Visit Zambezi Channel.",
+      "badge": "badges/zambezi-channel.png"
+    }
+  ]
+}

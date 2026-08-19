@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "zm/southern/livingstone",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "stateCode": "07",
+  "stateName": "Southern",
+  "cityName": "Livingstone",
+  "bbox": {
+    "minLat": -17.928,
+    "minLng": 25.855,
+    "maxLat": -17.923,
+    "maxLng": 25.864
+  },
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "victoria-falls",
+      "name": "Victoria Falls",
+      "lat": -17.92461,
+      "lng": 25.85716,
+      "radiusM": 150,
+      "address": "Livingstone",
+      "howTo": "Visit Victoria Falls.",
+      "badge": "badges/victoria-falls.png"
+    },
+    {
+      "id": "knife-edge-bridge",
+      "name": "Knife Edge Bridge",
+      "lat": -17.92641,
+      "lng": 25.86146,
+      "radiusM": 60,
+      "address": "Livingstone",
+      "howTo": "Visit Knife Edge Bridge.",
+      "badge": "badges/knife-edge-bridge.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "zm/southern/siavonga",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "stateCode": "07",
+  "stateName": "Southern",
+  "cityName": "Siavonga",
+  "bbox": {
+    "minLat": -16.539,
+    "minLng": 28.703,
+    "maxLat": -16.534,
+    "maxLng": 28.713
+  },
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "siavonga",
+      "name": "Siavonga",
+      "lat": -16.53648,
+      "lng": 28.7102,
+      "radiusM": 150,
+      "address": "Siavonga",
+      "howTo": "Visit Siavonga.",
+      "badge": "badges/siavonga.png"
+    },
+    {
+      "id": "lake-kariba",
+      "name": "Lake Kariba",
+      "lat": -16.53714,
+      "lng": 28.70522,
+      "radiusM": 200,
+      "address": "Siavonga",
+      "howTo": "Visit Lake Kariba.",
+      "badge": "badges/lake-kariba.png"
+    }
+  ]
+}

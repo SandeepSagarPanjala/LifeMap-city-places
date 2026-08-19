@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "zm/lusaka/lusaka",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "stateCode": "09",
+  "stateName": "Lusaka",
+  "cityName": "Lusaka",
+  "bbox": {
+    "minLat": -15.424,
+    "minLng": 28.289,
+    "maxLat": -15.416,
+    "maxLng": 28.306
+  },
+  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "holy-cross-cathedral",
+      "name": "Cathedral of the Holy Cross",
+      "lat": -15.41877,
+      "lng": 28.30367,
+      "radiusM": 60,
+      "address": "Lusaka",
+      "howTo": "Visit Cathedral of the Holy Cross.",
+      "badge": "badges/holy-cross-cathedral.png"
+    },
+    {
+      "id": "lusaka-national-museum",
+      "name": "Lusaka National Museum",
+      "lat": -15.42187,
+      "lng": 28.2913,
+      "radiusM": 60,
+      "address": "Lusaka",
+      "howTo": "Visit Lusaka National Museum.",
+      "badge": "badges/lusaka-national-museum.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:19:40.064Z",
+  "generatedAt": "2026-08-19T00:25:08.580Z",
   "cellDeg": 0.5,
-  "cityCount": 959,
+  "cityCount": 964,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -8634,6 +8634,51 @@
         "maxLat": -33.92,
         "maxLng": 18.88
       }
+    },
+    "zm/eastern/south-luangwa": {
+      "name": "South Luangwa",
+      "bbox": {
+        "minLat": -13.11,
+        "minLng": 31.782,
+        "maxLat": -13.077,
+        "maxLng": 31.792
+      }
+    },
+    "zm/lusaka/lower-zambezi": {
+      "name": "Lower Zambezi",
+      "bbox": {
+        "minLat": -15.722,
+        "minLng": 29.335,
+        "maxLat": -15.712,
+        "maxLng": 29.348
+      }
+    },
+    "zm/lusaka/lusaka": {
+      "name": "Lusaka",
+      "bbox": {
+        "minLat": -15.424,
+        "minLng": 28.289,
+        "maxLat": -15.416,
+        "maxLng": 28.306
+      }
+    },
+    "zm/southern/livingstone": {
+      "name": "Livingstone",
+      "bbox": {
+        "minLat": -17.928,
+        "minLng": 25.855,
+        "maxLat": -17.923,
+        "maxLng": 25.864
+      }
+    },
+    "zm/southern/siavonga": {
+      "name": "Siavonga",
+      "bbox": {
+        "minLat": -16.539,
+        "minLng": 28.703,
+        "maxLat": -16.534,
+        "maxLng": 28.713
+      }
     }
   },
   "cells": {
@@ -13103,6 +13148,21 @@
     ],
     "-27,96": [
       "mg/diana/nosy-be"
+    ],
+    "-36,51": [
+      "zm/southern/livingstone"
+    ],
+    "-34,57": [
+      "zm/southern/siavonga"
+    ],
+    "-31,56": [
+      "zm/lusaka/lusaka"
+    ],
+    "-32,58": [
+      "zm/lusaka/lower-zambezi"
+    ],
+    "-27,63": [
+      "zm/eastern/south-luangwa"
     ]
   }
 }

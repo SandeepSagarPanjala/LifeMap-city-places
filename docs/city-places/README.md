@@ -144,7 +144,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 98. `ci` — Ivory Coast (**complete**)
 99. `cm` — Cameroon (**complete**)
 100. `mg` — Madagascar (**complete**)
-101. `zm` — Zambia
+101. `zm` — Zambia (**complete**)
+102. `mu` — Mauritius
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 
