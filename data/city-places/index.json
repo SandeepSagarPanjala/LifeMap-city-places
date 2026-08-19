@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:00:51.000Z",
-  "notes": "Mali (ml) complete. Next: Burkina Faso (bf) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "notes": "Burkina Faso (bf) complete. Next: Gambia (gm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20277,6 +20277,111 @@
                 "minLng": -3.012,
                 "maxLat": 16.778,
                 "maxLng": -3.005
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf",
+      "countryCode": "BF",
+      "name": "Burkina Faso",
+      "states": [
+        {
+          "id": "kadiogo",
+          "stateCode": "KAD",
+          "name": "Kadiogo",
+          "cities": [
+            {
+              "id": "ouagadougou",
+              "name": "Ouagadougou",
+              "status": "complete",
+              "packPath": "bf/kadiogo/ouagadougou/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:06:51.000Z",
+              "bbox": {
+                "minLat": 12.36,
+                "minLng": -1.529,
+                "maxLat": 12.368,
+                "maxLng": -1.52
+              }
+            }
+          ]
+        },
+        {
+          "id": "houet",
+          "stateCode": "HOU",
+          "name": "Houet",
+          "cities": [
+            {
+              "id": "bobo-dioulasso",
+              "name": "Bobo-Dioulasso",
+              "status": "complete",
+              "packPath": "bf/houet/bobo-dioulasso/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:06:51.000Z",
+              "bbox": {
+                "minLat": 11.176,
+                "minLng": -4.305,
+                "maxLat": 11.18,
+                "maxLng": -4.294
+              }
+            }
+          ]
+        },
+        {
+          "id": "comoe",
+          "stateCode": "COM",
+          "name": "Comoe",
+          "cities": [
+            {
+              "id": "karfiguela",
+              "name": "Karfiguela",
+              "status": "complete",
+              "packPath": "bf/comoe/karfiguela/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:06:51.000Z",
+              "bbox": {
+                "minLat": 10.698,
+                "minLng": -4.819,
+                "maxLat": 10.704,
+                "maxLng": -4.812
+              }
+            },
+            {
+              "id": "fabedougou",
+              "name": "Fabedougou",
+              "status": "complete",
+              "packPath": "bf/comoe/fabedougou/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:06:51.000Z",
+              "bbox": {
+                "minLat": 10.731,
+                "minLng": -4.799,
+                "maxLat": 10.737,
+                "maxLng": -4.792
+              }
+            }
+          ]
+        },
+        {
+          "id": "poni",
+          "stateCode": "PON",
+          "name": "Poni",
+          "cities": [
+            {
+              "id": "loropeni",
+              "name": "Loropeni",
+              "status": "complete",
+              "packPath": "bf/poni/loropeni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:06:51.000Z",
+              "bbox": {
+                "minLat": 10.308,
+                "minLng": -3.565,
+                "maxLat": 10.314,
+                "maxLng": -3.558
               }
             }
           ]

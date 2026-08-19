@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bf/poni/loropeni",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "stateCode": "PON",
+  "stateName": "Poni",
+  "cityName": "Loropeni",
+  "bbox": {
+    "minLat": 10.308,
+    "minLng": -3.565,
+    "maxLat": 10.314,
+    "maxLng": -3.558
+  },
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "loropeni",
+      "name": "Ruines de Loropeni",
+      "lat": 10.31016,
+      "lng": -3.563,
+      "radiusM": 60,
+      "address": "Lorop\u00e9ni",
+      "howTo": "Visit Ruines de Loropeni.",
+      "badge": "badges/loropeni.png"
+    },
+    {
+      "id": "loropeni-walls",
+      "name": "Loropeni Walls",
+      "lat": 10.3125,
+      "lng": -3.56,
+      "radiusM": 60,
+      "address": "Lorop\u00e9ni",
+      "howTo": "Visit Loropeni Walls.",
+      "badge": "badges/loropeni-walls.png"
+    }
+  ]
+}

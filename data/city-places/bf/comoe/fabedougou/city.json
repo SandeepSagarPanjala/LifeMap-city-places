@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bf/comoe/fabedougou",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "stateCode": "COM",
+  "stateName": "Comoe",
+  "cityName": "Fabedougou",
+  "bbox": {
+    "minLat": 10.731,
+    "minLng": -4.799,
+    "maxLat": 10.737,
+    "maxLng": -4.792
+  },
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fabedougou",
+      "name": "Domes de Fabedougou",
+      "lat": 10.73299,
+      "lng": -4.79724,
+      "radiusM": 80,
+      "address": "Banfora",
+      "howTo": "Visit Domes de Fabedougou.",
+      "badge": "badges/fabedougou.png"
+    },
+    {
+      "id": "fabedougou-rocks",
+      "name": "Fabedougou Rocks",
+      "lat": 10.7355,
+      "lng": -4.794,
+      "radiusM": 80,
+      "address": "Banfora",
+      "howTo": "Visit Fabedougou Rocks.",
+      "badge": "badges/fabedougou-rocks.png"
+    }
+  ]
+}

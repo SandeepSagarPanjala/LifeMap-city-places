@@ -163,7 +163,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 117. `sl` — Sierra Leone (**complete**)
 118. `lr` — Liberia (**complete**)
 119. `ml` — Mali (**complete**)
-120. `bf` — Burkina Faso
+120. `bf` — Burkina Faso (**complete**)
+121. `gm` — Gambia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

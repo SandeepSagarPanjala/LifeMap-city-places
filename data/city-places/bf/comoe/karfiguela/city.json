@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bf/comoe/karfiguela",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "stateCode": "COM",
+  "stateName": "Comoe",
+  "cityName": "Karfiguela",
+  "bbox": {
+    "minLat": 10.698,
+    "minLng": -4.819,
+    "maxLat": 10.704,
+    "maxLng": -4.812
+  },
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "karfiguela",
+      "name": "Cascades de Karfiguela",
+      "lat": 10.69982,
+      "lng": -4.81747,
+      "radiusM": 80,
+      "address": "Banfora",
+      "howTo": "Visit Cascades de Karfiguela.",
+      "badge": "badges/karfiguela.png"
+    },
+    {
+      "id": "karfiguela-forest",
+      "name": "Karfiguela Forest",
+      "lat": 10.7025,
+      "lng": -4.814,
+      "radiusM": 80,
+      "address": "Banfora",
+      "howTo": "Visit Karfiguela Forest.",
+      "badge": "badges/karfiguela-forest.png"
+    }
+  ]
+}

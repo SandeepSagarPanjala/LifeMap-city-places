@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bf/houet/bobo-dioulasso",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "stateCode": "HOU",
+  "stateName": "Houet",
+  "cityName": "Bobo-Dioulasso",
+  "bbox": {
+    "minLat": 11.176,
+    "minLng": -4.305,
+    "maxLat": 11.18,
+    "maxLng": -4.294
+  },
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bobo-mosque",
+      "name": "Grande Mosquee de Dioulassoba",
+      "lat": 11.17781,
+      "lng": -4.29598,
+      "radiusM": 50,
+      "address": "Bobo-Dioulasso",
+      "howTo": "Visit Grande Mosquee de Dioulassoba.",
+      "badge": "badges/bobo-mosque.png"
+    },
+    {
+      "id": "bobo-cathedral",
+      "name": "Cathedrale Notre Dame de Lourdes",
+      "lat": 11.17814,
+      "lng": -4.30294,
+      "radiusM": 50,
+      "address": "Bobo-Dioulasso",
+      "howTo": "Visit Cathedrale Notre Dame de Lourdes.",
+      "badge": "badges/bobo-cathedral.png"
+    }
+  ]
+}

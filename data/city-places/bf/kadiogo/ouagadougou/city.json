@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bf/kadiogo/ouagadougou",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "stateCode": "KAD",
+  "stateName": "Kadiogo",
+  "cityName": "Ouagadougou",
+  "bbox": {
+    "minLat": 12.36,
+    "minLng": -1.529,
+    "maxLat": 12.368,
+    "maxLng": -1.52
+  },
+  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ouaga-cathedral",
+      "name": "Cathedrale de Ouagadougou",
+      "lat": 12.36197,
+      "lng": -1.52701,
+      "radiusM": 50,
+      "address": "Ouagadougou",
+      "howTo": "Visit Cathedrale de Ouagadougou.",
+      "badge": "badges/ouaga-cathedral.png"
+    },
+    {
+      "id": "ouaga-mosque",
+      "name": "Grande Mosquee de Ouagadougou",
+      "lat": 12.36622,
+      "lng": -1.52139,
+      "radiusM": 50,
+      "address": "Ouagadougou",
+      "howTo": "Visit Grande Mosquee de Ouagadougou.",
+      "badge": "badges/ouaga-mosque.png"
+    }
+  ]
+}
