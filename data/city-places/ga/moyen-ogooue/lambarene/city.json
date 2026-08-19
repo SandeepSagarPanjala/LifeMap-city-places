@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ga/moyen-ogooue/lambarene",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "stateCode": "3",
+  "stateName": "Moyen-Ogoou\u00e9",
+  "cityName": "Lambarene",
+  "bbox": {
+    "minLat": -0.683,
+    "minLng": 10.228,
+    "maxLat": -0.675,
+    "maxLng": 10.237
+  },
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "schweitzer-hospital",
+      "name": "Albert Schweitzer Hospital",
+      "lat": -0.67773,
+      "lng": 10.23083,
+      "radiusM": 60,
+      "address": "Lambar\u00e9n\u00e9",
+      "howTo": "Visit Albert Schweitzer Hospital.",
+      "badge": "badges/schweitzer-hospital.png"
+    },
+    {
+      "id": "ogooue-river",
+      "name": "Ogoou\u00e9 River",
+      "lat": -0.681,
+      "lng": 10.235,
+      "radiusM": 150,
+      "address": "Lambar\u00e9n\u00e9",
+      "howTo": "Visit Ogoou\u00e9 River.",
+      "badge": "badges/ogooue-river.png"
+    }
+  ]
+}

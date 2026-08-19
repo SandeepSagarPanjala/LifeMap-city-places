@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ga/ogooue-maritime/loango",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "stateCode": "8",
+  "stateName": "Ogoou\u00e9-Maritime",
+  "cityName": "Loango",
+  "bbox": {
+    "minLat": -2.177,
+    "minLng": 9.608,
+    "maxLat": -2.168,
+    "maxLng": 9.618
+  },
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "loango",
+      "name": "Loango National Park",
+      "lat": -2.17072,
+      "lng": 9.61022,
+      "radiusM": 250,
+      "address": "Loango",
+      "howTo": "Visit Loango National Park.",
+      "badge": "badges/loango.png"
+    },
+    {
+      "id": "loango-lagoon",
+      "name": "Loango Lagoon",
+      "lat": -2.175,
+      "lng": 9.616,
+      "radiusM": 200,
+      "address": "Loango",
+      "howTo": "Visit Loango Lagoon.",
+      "badge": "badges/loango-lagoon.png"
+    }
+  ]
+}

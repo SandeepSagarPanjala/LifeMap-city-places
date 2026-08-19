@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ga/estuaire/libreville",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "stateCode": "1",
+  "stateName": "Estuaire",
+  "cityName": "Libreville",
+  "bbox": {
+    "minLat": 0.4,
+    "minLng": 9.434,
+    "maxLat": 0.411,
+    "maxLng": 9.46
+  },
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sainte-marie",
+      "name": "Sainte-Marie Cathedral",
+      "lat": 0.4028,
+      "lng": 9.43629,
+      "radiusM": 50,
+      "address": "Libreville",
+      "howTo": "Visit Sainte-Marie Cathedral.",
+      "badge": "badges/sainte-marie.png"
+    },
+    {
+      "id": "saint-michel",
+      "name": "Saint-Michel Parish",
+      "lat": 0.40906,
+      "lng": 9.45753,
+      "radiusM": 50,
+      "address": "Libreville",
+      "howTo": "Visit Saint-Michel Parish.",
+      "badge": "badges/saint-michel.png"
+    }
+  ]
+}

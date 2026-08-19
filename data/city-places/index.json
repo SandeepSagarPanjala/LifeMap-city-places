@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:17:50.000Z",
-  "notes": "Togo (tg) complete. Next: Gabon (ga) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "notes": "Gabon (ga) complete. Next: S\u00e3o Tom\u00e9 and Pr\u00edncipe (st) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19451,6 +19451,111 @@
                 "minLng": 0.552,
                 "maxLat": 6.863,
                 "maxLng": 0.559
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ga",
+      "countryCode": "GA",
+      "name": "Gabon",
+      "states": [
+        {
+          "id": "estuaire",
+          "stateCode": "1",
+          "name": "Estuaire",
+          "cities": [
+            {
+              "id": "libreville",
+              "name": "Libreville",
+              "status": "complete",
+              "packPath": "ga/estuaire/libreville/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:22:46.000Z",
+              "bbox": {
+                "minLat": 0.4,
+                "minLng": 9.434,
+                "maxLat": 0.411,
+                "maxLng": 9.46
+              }
+            },
+            {
+              "id": "pointe-denis",
+              "name": "Pointe Denis",
+              "status": "complete",
+              "packPath": "ga/estuaire/pointe-denis/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:22:46.000Z",
+              "bbox": {
+                "minLat": 0.327,
+                "minLng": 9.358,
+                "maxLat": 0.334,
+                "maxLng": 9.368
+              }
+            }
+          ]
+        },
+        {
+          "id": "ogooue-maritime",
+          "stateCode": "8",
+          "name": "Ogoou\u00e9-Maritime",
+          "cities": [
+            {
+              "id": "loango",
+              "name": "Loango",
+              "status": "complete",
+              "packPath": "ga/ogooue-maritime/loango/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:22:46.000Z",
+              "bbox": {
+                "minLat": -2.177,
+                "minLng": 9.608,
+                "maxLat": -2.168,
+                "maxLng": 9.618
+              }
+            }
+          ]
+        },
+        {
+          "id": "ogooue-ivindo",
+          "stateCode": "6",
+          "name": "Ogoou\u00e9-Ivindo",
+          "cities": [
+            {
+              "id": "kongou",
+              "name": "Kongou",
+              "status": "complete",
+              "packPath": "ga/ogooue-ivindo/kongou/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:22:46.000Z",
+              "bbox": {
+                "minLat": 0.285,
+                "minLng": 12.571,
+                "maxLat": 0.294,
+                "maxLng": 12.579
+              }
+            }
+          ]
+        },
+        {
+          "id": "moyen-ogooue",
+          "stateCode": "3",
+          "name": "Moyen-Ogoou\u00e9",
+          "cities": [
+            {
+              "id": "lambarene",
+              "name": "Lambarene",
+              "status": "complete",
+              "packPath": "ga/moyen-ogooue/lambarene/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:22:46.000Z",
+              "bbox": {
+                "minLat": -0.683,
+                "minLng": 10.228,
+                "maxLat": -0.675,
+                "maxLng": 10.237
               }
             }
           ]

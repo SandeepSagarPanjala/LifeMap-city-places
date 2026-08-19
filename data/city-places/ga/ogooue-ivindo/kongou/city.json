@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ga/ogooue-ivindo/kongou",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "stateCode": "6",
+  "stateName": "Ogoou\u00e9-Ivindo",
+  "cityName": "Kongou",
+  "bbox": {
+    "minLat": 0.285,
+    "minLng": 12.571,
+    "maxLat": 0.294,
+    "maxLng": 12.579
+  },
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kongou-falls",
+      "name": "Kongou Falls",
+      "lat": 0.28787,
+      "lng": 12.57312,
+      "radiusM": 150,
+      "address": "Ivindo",
+      "howTo": "Visit Kongou Falls.",
+      "badge": "badges/kongou-falls.png"
+    },
+    {
+      "id": "kongou-gorge",
+      "name": "Kongou Gorge",
+      "lat": 0.292,
+      "lng": 12.577,
+      "radiusM": 150,
+      "address": "Ivindo",
+      "howTo": "Visit Kongou Gorge.",
+      "badge": "badges/kongou-gorge.png"
+    }
+  ]
+}

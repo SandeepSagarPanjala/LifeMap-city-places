@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:17:50.274Z",
+  "generatedAt": "2026-08-19T01:22:46.609Z",
   "cellDeg": 0.5,
-  "cityCount": 1014,
+  "cityCount": 1019,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2369,6 +2369,51 @@
         "minLng": 7.24,
         "maxLat": 43.72,
         "maxLng": 7.28
+      }
+    },
+    "ga/estuaire/libreville": {
+      "name": "Libreville",
+      "bbox": {
+        "minLat": 0.4,
+        "minLng": 9.434,
+        "maxLat": 0.411,
+        "maxLng": 9.46
+      }
+    },
+    "ga/estuaire/pointe-denis": {
+      "name": "Pointe Denis",
+      "bbox": {
+        "minLat": 0.327,
+        "minLng": 9.358,
+        "maxLat": 0.334,
+        "maxLng": 9.368
+      }
+    },
+    "ga/moyen-ogooue/lambarene": {
+      "name": "Lambarene",
+      "bbox": {
+        "minLat": -0.683,
+        "minLng": 10.228,
+        "maxLat": -0.675,
+        "maxLng": 10.237
+      }
+    },
+    "ga/ogooue-ivindo/kongou": {
+      "name": "Kongou",
+      "bbox": {
+        "minLat": 0.285,
+        "minLng": 12.571,
+        "maxLat": 0.294,
+        "maxLng": 12.579
+      }
+    },
+    "ga/ogooue-maritime/loango": {
+      "name": "Loango",
+      "bbox": {
+        "minLat": -2.177,
+        "minLng": 9.608,
+        "maxLat": -2.168,
+        "maxLng": 9.618
       }
     },
     "gb/england/bath": {
@@ -13748,6 +13793,19 @@
     "13,1": [
       "tg/plateaux/kpalime",
       "tg/plateaux/wome"
+    ],
+    "0,18": [
+      "ga/estuaire/libreville",
+      "ga/estuaire/pointe-denis"
+    ],
+    "-5,19": [
+      "ga/ogooue-maritime/loango"
+    ],
+    "0,25": [
+      "ga/ogooue-ivindo/kongou"
+    ],
+    "-2,20": [
+      "ga/moyen-ogooue/lambarene"
     ]
   }
 }

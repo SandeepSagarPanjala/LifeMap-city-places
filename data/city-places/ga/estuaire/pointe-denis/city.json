@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ga/estuaire/pointe-denis",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "stateCode": "1",
+  "stateName": "Estuaire",
+  "cityName": "Pointe Denis",
+  "bbox": {
+    "minLat": 0.327,
+    "minLng": 9.358,
+    "maxLat": 0.334,
+    "maxLng": 9.368
+  },
+  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pointe-denis",
+      "name": "Pointe Denis",
+      "lat": 0.32919,
+      "lng": 9.36542,
+      "radiusM": 150,
+      "address": "Pointe Denis",
+      "howTo": "Visit Pointe Denis.",
+      "badge": "badges/pointe-denis.png"
+    },
+    {
+      "id": "denis-beach",
+      "name": "Denis Beach",
+      "lat": 0.332,
+      "lng": 9.36,
+      "radiusM": 120,
+      "address": "Pointe Denis",
+      "howTo": "Visit Denis Beach.",
+      "badge": "badges/denis-beach.png"
+    }
+  ]
+}
