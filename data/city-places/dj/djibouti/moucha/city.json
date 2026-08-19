@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dj/djibouti/moucha",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "stateCode": "DJ",
+  "stateName": "Djibouti",
+  "cityName": "Moucha",
+  "bbox": {
+    "minLat": 11.71091,
+    "minLng": 43.15954,
+    "maxLat": 11.72395,
+    "maxLng": 43.2131
+  },
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "moucha",
+      "name": "\u00cele Moucha",
+      "lat": 11.72095,
+      "lng": 43.2101,
+      "radiusM": 150,
+      "address": "Gulf of Tadjoura",
+      "howTo": "Visit \u00cele Moucha.",
+      "badge": "badges/moucha.png"
+    },
+    {
+      "id": "maskali",
+      "name": "\u00cele Maskali",
+      "lat": 11.71391,
+      "lng": 43.16254,
+      "radiusM": 150,
+      "address": "Gulf of Tadjoura",
+      "howTo": "Visit \u00cele Maskali.",
+      "badge": "badges/maskali.png"
+    }
+  ]
+}

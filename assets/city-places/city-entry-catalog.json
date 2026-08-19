@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:39:24.633Z",
+  "generatedAt": "2026-08-19T11:57:50.578Z",
   "cellDeg": 0.5,
-  "cityCount": 1089,
+  "cityCount": 1094,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1820,6 +1820,51 @@
         "minLng": 10.68,
         "maxLat": 53.87,
         "maxLng": 10.69
+      }
+    },
+    "dj/dikhil/abbe": {
+      "name": "Lake Abbe",
+      "bbox": {
+        "minLat": 11.2135,
+        "minLng": 41.862,
+        "maxLat": 11.22447,
+        "maxLng": 41.87439
+      }
+    },
+    "dj/djibouti/djibouti": {
+      "name": "Djibouti",
+      "bbox": {
+        "minLat": 11.57334,
+        "minLng": 43.13216,
+        "maxLat": 11.60309,
+        "maxLng": 43.15429
+      }
+    },
+    "dj/djibouti/moucha": {
+      "name": "Moucha",
+      "bbox": {
+        "minLat": 11.71091,
+        "minLng": 43.15954,
+        "maxLat": 11.72395,
+        "maxLng": 43.2131
+      }
+    },
+    "dj/tadjourah/assal": {
+      "name": "Lake Assal",
+      "bbox": {
+        "minLat": 11.59864,
+        "minLng": 42.40943,
+        "maxLat": 11.65861,
+        "maxLng": 42.48752
+      }
+    },
+    "dj/tadjourah/tadjoura": {
+      "name": "Tadjoura",
+      "bbox": {
+        "minLat": 11.77832,
+        "minLng": 42.86363,
+        "maxLat": 11.79187,
+        "maxLng": 42.88535
       }
     },
     "dk/capital/copenhagen": {
@@ -14608,6 +14653,19 @@
     ],
     "0,50": [
       "cd/tshopo/wagenya"
+    ],
+    "23,86": [
+      "dj/djibouti/djibouti",
+      "dj/djibouti/moucha"
+    ],
+    "23,84": [
+      "dj/tadjourah/assal"
+    ],
+    "23,85": [
+      "dj/tadjourah/tadjoura"
+    ],
+    "22,83": [
+      "dj/dikhil/abbe"
     ]
   }
 }

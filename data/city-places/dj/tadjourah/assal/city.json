@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dj/tadjourah/assal",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "stateCode": "TA",
+  "stateName": "Tadjourah",
+  "cityName": "Lake Assal",
+  "bbox": {
+    "minLat": 11.59864,
+    "minLng": 42.40943,
+    "maxLat": 11.65861,
+    "maxLng": 42.48752
+  },
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "assal",
+      "name": "Lac Assal",
+      "lat": 11.65561,
+      "lng": 42.41243,
+      "radiusM": 250,
+      "address": "Tadjourah",
+      "howTo": "Visit Lac Assal.",
+      "badge": "badges/assal.png"
+    },
+    {
+      "id": "ardoukoba",
+      "name": "Ardoukoba",
+      "lat": 11.60164,
+      "lng": 42.48452,
+      "radiusM": 200,
+      "address": "Tadjourah",
+      "howTo": "Visit Ardoukoba.",
+      "badge": "badges/ardoukoba.png"
+    }
+  ]
+}

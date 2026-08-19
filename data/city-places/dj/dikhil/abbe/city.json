@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dj/dikhil/abbe",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "stateCode": "DI",
+  "stateName": "Dikhil",
+  "cityName": "Lake Abbe",
+  "bbox": {
+    "minLat": 11.2135,
+    "minLng": 41.862,
+    "maxLat": 11.22447,
+    "maxLng": 41.87439
+  },
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "abbe-chimneys",
+      "name": "Lac Abb\u00e9 Chimneys",
+      "lat": 11.22147,
+      "lng": 41.87139,
+      "radiusM": 200,
+      "address": "Dikhil",
+      "howTo": "Visit the Lac Abb\u00e9 limestone chimneys.",
+      "badge": "badges/abbe-chimneys.png"
+    },
+    {
+      "id": "abbe-flats",
+      "name": "Lac Abb\u00e9 Flats",
+      "lat": 11.2165,
+      "lng": 41.865,
+      "radiusM": 200,
+      "address": "Dikhil",
+      "howTo": "Visit the Lac Abb\u00e9 salt flats.",
+      "badge": "badges/abbe-flats.png"
+    }
+  ]
+}

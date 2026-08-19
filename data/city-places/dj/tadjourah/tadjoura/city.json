@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dj/tadjourah/tadjoura",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "stateCode": "TA",
+  "stateName": "Tadjourah",
+  "cityName": "Tadjoura",
+  "bbox": {
+    "minLat": 11.77832,
+    "minLng": 42.86363,
+    "maxLat": 11.79187,
+    "maxLng": 42.88535
+  },
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tadjoura-mosque",
+      "name": "Grande Mosqu\u00e9e de Tadjourah",
+      "lat": 11.78887,
+      "lng": 42.88235,
+      "radiusM": 50,
+      "address": "Tadjoura",
+      "howTo": "Visit Grande Mosqu\u00e9e de Tadjourah.",
+      "badge": "badges/tadjoura-mosque.png"
+    },
+    {
+      "id": "tadjoura-port",
+      "name": "Nouveau Port de Tadjoura",
+      "lat": 11.78132,
+      "lng": 42.86663,
+      "radiusM": 80,
+      "address": "Tadjoura",
+      "howTo": "Visit the Tadjoura waterfront port.",
+      "badge": "badges/tadjoura-port.png"
+    }
+  ]
+}

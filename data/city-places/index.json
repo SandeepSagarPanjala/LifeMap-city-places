@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:39:24.000Z",
-  "notes": "Democratic Republic of the Congo (cd) complete. Next: Djibouti (dj) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "notes": "Djibouti (dj) complete. Paused until next session. Resume with Eritrea (er). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20998,6 +20998,104 @@
                 "minLng": 25.205,
                 "maxLat": 0.497,
                 "maxLng": 25.212
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dj",
+      "countryCode": "DJ",
+      "name": "Djibouti",
+      "states": [
+        {
+          "id": "djibouti",
+          "stateCode": "DJ",
+          "name": "Djibouti",
+          "cities": [
+            {
+              "id": "djibouti",
+              "name": "Djibouti",
+              "status": "complete",
+              "packPath": "dj/djibouti/djibouti/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T11:57:50.000Z",
+              "bbox": {
+                "minLat": 11.57334,
+                "minLng": 43.13216,
+                "maxLat": 11.60309,
+                "maxLng": 43.15429
+              }
+            },
+            {
+              "id": "moucha",
+              "name": "Moucha",
+              "status": "complete",
+              "packPath": "dj/djibouti/moucha/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T11:57:50.000Z",
+              "bbox": {
+                "minLat": 11.71091,
+                "minLng": 43.15954,
+                "maxLat": 11.72395,
+                "maxLng": 43.2131
+              }
+            }
+          ]
+        },
+        {
+          "id": "tadjourah",
+          "stateCode": "TA",
+          "name": "Tadjourah",
+          "cities": [
+            {
+              "id": "assal",
+              "name": "Lake Assal",
+              "status": "complete",
+              "packPath": "dj/tadjourah/assal/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T11:57:50.000Z",
+              "bbox": {
+                "minLat": 11.59864,
+                "minLng": 42.40943,
+                "maxLat": 11.65861,
+                "maxLng": 42.48752
+              }
+            },
+            {
+              "id": "tadjoura",
+              "name": "Tadjoura",
+              "status": "complete",
+              "packPath": "dj/tadjourah/tadjoura/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T11:57:50.000Z",
+              "bbox": {
+                "minLat": 11.77832,
+                "minLng": 42.86363,
+                "maxLat": 11.79187,
+                "maxLng": 42.88535
+              }
+            }
+          ]
+        },
+        {
+          "id": "dikhil",
+          "stateCode": "DI",
+          "name": "Dikhil",
+          "cities": [
+            {
+              "id": "abbe",
+              "name": "Lake Abbe",
+              "status": "complete",
+              "packPath": "dj/dikhil/abbe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T11:57:50.000Z",
+              "bbox": {
+                "minLat": 11.2135,
+                "minLng": 41.862,
+                "maxLat": 11.22447,
+                "maxLng": 41.87439
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "dj/djibouti/djibouti",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "stateCode": "DJ",
+  "stateName": "Djibouti",
+  "cityName": "Djibouti",
+  "bbox": {
+    "minLat": 11.57334,
+    "minLng": 43.13216,
+    "maxLat": 11.60309,
+    "maxLng": 43.15429
+  },
+  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grande-mosquee",
+      "name": "Grande Mosqu\u00e9e de Djibouti",
+      "lat": 11.57634,
+      "lng": 43.13516,
+      "radiusM": 50,
+      "address": "Djibouti City",
+      "howTo": "Visit Grande Mosqu\u00e9e de Djibouti.",
+      "badge": "badges/grande-mosquee.png"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Cath\u00e9drale Notre-Dame du Bon-Pasteur",
+      "lat": 11.60009,
+      "lng": 43.15129,
+      "radiusM": 50,
+      "address": "Djibouti City",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame du Bon-Pasteur.",
+      "badge": "badges/notre-dame.png"
+    }
+  ]
+}
