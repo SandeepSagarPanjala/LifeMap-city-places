@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gw/cacheu/varela",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "stateCode": "CA",
+  "stateName": "Cacheu",
+  "cityName": "Varela",
+  "bbox": {
+    "minLat": 12.288,
+    "minLng": -16.59,
+    "maxLat": 12.295,
+    "maxLng": -16.582
+  },
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "varela",
+      "name": "Varela",
+      "lat": 12.29032,
+      "lng": -16.58738,
+      "radiusM": 80,
+      "address": "S\u00e3o Domingos",
+      "howTo": "Visit Varela.",
+      "badge": "badges/varela.png"
+    },
+    {
+      "id": "varela-beach",
+      "name": "Varela Beach",
+      "lat": 12.293,
+      "lng": -16.584,
+      "radiusM": 80,
+      "address": "S\u00e3o Domingos",
+      "howTo": "Visit Varela Beach.",
+      "badge": "badges/varela-beach.png"
+    }
+  ]
+}

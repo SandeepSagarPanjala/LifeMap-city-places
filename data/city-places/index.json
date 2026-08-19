@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:12:59.000Z",
-  "notes": "Gambia (gm) complete. Next: Guinea-Bissau (gw) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "notes": "Guinea-Bissau (gw) complete. Next: Mauritania (mr) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20487,6 +20487,104 @@
                 "minLng": -14.875,
                 "maxLat": 13.696,
                 "maxLng": -14.868
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gw",
+      "countryCode": "GW",
+      "name": "Guinea-Bissau",
+      "states": [
+        {
+          "id": "bissau",
+          "stateCode": "BS",
+          "name": "Bissau",
+          "cities": [
+            {
+              "id": "bissau",
+              "name": "Bissau",
+              "status": "complete",
+              "packPath": "gw/bissau/bissau/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:18:04.000Z",
+              "bbox": {
+                "minLat": 11.858,
+                "minLng": -15.587,
+                "maxLat": 11.866,
+                "maxLng": -15.579
+              }
+            }
+          ]
+        },
+        {
+          "id": "bolama",
+          "stateCode": "BL",
+          "name": "Bolama",
+          "cities": [
+            {
+              "id": "bubaque",
+              "name": "Bubaque",
+              "status": "complete",
+              "packPath": "gw/bolama/bubaque/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:18:04.000Z",
+              "bbox": {
+                "minLat": 11.298,
+                "minLng": -15.834,
+                "maxLat": 11.305,
+                "maxLng": -15.826
+              }
+            },
+            {
+              "id": "bolama",
+              "name": "Bolama",
+              "status": "complete",
+              "packPath": "gw/bolama/bolama/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:18:04.000Z",
+              "bbox": {
+                "minLat": 11.277,
+                "minLng": -16.032,
+                "maxLat": 11.284,
+                "maxLng": -16.024
+              }
+            }
+          ]
+        },
+        {
+          "id": "cacheu",
+          "stateCode": "CA",
+          "name": "Cacheu",
+          "cities": [
+            {
+              "id": "cacheu",
+              "name": "Cacheu",
+              "status": "complete",
+              "packPath": "gw/cacheu/cacheu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:18:04.000Z",
+              "bbox": {
+                "minLat": 12.272,
+                "minLng": -16.167,
+                "maxLat": 12.279,
+                "maxLng": -16.159
+              }
+            },
+            {
+              "id": "varela",
+              "name": "Varela",
+              "status": "complete",
+              "packPath": "gw/cacheu/varela/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:18:04.000Z",
+              "bbox": {
+                "minLat": 12.288,
+                "minLng": -16.59,
+                "maxLat": 12.295,
+                "maxLng": -16.582
               }
             }
           ]

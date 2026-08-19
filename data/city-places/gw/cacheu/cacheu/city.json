@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gw/cacheu/cacheu",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "stateCode": "CA",
+  "stateName": "Cacheu",
+  "cityName": "Cacheu",
+  "bbox": {
+    "minLat": 12.272,
+    "minLng": -16.167,
+    "maxLat": 12.279,
+    "maxLng": -16.159
+  },
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cacheu",
+      "name": "Cacheu",
+      "lat": 12.27425,
+      "lng": -16.16489,
+      "radiusM": 80,
+      "address": "Cacheu",
+      "howTo": "Visit Cacheu.",
+      "badge": "badges/cacheu.png"
+    },
+    {
+      "id": "cacheu-fort",
+      "name": "Cacheu Fort",
+      "lat": 12.277,
+      "lng": -16.1615,
+      "radiusM": 50,
+      "address": "Cacheu",
+      "howTo": "Visit Cacheu Fort.",
+      "badge": "badges/cacheu-fort.png"
+    }
+  ]
+}

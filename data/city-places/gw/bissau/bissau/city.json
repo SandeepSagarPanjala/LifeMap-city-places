@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gw/bissau/bissau",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "stateCode": "BS",
+  "stateName": "Bissau",
+  "cityName": "Bissau",
+  "bbox": {
+    "minLat": 11.858,
+    "minLng": -15.587,
+    "maxLat": 11.866,
+    "maxLng": -15.579
+  },
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "presidential-palace",
+      "name": "Palacio Presidencial",
+      "lat": 11.864,
+      "lng": -15.58491,
+      "radiusM": 50,
+      "address": "Bissau",
+      "howTo": "Visit Palacio Presidencial.",
+      "badge": "badges/presidential-palace.png"
+    },
+    {
+      "id": "candelaria",
+      "name": "Catedral da Candelaria",
+      "lat": 11.86003,
+      "lng": -15.58115,
+      "radiusM": 50,
+      "address": "Bissau",
+      "howTo": "Visit Catedral da Candelaria.",
+      "badge": "badges/candelaria.png"
+    }
+  ]
+}

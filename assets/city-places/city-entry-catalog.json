@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:12:59.133Z",
+  "generatedAt": "2026-08-19T02:18:04.319Z",
   "cellDeg": 0.5,
-  "cityCount": 1064,
+  "cityCount": 1069,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -3062,6 +3062,51 @@
         "minLng": -91.165,
         "maxLat": 14.748,
         "maxLng": -91.145
+      }
+    },
+    "gw/bissau/bissau": {
+      "name": "Bissau",
+      "bbox": {
+        "minLat": 11.858,
+        "minLng": -15.587,
+        "maxLat": 11.866,
+        "maxLng": -15.579
+      }
+    },
+    "gw/bolama/bolama": {
+      "name": "Bolama",
+      "bbox": {
+        "minLat": 11.277,
+        "minLng": -16.032,
+        "maxLat": 11.284,
+        "maxLng": -16.024
+      }
+    },
+    "gw/bolama/bubaque": {
+      "name": "Bubaque",
+      "bbox": {
+        "minLat": 11.298,
+        "minLng": -15.834,
+        "maxLat": 11.305,
+        "maxLng": -15.826
+      }
+    },
+    "gw/cacheu/cacheu": {
+      "name": "Cacheu",
+      "bbox": {
+        "minLat": 12.272,
+        "minLng": -16.167,
+        "maxLat": 12.279,
+        "maxLng": -16.159
+      }
+    },
+    "gw/cacheu/varela": {
+      "name": "Varela",
+      "bbox": {
+        "minLat": 12.288,
+        "minLng": -16.59,
+        "maxLat": 12.295,
+        "maxLng": -16.582
       }
     },
     "hk/hong-kong-island/central": {
@@ -14318,6 +14363,21 @@
     ],
     "27,-30": [
       "gm/central-river/wassu"
+    ],
+    "23,-32": [
+      "gw/bissau/bissau"
+    ],
+    "22,-32": [
+      "gw/bolama/bubaque"
+    ],
+    "22,-33": [
+      "gw/bolama/bolama"
+    ],
+    "24,-33": [
+      "gw/cacheu/cacheu"
+    ],
+    "24,-34": [
+      "gw/cacheu/varela"
     ]
   }
 }

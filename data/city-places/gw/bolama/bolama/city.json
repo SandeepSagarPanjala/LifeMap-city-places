@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gw/bolama/bolama",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "stateCode": "BL",
+  "stateName": "Bolama",
+  "cityName": "Bolama",
+  "bbox": {
+    "minLat": 11.277,
+    "minLng": -16.032,
+    "maxLat": 11.284,
+    "maxLng": -16.024
+  },
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bolama",
+      "name": "Bolama",
+      "lat": 11.27951,
+      "lng": -16.02944,
+      "radiusM": 120,
+      "address": "Bolama",
+      "howTo": "Visit Bolama.",
+      "badge": "badges/bolama.png"
+    },
+    {
+      "id": "bolama-colonial",
+      "name": "Bolama Colonial",
+      "lat": 11.282,
+      "lng": -16.026,
+      "radiusM": 80,
+      "address": "Bolama",
+      "howTo": "Visit Bolama Colonial.",
+      "badge": "badges/bolama-colonial.png"
+    }
+  ]
+}

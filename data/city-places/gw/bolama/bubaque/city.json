@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "gw/bolama/bubaque",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "stateCode": "BL",
+  "stateName": "Bolama",
+  "cityName": "Bubaque",
+  "bbox": {
+    "minLat": 11.298,
+    "minLng": -15.834,
+    "maxLat": 11.305,
+    "maxLng": -15.826
+  },
+  "updatedAt": "2026-08-19T02:18:04.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bubaque",
+      "name": "Bubaque",
+      "lat": 11.30008,
+      "lng": -15.83124,
+      "radiusM": 120,
+      "address": "Bijag\u00f3s",
+      "howTo": "Visit Bubaque.",
+      "badge": "badges/bubaque.png"
+    },
+    {
+      "id": "bubaque-cove",
+      "name": "Bubaque Cove",
+      "lat": 11.303,
+      "lng": -15.828,
+      "radiusM": 80,
+      "address": "Bijag\u00f3s",
+      "howTo": "Visit Bubaque Cove.",
+      "badge": "badges/bubaque-cove.png"
+    }
+  ]
+}
