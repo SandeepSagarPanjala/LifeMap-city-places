@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ml/mopti/djenne",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "stateCode": "MO",
+  "stateName": "Mopti",
+  "cityName": "Djenne",
+  "bbox": {
+    "minLat": 13.903,
+    "minLng": -4.557,
+    "maxLat": 13.909,
+    "maxLng": -4.551
+  },
+  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "djenne-mosque",
+      "name": "Grande Mosquee de Djenne",
+      "lat": 13.90511,
+      "lng": -4.55533,
+      "radiusM": 50,
+      "address": "Djenn\u00e9",
+      "howTo": "Visit Grande Mosquee de Djenne.",
+      "badge": "badges/djenne-mosque.png"
+    },
+    {
+      "id": "djenne-square",
+      "name": "Djenne Square",
+      "lat": 13.907,
+      "lng": -4.553,
+      "radiusM": 40,
+      "address": "Djenn\u00e9",
+      "howTo": "Visit Djenne Square.",
+      "badge": "badges/djenne-square.png"
+    }
+  ]
+}

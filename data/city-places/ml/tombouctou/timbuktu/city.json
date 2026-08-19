@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ml/tombouctou/timbuktu",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "stateCode": "TB",
+  "stateName": "Tombouctou",
+  "cityName": "Timbuktu",
+  "bbox": {
+    "minLat": 16.77,
+    "minLng": -3.012,
+    "maxLat": 16.778,
+    "maxLng": -3.005
+  },
+  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "djinguereber",
+      "name": "Mosquee Djinguereber",
+      "lat": 16.77163,
+      "lng": -3.00997,
+      "radiusM": 40,
+      "address": "Timbuktu",
+      "howTo": "Visit Mosquee Djinguereber.",
+      "badge": "badges/djinguereber.png"
+    },
+    {
+      "id": "sankore",
+      "name": "Sankore",
+      "lat": 16.77601,
+      "lng": -3.00676,
+      "radiusM": 40,
+      "address": "Timbuktu",
+      "howTo": "Visit Sankore.",
+      "badge": "badges/sankore.png"
+    }
+  ]
+}

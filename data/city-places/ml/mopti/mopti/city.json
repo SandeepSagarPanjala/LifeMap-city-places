@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ml/mopti/mopti",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "stateCode": "MO",
+  "stateName": "Mopti",
+  "cityName": "Mopti",
+  "bbox": {
+    "minLat": 14.492,
+    "minLng": -4.199,
+    "maxLat": 14.498,
+    "maxLng": -4.192
+  },
+  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "komoguel",
+      "name": "Mosquee de Komoguel",
+      "lat": 14.49376,
+      "lng": -4.19671,
+      "radiusM": 40,
+      "address": "Mopti",
+      "howTo": "Visit Mosquee de Komoguel.",
+      "badge": "badges/komoguel.png"
+    },
+    {
+      "id": "mopti-port",
+      "name": "Mopti Port",
+      "lat": 14.496,
+      "lng": -4.194,
+      "radiusM": 60,
+      "address": "Mopti",
+      "howTo": "Visit Mopti Port.",
+      "badge": "badges/mopti-port.png"
+    }
+  ]
+}

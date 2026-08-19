@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ml/mopti/bandiagara",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "stateCode": "MO",
+  "stateName": "Mopti",
+  "cityName": "Bandiagara",
+  "bbox": {
+    "minLat": 14.349,
+    "minLng": -3.617,
+    "maxLat": 14.353,
+    "maxLng": -3.609
+  },
+  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bandiagara",
+      "name": "Bandiagara",
+      "lat": 14.3505,
+      "lng": -3.61128,
+      "radiusM": 80,
+      "address": "Bandiagara",
+      "howTo": "Visit Bandiagara.",
+      "badge": "badges/bandiagara.png"
+    },
+    {
+      "id": "falaise",
+      "name": "Falaise de Bandiagara",
+      "lat": 14.35185,
+      "lng": -3.61532,
+      "radiusM": 100,
+      "address": "Bandiagara",
+      "howTo": "Visit Falaise de Bandiagara.",
+      "badge": "badges/falaise.png"
+    }
+  ]
+}

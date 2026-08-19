@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ml/bamako/bamako",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "stateCode": "BKO",
+  "stateName": "Bamako",
+  "cityName": "Bamako",
+  "bbox": {
+    "minLat": 12.623,
+    "minLng": -7.994,
+    "maxLat": 12.632,
+    "maxLng": -7.989
+  },
+  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "palais-culture",
+      "name": "Palais de la Culture",
+      "lat": 12.62436,
+      "lng": -7.99065,
+      "radiusM": 50,
+      "address": "Bamako",
+      "howTo": "Visit Palais de la Culture.",
+      "badge": "badges/palais-culture.png"
+    },
+    {
+      "id": "pont-martyrs",
+      "name": "Pont des Martyrs",
+      "lat": 12.63045,
+      "lng": -7.99211,
+      "radiusM": 40,
+      "address": "Bamako",
+      "howTo": "Visit Pont des Martyrs.",
+      "badge": "badges/pont-martyrs.png"
+    }
+  ]
+}
