@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:27:56.869Z",
+  "generatedAt": "2026-08-19T02:33:33.925Z",
   "cellDeg": 0.5,
-  "cityCount": 1079,
+  "cityCount": 1084,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1091,6 +1091,51 @@
         "minLng": -71.22,
         "maxLat": 46.82,
         "maxLng": -71.2
+      }
+    },
+    "cg/brazzaville/brazzaville": {
+      "name": "Brazzaville",
+      "bbox": {
+        "minLat": -4.27,
+        "minLng": 15.283,
+        "maxLat": -4.265,
+        "maxLng": 15.289
+      }
+    },
+    "cg/kouilou/diosso": {
+      "name": "Diosso",
+      "bbox": {
+        "minLat": -4.622,
+        "minLng": 11.844,
+        "maxLat": -4.616,
+        "maxLng": 11.851
+      }
+    },
+    "cg/pointe-noire/cote-sauvage": {
+      "name": "Cote Sauvage",
+      "bbox": {
+        "minLat": -4.817,
+        "minLng": 11.848,
+        "maxLat": -4.811,
+        "maxLng": 11.855
+      }
+    },
+    "cg/pointe-noire/pointe-noire": {
+      "name": "Pointe-Noire",
+      "bbox": {
+        "minLat": -4.799,
+        "minLng": 11.844,
+        "maxLat": -4.794,
+        "maxLng": 11.85
+      }
+    },
+    "cg/pool/loufoulakari": {
+      "name": "Loufoulakari",
+      "bbox": {
+        "minLat": -4.585,
+        "minLng": 14.983,
+        "maxLat": -4.578,
+        "maxLng": 14.99
       }
     },
     "ch/basel-stadt/basel": {
@@ -14498,6 +14543,17 @@
     ],
     "24,4": [
       "ne/tillaberi/parc-w"
+    ],
+    "-9,30": [
+      "cg/brazzaville/brazzaville"
+    ],
+    "-10,23": [
+      "cg/kouilou/diosso",
+      "cg/pointe-noire/cote-sauvage",
+      "cg/pointe-noire/pointe-noire"
+    ],
+    "-10,29": [
+      "cg/pool/loufoulakari"
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cg/pointe-noire/cote-sauvage",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "stateCode": "16",
+  "stateName": "Pointe-Noire",
+  "cityName": "Cote Sauvage",
+  "bbox": {
+    "minLat": -4.817,
+    "minLng": 11.848,
+    "maxLat": -4.811,
+    "maxLng": 11.855
+  },
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cote-sauvage",
+      "name": "Cote Sauvage",
+      "lat": -4.81556,
+      "lng": 11.85059,
+      "radiusM": 80,
+      "address": "Pointe-Noire",
+      "howTo": "Visit Cote Sauvage.",
+      "badge": "badges/cote-sauvage.png"
+    },
+    {
+      "id": "sauvage-shore",
+      "name": "Sauvage Shore",
+      "lat": -4.813,
+      "lng": 11.853,
+      "radiusM": 80,
+      "address": "Pointe-Noire",
+      "howTo": "Visit Sauvage Shore.",
+      "badge": "badges/sauvage-shore.png"
+    }
+  ]
+}

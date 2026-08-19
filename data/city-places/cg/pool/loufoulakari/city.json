@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cg/pool/loufoulakari",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "stateCode": "12",
+  "stateName": "Pool",
+  "cityName": "Loufoulakari",
+  "bbox": {
+    "minLat": -4.585,
+    "minLng": 14.983,
+    "maxLat": -4.578,
+    "maxLng": 14.99
+  },
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "loufoulakari",
+      "name": "Chutes de Loufoulakari",
+      "lat": -4.58279,
+      "lng": 14.98477,
+      "radiusM": 80,
+      "address": "Pool",
+      "howTo": "Visit Chutes de Loufoulakari.",
+      "badge": "badges/loufoulakari.png"
+    },
+    {
+      "id": "loufoulakari-forest",
+      "name": "Loufoulakari Forest",
+      "lat": -4.5805,
+      "lng": 14.9875,
+      "radiusM": 80,
+      "address": "Pool",
+      "howTo": "Visit Loufoulakari Forest.",
+      "badge": "badges/loufoulakari-forest.png"
+    }
+  ]
+}

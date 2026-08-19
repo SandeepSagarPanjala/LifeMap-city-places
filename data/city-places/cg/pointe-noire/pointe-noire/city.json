@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cg/pointe-noire/pointe-noire",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "stateCode": "16",
+  "stateName": "Pointe-Noire",
+  "cityName": "Pointe-Noire",
+  "bbox": {
+    "minLat": -4.799,
+    "minLng": 11.844,
+    "maxLat": -4.794,
+    "maxLng": 11.85
+  },
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nd-assomption",
+      "name": "Cathedrale Notre-Dame de l'Assomption",
+      "lat": -4.79763,
+      "lng": 11.84609,
+      "radiusM": 50,
+      "address": "Pointe-Noire",
+      "howTo": "Visit Cathedrale Notre-Dame de l'Assomption.",
+      "badge": "badges/nd-assomption.png"
+    },
+    {
+      "id": "pn-nave",
+      "name": "Pointe-Noire Nave",
+      "lat": -4.7958,
+      "lng": 11.8485,
+      "radiusM": 40,
+      "address": "Pointe-Noire",
+      "howTo": "Visit Pointe-Noire Nave.",
+      "badge": "badges/pn-nave.png"
+    }
+  ]
+}

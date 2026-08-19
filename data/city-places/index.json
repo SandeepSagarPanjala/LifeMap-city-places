@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:27:56.000Z",
-  "notes": "Niger (ne) complete. Next: Republic of the Congo (cg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "notes": "Republic of the Congo (cg) complete. Next: Democratic Republic of the Congo (cd) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20788,6 +20788,111 @@
                 "minLng": 2.259,
                 "maxLat": 12.246,
                 "maxLng": 2.267
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cg",
+      "countryCode": "CG",
+      "name": "Republic of the Congo",
+      "states": [
+        {
+          "id": "brazzaville",
+          "stateCode": "BZV",
+          "name": "Brazzaville",
+          "cities": [
+            {
+              "id": "brazzaville",
+              "name": "Brazzaville",
+              "status": "complete",
+              "packPath": "cg/brazzaville/brazzaville/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:33:33.000Z",
+              "bbox": {
+                "minLat": -4.27,
+                "minLng": 15.283,
+                "maxLat": -4.265,
+                "maxLng": 15.289
+              }
+            }
+          ]
+        },
+        {
+          "id": "pointe-noire",
+          "stateCode": "16",
+          "name": "Pointe-Noire",
+          "cities": [
+            {
+              "id": "pointe-noire",
+              "name": "Pointe-Noire",
+              "status": "complete",
+              "packPath": "cg/pointe-noire/pointe-noire/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:33:33.000Z",
+              "bbox": {
+                "minLat": -4.799,
+                "minLng": 11.844,
+                "maxLat": -4.794,
+                "maxLng": 11.85
+              }
+            },
+            {
+              "id": "cote-sauvage",
+              "name": "Cote Sauvage",
+              "status": "complete",
+              "packPath": "cg/pointe-noire/cote-sauvage/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:33:33.000Z",
+              "bbox": {
+                "minLat": -4.817,
+                "minLng": 11.848,
+                "maxLat": -4.811,
+                "maxLng": 11.855
+              }
+            }
+          ]
+        },
+        {
+          "id": "pool",
+          "stateCode": "12",
+          "name": "Pool",
+          "cities": [
+            {
+              "id": "loufoulakari",
+              "name": "Loufoulakari",
+              "status": "complete",
+              "packPath": "cg/pool/loufoulakari/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:33:33.000Z",
+              "bbox": {
+                "minLat": -4.585,
+                "minLng": 14.983,
+                "maxLat": -4.578,
+                "maxLng": 14.99
+              }
+            }
+          ]
+        },
+        {
+          "id": "kouilou",
+          "stateCode": "5",
+          "name": "Kouilou",
+          "cities": [
+            {
+              "id": "diosso",
+              "name": "Diosso",
+              "status": "complete",
+              "packPath": "cg/kouilou/diosso/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:33:33.000Z",
+              "bbox": {
+                "minLat": -4.622,
+                "minLng": 11.844,
+                "maxLat": -4.616,
+                "maxLng": 11.851
               }
             }
           ]

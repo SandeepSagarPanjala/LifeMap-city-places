@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cg/brazzaville/brazzaville",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "stateCode": "BZV",
+  "stateName": "Brazzaville",
+  "cityName": "Brazzaville",
+  "bbox": {
+    "minLat": -4.27,
+    "minLng": 15.283,
+    "maxLat": -4.265,
+    "maxLng": 15.289
+  },
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sainte-anne",
+      "name": "Basilique Sainte-Anne",
+      "lat": -4.2684,
+      "lng": 15.28443,
+      "radiusM": 50,
+      "address": "Brazzaville",
+      "howTo": "Visit Basilique Sainte-Anne.",
+      "badge": "badges/sainte-anne.png"
+    },
+    {
+      "id": "sainte-anne-gardens",
+      "name": "Sainte-Anne Gardens",
+      "lat": -4.2665,
+      "lng": 15.287,
+      "radiusM": 40,
+      "address": "Brazzaville",
+      "howTo": "Visit Sainte-Anne Gardens.",
+      "badge": "badges/sainte-anne-gardens.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cg/kouilou/diosso",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "stateCode": "5",
+  "stateName": "Kouilou",
+  "cityName": "Diosso",
+  "bbox": {
+    "minLat": -4.622,
+    "minLng": 11.844,
+    "maxLat": -4.616,
+    "maxLng": 11.851
+  },
+  "updatedAt": "2026-08-19T02:33:33.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "diosso-gorge",
+      "name": "Gorges de Diosso",
+      "lat": -4.62042,
+      "lng": 11.84592,
+      "radiusM": 80,
+      "address": "Loango",
+      "howTo": "Visit Gorges de Diosso.",
+      "badge": "badges/diosso-gorge.png"
+    },
+    {
+      "id": "diosso-canyon",
+      "name": "Diosso Canyon",
+      "lat": -4.618,
+      "lng": 11.8485,
+      "radiusM": 80,
+      "address": "Loango",
+      "howTo": "Visit Diosso Canyon.",
+      "badge": "badges/diosso-canyon.png"
+    }
+  ]
+}
