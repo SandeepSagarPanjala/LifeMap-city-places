@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ls/maseru/semonkong",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "stateCode": "A",
+  "stateName": "Maseru",
+  "cityName": "Semonkong",
+  "bbox": {
+    "minLat": -29.874,
+    "minLng": 28.049,
+    "maxLat": -29.866,
+    "maxLng": 28.056
+  },
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maletsunyane-falls",
+      "name": "Maletsunyane Falls",
+      "lat": -29.86824,
+      "lng": 28.05127,
+      "radiusM": 120,
+      "address": "Semonkong",
+      "howTo": "Visit Maletsunyane Falls.",
+      "badge": "badges/maletsunyane-falls.png"
+    },
+    {
+      "id": "maletsunyane-gorge",
+      "name": "Maletsunyane Gorge",
+      "lat": -29.872,
+      "lng": 28.054,
+      "radiusM": 120,
+      "address": "Semonkong",
+      "howTo": "Visit Maletsunyane Gorge.",
+      "badge": "badges/maletsunyane-gorge.png"
+    }
+  ]
+}

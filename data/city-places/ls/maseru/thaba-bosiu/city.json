@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ls/maseru/thaba-bosiu",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "stateCode": "A",
+  "stateName": "Maseru",
+  "cityName": "Thaba Bosiu",
+  "bbox": {
+    "minLat": -29.358,
+    "minLng": 27.667,
+    "maxLat": -29.354,
+    "maxLng": 27.675
+  },
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "thaba-bosiu",
+      "name": "Thaba Bosiu",
+      "lat": -29.35627,
+      "lng": 27.66979,
+      "radiusM": 120,
+      "address": "Thaba Bosiu",
+      "howTo": "Visit Thaba Bosiu.",
+      "badge": "badges/thaba-bosiu.png"
+    },
+    {
+      "id": "thaba-bosiu-plateau",
+      "name": "Thaba Bosiu Plateau",
+      "lat": -29.35574,
+      "lng": 27.67315,
+      "radiusM": 100,
+      "address": "Thaba Bosiu",
+      "howTo": "Visit Thaba Bosiu Plateau.",
+      "badge": "badges/thaba-bosiu-plateau.png"
+    }
+  ]
+}

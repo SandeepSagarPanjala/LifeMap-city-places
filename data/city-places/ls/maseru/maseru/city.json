@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ls/maseru/maseru",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "stateCode": "A",
+  "stateName": "Maseru",
+  "cityName": "Maseru",
+  "bbox": {
+    "minLat": -29.325,
+    "minLng": 27.49,
+    "maxLat": -29.315,
+    "maxLng": 27.497
+  },
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "our-lady-of-victories",
+      "name": "Our Lady of Victories Cathedral",
+      "lat": -29.31699,
+      "lng": 27.49494,
+      "radiusM": 50,
+      "address": "Maseru",
+      "howTo": "Visit Our Lady of Victories Cathedral.",
+      "badge": "badges/our-lady-of-victories.png"
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament of Lesotho",
+      "lat": -29.32283,
+      "lng": 27.49258,
+      "radiusM": 60,
+      "address": "Maseru",
+      "howTo": "Visit Parliament of Lesotho.",
+      "badge": "badges/parliament.png"
+    }
+  ]
+}

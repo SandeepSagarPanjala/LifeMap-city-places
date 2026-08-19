@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ls/qachas-nek/sehlabathebe",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "stateCode": "H",
+  "stateName": "Qacha's Nek",
+  "cityName": "Sehlabathebe",
+  "bbox": {
+    "minLat": -29.914,
+    "minLng": 29.114,
+    "maxLat": -29.906,
+    "maxLng": 29.124
+  },
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sehlabathebe",
+      "name": "Sehlabathebe National Park",
+      "lat": -29.90805,
+      "lng": 29.1169,
+      "radiusM": 250,
+      "address": "Sehlabathebe",
+      "howTo": "Visit Sehlabathebe National Park.",
+      "badge": "badges/sehlabathebe.png"
+    },
+    {
+      "id": "sehlabathebe-pools",
+      "name": "Sehlabathebe Pools",
+      "lat": -29.912,
+      "lng": 29.122,
+      "radiusM": 150,
+      "address": "Sehlabathebe",
+      "howTo": "Visit Sehlabathebe Pools.",
+      "badge": "badges/sehlabathebe-pools.png"
+    }
+  ]
+}

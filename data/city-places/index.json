@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:56:47.000Z",
-  "notes": "Malawi (mw) complete. Next: Lesotho (ls) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "notes": "Lesotho (ls) complete. Next: Eswatini (sz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19066,6 +19066,104 @@
                 "minLng": 35.627,
                 "maxLat": -15.896,
                 "maxLng": 35.637
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ls",
+      "countryCode": "LS",
+      "name": "Lesotho",
+      "states": [
+        {
+          "id": "maseru",
+          "stateCode": "A",
+          "name": "Maseru",
+          "cities": [
+            {
+              "id": "maseru",
+              "name": "Maseru",
+              "status": "complete",
+              "packPath": "ls/maseru/maseru/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:01:51.000Z",
+              "bbox": {
+                "minLat": -29.325,
+                "minLng": 27.49,
+                "maxLat": -29.315,
+                "maxLng": 27.497
+              }
+            },
+            {
+              "id": "thaba-bosiu",
+              "name": "Thaba Bosiu",
+              "status": "complete",
+              "packPath": "ls/maseru/thaba-bosiu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:01:51.000Z",
+              "bbox": {
+                "minLat": -29.358,
+                "minLng": 27.667,
+                "maxLat": -29.354,
+                "maxLng": 27.675
+              }
+            },
+            {
+              "id": "semonkong",
+              "name": "Semonkong",
+              "status": "complete",
+              "packPath": "ls/maseru/semonkong/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:01:51.000Z",
+              "bbox": {
+                "minLat": -29.874,
+                "minLng": 28.049,
+                "maxLat": -29.866,
+                "maxLng": 28.056
+              }
+            }
+          ]
+        },
+        {
+          "id": "thaba-tseka",
+          "stateCode": "K",
+          "name": "Thaba-Tseka",
+          "cities": [
+            {
+              "id": "katse",
+              "name": "Katse",
+              "status": "complete",
+              "packPath": "ls/thaba-tseka/katse/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:01:51.000Z",
+              "bbox": {
+                "minLat": -29.34,
+                "minLng": 28.481,
+                "maxLat": -29.334,
+                "maxLng": 28.507
+              }
+            }
+          ]
+        },
+        {
+          "id": "qachas-nek",
+          "stateCode": "H",
+          "name": "Qacha's Nek",
+          "cities": [
+            {
+              "id": "sehlabathebe",
+              "name": "Sehlabathebe",
+              "status": "complete",
+              "packPath": "ls/qachas-nek/sehlabathebe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:01:51.000Z",
+              "bbox": {
+                "minLat": -29.914,
+                "minLng": 29.114,
+                "maxLat": -29.906,
+                "maxLng": 29.124
               }
             }
           ]

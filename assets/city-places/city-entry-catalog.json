@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:56:47.464Z",
+  "generatedAt": "2026-08-19T01:01:51.839Z",
   "cellDeg": 0.5,
-  "cityCount": 994,
+  "cityCount": 999,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -4862,6 +4862,51 @@
         "minLng": 79.84,
         "maxLat": 6.935,
         "maxLng": 79.865
+      }
+    },
+    "ls/maseru/maseru": {
+      "name": "Maseru",
+      "bbox": {
+        "minLat": -29.325,
+        "minLng": 27.49,
+        "maxLat": -29.315,
+        "maxLng": 27.497
+      }
+    },
+    "ls/maseru/semonkong": {
+      "name": "Semonkong",
+      "bbox": {
+        "minLat": -29.874,
+        "minLng": 28.049,
+        "maxLat": -29.866,
+        "maxLng": 28.056
+      }
+    },
+    "ls/maseru/thaba-bosiu": {
+      "name": "Thaba Bosiu",
+      "bbox": {
+        "minLat": -29.358,
+        "minLng": 27.667,
+        "maxLat": -29.354,
+        "maxLng": 27.675
+      }
+    },
+    "ls/qachas-nek/sehlabathebe": {
+      "name": "Sehlabathebe",
+      "bbox": {
+        "minLat": -29.914,
+        "minLng": 29.114,
+        "maxLat": -29.906,
+        "maxLng": 29.124
+      }
+    },
+    "ls/thaba-tseka/katse": {
+      "name": "Katse",
+      "bbox": {
+        "minLat": -29.34,
+        "minLng": 28.481,
+        "maxLat": -29.334,
+        "maxLng": 28.507
       }
     },
     "lt/kaunas/kaunas": {
@@ -13518,6 +13563,24 @@
     ],
     "-32,71": [
       "mw/southern/mulanje"
+    ],
+    "-59,54": [
+      "ls/maseru/maseru"
+    ],
+    "-59,55": [
+      "ls/maseru/thaba-bosiu"
+    ],
+    "-60,56": [
+      "ls/maseru/semonkong"
+    ],
+    "-59,56": [
+      "ls/thaba-tseka/katse"
+    ],
+    "-59,57": [
+      "ls/thaba-tseka/katse"
+    ],
+    "-60,58": [
+      "ls/qachas-nek/sehlabathebe"
     ]
   }
 }

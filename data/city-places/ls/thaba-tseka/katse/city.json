@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ls/thaba-tseka/katse",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "stateCode": "K",
+  "stateName": "Thaba-Tseka",
+  "cityName": "Katse",
+  "bbox": {
+    "minLat": -29.34,
+    "minLng": 28.481,
+    "maxLat": -29.334,
+    "maxLng": 28.507
+  },
+  "updatedAt": "2026-08-19T01:01:51.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "katse-dam",
+      "name": "Katse Dam",
+      "lat": -29.33799,
+      "lng": 28.50489,
+      "radiusM": 150,
+      "address": "Katse",
+      "howTo": "Visit Katse Dam.",
+      "badge": "badges/katse-dam.png"
+    },
+    {
+      "id": "katse-garden",
+      "name": "Katse Botanical Garden",
+      "lat": -29.33636,
+      "lng": 28.48353,
+      "radiusM": 80,
+      "address": "Katse",
+      "howTo": "Visit Katse Botanical Garden.",
+      "badge": "badges/katse-garden.png"
+    }
+  ]
+}
