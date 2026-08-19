@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mz/inhambane/tofo",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "stateCode": "I",
+  "stateName": "Inhambane",
+  "cityName": "Tofo",
+  "bbox": {
+    "minLat": -23.869,
+    "minLng": 35.545,
+    "maxLat": -23.851,
+    "maxLng": 35.554
+  },
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tofo-beach",
+      "name": "Tofo Beach",
+      "lat": -23.85361,
+      "lng": 35.54717,
+      "radiusM": 120,
+      "address": "Tofo",
+      "howTo": "Visit Tofo Beach.",
+      "badge": "badges/tofo-beach.png"
+    },
+    {
+      "id": "tofinho",
+      "name": "Tofinho",
+      "lat": -23.86757,
+      "lng": 35.55217,
+      "radiusM": 100,
+      "address": "Tofo",
+      "howTo": "Visit Tofinho.",
+      "badge": "badges/tofinho.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:35:20.000Z",
-  "notes": "Seychelles (sc) complete. Next: Mozambique (mz) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "notes": "Mozambique (mz) complete. Next: Angola (ao) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18653,6 +18653,111 @@
                 "minLng": 55.824,
                 "maxLat": -4.365,
                 "maxLng": 55.832
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mz",
+      "countryCode": "MZ",
+      "name": "Mozambique",
+      "states": [
+        {
+          "id": "maputo",
+          "stateCode": "MPM",
+          "name": "Maputo",
+          "cities": [
+            {
+              "id": "maputo",
+              "name": "Maputo",
+              "status": "complete",
+              "packPath": "mz/maputo/maputo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:40:52.000Z",
+              "bbox": {
+                "minLat": -25.972,
+                "minLng": 32.562,
+                "maxLat": -25.967,
+                "maxLng": 32.577
+              }
+            }
+          ]
+        },
+        {
+          "id": "nampula",
+          "stateCode": "N",
+          "name": "Nampula",
+          "cities": [
+            {
+              "id": "ilha-de-mocambique",
+              "name": "Ilha de Mocambique",
+              "status": "complete",
+              "packPath": "mz/nampula/ilha-de-mocambique/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:40:52.000Z",
+              "bbox": {
+                "minLat": -15.033,
+                "minLng": 40.735,
+                "maxLat": -15.027,
+                "maxLng": 40.746
+              }
+            }
+          ]
+        },
+        {
+          "id": "inhambane",
+          "stateCode": "I",
+          "name": "Inhambane",
+          "cities": [
+            {
+              "id": "tofo",
+              "name": "Tofo",
+              "status": "complete",
+              "packPath": "mz/inhambane/tofo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:40:52.000Z",
+              "bbox": {
+                "minLat": -23.869,
+                "minLng": 35.545,
+                "maxLat": -23.851,
+                "maxLng": 35.554
+              }
+            },
+            {
+              "id": "vilanculos",
+              "name": "Vilanculos",
+              "status": "complete",
+              "packPath": "mz/inhambane/vilanculos/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:40:52.000Z",
+              "bbox": {
+                "minLat": -22.011,
+                "minLng": 35.318,
+                "maxLat": -21.997,
+                "maxLng": 35.325
+              }
+            }
+          ]
+        },
+        {
+          "id": "sofala",
+          "stateCode": "S",
+          "name": "Sofala",
+          "cities": [
+            {
+              "id": "gorongosa",
+              "name": "Gorongosa",
+              "status": "complete",
+              "packPath": "mz/sofala/gorongosa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:40:52.000Z",
+              "bbox": {
+                "minLat": -18.987,
+                "minLng": 34.35,
+                "maxLat": -18.977,
+                "maxLng": 34.36
               }
             }
           ]

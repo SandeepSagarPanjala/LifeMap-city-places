@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mz/inhambane/vilanculos",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "stateCode": "I",
+  "stateName": "Inhambane",
+  "cityName": "Vilanculos",
+  "bbox": {
+    "minLat": -22.011,
+    "minLng": 35.318,
+    "maxLat": -21.997,
+    "maxLng": 35.325
+  },
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vilanculos",
+      "name": "Vilanculos",
+      "lat": -21.999,
+      "lng": 35.32048,
+      "radiusM": 150,
+      "address": "Vilanculos",
+      "howTo": "Visit Vilanculos.",
+      "badge": "badges/vilanculos.png"
+    },
+    {
+      "id": "vilanculos-beach",
+      "name": "Vilanculos Beach",
+      "lat": -22.00888,
+      "lng": 35.32212,
+      "radiusM": 120,
+      "address": "Vilanculos",
+      "howTo": "Visit Vilanculos Beach.",
+      "badge": "badges/vilanculos-beach.png"
+    }
+  ]
+}

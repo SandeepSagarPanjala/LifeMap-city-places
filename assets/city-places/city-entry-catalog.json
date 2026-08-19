@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:35:20.167Z",
+  "generatedAt": "2026-08-19T00:40:52.338Z",
   "cellDeg": 0.5,
-  "cityCount": 974,
+  "cityCount": 979,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5429,6 +5429,51 @@
         "minLng": 116.04,
         "maxLat": 5.99,
         "maxLng": 116.1
+      }
+    },
+    "mz/inhambane/tofo": {
+      "name": "Tofo",
+      "bbox": {
+        "minLat": -23.869,
+        "minLng": 35.545,
+        "maxLat": -23.851,
+        "maxLng": 35.554
+      }
+    },
+    "mz/inhambane/vilanculos": {
+      "name": "Vilanculos",
+      "bbox": {
+        "minLat": -22.011,
+        "minLng": 35.318,
+        "maxLat": -21.997,
+        "maxLng": 35.325
+      }
+    },
+    "mz/maputo/maputo": {
+      "name": "Maputo",
+      "bbox": {
+        "minLat": -25.972,
+        "minLng": 32.562,
+        "maxLat": -25.967,
+        "maxLng": 32.577
+      }
+    },
+    "mz/nampula/ilha-de-mocambique": {
+      "name": "Ilha de Mocambique",
+      "bbox": {
+        "minLat": -15.033,
+        "minLng": 40.735,
+        "maxLat": -15.027,
+        "maxLng": 40.746
+      }
+    },
+    "mz/sofala/gorongosa": {
+      "name": "Gorongosa",
+      "bbox": {
+        "minLat": -18.987,
+        "minLng": 34.35,
+        "maxLat": -18.977,
+        "maxLng": 34.36
       }
     },
     "na/erongo/swakopmund": {
@@ -13272,6 +13317,24 @@
     "-9,111": [
       "sc/la-digue/la-digue",
       "sc/praslin/praslin"
+    ],
+    "-52,65": [
+      "mz/maputo/maputo"
+    ],
+    "-31,81": [
+      "mz/nampula/ilha-de-mocambique"
+    ],
+    "-48,71": [
+      "mz/inhambane/tofo"
+    ],
+    "-45,70": [
+      "mz/inhambane/vilanculos"
+    ],
+    "-44,70": [
+      "mz/inhambane/vilanculos"
+    ],
+    "-38,68": [
+      "mz/sofala/gorongosa"
     ]
   }
 }

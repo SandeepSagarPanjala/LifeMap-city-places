@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mz/nampula/ilha-de-mocambique",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "stateCode": "N",
+  "stateName": "Nampula",
+  "cityName": "Ilha de Mocambique",
+  "bbox": {
+    "minLat": -15.033,
+    "minLng": 40.735,
+    "maxLat": -15.027,
+    "maxLng": 40.746
+  },
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sao-sebastiao",
+      "name": "Fort Sao Sebastiao",
+      "lat": -15.02874,
+      "lng": 40.74356,
+      "radiusM": 80,
+      "address": "Ilha de Mocambique",
+      "howTo": "Visit Fort Sao Sebastiao.",
+      "badge": "badges/sao-sebastiao.png"
+    },
+    {
+      "id": "sao-paulo-palace",
+      "name": "Palacio de Sao Paulo",
+      "lat": -15.03154,
+      "lng": 40.73735,
+      "radiusM": 60,
+      "address": "Ilha de Mocambique",
+      "howTo": "Visit Palacio de Sao Paulo.",
+      "badge": "badges/sao-paulo-palace.png"
+    }
+  ]
+}

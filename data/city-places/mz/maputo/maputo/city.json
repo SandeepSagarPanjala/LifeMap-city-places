@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mz/maputo/maputo",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "stateCode": "MPM",
+  "stateName": "Maputo",
+  "cityName": "Maputo",
+  "bbox": {
+    "minLat": -25.972,
+    "minLng": 32.562,
+    "maxLat": -25.967,
+    "maxLng": 32.577
+  },
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "maputo-cathedral",
+      "name": "Maputo Cathedral",
+      "lat": -25.96892,
+      "lng": 32.57447,
+      "radiusM": 60,
+      "address": "Maputo",
+      "howTo": "Visit Maputo Cathedral.",
+      "badge": "badges/maputo-cathedral.png"
+    },
+    {
+      "id": "maputo-station",
+      "name": "Maputo Central Station",
+      "lat": -25.97084,
+      "lng": 32.56416,
+      "radiusM": 60,
+      "address": "Maputo",
+      "howTo": "Visit Maputo Central Station.",
+      "badge": "badges/maputo-station.png"
+    }
+  ]
+}

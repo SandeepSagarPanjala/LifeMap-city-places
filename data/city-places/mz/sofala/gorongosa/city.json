@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mz/sofala/gorongosa",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "stateCode": "S",
+  "stateName": "Sofala",
+  "cityName": "Gorongosa",
+  "bbox": {
+    "minLat": -18.987,
+    "minLng": 34.35,
+    "maxLat": -18.977,
+    "maxLng": 34.36
+  },
+  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chitengo",
+      "name": "Chitengo",
+      "lat": -18.97927,
+      "lng": 34.35226,
+      "radiusM": 200,
+      "address": "Gorongosa",
+      "howTo": "Visit Chitengo.",
+      "badge": "badges/chitengo.png"
+    },
+    {
+      "id": "gorongosa-savanna",
+      "name": "Gorongosa Savanna",
+      "lat": -18.985,
+      "lng": 34.358,
+      "radiusM": 250,
+      "address": "Gorongosa",
+      "howTo": "Visit Gorongosa Savanna.",
+      "badge": "badges/gorongosa-savanna.png"
+    }
+  ]
+}
