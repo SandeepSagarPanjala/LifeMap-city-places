@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ci/abidjan/abidjan",
+  "countryCode": "CI",
+  "countryName": "Ivory Coast",
+  "stateCode": "AB",
+  "stateName": "Abidjan",
+  "cityName": "Abidjan",
+  "bbox": {
+    "minLat": 5.32,
+    "minLng": -4.024,
+    "maxLat": 5.335,
+    "maxLng": -4.014
+  },
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-pauls-cathedral",
+      "name": "St. Paul's Cathedral",
+      "lat": 5.33276,
+      "lng": -4.02161,
+      "radiusM": 80,
+      "address": "Abidjan",
+      "howTo": "Visit St. Paul's Cathedral.",
+      "badge": "badges/st-pauls-cathedral.png"
+    },
+    {
+      "id": "la-pyramide",
+      "name": "La Pyramide",
+      "lat": 5.32231,
+      "lng": -4.01643,
+      "radiusM": 60,
+      "address": "Abidjan",
+      "howTo": "Visit La Pyramide.",
+      "badge": "badges/la-pyramide.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ci/yamoussoukro/yamoussoukro",
+  "countryCode": "CI",
+  "countryName": "Ivory Coast",
+  "stateCode": "YM",
+  "stateName": "Yamoussoukro",
+  "cityName": "Yamoussoukro",
+  "bbox": {
+    "minLat": 6.809,
+    "minLng": -5.3,
+    "maxLat": 6.827,
+    "maxLng": -5.279
+  },
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "notre-dame-de-la-paix",
+      "name": "Notre-Dame de la Paix",
+      "lat": 6.81133,
+      "lng": -5.29709,
+      "radiusM": 120,
+      "address": "Yamoussoukro",
+      "howTo": "Visit Notre-Dame de la Paix.",
+      "badge": "badges/notre-dame-de-la-paix.png"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Presidential Palace",
+      "lat": 6.82454,
+      "lng": -5.28131,
+      "radiusM": 100,
+      "address": "Yamoussoukro",
+      "howTo": "Visit Presidential Palace.",
+      "badge": "badges/presidential-palace.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T00:02:59.000Z",
-  "notes": "Senegal (sn) complete. Next: Ivory Coast (ci) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "notes": "Ivory Coast (ci) complete. Next: Cameroon (cm) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -18037,6 +18037,111 @@
                 "minLng": -15.88,
                 "maxLat": 14.867,
                 "maxLng": -15.873
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ci",
+      "countryCode": "CI",
+      "name": "Ivory Coast",
+      "states": [
+        {
+          "id": "abidjan",
+          "stateCode": "AB",
+          "name": "Abidjan",
+          "cities": [
+            {
+              "id": "abidjan",
+              "name": "Abidjan",
+              "status": "complete",
+              "packPath": "ci/abidjan/abidjan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:08:18.000Z",
+              "bbox": {
+                "minLat": 5.32,
+                "minLng": -4.024,
+                "maxLat": 5.335,
+                "maxLng": -4.014
+              }
+            }
+          ]
+        },
+        {
+          "id": "comoe",
+          "stateCode": "CM",
+          "name": "Comoe",
+          "cities": [
+            {
+              "id": "grand-bassam",
+              "name": "Grand-Bassam",
+              "status": "complete",
+              "packPath": "ci/comoe/grand-bassam/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:08:18.000Z",
+              "bbox": {
+                "minLat": 5.1945,
+                "minLng": -3.7385,
+                "maxLat": 5.1975,
+                "maxLng": -3.7325
+              }
+            },
+            {
+              "id": "assinie",
+              "name": "Assinie",
+              "status": "complete",
+              "packPath": "ci/comoe/assinie/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:08:18.000Z",
+              "bbox": {
+                "minLat": 5.133,
+                "minLng": -3.294,
+                "maxLat": 5.149,
+                "maxLng": -3.273
+              }
+            }
+          ]
+        },
+        {
+          "id": "yamoussoukro",
+          "stateCode": "YM",
+          "name": "Yamoussoukro",
+          "cities": [
+            {
+              "id": "yamoussoukro",
+              "name": "Yamoussoukro",
+              "status": "complete",
+              "packPath": "ci/yamoussoukro/yamoussoukro/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:08:18.000Z",
+              "bbox": {
+                "minLat": 6.809,
+                "minLng": -5.3,
+                "maxLat": 6.827,
+                "maxLng": -5.279
+              }
+            }
+          ]
+        },
+        {
+          "id": "montagnes",
+          "stateCode": "MG",
+          "name": "Montagnes",
+          "cities": [
+            {
+              "id": "man",
+              "name": "Man",
+              "status": "complete",
+              "packPath": "ci/montagnes/man/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T00:08:18.000Z",
+              "bbox": {
+                "minLat": 7.445,
+                "minLng": -7.555,
+                "maxLat": 7.457,
+                "maxLng": -7.545
               }
             }
           ]

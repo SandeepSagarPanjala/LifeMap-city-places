@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ci/comoe/grand-bassam",
+  "countryCode": "CI",
+  "countryName": "Ivory Coast",
+  "stateCode": "CM",
+  "stateName": "Comoe",
+  "cityName": "Grand-Bassam",
+  "bbox": {
+    "minLat": 5.1945,
+    "minLng": -3.7385,
+    "maxLat": 5.1975,
+    "maxLng": -3.7325
+  },
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "costume-museum",
+      "name": "National Costume Museum",
+      "lat": 5.19614,
+      "lng": -3.73692,
+      "radiusM": 60,
+      "address": "Grand-Bassam",
+      "howTo": "Visit National Costume Museum.",
+      "badge": "badges/costume-museum.png"
+    },
+    {
+      "id": "sacre-coeur",
+      "name": "Sacre-Coeur Cathedral",
+      "lat": 5.19575,
+      "lng": -3.73422,
+      "radiusM": 50,
+      "address": "Grand-Bassam",
+      "howTo": "Visit Sacre-Coeur Cathedral.",
+      "badge": "badges/sacre-coeur.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ci/comoe/assinie",
+  "countryCode": "CI",
+  "countryName": "Ivory Coast",
+  "stateCode": "CM",
+  "stateName": "Comoe",
+  "cityName": "Assinie",
+  "bbox": {
+    "minLat": 5.133,
+    "minLng": -3.294,
+    "maxLat": 5.149,
+    "maxLng": -3.273
+  },
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "assinie-mafia",
+      "name": "Assinie-Mafia",
+      "lat": 5.13508,
+      "lng": -3.29166,
+      "radiusM": 200,
+      "address": "Assinie",
+      "howTo": "Visit Assinie-Mafia.",
+      "badge": "badges/assinie-mafia.png"
+    },
+    {
+      "id": "assinie-lagoon",
+      "name": "Assinie Lagoon",
+      "lat": 5.14658,
+      "lng": -3.27555,
+      "radiusM": 200,
+      "address": "Assinie",
+      "howTo": "Visit Assinie Lagoon.",
+      "badge": "badges/assinie-lagoon.png"
+    }
+  ]
+}

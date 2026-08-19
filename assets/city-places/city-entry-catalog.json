@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:02:59.884Z",
+  "generatedAt": "2026-08-19T00:08:18.691Z",
   "cellDeg": 0.5,
-  "cityCount": 944,
+  "cityCount": 949,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1010,6 +1010,51 @@
         "minLng": 8.52,
         "maxLat": 47.39,
         "maxLng": 8.56
+      }
+    },
+    "ci/abidjan/abidjan": {
+      "name": "Abidjan",
+      "bbox": {
+        "minLat": 5.32,
+        "minLng": -4.024,
+        "maxLat": 5.335,
+        "maxLng": -4.014
+      }
+    },
+    "ci/comoe/assinie": {
+      "name": "Assinie",
+      "bbox": {
+        "minLat": 5.133,
+        "minLng": -3.294,
+        "maxLat": 5.149,
+        "maxLng": -3.273
+      }
+    },
+    "ci/comoe/grand-bassam": {
+      "name": "Grand-Bassam",
+      "bbox": {
+        "minLat": 5.1945,
+        "minLng": -3.7385,
+        "maxLat": 5.1975,
+        "maxLng": -3.7325
+      }
+    },
+    "ci/montagnes/man": {
+      "name": "Man",
+      "bbox": {
+        "minLat": 7.445,
+        "minLng": -7.555,
+        "maxLat": 7.457,
+        "maxLng": -7.545
+      }
+    },
+    "ci/yamoussoukro/yamoussoukro": {
+      "name": "Yamoussoukro",
+      "bbox": {
+        "minLat": 6.809,
+        "minLng": -5.3,
+        "maxLat": 6.827,
+        "maxLng": -5.279
       }
     },
     "cl/atacama/san-pedro-de-atacama": {
@@ -12925,6 +12970,21 @@
     ],
     "29,-32": [
       "sn/diourbel/touba"
+    ],
+    "10,-9": [
+      "ci/abidjan/abidjan"
+    ],
+    "10,-8": [
+      "ci/comoe/grand-bassam"
+    ],
+    "10,-7": [
+      "ci/comoe/assinie"
+    ],
+    "13,-11": [
+      "ci/yamoussoukro/yamoussoukro"
+    ],
+    "14,-16": [
+      "ci/montagnes/man"
     ]
   }
 }

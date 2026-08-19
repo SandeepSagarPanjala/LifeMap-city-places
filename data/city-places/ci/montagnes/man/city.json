@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ci/montagnes/man",
+  "countryCode": "CI",
+  "countryName": "Ivory Coast",
+  "stateCode": "MG",
+  "stateName": "Montagnes",
+  "cityName": "Man",
+  "bbox": {
+    "minLat": 7.445,
+    "minLng": -7.555,
+    "maxLat": 7.457,
+    "maxLng": -7.545
+  },
+  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dent-de-man",
+      "name": "Dent de Man",
+      "lat": 7.45468,
+      "lng": -7.55174,
+      "radiusM": 200,
+      "address": "Man",
+      "howTo": "Visit Dent de Man.",
+      "badge": "badges/dent-de-man.png"
+    },
+    {
+      "id": "man-hills",
+      "name": "Man Hills",
+      "lat": 7.448,
+      "lng": -7.548,
+      "radiusM": 200,
+      "address": "Man",
+      "howTo": "Visit Man Hills.",
+      "badge": "badges/man-hills.png"
+    }
+  ]
+}
