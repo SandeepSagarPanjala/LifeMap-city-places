@@ -167,7 +167,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 121. `gm` — Gambia (**complete**)
 122. `gw` — Guinea-Bissau (**complete**)
 123. `mr` — Mauritania (**complete**)
-124. `ne` — Niger
+124. `ne` — Niger (**complete**)
+125. `cg` — Republic of the Congo
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

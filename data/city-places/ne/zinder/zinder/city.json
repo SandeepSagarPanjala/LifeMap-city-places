@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ne/zinder/zinder",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "stateCode": "7",
+  "stateName": "Zinder",
+  "cityName": "Zinder",
+  "bbox": {
+    "minLat": 13.804,
+    "minLng": 8.987,
+    "maxLat": 13.811,
+    "maxLng": 8.994
+  },
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zinder",
+      "name": "Zinder",
+      "lat": 13.80634,
+      "lng": 8.98917,
+      "radiusM": 80,
+      "address": "Zinder",
+      "howTo": "Visit Zinder.",
+      "badge": "badges/zinder.png"
+    },
+    {
+      "id": "zinder-birni",
+      "name": "Zinder Birni",
+      "lat": 13.809,
+      "lng": 8.992,
+      "radiusM": 60,
+      "address": "Zinder",
+      "howTo": "Visit Zinder Birni.",
+      "badge": "badges/zinder-birni.png"
+    }
+  ]
+}

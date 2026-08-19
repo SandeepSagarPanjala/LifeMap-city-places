@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ne/agadez/timia",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "stateCode": "1",
+  "stateName": "Agadez",
+  "cityName": "Timia",
+  "bbox": {
+    "minLat": 18.112,
+    "minLng": 8.777,
+    "maxLat": 18.119,
+    "maxLng": 8.784
+  },
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "timia",
+      "name": "Timia",
+      "lat": 18.11432,
+      "lng": 8.77917,
+      "radiusM": 80,
+      "address": "A\u00efr",
+      "howTo": "Visit Timia.",
+      "badge": "badges/timia.png"
+    },
+    {
+      "id": "timia-oasis",
+      "name": "Timia Oasis",
+      "lat": 18.117,
+      "lng": 8.782,
+      "radiusM": 80,
+      "address": "A\u00efr",
+      "howTo": "Visit Timia Oasis.",
+      "badge": "badges/timia-oasis.png"
+    }
+  ]
+}

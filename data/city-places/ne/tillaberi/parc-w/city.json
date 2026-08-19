@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ne/tillaberi/parc-w",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "stateCode": "6",
+  "stateName": "Tillaberi",
+  "cityName": "Parc W",
+  "bbox": {
+    "minLat": 12.238,
+    "minLng": 2.259,
+    "maxLat": 12.246,
+    "maxLng": 2.267
+  },
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "parc-w",
+      "name": "Parc W du Niger",
+      "lat": 12.24056,
+      "lng": 2.26159,
+      "radiusM": 200,
+      "address": "Say",
+      "howTo": "Visit Parc W du Niger.",
+      "badge": "badges/parc-w.png"
+    },
+    {
+      "id": "w-savanna",
+      "name": "W Savanna",
+      "lat": 12.2435,
+      "lng": 2.265,
+      "radiusM": 200,
+      "address": "Say",
+      "howTo": "Visit W Savanna.",
+      "badge": "badges/w-savanna.png"
+    }
+  ]
+}

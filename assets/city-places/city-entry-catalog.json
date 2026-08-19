@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T02:23:24.349Z",
+  "generatedAt": "2026-08-19T02:27:56.869Z",
   "cellDeg": 0.5,
-  "cityCount": 1074,
+  "cityCount": 1079,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6194,6 +6194,51 @@
         "minLng": 15.91,
         "maxLat": -19.095,
         "maxLng": 15.96
+      }
+    },
+    "ne/agadez/agadez": {
+      "name": "Agadez",
+      "bbox": {
+        "minLat": 16.966,
+        "minLng": 7.982,
+        "maxLat": 16.972,
+        "maxLng": 7.989
+      }
+    },
+    "ne/agadez/timia": {
+      "name": "Timia",
+      "bbox": {
+        "minLat": 18.112,
+        "minLng": 8.777,
+        "maxLat": 18.119,
+        "maxLng": 8.784
+      }
+    },
+    "ne/niamey/niamey": {
+      "name": "Niamey",
+      "bbox": {
+        "minLat": 13.504,
+        "minLng": 2.103,
+        "maxLat": 13.514,
+        "maxLng": 2.11
+      }
+    },
+    "ne/tillaberi/parc-w": {
+      "name": "Parc W",
+      "bbox": {
+        "minLat": 12.238,
+        "minLng": 2.259,
+        "maxLat": 12.246,
+        "maxLng": 2.267
+      }
+    },
+    "ne/zinder/zinder": {
+      "name": "Zinder",
+      "bbox": {
+        "minLat": 13.804,
+        "minLng": 8.987,
+        "maxLat": 13.811,
+        "maxLng": 8.994
       }
     },
     "nl/friesland/giethoorn": {
@@ -14438,6 +14483,21 @@
     ],
     "34,-15": [
       "mr/hodh-ech-chargui/oualata"
+    ],
+    "27,4": [
+      "ne/niamey/niamey"
+    ],
+    "33,15": [
+      "ne/agadez/agadez"
+    ],
+    "36,17": [
+      "ne/agadez/timia"
+    ],
+    "27,17": [
+      "ne/zinder/zinder"
+    ],
+    "24,4": [
+      "ne/tillaberi/parc-w"
     ]
   }
 }

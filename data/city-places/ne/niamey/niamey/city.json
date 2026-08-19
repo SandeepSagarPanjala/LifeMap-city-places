@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ne/niamey/niamey",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "stateCode": "8",
+  "stateName": "Niamey",
+  "cityName": "Niamey",
+  "bbox": {
+    "minLat": 13.504,
+    "minLng": 2.103,
+    "maxLat": 13.514,
+    "maxLng": 2.11
+  },
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boubou-hama",
+      "name": "Musee National Boubou Hama",
+      "lat": 13.51204,
+      "lng": 2.10822,
+      "radiusM": 50,
+      "address": "Niamey",
+      "howTo": "Visit Musee National Boubou Hama.",
+      "badge": "badges/boubou-hama.png"
+    },
+    {
+      "id": "pont-kennedy",
+      "name": "Pont Kennedy",
+      "lat": 13.50528,
+      "lng": 2.10461,
+      "radiusM": 40,
+      "address": "Niamey",
+      "howTo": "Visit Pont Kennedy.",
+      "badge": "badges/pont-kennedy.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T02:23:24.000Z",
-  "notes": "Mauritania (mr) complete. Next: Niger (ne) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "notes": "Niger (ne) complete. Next: Republic of the Congo (cg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -20683,6 +20683,111 @@
                 "minLng": -7.027,
                 "maxLat": 17.302,
                 "maxLng": -7.023
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ne",
+      "countryCode": "NE",
+      "name": "Niger",
+      "states": [
+        {
+          "id": "niamey",
+          "stateCode": "8",
+          "name": "Niamey",
+          "cities": [
+            {
+              "id": "niamey",
+              "name": "Niamey",
+              "status": "complete",
+              "packPath": "ne/niamey/niamey/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:27:56.000Z",
+              "bbox": {
+                "minLat": 13.504,
+                "minLng": 2.103,
+                "maxLat": 13.514,
+                "maxLng": 2.11
+              }
+            }
+          ]
+        },
+        {
+          "id": "agadez",
+          "stateCode": "1",
+          "name": "Agadez",
+          "cities": [
+            {
+              "id": "agadez",
+              "name": "Agadez",
+              "status": "complete",
+              "packPath": "ne/agadez/agadez/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:27:56.000Z",
+              "bbox": {
+                "minLat": 16.966,
+                "minLng": 7.982,
+                "maxLat": 16.972,
+                "maxLng": 7.989
+              }
+            },
+            {
+              "id": "timia",
+              "name": "Timia",
+              "status": "complete",
+              "packPath": "ne/agadez/timia/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:27:56.000Z",
+              "bbox": {
+                "minLat": 18.112,
+                "minLng": 8.777,
+                "maxLat": 18.119,
+                "maxLng": 8.784
+              }
+            }
+          ]
+        },
+        {
+          "id": "zinder",
+          "stateCode": "7",
+          "name": "Zinder",
+          "cities": [
+            {
+              "id": "zinder",
+              "name": "Zinder",
+              "status": "complete",
+              "packPath": "ne/zinder/zinder/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:27:56.000Z",
+              "bbox": {
+                "minLat": 13.804,
+                "minLng": 8.987,
+                "maxLat": 13.811,
+                "maxLng": 8.994
+              }
+            }
+          ]
+        },
+        {
+          "id": "tillaberi",
+          "stateCode": "6",
+          "name": "Tillaberi",
+          "cities": [
+            {
+              "id": "parc-w",
+              "name": "Parc W",
+              "status": "complete",
+              "packPath": "ne/tillaberi/parc-w/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T02:27:56.000Z",
+              "bbox": {
+                "minLat": 12.238,
+                "minLng": 2.259,
+                "maxLat": 12.246,
+                "maxLng": 2.267
               }
             }
           ]

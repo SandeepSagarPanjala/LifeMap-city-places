@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ne/agadez/agadez",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "stateCode": "1",
+  "stateName": "Agadez",
+  "cityName": "Agadez",
+  "bbox": {
+    "minLat": 16.966,
+    "minLng": 7.982,
+    "maxLat": 16.972,
+    "maxLng": 7.989
+  },
+  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "agadez-mosque",
+      "name": "Grande Mosquee d'Agadez",
+      "lat": 16.96749,
+      "lng": 7.98382,
+      "radiusM": 40,
+      "address": "Agadez",
+      "howTo": "Visit Grande Mosquee d'Agadez.",
+      "badge": "badges/agadez-mosque.png"
+    },
+    {
+      "id": "agadez-ksar",
+      "name": "Agadez Ksar",
+      "lat": 16.97,
+      "lng": 7.987,
+      "radiusM": 60,
+      "address": "Agadez",
+      "howTo": "Visit Agadez Ksar.",
+      "badge": "badges/agadez-ksar.png"
+    }
+  ]
+}
