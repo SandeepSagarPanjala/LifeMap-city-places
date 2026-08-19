@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bj/atlantique/ouidah",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "stateCode": "AQ",
+  "stateName": "Atlantique",
+  "cityName": "Ouidah",
+  "bbox": {
+    "minLat": 6.32,
+    "minLng": 2.083,
+    "maxLat": 6.325,
+    "maxLng": 2.09
+  },
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "door-of-no-return",
+      "name": "Door of No Return",
+      "lat": 6.32295,
+      "lng": 2.08782,
+      "radiusM": 50,
+      "address": "Ouidah",
+      "howTo": "Visit Door of No Return.",
+      "badge": "badges/door-of-no-return.png"
+    },
+    {
+      "id": "ouidah-beach",
+      "name": "Ouidah Beach",
+      "lat": 6.3215,
+      "lng": 2.0855,
+      "radiusM": 80,
+      "address": "Ouidah",
+      "howTo": "Visit Ouidah Beach.",
+      "badge": "badges/ouidah-beach.png"
+    }
+  ]
+}

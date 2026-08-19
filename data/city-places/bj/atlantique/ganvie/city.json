@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bj/atlantique/ganvie",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "stateCode": "AQ",
+  "stateName": "Atlantique",
+  "cityName": "Ganvie",
+  "bbox": {
+    "minLat": 6.466,
+    "minLng": 2.387,
+    "maxLat": 6.472,
+    "maxLng": 2.395
+  },
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ganvie",
+      "name": "Ganvie",
+      "lat": 6.46811,
+      "lng": 2.38997,
+      "radiusM": 150,
+      "address": "Ganvie",
+      "howTo": "Visit Ganvie.",
+      "badge": "badges/ganvie.png"
+    },
+    {
+      "id": "ganvie-stilts",
+      "name": "Ganvie Stilts",
+      "lat": 6.47,
+      "lng": 2.393,
+      "radiusM": 100,
+      "address": "Ganvie",
+      "howTo": "Visit Ganvie Stilts.",
+      "badge": "badges/ganvie-stilts.png"
+    }
+  ]
+}

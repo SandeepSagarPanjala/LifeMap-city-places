@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bj/zou/abomey",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "stateCode": "ZO",
+  "stateName": "Zou",
+  "cityName": "Abomey",
+  "bbox": {
+    "minLat": 7.185,
+    "minLng": 1.991,
+    "maxLat": 7.191,
+    "maxLng": 1.998
+  },
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "royal-palaces",
+      "name": "Royal Palaces of Abomey",
+      "lat": 7.18731,
+      "lng": 1.99358,
+      "radiusM": 80,
+      "address": "Abomey",
+      "howTo": "Visit Royal Palaces of Abomey.",
+      "badge": "badges/royal-palaces.png"
+    },
+    {
+      "id": "abomey-courtyard",
+      "name": "Abomey Courtyard",
+      "lat": 7.189,
+      "lng": 1.9955,
+      "radiusM": 60,
+      "address": "Abomey",
+      "howTo": "Visit Abomey Courtyard.",
+      "badge": "badges/abomey-courtyard.png"
+    }
+  ]
+}

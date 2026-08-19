@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T01:06:52.000Z",
-  "notes": "Eswatini (sz) complete. Next: Benin (bj) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "notes": "Benin (bj) complete. Next: Togo (tg) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -19248,6 +19248,111 @@
                 "minLng": 31.1,
                 "maxLat": -26.114,
                 "maxLng": 31.108
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bj",
+      "countryCode": "BJ",
+      "name": "Benin",
+      "states": [
+        {
+          "id": "atlantique",
+          "stateCode": "AQ",
+          "name": "Atlantique",
+          "cities": [
+            {
+              "id": "ouidah",
+              "name": "Ouidah",
+              "status": "complete",
+              "packPath": "bj/atlantique/ouidah/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:13:14.000Z",
+              "bbox": {
+                "minLat": 6.32,
+                "minLng": 2.083,
+                "maxLat": 6.325,
+                "maxLng": 2.09
+              }
+            },
+            {
+              "id": "ganvie",
+              "name": "Ganvie",
+              "status": "complete",
+              "packPath": "bj/atlantique/ganvie/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:13:14.000Z",
+              "bbox": {
+                "minLat": 6.466,
+                "minLng": 2.387,
+                "maxLat": 6.472,
+                "maxLng": 2.395
+              }
+            }
+          ]
+        },
+        {
+          "id": "zou",
+          "stateCode": "ZO",
+          "name": "Zou",
+          "cities": [
+            {
+              "id": "abomey",
+              "name": "Abomey",
+              "status": "complete",
+              "packPath": "bj/zou/abomey/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:13:14.000Z",
+              "bbox": {
+                "minLat": 7.185,
+                "minLng": 1.991,
+                "maxLat": 7.191,
+                "maxLng": 1.998
+              }
+            }
+          ]
+        },
+        {
+          "id": "littoral",
+          "stateCode": "LI",
+          "name": "Littoral",
+          "cities": [
+            {
+              "id": "cotonou",
+              "name": "Cotonou",
+              "status": "complete",
+              "packPath": "bj/littoral/cotonou/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:13:14.000Z",
+              "bbox": {
+                "minLat": 6.354,
+                "minLng": 2.437,
+                "maxLat": 6.359,
+                "maxLng": 2.443
+              }
+            }
+          ]
+        },
+        {
+          "id": "atakora",
+          "stateCode": "AK",
+          "name": "Atakora",
+          "cities": [
+            {
+              "id": "pendjari",
+              "name": "Pendjari",
+              "status": "complete",
+              "packPath": "bj/atakora/pendjari/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-19T01:13:14.000Z",
+              "bbox": {
+                "minLat": 11.226,
+                "minLng": 1.49,
+                "maxLat": 11.235,
+                "maxLng": 1.5
               }
             }
           ]

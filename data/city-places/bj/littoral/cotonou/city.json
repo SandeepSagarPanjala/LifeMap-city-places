@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bj/littoral/cotonou",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "stateCode": "LI",
+  "stateName": "Littoral",
+  "cityName": "Cotonou",
+  "bbox": {
+    "minLat": 6.354,
+    "minLng": 2.437,
+    "maxLat": 6.359,
+    "maxLng": 2.443
+  },
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "notre-dame",
+      "name": "Notre-Dame de Misericorde",
+      "lat": 6.35634,
+      "lng": 2.43915,
+      "radiusM": 50,
+      "address": "Cotonou",
+      "howTo": "Visit Notre-Dame de Misericorde.",
+      "badge": "badges/notre-dame.png"
+    },
+    {
+      "id": "cotonou-nave",
+      "name": "Cotonou Nave",
+      "lat": 6.3575,
+      "lng": 2.441,
+      "radiusM": 40,
+      "address": "Cotonou",
+      "howTo": "Visit Cotonou Nave.",
+      "badge": "badges/cotonou-nave.png"
+    }
+  ]
+}

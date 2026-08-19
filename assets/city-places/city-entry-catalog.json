@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:06:52.757Z",
+  "generatedAt": "2026-08-19T01:13:14.842Z",
   "cellDeg": 0.5,
-  "cityCount": 1004,
+  "cityCount": 1009,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -650,6 +650,51 @@
         "minLng": 50.615,
         "maxLat": 26.006,
         "maxLng": 50.622
+      }
+    },
+    "bj/atakora/pendjari": {
+      "name": "Pendjari",
+      "bbox": {
+        "minLat": 11.226,
+        "minLng": 1.49,
+        "maxLat": 11.235,
+        "maxLng": 1.5
+      }
+    },
+    "bj/atlantique/ganvie": {
+      "name": "Ganvie",
+      "bbox": {
+        "minLat": 6.466,
+        "minLng": 2.387,
+        "maxLat": 6.472,
+        "maxLng": 2.395
+      }
+    },
+    "bj/atlantique/ouidah": {
+      "name": "Ouidah",
+      "bbox": {
+        "minLat": 6.32,
+        "minLng": 2.083,
+        "maxLat": 6.325,
+        "maxLng": 2.09
+      }
+    },
+    "bj/littoral/cotonou": {
+      "name": "Cotonou",
+      "bbox": {
+        "minLat": 6.354,
+        "minLng": 2.437,
+        "maxLat": 6.359,
+        "maxLng": 2.443
+      }
+    },
+    "bj/zou/abomey": {
+      "name": "Abomey",
+      "bbox": {
+        "minLat": 7.185,
+        "minLng": 1.991,
+        "maxLat": 7.191,
+        "maxLng": 1.998
       }
     },
     "bo/chuquisaca/sucre": {
@@ -13633,6 +13678,20 @@
       "sz/hhohho/mantenga",
       "sz/hhohho/mlilwane",
       "sz/hhohho/sibebe"
+    ],
+    "12,4": [
+      "bj/atlantique/ganvie",
+      "bj/atlantique/ouidah",
+      "bj/littoral/cotonou"
+    ],
+    "14,3": [
+      "bj/zou/abomey"
+    ],
+    "22,2": [
+      "bj/atakora/pendjari"
+    ],
+    "22,3": [
+      "bj/atakora/pendjari"
     ]
   }
 }

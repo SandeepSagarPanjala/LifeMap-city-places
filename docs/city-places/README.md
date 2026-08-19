@@ -153,7 +153,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 107. `mw` — Malawi (**complete**)
 108. `ls` — Lesotho (**complete**)
 109. `sz` — Eswatini (**complete**)
-110. `bj` — Benin
+110. `bj` — Benin (**complete**)
+111. `tg` — Togo
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

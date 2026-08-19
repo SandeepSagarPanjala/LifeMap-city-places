@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bj/atakora/pendjari",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "stateCode": "AK",
+  "stateName": "Atakora",
+  "cityName": "Pendjari",
+  "bbox": {
+    "minLat": 11.226,
+    "minLng": 1.49,
+    "maxLat": 11.235,
+    "maxLng": 1.5
+  },
+  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "pendjari",
+      "name": "Pendjari National Park",
+      "lat": 11.23294,
+      "lng": 1.49239,
+      "radiusM": 250,
+      "address": "Pendjari",
+      "howTo": "Visit Pendjari National Park.",
+      "badge": "badges/pendjari.png"
+    },
+    {
+      "id": "pendjari-savanna",
+      "name": "Pendjari Savanna",
+      "lat": 11.228,
+      "lng": 1.498,
+      "radiusM": 250,
+      "address": "Pendjari",
+      "howTo": "Visit Pendjari Savanna.",
+      "badge": "badges/pendjari-savanna.png"
+    }
+  ]
+}
