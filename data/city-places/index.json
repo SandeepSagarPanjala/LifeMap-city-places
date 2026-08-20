@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:19:21.000Z",
-  "notes": "Lebanon (lb) complete. Next: Syria (sy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "notes": "Syria (sy) complete. Next: Yemen (ye) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22153,6 +22153,111 @@
                 "minLng": 35.366,
                 "maxLat": 33.5715,
                 "maxLng": 35.37397
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sy",
+      "countryCode": "SY",
+      "name": "Syria",
+      "states": [
+        {
+          "id": "damascus",
+          "stateCode": "DI",
+          "name": "Damascus",
+          "cities": [
+            {
+              "id": "damascus",
+              "name": "Damascus",
+              "status": "complete",
+              "packPath": "sy/damascus/damascus/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:25:09.000Z",
+              "bbox": {
+                "minLat": 33.50858,
+                "minLng": 36.29914,
+                "maxLat": 33.51489,
+                "maxLng": 36.30965
+              }
+            }
+          ]
+        },
+        {
+          "id": "homs",
+          "stateCode": "HI",
+          "name": "Homs",
+          "cities": [
+            {
+              "id": "palmyra",
+              "name": "Palmyra",
+              "status": "complete",
+              "packPath": "sy/homs/palmyra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:25:09.000Z",
+              "bbox": {
+                "minLat": 34.54431,
+                "minLng": 38.26582,
+                "maxLat": 34.55368,
+                "maxLng": 38.27707
+              }
+            },
+            {
+              "id": "krak-des-chevaliers",
+              "name": "Krak des Chevaliers",
+              "status": "complete",
+              "packPath": "sy/homs/krak-des-chevaliers/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:25:09.000Z",
+              "bbox": {
+                "minLat": 34.75406,
+                "minLng": 36.29181,
+                "maxLat": 34.7615,
+                "maxLng": 36.299
+              }
+            }
+          ]
+        },
+        {
+          "id": "aleppo",
+          "stateCode": "HL",
+          "name": "Aleppo",
+          "cities": [
+            {
+              "id": "aleppo",
+              "name": "Aleppo",
+              "status": "complete",
+              "packPath": "sy/aleppo/aleppo/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:25:09.000Z",
+              "bbox": {
+                "minLat": 36.195,
+                "minLng": 37.1585,
+                "maxLat": 36.20252,
+                "maxLng": 37.16592
+              }
+            }
+          ]
+        },
+        {
+          "id": "daraa",
+          "stateCode": "DR",
+          "name": "Daraa",
+          "cities": [
+            {
+              "id": "bosra",
+              "name": "Bosra",
+              "status": "complete",
+              "packPath": "sy/daraa/bosra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:25:09.000Z",
+              "bbox": {
+                "minLat": 32.51479,
+                "minLng": 36.47868,
+                "maxLat": 32.5225,
+                "maxLng": 36.4865
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sy/homs/palmyra",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "stateCode": "HI",
+  "stateName": "Homs",
+  "cityName": "Palmyra",
+  "bbox": {
+    "minLat": 34.54431,
+    "minLng": 38.26582,
+    "maxLat": 34.55368,
+    "maxLng": 38.27707
+  },
+  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "temple-of-bel",
+      "name": "Temple of Bel",
+      "lat": 34.54731,
+      "lng": 38.27407,
+      "radiusM": 100,
+      "address": "Palmyra",
+      "howTo": "Visit the Temple of Bel.",
+      "badge": "badges/temple-of-bel.png"
+    },
+    {
+      "id": "palmyra-theatre",
+      "name": "Palmyra Theatre",
+      "lat": 34.55068,
+      "lng": 38.26882,
+      "radiusM": 80,
+      "address": "Palmyra",
+      "howTo": "Visit the Palmyra Theatre.",
+      "badge": "badges/palmyra-theatre.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sy/homs/krak-des-chevaliers",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "stateCode": "HI",
+  "stateName": "Homs",
+  "cityName": "Krak des Chevaliers",
+  "bbox": {
+    "minLat": 34.75406,
+    "minLng": 36.29181,
+    "maxLat": 34.7615,
+    "maxLng": 36.299
+  },
+  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "krak",
+      "name": "Krak des Chevaliers",
+      "lat": 34.75706,
+      "lng": 36.29481,
+      "radiusM": 100,
+      "address": "Homs",
+      "howTo": "Visit Krak des Chevaliers.",
+      "badge": "badges/krak.png"
+    },
+    {
+      "id": "krak-walls",
+      "name": "Krak Walls",
+      "lat": 34.7585,
+      "lng": 36.296,
+      "radiusM": 80,
+      "address": "Homs",
+      "howTo": "Visit the outer walls of Krak des Chevaliers.",
+      "badge": "badges/krak-walls.png"
+    }
+  ]
+}

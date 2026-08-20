@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sy/aleppo/aleppo",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "stateCode": "HL",
+  "stateName": "Aleppo",
+  "cityName": "Aleppo",
+  "bbox": {
+    "minLat": 36.195,
+    "minLng": 37.1585,
+    "maxLat": 36.20252,
+    "maxLng": 37.16592
+  },
+  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aleppo-citadel",
+      "name": "Aleppo Citadel",
+      "lat": 36.19952,
+      "lng": 37.16292,
+      "radiusM": 80,
+      "address": "Aleppo",
+      "howTo": "Visit the Aleppo Citadel.",
+      "badge": "badges/aleppo-citadel.png"
+    },
+    {
+      "id": "citadel-approach",
+      "name": "Citadel Approach",
+      "lat": 36.198,
+      "lng": 37.1615,
+      "radiusM": 60,
+      "address": "Aleppo",
+      "howTo": "Visit the approach to Aleppo Citadel.",
+      "badge": "badges/citadel-approach.png"
+    }
+  ]
+}

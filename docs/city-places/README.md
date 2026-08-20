@@ -181,7 +181,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 135. `ss` — South Sudan (**complete**)
 136. `iq` — Iraq (**complete**)
 137. `lb` — Lebanon (**complete**)
-138. `sy` — Syria
+138. `sy` — Syria (**complete**)
+139. `ye` — Yemen
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

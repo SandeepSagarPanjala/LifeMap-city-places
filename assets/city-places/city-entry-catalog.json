@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:19:22.013Z",
+  "generatedAt": "2026-08-20T11:25:09.482Z",
   "cellDeg": 0.5,
-  "cityCount": 1144,
+  "cityCount": 1149,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7924,6 +7924,51 @@
         "maxLng": 7.447
       }
     },
+    "sy/aleppo/aleppo": {
+      "name": "Aleppo",
+      "bbox": {
+        "minLat": 36.195,
+        "minLng": 37.1585,
+        "maxLat": 36.20252,
+        "maxLng": 37.16592
+      }
+    },
+    "sy/damascus/damascus": {
+      "name": "Damascus",
+      "bbox": {
+        "minLat": 33.50858,
+        "minLng": 36.29914,
+        "maxLat": 33.51489,
+        "maxLng": 36.30965
+      }
+    },
+    "sy/daraa/bosra": {
+      "name": "Bosra",
+      "bbox": {
+        "minLat": 32.51479,
+        "minLng": 36.47868,
+        "maxLat": 32.5225,
+        "maxLng": 36.4865
+      }
+    },
+    "sy/homs/krak-des-chevaliers": {
+      "name": "Krak des Chevaliers",
+      "bbox": {
+        "minLat": 34.75406,
+        "minLng": 36.29181,
+        "maxLat": 34.7615,
+        "maxLng": 36.299
+      }
+    },
+    "sy/homs/palmyra": {
+      "name": "Palmyra",
+      "bbox": {
+        "minLat": 34.54431,
+        "minLng": 38.26582,
+        "maxLat": 34.55368,
+        "maxLng": 38.27707
+      }
+    },
     "sz/hhohho/lobamba": {
       "name": "Lobamba",
       "bbox": {
@@ -15266,6 +15311,21 @@
     ],
     "66,70": [
       "lb/south/tyre"
+    ],
+    "67,72": [
+      "sy/damascus/damascus"
+    ],
+    "69,76": [
+      "sy/homs/palmyra"
+    ],
+    "69,72": [
+      "sy/homs/krak-des-chevaliers"
+    ],
+    "72,74": [
+      "sy/aleppo/aleppo"
+    ],
+    "65,72": [
+      "sy/daraa/bosra"
     ]
   }
 }

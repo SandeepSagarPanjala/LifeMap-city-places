@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sy/damascus/damascus",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "stateCode": "DI",
+  "stateName": "Damascus",
+  "cityName": "Damascus",
+  "bbox": {
+    "minLat": 33.50858,
+    "minLng": 36.29914,
+    "maxLat": 33.51489,
+    "maxLng": 36.30965
+  },
+  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "umayyad-mosque",
+      "name": "Umayyad Mosque",
+      "lat": 33.51158,
+      "lng": 36.30665,
+      "radiusM": 50,
+      "address": "Damascus",
+      "howTo": "Visit the Umayyad Mosque.",
+      "badge": "badges/umayyad-mosque.png"
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel of Damascus",
+      "lat": 33.51189,
+      "lng": 36.30214,
+      "radiusM": 50,
+      "address": "Damascus",
+      "howTo": "Visit the Citadel of Damascus.",
+      "badge": "badges/citadel.png"
+    }
+  ]
+}
