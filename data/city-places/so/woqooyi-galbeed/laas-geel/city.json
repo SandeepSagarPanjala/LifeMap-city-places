@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "so/woqooyi-galbeed/laas-geel",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "stateCode": "WO",
+  "stateName": "Woqooyi Galbeed",
+  "cityName": "Laas Geel",
+  "bbox": {
+    "minLat": 9.77152,
+    "minLng": 44.44755,
+    "maxLat": 9.78,
+    "maxLng": 44.456
+  },
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "laas-geel",
+      "name": "Laas Geel",
+      "lat": 9.77452,
+      "lng": 44.45055,
+      "radiusM": 150,
+      "address": "near Hargeisa",
+      "howTo": "Visit the Laas Geel rock shelters.",
+      "badge": "badges/laas-geel.png"
+    },
+    {
+      "id": "laas-geel-shelters",
+      "name": "Laas Geel Shelters",
+      "lat": 9.777,
+      "lng": 44.453,
+      "radiusM": 120,
+      "address": "near Hargeisa",
+      "howTo": "Explore the Laas Geel rock shelters.",
+      "badge": "badges/laas-geel-shelters.png"
+    }
+  ]
+}

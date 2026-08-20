@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "so/saaxil/berbera",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "stateCode": "SA",
+  "stateName": "Saaxil",
+  "cityName": "Berbera",
+  "bbox": {
+    "minLat": 10.44252,
+    "minLng": 45.00459,
+    "maxLat": 10.46895,
+    "maxLng": 45.03334
+  },
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "berbera-mosque",
+      "name": "Berbera Central Mosque",
+      "lat": 10.44552,
+      "lng": 45.00759,
+      "radiusM": 50,
+      "address": "Berbera",
+      "howTo": "Visit Berbera Central Mosque.",
+      "badge": "badges/berbera-mosque.png"
+    },
+    {
+      "id": "baathela-beach",
+      "name": "Baathela Beach",
+      "lat": 10.46595,
+      "lng": 45.03034,
+      "radiusM": 100,
+      "address": "Berbera",
+      "howTo": "Visit Baathela Beach.",
+      "badge": "badges/baathela-beach.png"
+    }
+  ]
+}

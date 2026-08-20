@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "so/woqooyi-galbeed/hargeisa",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "stateCode": "WO",
+  "stateName": "Woqooyi Galbeed",
+  "cityName": "Hargeisa",
+  "bbox": {
+    "minLat": 9.54723,
+    "minLng": 44.06855,
+    "maxLat": 9.55584,
+    "maxLng": 44.09494
+  },
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hargeisa-mosque",
+      "name": "Hargeisa Mosque",
+      "lat": 9.55284,
+      "lng": 44.09194,
+      "radiusM": 50,
+      "address": "Hargeisa",
+      "howTo": "Visit Hargeisa Mosque.",
+      "badge": "badges/hargeisa-mosque.png"
+    },
+    {
+      "id": "jameeco-weyn",
+      "name": "Jameeco Weyn",
+      "lat": 9.55023,
+      "lng": 44.07155,
+      "radiusM": 80,
+      "address": "Hargeisa",
+      "howTo": "Visit Jameeco Weyn.",
+      "badge": "badges/jameeco-weyn.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "so/banadir/mogadishu",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "stateCode": "BN",
+  "stateName": "Banaadir",
+  "cityName": "Mogadishu",
+  "bbox": {
+    "minLat": 2.03266,
+    "minLng": 45.3303,
+    "maxLat": 2.04162,
+    "maxLng": 45.34467
+  },
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedral",
+      "name": "Mogadishu Cathedral",
+      "lat": 2.03566,
+      "lng": 45.34167,
+      "radiusM": 50,
+      "address": "Hamar Weyne",
+      "howTo": "Visit the Mogadishu Cathedral ruins.",
+      "badge": "badges/cathedral.png"
+    },
+    {
+      "id": "lighthouse",
+      "name": "Mnare Tower Lighthouse",
+      "lat": 2.03862,
+      "lng": 45.3333,
+      "radiusM": 50,
+      "address": "Mogadishu",
+      "howTo": "Visit Mnare Tower Lighthouse.",
+      "badge": "badges/lighthouse.png"
+    }
+  ]
+}

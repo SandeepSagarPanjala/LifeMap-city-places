@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:34:47.000Z",
-  "notes": "Eritrea (er) complete. Next: Somalia (so) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "notes": "Somalia (so) complete. Next: Comoros (km) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21201,6 +21201,111 @@
                 "minLng": 39.41563,
                 "maxLat": 14.6935,
                 "maxLng": 39.424
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so",
+      "countryCode": "SO",
+      "name": "Somalia",
+      "states": [
+        {
+          "id": "banadir",
+          "stateCode": "BN",
+          "name": "Banaadir",
+          "cities": [
+            {
+              "id": "mogadishu",
+              "name": "Mogadishu",
+              "status": "complete",
+              "packPath": "so/banadir/mogadishu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:39:57.000Z",
+              "bbox": {
+                "minLat": 2.03266,
+                "minLng": 45.3303,
+                "maxLat": 2.04162,
+                "maxLng": 45.34467
+              }
+            }
+          ]
+        },
+        {
+          "id": "woqooyi-galbeed",
+          "stateCode": "WO",
+          "name": "Woqooyi Galbeed",
+          "cities": [
+            {
+              "id": "hargeisa",
+              "name": "Hargeisa",
+              "status": "complete",
+              "packPath": "so/woqooyi-galbeed/hargeisa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:39:57.000Z",
+              "bbox": {
+                "minLat": 9.54723,
+                "minLng": 44.06855,
+                "maxLat": 9.55584,
+                "maxLng": 44.09494
+              }
+            },
+            {
+              "id": "laas-geel",
+              "name": "Laas Geel",
+              "status": "complete",
+              "packPath": "so/woqooyi-galbeed/laas-geel/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:39:57.000Z",
+              "bbox": {
+                "minLat": 9.77152,
+                "minLng": 44.44755,
+                "maxLat": 9.78,
+                "maxLng": 44.456
+              }
+            }
+          ]
+        },
+        {
+          "id": "saaxil",
+          "stateCode": "SA",
+          "name": "Saaxil",
+          "cities": [
+            {
+              "id": "berbera",
+              "name": "Berbera",
+              "status": "complete",
+              "packPath": "so/saaxil/berbera/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:39:57.000Z",
+              "bbox": {
+                "minLat": 10.44252,
+                "minLng": 45.00459,
+                "maxLat": 10.46895,
+                "maxLng": 45.03334
+              }
+            }
+          ]
+        },
+        {
+          "id": "awdal",
+          "stateCode": "AW",
+          "name": "Awdal",
+          "cities": [
+            {
+              "id": "zeila",
+              "name": "Zeila",
+              "status": "complete",
+              "packPath": "so/awdal/zeila/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:39:57.000Z",
+              "bbox": {
+                "minLat": 11.3495,
+                "minLng": 43.47021,
+                "maxLat": 11.35843,
+                "maxLng": 43.479
               }
             }
           ]

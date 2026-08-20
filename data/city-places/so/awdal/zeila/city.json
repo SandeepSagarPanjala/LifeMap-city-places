@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "so/awdal/zeila",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "stateCode": "AW",
+  "stateName": "Awdal",
+  "cityName": "Zeila",
+  "bbox": {
+    "minLat": 11.3495,
+    "minLng": 43.47021,
+    "maxLat": 11.35843,
+    "maxLng": 43.479
+  },
+  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zeila-mosque",
+      "name": "Zeila Central Mosque",
+      "lat": 11.35543,
+      "lng": 43.47321,
+      "radiusM": 50,
+      "address": "Zeila",
+      "howTo": "Visit Zeila Central Mosque.",
+      "badge": "badges/zeila-mosque.png"
+    },
+    {
+      "id": "zeila-coast",
+      "name": "Zeila Coast",
+      "lat": 11.3525,
+      "lng": 43.476,
+      "radiusM": 100,
+      "address": "Zeila",
+      "howTo": "Visit the Zeila coastline.",
+      "badge": "badges/zeila-coast.png"
+    }
+  ]
+}
