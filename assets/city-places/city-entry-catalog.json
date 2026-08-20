@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T11:57:50.578Z",
+  "generatedAt": "2026-08-20T10:34:47.801Z",
   "cellDeg": 0.5,
-  "cityCount": 1094,
+  "cityCount": 1099,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2090,6 +2090,51 @@
         "minLng": 34.28,
         "maxLat": 27.92,
         "maxLng": 34.35
+      }
+    },
+    "er/anseba/keren": {
+      "name": "Keren",
+      "bbox": {
+        "minLat": 15.77624,
+        "minLng": 38.45508,
+        "maxLat": 15.78699,
+        "maxLng": 38.46847
+      }
+    },
+    "er/debub/matara": {
+      "name": "Matara",
+      "bbox": {
+        "minLat": 14.68468,
+        "minLng": 39.41563,
+        "maxLat": 14.6935,
+        "maxLng": 39.424
+      }
+    },
+    "er/maekel/asmara": {
+      "name": "Asmara",
+      "bbox": {
+        "minLat": 15.32544,
+        "minLng": 38.92297,
+        "maxLat": 15.33933,
+        "maxLng": 38.94162
+      }
+    },
+    "er/northern-red-sea/debre-bizen": {
+      "name": "Debre Bizen",
+      "bbox": {
+        "minLat": 15.3255,
+        "minLng": 39.0785,
+        "maxLat": 15.33333,
+        "maxLng": 39.08682
+      }
+    },
+    "er/northern-red-sea/massawa": {
+      "name": "Massawa",
+      "bbox": {
+        "minLat": 15.59933,
+        "minLng": 39.46227,
+        "maxLat": 15.61059,
+        "maxLng": 39.47825
       }
     },
     "es/andalucia/cordoba": {
@@ -14666,6 +14711,21 @@
     ],
     "22,83": [
       "dj/dikhil/abbe"
+    ],
+    "30,77": [
+      "er/maekel/asmara"
+    ],
+    "31,78": [
+      "er/northern-red-sea/massawa"
+    ],
+    "30,78": [
+      "er/northern-red-sea/debre-bizen"
+    ],
+    "31,76": [
+      "er/anseba/keren"
+    ],
+    "29,78": [
+      "er/debub/matara"
     ]
   }
 }

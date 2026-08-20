@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "er/northern-red-sea/massawa",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "stateCode": "SK",
+  "stateName": "Northern Red Sea",
+  "cityName": "Massawa",
+  "bbox": {
+    "minLat": 15.59933,
+    "minLng": 39.46227,
+    "maxLat": 15.61059,
+    "maxLng": 39.47825
+  },
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sheikh-hanafi",
+      "name": "Sheikh Hanafi Mosque",
+      "lat": 15.60759,
+      "lng": 39.47525,
+      "radiusM": 50,
+      "address": "Massawa Old Town",
+      "howTo": "Visit Sheikh Hanafi Mosque.",
+      "badge": "badges/sheikh-hanafi.png"
+    },
+    {
+      "id": "st-maryam",
+      "name": "St. Maryam Cathedral",
+      "lat": 15.60233,
+      "lng": 39.46527,
+      "radiusM": 50,
+      "address": "Massawa",
+      "howTo": "Visit St. Maryam Cathedral.",
+      "badge": "badges/st-maryam.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "er/debub/matara",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "stateCode": "DU",
+  "stateName": "Debub",
+  "cityName": "Matara",
+  "bbox": {
+    "minLat": 14.68468,
+    "minLng": 39.41563,
+    "maxLat": 14.6935,
+    "maxLng": 39.424
+  },
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "matara",
+      "name": "Matara",
+      "lat": 14.68768,
+      "lng": 39.41863,
+      "radiusM": 150,
+      "address": "Debub",
+      "howTo": "Visit the Matara archaeological site.",
+      "badge": "badges/matara.png"
+    },
+    {
+      "id": "matara-ruins",
+      "name": "Matara Ruins",
+      "lat": 14.6905,
+      "lng": 39.421,
+      "radiusM": 120,
+      "address": "Debub",
+      "howTo": "Explore the Matara ruins.",
+      "badge": "badges/matara-ruins.png"
+    }
+  ]
+}

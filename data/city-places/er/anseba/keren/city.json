@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "er/anseba/keren",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "stateCode": "AN",
+  "stateName": "Anseba",
+  "cityName": "Keren",
+  "bbox": {
+    "minLat": 15.77624,
+    "minLng": 38.45508,
+    "maxLat": 15.78699,
+    "maxLng": 38.46847
+  },
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-mariam",
+      "name": "St Mariam Orthodox Church",
+      "lat": 15.77924,
+      "lng": 38.46547,
+      "radiusM": 50,
+      "address": "Keren",
+      "howTo": "Visit St Mariam Orthodox Church.",
+      "badge": "badges/st-mariam.png"
+    },
+    {
+      "id": "al-sahada",
+      "name": "Al-Sahada Mosque",
+      "lat": 15.78399,
+      "lng": 38.45808,
+      "radiusM": 50,
+      "address": "Keren",
+      "howTo": "Visit Al-Sahada Mosque.",
+      "badge": "badges/al-sahada.png"
+    }
+  ]
+}

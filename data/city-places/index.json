@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-19T11:57:50.000Z",
-  "notes": "Djibouti (dj) complete. Paused until next session. Resume with Eritrea (er). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "notes": "Eritrea (er) complete. Next: Somalia (so) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21096,6 +21096,111 @@
                 "minLng": 41.862,
                 "maxLat": 11.22447,
                 "maxLng": 41.87439
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "er",
+      "countryCode": "ER",
+      "name": "Eritrea",
+      "states": [
+        {
+          "id": "maekel",
+          "stateCode": "MA",
+          "name": "Maekel",
+          "cities": [
+            {
+              "id": "asmara",
+              "name": "Asmara",
+              "status": "complete",
+              "packPath": "er/maekel/asmara/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:34:47.000Z",
+              "bbox": {
+                "minLat": 15.32544,
+                "minLng": 38.92297,
+                "maxLat": 15.33933,
+                "maxLng": 38.94162
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern-red-sea",
+          "stateCode": "SK",
+          "name": "Northern Red Sea",
+          "cities": [
+            {
+              "id": "massawa",
+              "name": "Massawa",
+              "status": "complete",
+              "packPath": "er/northern-red-sea/massawa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:34:47.000Z",
+              "bbox": {
+                "minLat": 15.59933,
+                "minLng": 39.46227,
+                "maxLat": 15.61059,
+                "maxLng": 39.47825
+              }
+            },
+            {
+              "id": "debre-bizen",
+              "name": "Debre Bizen",
+              "status": "complete",
+              "packPath": "er/northern-red-sea/debre-bizen/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:34:47.000Z",
+              "bbox": {
+                "minLat": 15.3255,
+                "minLng": 39.0785,
+                "maxLat": 15.33333,
+                "maxLng": 39.08682
+              }
+            }
+          ]
+        },
+        {
+          "id": "anseba",
+          "stateCode": "AN",
+          "name": "Anseba",
+          "cities": [
+            {
+              "id": "keren",
+              "name": "Keren",
+              "status": "complete",
+              "packPath": "er/anseba/keren/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:34:47.000Z",
+              "bbox": {
+                "minLat": 15.77624,
+                "minLng": 38.45508,
+                "maxLat": 15.78699,
+                "maxLng": 38.46847
+              }
+            }
+          ]
+        },
+        {
+          "id": "debub",
+          "stateCode": "DU",
+          "name": "Debub",
+          "cities": [
+            {
+              "id": "matara",
+              "name": "Matara",
+              "status": "complete",
+              "packPath": "er/debub/matara/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:34:47.000Z",
+              "bbox": {
+                "minLat": 14.68468,
+                "minLng": 39.41563,
+                "maxLat": 14.6935,
+                "maxLng": 39.424
               }
             }
           ]

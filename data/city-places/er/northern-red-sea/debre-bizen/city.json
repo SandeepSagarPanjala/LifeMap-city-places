@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "er/northern-red-sea/debre-bizen",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "stateCode": "SK",
+  "stateName": "Northern Red Sea",
+  "cityName": "Debre Bizen",
+  "bbox": {
+    "minLat": 15.3255,
+    "minLng": 39.0785,
+    "maxLat": 15.33333,
+    "maxLng": 39.08682
+  },
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "debre-bizen",
+      "name": "Debre Bizen",
+      "lat": 15.33033,
+      "lng": 39.08382,
+      "radiusM": 120,
+      "address": "Nefasit",
+      "howTo": "Visit Debre Bizen monastery.",
+      "badge": "badges/debre-bizen.png"
+    },
+    {
+      "id": "debre-bizen-path",
+      "name": "Debre Bizen Path",
+      "lat": 15.3285,
+      "lng": 39.0815,
+      "radiusM": 100,
+      "address": "Nefasit",
+      "howTo": "Walk the path toward Debre Bizen.",
+      "badge": "badges/debre-bizen-path.png"
+    }
+  ]
+}

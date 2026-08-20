@@ -171,7 +171,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 125. `cg` — Republic of the Congo (**complete**)
 126. `cd` — Democratic Republic of the Congo (**complete**)
 127. `dj` — Djibouti (**complete**)
-128. `er` — Eritrea
+128. `er` — Eritrea (**complete**)
+129. `so` — Somalia
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "er/maekel/asmara",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "stateCode": "MA",
+  "stateName": "Maekel",
+  "cityName": "Asmara",
+  "bbox": {
+    "minLat": 15.32544,
+    "minLng": 38.92297,
+    "maxLat": 15.33933,
+    "maxLng": 38.94162
+  },
+  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cathedral",
+      "name": "Asmara Cathedral",
+      "lat": 15.33633,
+      "lng": 38.93862,
+      "radiusM": 50,
+      "address": "Asmara",
+      "howTo": "Visit Asmara Cathedral.",
+      "badge": "badges/cathedral.png"
+    },
+    {
+      "id": "fiat-tagliero",
+      "name": "Fiat Tagliero",
+      "lat": 15.32844,
+      "lng": 38.92597,
+      "radiusM": 40,
+      "address": "Asmara",
+      "howTo": "Visit Fiat Tagliero.",
+      "badge": "badges/fiat-tagliero.png"
+    }
+  ]
+}
