@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "af/kabul/kabul",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "stateCode": "KAB",
+  "stateName": "Kabul",
+  "cityName": "Kabul",
+  "bbox": {
+    "minLat": 34.4996,
+    "minLng": 69.15538,
+    "maxLat": 34.5075,
+    "maxLng": 69.163
+  },
+  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bagh-e-babur",
+      "name": "Bagh-e Babur",
+      "lat": 34.5026,
+      "lng": 69.15838,
+      "radiusM": 80,
+      "address": "Kabul",
+      "howTo": "Visit Bagh-e Babur.",
+      "badge": "badges/bagh-e-babur.png"
+    },
+    {
+      "id": "babur-terraces",
+      "name": "Babur Garden Terraces",
+      "lat": 34.5045,
+      "lng": 69.16,
+      "radiusM": 80,
+      "address": "Kabul",
+      "howTo": "Visit the terraces of Bagh-e Babur.",
+      "badge": "badges/babur-terraces.png"
+    }
+  ]
+}

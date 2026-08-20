@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "af/balkh/mazar-i-sharif",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "stateCode": "BAL",
+  "stateName": "Balkh",
+  "cityName": "Mazar-i-Sharif",
+  "bbox": {
+    "minLat": 36.70596,
+    "minLng": 67.10785,
+    "maxLat": 36.7135,
+    "maxLng": 67.1155
+  },
+  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "blue-mosque",
+      "name": "Blue Mosque",
+      "lat": 36.70896,
+      "lng": 67.11085,
+      "radiusM": 60,
+      "address": "Mazar-i-Sharif",
+      "howTo": "Visit the Blue Mosque.",
+      "badge": "badges/blue-mosque.png"
+    },
+    {
+      "id": "blue-mosque-plaza",
+      "name": "Blue Mosque Plaza",
+      "lat": 36.7105,
+      "lng": 67.1125,
+      "radiusM": 60,
+      "address": "Mazar-i-Sharif",
+      "howTo": "Visit the plaza at the Blue Mosque.",
+      "badge": "badges/blue-mosque-plaza.png"
+    }
+  ]
+}

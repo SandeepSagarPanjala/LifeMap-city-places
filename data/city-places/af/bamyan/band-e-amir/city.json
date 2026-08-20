@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "af/bamyan/band-e-amir",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "stateCode": "BAM",
+  "stateName": "Bamyan",
+  "cityName": "Band-e Amir",
+  "bbox": {
+    "minLat": 34.88735,
+    "minLng": 67.28102,
+    "maxLat": 34.8955,
+    "maxLng": 67.2895
+  },
+  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "band-e-amir",
+      "name": "Band-e Amir",
+      "lat": 34.89035,
+      "lng": 67.28402,
+      "radiusM": 200,
+      "address": "Bamyan",
+      "howTo": "Visit Band-e Amir.",
+      "badge": "badges/band-e-amir.png"
+    },
+    {
+      "id": "band-e-amir-shore",
+      "name": "Band-e Amir Shore",
+      "lat": 34.8925,
+      "lng": 67.2865,
+      "radiusM": 150,
+      "address": "Bamyan",
+      "howTo": "Visit the lakeshore at Band-e Amir.",
+      "badge": "badges/band-e-amir-shore.png"
+    }
+  ]
+}

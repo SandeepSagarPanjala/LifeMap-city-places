@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "af/herat/herat",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "stateCode": "HER",
+  "stateName": "Herat",
+  "cityName": "Herat",
+  "bbox": {
+    "minLat": 34.34013,
+    "minLng": 62.18523,
+    "maxLat": 34.34906,
+    "maxLng": 62.19792
+  },
+  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "herat-citadel",
+      "name": "Herat Citadel",
+      "lat": 34.34606,
+      "lng": 62.18823,
+      "radiusM": 80,
+      "address": "Herat",
+      "howTo": "Visit the Herat Citadel.",
+      "badge": "badges/herat-citadel.png"
+    },
+    {
+      "id": "friday-mosque",
+      "name": "Friday Mosque of Herat",
+      "lat": 34.34313,
+      "lng": 62.19492,
+      "radiusM": 60,
+      "address": "Herat",
+      "howTo": "Visit the Friday Mosque of Herat.",
+      "badge": "badges/friday-mosque.png"
+    }
+  ]
+}

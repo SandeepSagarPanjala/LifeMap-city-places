@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "af/bamyan/bamyan",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "stateCode": "BAM",
+  "stateName": "Bamyan",
+  "cityName": "Bamyan",
+  "bbox": {
+    "minLat": 34.82866,
+    "minLng": 67.82362,
+    "maxLat": 34.837,
+    "maxLng": 67.832
+  },
+  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bamyan-cliffs",
+      "name": "Bamyan Cliffs",
+      "lat": 34.83166,
+      "lng": 67.82662,
+      "radiusM": 150,
+      "address": "Bamyan",
+      "howTo": "Visit the Bamyan cliff niches.",
+      "badge": "badges/bamyan-cliffs.png"
+    },
+    {
+      "id": "bamyan-valley",
+      "name": "Bamyan Valley",
+      "lat": 34.834,
+      "lng": 67.829,
+      "radiusM": 150,
+      "address": "Bamyan",
+      "howTo": "Visit the Bamyan valley floor.",
+      "badge": "badges/bamyan-valley.png"
+    }
+  ]
+}

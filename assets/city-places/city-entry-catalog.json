@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:30:08.442Z",
+  "generatedAt": "2026-08-20T11:35:43.638Z",
   "cellDeg": 0.5,
-  "cityCount": 1154,
+  "cityCount": 1159,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -74,6 +74,51 @@
         "minLng": 55.37,
         "maxLat": 25.38,
         "maxLng": 55.42
+      }
+    },
+    "af/balkh/mazar-i-sharif": {
+      "name": "Mazar-i-Sharif",
+      "bbox": {
+        "minLat": 36.70596,
+        "minLng": 67.10785,
+        "maxLat": 36.7135,
+        "maxLng": 67.1155
+      }
+    },
+    "af/bamyan/bamyan": {
+      "name": "Bamyan",
+      "bbox": {
+        "minLat": 34.82866,
+        "minLng": 67.82362,
+        "maxLat": 34.837,
+        "maxLng": 67.832
+      }
+    },
+    "af/bamyan/band-e-amir": {
+      "name": "Band-e Amir",
+      "bbox": {
+        "minLat": 34.88735,
+        "minLng": 67.28102,
+        "maxLat": 34.8955,
+        "maxLng": 67.2895
+      }
+    },
+    "af/herat/herat": {
+      "name": "Herat",
+      "bbox": {
+        "minLat": 34.34013,
+        "minLng": 62.18523,
+        "maxLat": 34.34906,
+        "maxLng": 62.19792
+      }
+    },
+    "af/kabul/kabul": {
+      "name": "Kabul",
+      "bbox": {
+        "minLat": 34.4996,
+        "minLng": 69.15538,
+        "maxLat": 34.5075,
+        "maxLng": 69.163
       }
     },
     "al/berat/berat": {
@@ -15384,6 +15429,24 @@
     ],
     "28,86": [
       "ye/al-hudaydah/zabid"
+    ],
+    "73,134": [
+      "af/balkh/mazar-i-sharif"
+    ],
+    "68,124": [
+      "af/herat/herat"
+    ],
+    "68,138": [
+      "af/kabul/kabul"
+    ],
+    "69,138": [
+      "af/kabul/kabul"
+    ],
+    "69,135": [
+      "af/bamyan/bamyan"
+    ],
+    "69,134": [
+      "af/bamyan/band-e-amir"
     ]
   }
 }
