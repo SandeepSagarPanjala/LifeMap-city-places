@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tl/ainaro/maubisse",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "stateCode": "AN",
+  "stateName": "Ainaro",
+  "cityName": "Maubisse",
+  "bbox": {
+    "minLat": -8.90967,
+    "minLng": 125.49033,
+    "maxLat": -8.8375,
+    "maxLng": 125.598
+  },
+  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-ramelau",
+      "name": "Mount Ramelau",
+      "lat": -8.906667,
+      "lng": 125.493333,
+      "address": "Maubisse",
+      "howTo": "Hike Mount Ramelau (Tatamailau).",
+      "radiusM": 80,
+      "badge": "badges/mount-ramelau.png"
+    },
+    {
+      "id": "maubisse-viewpoint",
+      "name": "Maubisse Viewpoint",
+      "lat": -8.8405,
+      "lng": 125.595,
+      "address": "Maubisse",
+      "howTo": "Overlook the mountains from Maubisse.",
+      "radiusM": 80,
+      "badge": "badges/maubisse-viewpoint.png"
+    }
+  ]
+}

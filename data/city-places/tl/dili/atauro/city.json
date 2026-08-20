@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tl/dili/atauro",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "stateCode": "DI",
+  "stateName": "Dili",
+  "cityName": "Atauro",
+  "bbox": {
+    "minLat": -8.253,
+    "minLng": 125.577,
+    "maxLat": -8.219,
+    "maxLng": 125.61
+  },
+  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "beloi-beach",
+      "name": "Beloi Beach",
+      "lat": -8.222,
+      "lng": 125.607,
+      "address": "Atauro",
+      "howTo": "Visit Beloi Beach on Atauro Island.",
+      "radiusM": 80,
+      "badge": "badges/beloi-beach.png"
+    },
+    {
+      "id": "atauro-hills",
+      "name": "Atauro Hills",
+      "lat": -8.25,
+      "lng": 125.58,
+      "address": "Atauro",
+      "howTo": "Overlook the hills of Atauro Island.",
+      "radiusM": 80,
+      "badge": "badges/atauro-hills.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:17:14.000Z",
-  "notes": "Brunei (bn) complete. Next: Timor-Leste (tl). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:21:57.000Z",
+  "notes": "Timor-Leste (tl) complete. Next: Fiji (fj). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23217,6 +23217,111 @@
                 "minLng": 114.31415,
                 "maxLat": 4.61978,
                 "maxLng": 114.328
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tl",
+      "countryCode": "TL",
+      "name": "Timor-Leste",
+      "states": [
+        {
+          "id": "dili",
+          "stateCode": "DI",
+          "name": "Dili",
+          "cities": [
+            {
+              "id": "dili",
+              "name": "Dili",
+              "status": "complete",
+              "packPath": "tl/dili/dili/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:21:57.000Z",
+              "bbox": {
+                "minLat": -8.5505,
+                "minLng": 125.5835,
+                "maxLat": -8.51753,
+                "maxLng": 125.61132
+              }
+            },
+            {
+              "id": "atauro",
+              "name": "Atauro",
+              "status": "complete",
+              "packPath": "tl/dili/atauro/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:21:57.000Z",
+              "bbox": {
+                "minLat": -8.253,
+                "minLng": 125.577,
+                "maxLat": -8.219,
+                "maxLng": 125.61
+              }
+            }
+          ]
+        },
+        {
+          "id": "ainaro",
+          "stateCode": "AN",
+          "name": "Ainaro",
+          "cities": [
+            {
+              "id": "maubisse",
+              "name": "Maubisse",
+              "status": "complete",
+              "packPath": "tl/ainaro/maubisse/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:21:57.000Z",
+              "bbox": {
+                "minLat": -8.90967,
+                "minLng": 125.49033,
+                "maxLat": -8.8375,
+                "maxLng": 125.598
+              }
+            }
+          ]
+        },
+        {
+          "id": "lautem",
+          "stateCode": "LA",
+          "name": "Laut\u00e9m",
+          "cities": [
+            {
+              "id": "tutuala",
+              "name": "Tutuala",
+              "status": "complete",
+              "packPath": "tl/lautem/tutuala/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:21:57.000Z",
+              "bbox": {
+                "minLat": -8.428,
+                "minLng": 127.249,
+                "maxLat": -8.392,
+                "maxLng": 127.328
+              }
+            }
+          ]
+        },
+        {
+          "id": "baucau",
+          "stateCode": "BA",
+          "name": "Baucau",
+          "cities": [
+            {
+              "id": "baucau",
+              "name": "Baucau",
+              "status": "complete",
+              "packPath": "tl/baucau/baucau/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:21:57.000Z",
+              "bbox": {
+                "minLat": -8.4699,
+                "minLng": 126.4533,
+                "maxLat": -8.452,
+                "maxLng": 126.473
               }
             }
           ]

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:17:14.996Z",
+  "generatedAt": "2026-08-20T12:21:57.746Z",
   "cellDeg": 0.5,
-  "cityCount": 1194,
+  "cityCount": 1199,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -8563,6 +8563,51 @@
         "maxLng": 99.71
       }
     },
+    "tl/ainaro/maubisse": {
+      "name": "Maubisse",
+      "bbox": {
+        "minLat": -8.90967,
+        "minLng": 125.49033,
+        "maxLat": -8.8375,
+        "maxLng": 125.598
+      }
+    },
+    "tl/baucau/baucau": {
+      "name": "Baucau",
+      "bbox": {
+        "minLat": -8.4699,
+        "minLng": 126.4533,
+        "maxLat": -8.452,
+        "maxLng": 126.473
+      }
+    },
+    "tl/dili/atauro": {
+      "name": "Atauro",
+      "bbox": {
+        "minLat": -8.253,
+        "minLng": 125.577,
+        "maxLat": -8.219,
+        "maxLng": 125.61
+      }
+    },
+    "tl/dili/dili": {
+      "name": "Dili",
+      "bbox": {
+        "minLat": -8.5505,
+        "minLng": 125.5835,
+        "maxLat": -8.51753,
+        "maxLng": 125.61132
+      }
+    },
+    "tl/lautem/tutuala": {
+      "name": "Tutuala",
+      "bbox": {
+        "minLat": -8.428,
+        "minLng": 127.249,
+        "maxLat": -8.392,
+        "maxLng": 127.328
+      }
+    },
     "tn/mahdia/el-jem": {
       "name": "El Jem",
       "bbox": {
@@ -15863,6 +15908,22 @@
     ],
     "9,228": [
       "bn/belait/seria"
+    ],
+    "-18,251": [
+      "tl/ainaro/maubisse",
+      "tl/dili/dili"
+    ],
+    "-17,251": [
+      "tl/dili/atauro"
+    ],
+    "-18,250": [
+      "tl/ainaro/maubisse"
+    ],
+    "-17,254": [
+      "tl/lautem/tutuala"
+    ],
+    "-17,252": [
+      "tl/baucau/baucau"
     ]
   }
 }

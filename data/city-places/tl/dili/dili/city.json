@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tl/dili/dili",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "stateCode": "DI",
+  "stateName": "Dili",
+  "cityName": "Dili",
+  "bbox": {
+    "minLat": -8.5505,
+    "minLng": 125.5835,
+    "maxLat": -8.51753,
+    "maxLng": 125.61132
+  },
+  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cristo-rei-of-dili",
+      "name": "Cristo Rei of Dili",
+      "lat": -8.520527,
+      "lng": 125.608322,
+      "address": "Dili",
+      "howTo": "Visit Cristo Rei of Dili cape.",
+      "radiusM": 80,
+      "badge": "badges/cristo-rei-of-dili.png"
+    },
+    {
+      "id": "areia-branca",
+      "name": "Areia Branca",
+      "lat": -8.5475,
+      "lng": 125.5865,
+      "address": "Dili",
+      "howTo": "Visit Areia Branca beach.",
+      "radiusM": 80,
+      "badge": "badges/areia-branca.png"
+    }
+  ]
+}

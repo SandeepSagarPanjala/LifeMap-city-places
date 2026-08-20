@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tl/baucau/baucau",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "stateCode": "BA",
+  "stateName": "Baucau",
+  "cityName": "Baucau",
+  "bbox": {
+    "minLat": -8.4699,
+    "minLng": 126.4533,
+    "maxLat": -8.452,
+    "maxLng": 126.473
+  },
+  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "baucau-old-town",
+      "name": "Baucau Old Town",
+      "lat": -8.4669,
+      "lng": 126.4563,
+      "address": "Baucau",
+      "howTo": "Walk Baucau Old Town.",
+      "radiusM": 80,
+      "badge": "badges/baucau-old-town.png"
+    },
+    {
+      "id": "watabo-beach",
+      "name": "Watabo Beach",
+      "lat": -8.455,
+      "lng": 126.47,
+      "address": "Baucau",
+      "howTo": "Visit Watabo Beach.",
+      "radiusM": 80,
+      "badge": "badges/watabo-beach.png"
+    }
+  ]
+}

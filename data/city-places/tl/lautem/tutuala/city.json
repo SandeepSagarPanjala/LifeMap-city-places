@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "tl/lautem/tutuala",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "stateCode": "LA",
+  "stateName": "Laut\u00e9m",
+  "cityName": "Tutuala",
+  "bbox": {
+    "minLat": -8.428,
+    "minLng": 127.249,
+    "maxLat": -8.392,
+    "maxLng": 127.328
+  },
+  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jaco-island",
+      "name": "Jaco Island",
+      "lat": -8.425,
+      "lng": 127.325,
+      "address": "Tutuala",
+      "howTo": "Visit Jaco Island.",
+      "radiusM": 80,
+      "badge": "badges/jaco-island.png"
+    },
+    {
+      "id": "tutuala-beach",
+      "name": "Tutuala Beach",
+      "lat": -8.395,
+      "lng": 127.252,
+      "address": "Tutuala",
+      "howTo": "Visit Tutuala Beach.",
+      "radiusM": 80,
+      "badge": "badges/tutuala-beach.png"
+    }
+  ]
+}

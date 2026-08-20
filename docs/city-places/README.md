@@ -191,7 +191,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 145. `mv` — Maldives (**complete**)
 146. `mm` — Myanmar (**complete**)
 147. `bn` — Brunei (**complete**)
-148. `tl` — Timor-Leste
+148. `tl` — Timor-Leste (**complete**)
+149. `fj` — Fiji
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 
