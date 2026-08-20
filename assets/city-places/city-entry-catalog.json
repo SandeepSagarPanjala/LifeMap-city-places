@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:03:35.066Z",
+  "generatedAt": "2026-08-20T11:09:13.309Z",
   "cellDeg": 0.5,
-  "cityCount": 1129,
+  "cityCount": 1134,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7744,6 +7744,51 @@
         "maxLng": 44.456
       }
     },
+    "ss/central-equatoria/jebel-kujur": {
+      "name": "Jebel Kujur",
+      "bbox": {
+        "minLat": 4.83366,
+        "minLng": 31.54582,
+        "maxLat": 4.842,
+        "maxLng": 31.554
+      }
+    },
+    "ss/central-equatoria/juba": {
+      "name": "Juba",
+      "bbox": {
+        "minLat": 4.82432,
+        "minLng": 31.59732,
+        "maxLat": 4.84847,
+        "maxLng": 31.61132
+      }
+    },
+    "ss/eastern-equatoria/nimule": {
+      "name": "Nimule",
+      "bbox": {
+        "minLat": 3.70374,
+        "minLng": 31.94681,
+        "maxLat": 3.713,
+        "maxLng": 31.956
+      }
+    },
+    "ss/eastern-equatoria/torit": {
+      "name": "Torit",
+      "bbox": {
+        "minLat": 4.40195,
+        "minLng": 32.55988,
+        "maxLat": 4.41645,
+        "maxLng": 32.57122
+      }
+    },
+    "ss/lakes/rumbek": {
+      "name": "Rumbek",
+      "bbox": {
+        "minLat": 6.80339,
+        "minLng": 29.67375,
+        "maxLat": 6.812,
+        "maxLng": 29.682
+      }
+    },
     "st/agua-grande/sao-tome": {
       "name": "Sao Tome",
       "bbox": {
@@ -13233,7 +13278,9 @@
       "co/quindio/salento"
     ],
     "9,63": [
-      "co/quindio/salento"
+      "co/quindio/salento",
+      "ss/central-equatoria/jebel-kujur",
+      "ss/central-equatoria/juba"
     ],
     "9,64": [
       "co/quindio/salento"
@@ -15086,6 +15133,15 @@
     ],
     "60,19": [
       "ly/nalut/ghadames"
+    ],
+    "7,63": [
+      "ss/eastern-equatoria/nimule"
+    ],
+    "8,65": [
+      "ss/eastern-equatoria/torit"
+    ],
+    "13,59": [
+      "ss/lakes/rumbek"
     ]
   }
 }

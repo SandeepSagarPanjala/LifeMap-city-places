@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ss/eastern-equatoria/torit",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "stateCode": "EE",
+  "stateName": "Eastern Equatoria",
+  "cityName": "Torit",
+  "bbox": {
+    "minLat": 4.40195,
+    "minLng": 32.55988,
+    "maxLat": 4.41645,
+    "maxLng": 32.57122
+  },
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "torit",
+      "name": "Torit",
+      "lat": 4.41345,
+      "lng": 32.56822,
+      "radiusM": 80,
+      "address": "Torit",
+      "howTo": "Visit Torit.",
+      "badge": "badges/torit.png"
+    },
+    {
+      "id": "torit-center",
+      "name": "Torit Center",
+      "lat": 4.40495,
+      "lng": 32.56288,
+      "radiusM": 80,
+      "address": "Torit",
+      "howTo": "Visit central Torit.",
+      "badge": "badges/torit-center.png"
+    }
+  ]
+}

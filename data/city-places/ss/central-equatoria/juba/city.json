@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ss/central-equatoria/juba",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "stateCode": "EC",
+  "stateName": "Central Equatoria",
+  "cityName": "Juba",
+  "bbox": {
+    "minLat": 4.82432,
+    "minLng": 31.59732,
+    "maxLat": 4.84847,
+    "maxLng": 31.61132
+  },
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "st-theresa",
+      "name": "St. Theresa Cathedral",
+      "lat": 4.82732,
+      "lng": 31.60032,
+      "radiusM": 50,
+      "address": "Juba",
+      "howTo": "Visit St. Theresa Cathedral.",
+      "badge": "badges/st-theresa.png"
+    },
+    {
+      "id": "all-saints",
+      "name": "All Saints' Cathedral",
+      "lat": 4.84547,
+      "lng": 31.60832,
+      "radiusM": 50,
+      "address": "Juba",
+      "howTo": "Visit All Saints' Cathedral.",
+      "badge": "badges/all-saints.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ss/central-equatoria/jebel-kujur",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "stateCode": "EC",
+  "stateName": "Central Equatoria",
+  "cityName": "Jebel Kujur",
+  "bbox": {
+    "minLat": 4.83366,
+    "minLng": 31.54582,
+    "maxLat": 4.842,
+    "maxLng": 31.554
+  },
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jebel-kujur",
+      "name": "Jebel Kujur",
+      "lat": 4.83666,
+      "lng": 31.54882,
+      "radiusM": 150,
+      "address": "near Juba",
+      "howTo": "Visit Jebel Kujur.",
+      "badge": "badges/jebel-kujur.png"
+    },
+    {
+      "id": "kujur-slopes",
+      "name": "Kujur Slopes",
+      "lat": 4.839,
+      "lng": 31.551,
+      "radiusM": 120,
+      "address": "near Juba",
+      "howTo": "Visit the slopes of Jebel Kujur.",
+      "badge": "badges/kujur-slopes.png"
+    }
+  ]
+}

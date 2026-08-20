@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ss/eastern-equatoria/nimule",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "stateCode": "EE",
+  "stateName": "Eastern Equatoria",
+  "cityName": "Nimule",
+  "bbox": {
+    "minLat": 3.70374,
+    "minLng": 31.94681,
+    "maxLat": 3.713,
+    "maxLng": 31.956
+  },
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nimule-park",
+      "name": "Nimule National Park",
+      "lat": 3.70674,
+      "lng": 31.94981,
+      "radiusM": 250,
+      "address": "Magwi",
+      "howTo": "Visit Nimule National Park landscapes.",
+      "badge": "badges/nimule-park.png"
+    },
+    {
+      "id": "nimule-plains",
+      "name": "Nimule Plains",
+      "lat": 3.71,
+      "lng": 31.953,
+      "radiusM": 200,
+      "address": "Magwi",
+      "howTo": "Visit the Nimule plains.",
+      "badge": "badges/nimule-plains.png"
+    }
+  ]
+}

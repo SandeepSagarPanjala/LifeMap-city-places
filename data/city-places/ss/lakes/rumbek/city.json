@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ss/lakes/rumbek",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "stateCode": "LK",
+  "stateName": "Lakes",
+  "cityName": "Rumbek",
+  "bbox": {
+    "minLat": 6.80339,
+    "minLng": 29.67375,
+    "maxLat": 6.812,
+    "maxLng": 29.682
+  },
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "rumbek",
+      "name": "Rumbek",
+      "lat": 6.80639,
+      "lng": 29.67675,
+      "radiusM": 80,
+      "address": "Rumbek",
+      "howTo": "Visit Rumbek.",
+      "badge": "badges/rumbek.png"
+    },
+    {
+      "id": "rumbek-center",
+      "name": "Rumbek Center",
+      "lat": 6.809,
+      "lng": 29.679,
+      "radiusM": 80,
+      "address": "Rumbek",
+      "howTo": "Visit central Rumbek.",
+      "badge": "badges/rumbek-center.png"
+    }
+  ]
+}

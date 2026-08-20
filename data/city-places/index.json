@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:03:35.000Z",
-  "notes": "Libya (ly) complete. Next: South Sudan (ss) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:09:13.000Z",
+  "notes": "South Sudan (ss) complete. Next: Iraq (iq) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21838,6 +21838,104 @@
                 "minLng": 9.48707,
                 "maxLat": 30.13575,
                 "maxLng": 9.50035
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ss",
+      "countryCode": "SS",
+      "name": "South Sudan",
+      "states": [
+        {
+          "id": "central-equatoria",
+          "stateCode": "EC",
+          "name": "Central Equatoria",
+          "cities": [
+            {
+              "id": "juba",
+              "name": "Juba",
+              "status": "complete",
+              "packPath": "ss/central-equatoria/juba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:09:13.000Z",
+              "bbox": {
+                "minLat": 4.82432,
+                "minLng": 31.59732,
+                "maxLat": 4.84847,
+                "maxLng": 31.61132
+              }
+            },
+            {
+              "id": "jebel-kujur",
+              "name": "Jebel Kujur",
+              "status": "complete",
+              "packPath": "ss/central-equatoria/jebel-kujur/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:09:13.000Z",
+              "bbox": {
+                "minLat": 4.83366,
+                "minLng": 31.54582,
+                "maxLat": 4.842,
+                "maxLng": 31.554
+              }
+            }
+          ]
+        },
+        {
+          "id": "eastern-equatoria",
+          "stateCode": "EE",
+          "name": "Eastern Equatoria",
+          "cities": [
+            {
+              "id": "nimule",
+              "name": "Nimule",
+              "status": "complete",
+              "packPath": "ss/eastern-equatoria/nimule/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:09:13.000Z",
+              "bbox": {
+                "minLat": 3.70374,
+                "minLng": 31.94681,
+                "maxLat": 3.713,
+                "maxLng": 31.956
+              }
+            },
+            {
+              "id": "torit",
+              "name": "Torit",
+              "status": "complete",
+              "packPath": "ss/eastern-equatoria/torit/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:09:13.000Z",
+              "bbox": {
+                "minLat": 4.40195,
+                "minLng": 32.55988,
+                "maxLat": 4.41645,
+                "maxLng": 32.57122
+              }
+            }
+          ]
+        },
+        {
+          "id": "lakes",
+          "stateCode": "LK",
+          "name": "Lakes",
+          "cities": [
+            {
+              "id": "rumbek",
+              "name": "Rumbek",
+              "status": "complete",
+              "packPath": "ss/lakes/rumbek/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:09:13.000Z",
+              "bbox": {
+                "minLat": 6.80339,
+                "minLng": 29.67375,
+                "maxLat": 6.812,
+                "maxLng": 29.682
               }
             }
           ]
