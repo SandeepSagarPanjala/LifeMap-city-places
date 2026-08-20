@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:53:26.000Z",
-  "notes": "Chad (td) complete. Next: Central African Republic (cf) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "notes": "Central African Republic (cf) complete. Next: Libya (ly) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21614,6 +21614,118 @@
                 "minLng": 20.76366,
                 "maxLat": 13.809,
                 "maxLng": 20.772
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf",
+      "countryCode": "CF",
+      "name": "Central African Republic",
+      "states": [
+        {
+          "id": "bangui",
+          "stateCode": "BGF",
+          "name": "Bangui",
+          "cities": [
+            {
+              "id": "bangui",
+              "name": "Bangui",
+              "status": "complete",
+              "packPath": "cf/bangui/bangui/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:58:34.000Z",
+              "bbox": {
+                "minLat": 4.36699,
+                "minLng": 18.53515,
+                "maxLat": 4.38223,
+                "maxLng": 18.58107
+              }
+            }
+          ]
+        },
+        {
+          "id": "ombella-mpoko",
+          "stateCode": "OM",
+          "name": "Ombella-M'Poko",
+          "cities": [
+            {
+              "id": "boali",
+              "name": "Boali",
+              "status": "complete",
+              "packPath": "cf/ombella-mpoko/boali/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:58:34.000Z",
+              "bbox": {
+                "minLat": 4.87166,
+                "minLng": 18.0425,
+                "maxLat": 4.88,
+                "maxLng": 18.05102
+              }
+            }
+          ]
+        },
+        {
+          "id": "sangha-mbaere",
+          "stateCode": "SE",
+          "name": "Sangha-Mba\u00e9r\u00e9",
+          "cities": [
+            {
+              "id": "bayanga",
+              "name": "Bayanga",
+              "status": "complete",
+              "packPath": "cf/sangha-mbaere/bayanga/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:58:34.000Z",
+              "bbox": {
+                "minLat": 2.9094,
+                "minLng": 16.25814,
+                "maxLat": 2.96708,
+                "maxLng": 16.3699
+              }
+            }
+          ]
+        },
+        {
+          "id": "nana-mambere",
+          "stateCode": "NM",
+          "name": "Nana-Mamb\u00e9r\u00e9",
+          "cities": [
+            {
+              "id": "bouar",
+              "name": "Bouar",
+              "status": "complete",
+              "packPath": "cf/nana-mambere/bouar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:58:34.000Z",
+              "bbox": {
+                "minLat": 5.9324,
+                "minLng": 15.58919,
+                "maxLat": 5.941,
+                "maxLng": 15.598
+              }
+            }
+          ]
+        },
+        {
+          "id": "mambere-kadei",
+          "stateCode": "MK",
+          "name": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+          "cities": [
+            {
+              "id": "berberati",
+              "name": "Berb\u00e9rati",
+              "status": "complete",
+              "packPath": "cf/mambere-kadei/berberati/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:58:34.000Z",
+              "bbox": {
+                "minLat": 4.25634,
+                "minLng": 15.78478,
+                "maxLat": 4.2645,
+                "maxLng": 15.793
               }
             }
           ]

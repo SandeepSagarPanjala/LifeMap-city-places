@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cf/bangui/bangui",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "stateCode": "BGF",
+  "stateName": "Bangui",
+  "cityName": "Bangui",
+  "bbox": {
+    "minLat": 4.36699,
+    "minLng": 18.53515,
+    "maxLat": 4.38223,
+    "maxLng": 18.58107
+  },
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "notre-dame",
+      "name": "Cath\u00e9drale Notre-Dame",
+      "lat": 4.36999,
+      "lng": 18.57807,
+      "radiusM": 50,
+      "address": "Bangui",
+      "howTo": "Visit Cath\u00e9drale Notre-Dame.",
+      "badge": "badges/notre-dame.png"
+    },
+    {
+      "id": "grande-mosquee",
+      "name": "Grande Mosqu\u00e9e",
+      "lat": 4.37923,
+      "lng": 18.53815,
+      "radiusM": 50,
+      "address": "Bangui",
+      "howTo": "Visit Grande Mosqu\u00e9e.",
+      "badge": "badges/grande-mosquee.png"
+    }
+  ]
+}

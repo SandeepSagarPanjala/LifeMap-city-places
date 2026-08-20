@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cf/nana-mambere/bouar",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "stateCode": "NM",
+  "stateName": "Nana-Mamb\u00e9r\u00e9",
+  "cityName": "Bouar",
+  "bbox": {
+    "minLat": 5.9324,
+    "minLng": 15.58919,
+    "maxLat": 5.941,
+    "maxLng": 15.598
+  },
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bouar",
+      "name": "Bouar",
+      "lat": 5.9354,
+      "lng": 15.59219,
+      "radiusM": 80,
+      "address": "Bouar",
+      "howTo": "Visit Bouar.",
+      "badge": "badges/bouar.png"
+    },
+    {
+      "id": "bouar-plateau",
+      "name": "Bouar Plateau",
+      "lat": 5.938,
+      "lng": 15.595,
+      "radiusM": 100,
+      "address": "Bouar",
+      "howTo": "Visit the Bouar plateau.",
+      "badge": "badges/bouar-plateau.png"
+    }
+  ]
+}

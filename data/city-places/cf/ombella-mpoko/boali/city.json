@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cf/ombella-mpoko/boali",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "stateCode": "OM",
+  "stateName": "Ombella-M'Poko",
+  "cityName": "Boali",
+  "bbox": {
+    "minLat": 4.87166,
+    "minLng": 18.0425,
+    "maxLat": 4.88,
+    "maxLng": 18.05102
+  },
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "boali-falls",
+      "name": "Boali Falls",
+      "lat": 4.87466,
+      "lng": 18.04802,
+      "radiusM": 120,
+      "address": "Boali",
+      "howTo": "Visit Boali Falls.",
+      "badge": "badges/boali-falls.png"
+    },
+    {
+      "id": "boali-viewpoint",
+      "name": "Boali Viewpoint",
+      "lat": 4.877,
+      "lng": 18.0455,
+      "radiusM": 100,
+      "address": "Boali",
+      "howTo": "Visit the Boali Falls viewpoint.",
+      "badge": "badges/boali-viewpoint.png"
+    }
+  ]
+}

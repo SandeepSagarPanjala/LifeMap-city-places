@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cf/sangha-mbaere/bayanga",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "stateCode": "SE",
+  "stateName": "Sangha-Mba\u00e9r\u00e9",
+  "cityName": "Bayanga",
+  "bbox": {
+    "minLat": 2.9094,
+    "minLng": 16.25814,
+    "maxLat": 2.96708,
+    "maxLng": 16.3699
+  },
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bayanga",
+      "name": "Bayanga",
+      "lat": 2.9124,
+      "lng": 16.26114,
+      "radiusM": 100,
+      "address": "Sangha-Mba\u00e9r\u00e9",
+      "howTo": "Visit Bayanga.",
+      "badge": "badges/bayanga.png"
+    },
+    {
+      "id": "dzanga",
+      "name": "Dzanga",
+      "lat": 2.96408,
+      "lng": 16.3669,
+      "radiusM": 200,
+      "address": "Dzanga-Sangha",
+      "howTo": "Visit the Dzanga forest clearing landscape.",
+      "badge": "badges/dzanga.png"
+    }
+  ]
+}

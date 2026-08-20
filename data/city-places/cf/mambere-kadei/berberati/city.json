@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cf/mambere-kadei/berberati",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "stateCode": "MK",
+  "stateName": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+  "cityName": "Berb\u00e9rati",
+  "bbox": {
+    "minLat": 4.25634,
+    "minLng": 15.78478,
+    "maxLat": 4.2645,
+    "maxLng": 15.793
+  },
+  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "berberati",
+      "name": "Berb\u00e9rati",
+      "lat": 4.25934,
+      "lng": 15.78778,
+      "radiusM": 80,
+      "address": "Berb\u00e9rati",
+      "howTo": "Visit Berb\u00e9rati.",
+      "badge": "badges/berberati.png"
+    },
+    {
+      "id": "berberati-center",
+      "name": "Berb\u00e9rati Center",
+      "lat": 4.2615,
+      "lng": 15.79,
+      "radiusM": 80,
+      "address": "Berb\u00e9rati",
+      "howTo": "Visit central Berb\u00e9rati.",
+      "badge": "badges/berberati-center.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T10:53:26.931Z",
+  "generatedAt": "2026-08-20T10:58:34.240Z",
   "cellDeg": 0.5,
-  "cityCount": 1119,
+  "cityCount": 1124,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1136,6 +1136,51 @@
         "minLng": 25.205,
         "maxLat": 0.497,
         "maxLng": 25.212
+      }
+    },
+    "cf/bangui/bangui": {
+      "name": "Bangui",
+      "bbox": {
+        "minLat": 4.36699,
+        "minLng": 18.53515,
+        "maxLat": 4.38223,
+        "maxLng": 18.58107
+      }
+    },
+    "cf/mambere-kadei/berberati": {
+      "name": "Berbérati",
+      "bbox": {
+        "minLat": 4.25634,
+        "minLng": 15.78478,
+        "maxLat": 4.2645,
+        "maxLng": 15.793
+      }
+    },
+    "cf/nana-mambere/bouar": {
+      "name": "Bouar",
+      "bbox": {
+        "minLat": 5.9324,
+        "minLng": 15.58919,
+        "maxLat": 5.941,
+        "maxLng": 15.598
+      }
+    },
+    "cf/ombella-mpoko/boali": {
+      "name": "Boali",
+      "bbox": {
+        "minLat": 4.87166,
+        "minLng": 18.0425,
+        "maxLat": 4.88,
+        "maxLng": 18.05102
+      }
+    },
+    "cf/sangha-mbaere/bayanga": {
+      "name": "Bayanga",
+      "bbox": {
+        "minLat": 2.9094,
+        "minLng": 16.25814,
+        "maxLat": 2.96708,
+        "maxLng": 16.3699
       }
     },
     "cg/brazzaville/brazzaville": {
@@ -13061,6 +13106,7 @@
       "co/quindio/salento"
     ],
     "9,36": [
+      "cf/ombella-mpoko/boali",
       "co/quindio/salento"
     ],
     "9,37": [
@@ -14965,6 +15011,18 @@
     ],
     "27,41": [
       "td/ouaddai/abeche"
+    ],
+    "8,37": [
+      "cf/bangui/bangui"
+    ],
+    "5,32": [
+      "cf/sangha-mbaere/bayanga"
+    ],
+    "11,31": [
+      "cf/nana-mambere/bouar"
+    ],
+    "8,31": [
+      "cf/mambere-kadei/berberati"
     ]
   }
 }
