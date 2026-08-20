@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sd/red-sea/port-sudan",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "stateCode": "RS",
+  "stateName": "Red Sea",
+  "cityName": "Port Sudan",
+  "bbox": {
+    "minLat": 19.61111,
+    "minLng": 37.21114,
+    "maxLat": 19.6195,
+    "maxLng": 37.22
+  },
+  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ibn-masood",
+      "name": "Mosque of Ibn Masood",
+      "lat": 19.61411,
+      "lng": 37.21414,
+      "radiusM": 50,
+      "address": "Port Sudan",
+      "howTo": "Visit Mosque of Ibn Masood.",
+      "badge": "badges/ibn-masood.png"
+    },
+    {
+      "id": "port-sudan-corniche",
+      "name": "Port Sudan Corniche",
+      "lat": 19.6165,
+      "lng": 37.217,
+      "radiusM": 80,
+      "address": "Port Sudan",
+      "howTo": "Visit the Port Sudan corniche.",
+      "badge": "badges/port-sudan-corniche.png"
+    }
+  ]
+}

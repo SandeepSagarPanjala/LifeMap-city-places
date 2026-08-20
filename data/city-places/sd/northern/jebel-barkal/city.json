@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sd/northern/jebel-barkal",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "stateCode": "NO",
+  "stateName": "Northern",
+  "cityName": "Jebel Barkal",
+  "bbox": {
+    "minLat": 18.5315,
+    "minLng": 31.8245,
+    "maxLat": 18.53942,
+    "maxLng": 31.833
+  },
+  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jebel-barkal",
+      "name": "Jebel Barkal",
+      "lat": 18.53642,
+      "lng": 31.8275,
+      "radiusM": 200,
+      "address": "Karima",
+      "howTo": "Visit Jebel Barkal.",
+      "badge": "badges/jebel-barkal.png"
+    },
+    {
+      "id": "barkal-temple",
+      "name": "Barkal Temple Grounds",
+      "lat": 18.5345,
+      "lng": 31.83,
+      "radiusM": 150,
+      "address": "Karima",
+      "howTo": "Visit the temple grounds at Jebel Barkal.",
+      "badge": "badges/barkal-temple.png"
+    }
+  ]
+}

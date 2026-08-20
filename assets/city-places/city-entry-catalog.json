@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T10:44:08.653Z",
+  "generatedAt": "2026-08-20T10:48:46.459Z",
   "cellDeg": 0.5,
-  "cityCount": 1109,
+  "cityCount": 1114,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7328,6 +7328,51 @@
         "minLng": 55.678,
         "maxLat": -4.291,
         "maxLng": 55.704
+      }
+    },
+    "sd/khartoum/khartoum": {
+      "name": "Khartoum",
+      "bbox": {
+        "minLat": 15.60313,
+        "minLng": 32.4853,
+        "maxLat": 15.6235,
+        "maxLng": 32.51135
+      }
+    },
+    "sd/northern/jebel-barkal": {
+      "name": "Jebel Barkal",
+      "bbox": {
+        "minLat": 18.5315,
+        "minLng": 31.8245,
+        "maxLat": 18.53942,
+        "maxLng": 31.833
+      }
+    },
+    "sd/red-sea/port-sudan": {
+      "name": "Port Sudan",
+      "bbox": {
+        "minLat": 19.61111,
+        "minLng": 37.21114,
+        "maxLat": 19.6195,
+        "maxLng": 37.22
+      }
+    },
+    "sd/red-sea/suakin": {
+      "name": "Suakin",
+      "bbox": {
+        "minLat": 19.09887,
+        "minLng": 37.32559,
+        "maxLat": 19.11967,
+        "maxLng": 37.33633
+      }
+    },
+    "sd/river-nile/meroe": {
+      "name": "Meroe",
+      "bbox": {
+        "minLat": 16.92974,
+        "minLng": 33.72516,
+        "maxLat": 16.9385,
+        "maxLng": 33.7335
       }
     },
     "se/gotland/visby": {
@@ -14842,6 +14887,24 @@
     ],
     "-25,87": [
       "km/moheli/fomboni"
+    ],
+    "31,64": [
+      "sd/khartoum/khartoum"
+    ],
+    "31,65": [
+      "sd/khartoum/khartoum"
+    ],
+    "33,67": [
+      "sd/river-nile/meroe"
+    ],
+    "37,63": [
+      "sd/northern/jebel-barkal"
+    ],
+    "38,74": [
+      "sd/red-sea/suakin"
+    ],
+    "39,74": [
+      "sd/red-sea/port-sudan"
     ]
   }
 }

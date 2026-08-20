@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:44:08.000Z",
-  "notes": "Comoros (km) complete. Next: Sudan (sd) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "notes": "Sudan (sd) complete. Next: Chad (td) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21404,6 +21404,111 @@
                 "minLng": 43.7378,
                 "maxLat": -12.27897,
                 "maxLng": 43.74483
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sd",
+      "countryCode": "SD",
+      "name": "Sudan",
+      "states": [
+        {
+          "id": "khartoum",
+          "stateCode": "KH",
+          "name": "Khartoum",
+          "cities": [
+            {
+              "id": "khartoum",
+              "name": "Khartoum",
+              "status": "complete",
+              "packPath": "sd/khartoum/khartoum/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:48:46.000Z",
+              "bbox": {
+                "minLat": 15.60313,
+                "minLng": 32.4853,
+                "maxLat": 15.6235,
+                "maxLng": 32.51135
+              }
+            }
+          ]
+        },
+        {
+          "id": "river-nile",
+          "stateCode": "NR",
+          "name": "River Nile",
+          "cities": [
+            {
+              "id": "meroe",
+              "name": "Meroe",
+              "status": "complete",
+              "packPath": "sd/river-nile/meroe/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:48:46.000Z",
+              "bbox": {
+                "minLat": 16.92974,
+                "minLng": 33.72516,
+                "maxLat": 16.9385,
+                "maxLng": 33.7335
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern",
+          "stateCode": "NO",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "jebel-barkal",
+              "name": "Jebel Barkal",
+              "status": "complete",
+              "packPath": "sd/northern/jebel-barkal/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:48:46.000Z",
+              "bbox": {
+                "minLat": 18.5315,
+                "minLng": 31.8245,
+                "maxLat": 18.53942,
+                "maxLng": 31.833
+              }
+            }
+          ]
+        },
+        {
+          "id": "red-sea",
+          "stateCode": "RS",
+          "name": "Red Sea",
+          "cities": [
+            {
+              "id": "suakin",
+              "name": "Suakin",
+              "status": "complete",
+              "packPath": "sd/red-sea/suakin/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:48:46.000Z",
+              "bbox": {
+                "minLat": 19.09887,
+                "minLng": 37.32559,
+                "maxLat": 19.11967,
+                "maxLng": 37.33633
+              }
+            },
+            {
+              "id": "port-sudan",
+              "name": "Port Sudan",
+              "status": "complete",
+              "packPath": "sd/red-sea/port-sudan/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:48:46.000Z",
+              "bbox": {
+                "minLat": 19.61111,
+                "minLng": 37.21114,
+                "maxLat": 19.6195,
+                "maxLng": 37.22
               }
             }
           ]

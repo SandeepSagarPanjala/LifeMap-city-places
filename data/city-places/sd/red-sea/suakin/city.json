@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sd/red-sea/suakin",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "stateCode": "RS",
+  "stateName": "Red Sea",
+  "cityName": "Suakin",
+  "bbox": {
+    "minLat": 19.09887,
+    "minLng": 37.32559,
+    "maxLat": 19.11967,
+    "maxLng": 37.33633
+  },
+  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "suakin",
+      "name": "Suakin",
+      "lat": 19.10187,
+      "lng": 37.32859,
+      "radiusM": 100,
+      "address": "Red Sea",
+      "howTo": "Visit historic Suakin.",
+      "badge": "badges/suakin.png"
+    },
+    {
+      "id": "suakin-island",
+      "name": "Suakin Island",
+      "lat": 19.11667,
+      "lng": 37.33333,
+      "radiusM": 120,
+      "address": "Red Sea",
+      "howTo": "Visit Suakin Island.",
+      "badge": "badges/suakin-island.png"
+    }
+  ]
+}

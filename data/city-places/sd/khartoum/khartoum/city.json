@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sd/khartoum/khartoum",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "stateCode": "KH",
+  "stateName": "Khartoum",
+  "cityName": "Khartoum",
+  "bbox": {
+    "minLat": 15.60313,
+    "minLng": 32.4853,
+    "maxLat": 15.6235,
+    "maxLng": 32.51135
+  },
+  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "national-museum",
+      "name": "Sudan National Museum",
+      "lat": 15.60613,
+      "lng": 32.50835,
+      "radiusM": 60,
+      "address": "Khartoum",
+      "howTo": "Visit the Sudan National Museum.",
+      "badge": "badges/national-museum.png"
+    },
+    {
+      "id": "nilein-mosque",
+      "name": "Al-Nilein Mosque",
+      "lat": 15.6205,
+      "lng": 32.4883,
+      "radiusM": 50,
+      "address": "Omdurman",
+      "howTo": "Visit Al-Nilein Mosque.",
+      "badge": "badges/nilein-mosque.png"
+    }
+  ]
+}
