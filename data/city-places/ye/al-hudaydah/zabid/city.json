@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ye/al-hudaydah/zabid",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "stateCode": "HU",
+  "stateName": "Al Hudaydah",
+  "cityName": "Zabid",
+  "bbox": {
+    "minLat": 14.1923,
+    "minLng": 43.31215,
+    "maxLat": 14.2005,
+    "maxLng": 43.32
+  },
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zabid",
+      "name": "Zabid",
+      "lat": 14.1953,
+      "lng": 43.31515,
+      "radiusM": 80,
+      "address": "Zabid",
+      "howTo": "Visit historic Zabid.",
+      "badge": "badges/zabid.png"
+    },
+    {
+      "id": "zabid-old-town",
+      "name": "Zabid Old Town",
+      "lat": 14.1975,
+      "lng": 43.317,
+      "radiusM": 80,
+      "address": "Zabid",
+      "howTo": "Visit the Zabid old town.",
+      "badge": "badges/zabid-old-town.png"
+    }
+  ]
+}

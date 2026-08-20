@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ye/sanaa/sanaa",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "stateCode": "SA",
+  "stateName": "Sana'a",
+  "cityName": "Sana'a",
+  "bbox": {
+    "minLat": 15.3227,
+    "minLng": 44.20473,
+    "maxLat": 15.35613,
+    "maxLng": 44.21817
+  },
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "great-mosque",
+      "name": "Great Mosque of Sana'a",
+      "lat": 15.35313,
+      "lng": 44.21517,
+      "radiusM": 50,
+      "address": "Old Sana'a",
+      "howTo": "Visit the Great Mosque of Sana'a.",
+      "badge": "badges/great-mosque.png"
+    },
+    {
+      "id": "al-saleh",
+      "name": "Al-Saleh Mosque",
+      "lat": 15.3257,
+      "lng": 44.20773,
+      "radiusM": 60,
+      "address": "Sana'a",
+      "howTo": "Visit Al-Saleh Mosque.",
+      "badge": "badges/al-saleh.png"
+    }
+  ]
+}

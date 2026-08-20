@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:25:09.000Z",
-  "notes": "Syria (sy) complete. Next: Yemen (ye) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "notes": "Yemen (ye) complete. Next: Afghanistan (af) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22258,6 +22258,111 @@
                 "minLng": 36.47868,
                 "maxLat": 32.5225,
                 "maxLng": 36.4865
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ye",
+      "countryCode": "YE",
+      "name": "Yemen",
+      "states": [
+        {
+          "id": "sanaa",
+          "stateCode": "SA",
+          "name": "Sana'a",
+          "cities": [
+            {
+              "id": "sanaa",
+              "name": "Sana'a",
+              "status": "complete",
+              "packPath": "ye/sanaa/sanaa/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:30:08.000Z",
+              "bbox": {
+                "minLat": 15.3227,
+                "minLng": 44.20473,
+                "maxLat": 15.35613,
+                "maxLng": 44.21817
+              }
+            },
+            {
+              "id": "dar-al-hajar",
+              "name": "Dar al-Hajar",
+              "status": "complete",
+              "packPath": "ye/sanaa/dar-al-hajar/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:30:08.000Z",
+              "bbox": {
+                "minLat": 15.43801,
+                "minLng": 44.12216,
+                "maxLat": 15.446,
+                "maxLng": 44.13
+              }
+            }
+          ]
+        },
+        {
+          "id": "hadhramaut",
+          "stateCode": "HD",
+          "name": "Hadhramaut",
+          "cities": [
+            {
+              "id": "shibam",
+              "name": "Shibam",
+              "status": "complete",
+              "packPath": "ye/hadhramaut/shibam/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:30:08.000Z",
+              "bbox": {
+                "minLat": 15.9237,
+                "minLng": 48.62325,
+                "maxLat": 15.9315,
+                "maxLng": 48.631
+              }
+            }
+          ]
+        },
+        {
+          "id": "aden",
+          "stateCode": "AD",
+          "name": "Aden",
+          "cities": [
+            {
+              "id": "aden",
+              "name": "Aden",
+              "status": "complete",
+              "packPath": "ye/aden/aden/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:30:08.000Z",
+              "bbox": {
+                "minLat": 12.7716,
+                "minLng": 45.02611,
+                "maxLat": 12.77998,
+                "maxLng": 45.04033
+              }
+            }
+          ]
+        },
+        {
+          "id": "al-hudaydah",
+          "stateCode": "HU",
+          "name": "Al Hudaydah",
+          "cities": [
+            {
+              "id": "zabid",
+              "name": "Zabid",
+              "status": "complete",
+              "packPath": "ye/al-hudaydah/zabid/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:30:08.000Z",
+              "bbox": {
+                "minLat": 14.1923,
+                "minLng": 43.31215,
+                "maxLat": 14.2005,
+                "maxLng": 43.32
               }
             }
           ]

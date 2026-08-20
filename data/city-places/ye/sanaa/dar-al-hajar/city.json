@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ye/sanaa/dar-al-hajar",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "stateCode": "SA",
+  "stateName": "Sana'a",
+  "cityName": "Dar al-Hajar",
+  "bbox": {
+    "minLat": 15.43801,
+    "minLng": 44.12216,
+    "maxLat": 15.446,
+    "maxLng": 44.13
+  },
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dar-al-hajar",
+      "name": "Dar al-Hajar",
+      "lat": 15.44101,
+      "lng": 44.12516,
+      "radiusM": 80,
+      "address": "Wadi Dhar",
+      "howTo": "Visit Dar al-Hajar.",
+      "badge": "badges/dar-al-hajar.png"
+    },
+    {
+      "id": "wadi-dhar",
+      "name": "Wadi Dhar",
+      "lat": 15.443,
+      "lng": 44.127,
+      "radiusM": 100,
+      "address": "Wadi Dhar",
+      "howTo": "Visit the rock valley around Dar al-Hajar.",
+      "badge": "badges/wadi-dhar.png"
+    }
+  ]
+}

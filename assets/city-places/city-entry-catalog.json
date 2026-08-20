@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:25:09.482Z",
+  "generatedAt": "2026-08-20T11:30:08.442Z",
   "cellDeg": 0.5,
-  "cityCount": 1149,
+  "cityCount": 1154,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -10246,6 +10246,51 @@
         "maxLng": 20.748
       }
     },
+    "ye/aden/aden": {
+      "name": "Aden",
+      "bbox": {
+        "minLat": 12.7716,
+        "minLng": 45.02611,
+        "maxLat": 12.77998,
+        "maxLng": 45.04033
+      }
+    },
+    "ye/al-hudaydah/zabid": {
+      "name": "Zabid",
+      "bbox": {
+        "minLat": 14.1923,
+        "minLng": 43.31215,
+        "maxLat": 14.2005,
+        "maxLng": 43.32
+      }
+    },
+    "ye/hadhramaut/shibam": {
+      "name": "Shibam",
+      "bbox": {
+        "minLat": 15.9237,
+        "minLng": 48.62325,
+        "maxLat": 15.9315,
+        "maxLng": 48.631
+      }
+    },
+    "ye/sanaa/dar-al-hajar": {
+      "name": "Dar al-Hajar",
+      "bbox": {
+        "minLat": 15.43801,
+        "minLng": 44.12216,
+        "maxLat": 15.446,
+        "maxLng": 44.13
+      }
+    },
+    "ye/sanaa/sanaa": {
+      "name": "Sana'a",
+      "bbox": {
+        "minLat": 15.3227,
+        "minLng": 44.20473,
+        "maxLat": 15.35613,
+        "maxLng": 44.21817
+      }
+    },
     "za/gauteng/johannesburg": {
       "name": "Johannesburg",
       "bbox": {
@@ -15326,6 +15371,19 @@
     ],
     "65,72": [
       "sy/daraa/bosra"
+    ],
+    "30,88": [
+      "ye/sanaa/dar-al-hajar",
+      "ye/sanaa/sanaa"
+    ],
+    "31,97": [
+      "ye/hadhramaut/shibam"
+    ],
+    "25,90": [
+      "ye/aden/aden"
+    ],
+    "28,86": [
+      "ye/al-hudaydah/zabid"
     ]
   }
 }

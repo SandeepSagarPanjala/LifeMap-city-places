@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ye/hadhramaut/shibam",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "stateCode": "HD",
+  "stateName": "Hadhramaut",
+  "cityName": "Shibam",
+  "bbox": {
+    "minLat": 15.9237,
+    "minLng": 48.62325,
+    "maxLat": 15.9315,
+    "maxLng": 48.631
+  },
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shibam",
+      "name": "Shibam",
+      "lat": 15.9267,
+      "lng": 48.62625,
+      "radiusM": 100,
+      "address": "Hadhramaut",
+      "howTo": "Visit Shibam.",
+      "badge": "badges/shibam.png"
+    },
+    {
+      "id": "shibam-towers",
+      "name": "Shibam Towers",
+      "lat": 15.9285,
+      "lng": 48.628,
+      "radiusM": 80,
+      "address": "Hadhramaut",
+      "howTo": "Visit the mud-brick tower houses of Shibam.",
+      "badge": "badges/shibam-towers.png"
+    }
+  ]
+}

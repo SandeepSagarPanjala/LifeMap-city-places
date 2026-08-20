@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ye/aden/aden",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "stateCode": "AD",
+  "stateName": "Aden",
+  "cityName": "Aden",
+  "bbox": {
+    "minLat": 12.7716,
+    "minLng": 45.02611,
+    "maxLat": 12.77998,
+    "maxLng": 45.04033
+  },
+  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aden-crater",
+      "name": "Aden Crater",
+      "lat": 12.77698,
+      "lng": 45.03733,
+      "radiusM": 150,
+      "address": "Crater",
+      "howTo": "Visit the Aden Crater district landscape.",
+      "badge": "badges/aden-crater.png"
+    },
+    {
+      "id": "tawila-tanks",
+      "name": "Cisterns of Tawila",
+      "lat": 12.7746,
+      "lng": 45.02911,
+      "radiusM": 80,
+      "address": "Aden",
+      "howTo": "Visit the Cisterns of Tawila.",
+      "badge": "badges/tawila-tanks.png"
+    }
+  ]
+}
