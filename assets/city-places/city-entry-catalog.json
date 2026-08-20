@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:09:13.309Z",
+  "generatedAt": "2026-08-20T11:14:17.007Z",
   "cellDeg": 0.5,
-  "cityCount": 1134,
+  "cityCount": 1139,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -4430,6 +4430,51 @@
         "minLng": 88.3,
         "maxLat": 22.6,
         "maxLng": 88.4
+      }
+    },
+    "iq/babylon/babylon": {
+      "name": "Babylon",
+      "bbox": {
+        "minLat": 32.53847,
+        "minLng": 44.42097,
+        "maxLat": 32.54771,
+        "maxLng": 44.43481
+      }
+    },
+    "iq/dhi-qar/ur": {
+      "name": "Ur",
+      "bbox": {
+        "minLat": 30.95978,
+        "minLng": 46.10014,
+        "maxLat": 30.968,
+        "maxLng": 46.108
+      }
+    },
+    "iq/erbil/erbil": {
+      "name": "Erbil",
+      "bbox": {
+        "minLat": 36.18461,
+        "minLng": 43.99698,
+        "maxLat": 36.19443,
+        "maxLng": 44.01227
+      }
+    },
+    "iq/nineveh/hatra": {
+      "name": "Hatra",
+      "bbox": {
+        "minLat": 35.58491,
+        "minLng": 42.7146,
+        "maxLat": 35.593,
+        "maxLng": 42.723
+      }
+    },
+    "iq/salah-ad-din/samarra": {
+      "name": "Samarra",
+      "bbox": {
+        "minLat": 34.20277,
+        "minLng": 43.87691,
+        "maxLat": 34.20922,
+        "maxLng": 43.88369
       }
     },
     "is/east/jokulsarlon": {
@@ -15142,6 +15187,24 @@
     ],
     "13,59": [
       "ss/lakes/rumbek"
+    ],
+    "72,87": [
+      "iq/erbil/erbil"
+    ],
+    "72,88": [
+      "iq/erbil/erbil"
+    ],
+    "65,88": [
+      "iq/babylon/babylon"
+    ],
+    "68,87": [
+      "iq/salah-ad-din/samarra"
+    ],
+    "61,92": [
+      "iq/dhi-qar/ur"
+    ],
+    "71,85": [
+      "iq/nineveh/hatra"
     ]
   }
 }

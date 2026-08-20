@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:09:13.000Z",
-  "notes": "South Sudan (ss) complete. Next: Iraq (iq) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "notes": "Iraq (iq) complete. Next: Jordan (jo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21936,6 +21936,118 @@
                 "minLng": 29.67375,
                 "maxLat": 6.812,
                 "maxLng": 29.682
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iq",
+      "countryCode": "IQ",
+      "name": "Iraq",
+      "states": [
+        {
+          "id": "erbil",
+          "stateCode": "AR",
+          "name": "Erbil",
+          "cities": [
+            {
+              "id": "erbil",
+              "name": "Erbil",
+              "status": "complete",
+              "packPath": "iq/erbil/erbil/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:14:16.000Z",
+              "bbox": {
+                "minLat": 36.18461,
+                "minLng": 43.99698,
+                "maxLat": 36.19443,
+                "maxLng": 44.01227
+              }
+            }
+          ]
+        },
+        {
+          "id": "babylon",
+          "stateCode": "BB",
+          "name": "Babylon",
+          "cities": [
+            {
+              "id": "babylon",
+              "name": "Babylon",
+              "status": "complete",
+              "packPath": "iq/babylon/babylon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:14:16.000Z",
+              "bbox": {
+                "minLat": 32.53847,
+                "minLng": 44.42097,
+                "maxLat": 32.54771,
+                "maxLng": 44.43481
+              }
+            }
+          ]
+        },
+        {
+          "id": "salah-ad-din",
+          "stateCode": "SD",
+          "name": "Salah ad Din",
+          "cities": [
+            {
+              "id": "samarra",
+              "name": "Samarra",
+              "status": "complete",
+              "packPath": "iq/salah-ad-din/samarra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:14:16.000Z",
+              "bbox": {
+                "minLat": 34.20277,
+                "minLng": 43.87691,
+                "maxLat": 34.20922,
+                "maxLng": 43.88369
+              }
+            }
+          ]
+        },
+        {
+          "id": "dhi-qar",
+          "stateCode": "DQ",
+          "name": "Dhi Qar",
+          "cities": [
+            {
+              "id": "ur",
+              "name": "Ur",
+              "status": "complete",
+              "packPath": "iq/dhi-qar/ur/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:14:16.000Z",
+              "bbox": {
+                "minLat": 30.95978,
+                "minLng": 46.10014,
+                "maxLat": 30.968,
+                "maxLng": 46.108
+              }
+            }
+          ]
+        },
+        {
+          "id": "nineveh",
+          "stateCode": "NI",
+          "name": "Nineveh",
+          "cities": [
+            {
+              "id": "hatra",
+              "name": "Hatra",
+              "status": "complete",
+              "packPath": "iq/nineveh/hatra/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:14:16.000Z",
+              "bbox": {
+                "minLat": 35.58491,
+                "minLng": 42.7146,
+                "maxLat": 35.593,
+                "maxLng": 42.723
               }
             }
           ]

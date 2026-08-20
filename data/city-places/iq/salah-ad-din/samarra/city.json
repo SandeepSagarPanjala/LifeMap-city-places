@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "iq/salah-ad-din/samarra",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "stateCode": "SD",
+  "stateName": "Salah ad Din",
+  "cityName": "Samarra",
+  "bbox": {
+    "minLat": 34.20277,
+    "minLng": 43.87691,
+    "maxLat": 34.20922,
+    "maxLng": 43.88369
+  },
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "great-mosque",
+      "name": "Great Mosque of Samarra",
+      "lat": 34.20622,
+      "lng": 43.87991,
+      "radiusM": 80,
+      "address": "Samarra",
+      "howTo": "Visit the Great Mosque of Samarra.",
+      "badge": "badges/great-mosque.png"
+    },
+    {
+      "id": "malwiya",
+      "name": "Malwiya Minaret",
+      "lat": 34.20577,
+      "lng": 43.88069,
+      "radiusM": 60,
+      "address": "Samarra",
+      "howTo": "Visit the Malwiya spiral minaret.",
+      "badge": "badges/malwiya.png"
+    }
+  ]
+}

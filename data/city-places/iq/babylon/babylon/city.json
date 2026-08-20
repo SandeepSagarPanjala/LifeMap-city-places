@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "iq/babylon/babylon",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "stateCode": "BB",
+  "stateName": "Babylon",
+  "cityName": "Babylon",
+  "bbox": {
+    "minLat": 32.53847,
+    "minLng": 44.42097,
+    "maxLat": 32.54771,
+    "maxLng": 44.43481
+  },
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "babylon",
+      "name": "Babylon",
+      "lat": 32.54471,
+      "lng": 44.43181,
+      "radiusM": 150,
+      "address": "Hillah",
+      "howTo": "Visit ancient Babylon.",
+      "badge": "badges/babylon.png"
+    },
+    {
+      "id": "ishtar-gate",
+      "name": "Ishtar Gate",
+      "lat": 32.54147,
+      "lng": 44.42397,
+      "radiusM": 60,
+      "address": "Hillah",
+      "howTo": "Visit the Ishtar Gate at Babylon.",
+      "badge": "badges/ishtar-gate.png"
+    }
+  ]
+}

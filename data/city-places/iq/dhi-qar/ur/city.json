@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "iq/dhi-qar/ur",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "stateCode": "DQ",
+  "stateName": "Dhi Qar",
+  "cityName": "Ur",
+  "bbox": {
+    "minLat": 30.95978,
+    "minLng": 46.10014,
+    "maxLat": 30.968,
+    "maxLng": 46.108
+  },
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ziggurat-ur",
+      "name": "Ziggurat of Ur",
+      "lat": 30.96278,
+      "lng": 46.10314,
+      "radiusM": 100,
+      "address": "Nasiriyah",
+      "howTo": "Visit the Ziggurat of Ur.",
+      "badge": "badges/ziggurat-ur.png"
+    },
+    {
+      "id": "ur-grounds",
+      "name": "Ur Grounds",
+      "lat": 30.965,
+      "lng": 46.105,
+      "radiusM": 100,
+      "address": "Nasiriyah",
+      "howTo": "Explore the archaeological grounds of Ur.",
+      "badge": "badges/ur-grounds.png"
+    }
+  ]
+}

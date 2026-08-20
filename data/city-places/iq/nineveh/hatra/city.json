@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "iq/nineveh/hatra",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "stateCode": "NI",
+  "stateName": "Nineveh",
+  "cityName": "Hatra",
+  "bbox": {
+    "minLat": 35.58491,
+    "minLng": 42.7146,
+    "maxLat": 35.593,
+    "maxLng": 42.723
+  },
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hatra",
+      "name": "Hatra",
+      "lat": 35.58791,
+      "lng": 42.7176,
+      "radiusM": 150,
+      "address": "Nineveh",
+      "howTo": "Visit Hatra.",
+      "badge": "badges/hatra.png"
+    },
+    {
+      "id": "hatra-temple",
+      "name": "Hatra Temple Ruins",
+      "lat": 35.59,
+      "lng": 42.72,
+      "radiusM": 120,
+      "address": "Nineveh",
+      "howTo": "Visit the temple ruins at Hatra.",
+      "badge": "badges/hatra-temple.png"
+    }
+  ]
+}

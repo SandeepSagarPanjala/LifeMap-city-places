@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "iq/erbil/erbil",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "stateCode": "AR",
+  "stateName": "Erbil",
+  "cityName": "Erbil",
+  "bbox": {
+    "minLat": 36.18461,
+    "minLng": 43.99698,
+    "maxLat": 36.19443,
+    "maxLng": 44.01227
+  },
+  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "erbil-citadel",
+      "name": "Erbil Citadel",
+      "lat": 36.19143,
+      "lng": 44.00927,
+      "radiusM": 80,
+      "address": "Erbil",
+      "howTo": "Visit Erbil Citadel.",
+      "badge": "badges/erbil-citadel.png"
+    },
+    {
+      "id": "choli-minaret",
+      "name": "Choli Minaret",
+      "lat": 36.18761,
+      "lng": 43.99998,
+      "radiusM": 50,
+      "address": "Erbil",
+      "howTo": "Visit the Choli Minaret.",
+      "badge": "badges/choli-minaret.png"
+    }
+  ]
+}
