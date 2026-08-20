@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:12:30.737Z",
+  "generatedAt": "2026-08-20T12:17:14.996Z",
   "cellDeg": 0.5,
-  "cityCount": 1189,
+  "cityCount": 1194,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -875,6 +875,51 @@
         "minLng": 1.991,
         "maxLat": 7.191,
         "maxLng": 1.998
+      }
+    },
+    "bn/belait/seria": {
+      "name": "Seria",
+      "bbox": {
+        "minLat": 4.6095,
+        "minLng": 114.31415,
+        "maxLat": 4.61978,
+        "maxLng": 114.328
+      }
+    },
+    "bn/brunei-muara/bandar-seri-begawan": {
+      "name": "Bandar Seri Begawan",
+      "bbox": {
+        "minLat": 4.8795,
+        "minLng": 114.9362,
+        "maxLat": 4.8924,
+        "maxLng": 114.9455
+      }
+    },
+    "bn/brunei-muara/kiarong": {
+      "name": "Kiarong",
+      "bbox": {
+        "minLat": 4.86903,
+        "minLng": 114.91776,
+        "maxLat": 4.9027,
+        "maxLng": 114.9285
+      }
+    },
+    "bn/temburong/temburong": {
+      "name": "Temburong",
+      "bbox": {
+        "minLat": 4.475,
+        "minLng": 115.2047,
+        "maxLat": 4.483,
+        "maxLng": 115.213
+      }
+    },
+    "bn/tutong/tutong": {
+      "name": "Tutong",
+      "bbox": {
+        "minLat": 4.59098,
+        "minLng": 114.67409,
+        "maxLat": 4.5985,
+        "maxLng": 114.6815
       }
     },
     "bo/chuquisaca/sucre": {
@@ -15807,6 +15852,17 @@
     ],
     "41,193": [
       "mm/shan/inle"
+    ],
+    "9,229": [
+      "bn/brunei-muara/bandar-seri-begawan",
+      "bn/brunei-muara/kiarong",
+      "bn/tutong/tutong"
+    ],
+    "8,230": [
+      "bn/temburong/temburong"
+    ],
+    "9,228": [
+      "bn/belait/seria"
     ]
   }
 }

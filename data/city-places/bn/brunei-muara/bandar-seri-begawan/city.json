@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bn/brunei-muara/bandar-seri-begawan",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "stateCode": "BM",
+  "stateName": "Brunei-Muara",
+  "cityName": "Bandar Seri Begawan",
+  "bbox": {
+    "minLat": 4.8795,
+    "minLng": 114.9362,
+    "maxLat": 4.8924,
+    "maxLng": 114.9455
+  },
+  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "omar-ali-saifuddien-mosque",
+      "name": "Omar Ali Saifuddien Mosque",
+      "lat": 4.8894,
+      "lng": 114.9392,
+      "address": "Bandar Seri Begawan",
+      "howTo": "Visit Omar Ali Saifuddien Mosque.",
+      "radiusM": 80,
+      "badge": "badges/omar-ali-saifuddien-mosque.png"
+    },
+    {
+      "id": "kampong-ayer",
+      "name": "Kampong Ayer",
+      "lat": 4.8825,
+      "lng": 114.9425,
+      "address": "Bandar Seri Begawan",
+      "howTo": "Visit Kampong Ayer water village.",
+      "radiusM": 80,
+      "badge": "badges/kampong-ayer.png"
+    }
+  ]
+}

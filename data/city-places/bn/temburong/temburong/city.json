@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bn/temburong/temburong",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "stateCode": "TU",
+  "stateName": "Temburong",
+  "cityName": "Temburong",
+  "bbox": {
+    "minLat": 4.475,
+    "minLng": 115.2047,
+    "maxLat": 4.483,
+    "maxLng": 115.213
+  },
+  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ulu-temburong",
+      "name": "Ulu Temburong National Park",
+      "lat": 4.478,
+      "lng": 115.2077,
+      "address": "Temburong",
+      "howTo": "Visit Ulu Temburong National Park.",
+      "radiusM": 80,
+      "badge": "badges/ulu-temburong.png"
+    },
+    {
+      "id": "temburong-canopy-walk",
+      "name": "Temburong Canopy Walk",
+      "lat": 4.48,
+      "lng": 115.21,
+      "address": "Temburong",
+      "howTo": "Walk the rainforest canopy walkway.",
+      "radiusM": 80,
+      "badge": "badges/temburong-canopy-walk.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bn/brunei-muara/kiarong",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "stateCode": "BM",
+  "stateName": "Brunei-Muara",
+  "cityName": "Kiarong",
+  "bbox": {
+    "minLat": 4.86903,
+    "minLng": 114.91776,
+    "maxLat": 4.9027,
+    "maxLng": 114.9285
+  },
+  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jame-asr-mosque",
+      "name": "Jame' Asr Hassanil Bolkiah Mosque",
+      "lat": 4.8997,
+      "lng": 114.9255,
+      "address": "Kiarong",
+      "howTo": "Visit Jame' Asr Hassanil Bolkiah Mosque.",
+      "radiusM": 80,
+      "badge": "badges/jame-asr-mosque.png"
+    },
+    {
+      "id": "istana-nurul-iman",
+      "name": "Istana Nurul Iman",
+      "lat": 4.872031,
+      "lng": 114.920756,
+      "address": "Bandar Seri Begawan",
+      "howTo": "View Istana Nurul Iman from public vantage points.",
+      "radiusM": 80,
+      "badge": "badges/istana-nurul-iman.png"
+    }
+  ]
+}

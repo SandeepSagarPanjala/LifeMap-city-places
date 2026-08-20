@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bn/belait/seria",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "stateCode": "BE",
+  "stateName": "Belait",
+  "cityName": "Seria",
+  "bbox": {
+    "minLat": 4.6095,
+    "minLng": 114.31415,
+    "maxLat": 4.61978,
+    "maxLng": 114.328
+  },
+  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "billionth-barrel-monument",
+      "name": "Billionth Barrel Monument",
+      "lat": 4.61678,
+      "lng": 114.31715,
+      "address": "Seria",
+      "howTo": "Visit the Billionth Barrel Monument.",
+      "radiusM": 80,
+      "badge": "badges/billionth-barrel-monument.png"
+    },
+    {
+      "id": "seria-beach",
+      "name": "Seria Beach",
+      "lat": 4.6125,
+      "lng": 114.325,
+      "address": "Seria",
+      "howTo": "Visit Seria Beach.",
+      "radiusM": 80,
+      "badge": "badges/seria-beach.png"
+    }
+  ]
+}

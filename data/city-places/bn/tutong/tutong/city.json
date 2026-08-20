@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bn/tutong/tutong",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "stateCode": "TE",
+  "stateName": "Tutong",
+  "cityName": "Tutong",
+  "bbox": {
+    "minLat": 4.59098,
+    "minLng": 114.67409,
+    "maxLat": 4.5985,
+    "maxLng": 114.6815
+  },
+  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tasek-merimbun",
+      "name": "Tasek Merimbun",
+      "lat": 4.593975,
+      "lng": 114.677094,
+      "address": "Tutong",
+      "howTo": "Visit Tasek Merimbun Heritage Park.",
+      "radiusM": 80,
+      "badge": "badges/tasek-merimbun.png"
+    },
+    {
+      "id": "merimbun-lake",
+      "name": "Merimbun Lake",
+      "lat": 4.5955,
+      "lng": 114.6785,
+      "address": "Tutong",
+      "howTo": "Overlook Merimbun Lake.",
+      "radiusM": 80,
+      "badge": "badges/merimbun-lake.png"
+    }
+  ]
+}

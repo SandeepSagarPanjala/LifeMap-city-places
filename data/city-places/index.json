@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:12:30.000Z",
-  "notes": "Myanmar (mm) complete. Next: Brunei (bn). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:17:14.000Z",
+  "notes": "Brunei (bn) complete. Next: Timor-Leste (tl). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23112,6 +23112,111 @@
                 "minLng": 96.9065,
                 "maxLat": 20.553,
                 "maxLng": 96.91967
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bn",
+      "countryCode": "BN",
+      "name": "Brunei",
+      "states": [
+        {
+          "id": "brunei-muara",
+          "stateCode": "BM",
+          "name": "Brunei-Muara",
+          "cities": [
+            {
+              "id": "bandar-seri-begawan",
+              "name": "Bandar Seri Begawan",
+              "status": "complete",
+              "packPath": "bn/brunei-muara/bandar-seri-begawan/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:17:14.000Z",
+              "bbox": {
+                "minLat": 4.8795,
+                "minLng": 114.9362,
+                "maxLat": 4.8924,
+                "maxLng": 114.9455
+              }
+            },
+            {
+              "id": "kiarong",
+              "name": "Kiarong",
+              "status": "complete",
+              "packPath": "bn/brunei-muara/kiarong/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:17:14.000Z",
+              "bbox": {
+                "minLat": 4.86903,
+                "minLng": 114.91776,
+                "maxLat": 4.9027,
+                "maxLng": 114.9285
+              }
+            }
+          ]
+        },
+        {
+          "id": "tutong",
+          "stateCode": "TE",
+          "name": "Tutong",
+          "cities": [
+            {
+              "id": "tutong",
+              "name": "Tutong",
+              "status": "complete",
+              "packPath": "bn/tutong/tutong/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:17:14.000Z",
+              "bbox": {
+                "minLat": 4.59098,
+                "minLng": 114.67409,
+                "maxLat": 4.5985,
+                "maxLng": 114.6815
+              }
+            }
+          ]
+        },
+        {
+          "id": "temburong",
+          "stateCode": "TU",
+          "name": "Temburong",
+          "cities": [
+            {
+              "id": "temburong",
+              "name": "Temburong",
+              "status": "complete",
+              "packPath": "bn/temburong/temburong/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:17:14.000Z",
+              "bbox": {
+                "minLat": 4.475,
+                "minLng": 115.2047,
+                "maxLat": 4.483,
+                "maxLng": 115.213
+              }
+            }
+          ]
+        },
+        {
+          "id": "belait",
+          "stateCode": "BE",
+          "name": "Belait",
+          "cities": [
+            {
+              "id": "seria",
+              "name": "Seria",
+              "status": "complete",
+              "packPath": "bn/belait/seria/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:17:14.000Z",
+              "bbox": {
+                "minLat": 4.6095,
+                "minLng": 114.31415,
+                "maxLat": 4.61978,
+                "maxLng": 114.328
               }
             }
           ]
