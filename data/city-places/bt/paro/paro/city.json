@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bt/paro/paro",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "stateCode": "11",
+  "stateName": "Paro",
+  "cityName": "Paro",
+  "bbox": {
+    "minLat": 27.42367,
+    "minLng": 89.36049,
+    "maxLat": 27.49491,
+    "maxLng": 89.4263
+  },
+  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "paro-taktsang",
+      "name": "Paro Taktsang",
+      "lat": 27.491911,
+      "lng": 89.363489,
+      "address": "Paro",
+      "howTo": "Hike to Paro Taktsang (Tiger's Nest).",
+      "radiusM": 80,
+      "badge": "badges/paro-taktsang.png"
+    },
+    {
+      "id": "rinpung-dzong",
+      "name": "Rinpung Dzong",
+      "lat": 27.426667,
+      "lng": 89.423303,
+      "address": "Paro",
+      "howTo": "Visit Rinpung Dzong.",
+      "radiusM": 80,
+      "badge": "badges/rinpung-dzong.png"
+    }
+  ]
+}

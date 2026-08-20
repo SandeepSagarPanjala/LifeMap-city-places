@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:51:24.000Z",
-  "notes": "Palestine (ps) complete. Next: Bhutan (bt). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:57:37.000Z",
+  "notes": "Bhutan (bt) complete. Next: Maldives (mv). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22790,6 +22790,111 @@
                 "minLng": 35.19283,
                 "maxLat": 32.2805,
                 "maxLng": 35.1995
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bt",
+      "countryCode": "BT",
+      "name": "Bhutan",
+      "states": [
+        {
+          "id": "paro",
+          "stateCode": "11",
+          "name": "Paro",
+          "cities": [
+            {
+              "id": "paro",
+              "name": "Paro",
+              "status": "complete",
+              "packPath": "bt/paro/paro/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:57:37.000Z",
+              "bbox": {
+                "minLat": 27.42367,
+                "minLng": 89.36049,
+                "maxLat": 27.49491,
+                "maxLng": 89.4263
+              }
+            }
+          ]
+        },
+        {
+          "id": "thimphu",
+          "stateCode": "15",
+          "name": "Thimphu",
+          "cities": [
+            {
+              "id": "thimphu",
+              "name": "Thimphu",
+              "status": "complete",
+              "packPath": "bt/thimphu/thimphu/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:57:37.000Z",
+              "bbox": {
+                "minLat": 27.46339,
+                "minLng": 89.632,
+                "maxLat": 27.49244,
+                "maxLng": 89.64078
+              }
+            },
+            {
+              "id": "dochula",
+              "name": "Dochula",
+              "status": "complete",
+              "packPath": "bt/thimphu/dochula/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:57:37.000Z",
+              "bbox": {
+                "minLat": 27.487,
+                "minLng": 89.74728,
+                "maxLat": 27.4945,
+                "maxLng": 89.7545
+              }
+            }
+          ]
+        },
+        {
+          "id": "punakha",
+          "stateCode": "23",
+          "name": "Punakha",
+          "cities": [
+            {
+              "id": "punakha",
+              "name": "Punakha",
+              "status": "complete",
+              "packPath": "bt/punakha/punakha/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:57:37.000Z",
+              "bbox": {
+                "minLat": 27.524,
+                "minLng": 89.86006,
+                "maxLat": 27.58494,
+                "maxLng": 89.8812
+              }
+            }
+          ]
+        },
+        {
+          "id": "wangdue",
+          "stateCode": "24",
+          "name": "Wangdue Phodrang",
+          "cities": [
+            {
+              "id": "phobjikha",
+              "name": "Phobjikha",
+              "status": "complete",
+              "packPath": "bt/wangdue/phobjikha/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:57:37.000Z",
+              "bbox": {
+                "minLat": 27.449,
+                "minLng": 90.16367,
+                "maxLat": 27.503,
+                "maxLng": 90.203
               }
             }
           ]

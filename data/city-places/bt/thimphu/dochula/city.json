@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bt/thimphu/dochula",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "stateCode": "15",
+  "stateName": "Thimphu",
+  "cityName": "Dochula",
+  "bbox": {
+    "minLat": 27.487,
+    "minLng": 89.74728,
+    "maxLat": 27.4945,
+    "maxLng": 89.7545
+  },
+  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "dochula-pass",
+      "name": "Dochula Pass",
+      "lat": 27.49,
+      "lng": 89.750278,
+      "address": "Dochula",
+      "howTo": "Visit Dochula Pass.",
+      "radiusM": 80,
+      "badge": "badges/dochula-pass.png"
+    },
+    {
+      "id": "druk-wangyal-chortens",
+      "name": "Druk Wangyal Chortens",
+      "lat": 27.4915,
+      "lng": 89.7515,
+      "address": "Dochula",
+      "howTo": "Visit the 108 Druk Wangyal chortens.",
+      "radiusM": 80,
+      "badge": "badges/druk-wangyal-chortens.png"
+    }
+  ]
+}

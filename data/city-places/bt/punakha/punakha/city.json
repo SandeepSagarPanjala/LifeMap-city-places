@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bt/punakha/punakha",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "stateCode": "23",
+  "stateName": "Punakha",
+  "cityName": "Punakha",
+  "bbox": {
+    "minLat": 27.524,
+    "minLng": 89.86006,
+    "maxLat": 27.58494,
+    "maxLng": 89.8812
+  },
+  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "punakha-dzong",
+      "name": "Punakha Dzong",
+      "lat": 27.581944,
+      "lng": 89.863056,
+      "address": "Punakha",
+      "howTo": "Visit Punakha Dzong.",
+      "radiusM": 80,
+      "badge": "badges/punakha-dzong.png"
+    },
+    {
+      "id": "chimi-lhakhang",
+      "name": "Chimi Lhakhang",
+      "lat": 27.527,
+      "lng": 89.8782,
+      "address": "Punakha",
+      "howTo": "Visit Chimi Lhakhang.",
+      "radiusM": 80,
+      "badge": "badges/chimi-lhakhang.png"
+    }
+  ]
+}

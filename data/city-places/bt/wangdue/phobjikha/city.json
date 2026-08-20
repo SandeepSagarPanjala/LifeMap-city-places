@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bt/wangdue/phobjikha",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "stateCode": "24",
+  "stateName": "Wangdue Phodrang",
+  "cityName": "Phobjikha",
+  "bbox": {
+    "minLat": 27.449,
+    "minLng": 90.16367,
+    "maxLat": 27.503,
+    "maxLng": 90.203
+  },
+  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gangteng-monastery",
+      "name": "Gangteng Monastery",
+      "lat": 27.5,
+      "lng": 90.166667,
+      "address": "Phobjikha",
+      "howTo": "Visit Gangteng Monastery.",
+      "radiusM": 80,
+      "badge": "badges/gangteng-monastery.png"
+    },
+    {
+      "id": "phobjikha-valley",
+      "name": "Phobjikha Valley",
+      "lat": 27.452,
+      "lng": 90.2,
+      "address": "Phobjikha",
+      "howTo": "Overlook Phobjikha Valley.",
+      "radiusM": 80,
+      "badge": "badges/phobjikha-valley.png"
+    }
+  ]
+}

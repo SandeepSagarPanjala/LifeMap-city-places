@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:51:24.718Z",
+  "generatedAt": "2026-08-20T11:57:37.598Z",
   "cellDeg": 0.5,
-  "cityCount": 1174,
+  "cityCount": 1179,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -1019,6 +1019,51 @@
         "minLng": -46.68,
         "maxLat": -23.52,
         "maxLng": -46.62
+      }
+    },
+    "bt/paro/paro": {
+      "name": "Paro",
+      "bbox": {
+        "minLat": 27.42367,
+        "minLng": 89.36049,
+        "maxLat": 27.49491,
+        "maxLng": 89.4263
+      }
+    },
+    "bt/punakha/punakha": {
+      "name": "Punakha",
+      "bbox": {
+        "minLat": 27.524,
+        "minLng": 89.86006,
+        "maxLat": 27.58494,
+        "maxLng": 89.8812
+      }
+    },
+    "bt/thimphu/dochula": {
+      "name": "Dochula",
+      "bbox": {
+        "minLat": 27.487,
+        "minLng": 89.74728,
+        "maxLat": 27.4945,
+        "maxLng": 89.7545
+      }
+    },
+    "bt/thimphu/thimphu": {
+      "name": "Thimphu",
+      "bbox": {
+        "minLat": 27.46339,
+        "minLng": 89.632,
+        "maxLat": 27.49244,
+        "maxLng": 89.64078
+      }
+    },
+    "bt/wangdue/phobjikha": {
+      "name": "Phobjikha",
+      "bbox": {
+        "minLat": 27.449,
+        "minLng": 90.16367,
+        "maxLat": 27.503,
+        "maxLng": 90.203
       }
     },
     "bw/central/makgadikgadi": {
@@ -15623,6 +15668,22 @@
     "64,70": [
       "ps/nablus/nablus",
       "ps/nablus/sebastia"
+    ],
+    "54,178": [
+      "bt/paro/paro"
+    ],
+    "54,179": [
+      "bt/thimphu/dochula",
+      "bt/thimphu/thimphu"
+    ],
+    "55,179": [
+      "bt/punakha/punakha"
+    ],
+    "54,180": [
+      "bt/wangdue/phobjikha"
+    ],
+    "55,180": [
+      "bt/wangdue/phobjikha"
     ]
   }
 }

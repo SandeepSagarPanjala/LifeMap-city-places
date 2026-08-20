@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bt/thimphu/thimphu",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "stateCode": "15",
+  "stateName": "Thimphu",
+  "cityName": "Thimphu",
+  "bbox": {
+    "minLat": 27.46339,
+    "minLng": 89.632,
+    "maxLat": 27.49244,
+    "maxLng": 89.64078
+  },
+  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tashichho-dzong",
+      "name": "Tashichho Dzong",
+      "lat": 27.489444,
+      "lng": 89.635,
+      "address": "Thimphu",
+      "howTo": "Visit Tashichho Dzong.",
+      "radiusM": 80,
+      "badge": "badges/tashichho-dzong.png"
+    },
+    {
+      "id": "memorial-chorten",
+      "name": "Memorial Chorten",
+      "lat": 27.466389,
+      "lng": 89.637778,
+      "address": "Thimphu",
+      "howTo": "Visit the National Memorial Chorten.",
+      "radiusM": 80,
+      "badge": "badges/memorial-chorten.png"
+    }
+  ]
+}
