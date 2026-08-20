@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vu/shefa/port-vila",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "stateCode": "SEE",
+  "stateName": "Shefa",
+  "cityName": "Port Vila",
+  "bbox": {
+    "minLat": -17.73633,
+    "minLng": 168.262,
+    "maxLat": -17.677,
+    "maxLng": 168.31967
+  },
+  "updatedAt": "2026-08-20T12:34:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mele-cascades",
+      "name": "Mele Cascades",
+      "lat": -17.68,
+      "lng": 168.265,
+      "address": "Port Vila",
+      "howTo": "Visit Mele Cascades.",
+      "radiusM": 80,
+      "badge": "badges/mele-cascades.png"
+    },
+    {
+      "id": "port-vila-harbour",
+      "name": "Port Vila Harbour",
+      "lat": -17.733333,
+      "lng": 168.316667,
+      "address": "Port Vila",
+      "howTo": "Overlook Port Vila Harbour.",
+      "radiusM": 80,
+      "badge": "badges/port-vila-harbour.png"
+    }
+  ]
+}

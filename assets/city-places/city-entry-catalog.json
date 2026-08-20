@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:34:00.561Z",
+  "generatedAt": "2026-08-20T12:38:07.272Z",
   "cellDeg": 0.5,
-  "cityCount": 1209,
+  "cityCount": 1214,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -10696,6 +10696,51 @@
         "maxLng": 107.6
       }
     },
+    "vu/sanma/espiritu-santo": {
+      "name": "Espiritu Santo",
+      "bbox": {
+        "minLat": -15.486,
+        "minLng": 167.116,
+        "maxLat": -15.142,
+        "maxLng": 167.178
+      }
+    },
+    "vu/sanma/luganville": {
+      "name": "Luganville",
+      "bbox": {
+        "minLat": -15.533,
+        "minLng": 167.173,
+        "maxLat": -15.509,
+        "maxLng": 167.183
+      }
+    },
+    "vu/shefa/efate": {
+      "name": "Efate",
+      "bbox": {
+        "minLat": -17.698,
+        "minLng": 168.212,
+        "maxLat": -17.601,
+        "maxLng": 168.265
+      }
+    },
+    "vu/shefa/port-vila": {
+      "name": "Port Vila",
+      "bbox": {
+        "minLat": -17.73633,
+        "minLng": 168.262,
+        "maxLat": -17.677,
+        "maxLng": 168.31967
+      }
+    },
+    "vu/tafea/tanna": {
+      "name": "Tanna",
+      "bbox": {
+        "minLat": -19.53133,
+        "minLng": 169.437,
+        "maxLat": -19.517,
+        "maxLng": 169.45133
+      }
+    },
     "xk/gjakova/gjakova": {
       "name": "Gjakova",
       "bbox": {
@@ -16044,6 +16089,19 @@
     ],
     "-11,291": [
       "pg/madang/madang"
+    ],
+    "-36,336": [
+      "vu/shefa/efate",
+      "vu/shefa/port-vila"
+    ],
+    "-40,338": [
+      "vu/tafea/tanna"
+    ],
+    "-31,334": [
+      "vu/sanma/espiritu-santo"
+    ],
+    "-32,334": [
+      "vu/sanma/luganville"
     ]
   }
 }

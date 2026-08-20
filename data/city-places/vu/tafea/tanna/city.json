@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vu/tafea/tanna",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "stateCode": "TAE",
+  "stateName": "Tafea",
+  "cityName": "Tanna",
+  "bbox": {
+    "minLat": -19.53133,
+    "minLng": 169.437,
+    "maxLat": -19.517,
+    "maxLng": 169.45133
+  },
+  "updatedAt": "2026-08-20T12:34:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-yasur",
+      "name": "Mount Yasur",
+      "lat": -19.528333,
+      "lng": 169.448333,
+      "address": "Tanna",
+      "howTo": "Visit Mount Yasur volcano.",
+      "radiusM": 80,
+      "badge": "badges/mount-yasur.png"
+    },
+    {
+      "id": "yasur-ash-plain",
+      "name": "Yasur Ash Plain",
+      "lat": -19.52,
+      "lng": 169.44,
+      "address": "Tanna",
+      "howTo": "Walk the ash plain around Yasur.",
+      "radiusM": 80,
+      "badge": "badges/yasur-ash-plain.png"
+    }
+  ]
+}

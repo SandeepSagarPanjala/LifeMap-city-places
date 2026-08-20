@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:34:00.000Z",
-  "notes": "Papua New Guinea (pg) complete. Next: Vanuatu (vu). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:38:07.000Z",
+  "notes": "Vanuatu (vu) complete. Next: Samoa (ws). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23532,6 +23532,104 @@
                 "minLng": 145.797,
                 "maxLat": -5.207,
                 "maxLng": 145.823
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vu",
+      "countryCode": "VU",
+      "name": "Vanuatu",
+      "states": [
+        {
+          "id": "shefa",
+          "stateCode": "SEE",
+          "name": "Shefa",
+          "cities": [
+            {
+              "id": "port-vila",
+              "name": "Port Vila",
+              "status": "complete",
+              "packPath": "vu/shefa/port-vila/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:38:07.000Z",
+              "bbox": {
+                "minLat": -17.73633,
+                "minLng": 168.262,
+                "maxLat": -17.677,
+                "maxLng": 168.31967
+              }
+            },
+            {
+              "id": "efate",
+              "name": "Efate",
+              "status": "complete",
+              "packPath": "vu/shefa/efate/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:38:07.000Z",
+              "bbox": {
+                "minLat": -17.698,
+                "minLng": 168.212,
+                "maxLat": -17.601,
+                "maxLng": 168.265
+              }
+            }
+          ]
+        },
+        {
+          "id": "tafea",
+          "stateCode": "TAE",
+          "name": "Tafea",
+          "cities": [
+            {
+              "id": "tanna",
+              "name": "Tanna",
+              "status": "complete",
+              "packPath": "vu/tafea/tanna/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:38:07.000Z",
+              "bbox": {
+                "minLat": -19.53133,
+                "minLng": 169.437,
+                "maxLat": -19.517,
+                "maxLng": 169.45133
+              }
+            }
+          ]
+        },
+        {
+          "id": "sanma",
+          "stateCode": "SAM",
+          "name": "Sanma",
+          "cities": [
+            {
+              "id": "espiritu-santo",
+              "name": "Espiritu Santo",
+              "status": "complete",
+              "packPath": "vu/sanma/espiritu-santo/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:38:07.000Z",
+              "bbox": {
+                "minLat": -15.486,
+                "minLng": 167.116,
+                "maxLat": -15.142,
+                "maxLng": 167.178
+              }
+            },
+            {
+              "id": "luganville",
+              "name": "Luganville",
+              "status": "complete",
+              "packPath": "vu/sanma/luganville/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:38:07.000Z",
+              "bbox": {
+                "minLat": -15.533,
+                "minLng": 167.173,
+                "maxLat": -15.509,
+                "maxLng": 167.183
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vu/shefa/efate",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "stateCode": "SEE",
+  "stateName": "Shefa",
+  "cityName": "Efate",
+  "bbox": {
+    "minLat": -17.698,
+    "minLng": 168.212,
+    "maxLat": -17.601,
+    "maxLng": 168.265
+  },
+  "updatedAt": "2026-08-20T12:34:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chief-roi-mata-domain",
+      "name": "Chief Roi Mata's Domain",
+      "lat": -17.604,
+      "lng": 168.215,
+      "address": "Efate",
+      "howTo": "Visit Chief Roi Mata's Domain.",
+      "radiusM": 80,
+      "badge": "badges/chief-roi-mata-domain.png"
+    },
+    {
+      "id": "hideaway-island",
+      "name": "Hideaway Island",
+      "lat": -17.695,
+      "lng": 168.262,
+      "address": "Efate",
+      "howTo": "Visit Hideaway Island marine reserve shoreline.",
+      "radiusM": 80,
+      "badge": "badges/hideaway-island.png"
+    }
+  ]
+}

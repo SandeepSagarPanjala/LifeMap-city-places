@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vu/sanma/espiritu-santo",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "stateCode": "SAM",
+  "stateName": "Sanma",
+  "cityName": "Espiritu Santo",
+  "bbox": {
+    "minLat": -15.486,
+    "minLng": 167.116,
+    "maxLat": -15.142,
+    "maxLng": 167.178
+  },
+  "updatedAt": "2026-08-20T12:34:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "champagne-beach",
+      "name": "Champagne Beach",
+      "lat": -15.145,
+      "lng": 167.119,
+      "address": "Espiritu Santo",
+      "howTo": "Visit Champagne Beach.",
+      "radiusM": 80,
+      "badge": "badges/champagne-beach.png"
+    },
+    {
+      "id": "matevulu-blue-hole",
+      "name": "Matevulu Blue Hole",
+      "lat": -15.483,
+      "lng": 167.175,
+      "address": "Espiritu Santo",
+      "howTo": "Visit Matevulu Blue Hole.",
+      "radiusM": 80,
+      "badge": "badges/matevulu-blue-hole.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vu/sanma/luganville",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "stateCode": "SAM",
+  "stateName": "Sanma",
+  "cityName": "Luganville",
+  "bbox": {
+    "minLat": -15.533,
+    "minLng": 167.173,
+    "maxLat": -15.509,
+    "maxLng": 167.183
+  },
+  "updatedAt": "2026-08-20T12:34:37.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "luganville-waterfront",
+      "name": "Luganville Waterfront",
+      "lat": -15.512,
+      "lng": 167.176,
+      "address": "Luganville",
+      "howTo": "Walk the Luganville waterfront.",
+      "radiusM": 80,
+      "badge": "badges/luganville-waterfront.png"
+    },
+    {
+      "id": "million-dollar-point",
+      "name": "Million Dollar Point",
+      "lat": -15.53,
+      "lng": 167.18,
+      "address": "Luganville",
+      "howTo": "Visit Million Dollar Point.",
+      "radiusM": 80,
+      "badge": "badges/million-dollar-point.png"
+    }
+  ]
+}
