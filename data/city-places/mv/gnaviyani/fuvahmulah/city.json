@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mv/gnaviyani/fuvahmulah",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "stateCode": "Gn",
+  "stateName": "Gnaviyani",
+  "cityName": "Fuvahmulah",
+  "bbox": {
+    "minLat": -0.3015,
+    "minLng": 73.4215,
+    "maxLat": -0.2775,
+    "maxLng": 73.4285
+  },
+  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "thoondu-beach",
+      "name": "Thoondu Beach",
+      "lat": -0.2805,
+      "lng": 73.4245,
+      "address": "Fuvahmulah",
+      "howTo": "Visit Thoondu Beach.",
+      "radiusM": 80,
+      "badge": "badges/thoondu-beach.png"
+    },
+    {
+      "id": "bandaara-kilhi",
+      "name": "Bandaara Kilhi",
+      "lat": -0.2985,
+      "lng": 73.4255,
+      "address": "Fuvahmulah",
+      "howTo": "Visit Bandaara Kilhi freshwater lake.",
+      "radiusM": 80,
+      "badge": "badges/bandaara-kilhi.png"
+    }
+  ]
+}

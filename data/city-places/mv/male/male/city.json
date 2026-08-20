@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mv/male/male",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "stateCode": "MLE",
+  "stateName": "Mal\u00e9",
+  "cityName": "Mal\u00e9",
+  "bbox": {
+    "minLat": 4.172,
+    "minLng": 73.5062,
+    "maxLat": 4.18106,
+    "maxLng": 73.5155
+  },
+  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "male-friday-mosque",
+      "name": "Mal\u00e9 Friday Mosque",
+      "lat": 4.17806,
+      "lng": 73.5125,
+      "address": "Mal\u00e9",
+      "howTo": "Visit the Old Friday Mosque (Hukuru Miskiy).",
+      "radiusM": 80,
+      "badge": "badges/male-friday-mosque.png"
+    },
+    {
+      "id": "islamic-centre",
+      "name": "Islamic Centre",
+      "lat": 4.175,
+      "lng": 73.5092,
+      "address": "Mal\u00e9",
+      "howTo": "Visit the Islamic Centre and Grand Friday Mosque.",
+      "radiusM": 80,
+      "badge": "badges/islamic-centre.png"
+    }
+  ]
+}

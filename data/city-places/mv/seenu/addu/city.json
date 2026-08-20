@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mv/seenu/addu",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "stateCode": "S",
+  "stateName": "Seenu",
+  "cityName": "Addu",
+  "bbox": {
+    "minLat": -0.6965,
+    "minLng": 73.1525,
+    "maxLat": -0.6383,
+    "maxLng": 73.161
+  },
+  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gan-beach",
+      "name": "Gan Beach",
+      "lat": -0.6935,
+      "lng": 73.1555,
+      "address": "Addu",
+      "howTo": "Visit Gan Beach in Addu City.",
+      "radiusM": 80,
+      "badge": "badges/gan-beach.png"
+    },
+    {
+      "id": "equatorial-monument",
+      "name": "Equatorial Monument",
+      "lat": -0.6413,
+      "lng": 73.158,
+      "address": "Addu",
+      "howTo": "Visit the Equatorial Monument area in Addu.",
+      "radiusM": 80,
+      "badge": "badges/equatorial-monument.png"
+    }
+  ]
+}

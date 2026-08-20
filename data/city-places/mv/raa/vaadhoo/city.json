@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mv/raa/vaadhoo",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "stateCode": "R",
+  "stateName": "Raa Atoll",
+  "cityName": "Vaadhoo",
+  "bbox": {
+    "minLat": 5.85228,
+    "minLng": 72.98783,
+    "maxLat": 5.8595,
+    "maxLng": 72.995
+  },
+  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "vaadhoo-beach",
+      "name": "Vaadhoo Beach",
+      "lat": 5.855278,
+      "lng": 72.990833,
+      "address": "Vaadhoo",
+      "howTo": "Visit Vaadhoo Beach.",
+      "radiusM": 80,
+      "badge": "badges/vaadhoo-beach.png"
+    },
+    {
+      "id": "sea-of-stars",
+      "name": "Sea of Stars",
+      "lat": 5.8565,
+      "lng": 72.992,
+      "address": "Vaadhoo",
+      "howTo": "See the bioluminescent Sea of Stars shoreline.",
+      "radiusM": 80,
+      "badge": "badges/sea-of-stars.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mv/haa-alif/utheemu",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "stateCode": "HA",
+  "stateName": "Haa Alif",
+  "cityName": "Utheemu",
+  "bbox": {
+    "minLat": 6.8317,
+    "minLng": 73.1095,
+    "maxLat": 6.8395,
+    "maxLng": 73.118
+  },
+  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "utheemu-ganduvaru",
+      "name": "Utheemu Ganduvaru",
+      "lat": 6.8347,
+      "lng": 73.1125,
+      "address": "Utheemu",
+      "howTo": "Visit Utheemu Ganduvaru, the historic palace.",
+      "radiusM": 80,
+      "badge": "badges/utheemu-ganduvaru.png"
+    },
+    {
+      "id": "utheemu-beach",
+      "name": "Utheemu Beach",
+      "lat": 6.8365,
+      "lng": 73.115,
+      "address": "Utheemu",
+      "howTo": "Walk the beach at Utheemu.",
+      "radiusM": 80,
+      "badge": "badges/utheemu-beach.png"
+    }
+  ]
+}

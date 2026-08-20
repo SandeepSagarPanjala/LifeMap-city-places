@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:57:37.598Z",
+  "generatedAt": "2026-08-20T12:07:23.727Z",
   "cellDeg": 0.5,
-  "cityCount": 1179,
+  "cityCount": 1184,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6419,6 +6419,51 @@
         "minLng": 57.496,
         "maxLat": -20.157,
         "maxLng": 57.505
+      }
+    },
+    "mv/gnaviyani/fuvahmulah": {
+      "name": "Fuvahmulah",
+      "bbox": {
+        "minLat": -0.3015,
+        "minLng": 73.4215,
+        "maxLat": -0.2775,
+        "maxLng": 73.4285
+      }
+    },
+    "mv/haa-alif/utheemu": {
+      "name": "Utheemu",
+      "bbox": {
+        "minLat": 6.8317,
+        "minLng": 73.1095,
+        "maxLat": 6.8395,
+        "maxLng": 73.118
+      }
+    },
+    "mv/male/male": {
+      "name": "Malé",
+      "bbox": {
+        "minLat": 4.172,
+        "minLng": 73.5062,
+        "maxLat": 4.18106,
+        "maxLng": 73.5155
+      }
+    },
+    "mv/raa/vaadhoo": {
+      "name": "Vaadhoo",
+      "bbox": {
+        "minLat": 5.85228,
+        "minLng": 72.98783,
+        "maxLat": 5.8595,
+        "maxLng": 72.995
+      }
+    },
+    "mv/seenu/addu": {
+      "name": "Addu",
+      "bbox": {
+        "minLat": -0.6965,
+        "minLng": 73.1525,
+        "maxLat": -0.6383,
+        "maxLng": 73.161
       }
     },
     "mw/central/lilongwe": {
@@ -15684,6 +15729,21 @@
     ],
     "55,180": [
       "bt/wangdue/phobjikha"
+    ],
+    "8,147": [
+      "mv/male/male"
+    ],
+    "13,146": [
+      "mv/haa-alif/utheemu"
+    ],
+    "11,145": [
+      "mv/raa/vaadhoo"
+    ],
+    "-1,146": [
+      "mv/gnaviyani/fuvahmulah"
+    ],
+    "-2,146": [
+      "mv/seenu/addu"
     ]
   }
 }

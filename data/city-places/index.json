@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:57:37.000Z",
-  "notes": "Bhutan (bt) complete. Next: Maldives (mv). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:07:23.000Z",
+  "notes": "Maldives (mv) complete. Next: Myanmar (mm). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22895,6 +22895,118 @@
                 "minLng": 90.16367,
                 "maxLat": 27.503,
                 "maxLng": 90.203
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv",
+      "countryCode": "MV",
+      "name": "Maldives",
+      "states": [
+        {
+          "id": "male",
+          "stateCode": "MLE",
+          "name": "Mal\u00e9",
+          "cities": [
+            {
+              "id": "male",
+              "name": "Mal\u00e9",
+              "status": "complete",
+              "packPath": "mv/male/male/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:07:23.000Z",
+              "bbox": {
+                "minLat": 4.172,
+                "minLng": 73.5062,
+                "maxLat": 4.18106,
+                "maxLng": 73.5155
+              }
+            }
+          ]
+        },
+        {
+          "id": "haa-alif",
+          "stateCode": "HA",
+          "name": "Haa Alif",
+          "cities": [
+            {
+              "id": "utheemu",
+              "name": "Utheemu",
+              "status": "complete",
+              "packPath": "mv/haa-alif/utheemu/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:07:23.000Z",
+              "bbox": {
+                "minLat": 6.8317,
+                "minLng": 73.1095,
+                "maxLat": 6.8395,
+                "maxLng": 73.118
+              }
+            }
+          ]
+        },
+        {
+          "id": "raa",
+          "stateCode": "R",
+          "name": "Raa Atoll",
+          "cities": [
+            {
+              "id": "vaadhoo",
+              "name": "Vaadhoo",
+              "status": "complete",
+              "packPath": "mv/raa/vaadhoo/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:07:23.000Z",
+              "bbox": {
+                "minLat": 5.85228,
+                "minLng": 72.98783,
+                "maxLat": 5.8595,
+                "maxLng": 72.995
+              }
+            }
+          ]
+        },
+        {
+          "id": "gnaviyani",
+          "stateCode": "Gn",
+          "name": "Gnaviyani",
+          "cities": [
+            {
+              "id": "fuvahmulah",
+              "name": "Fuvahmulah",
+              "status": "complete",
+              "packPath": "mv/gnaviyani/fuvahmulah/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:07:23.000Z",
+              "bbox": {
+                "minLat": -0.3015,
+                "minLng": 73.4215,
+                "maxLat": -0.2775,
+                "maxLng": 73.4285
+              }
+            }
+          ]
+        },
+        {
+          "id": "seenu",
+          "stateCode": "S",
+          "name": "Seenu",
+          "cities": [
+            {
+              "id": "addu",
+              "name": "Addu",
+              "status": "complete",
+              "packPath": "mv/seenu/addu/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:07:23.000Z",
+              "bbox": {
+                "minLat": -0.6965,
+                "minLng": 73.1525,
+                "maxLat": -0.6383,
+                "maxLng": 73.161
               }
             }
           ]
