@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:38:07.000Z",
-  "notes": "Vanuatu (vu) complete. Next: Samoa (ws). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:43:53.000Z",
+  "notes": "Samoa (ws) complete. Next: Tonga (to). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23630,6 +23630,111 @@
                 "minLng": 167.173,
                 "maxLat": -15.509,
                 "maxLng": 167.183
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ws",
+      "countryCode": "WS",
+      "name": "Samoa",
+      "states": [
+        {
+          "id": "tuamasaga",
+          "stateCode": "TU",
+          "name": "Tuamasaga",
+          "cities": [
+            {
+              "id": "apia",
+              "name": "Apia",
+              "status": "complete",
+              "packPath": "ws/tuamasaga/apia/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:43:53.000Z",
+              "bbox": {
+                "minLat": -13.8675,
+                "minLng": -171.753,
+                "maxLat": -13.83033,
+                "maxLng": -171.737
+              }
+            },
+            {
+              "id": "piula",
+              "name": "Piula",
+              "status": "complete",
+              "packPath": "ws/tuamasaga/piula/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:43:53.000Z",
+              "bbox": {
+                "minLat": -13.878,
+                "minLng": -171.803,
+                "maxLat": -13.857,
+                "maxLng": -171.597
+              }
+            }
+          ]
+        },
+        {
+          "id": "atua",
+          "stateCode": "AT",
+          "name": "Atua",
+          "cities": [
+            {
+              "id": "lotofaga",
+              "name": "Lotofaga",
+              "status": "complete",
+              "packPath": "ws/atua/lotofaga/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:43:53.000Z",
+              "bbox": {
+                "minLat": -14.04828,
+                "minLng": -171.483,
+                "maxLat": -14.017,
+                "maxLng": -171.43783
+              }
+            }
+          ]
+        },
+        {
+          "id": "gagaifomauga",
+          "stateCode": "GF",
+          "name": "Gagaifomauga",
+          "cities": [
+            {
+              "id": "saleaula",
+              "name": "Saleaula",
+              "status": "complete",
+              "packPath": "ws/gagaifomauga/saleaula/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:43:53.000Z",
+              "bbox": {
+                "minLat": -13.455,
+                "minLng": -172.338,
+                "maxLat": -13.44709,
+                "maxLng": -172.33049
+              }
+            }
+          ]
+        },
+        {
+          "id": "palauli",
+          "stateCode": "PA",
+          "name": "Palauli",
+          "cities": [
+            {
+              "id": "taga",
+              "name": "Taga",
+              "status": "complete",
+              "packPath": "ws/palauli/taga/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:43:53.000Z",
+              "bbox": {
+                "minLat": -13.808,
+                "minLng": -172.528,
+                "maxLat": -13.7992,
+                "maxLng": -172.5167
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ws/atua/lotofaga",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "stateCode": "AT",
+  "stateName": "Atua",
+  "cityName": "Lotofaga",
+  "bbox": {
+    "minLat": -14.04828,
+    "minLng": -171.483,
+    "maxLat": -14.017,
+    "maxLng": -171.43783
+  },
+  "updatedAt": "2026-08-20T12:38:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "to-sua-ocean-trench",
+      "name": "To Sua Ocean Trench",
+      "lat": -14.02,
+      "lng": -171.48,
+      "address": "Lotofaga",
+      "howTo": "Visit To Sua Ocean Trench.",
+      "radiusM": 80,
+      "badge": "badges/to-sua-ocean-trench.png"
+    },
+    {
+      "id": "lalomanu-beach",
+      "name": "Lalomanu Beach",
+      "lat": -14.045278,
+      "lng": -171.440833,
+      "address": "Lalomanu",
+      "howTo": "Visit Lalomanu Beach.",
+      "radiusM": 80,
+      "badge": "badges/lalomanu-beach.png"
+    }
+  ]
+}

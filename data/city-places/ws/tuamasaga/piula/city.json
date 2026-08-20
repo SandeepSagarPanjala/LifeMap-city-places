@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ws/tuamasaga/piula",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "stateCode": "TU",
+  "stateName": "Tuamasaga",
+  "cityName": "Piula",
+  "bbox": {
+    "minLat": -13.878,
+    "minLng": -171.803,
+    "maxLat": -13.857,
+    "maxLng": -171.597
+  },
+  "updatedAt": "2026-08-20T12:38:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "piula-cave-pool",
+      "name": "Piula Cave Pool",
+      "lat": -13.875,
+      "lng": -171.6,
+      "address": "Piula",
+      "howTo": "Swim at Piula Cave Pool.",
+      "radiusM": 80,
+      "badge": "badges/piula-cave-pool.png"
+    },
+    {
+      "id": "papaseea-sliding-rocks",
+      "name": "Papaseea Sliding Rocks",
+      "lat": -13.86,
+      "lng": -171.8,
+      "address": "Apia",
+      "howTo": "Visit Papaseea Sliding Rocks.",
+      "radiusM": 80,
+      "badge": "badges/papaseea-sliding-rocks.png"
+    }
+  ]
+}

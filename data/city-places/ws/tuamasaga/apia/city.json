@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ws/tuamasaga/apia",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "stateCode": "TU",
+  "stateName": "Tuamasaga",
+  "cityName": "Apia",
+  "bbox": {
+    "minLat": -13.8675,
+    "minLng": -171.753,
+    "maxLat": -13.83033,
+    "maxLng": -171.737
+  },
+  "updatedAt": "2026-08-20T12:38:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "apia-waterfront",
+      "name": "Apia Waterfront",
+      "lat": -13.833333,
+      "lng": -171.75,
+      "address": "Apia",
+      "howTo": "Walk the Apia waterfront.",
+      "radiusM": 80,
+      "badge": "badges/apia-waterfront.png"
+    },
+    {
+      "id": "robert-louis-stevenson-museum",
+      "name": "Robert Louis Stevenson Museum",
+      "lat": -13.8645,
+      "lng": -171.74,
+      "address": "Apia",
+      "howTo": "Visit Vailima (Robert Louis Stevenson Museum).",
+      "radiusM": 80,
+      "badge": "badges/robert-louis-stevenson-museum.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ws/palauli/taga",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "stateCode": "PA",
+  "stateName": "Palauli",
+  "cityName": "Taga",
+  "bbox": {
+    "minLat": -13.808,
+    "minLng": -172.528,
+    "maxLat": -13.7992,
+    "maxLng": -172.5167
+  },
+  "updatedAt": "2026-08-20T12:38:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "alofaaga-blowholes",
+      "name": "Alofaaga Blowholes",
+      "lat": -13.8022,
+      "lng": -172.5197,
+      "address": "Taga",
+      "howTo": "Visit the Alofaaga Blowholes.",
+      "radiusM": 80,
+      "badge": "badges/alofaaga-blowholes.png"
+    },
+    {
+      "id": "taga-coast",
+      "name": "Taga Coast",
+      "lat": -13.805,
+      "lng": -172.525,
+      "address": "Taga",
+      "howTo": "Overlook the Taga coastal cliffs.",
+      "radiusM": 80,
+      "badge": "badges/taga-coast.png"
+    }
+  ]
+}

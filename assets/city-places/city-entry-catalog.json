@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:38:07.272Z",
+  "generatedAt": "2026-08-20T12:43:53.763Z",
   "cellDeg": 0.5,
-  "cityCount": 1214,
+  "cityCount": 1219,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -10741,6 +10741,51 @@
         "maxLng": 169.45133
       }
     },
+    "ws/atua/lotofaga": {
+      "name": "Lotofaga",
+      "bbox": {
+        "minLat": -14.04828,
+        "minLng": -171.483,
+        "maxLat": -14.017,
+        "maxLng": -171.43783
+      }
+    },
+    "ws/gagaifomauga/saleaula": {
+      "name": "Saleaula",
+      "bbox": {
+        "minLat": -13.455,
+        "minLng": -172.338,
+        "maxLat": -13.44709,
+        "maxLng": -172.33049
+      }
+    },
+    "ws/palauli/taga": {
+      "name": "Taga",
+      "bbox": {
+        "minLat": -13.808,
+        "minLng": -172.528,
+        "maxLat": -13.7992,
+        "maxLng": -172.5167
+      }
+    },
+    "ws/tuamasaga/apia": {
+      "name": "Apia",
+      "bbox": {
+        "minLat": -13.8675,
+        "minLng": -171.753,
+        "maxLat": -13.83033,
+        "maxLng": -171.737
+      }
+    },
+    "ws/tuamasaga/piula": {
+      "name": "Piula",
+      "bbox": {
+        "minLat": -13.878,
+        "minLng": -171.803,
+        "maxLat": -13.857,
+        "maxLng": -171.597
+      }
+    },
     "xk/gjakova/gjakova": {
       "name": "Gjakova",
       "bbox": {
@@ -16102,6 +16147,19 @@
     ],
     "-32,334": [
       "vu/sanma/luganville"
+    ],
+    "-28,-344": [
+      "ws/tuamasaga/apia",
+      "ws/tuamasaga/piula"
+    ],
+    "-29,-343": [
+      "ws/atua/lotofaga"
+    ],
+    "-27,-345": [
+      "ws/gagaifomauga/saleaula"
+    ],
+    "-28,-346": [
+      "ws/palauli/taga"
     ]
   }
 }

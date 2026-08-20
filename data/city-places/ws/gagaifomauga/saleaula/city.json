@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ws/gagaifomauga/saleaula",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "stateCode": "GF",
+  "stateName": "Gagaifomauga",
+  "cityName": "Saleaula",
+  "bbox": {
+    "minLat": -13.455,
+    "minLng": -172.338,
+    "maxLat": -13.44709,
+    "maxLng": -172.33049
+  },
+  "updatedAt": "2026-08-20T12:38:43.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "saleaula-lava-fields",
+      "name": "Saleaula Lava Fields",
+      "lat": -13.450086,
+      "lng": -172.333494,
+      "address": "Saleaula",
+      "howTo": "Visit the Saleaula lava fields.",
+      "radiusM": 80,
+      "badge": "badges/saleaula-lava-fields.png"
+    },
+    {
+      "id": "saleaula-church-ruins",
+      "name": "Saleaula Church Ruins",
+      "lat": -13.452,
+      "lng": -172.335,
+      "address": "Saleaula",
+      "howTo": "See the lava-covered church ruins at Saleaula.",
+      "radiusM": 80,
+      "badge": "badges/saleaula-church-ruins.png"
+    }
+  ]
+}
