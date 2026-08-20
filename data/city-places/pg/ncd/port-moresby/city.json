@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pg/ncd/port-moresby",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "stateCode": "NCD",
+  "stateName": "National Capital District",
+  "cityName": "Port Moresby",
+  "bbox": {
+    "minLat": -9.4815,
+    "minLng": 147.154,
+    "maxLat": -9.4255,
+    "maxLng": 147.191
+  },
+  "updatedAt": "2026-08-20T12:29:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ela-beach",
+      "name": "Ela Beach",
+      "lat": -9.4785,
+      "lng": 147.157,
+      "address": "Port Moresby",
+      "howTo": "Visit Ela Beach.",
+      "radiusM": 80,
+      "badge": "badges/ela-beach.png"
+    },
+    {
+      "id": "parliament-haus",
+      "name": "Parliament Haus",
+      "lat": -9.4285,
+      "lng": 147.188,
+      "address": "Port Moresby",
+      "howTo": "Visit Parliament Haus.",
+      "radiusM": 80,
+      "badge": "badges/parliament-haus.png"
+    }
+  ]
+}

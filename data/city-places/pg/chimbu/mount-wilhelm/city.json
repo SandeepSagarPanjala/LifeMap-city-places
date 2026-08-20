@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pg/chimbu/mount-wilhelm",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "stateCode": "CHK",
+  "stateName": "Chimbu",
+  "cityName": "Mount Wilhelm",
+  "bbox": {
+    "minLat": -5.803,
+    "minLng": 145.03033,
+    "maxLat": -5.777,
+    "maxLng": 145.053
+  },
+  "updatedAt": "2026-08-20T12:29:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mount-wilhelm-summit",
+      "name": "Mount Wilhelm Summit",
+      "lat": -5.8,
+      "lng": 145.033333,
+      "address": "Mount Wilhelm",
+      "howTo": "Climb Mount Wilhelm summit.",
+      "radiusM": 80,
+      "badge": "badges/mount-wilhelm-summit.png"
+    },
+    {
+      "id": "pindaunde-lakes",
+      "name": "Pindaunde Lakes",
+      "lat": -5.78,
+      "lng": 145.05,
+      "address": "Mount Wilhelm",
+      "howTo": "Visit the Pindaunde Lakes below Mount Wilhelm.",
+      "radiusM": 80,
+      "badge": "badges/pindaunde-lakes.png"
+    }
+  ]
+}

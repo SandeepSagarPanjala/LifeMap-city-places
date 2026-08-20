@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:28:43.000Z",
-  "notes": "Fiji (fj) complete. Next: Papua New Guinea (pg). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:34:00.000Z",
+  "notes": "Papua New Guinea (pg) complete. Next: Vanuatu (vu). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23420,6 +23420,118 @@
                 "minLng": 179.88,
                 "maxLat": -16.817,
                 "maxLng": 179.953
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pg",
+      "countryCode": "PG",
+      "name": "Papua New Guinea",
+      "states": [
+        {
+          "id": "ncd",
+          "stateCode": "NCD",
+          "name": "National Capital District",
+          "cities": [
+            {
+              "id": "port-moresby",
+              "name": "Port Moresby",
+              "status": "complete",
+              "packPath": "pg/ncd/port-moresby/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:34:00.000Z",
+              "bbox": {
+                "minLat": -9.4815,
+                "minLng": 147.154,
+                "maxLat": -9.4255,
+                "maxLng": 147.191
+              }
+            }
+          ]
+        },
+        {
+          "id": "oro",
+          "stateCode": "ORO",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "kokoda",
+              "name": "Kokoda",
+              "status": "complete",
+              "packPath": "pg/oro/kokoda/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:34:00.000Z",
+              "bbox": {
+                "minLat": -8.893,
+                "minLng": 147.73,
+                "maxLat": -8.88,
+                "maxLng": 147.743
+              }
+            }
+          ]
+        },
+        {
+          "id": "chimbu",
+          "stateCode": "CHK",
+          "name": "Chimbu",
+          "cities": [
+            {
+              "id": "mount-wilhelm",
+              "name": "Mount Wilhelm",
+              "status": "complete",
+              "packPath": "pg/chimbu/mount-wilhelm/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:34:00.000Z",
+              "bbox": {
+                "minLat": -5.803,
+                "minLng": 145.03033,
+                "maxLat": -5.777,
+                "maxLng": 145.053
+              }
+            }
+          ]
+        },
+        {
+          "id": "east-new-britain",
+          "stateCode": "EBR",
+          "name": "East New Britain",
+          "cities": [
+            {
+              "id": "rabaul",
+              "name": "Rabaul",
+              "status": "complete",
+              "packPath": "pg/east-new-britain/rabaul/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:34:00.000Z",
+              "bbox": {
+                "minLat": -4.242,
+                "minLng": 152.18033,
+                "maxLat": -4.197,
+                "maxLng": 152.213
+              }
+            }
+          ]
+        },
+        {
+          "id": "madang",
+          "stateCode": "MDG",
+          "name": "Madang",
+          "cities": [
+            {
+              "id": "madang",
+              "name": "Madang",
+              "status": "complete",
+              "packPath": "pg/madang/madang/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:34:00.000Z",
+              "bbox": {
+                "minLat": -5.21967,
+                "minLng": 145.797,
+                "maxLat": -5.207,
+                "maxLng": 145.823
               }
             }
           ]

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pg/madang/madang",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "stateCode": "MDG",
+  "stateName": "Madang",
+  "cityName": "Madang",
+  "bbox": {
+    "minLat": -5.21967,
+    "minLng": 145.797,
+    "maxLat": -5.207,
+    "maxLng": 145.823
+  },
+  "updatedAt": "2026-08-20T12:29:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "madang-harbour",
+      "name": "Madang Harbour",
+      "lat": -5.216667,
+      "lng": 145.8,
+      "address": "Madang",
+      "howTo": "Visit Madang Harbour.",
+      "radiusM": 80,
+      "badge": "badges/madang-harbour.png"
+    },
+    {
+      "id": "kranket-island",
+      "name": "Kranket Island",
+      "lat": -5.21,
+      "lng": 145.82,
+      "address": "Madang",
+      "howTo": "Visit Kranket Island near Madang.",
+      "radiusM": 80,
+      "badge": "badges/kranket-island.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pg/oro/kokoda",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "stateCode": "ORO",
+  "stateName": "Northern",
+  "cityName": "Kokoda",
+  "bbox": {
+    "minLat": -8.893,
+    "minLng": 147.73,
+    "maxLat": -8.88,
+    "maxLng": 147.743
+  },
+  "updatedAt": "2026-08-20T12:29:18.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kokoda-memorial",
+      "name": "Kokoda Memorial",
+      "lat": -8.883,
+      "lng": 147.733,
+      "address": "Kokoda",
+      "howTo": "Visit the Kokoda Track memorial area.",
+      "radiusM": 80,
+      "badge": "badges/kokoda-memorial.png"
+    },
+    {
+      "id": "owen-stanley-trailhead",
+      "name": "Owen Stanley Trailhead",
+      "lat": -8.89,
+      "lng": 147.74,
+      "address": "Kokoda",
+      "howTo": "See the Owen Stanley Range trailhead at Kokoda.",
+      "radiusM": 80,
+      "badge": "badges/owen-stanley-trailhead.png"
+    }
+  ]
+}

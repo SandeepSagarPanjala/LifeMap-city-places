@@ -193,7 +193,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 147. `bn` — Brunei (**complete**)
 148. `tl` — Timor-Leste (**complete**)
 149. `fj` — Fiji (**complete**)
-150. `pg` — Papua New Guinea
+150. `pg` — Papua New Guinea (**complete**)
+151. `vu` — Vanuatu
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

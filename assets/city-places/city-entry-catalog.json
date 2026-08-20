@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:28:43.756Z",
+  "generatedAt": "2026-08-20T12:34:00.561Z",
   "cellDeg": 0.5,
-  "cityCount": 1204,
+  "cityCount": 1209,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7382,6 +7382,51 @@
         "minLng": -70.05,
         "maxLat": -15.82,
         "maxLng": -69.8
+      }
+    },
+    "pg/chimbu/mount-wilhelm": {
+      "name": "Mount Wilhelm",
+      "bbox": {
+        "minLat": -5.803,
+        "minLng": 145.03033,
+        "maxLat": -5.777,
+        "maxLng": 145.053
+      }
+    },
+    "pg/east-new-britain/rabaul": {
+      "name": "Rabaul",
+      "bbox": {
+        "minLat": -4.242,
+        "minLng": 152.18033,
+        "maxLat": -4.197,
+        "maxLng": 152.213
+      }
+    },
+    "pg/madang/madang": {
+      "name": "Madang",
+      "bbox": {
+        "minLat": -5.21967,
+        "minLng": 145.797,
+        "maxLat": -5.207,
+        "maxLng": 145.823
+      }
+    },
+    "pg/ncd/port-moresby": {
+      "name": "Port Moresby",
+      "bbox": {
+        "minLat": -9.4815,
+        "minLng": 147.154,
+        "maxLat": -9.4255,
+        "maxLng": 147.191
+      }
+    },
+    "pg/oro/kokoda": {
+      "name": "Kokoda",
+      "bbox": {
+        "minLat": -8.893,
+        "minLng": 147.73,
+        "maxLat": -8.88,
+        "maxLng": 147.743
       }
     },
     "ph/aklan/boracay": {
@@ -15984,6 +16029,21 @@
     ],
     "-34,359": [
       "fj/northern/taveuni"
+    ],
+    "-19,294": [
+      "pg/ncd/port-moresby"
+    ],
+    "-18,295": [
+      "pg/oro/kokoda"
+    ],
+    "-12,290": [
+      "pg/chimbu/mount-wilhelm"
+    ],
+    "-9,304": [
+      "pg/east-new-britain/rabaul"
+    ],
+    "-11,291": [
+      "pg/madang/madang"
     ]
   }
 }
