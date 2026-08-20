@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:14:16.000Z",
-  "notes": "Iraq (iq) complete. Next: Jordan (jo) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "notes": "Lebanon (lb) complete. Next: Syria (sy) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22048,6 +22048,111 @@
                 "minLng": 42.7146,
                 "maxLat": 35.593,
                 "maxLng": 42.723
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lb",
+      "countryCode": "LB",
+      "name": "Lebanon",
+      "states": [
+        {
+          "id": "beirut",
+          "stateCode": "BA",
+          "name": "Beirut",
+          "cities": [
+            {
+              "id": "beirut",
+              "name": "Beirut",
+              "status": "complete",
+              "packPath": "lb/beirut/beirut/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:19:21.000Z",
+              "bbox": {
+                "minLat": 33.88723,
+                "minLng": 35.46704,
+                "maxLat": 33.89831,
+                "maxLng": 35.50904
+              }
+            }
+          ]
+        },
+        {
+          "id": "baalbek-hermel",
+          "stateCode": "BH",
+          "name": "Baalbek-Hermel",
+          "cities": [
+            {
+              "id": "baalbek",
+              "name": "Baalbek",
+              "status": "complete",
+              "packPath": "lb/baalbek-hermel/baalbek/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:19:21.000Z",
+              "bbox": {
+                "minLat": 34.00311,
+                "minLng": 36.20038,
+                "maxLat": 34.00982,
+                "maxLng": 36.20698
+              }
+            }
+          ]
+        },
+        {
+          "id": "keserwan-jbeil",
+          "stateCode": "JL",
+          "name": "Keserwan-Jbeil",
+          "cities": [
+            {
+              "id": "byblos",
+              "name": "Byblos",
+              "status": "complete",
+              "packPath": "lb/keserwan-jbeil/byblos/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:19:21.000Z",
+              "bbox": {
+                "minLat": 34.11684,
+                "minLng": 35.642,
+                "maxLat": 34.1245,
+                "maxLng": 35.64948
+              }
+            }
+          ]
+        },
+        {
+          "id": "south",
+          "stateCode": "JA",
+          "name": "South",
+          "cities": [
+            {
+              "id": "tyre",
+              "name": "Tyre",
+              "status": "complete",
+              "packPath": "lb/south/tyre/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:19:21.000Z",
+              "bbox": {
+                "minLat": 33.26458,
+                "minLng": 35.20682,
+                "maxLat": 33.273,
+                "maxLng": 35.215
+              }
+            },
+            {
+              "id": "sidon",
+              "name": "Sidon",
+              "status": "complete",
+              "packPath": "lb/south/sidon/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:19:21.000Z",
+              "bbox": {
+                "minLat": 33.56418,
+                "minLng": 35.366,
+                "maxLat": 33.5715,
+                "maxLng": 35.37397
               }
             }
           ]

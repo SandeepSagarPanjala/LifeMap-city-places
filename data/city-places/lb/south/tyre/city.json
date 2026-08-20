@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lb/south/tyre",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "stateCode": "JA",
+  "stateName": "South",
+  "cityName": "Tyre",
+  "bbox": {
+    "minLat": 33.26458,
+    "minLng": 35.20682,
+    "maxLat": 33.273,
+    "maxLng": 35.215
+  },
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tyre-hippodrome",
+      "name": "Tyre Hippodrome",
+      "lat": 33.26758,
+      "lng": 35.20982,
+      "radiusM": 100,
+      "address": "Tyre",
+      "howTo": "Visit the Tyre Hippodrome.",
+      "badge": "badges/tyre-hippodrome.png"
+    },
+    {
+      "id": "tyre-ruins",
+      "name": "Tyre Ruins",
+      "lat": 33.27,
+      "lng": 35.212,
+      "radiusM": 100,
+      "address": "Tyre",
+      "howTo": "Visit the Roman ruins at Tyre.",
+      "badge": "badges/tyre-ruins.png"
+    }
+  ]
+}

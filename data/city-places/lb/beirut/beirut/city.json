@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lb/beirut/beirut",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "stateCode": "BA",
+  "stateName": "Beirut",
+  "cityName": "Beirut",
+  "bbox": {
+    "minLat": 33.88723,
+    "minLng": 35.46704,
+    "maxLat": 33.89831,
+    "maxLng": 35.50904
+  },
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "al-amin",
+      "name": "Mohammad Al-Amin Mosque",
+      "lat": 33.89531,
+      "lng": 35.50604,
+      "radiusM": 50,
+      "address": "Beirut",
+      "howTo": "Visit Mohammad Al-Amin Mosque.",
+      "badge": "badges/al-amin.png"
+    },
+    {
+      "id": "pigeon-rocks",
+      "name": "Pigeon Rocks",
+      "lat": 33.89023,
+      "lng": 35.47004,
+      "radiusM": 60,
+      "address": "Raouche",
+      "howTo": "Visit the Pigeon Rocks at Raouche.",
+      "badge": "badges/pigeon-rocks.png"
+    }
+  ]
+}

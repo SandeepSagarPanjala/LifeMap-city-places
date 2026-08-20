@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lb/south/sidon",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "stateCode": "JA",
+  "stateName": "South",
+  "cityName": "Sidon",
+  "bbox": {
+    "minLat": 33.56418,
+    "minLng": 35.366,
+    "maxLat": 33.5715,
+    "maxLng": 35.37397
+  },
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sidon-sea-castle",
+      "name": "Sidon Sea Castle",
+      "lat": 33.56718,
+      "lng": 35.37097,
+      "radiusM": 50,
+      "address": "Sidon",
+      "howTo": "Visit Sidon Sea Castle.",
+      "badge": "badges/sidon-sea-castle.png"
+    },
+    {
+      "id": "sidon-waterfront",
+      "name": "Sidon Waterfront",
+      "lat": 33.5685,
+      "lng": 35.369,
+      "radiusM": 60,
+      "address": "Sidon",
+      "howTo": "Visit the Sidon waterfront.",
+      "badge": "badges/sidon-waterfront.png"
+    }
+  ]
+}

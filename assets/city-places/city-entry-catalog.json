@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:14:17.007Z",
+  "generatedAt": "2026-08-20T11:19:22.013Z",
   "cellDeg": 0.5,
-  "cityCount": 1139,
+  "cityCount": 1144,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5492,6 +5492,51 @@
         "minLng": 102.444,
         "maxLat": 18.928,
         "maxLng": 102.456
+      }
+    },
+    "lb/baalbek-hermel/baalbek": {
+      "name": "Baalbek",
+      "bbox": {
+        "minLat": 34.00311,
+        "minLng": 36.20038,
+        "maxLat": 34.00982,
+        "maxLng": 36.20698
+      }
+    },
+    "lb/beirut/beirut": {
+      "name": "Beirut",
+      "bbox": {
+        "minLat": 33.88723,
+        "minLng": 35.46704,
+        "maxLat": 33.89831,
+        "maxLng": 35.50904
+      }
+    },
+    "lb/keserwan-jbeil/byblos": {
+      "name": "Byblos",
+      "bbox": {
+        "minLat": 34.11684,
+        "minLng": 35.642,
+        "maxLat": 34.1245,
+        "maxLng": 35.64948
+      }
+    },
+    "lb/south/sidon": {
+      "name": "Sidon",
+      "bbox": {
+        "minLat": 33.56418,
+        "minLng": 35.366,
+        "maxLat": 33.5715,
+        "maxLng": 35.37397
+      }
+    },
+    "lb/south/tyre": {
+      "name": "Tyre",
+      "bbox": {
+        "minLat": 33.26458,
+        "minLng": 35.20682,
+        "maxLat": 33.273,
+        "maxLng": 35.215
       }
     },
     "lk/central/kandy": {
@@ -15205,6 +15250,22 @@
     ],
     "71,85": [
       "iq/nineveh/hatra"
+    ],
+    "67,70": [
+      "lb/beirut/beirut",
+      "lb/south/sidon"
+    ],
+    "67,71": [
+      "lb/beirut/beirut"
+    ],
+    "68,72": [
+      "lb/baalbek-hermel/baalbek"
+    ],
+    "68,71": [
+      "lb/keserwan-jbeil/byblos"
+    ],
+    "66,70": [
+      "lb/south/tyre"
     ]
   }
 }

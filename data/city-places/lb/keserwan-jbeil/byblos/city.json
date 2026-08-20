@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lb/keserwan-jbeil/byblos",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "stateCode": "JL",
+  "stateName": "Keserwan-Jbeil",
+  "cityName": "Byblos",
+  "bbox": {
+    "minLat": 34.11684,
+    "minLng": 35.642,
+    "maxLat": 34.1245,
+    "maxLng": 35.64948
+  },
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "byblos-castle",
+      "name": "Byblos Castle",
+      "lat": 34.11984,
+      "lng": 35.64648,
+      "radiusM": 50,
+      "address": "Byblos",
+      "howTo": "Visit Byblos Castle.",
+      "badge": "badges/byblos-castle.png"
+    },
+    {
+      "id": "byblos-harbor",
+      "name": "Byblos Harbor",
+      "lat": 34.1215,
+      "lng": 35.645,
+      "radiusM": 60,
+      "address": "Byblos",
+      "howTo": "Visit the Byblos harbor.",
+      "badge": "badges/byblos-harbor.png"
+    }
+  ]
+}

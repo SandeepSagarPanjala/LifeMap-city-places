@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "lb/baalbek-hermel/baalbek",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "stateCode": "BH",
+  "stateName": "Baalbek-Hermel",
+  "cityName": "Baalbek",
+  "bbox": {
+    "minLat": 34.00311,
+    "minLng": 36.20038,
+    "maxLat": 34.00982,
+    "maxLng": 36.20698
+  },
+  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "temple-jupiter",
+      "name": "Temple of Jupiter",
+      "lat": 34.00682,
+      "lng": 36.20338,
+      "radiusM": 80,
+      "address": "Baalbek",
+      "howTo": "Visit the Temple of Jupiter.",
+      "badge": "badges/temple-jupiter.png"
+    },
+    {
+      "id": "temple-bacchus",
+      "name": "Temple of Bacchus",
+      "lat": 34.00611,
+      "lng": 36.20398,
+      "radiusM": 60,
+      "address": "Baalbek",
+      "howTo": "Visit the Temple of Bacchus.",
+      "badge": "badges/temple-bacchus.png"
+    }
+  ]
+}
