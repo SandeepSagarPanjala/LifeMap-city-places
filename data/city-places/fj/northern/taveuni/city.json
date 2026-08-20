@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fj/northern/taveuni",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "stateCode": "N",
+  "stateName": "Northern",
+  "cityName": "Taveuni",
+  "bbox": {
+    "minLat": -16.836,
+    "minLng": 179.88,
+    "maxLat": -16.817,
+    "maxLng": 179.953
+  },
+  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bouma-falls",
+      "name": "Bouma Falls",
+      "lat": -16.833,
+      "lng": 179.883,
+      "address": "Taveuni",
+      "howTo": "Visit Tavoro Falls in Bouma National Heritage Park.",
+      "radiusM": 80,
+      "badge": "badges/bouma-falls.png"
+    },
+    {
+      "id": "lake-tagimaucia",
+      "name": "Lake Tagimaucia",
+      "lat": -16.82,
+      "lng": 179.95,
+      "address": "Taveuni",
+      "howTo": "Visit Lake Tagimaucia.",
+      "radiusM": 80,
+      "badge": "badges/lake-tagimaucia.png"
+    }
+  ]
+}

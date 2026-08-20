@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fj/western/sigatoka",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "stateCode": "W",
+  "stateName": "Western",
+  "cityName": "Sigatoka",
+  "bbox": {
+    "minLat": -18.208,
+    "minLng": 177.5137,
+    "maxLat": -18.1637,
+    "maxLng": 177.555
+  },
+  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sigatoka-sand-dunes",
+      "name": "Sigatoka Sand Dunes",
+      "lat": -18.1667,
+      "lng": 177.5167,
+      "address": "Sigatoka",
+      "howTo": "Visit Sigatoka Sand Dunes National Park.",
+      "radiusM": 80,
+      "badge": "badges/sigatoka-sand-dunes.png"
+    },
+    {
+      "id": "korotogo-beach",
+      "name": "Korotogo Beach",
+      "lat": -18.205,
+      "lng": 177.552,
+      "address": "Sigatoka",
+      "howTo": "Visit Korotogo Beach.",
+      "radiusM": 80,
+      "badge": "badges/korotogo-beach.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:21:57.000Z",
-  "notes": "Timor-Leste (tl) complete. Next: Fiji (fj). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:28:43.000Z",
+  "notes": "Fiji (fj) complete. Next: Papua New Guinea (pg). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23322,6 +23322,104 @@
                 "minLng": 126.4533,
                 "maxLat": -8.452,
                 "maxLng": 126.473
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fj",
+      "countryCode": "FJ",
+      "name": "Fiji",
+      "states": [
+        {
+          "id": "western",
+          "stateCode": "W",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "nadi",
+              "name": "Nadi",
+              "status": "complete",
+              "packPath": "fj/western/nadi/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:28:43.000Z",
+              "bbox": {
+                "minLat": -17.7797,
+                "minLng": 177.4326,
+                "maxLat": -17.7475,
+                "maxLng": 177.484
+              }
+            },
+            {
+              "id": "sigatoka",
+              "name": "Sigatoka",
+              "status": "complete",
+              "packPath": "fj/western/sigatoka/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:28:43.000Z",
+              "bbox": {
+                "minLat": -18.208,
+                "minLng": 177.5137,
+                "maxLat": -18.1637,
+                "maxLng": 177.555
+              }
+            },
+            {
+              "id": "navala",
+              "name": "Navala",
+              "status": "complete",
+              "packPath": "fj/western/navala/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:28:43.000Z",
+              "bbox": {
+                "minLat": -17.865,
+                "minLng": 177.747,
+                "maxLat": -17.847,
+                "maxLng": 177.768
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "C",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "suva",
+              "name": "Suva",
+              "status": "complete",
+              "packPath": "fj/central/suva/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:28:43.000Z",
+              "bbox": {
+                "minLat": -18.1521,
+                "minLng": 178.4217,
+                "maxLat": -18.1386,
+                "maxLng": 178.4449
+              }
+            }
+          ]
+        },
+        {
+          "id": "northern",
+          "stateCode": "N",
+          "name": "Northern",
+          "cities": [
+            {
+              "id": "taveuni",
+              "name": "Taveuni",
+              "status": "complete",
+              "packPath": "fj/northern/taveuni/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:28:43.000Z",
+              "bbox": {
+                "minLat": -16.836,
+                "minLng": 179.88,
+                "maxLat": -16.817,
+                "maxLng": 179.953
               }
             }
           ]

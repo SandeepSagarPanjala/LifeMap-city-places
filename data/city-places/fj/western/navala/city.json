@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fj/western/navala",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "stateCode": "W",
+  "stateName": "Western",
+  "cityName": "Navala",
+  "bbox": {
+    "minLat": -17.865,
+    "minLng": 177.747,
+    "maxLat": -17.847,
+    "maxLng": 177.768
+  },
+  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "navala-village",
+      "name": "Navala Village",
+      "lat": -17.85,
+      "lng": 177.75,
+      "address": "Navala",
+      "howTo": "Visit traditional bure village of Navala.",
+      "radiusM": 80,
+      "badge": "badges/navala-village.png"
+    },
+    {
+      "id": "ba-highlands",
+      "name": "Ba Highlands",
+      "lat": -17.862,
+      "lng": 177.765,
+      "address": "Navala",
+      "howTo": "Overlook the Ba Highlands near Navala.",
+      "radiusM": 80,
+      "badge": "badges/ba-highlands.png"
+    }
+  ]
+}

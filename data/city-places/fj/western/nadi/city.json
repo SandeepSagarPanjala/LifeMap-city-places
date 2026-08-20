@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fj/western/nadi",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "stateCode": "W",
+  "stateName": "Western",
+  "cityName": "Nadi",
+  "bbox": {
+    "minLat": -17.7797,
+    "minLng": 177.4326,
+    "maxLat": -17.7475,
+    "maxLng": 177.484
+  },
+  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sri-siva-subramaniya-temple",
+      "name": "Sri Siva Subramaniya Temple",
+      "lat": -17.7767,
+      "lng": 177.4356,
+      "address": "Nadi",
+      "howTo": "Visit Sri Siva Subramaniya Temple.",
+      "radiusM": 80,
+      "badge": "badges/sri-siva-subramaniya-temple.png"
+    },
+    {
+      "id": "sabeto-hot-springs",
+      "name": "Sabeto Hot Springs",
+      "lat": -17.7505,
+      "lng": 177.481,
+      "address": "Nadi",
+      "howTo": "Visit Sabeto Hot Springs and Mud Pool.",
+      "radiusM": 80,
+      "badge": "badges/sabeto-hot-springs.png"
+    }
+  ]
+}

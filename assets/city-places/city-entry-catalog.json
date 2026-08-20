@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:21:57.746Z",
+  "generatedAt": "2026-08-20T12:28:43.756Z",
   "cellDeg": 0.5,
-  "cityCount": 1199,
+  "cityCount": 1204,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -2621,6 +2621,51 @@
         "minLng": 25.652,
         "maxLat": 60.4,
         "maxLng": 25.668
+      }
+    },
+    "fj/central/suva": {
+      "name": "Suva",
+      "bbox": {
+        "minLat": -18.1521,
+        "minLng": 178.4217,
+        "maxLat": -18.1386,
+        "maxLng": 178.4449
+      }
+    },
+    "fj/northern/taveuni": {
+      "name": "Taveuni",
+      "bbox": {
+        "minLat": -16.836,
+        "minLng": 179.88,
+        "maxLat": -16.817,
+        "maxLng": 179.953
+      }
+    },
+    "fj/western/nadi": {
+      "name": "Nadi",
+      "bbox": {
+        "minLat": -17.7797,
+        "minLng": 177.4326,
+        "maxLat": -17.7475,
+        "maxLng": 177.484
+      }
+    },
+    "fj/western/navala": {
+      "name": "Navala",
+      "bbox": {
+        "minLat": -17.865,
+        "minLng": 177.747,
+        "maxLat": -17.847,
+        "maxLng": 177.768
+      }
+    },
+    "fj/western/sigatoka": {
+      "name": "Sigatoka",
+      "bbox": {
+        "minLat": -18.208,
+        "minLng": 177.5137,
+        "maxLat": -18.1637,
+        "maxLng": 177.555
       }
     },
     "fr/auvergne-rhone-alpes/annecy": {
@@ -15924,6 +15969,21 @@
     ],
     "-17,252": [
       "tl/baucau/baucau"
+    ],
+    "-36,354": [
+      "fj/western/nadi"
+    ],
+    "-37,355": [
+      "fj/western/sigatoka"
+    ],
+    "-36,355": [
+      "fj/western/navala"
+    ],
+    "-37,356": [
+      "fj/central/suva"
+    ],
+    "-34,359": [
+      "fj/northern/taveuni"
     ]
   }
 }

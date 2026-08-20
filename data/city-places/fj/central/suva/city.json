@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "fj/central/suva",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "stateCode": "C",
+  "stateName": "Central",
+  "cityName": "Suva",
+  "bbox": {
+    "minLat": -18.1521,
+    "minLng": 178.4217,
+    "maxLat": -18.1386,
+    "maxLng": 178.4449
+  },
+  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "thurston-gardens",
+      "name": "Thurston Gardens",
+      "lat": -18.1491,
+      "lng": 178.4247,
+      "address": "Suva",
+      "howTo": "Visit Thurston Gardens.",
+      "radiusM": 80,
+      "badge": "badges/thurston-gardens.png"
+    },
+    {
+      "id": "suva-waterfront",
+      "name": "Suva Waterfront",
+      "lat": -18.1416,
+      "lng": 178.4419,
+      "address": "Suva",
+      "howTo": "Walk the Suva waterfront.",
+      "radiusM": 80,
+      "badge": "badges/suva-waterfront.png"
+    }
+  ]
+}
