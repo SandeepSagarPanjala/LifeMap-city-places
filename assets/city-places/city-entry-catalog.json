@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:35:43.638Z",
+  "generatedAt": "2026-08-20T11:41:04.302Z",
   "cellDeg": 0.5,
-  "cityCount": 1159,
+  "cityCount": 1164,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7193,6 +7193,51 @@
         "minLng": 118.72,
         "maxLat": 9.76,
         "maxLng": 118.77
+      }
+    },
+    "pk/gilgit-baltistan/hunza": {
+      "name": "Hunza",
+      "bbox": {
+        "minLat": 36.3225,
+        "minLng": 74.66694,
+        "maxLat": 36.3305,
+        "maxLng": 74.675
+      }
+    },
+    "pk/islamabad/islamabad": {
+      "name": "Islamabad",
+      "bbox": {
+        "minLat": 33.69041,
+        "minLng": 73.03434,
+        "maxLat": 33.73299,
+        "maxLng": 73.07132
+      }
+    },
+    "pk/punjab/lahore": {
+      "name": "Lahore",
+      "bbox": {
+        "minLat": 31.58513,
+        "minLng": 74.30635,
+        "maxLat": 31.5912,
+        "maxLng": 74.318
+      }
+    },
+    "pk/sindh/karachi": {
+      "name": "Karachi",
+      "bbox": {
+        "minLat": 24.80548,
+        "minLng": 67.00689,
+        "maxLat": 24.8775,
+        "maxLng": 67.04237
+      }
+    },
+    "pk/sindh/mohenjo-daro": {
+      "name": "Mohenjo-daro",
+      "bbox": {
+        "minLat": 27.32233,
+        "minLng": 68.13194,
+        "maxLat": 27.3305,
+        "maxLng": 68.14
       }
     },
     "pl/malopolskie/krakow": {
@@ -15447,6 +15492,21 @@
     ],
     "69,134": [
       "af/bamyan/band-e-amir"
+    ],
+    "63,148": [
+      "pk/punjab/lahore"
+    ],
+    "67,146": [
+      "pk/islamabad/islamabad"
+    ],
+    "49,134": [
+      "pk/sindh/karachi"
+    ],
+    "54,136": [
+      "pk/sindh/mohenjo-daro"
+    ],
+    "72,149": [
+      "pk/gilgit-baltistan/hunza"
     ]
   }
 }

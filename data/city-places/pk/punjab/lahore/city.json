@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pk/punjab/lahore",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "stateCode": "PB",
+  "stateName": "Punjab",
+  "cityName": "Lahore",
+  "bbox": {
+    "minLat": 31.58513,
+    "minLng": 74.30635,
+    "maxLat": 31.5912,
+    "maxLng": 74.318
+  },
+  "updatedAt": "2026-08-20T11:36:36.000Z",
+  "status": "in_progress",
+  "places": [
+    {
+      "id": "badshahi-mosque",
+      "name": "Badshahi Mosque",
+      "lat": 31.58813,
+      "lng": 74.30935,
+      "radiusM": 60,
+      "address": "Lahore",
+      "howTo": "Visit Badshahi Mosque.",
+      "badge": "badges/badshahi-mosque.png"
+    },
+    {
+      "id": "lahore-fort",
+      "name": "Lahore Fort",
+      "lat": 31.5882,
+      "lng": 74.315,
+      "radiusM": 80,
+      "address": "Lahore",
+      "howTo": "Visit Lahore Fort.",
+      "badge": "badges/lahore-fort.png"
+    }
+  ]
+}

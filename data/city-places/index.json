@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:35:43.000Z",
-  "notes": "Afghanistan (af) complete. Next: Pakistan (pk) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:41:01.000Z",
+  "notes": "Pakistan (pk) complete. Next: Bangladesh (bd). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22468,6 +22468,111 @@
                 "minLng": 67.28102,
                 "maxLat": 34.8955,
                 "maxLng": 67.2895
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pk",
+      "countryCode": "PK",
+      "name": "Pakistan",
+      "states": [
+        {
+          "id": "punjab",
+          "stateCode": "PB",
+          "name": "Punjab",
+          "cities": [
+            {
+              "id": "lahore",
+              "name": "Lahore",
+              "status": "complete",
+              "packPath": "pk/punjab/lahore/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:41:01.000Z",
+              "bbox": {
+                "minLat": 31.58513,
+                "minLng": 74.30635,
+                "maxLat": 31.5912,
+                "maxLng": 74.318
+              }
+            }
+          ]
+        },
+        {
+          "id": "islamabad",
+          "stateCode": "IS",
+          "name": "Islamabad",
+          "cities": [
+            {
+              "id": "islamabad",
+              "name": "Islamabad",
+              "status": "complete",
+              "packPath": "pk/islamabad/islamabad/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:41:01.000Z",
+              "bbox": {
+                "minLat": 33.69041,
+                "minLng": 73.03434,
+                "maxLat": 33.73299,
+                "maxLng": 73.07132
+              }
+            }
+          ]
+        },
+        {
+          "id": "sindh",
+          "stateCode": "SD",
+          "name": "Sindh",
+          "cities": [
+            {
+              "id": "karachi",
+              "name": "Karachi",
+              "status": "complete",
+              "packPath": "pk/sindh/karachi/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:41:01.000Z",
+              "bbox": {
+                "minLat": 24.80548,
+                "minLng": 67.00689,
+                "maxLat": 24.8775,
+                "maxLng": 67.04237
+              }
+            },
+            {
+              "id": "mohenjo-daro",
+              "name": "Mohenjo-daro",
+              "status": "complete",
+              "packPath": "pk/sindh/mohenjo-daro/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:41:01.000Z",
+              "bbox": {
+                "minLat": 27.32233,
+                "minLng": 68.13194,
+                "maxLat": 27.3305,
+                "maxLng": 68.14
+              }
+            }
+          ]
+        },
+        {
+          "id": "gilgit-baltistan",
+          "stateCode": "GB",
+          "name": "Gilgit-Baltistan",
+          "cities": [
+            {
+              "id": "hunza",
+              "name": "Hunza",
+              "status": "complete",
+              "packPath": "pk/gilgit-baltistan/hunza/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:41:01.000Z",
+              "bbox": {
+                "minLat": 36.3225,
+                "minLng": 74.66694,
+                "maxLat": 36.3305,
+                "maxLng": 74.675
               }
             }
           ]

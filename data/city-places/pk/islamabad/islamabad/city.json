@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pk/islamabad/islamabad",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "stateCode": "IS",
+  "stateName": "Islamabad",
+  "cityName": "Islamabad",
+  "bbox": {
+    "minLat": 33.69041,
+    "minLng": 73.03434,
+    "maxLat": 33.73299,
+    "maxLng": 73.07132
+  },
+  "updatedAt": "2026-08-20T11:36:36.000Z",
+  "status": "in_progress",
+  "places": [
+    {
+      "id": "faisal-mosque",
+      "name": "Faisal Mosque",
+      "lat": 33.72999,
+      "lng": 73.03734,
+      "radiusM": 80,
+      "address": "Islamabad",
+      "howTo": "Visit Faisal Mosque.",
+      "badge": "badges/faisal-mosque.png"
+    },
+    {
+      "id": "pakistan-monument",
+      "name": "Pakistan Monument",
+      "lat": 33.69341,
+      "lng": 73.06832,
+      "radiusM": 60,
+      "address": "Islamabad",
+      "howTo": "Visit the Pakistan Monument.",
+      "badge": "badges/pakistan-monument.png"
+    }
+  ]
+}

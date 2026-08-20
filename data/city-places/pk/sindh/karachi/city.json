@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pk/sindh/karachi",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "stateCode": "SD",
+  "stateName": "Sindh",
+  "cityName": "Karachi",
+  "bbox": {
+    "minLat": 24.80548,
+    "minLng": 67.00689,
+    "maxLat": 24.8775,
+    "maxLng": 67.04237
+  },
+  "updatedAt": "2026-08-20T11:36:36.000Z",
+  "status": "in_progress",
+  "places": [
+    {
+      "id": "clifton-beach",
+      "name": "Clifton Beach",
+      "lat": 24.80848,
+      "lng": 67.00989,
+      "radiusM": 100,
+      "address": "Karachi",
+      "howTo": "Visit Clifton Beach.",
+      "badge": "badges/clifton-beach.png"
+    },
+    {
+      "id": "quaid-mausoleum",
+      "name": "Mazar-e-Quaid",
+      "lat": 24.8745,
+      "lng": 67.03937,
+      "radiusM": 60,
+      "address": "Karachi",
+      "howTo": "Visit Mazar-e-Quaid.",
+      "badge": "badges/quaid-mausoleum.png"
+    }
+  ]
+}

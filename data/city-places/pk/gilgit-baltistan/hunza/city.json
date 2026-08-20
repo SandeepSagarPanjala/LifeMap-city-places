@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pk/gilgit-baltistan/hunza",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "stateCode": "GB",
+  "stateName": "Gilgit-Baltistan",
+  "cityName": "Hunza",
+  "bbox": {
+    "minLat": 36.3225,
+    "minLng": 74.66694,
+    "maxLat": 36.3305,
+    "maxLng": 74.675
+  },
+  "updatedAt": "2026-08-20T11:36:36.000Z",
+  "status": "in_progress",
+  "places": [
+    {
+      "id": "baltit-fort",
+      "name": "Baltit Fort",
+      "lat": 36.3255,
+      "lng": 74.66994,
+      "radiusM": 60,
+      "address": "Karimabad",
+      "howTo": "Visit Baltit Fort.",
+      "badge": "badges/baltit-fort.png"
+    },
+    {
+      "id": "hunza-valley",
+      "name": "Hunza Valley",
+      "lat": 36.3275,
+      "lng": 74.672,
+      "radiusM": 120,
+      "address": "Karimabad",
+      "howTo": "Visit the Hunza valley viewpoint.",
+      "badge": "badges/hunza-valley.png"
+    }
+  ]
+}

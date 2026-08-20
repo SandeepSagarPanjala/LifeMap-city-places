@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pk/sindh/mohenjo-daro",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "stateCode": "SD",
+  "stateName": "Sindh",
+  "cityName": "Mohenjo-daro",
+  "bbox": {
+    "minLat": 27.32233,
+    "minLng": 68.13194,
+    "maxLat": 27.3305,
+    "maxLng": 68.14
+  },
+  "updatedAt": "2026-08-20T11:36:36.000Z",
+  "status": "in_progress",
+  "places": [
+    {
+      "id": "mohenjo-daro",
+      "name": "Mohenjo-daro",
+      "lat": 27.32533,
+      "lng": 68.13494,
+      "radiusM": 150,
+      "address": "Larkana",
+      "howTo": "Visit Mohenjo-daro.",
+      "badge": "badges/mohenjo-daro.png"
+    },
+    {
+      "id": "mohenjo-daro-ruins",
+      "name": "Mohenjo-daro Ruins",
+      "lat": 27.3275,
+      "lng": 68.137,
+      "radiusM": 120,
+      "address": "Larkana",
+      "howTo": "Explore the ruins of Mohenjo-daro.",
+      "badge": "badges/mohenjo-daro-ruins.png"
+    }
+  ]
+}
