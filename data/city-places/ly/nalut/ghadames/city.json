@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ly/nalut/ghadames",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "stateCode": "NL",
+  "stateName": "Nalut",
+  "cityName": "Ghadames",
+  "bbox": {
+    "minLat": 30.12284,
+    "minLng": 9.48707,
+    "maxLat": 30.13575,
+    "maxLng": 9.50035
+  },
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ghadames",
+      "name": "Ghadames",
+      "lat": 30.12584,
+      "lng": 9.49007,
+      "radiusM": 100,
+      "address": "Ghadames",
+      "howTo": "Visit Ghadames.",
+      "badge": "badges/ghadames.png"
+    },
+    {
+      "id": "ghadames-old-town",
+      "name": "Ghadames Old Town",
+      "lat": 30.13275,
+      "lng": 9.49735,
+      "radiusM": 80,
+      "address": "Ghadames",
+      "howTo": "Visit the Ghadames Old Town.",
+      "badge": "badges/ghadames-old-town.png"
+    }
+  ]
+}

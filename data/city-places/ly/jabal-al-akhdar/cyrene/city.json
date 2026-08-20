@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ly/jabal-al-akhdar/cyrene",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "stateCode": "JA",
+  "stateName": "Jabal al Akhdar",
+  "cityName": "Cyrene",
+  "bbox": {
+    "minLat": 32.81772,
+    "minLng": 21.85206,
+    "maxLat": 32.82534,
+    "maxLng": 21.86544
+  },
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "cyrene",
+      "name": "Cyrene",
+      "lat": 32.82072,
+      "lng": 21.85506,
+      "radiusM": 150,
+      "address": "Shahhat",
+      "howTo": "Visit Cyrene.",
+      "badge": "badges/cyrene.png"
+    },
+    {
+      "id": "temple-of-zeus",
+      "name": "Temple of Zeus",
+      "lat": 32.82234,
+      "lng": 21.86244,
+      "radiusM": 80,
+      "address": "Shahhat",
+      "howTo": "Visit the Temple of Zeus at Cyrene.",
+      "badge": "badges/temple-of-zeus.png"
+    }
+  ]
+}

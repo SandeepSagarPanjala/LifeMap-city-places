@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ly/tripoli/tripoli",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "stateCode": "TB",
+  "stateName": "Tripoli",
+  "cityName": "Tripoli",
+  "bbox": {
+    "minLat": 32.89433,
+    "minLng": 13.17283,
+    "maxLat": 32.90293,
+    "maxLng": 13.18028
+  },
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "marcus-aurelius",
+      "name": "Arch of Marcus Aurelius",
+      "lat": 32.89993,
+      "lng": 13.17583,
+      "radiusM": 40,
+      "address": "Tripoli Medina",
+      "howTo": "Visit the Arch of Marcus Aurelius.",
+      "badge": "badges/marcus-aurelius.png"
+    },
+    {
+      "id": "medina",
+      "name": "Tripoli Medina",
+      "lat": 32.89733,
+      "lng": 13.17728,
+      "radiusM": 80,
+      "address": "Tripoli",
+      "howTo": "Visit the Tripoli Medina.",
+      "badge": "badges/medina.png"
+    }
+  ]
+}

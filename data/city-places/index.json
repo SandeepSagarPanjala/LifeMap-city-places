@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:58:34.000Z",
-  "notes": "Central African Republic (cf) complete. Next: Libya (ly) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "notes": "Libya (ly) complete. Next: South Sudan (ss) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21726,6 +21726,118 @@
                 "minLng": 15.78478,
                 "maxLat": 4.2645,
                 "maxLng": 15.793
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly",
+      "countryCode": "LY",
+      "name": "Libya",
+      "states": [
+        {
+          "id": "tripoli",
+          "stateCode": "TB",
+          "name": "Tripoli",
+          "cities": [
+            {
+              "id": "tripoli",
+              "name": "Tripoli",
+              "status": "complete",
+              "packPath": "ly/tripoli/tripoli/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:03:35.000Z",
+              "bbox": {
+                "minLat": 32.89433,
+                "minLng": 13.17283,
+                "maxLat": 32.90293,
+                "maxLng": 13.18028
+              }
+            }
+          ]
+        },
+        {
+          "id": "murqub",
+          "stateCode": "MB",
+          "name": "Murqub",
+          "cities": [
+            {
+              "id": "leptis-magna",
+              "name": "Leptis Magna",
+              "status": "complete",
+              "packPath": "ly/murqub/leptis-magna/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:03:35.000Z",
+              "bbox": {
+                "minLat": 32.63348,
+                "minLng": 14.28745,
+                "maxLat": 32.64144,
+                "maxLng": 14.29398
+              }
+            }
+          ]
+        },
+        {
+          "id": "nuqat-al-khams",
+          "stateCode": "NQ",
+          "name": "Nuqat al Khams",
+          "cities": [
+            {
+              "id": "sabratha",
+              "name": "Sabratha",
+              "status": "complete",
+              "packPath": "ly/nuqat-al-khams/sabratha/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:03:35.000Z",
+              "bbox": {
+                "minLat": 32.7855,
+                "minLng": 12.4822,
+                "maxLat": 32.80825,
+                "maxLng": 12.49434
+              }
+            }
+          ]
+        },
+        {
+          "id": "jabal-al-akhdar",
+          "stateCode": "JA",
+          "name": "Jabal al Akhdar",
+          "cities": [
+            {
+              "id": "cyrene",
+              "name": "Cyrene",
+              "status": "complete",
+              "packPath": "ly/jabal-al-akhdar/cyrene/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:03:35.000Z",
+              "bbox": {
+                "minLat": 32.81772,
+                "minLng": 21.85206,
+                "maxLat": 32.82534,
+                "maxLng": 21.86544
+              }
+            }
+          ]
+        },
+        {
+          "id": "nalut",
+          "stateCode": "NL",
+          "name": "Nalut",
+          "cities": [
+            {
+              "id": "ghadames",
+              "name": "Ghadames",
+              "status": "complete",
+              "packPath": "ly/nalut/ghadames/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T11:03:35.000Z",
+              "bbox": {
+                "minLat": 30.12284,
+                "minLng": 9.48707,
+                "maxLat": 30.13575,
+                "maxLng": 9.50035
               }
             }
           ]

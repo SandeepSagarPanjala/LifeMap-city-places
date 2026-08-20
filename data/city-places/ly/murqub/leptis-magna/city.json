@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ly/murqub/leptis-magna",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "stateCode": "MB",
+  "stateName": "Murqub",
+  "cityName": "Leptis Magna",
+  "bbox": {
+    "minLat": 32.63348,
+    "minLng": 14.28745,
+    "maxLat": 32.64144,
+    "maxLng": 14.29398
+  },
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "leptis-magna",
+      "name": "Leptis Magna",
+      "lat": 32.63648,
+      "lng": 14.29098,
+      "radiusM": 200,
+      "address": "Khoms",
+      "howTo": "Visit Leptis Magna.",
+      "badge": "badges/leptis-magna.png"
+    },
+    {
+      "id": "leptis-theatre",
+      "name": "Leptis Magna Theatre",
+      "lat": 32.63844,
+      "lng": 14.29045,
+      "radiusM": 100,
+      "address": "Khoms",
+      "howTo": "Visit the Leptis Magna theatre.",
+      "badge": "badges/leptis-theatre.png"
+    }
+  ]
+}

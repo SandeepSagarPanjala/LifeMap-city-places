@@ -177,7 +177,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 131. `sd` — Sudan (**complete**)
 132. `td` — Chad (**complete**)
 133. `cf` — Central African Republic (**complete**)
-134. `ly` — Libya
+134. `ly` — Libya (**complete**)
+135. `ss` — South Sudan
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

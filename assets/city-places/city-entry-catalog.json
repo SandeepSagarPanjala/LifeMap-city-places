@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T10:58:34.240Z",
+  "generatedAt": "2026-08-20T11:03:35.066Z",
   "cellDeg": 0.5,
-  "cityCount": 1124,
+  "cityCount": 1129,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5717,6 +5717,51 @@
         "minLng": 24.022,
         "maxLat": 56.416,
         "maxLng": 24.029
+      }
+    },
+    "ly/jabal-al-akhdar/cyrene": {
+      "name": "Cyrene",
+      "bbox": {
+        "minLat": 32.81772,
+        "minLng": 21.85206,
+        "maxLat": 32.82534,
+        "maxLng": 21.86544
+      }
+    },
+    "ly/murqub/leptis-magna": {
+      "name": "Leptis Magna",
+      "bbox": {
+        "minLat": 32.63348,
+        "minLng": 14.28745,
+        "maxLat": 32.64144,
+        "maxLng": 14.29398
+      }
+    },
+    "ly/nalut/ghadames": {
+      "name": "Ghadames",
+      "bbox": {
+        "minLat": 30.12284,
+        "minLng": 9.48707,
+        "maxLat": 30.13575,
+        "maxLng": 9.50035
+      }
+    },
+    "ly/nuqat-al-khams/sabratha": {
+      "name": "Sabratha",
+      "bbox": {
+        "minLat": 32.7855,
+        "minLng": 12.4822,
+        "maxLat": 32.80825,
+        "maxLng": 12.49434
+      }
+    },
+    "ly/tripoli/tripoli": {
+      "name": "Tripoli",
+      "bbox": {
+        "minLat": 32.89433,
+        "minLng": 13.17283,
+        "maxLat": 32.90293,
+        "maxLng": 13.18028
       }
     },
     "ma/casablanca/casablanca": {
@@ -15023,6 +15068,24 @@
     ],
     "8,31": [
       "cf/mambere-kadei/berberati"
+    ],
+    "65,26": [
+      "ly/tripoli/tripoli"
+    ],
+    "65,28": [
+      "ly/murqub/leptis-magna"
+    ],
+    "65,24": [
+      "ly/nuqat-al-khams/sabratha"
+    ],
+    "65,43": [
+      "ly/jabal-al-akhdar/cyrene"
+    ],
+    "60,18": [
+      "ly/nalut/ghadames"
+    ],
+    "60,19": [
+      "ly/nalut/ghadames"
     ]
   }
 }

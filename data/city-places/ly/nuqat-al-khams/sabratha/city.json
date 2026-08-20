@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ly/nuqat-al-khams/sabratha",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "stateCode": "NQ",
+  "stateName": "Nuqat al Khams",
+  "cityName": "Sabratha",
+  "bbox": {
+    "minLat": 32.7855,
+    "minLng": 12.4822,
+    "maxLat": 32.80825,
+    "maxLng": 12.49434
+  },
+  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sabratha",
+      "name": "Sabratha",
+      "lat": 32.7885,
+      "lng": 12.49134,
+      "radiusM": 150,
+      "address": "Sabratha",
+      "howTo": "Visit Sabratha.",
+      "badge": "badges/sabratha.png"
+    },
+    {
+      "id": "sabratha-theatre",
+      "name": "Sabratha Theatre",
+      "lat": 32.80525,
+      "lng": 12.4852,
+      "radiusM": 80,
+      "address": "Sabratha",
+      "howTo": "Visit the Sabratha theatre.",
+      "badge": "badges/sabratha-theatre.png"
+    }
+  ]
+}
