@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "td/salamat/zakouma",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "stateCode": "SA",
+  "stateName": "Salamat",
+  "cityName": "Zakouma",
+  "bbox": {
+    "minLat": 10.88874,
+    "minLng": 19.81738,
+    "maxLat": 10.898,
+    "maxLng": 19.826
+  },
+  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "zakouma",
+      "name": "Zakouma",
+      "lat": 10.89174,
+      "lng": 19.82038,
+      "radiusM": 250,
+      "address": "Salamat",
+      "howTo": "Visit Zakouma National Park landscapes.",
+      "badge": "badges/zakouma.png"
+    },
+    {
+      "id": "zakouma-plains",
+      "name": "Zakouma Plains",
+      "lat": 10.895,
+      "lng": 19.823,
+      "radiusM": 200,
+      "address": "Salamat",
+      "howTo": "Visit the Zakouma plains.",
+      "badge": "badges/zakouma-plains.png"
+    }
+  ]
+}

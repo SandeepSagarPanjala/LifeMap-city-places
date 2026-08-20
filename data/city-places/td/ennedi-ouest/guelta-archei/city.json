@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "td/ennedi-ouest/guelta-archei",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "stateCode": "EO",
+  "stateName": "Ennedi Ouest",
+  "cityName": "Guelta d'Archei",
+  "bbox": {
+    "minLat": 16.90104,
+    "minLng": 21.7685,
+    "maxLat": 16.9095,
+    "maxLng": 21.77679
+  },
+  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "guelta-archei",
+      "name": "Guelta d'Archei",
+      "lat": 16.90404,
+      "lng": 21.77379,
+      "radiusM": 150,
+      "address": "Ennedi",
+      "howTo": "Visit Guelta d'Archei.",
+      "badge": "badges/guelta-archei.png"
+    },
+    {
+      "id": "archei-canyon",
+      "name": "Archei Canyon",
+      "lat": 16.9065,
+      "lng": 21.7715,
+      "radiusM": 120,
+      "address": "Ennedi",
+      "howTo": "Visit the Archei canyon walls.",
+      "badge": "badges/archei-canyon.png"
+    }
+  ]
+}

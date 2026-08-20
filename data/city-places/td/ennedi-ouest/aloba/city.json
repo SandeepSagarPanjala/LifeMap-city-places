@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "td/ennedi-ouest/aloba",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "stateCode": "EO",
+  "stateName": "Ennedi Ouest",
+  "cityName": "Aloba",
+  "bbox": {
+    "minLat": 16.73884,
+    "minLng": 22.234,
+    "maxLat": 16.747,
+    "maxLng": 22.24205
+  },
+  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "aloba-arch",
+      "name": "Aloba Arch",
+      "lat": 16.74184,
+      "lng": 22.23905,
+      "radiusM": 150,
+      "address": "Ennedi",
+      "howTo": "Visit Aloba Arch.",
+      "badge": "badges/aloba-arch.png"
+    },
+    {
+      "id": "aloba-cliffs",
+      "name": "Aloba Cliffs",
+      "lat": 16.744,
+      "lng": 22.237,
+      "radiusM": 120,
+      "address": "Ennedi",
+      "howTo": "Visit the sandstone cliffs near Aloba Arch.",
+      "badge": "badges/aloba-cliffs.png"
+    }
+  ]
+}

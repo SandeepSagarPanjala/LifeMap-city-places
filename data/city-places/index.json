@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:48:46.000Z",
-  "notes": "Sudan (sd) complete. Next: Chad (td) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "notes": "Chad (td) complete. Next: Central African Republic (cf) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21509,6 +21509,111 @@
                 "minLng": 37.21114,
                 "maxLat": 19.6195,
                 "maxLng": 37.22
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "td",
+      "countryCode": "TD",
+      "name": "Chad",
+      "states": [
+        {
+          "id": "ndjamena",
+          "stateCode": "ND",
+          "name": "N'Djamena",
+          "cities": [
+            {
+              "id": "ndjamena",
+              "name": "N'Djamena",
+              "status": "complete",
+              "packPath": "td/ndjamena/ndjamena/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:53:26.000Z",
+              "bbox": {
+                "minLat": 12.1079,
+                "minLng": 15.0343,
+                "maxLat": 12.11448,
+                "maxLng": 15.05447
+              }
+            }
+          ]
+        },
+        {
+          "id": "salamat",
+          "stateCode": "SA",
+          "name": "Salamat",
+          "cities": [
+            {
+              "id": "zakouma",
+              "name": "Zakouma",
+              "status": "complete",
+              "packPath": "td/salamat/zakouma/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:53:26.000Z",
+              "bbox": {
+                "minLat": 10.88874,
+                "minLng": 19.81738,
+                "maxLat": 10.898,
+                "maxLng": 19.826
+              }
+            }
+          ]
+        },
+        {
+          "id": "ennedi-ouest",
+          "stateCode": "EO",
+          "name": "Ennedi Ouest",
+          "cities": [
+            {
+              "id": "guelta-archei",
+              "name": "Guelta d'Archei",
+              "status": "complete",
+              "packPath": "td/ennedi-ouest/guelta-archei/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:53:26.000Z",
+              "bbox": {
+                "minLat": 16.90104,
+                "minLng": 21.7685,
+                "maxLat": 16.9095,
+                "maxLng": 21.77679
+              }
+            },
+            {
+              "id": "aloba",
+              "name": "Aloba",
+              "status": "complete",
+              "packPath": "td/ennedi-ouest/aloba/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:53:26.000Z",
+              "bbox": {
+                "minLat": 16.73884,
+                "minLng": 22.234,
+                "maxLat": 16.747,
+                "maxLng": 22.24205
+              }
+            }
+          ]
+        },
+        {
+          "id": "ouaddai",
+          "stateCode": "OD",
+          "name": "Ouadda\u00ef",
+          "cities": [
+            {
+              "id": "abeche",
+              "name": "Ab\u00e9ch\u00e9",
+              "status": "complete",
+              "packPath": "td/ouaddai/abeche/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:53:26.000Z",
+              "bbox": {
+                "minLat": 13.80045,
+                "minLng": 20.76366,
+                "maxLat": 13.809,
+                "maxLng": 20.772
               }
             }
           ]

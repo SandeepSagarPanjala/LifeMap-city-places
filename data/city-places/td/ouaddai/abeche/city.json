@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "td/ouaddai/abeche",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "stateCode": "OD",
+  "stateName": "Ouadda\u00ef",
+  "cityName": "Ab\u00e9ch\u00e9",
+  "bbox": {
+    "minLat": 13.80045,
+    "minLng": 20.76366,
+    "maxLat": 13.809,
+    "maxLng": 20.772
+  },
+  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "abeche-mosque",
+      "name": "Ab\u00e9ch\u00e9 Mosque",
+      "lat": 13.80345,
+      "lng": 20.76666,
+      "radiusM": 50,
+      "address": "Ab\u00e9ch\u00e9",
+      "howTo": "Visit Ab\u00e9ch\u00e9 Mosque.",
+      "badge": "badges/abeche-mosque.png"
+    },
+    {
+      "id": "abeche-square",
+      "name": "Ab\u00e9ch\u00e9 Square",
+      "lat": 13.806,
+      "lng": 20.769,
+      "radiusM": 60,
+      "address": "Ab\u00e9ch\u00e9",
+      "howTo": "Visit the Ab\u00e9ch\u00e9 town square.",
+      "badge": "badges/abeche-square.png"
+    }
+  ]
+}

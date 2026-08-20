@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T10:48:46.459Z",
+  "generatedAt": "2026-08-20T10:53:26.931Z",
   "cellDeg": 0.5,
-  "cityCount": 1114,
+  "cityCount": 1119,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7744,6 +7744,51 @@
         "maxLng": 31.178
       }
     },
+    "td/ennedi-ouest/aloba": {
+      "name": "Aloba",
+      "bbox": {
+        "minLat": 16.73884,
+        "minLng": 22.234,
+        "maxLat": 16.747,
+        "maxLng": 22.24205
+      }
+    },
+    "td/ennedi-ouest/guelta-archei": {
+      "name": "Guelta d'Archei",
+      "bbox": {
+        "minLat": 16.90104,
+        "minLng": 21.7685,
+        "maxLat": 16.9095,
+        "maxLng": 21.77679
+      }
+    },
+    "td/ndjamena/ndjamena": {
+      "name": "N'Djamena",
+      "bbox": {
+        "minLat": 12.1079,
+        "minLng": 15.0343,
+        "maxLat": 12.11448,
+        "maxLng": 15.05447
+      }
+    },
+    "td/ouaddai/abeche": {
+      "name": "Abéché",
+      "bbox": {
+        "minLat": 13.80045,
+        "minLng": 20.76366,
+        "maxLat": 13.809,
+        "maxLng": 20.772
+      }
+    },
+    "td/salamat/zakouma": {
+      "name": "Zakouma",
+      "bbox": {
+        "minLat": 10.88874,
+        "minLng": 19.81738,
+        "maxLat": 10.898,
+        "maxLng": 19.826
+      }
+    },
     "tg/kara/koutammakou": {
       "name": "Koutammakou",
       "bbox": {
@@ -14905,6 +14950,21 @@
     ],
     "39,74": [
       "sd/red-sea/port-sudan"
+    ],
+    "24,30": [
+      "td/ndjamena/ndjamena"
+    ],
+    "21,39": [
+      "td/salamat/zakouma"
+    ],
+    "33,43": [
+      "td/ennedi-ouest/guelta-archei"
+    ],
+    "33,44": [
+      "td/ennedi-ouest/aloba"
+    ],
+    "27,41": [
+      "td/ouaddai/abeche"
     ]
   }
 }
