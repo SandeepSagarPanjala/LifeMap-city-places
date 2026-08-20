@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mm/yangon/yangon",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "stateCode": "06",
+  "stateName": "Yangon",
+  "cityName": "Yangon",
+  "bbox": {
+    "minLat": 16.77139,
+    "minLng": 96.1467,
+    "maxLat": 16.80135,
+    "maxLng": 96.16178
+  },
+  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "shwedagon-pagoda",
+      "name": "Shwedagon Pagoda",
+      "lat": 16.798354,
+      "lng": 96.149705,
+      "address": "Yangon",
+      "howTo": "Visit Shwedagon Pagoda.",
+      "radiusM": 80,
+      "badge": "badges/shwedagon-pagoda.png"
+    },
+    {
+      "id": "sule-pagoda",
+      "name": "Sule Pagoda",
+      "lat": 16.774389,
+      "lng": 96.158778,
+      "address": "Yangon",
+      "howTo": "Visit Sule Pagoda.",
+      "radiusM": 80,
+      "badge": "badges/sule-pagoda.png"
+    }
+  ]
+}

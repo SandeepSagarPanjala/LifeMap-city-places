@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mm/shan/inle",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "stateCode": "17",
+  "stateName": "Shan",
+  "cityName": "Inle",
+  "bbox": {
+    "minLat": 20.4565,
+    "minLng": 96.9065,
+    "maxLat": 20.553,
+    "maxLng": 96.91967
+  },
+  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "inle-lake",
+      "name": "Inle Lake",
+      "lat": 20.55,
+      "lng": 96.916667,
+      "address": "Inle",
+      "howTo": "Visit Inle Lake.",
+      "radiusM": 80,
+      "badge": "badges/inle-lake.png"
+    },
+    {
+      "id": "phaung-daw-oo-pagoda",
+      "name": "Phaung Daw Oo Pagoda",
+      "lat": 20.4595,
+      "lng": 96.9095,
+      "address": "Inle",
+      "howTo": "Visit Phaung Daw Oo Pagoda.",
+      "radiusM": 80,
+      "badge": "badges/phaung-daw-oo-pagoda.png"
+    }
+  ]
+}

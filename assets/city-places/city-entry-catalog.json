@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:07:23.727Z",
+  "generatedAt": "2026-08-20T12:12:30.737Z",
   "cellDeg": 0.5,
-  "cityCount": 1184,
+  "cityCount": 1189,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -6239,6 +6239,51 @@
         "minLng": -3.012,
         "maxLat": 16.778,
         "maxLng": -3.005
+      }
+    },
+    "mm/mandalay/bagan": {
+      "name": "Bagan",
+      "bbox": {
+        "minLat": 21.16575,
+        "minLng": 94.85995,
+        "maxLat": 21.17381,
+        "maxLng": 94.87086
+      }
+    },
+    "mm/mandalay/mandalay": {
+      "name": "Mandalay",
+      "bbox": {
+        "minLat": 21.88839,
+        "minLng": 96.05311,
+        "maxLat": 21.99594,
+        "maxLng": 96.09891
+      }
+    },
+    "mm/mon/kyaiktiyo": {
+      "name": "Kyaiktiyo",
+      "bbox": {
+        "minLat": 17.47868,
+        "minLng": 97.09512,
+        "maxLat": 17.4865,
+        "maxLng": 97.1025
+      }
+    },
+    "mm/shan/inle": {
+      "name": "Inle",
+      "bbox": {
+        "minLat": 20.4565,
+        "minLng": 96.9065,
+        "maxLat": 20.553,
+        "maxLng": 96.91967
+      }
+    },
+    "mm/yangon/yangon": {
+      "name": "Yangon",
+      "bbox": {
+        "minLat": 16.77139,
+        "minLng": 96.1467,
+        "maxLat": 16.80135,
+        "maxLng": 96.16178
       }
     },
     "mn/omnogovi/bayanzag": {
@@ -15744,6 +15789,24 @@
     ],
     "-2,146": [
       "mv/seenu/addu"
+    ],
+    "33,192": [
+      "mm/yangon/yangon"
+    ],
+    "42,189": [
+      "mm/mandalay/bagan"
+    ],
+    "43,192": [
+      "mm/mandalay/mandalay"
+    ],
+    "34,194": [
+      "mm/mon/kyaiktiyo"
+    ],
+    "40,193": [
+      "mm/shan/inle"
+    ],
+    "41,193": [
+      "mm/shan/inle"
     ]
   }
 }

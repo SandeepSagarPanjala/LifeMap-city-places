@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mm/mandalay/bagan",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "stateCode": "04",
+  "stateName": "Mandalay",
+  "cityName": "Bagan",
+  "bbox": {
+    "minLat": 21.16575,
+    "minLng": 94.85995,
+    "maxLat": 21.17381,
+    "maxLng": 94.87086
+  },
+  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ananda-temple",
+      "name": "Ananda Temple",
+      "lat": 21.170806,
+      "lng": 94.867856,
+      "address": "Bagan",
+      "howTo": "Visit Ananda Temple.",
+      "radiusM": 80,
+      "badge": "badges/ananda-temple.png"
+    },
+    {
+      "id": "thatbyinnyu-temple",
+      "name": "Thatbyinnyu Temple",
+      "lat": 21.16875,
+      "lng": 94.86295,
+      "address": "Bagan",
+      "howTo": "Visit Thatbyinnyu Temple.",
+      "radiusM": 80,
+      "badge": "badges/thatbyinnyu-temple.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mm/mon/kyaiktiyo",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "stateCode": "11",
+  "stateName": "Mon",
+  "cityName": "Kyaiktiyo",
+  "bbox": {
+    "minLat": 17.47868,
+    "minLng": 97.09512,
+    "maxLat": 17.4865,
+    "maxLng": 97.1025
+  },
+  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "kyaiktiyo-pagoda",
+      "name": "Kyaiktiyo Pagoda",
+      "lat": 17.481682,
+      "lng": 97.098118,
+      "address": "Kyaiktiyo",
+      "howTo": "Visit Kyaiktiyo Pagoda (Golden Rock).",
+      "radiusM": 80,
+      "badge": "badges/kyaiktiyo-pagoda.png"
+    },
+    {
+      "id": "golden-rock-viewpoint",
+      "name": "Golden Rock Viewpoint",
+      "lat": 17.4835,
+      "lng": 97.0995,
+      "address": "Kyaiktiyo",
+      "howTo": "View the Golden Rock from the mountain terrace.",
+      "radiusM": 80,
+      "badge": "badges/golden-rock-viewpoint.png"
+    }
+  ]
+}

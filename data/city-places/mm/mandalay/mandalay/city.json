@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mm/mandalay/mandalay",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "stateCode": "04",
+  "stateName": "Mandalay",
+  "cityName": "Mandalay",
+  "bbox": {
+    "minLat": 21.88839,
+    "minLng": 96.05311,
+    "maxLat": 21.99594,
+    "maxLng": 96.09891
+  },
+  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mandalay-palace",
+      "name": "Mandalay Palace",
+      "lat": 21.992942,
+      "lng": 96.095911,
+      "address": "Mandalay",
+      "howTo": "Visit Mandalay Palace.",
+      "radiusM": 80,
+      "badge": "badges/mandalay-palace.png"
+    },
+    {
+      "id": "u-bein-bridge",
+      "name": "U Bein Bridge",
+      "lat": 21.891389,
+      "lng": 96.056111,
+      "address": "Amarapura",
+      "howTo": "Walk U Bein Bridge at Amarapura.",
+      "radiusM": 80,
+      "badge": "badges/u-bein-bridge.png"
+    }
+  ]
+}

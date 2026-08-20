@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:07:23.000Z",
-  "notes": "Maldives (mv) complete. Next: Myanmar (mm). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:12:30.000Z",
+  "notes": "Myanmar (mm) complete. Next: Brunei (bn). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23007,6 +23007,111 @@
                 "minLng": 73.1525,
                 "maxLat": -0.6383,
                 "maxLng": 73.161
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm",
+      "countryCode": "MM",
+      "name": "Myanmar",
+      "states": [
+        {
+          "id": "yangon",
+          "stateCode": "06",
+          "name": "Yangon",
+          "cities": [
+            {
+              "id": "yangon",
+              "name": "Yangon",
+              "status": "complete",
+              "packPath": "mm/yangon/yangon/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:12:30.000Z",
+              "bbox": {
+                "minLat": 16.77139,
+                "minLng": 96.1467,
+                "maxLat": 16.80135,
+                "maxLng": 96.16178
+              }
+            }
+          ]
+        },
+        {
+          "id": "mandalay",
+          "stateCode": "04",
+          "name": "Mandalay",
+          "cities": [
+            {
+              "id": "bagan",
+              "name": "Bagan",
+              "status": "complete",
+              "packPath": "mm/mandalay/bagan/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:12:30.000Z",
+              "bbox": {
+                "minLat": 21.16575,
+                "minLng": 94.85995,
+                "maxLat": 21.17381,
+                "maxLng": 94.87086
+              }
+            },
+            {
+              "id": "mandalay",
+              "name": "Mandalay",
+              "status": "complete",
+              "packPath": "mm/mandalay/mandalay/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:12:30.000Z",
+              "bbox": {
+                "minLat": 21.88839,
+                "minLng": 96.05311,
+                "maxLat": 21.99594,
+                "maxLng": 96.09891
+              }
+            }
+          ]
+        },
+        {
+          "id": "mon",
+          "stateCode": "11",
+          "name": "Mon",
+          "cities": [
+            {
+              "id": "kyaiktiyo",
+              "name": "Kyaiktiyo",
+              "status": "complete",
+              "packPath": "mm/mon/kyaiktiyo/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:12:30.000Z",
+              "bbox": {
+                "minLat": 17.47868,
+                "minLng": 97.09512,
+                "maxLat": 17.4865,
+                "maxLng": 97.1025
+              }
+            }
+          ]
+        },
+        {
+          "id": "shan",
+          "stateCode": "17",
+          "name": "Shan",
+          "cities": [
+            {
+              "id": "inle",
+              "name": "Inle",
+              "status": "complete",
+              "packPath": "mm/shan/inle/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:12:30.000Z",
+              "bbox": {
+                "minLat": 20.4565,
+                "minLng": 96.9065,
+                "maxLat": 20.553,
+                "maxLng": 96.91967
               }
             }
           ]
