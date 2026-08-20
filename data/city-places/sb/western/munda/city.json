@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sb/western/munda",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "stateCode": "WE",
+  "stateName": "Western",
+  "cityName": "Munda",
+  "bbox": {
+    "minLat": -8.453,
+    "minLng": 157.26783,
+    "maxLat": -8.32506,
+    "maxLng": 158.053
+  },
+  "updatedAt": "2026-08-20T12:50:05.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "munda-lagoon",
+      "name": "Munda Lagoon",
+      "lat": -8.328056,
+      "lng": 157.270833,
+      "address": "Munda",
+      "howTo": "Visit the lagoon at Munda.",
+      "radiusM": 80,
+      "badge": "badges/munda-lagoon.png"
+    },
+    {
+      "id": "marovo-lagoon",
+      "name": "Marovo Lagoon",
+      "lat": -8.45,
+      "lng": 158.05,
+      "address": "Western Province",
+      "howTo": "Overlook Marovo Lagoon.",
+      "radiusM": 80,
+      "badge": "badges/marovo-lagoon.png"
+    }
+  ]
+}

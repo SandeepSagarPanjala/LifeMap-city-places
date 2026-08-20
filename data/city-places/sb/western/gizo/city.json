@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sb/western/gizo",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "stateCode": "WE",
+  "stateName": "Western",
+  "cityName": "Gizo",
+  "bbox": {
+    "minLat": -8.108,
+    "minLng": 156.842,
+    "maxLat": -8.087,
+    "maxLng": 156.863
+  },
+  "updatedAt": "2026-08-20T12:50:05.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "gizo-harbour",
+      "name": "Gizo Harbour",
+      "lat": -8.105,
+      "lng": 156.845,
+      "address": "Gizo",
+      "howTo": "Overlook Gizo Harbour.",
+      "radiusM": 80,
+      "badge": "badges/gizo-harbour.png"
+    },
+    {
+      "id": "skull-island",
+      "name": "Skull Island",
+      "lat": -8.09,
+      "lng": 156.86,
+      "address": "Western Province",
+      "howTo": "Visit Skull Island near Gizo.",
+      "radiusM": 80,
+      "badge": "badges/skull-island.png"
+    }
+  ]
+}

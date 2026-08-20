@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sb/central/tulagi",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "stateCode": "CT",
+  "stateName": "Central",
+  "cityName": "Tulagi",
+  "bbox": {
+    "minLat": -9.108,
+    "minLng": 160.14367,
+    "maxLat": -9.09839,
+    "maxLng": 160.153
+  },
+  "updatedAt": "2026-08-20T12:50:05.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "tulagi-harbour",
+      "name": "Tulagi Harbour",
+      "lat": -9.101389,
+      "lng": 160.146667,
+      "address": "Tulagi",
+      "howTo": "Visit Tulagi Harbour.",
+      "radiusM": 80,
+      "badge": "badges/tulagi-harbour.png"
+    },
+    {
+      "id": "tulagi-ridge",
+      "name": "Tulagi Ridge",
+      "lat": -9.105,
+      "lng": 160.15,
+      "address": "Tulagi",
+      "howTo": "Overlook Tulagi from the ridge.",
+      "radiusM": 80,
+      "badge": "badges/tulagi-ridge.png"
+    }
+  ]
+}

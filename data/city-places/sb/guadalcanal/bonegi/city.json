@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sb/guadalcanal/bonegi",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "stateCode": "GU",
+  "stateName": "Guadalcanal",
+  "cityName": "Bonegi",
+  "bbox": {
+    "minLat": -9.483,
+    "minLng": 159.877,
+    "maxLat": -9.402,
+    "maxLng": 159.973
+  },
+  "updatedAt": "2026-08-20T12:50:05.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "bonegi-beach",
+      "name": "Bonegi Beach",
+      "lat": -9.405,
+      "lng": 159.88,
+      "address": "Guadalcanal",
+      "howTo": "Visit Bonegi Beach.",
+      "radiusM": 80,
+      "badge": "badges/bonegi-beach.png"
+    },
+    {
+      "id": "mataniko-falls",
+      "name": "Mataniko Falls",
+      "lat": -9.48,
+      "lng": 159.97,
+      "address": "Guadalcanal",
+      "howTo": "Visit Mataniko Falls.",
+      "radiusM": 80,
+      "badge": "badges/mataniko-falls.png"
+    }
+  ]
+}

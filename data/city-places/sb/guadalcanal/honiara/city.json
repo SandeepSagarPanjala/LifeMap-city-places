@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "sb/guadalcanal/honiara",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "stateCode": "GU",
+  "stateName": "Guadalcanal",
+  "cityName": "Honiara",
+  "bbox": {
+    "minLat": -9.44561,
+    "minLng": 159.95256,
+    "maxLat": -9.42894,
+    "maxLng": 159.96051
+  },
+  "updatedAt": "2026-08-20T12:50:05.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "guadalcanal-american-memorial",
+      "name": "Guadalcanal American Memorial",
+      "lat": -9.442609,
+      "lng": 159.957515,
+      "address": "Honiara",
+      "howTo": "Visit the Guadalcanal American Memorial.",
+      "radiusM": 80,
+      "badge": "badges/guadalcanal-american-memorial.png"
+    },
+    {
+      "id": "honiara-waterfront",
+      "name": "Honiara Waterfront",
+      "lat": -9.431944,
+      "lng": 159.955556,
+      "address": "Honiara",
+      "howTo": "Walk the Honiara waterfront.",
+      "radiusM": 80,
+      "badge": "badges/honiara-waterfront.png"
+    }
+  ]
+}

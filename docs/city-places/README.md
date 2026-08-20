@@ -197,7 +197,7 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 151. `vu` — Vanuatu (**complete**)
 152. `ws` — Samoa (**complete**)
 153. `to` — Tonga (**complete**)
-154. `sb` — Solomon Islands
+154. `sb` — Solomon Islands (**complete**)
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

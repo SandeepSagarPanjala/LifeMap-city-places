@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:48:42.000Z",
-  "notes": "Tonga (to) complete. Next: Solomon Islands (sb). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:56:15.000Z",
+  "notes": "Solomon Islands (sb) complete. Auto-chain paused per request. Resume next with Cook Islands (ck) or another free high-tourism country.",
   "countries": [
     {
       "id": "us",
@@ -23833,6 +23833,104 @@
                 "minLng": -174.933,
                 "maxLat": -21.377,
                 "maxLng": -174.917
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sb",
+      "countryCode": "SB",
+      "name": "Solomon Islands",
+      "states": [
+        {
+          "id": "guadalcanal",
+          "stateCode": "GU",
+          "name": "Guadalcanal",
+          "cities": [
+            {
+              "id": "honiara",
+              "name": "Honiara",
+              "status": "complete",
+              "packPath": "sb/guadalcanal/honiara/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:56:15.000Z",
+              "bbox": {
+                "minLat": -9.44561,
+                "minLng": 159.95256,
+                "maxLat": -9.42894,
+                "maxLng": 159.96051
+              }
+            },
+            {
+              "id": "bonegi",
+              "name": "Bonegi",
+              "status": "complete",
+              "packPath": "sb/guadalcanal/bonegi/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:56:15.000Z",
+              "bbox": {
+                "minLat": -9.483,
+                "minLng": 159.877,
+                "maxLat": -9.402,
+                "maxLng": 159.973
+              }
+            }
+          ]
+        },
+        {
+          "id": "western",
+          "stateCode": "WE",
+          "name": "Western",
+          "cities": [
+            {
+              "id": "gizo",
+              "name": "Gizo",
+              "status": "complete",
+              "packPath": "sb/western/gizo/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:56:15.000Z",
+              "bbox": {
+                "minLat": -8.108,
+                "minLng": 156.842,
+                "maxLat": -8.087,
+                "maxLng": 156.863
+              }
+            },
+            {
+              "id": "munda",
+              "name": "Munda",
+              "status": "complete",
+              "packPath": "sb/western/munda/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:56:15.000Z",
+              "bbox": {
+                "minLat": -8.453,
+                "minLng": 157.26783,
+                "maxLat": -8.32506,
+                "maxLng": 158.053
+              }
+            }
+          ]
+        },
+        {
+          "id": "central",
+          "stateCode": "CT",
+          "name": "Central",
+          "cities": [
+            {
+              "id": "tulagi",
+              "name": "Tulagi",
+              "status": "complete",
+              "packPath": "sb/central/tulagi/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:56:15.000Z",
+              "bbox": {
+                "minLat": -9.108,
+                "minLng": 160.14367,
+                "maxLat": -9.09839,
+                "maxLng": 160.153
               }
             }
           ]

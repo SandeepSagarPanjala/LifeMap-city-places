@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:48:42.597Z",
+  "generatedAt": "2026-08-20T12:56:15.063Z",
   "cellDeg": 0.5,
-  "cityCount": 1224,
+  "cityCount": 1229,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7913,6 +7913,51 @@
         "minLng": 29.25,
         "maxLat": -1.698,
         "maxLng": 29.27
+      }
+    },
+    "sb/central/tulagi": {
+      "name": "Tulagi",
+      "bbox": {
+        "minLat": -9.108,
+        "minLng": 160.14367,
+        "maxLat": -9.09839,
+        "maxLng": 160.153
+      }
+    },
+    "sb/guadalcanal/bonegi": {
+      "name": "Bonegi",
+      "bbox": {
+        "minLat": -9.483,
+        "minLng": 159.877,
+        "maxLat": -9.402,
+        "maxLng": 159.973
+      }
+    },
+    "sb/guadalcanal/honiara": {
+      "name": "Honiara",
+      "bbox": {
+        "minLat": -9.44561,
+        "minLng": 159.95256,
+        "maxLat": -9.42894,
+        "maxLng": 159.96051
+      }
+    },
+    "sb/western/gizo": {
+      "name": "Gizo",
+      "bbox": {
+        "minLat": -8.108,
+        "minLng": 156.842,
+        "maxLat": -8.087,
+        "maxLng": 156.863
+      }
+    },
+    "sb/western/munda": {
+      "name": "Munda",
+      "bbox": {
+        "minLat": -8.453,
+        "minLng": 157.26783,
+        "maxLat": -8.32506,
+        "maxLng": 158.053
       }
     },
     "sc/la-digue/la-digue": {
@@ -16216,6 +16261,25 @@
     ],
     "-43,-350": [
       "to/eua/eua"
+    ],
+    "-19,319": [
+      "sb/guadalcanal/bonegi",
+      "sb/guadalcanal/honiara"
+    ],
+    "-17,313": [
+      "sb/western/gizo"
+    ],
+    "-17,314": [
+      "sb/western/munda"
+    ],
+    "-17,315": [
+      "sb/western/munda"
+    ],
+    "-17,316": [
+      "sb/western/munda"
+    ],
+    "-19,320": [
+      "sb/central/tulagi"
     ]
   }
 }
