@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "to/tongatapu/niutoua",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "stateCode": "04",
+  "stateName": "Tongatapu",
+  "cityName": "Niutoua",
+  "bbox": {
+    "minLat": -21.143,
+    "minLng": -175.103,
+    "maxLat": -21.13367,
+    "maxLng": -175.04506
+  },
+  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "haamonga-a-maui",
+      "name": "Ha'amonga 'a Maui",
+      "lat": -21.136667,
+      "lng": -175.048056,
+      "address": "Niutoua",
+      "howTo": "Visit Ha'amonga 'a Maui trilithon.",
+      "radiusM": 80,
+      "badge": "badges/haamonga-a-maui.png"
+    },
+    {
+      "id": "anahulu-cave",
+      "name": "Anahulu Cave",
+      "lat": -21.14,
+      "lng": -175.1,
+      "address": "Tongatapu",
+      "howTo": "Visit Anahulu Cave.",
+      "radiusM": 80,
+      "badge": "badges/anahulu-cave.png"
+    }
+  ]
+}

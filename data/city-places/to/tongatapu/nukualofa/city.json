@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "to/tongatapu/nukualofa",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "stateCode": "04",
+  "stateName": "Tongatapu",
+  "cityName": "Nuku'alofa",
+  "bbox": {
+    "minLat": -21.13633,
+    "minLng": -175.203,
+    "maxLat": -21.1175,
+    "maxLng": -175.152
+  },
+  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "nukualofa-waterfront",
+      "name": "Nuku'alofa Waterfront",
+      "lat": -21.133333,
+      "lng": -175.2,
+      "address": "Nuku'alofa",
+      "howTo": "Walk the Nuku'alofa waterfront.",
+      "radiusM": 80,
+      "badge": "badges/nukualofa-waterfront.png"
+    },
+    {
+      "id": "pangaimotu",
+      "name": "Pangaimotu",
+      "lat": -21.1205,
+      "lng": -175.155,
+      "address": "Tongatapu",
+      "howTo": "Visit Pangaimotu Island.",
+      "radiusM": 80,
+      "badge": "badges/pangaimotu.png"
+    }
+  ]
+}

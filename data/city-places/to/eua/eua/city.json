@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "to/eua/eua",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "stateCode": "01",
+  "stateName": "'Eua",
+  "cityName": "'Eua",
+  "bbox": {
+    "minLat": -21.393,
+    "minLng": -174.933,
+    "maxLat": -21.377,
+    "maxLng": -174.917
+  },
+  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "eua-national-park",
+      "name": "'Eua National Park",
+      "lat": -21.38,
+      "lng": -174.93,
+      "address": "'Eua",
+      "howTo": "Visit 'Eua National Park.",
+      "radiusM": 80,
+      "badge": "badges/eua-national-park.png"
+    },
+    {
+      "id": "eua-cliffs",
+      "name": "'Eua Cliffs",
+      "lat": -21.39,
+      "lng": -174.92,
+      "address": "'Eua",
+      "howTo": "Overlook the eastern cliffs of 'Eua.",
+      "radiusM": 80,
+      "badge": "badges/eua-cliffs.png"
+    }
+  ]
+}

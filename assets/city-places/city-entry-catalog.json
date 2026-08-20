@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T12:43:53.763Z",
+  "generatedAt": "2026-08-20T12:48:42.597Z",
   "cellDeg": 0.5,
-  "cityCount": 1219,
+  "cityCount": 1224,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -8743,6 +8743,51 @@
         "maxLng": 10.185
       }
     },
+    "to/eua/eua": {
+      "name": "'Eua",
+      "bbox": {
+        "minLat": -21.393,
+        "minLng": -174.933,
+        "maxLat": -21.377,
+        "maxLng": -174.917
+      }
+    },
+    "to/tongatapu/houma": {
+      "name": "Houma",
+      "bbox": {
+        "minLat": -21.171,
+        "minLng": -175.258,
+        "maxLat": -21.162,
+        "maxLng": -175.247
+      }
+    },
+    "to/tongatapu/niutoua": {
+      "name": "Niutoua",
+      "bbox": {
+        "minLat": -21.143,
+        "minLng": -175.103,
+        "maxLat": -21.13367,
+        "maxLng": -175.04506
+      }
+    },
+    "to/tongatapu/nukualofa": {
+      "name": "Nuku'alofa",
+      "bbox": {
+        "minLat": -21.13633,
+        "minLng": -175.203,
+        "maxLat": -21.1175,
+        "maxLng": -175.152
+      }
+    },
+    "to/vavau/neiafu": {
+      "name": "Neiafu",
+      "bbox": {
+        "minLat": -18.6538,
+        "minLng": -173.9865,
+        "maxLat": -18.637,
+        "maxLng": -173.977
+      }
+    },
     "tr/antalya/antalya": {
       "name": "Antalya",
       "bbox": {
@@ -16160,6 +16205,17 @@
     ],
     "-28,-346": [
       "ws/palauli/taga"
+    ],
+    "-43,-351": [
+      "to/tongatapu/houma",
+      "to/tongatapu/niutoua",
+      "to/tongatapu/nukualofa"
+    ],
+    "-38,-348": [
+      "to/vavau/neiafu"
+    ],
+    "-43,-350": [
+      "to/eua/eua"
     ]
   }
 }

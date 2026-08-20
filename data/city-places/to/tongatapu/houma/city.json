@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "to/tongatapu/houma",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "stateCode": "04",
+  "stateName": "Tongatapu",
+  "cityName": "Houma",
+  "bbox": {
+    "minLat": -21.171,
+    "minLng": -175.258,
+    "maxLat": -21.162,
+    "maxLng": -175.247
+  },
+  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mapua-a-vaea-blowholes",
+      "name": "Mapu'a 'a Vaea Blowholes",
+      "lat": -21.165,
+      "lng": -175.25,
+      "address": "Houma",
+      "howTo": "Visit the Mapu'a 'a Vaea Blowholes.",
+      "radiusM": 80,
+      "badge": "badges/mapua-a-vaea-blowholes.png"
+    },
+    {
+      "id": "houma-cliffs",
+      "name": "Houma Cliffs",
+      "lat": -21.168,
+      "lng": -175.255,
+      "address": "Houma",
+      "howTo": "Overlook the Houma coastal cliffs.",
+      "radiusM": 80,
+      "badge": "badges/houma-cliffs.png"
+    }
+  ]
+}

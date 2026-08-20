@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "to/vavau/neiafu",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "stateCode": "05",
+  "stateName": "Vava'u",
+  "cityName": "Neiafu",
+  "bbox": {
+    "minLat": -18.6538,
+    "minLng": -173.9865,
+    "maxLat": -18.637,
+    "maxLng": -173.977
+  },
+  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "neiafu-harbour",
+      "name": "Neiafu Harbour",
+      "lat": -18.6508,
+      "lng": -173.9835,
+      "address": "Neiafu",
+      "howTo": "Overlook Neiafu Harbour.",
+      "radiusM": 80,
+      "badge": "badges/neiafu-harbour.png"
+    },
+    {
+      "id": "mount-talau",
+      "name": "Mount Talau",
+      "lat": -18.64,
+      "lng": -173.98,
+      "address": "Vava'u",
+      "howTo": "Hike Mount Talau.",
+      "radiusM": 80,
+      "badge": "badges/mount-talau.png"
+    }
+  ]
+}

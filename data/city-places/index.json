@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T12:43:53.000Z",
-  "notes": "Samoa (ws) complete. Next: Tonga (to). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T12:48:42.000Z",
+  "notes": "Tonga (to) complete. Next: Solomon Islands (sb). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -23735,6 +23735,104 @@
                 "minLng": -172.528,
                 "maxLat": -13.7992,
                 "maxLng": -172.5167
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "to",
+      "countryCode": "TO",
+      "name": "Tonga",
+      "states": [
+        {
+          "id": "tongatapu",
+          "stateCode": "04",
+          "name": "Tongatapu",
+          "cities": [
+            {
+              "id": "nukualofa",
+              "name": "Nuku'alofa",
+              "status": "complete",
+              "packPath": "to/tongatapu/nukualofa/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:48:42.000Z",
+              "bbox": {
+                "minLat": -21.13633,
+                "minLng": -175.203,
+                "maxLat": -21.1175,
+                "maxLng": -175.152
+              }
+            },
+            {
+              "id": "houma",
+              "name": "Houma",
+              "status": "complete",
+              "packPath": "to/tongatapu/houma/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:48:42.000Z",
+              "bbox": {
+                "minLat": -21.171,
+                "minLng": -175.258,
+                "maxLat": -21.162,
+                "maxLng": -175.247
+              }
+            },
+            {
+              "id": "niutoua",
+              "name": "Niutoua",
+              "status": "complete",
+              "packPath": "to/tongatapu/niutoua/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:48:42.000Z",
+              "bbox": {
+                "minLat": -21.143,
+                "minLng": -175.103,
+                "maxLat": -21.13367,
+                "maxLng": -175.04506
+              }
+            }
+          ]
+        },
+        {
+          "id": "vavau",
+          "stateCode": "05",
+          "name": "Vava'u",
+          "cities": [
+            {
+              "id": "neiafu",
+              "name": "Neiafu",
+              "status": "complete",
+              "packPath": "to/vavau/neiafu/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:48:42.000Z",
+              "bbox": {
+                "minLat": -18.6538,
+                "minLng": -173.9865,
+                "maxLat": -18.637,
+                "maxLng": -173.977
+              }
+            }
+          ]
+        },
+        {
+          "id": "eua",
+          "stateCode": "01",
+          "name": "'Eua",
+          "cities": [
+            {
+              "id": "eua",
+              "name": "'Eua",
+              "status": "complete",
+              "packPath": "to/eua/eua/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T12:48:42.000Z",
+              "bbox": {
+                "minLat": -21.393,
+                "minLng": -174.933,
+                "maxLat": -21.377,
+                "maxLng": -174.917
               }
             }
           ]
