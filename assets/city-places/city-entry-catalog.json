@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:41:04.302Z",
+  "generatedAt": "2026-08-20T11:47:05.894Z",
   "cellDeg": 0.5,
-  "cityCount": 1164,
+  "cityCount": 1169,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -560,6 +560,51 @@
         "minLng": 18.426,
         "maxLat": 43.862,
         "maxLng": 18.434
+      }
+    },
+    "bd/chattogram/coxs-bazar": {
+      "name": "Cox's Bazar",
+      "bbox": {
+        "minLat": 21.238,
+        "minLng": 91.9802,
+        "maxLat": 21.4173,
+        "maxLng": 92.04
+      }
+    },
+    "bd/dhaka/dhaka": {
+      "name": "Dhaka",
+      "bbox": {
+        "minLat": 23.7056,
+        "minLng": 90.3851,
+        "maxLat": 23.722,
+        "maxLng": 90.40906
+      }
+    },
+    "bd/khulna/bagerhat": {
+      "name": "Bagerhat",
+      "bbox": {
+        "minLat": 22.6575,
+        "minLng": 89.73894,
+        "maxLat": 22.67744,
+        "maxLng": 89.7942
+      }
+    },
+    "bd/rajshahi/paharpur": {
+      "name": "Paharpur",
+      "bbox": {
+        "minLat": 25.02811,
+        "minLng": 88.97394,
+        "maxLat": 25.0365,
+        "maxLng": 88.9815
+      }
+    },
+    "bd/sylhet/sylhet": {
+      "name": "Sylhet",
+      "bbox": {
+        "minLat": 25.0048,
+        "minLng": 91.6798,
+        "maxLat": 25.1863,
+        "maxLng": 92.0197
       }
     },
     "be/antwerp/antwerp": {
@@ -11537,6 +11582,7 @@
       "in/meghalaya/shillong"
     ],
     "50,183": [
+      "bd/sylhet/sylhet",
       "in/meghalaya/cherrapunji"
     ],
     "47,185": [
@@ -15507,6 +15553,24 @@
     ],
     "72,149": [
       "pk/gilgit-baltistan/hunza"
+    ],
+    "47,180": [
+      "bd/dhaka/dhaka"
+    ],
+    "42,183": [
+      "bd/chattogram/coxs-bazar"
+    ],
+    "42,184": [
+      "bd/chattogram/coxs-bazar"
+    ],
+    "45,179": [
+      "bd/khulna/bagerhat"
+    ],
+    "50,177": [
+      "bd/rajshahi/paharpur"
+    ],
+    "50,184": [
+      "bd/sylhet/sylhet"
     ]
   }
 }

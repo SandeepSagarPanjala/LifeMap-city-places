@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bd/khulna/bagerhat",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "stateCode": "D",
+  "stateName": "Khulna",
+  "cityName": "Bagerhat",
+  "bbox": {
+    "minLat": 22.6575,
+    "minLng": 89.73894,
+    "maxLat": 22.67744,
+    "maxLng": 89.7942
+  },
+  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sixty-dome-mosque",
+      "name": "Sixty Dome Mosque",
+      "lat": 22.67444,
+      "lng": 89.74194,
+      "address": "Bagerhat",
+      "howTo": "Visit the Sixty Dome Mosque.",
+      "radiusM": 80,
+      "badge": "badges/sixty-dome-mosque.png"
+    },
+    {
+      "id": "nine-dome-mosque",
+      "name": "Nine Dome Mosque",
+      "lat": 22.6605,
+      "lng": 89.7912,
+      "address": "Bagerhat",
+      "howTo": "Visit the Nine Dome Mosque.",
+      "radiusM": 80,
+      "badge": "badges/nine-dome-mosque.png"
+    }
+  ]
+}

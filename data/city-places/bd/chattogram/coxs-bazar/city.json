@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bd/chattogram/coxs-bazar",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "stateCode": "B",
+  "stateName": "Chattogram",
+  "cityName": "Cox's Bazar",
+  "bbox": {
+    "minLat": 21.238,
+    "minLng": 91.9802,
+    "maxLat": 21.4173,
+    "maxLng": 92.04
+  },
+  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "coxs-bazar-beach",
+      "name": "Cox's Bazar Beach",
+      "lat": 21.4143,
+      "lng": 91.9832,
+      "address": "Cox's Bazar",
+      "howTo": "Walk Cox's Bazar Beach.",
+      "radiusM": 80,
+      "badge": "badges/coxs-bazar-beach.png"
+    },
+    {
+      "id": "inani-beach",
+      "name": "Inani Beach",
+      "lat": 21.241,
+      "lng": 92.037,
+      "address": "Cox's Bazar",
+      "howTo": "Visit Inani Beach.",
+      "radiusM": 80,
+      "badge": "badges/inani-beach.png"
+    }
+  ]
+}

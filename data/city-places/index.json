@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:41:01.000Z",
-  "notes": "Pakistan (pk) complete. Next: Bangladesh (bd). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:47:05.000Z",
+  "notes": "Bangladesh (bd) complete. Next: Palestine (ps). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22573,6 +22573,118 @@
                 "minLng": 74.66694,
                 "maxLat": 36.3305,
                 "maxLng": 74.675
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd",
+      "countryCode": "BD",
+      "name": "Bangladesh",
+      "states": [
+        {
+          "id": "dhaka",
+          "stateCode": "C",
+          "name": "Dhaka",
+          "cities": [
+            {
+              "id": "dhaka",
+              "name": "Dhaka",
+              "status": "complete",
+              "packPath": "bd/dhaka/dhaka/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:47:05.000Z",
+              "bbox": {
+                "minLat": 23.7056,
+                "minLng": 90.3851,
+                "maxLat": 23.722,
+                "maxLng": 90.40906
+              }
+            }
+          ]
+        },
+        {
+          "id": "chattogram",
+          "stateCode": "B",
+          "name": "Chattogram",
+          "cities": [
+            {
+              "id": "coxs-bazar",
+              "name": "Cox's Bazar",
+              "status": "complete",
+              "packPath": "bd/chattogram/coxs-bazar/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:47:05.000Z",
+              "bbox": {
+                "minLat": 21.238,
+                "minLng": 91.9802,
+                "maxLat": 21.4173,
+                "maxLng": 92.04
+              }
+            }
+          ]
+        },
+        {
+          "id": "khulna",
+          "stateCode": "D",
+          "name": "Khulna",
+          "cities": [
+            {
+              "id": "bagerhat",
+              "name": "Bagerhat",
+              "status": "complete",
+              "packPath": "bd/khulna/bagerhat/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:47:05.000Z",
+              "bbox": {
+                "minLat": 22.6575,
+                "minLng": 89.73894,
+                "maxLat": 22.67744,
+                "maxLng": 89.7942
+              }
+            }
+          ]
+        },
+        {
+          "id": "rajshahi",
+          "stateCode": "E",
+          "name": "Rajshahi",
+          "cities": [
+            {
+              "id": "paharpur",
+              "name": "Paharpur",
+              "status": "complete",
+              "packPath": "bd/rajshahi/paharpur/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:47:05.000Z",
+              "bbox": {
+                "minLat": 25.02811,
+                "minLng": 88.97394,
+                "maxLat": 25.0365,
+                "maxLng": 88.9815
+              }
+            }
+          ]
+        },
+        {
+          "id": "sylhet",
+          "stateCode": "G",
+          "name": "Sylhet",
+          "cities": [
+            {
+              "id": "sylhet",
+              "name": "Sylhet",
+              "status": "complete",
+              "packPath": "bd/sylhet/sylhet/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:47:05.000Z",
+              "bbox": {
+                "minLat": 25.0048,
+                "minLng": 91.6798,
+                "maxLat": 25.1863,
+                "maxLng": 92.0197
               }
             }
           ]

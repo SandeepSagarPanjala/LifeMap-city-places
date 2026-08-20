@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bd/sylhet/sylhet",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "stateCode": "G",
+  "stateName": "Sylhet",
+  "cityName": "Sylhet",
+  "bbox": {
+    "minLat": 25.0048,
+    "minLng": 91.6798,
+    "maxLat": 25.1863,
+    "maxLng": 92.0197
+  },
+  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ratargul-swamp-forest",
+      "name": "Ratargul Swamp Forest",
+      "lat": 25.0078,
+      "lng": 91.6828,
+      "address": "Sylhet",
+      "howTo": "Visit Ratargul Swamp Forest.",
+      "radiusM": 80,
+      "badge": "badges/ratargul-swamp-forest.png"
+    },
+    {
+      "id": "jaflong",
+      "name": "Jaflong",
+      "lat": 25.1833,
+      "lng": 92.0167,
+      "address": "Sylhet",
+      "howTo": "Visit Jaflong.",
+      "radiusM": 80,
+      "badge": "badges/jaflong.png"
+    }
+  ]
+}

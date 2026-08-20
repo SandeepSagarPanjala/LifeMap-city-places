@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bd/dhaka/dhaka",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "stateCode": "C",
+  "stateName": "Dhaka",
+  "cityName": "Dhaka",
+  "bbox": {
+    "minLat": 23.7056,
+    "minLng": 90.3851,
+    "maxLat": 23.722,
+    "maxLng": 90.40906
+  },
+  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lalbagh-fort",
+      "name": "Lalbagh Fort",
+      "lat": 23.719,
+      "lng": 90.3881,
+      "address": "Dhaka",
+      "howTo": "Visit Lalbagh Fort.",
+      "radiusM": 80,
+      "badge": "badges/lalbagh-fort.png"
+    },
+    {
+      "id": "ahsan-manzil",
+      "name": "Ahsan Manzil",
+      "lat": 23.7086,
+      "lng": 90.40606,
+      "address": "Dhaka",
+      "howTo": "Visit Ahsan Manzil, the Pink Palace.",
+      "radiusM": 80,
+      "badge": "badges/ahsan-manzil.png"
+    }
+  ]
+}

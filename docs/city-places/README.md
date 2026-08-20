@@ -185,7 +185,8 @@ Skip countries already `complete` in `index.json`. Take the first incomplete ent
 139. `ye` — Yemen (**complete**)
 140. `af` — Afghanistan (**complete**)
 141. `pk` — Pakistan (**complete**)
-142. `bd` — Bangladesh
+142. `bd` — Bangladesh (**complete**)
+143. `ps` — Palestine
 
 When the listed queue is exhausted, extend it again with the next high-tourism country (do not stall asking the human). Update `index.json` notes to the country currently in progress.
 

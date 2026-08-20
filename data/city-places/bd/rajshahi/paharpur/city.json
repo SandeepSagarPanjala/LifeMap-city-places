@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "bd/rajshahi/paharpur",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "stateCode": "E",
+  "stateName": "Rajshahi",
+  "cityName": "Paharpur",
+  "bbox": {
+    "minLat": 25.02811,
+    "minLng": 88.97394,
+    "maxLat": 25.0365,
+    "maxLng": 88.9815
+  },
+  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "somapura-mahavihara",
+      "name": "Somapura Mahavihara",
+      "lat": 25.03111,
+      "lng": 88.97694,
+      "address": "Paharpur",
+      "howTo": "Visit Somapura Mahavihara.",
+      "radiusM": 80,
+      "badge": "badges/somapura-mahavihara.png"
+    },
+    {
+      "id": "paharpur-ruins",
+      "name": "Paharpur Ruins",
+      "lat": 25.0335,
+      "lng": 88.9785,
+      "address": "Paharpur",
+      "howTo": "Explore the Paharpur monastery ruins.",
+      "radiusM": 80,
+      "badge": "badges/paharpur-ruins.png"
+    }
+  ]
+}
