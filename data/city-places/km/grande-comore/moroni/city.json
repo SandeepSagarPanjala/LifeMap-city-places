@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "km/grande-comore/moroni",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "stateCode": "G",
+  "stateName": "Grande Comore",
+  "cityName": "Moroni",
+  "bbox": {
+    "minLat": -11.70917,
+    "minLng": 43.2471,
+    "maxLat": -11.70221,
+    "maxLng": 43.25385
+  },
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "grande-mosquee",
+      "name": "Grande Mosqu\u00e9e de Moroni",
+      "lat": -11.70617,
+      "lng": 43.25085,
+      "radiusM": 50,
+      "address": "Moroni",
+      "howTo": "Visit Grande Mosqu\u00e9e de Moroni.",
+      "badge": "badges/grande-mosquee.png"
+    },
+    {
+      "id": "moroni-port",
+      "name": "Moroni Port",
+      "lat": -11.70521,
+      "lng": 43.2501,
+      "radiusM": 60,
+      "address": "Moroni",
+      "howTo": "Visit the Moroni waterfront port.",
+      "badge": "badges/moroni-port.png"
+    }
+  ]
+}

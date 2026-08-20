@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T10:39:57.000Z",
-  "notes": "Somalia (so) complete. Next: Comoros (km) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "notes": "Comoros (km) complete. Next: Sudan (sd) \u2014 auto-chain. Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -21306,6 +21306,104 @@
                 "minLng": 43.47021,
                 "maxLat": 11.35843,
                 "maxLng": 43.479
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "km",
+      "countryCode": "KM",
+      "name": "Comoros",
+      "states": [
+        {
+          "id": "grande-comore",
+          "stateCode": "G",
+          "name": "Grande Comore",
+          "cities": [
+            {
+              "id": "moroni",
+              "name": "Moroni",
+              "status": "complete",
+              "packPath": "km/grande-comore/moroni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:44:08.000Z",
+              "bbox": {
+                "minLat": -11.70917,
+                "minLng": 43.2471,
+                "maxLat": -11.70221,
+                "maxLng": 43.25385
+              }
+            },
+            {
+              "id": "lac-sale",
+              "name": "Lac Sal\u00e9",
+              "status": "complete",
+              "packPath": "km/grande-comore/lac-sale/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:44:08.000Z",
+              "bbox": {
+                "minLat": -11.38164,
+                "minLng": 43.36999,
+                "maxLat": -11.37228,
+                "maxLng": 43.37637
+              }
+            },
+            {
+              "id": "chomoni",
+              "name": "Chomoni",
+              "status": "complete",
+              "packPath": "km/grande-comore/chomoni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:44:08.000Z",
+              "bbox": {
+                "minLat": -11.6505,
+                "minLng": 43.39,
+                "maxLat": -11.64218,
+                "maxLng": 43.39845
+              }
+            }
+          ]
+        },
+        {
+          "id": "anjouan",
+          "stateCode": "A",
+          "name": "Anjouan",
+          "cities": [
+            {
+              "id": "mutsamudu",
+              "name": "Mutsamudu",
+              "status": "complete",
+              "packPath": "km/anjouan/mutsamudu/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:44:08.000Z",
+              "bbox": {
+                "minLat": -12.1715,
+                "minLng": 44.391,
+                "maxLat": -12.16355,
+                "maxLng": 44.39835
+              }
+            }
+          ]
+        },
+        {
+          "id": "moheli",
+          "stateCode": "M",
+          "name": "Moh\u00e9li",
+          "cities": [
+            {
+              "id": "fomboni",
+              "name": "Fomboni",
+              "status": "complete",
+              "packPath": "km/moheli/fomboni/city.json",
+              "placeCount": 2,
+              "completedAt": "2026-08-20T10:44:08.000Z",
+              "bbox": {
+                "minLat": -12.28567,
+                "minLng": 43.7378,
+                "maxLat": -12.27897,
+                "maxLng": 43.74483
               }
             }
           ]

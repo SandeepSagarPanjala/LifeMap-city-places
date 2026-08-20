@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "km/anjouan/mutsamudu",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "stateCode": "A",
+  "stateName": "Anjouan",
+  "cityName": "Mutsamudu",
+  "bbox": {
+    "minLat": -12.1715,
+    "minLng": 44.391,
+    "maxLat": -12.16355,
+    "maxLng": 44.39835
+  },
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "mutsamudu-mosque",
+      "name": "Grande Mosqu\u00e9e de Mutsamudu",
+      "lat": -12.16655,
+      "lng": 44.39535,
+      "radiusM": 50,
+      "address": "Mutsamudu",
+      "howTo": "Visit Grande Mosqu\u00e9e de Mutsamudu.",
+      "badge": "badges/mutsamudu-mosque.png"
+    },
+    {
+      "id": "mutsamudu-harbor",
+      "name": "Mutsamudu Harbor",
+      "lat": -12.1685,
+      "lng": 44.394,
+      "radiusM": 80,
+      "address": "Mutsamudu",
+      "howTo": "Visit the Mutsamudu harbor.",
+      "badge": "badges/mutsamudu-harbor.png"
+    }
+  ]
+}

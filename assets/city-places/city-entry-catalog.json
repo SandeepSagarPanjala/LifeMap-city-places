@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T10:39:58.031Z",
+  "generatedAt": "2026-08-20T10:44:08.653Z",
   "cellDeg": 0.5,
-  "cityCount": 1104,
+  "cityCount": 1109,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -5132,6 +5132,51 @@
         "minLng": 103.85,
         "maxLat": 13.61,
         "maxLng": 103.97
+      }
+    },
+    "km/anjouan/mutsamudu": {
+      "name": "Mutsamudu",
+      "bbox": {
+        "minLat": -12.1715,
+        "minLng": 44.391,
+        "maxLat": -12.16355,
+        "maxLng": 44.39835
+      }
+    },
+    "km/grande-comore/chomoni": {
+      "name": "Chomoni",
+      "bbox": {
+        "minLat": -11.6505,
+        "minLng": 43.39,
+        "maxLat": -11.64218,
+        "maxLng": 43.39845
+      }
+    },
+    "km/grande-comore/lac-sale": {
+      "name": "Lac Salé",
+      "bbox": {
+        "minLat": -11.38164,
+        "minLng": 43.36999,
+        "maxLat": -11.37228,
+        "maxLng": 43.37637
+      }
+    },
+    "km/grande-comore/moroni": {
+      "name": "Moroni",
+      "bbox": {
+        "minLat": -11.70917,
+        "minLng": 43.2471,
+        "maxLat": -11.70221,
+        "maxLng": 43.25385
+      }
+    },
+    "km/moheli/fomboni": {
+      "name": "Fomboni",
+      "bbox": {
+        "minLat": -12.28567,
+        "minLng": 43.7378,
+        "maxLat": -12.27897,
+        "maxLng": 43.74483
       }
     },
     "kr/busan/busan": {
@@ -14784,6 +14829,19 @@
     ],
     "22,86": [
       "so/awdal/zeila"
+    ],
+    "-24,86": [
+      "km/grande-comore/chomoni",
+      "km/grande-comore/moroni"
+    ],
+    "-23,86": [
+      "km/grande-comore/lac-sale"
+    ],
+    "-25,88": [
+      "km/anjouan/mutsamudu"
+    ],
+    "-25,87": [
+      "km/moheli/fomboni"
     ]
   }
 }

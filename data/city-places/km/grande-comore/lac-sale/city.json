@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "km/grande-comore/lac-sale",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "stateCode": "G",
+  "stateName": "Grande Comore",
+  "cityName": "Lac Sal\u00e9",
+  "bbox": {
+    "minLat": -11.38164,
+    "minLng": 43.36999,
+    "maxLat": -11.37228,
+    "maxLng": 43.37637
+  },
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "lac-sale",
+      "name": "Lac Sal\u00e9",
+      "lat": -11.37528,
+      "lng": 43.37299,
+      "radiusM": 120,
+      "address": "Mitsamiouli",
+      "howTo": "Visit Lac Sal\u00e9.",
+      "badge": "badges/lac-sale.png"
+    },
+    {
+      "id": "lac-sale-shore",
+      "name": "Lac Sal\u00e9 Shore",
+      "lat": -11.37864,
+      "lng": 43.37337,
+      "radiusM": 100,
+      "address": "Mitsamiouli",
+      "howTo": "Visit the Lac Sal\u00e9 shoreline.",
+      "badge": "badges/lac-sale-shore.png"
+    }
+  ]
+}

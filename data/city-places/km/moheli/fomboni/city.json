@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "km/moheli/fomboni",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "stateCode": "M",
+  "stateName": "Moh\u00e9li",
+  "cityName": "Fomboni",
+  "bbox": {
+    "minLat": -12.28567,
+    "minLng": 43.7378,
+    "maxLat": -12.27897,
+    "maxLng": 43.74483
+  },
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "fomboni-mosque",
+      "name": "Grande Mosqu\u00e9e de Fomboni",
+      "lat": -12.28197,
+      "lng": 43.74183,
+      "radiusM": 50,
+      "address": "Fomboni",
+      "howTo": "Visit Grande Mosqu\u00e9e de Fomboni.",
+      "badge": "badges/fomboni-mosque.png"
+    },
+    {
+      "id": "fomboni-square",
+      "name": "Place de la Mosqu\u00e9e",
+      "lat": -12.28267,
+      "lng": 43.7408,
+      "radiusM": 50,
+      "address": "Fomboni",
+      "howTo": "Visit Place de la Mosqu\u00e9e.",
+      "badge": "badges/fomboni-square.png"
+    }
+  ]
+}

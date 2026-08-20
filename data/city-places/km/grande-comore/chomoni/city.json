@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "km/grande-comore/chomoni",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "stateCode": "G",
+  "stateName": "Grande Comore",
+  "cityName": "Chomoni",
+  "bbox": {
+    "minLat": -11.6505,
+    "minLng": 43.39,
+    "maxLat": -11.64218,
+    "maxLng": 43.39845
+  },
+  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "chomoni-beach",
+      "name": "Plage de Chomoni",
+      "lat": -11.64518,
+      "lng": 43.39545,
+      "radiusM": 100,
+      "address": "Chomoni",
+      "howTo": "Visit Plage de Chomoni.",
+      "badge": "badges/chomoni-beach.png"
+    },
+    {
+      "id": "chomoni-coast",
+      "name": "Chomoni Coast",
+      "lat": -11.6475,
+      "lng": 43.393,
+      "radiusM": 100,
+      "address": "Chomoni",
+      "howTo": "Visit the Chomoni coastline.",
+      "badge": "badges/chomoni-coast.png"
+    }
+  ]
+}
