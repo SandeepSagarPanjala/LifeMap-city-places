@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ps/nablus/nablus",
+  "countryCode": "PS",
+  "countryName": "Palestine",
+  "stateCode": "NBS",
+  "stateName": "Nablus",
+  "cityName": "Nablus",
+  "bbox": {
+    "minLat": 32.20646,
+    "minLng": 35.2755,
+    "maxLat": 32.2165,
+    "maxLng": 35.28833
+  },
+  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "jacobs-well",
+      "name": "Jacob's Well",
+      "lat": 32.209461,
+      "lng": 35.285331,
+      "address": "Nablus",
+      "howTo": "Visit Jacob's Well.",
+      "radiusM": 80,
+      "badge": "badges/jacobs-well.png"
+    },
+    {
+      "id": "tell-balata",
+      "name": "Tell Balata",
+      "lat": 32.2135,
+      "lng": 35.2785,
+      "address": "Nablus",
+      "howTo": "Visit Tell Balata archaeological park.",
+      "radiusM": 80,
+      "badge": "badges/tell-balata.png"
+    }
+  ]
+}

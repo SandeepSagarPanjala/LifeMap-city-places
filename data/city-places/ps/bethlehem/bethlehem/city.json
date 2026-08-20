@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ps/bethlehem/bethlehem",
+  "countryCode": "PS",
+  "countryName": "Palestine",
+  "stateCode": "BTH",
+  "stateName": "Bethlehem",
+  "cityName": "Bethlehem",
+  "bbox": {
+    "minLat": 31.70044,
+    "minLng": 35.20458,
+    "maxLat": 31.70731,
+    "maxLng": 35.21178
+  },
+  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "church-of-the-nativity",
+      "name": "Church of the Nativity",
+      "lat": 31.704306,
+      "lng": 35.207583,
+      "address": "Bethlehem",
+      "howTo": "Visit the Church of the Nativity.",
+      "radiusM": 80,
+      "badge": "badges/church-of-the-nativity.png"
+    },
+    {
+      "id": "milk-grotto",
+      "name": "Milk Grotto",
+      "lat": 31.703444,
+      "lng": 35.208778,
+      "address": "Bethlehem",
+      "howTo": "Visit the Chapel of the Milk Grotto.",
+      "radiusM": 80,
+      "badge": "badges/milk-grotto.png"
+    }
+  ]
+}

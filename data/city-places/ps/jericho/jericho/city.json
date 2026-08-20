@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ps/jericho/jericho",
+  "countryCode": "PS",
+  "countryName": "Palestine",
+  "stateCode": "JRH",
+  "stateName": "Jericho",
+  "cityName": "Jericho",
+  "bbox": {
+    "minLat": 31.87172,
+    "minLng": 35.42922,
+    "maxLat": 31.8855,
+    "maxLng": 35.46272
+  },
+  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "hishams-palace",
+      "name": "Hisham's Palace",
+      "lat": 31.8825,
+      "lng": 35.459722,
+      "address": "Jericho",
+      "howTo": "Visit Hisham's Palace.",
+      "radiusM": 80,
+      "badge": "badges/hishams-palace.png"
+    },
+    {
+      "id": "monastery-of-the-temptation",
+      "name": "Monastery of the Temptation",
+      "lat": 31.87472,
+      "lng": 35.43222,
+      "address": "Jericho",
+      "howTo": "Visit the Monastery of the Temptation.",
+      "radiusM": 80,
+      "badge": "badges/monastery-of-the-temptation.png"
+    }
+  ]
+}

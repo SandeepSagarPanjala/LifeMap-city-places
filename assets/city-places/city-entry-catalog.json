@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:47:05.894Z",
+  "generatedAt": "2026-08-20T11:51:24.718Z",
   "cellDeg": 0.5,
-  "cityCount": 1169,
+  "cityCount": 1174,
   "cities": {
     "ad/andorra-la-vella/andorra-la-vella": {
       "name": "Andorra la Vella",
@@ -7330,6 +7330,51 @@
         "maxLng": 16.94
       }
     },
+    "ps/bethlehem/bethlehem": {
+      "name": "Bethlehem",
+      "bbox": {
+        "minLat": 31.70044,
+        "minLng": 35.20458,
+        "maxLat": 31.70731,
+        "maxLng": 35.21178
+      }
+    },
+    "ps/hebron/hebron": {
+      "name": "Hebron",
+      "bbox": {
+        "minLat": 31.5217,
+        "minLng": 35.1065,
+        "maxLat": 31.5285,
+        "maxLng": 35.1137
+      }
+    },
+    "ps/jericho/jericho": {
+      "name": "Jericho",
+      "bbox": {
+        "minLat": 31.87172,
+        "minLng": 35.42922,
+        "maxLat": 31.8855,
+        "maxLng": 35.46272
+      }
+    },
+    "ps/nablus/nablus": {
+      "name": "Nablus",
+      "bbox": {
+        "minLat": 32.20646,
+        "minLng": 35.2755,
+        "maxLat": 32.2165,
+        "maxLng": 35.28833
+      }
+    },
+    "ps/nablus/sebastia": {
+      "name": "Sebastia",
+      "bbox": {
+        "minLat": 32.27367,
+        "minLng": 35.19283,
+        "maxLat": 32.2805,
+        "maxLng": 35.1995
+      }
+    },
     "pt/acores/ponta-delgada": {
       "name": "Ponta Delgada",
       "bbox": {
@@ -14171,7 +14216,10 @@
       "jo/jerash/jerash"
     ],
     "63,70": [
-      "il/jerusalem/jerusalem"
+      "il/jerusalem/jerusalem",
+      "ps/bethlehem/bethlehem",
+      "ps/hebron/hebron",
+      "ps/jericho/jericho"
     ],
     "64,69": [
       "il/tel-aviv/tel-aviv"
@@ -15571,6 +15619,10 @@
     ],
     "50,184": [
       "bd/sylhet/sylhet"
+    ],
+    "64,70": [
+      "ps/nablus/nablus",
+      "ps/nablus/sebastia"
     ]
   }
 }

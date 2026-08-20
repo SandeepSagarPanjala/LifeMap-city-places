@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ps/hebron/hebron",
+  "countryCode": "PS",
+  "countryName": "Palestine",
+  "stateCode": "HBN",
+  "stateName": "Hebron",
+  "cityName": "Hebron",
+  "bbox": {
+    "minLat": 31.5217,
+    "minLng": 35.1065,
+    "maxLat": 31.5285,
+    "maxLng": 35.1137
+  },
+  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "ibrahimi-mosque",
+      "name": "Ibrahimi Mosque",
+      "lat": 31.5247,
+      "lng": 35.1107,
+      "address": "Hebron",
+      "howTo": "Visit the Ibrahimi Mosque (Cave of the Patriarchs).",
+      "radiusM": 80,
+      "badge": "badges/ibrahimi-mosque.png"
+    },
+    {
+      "id": "hebron-old-city",
+      "name": "Hebron Old City",
+      "lat": 31.5255,
+      "lng": 35.1095,
+      "address": "Hebron",
+      "howTo": "Walk the Old City of Hebron.",
+      "radiusM": 80,
+      "badge": "badges/hebron-old-city.png"
+    }
+  ]
+}

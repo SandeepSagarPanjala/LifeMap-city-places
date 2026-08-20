@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ps/nablus/sebastia",
+  "countryCode": "PS",
+  "countryName": "Palestine",
+  "stateCode": "NBS",
+  "stateName": "Nablus",
+  "cityName": "Sebastia",
+  "bbox": {
+    "minLat": 32.27367,
+    "minLng": 35.19283,
+    "maxLat": 32.2805,
+    "maxLng": 35.1995
+  },
+  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "status": "complete",
+  "places": [
+    {
+      "id": "sebastia-ruins",
+      "name": "Sebastia Ruins",
+      "lat": 32.276667,
+      "lng": 35.195833,
+      "address": "Sebastia",
+      "howTo": "Explore the Sebastia archaeological ruins.",
+      "radiusM": 80,
+      "badge": "badges/sebastia-ruins.png"
+    },
+    {
+      "id": "sebastia-forum",
+      "name": "Sebastia Forum",
+      "lat": 32.2775,
+      "lng": 35.1965,
+      "address": "Sebastia",
+      "howTo": "Visit the Roman forum at Sebastia.",
+      "radiusM": 80,
+      "badge": "badges/sebastia-forum.png"
+    }
+  ]
+}

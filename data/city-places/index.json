@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cursor": null,
-  "updatedAt": "2026-08-20T11:47:05.000Z",
-  "notes": "Bangladesh (bd) complete. Next: Palestine (ps). Complete cities must include bbox on the index row (Option A).",
+  "updatedAt": "2026-08-20T11:51:24.000Z",
+  "notes": "Palestine (ps) complete. Next: Bhutan (bt). Complete cities must include bbox on the index row (Option A).",
   "countries": [
     {
       "id": "us",
@@ -22685,6 +22685,111 @@
                 "minLng": 91.6798,
                 "maxLat": 25.1863,
                 "maxLng": 92.0197
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps",
+      "countryCode": "PS",
+      "name": "Palestine",
+      "states": [
+        {
+          "id": "bethlehem",
+          "stateCode": "BTH",
+          "name": "Bethlehem",
+          "cities": [
+            {
+              "id": "bethlehem",
+              "name": "Bethlehem",
+              "status": "complete",
+              "packPath": "ps/bethlehem/bethlehem/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:51:24.000Z",
+              "bbox": {
+                "minLat": 31.70044,
+                "minLng": 35.20458,
+                "maxLat": 31.70731,
+                "maxLng": 35.21178
+              }
+            }
+          ]
+        },
+        {
+          "id": "jericho",
+          "stateCode": "JRH",
+          "name": "Jericho",
+          "cities": [
+            {
+              "id": "jericho",
+              "name": "Jericho",
+              "status": "complete",
+              "packPath": "ps/jericho/jericho/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:51:24.000Z",
+              "bbox": {
+                "minLat": 31.87172,
+                "minLng": 35.42922,
+                "maxLat": 31.8855,
+                "maxLng": 35.46272
+              }
+            }
+          ]
+        },
+        {
+          "id": "hebron",
+          "stateCode": "HBN",
+          "name": "Hebron",
+          "cities": [
+            {
+              "id": "hebron",
+              "name": "Hebron",
+              "status": "complete",
+              "packPath": "ps/hebron/hebron/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:51:24.000Z",
+              "bbox": {
+                "minLat": 31.5217,
+                "minLng": 35.1065,
+                "maxLat": 31.5285,
+                "maxLng": 35.1137
+              }
+            }
+          ]
+        },
+        {
+          "id": "nablus",
+          "stateCode": "NBS",
+          "name": "Nablus",
+          "cities": [
+            {
+              "id": "nablus",
+              "name": "Nablus",
+              "status": "complete",
+              "packPath": "ps/nablus/nablus/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:51:24.000Z",
+              "bbox": {
+                "minLat": 32.20646,
+                "minLng": 35.2755,
+                "maxLat": 32.2165,
+                "maxLng": 35.28833
+              }
+            },
+            {
+              "id": "sebastia",
+              "name": "Sebastia",
+              "status": "complete",
+              "packPath": "ps/nablus/sebastia/city.json",
+              "placeCount": null,
+              "completedAt": "2026-08-20T11:51:24.000Z",
+              "bbox": {
+                "minLat": 32.27367,
+                "minLng": 35.19283,
+                "maxLat": 32.2805,
+                "maxLng": 35.1995
               }
             }
           ]
