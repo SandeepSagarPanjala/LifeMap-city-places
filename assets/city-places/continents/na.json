@@ -1,0 +1,3074 @@
+{
+  "schemaVersion": 1,
+  "continent": "na",
+  "generatedAt": "2026-09-30T03:47:16.404Z",
+  "cellDeg": 0.5,
+  "cityCount": 225,
+  "cities": {
+    "ca/alberta/banff": {
+      "name": "Banff",
+      "bbox": {
+        "minLat": 51.16,
+        "minLng": -115.58,
+        "maxLat": 51.19,
+        "maxLng": -115.55
+      }
+    },
+    "ca/alberta/calgary": {
+      "name": "Calgary",
+      "bbox": {
+        "minLat": 51.03,
+        "minLng": -114.09,
+        "maxLat": 51.05,
+        "maxLng": -114.05
+      }
+    },
+    "ca/alberta/jasper": {
+      "name": "Jasper",
+      "bbox": {
+        "minLat": 52.87,
+        "minLng": -118.09,
+        "maxLat": 52.9,
+        "maxLng": -118.05
+      }
+    },
+    "ca/british-columbia/vancouver": {
+      "name": "Vancouver",
+      "bbox": {
+        "minLat": 49.27,
+        "minLng": -123.15,
+        "maxLat": 49.31,
+        "maxLng": -123.1
+      }
+    },
+    "ca/british-columbia/victoria": {
+      "name": "Victoria",
+      "bbox": {
+        "minLat": 48.41,
+        "minLng": -123.37,
+        "maxLat": 48.43,
+        "maxLng": -123.35
+      }
+    },
+    "ca/british-columbia/whistler": {
+      "name": "Whistler",
+      "bbox": {
+        "minLat": 50.11,
+        "minLng": -122.96,
+        "maxLat": 50.12,
+        "maxLng": -122.94
+      }
+    },
+    "ca/manitoba/winnipeg": {
+      "name": "Winnipeg",
+      "bbox": {
+        "minLat": 49.88,
+        "minLng": -97.15,
+        "maxLat": 49.9,
+        "maxLng": -97.13
+      }
+    },
+    "ca/nova-scotia/halifax": {
+      "name": "Halifax",
+      "bbox": {
+        "minLat": 44.64,
+        "minLng": -63.58,
+        "maxLat": 44.66,
+        "maxLng": -63.56
+      }
+    },
+    "ca/ontario/niagara-falls": {
+      "name": "Niagara Falls",
+      "bbox": {
+        "minLat": 43.07,
+        "minLng": -79.09,
+        "maxLat": 43.1,
+        "maxLng": -79.06
+      }
+    },
+    "ca/ontario/ottawa": {
+      "name": "Ottawa",
+      "bbox": {
+        "minLat": 45.41,
+        "minLng": -75.71,
+        "maxLat": 45.44,
+        "maxLng": -75.68
+      }
+    },
+    "ca/ontario/toronto": {
+      "name": "Toronto",
+      "bbox": {
+        "minLat": 43.62,
+        "minLng": -79.42,
+        "maxLat": 43.68,
+        "maxLng": -79.35
+      }
+    },
+    "ca/quebec/montreal": {
+      "name": "Montreal",
+      "bbox": {
+        "minLat": 45.49,
+        "minLng": -73.58,
+        "maxLat": 45.52,
+        "maxLng": -73.55
+      }
+    },
+    "ca/quebec/quebec-city": {
+      "name": "Quebec City",
+      "bbox": {
+        "minLat": 46.8,
+        "minLng": -71.22,
+        "maxLat": 46.82,
+        "maxLng": -71.2
+      }
+    },
+    "cr/alajuela/la-fortuna": {
+      "name": "La Fortuna",
+      "bbox": {
+        "minLat": 10.46,
+        "minLng": -84.71,
+        "maxLat": 10.475,
+        "maxLng": -84.64
+      }
+    },
+    "cr/guanacaste/tamarindo": {
+      "name": "Tamarindo",
+      "bbox": {
+        "minLat": 10.295,
+        "minLng": -85.86,
+        "maxLat": 10.34,
+        "maxLng": -85.835
+      }
+    },
+    "cr/puntarenas/manuel-antonio": {
+      "name": "Manuel Antonio",
+      "bbox": {
+        "minLat": 9.385,
+        "minLng": -84.155,
+        "maxLat": 9.395,
+        "maxLng": -84.135
+      }
+    },
+    "cr/puntarenas/monteverde": {
+      "name": "Monteverde",
+      "bbox": {
+        "minLat": 10.295,
+        "minLng": -84.83,
+        "maxLat": 10.325,
+        "maxLng": -84.79
+      }
+    },
+    "cr/san-jose/san-jose": {
+      "name": "San Jose",
+      "bbox": {
+        "minLat": 9.93,
+        "minLng": -84.085,
+        "maxLat": 9.936,
+        "maxLng": -84.072
+      }
+    },
+    "do/distrito-nacional/santo-domingo": {
+      "name": "Santo Domingo",
+      "bbox": {
+        "minLat": 18.47,
+        "minLng": -69.888,
+        "maxLat": 18.48,
+        "maxLng": -69.88
+      }
+    },
+    "do/la-altagracia/punta-cana": {
+      "name": "Punta Cana",
+      "bbox": {
+        "minLat": 18.61,
+        "minLng": -68.72,
+        "maxLat": 18.7,
+        "maxLng": -68.4
+      }
+    },
+    "do/puerto-plata/puerto-plata": {
+      "name": "Puerto Plata",
+      "bbox": {
+        "minLat": 19.745,
+        "minLng": -70.76,
+        "maxLat": 19.81,
+        "maxLng": -70.69
+      }
+    },
+    "do/samana/samana": {
+      "name": "Samana",
+      "bbox": {
+        "minLat": 19.16,
+        "minLng": -69.44,
+        "maxLat": 19.275,
+        "maxLng": -69.26
+      }
+    },
+    "do/santiago/santiago": {
+      "name": "Santiago",
+      "bbox": {
+        "minLat": 19.448,
+        "minLng": -70.7,
+        "maxLat": 19.455,
+        "maxLng": -70.688
+      }
+    },
+    "gt/alta-verapaz/lanquin": {
+      "name": "Lanquin",
+      "bbox": {
+        "minLat": 15.53,
+        "minLng": -89.97,
+        "maxLat": 15.58,
+        "maxLng": -89.95
+      }
+    },
+    "gt/peten/flores": {
+      "name": "Flores",
+      "bbox": {
+        "minLat": 16.925,
+        "minLng": -89.895,
+        "maxLat": 16.933,
+        "maxLng": -89.885
+      }
+    },
+    "gt/peten/tikal": {
+      "name": "Tikal",
+      "bbox": {
+        "minLat": 17.215,
+        "minLng": -89.635,
+        "maxLat": 17.228,
+        "maxLng": -89.615
+      }
+    },
+    "gt/sacatepequez/antigua": {
+      "name": "Antigua",
+      "bbox": {
+        "minLat": 14.55,
+        "minLng": -90.74,
+        "maxLat": 14.57,
+        "maxLng": -90.725
+      }
+    },
+    "gt/solola/panajachel": {
+      "name": "Panajachel",
+      "bbox": {
+        "minLat": 14.735,
+        "minLng": -91.165,
+        "maxLat": 14.748,
+        "maxLng": -91.145
+      }
+    },
+    "mx/baja-california-sur/cabo-san-lucas": {
+      "name": "Cabo San Lucas",
+      "bbox": {
+        "minLat": 22.87,
+        "minLng": -109.92,
+        "maxLat": 22.9,
+        "maxLng": -109.88
+      }
+    },
+    "mx/ciudad-de-mexico/mexico-city": {
+      "name": "Mexico City",
+      "bbox": {
+        "minLat": 19.34,
+        "minLng": -99.2,
+        "maxLat": 19.45,
+        "maxLng": -99.1
+      }
+    },
+    "mx/estado-de-mexico/teotihuacan": {
+      "name": "Teotihuacan",
+      "bbox": {
+        "minLat": 19.67,
+        "minLng": -98.86,
+        "maxLat": 19.7,
+        "maxLng": -98.83
+      }
+    },
+    "mx/guanajuato/guanajuato": {
+      "name": "Guanajuato",
+      "bbox": {
+        "minLat": 21.01,
+        "minLng": -101.27,
+        "maxLat": 21.03,
+        "maxLng": -101.24
+      }
+    },
+    "mx/guanajuato/san-miguel-de-allende": {
+      "name": "San Miguel de Allende",
+      "bbox": {
+        "minLat": 20.91,
+        "minLng": -100.75,
+        "maxLat": 20.92,
+        "maxLng": -100.74
+      }
+    },
+    "mx/jalisco/guadalajara": {
+      "name": "Guadalajara",
+      "bbox": {
+        "minLat": 20.66,
+        "minLng": -103.36,
+        "maxLat": 20.7,
+        "maxLng": -103.33
+      }
+    },
+    "mx/jalisco/puerto-vallarta": {
+      "name": "Puerto Vallarta",
+      "bbox": {
+        "minLat": 20.6,
+        "minLng": -105.25,
+        "maxLat": 20.66,
+        "maxLng": -105.2
+      }
+    },
+    "mx/nuevo-leon/monterrey": {
+      "name": "Monterrey",
+      "bbox": {
+        "minLat": 25.64,
+        "minLng": -100.35,
+        "maxLat": 25.7,
+        "maxLng": -100.28
+      }
+    },
+    "mx/oaxaca/oaxaca": {
+      "name": "Oaxaca",
+      "bbox": {
+        "minLat": 17.04,
+        "minLng": -96.75,
+        "maxLat": 17.08,
+        "maxLng": -96.7
+      }
+    },
+    "mx/puebla/puebla": {
+      "name": "Puebla",
+      "bbox": {
+        "minLat": 19.03,
+        "minLng": -98.21,
+        "maxLat": 19.06,
+        "maxLng": -98.18
+      }
+    },
+    "mx/quintana-roo/cancun": {
+      "name": "Cancún",
+      "bbox": {
+        "minLat": 21.02,
+        "minLng": -86.85,
+        "maxLat": 21.16,
+        "maxLng": -86.74
+      }
+    },
+    "mx/quintana-roo/tulum": {
+      "name": "Tulum",
+      "bbox": {
+        "minLat": 20.2,
+        "minLng": -87.47,
+        "maxLat": 20.23,
+        "maxLng": -87.42
+      }
+    },
+    "mx/yucatan/chichen-itza": {
+      "name": "Chichén Itzá",
+      "bbox": {
+        "minLat": 20.67,
+        "minLng": -88.58,
+        "maxLat": 20.69,
+        "maxLng": -88.56
+      }
+    },
+    "mx/yucatan/merida": {
+      "name": "Mérida",
+      "bbox": {
+        "minLat": 20.96,
+        "minLng": -89.64,
+        "maxLat": 21,
+        "maxLng": -89.6
+      }
+    },
+    "pa/bocas-del-toro/bocas-town": {
+      "name": "Bocas Town",
+      "bbox": {
+        "minLat": 9.32,
+        "minLng": -82.26,
+        "maxLat": 9.36,
+        "maxLng": -82.16
+      }
+    },
+    "pa/chiriqui/boquete": {
+      "name": "Boquete",
+      "bbox": {
+        "minLat": 8.77,
+        "minLng": -82.55,
+        "maxLat": 8.82,
+        "maxLng": -82.42
+      }
+    },
+    "pa/cocle/el-valle": {
+      "name": "El Valle",
+      "bbox": {
+        "minLat": 8.595,
+        "minLng": -80.155,
+        "maxLat": 8.635,
+        "maxLng": -80.12
+      }
+    },
+    "pa/colon/portobelo": {
+      "name": "Portobelo",
+      "bbox": {
+        "minLat": 9.548,
+        "minLng": -79.662,
+        "maxLat": 9.56,
+        "maxLng": -79.648
+      }
+    },
+    "pa/panama/panama-city": {
+      "name": "Panama City",
+      "bbox": {
+        "minLat": 8.945,
+        "minLng": -79.6,
+        "maxLat": 9.015,
+        "maxLng": -79.48
+      }
+    },
+    "us/alabama/birmingham": {
+      "name": "Birmingham",
+      "bbox": {
+        "minLat": 33.45,
+        "minLng": -86.9,
+        "maxLat": 33.56,
+        "maxLng": -86.74
+      }
+    },
+    "us/alabama/huntsville": {
+      "name": "Huntsville",
+      "bbox": {
+        "minLat": 34.65,
+        "minLng": -86.75,
+        "maxLat": 34.8,
+        "maxLng": -86.48
+      }
+    },
+    "us/alabama/mobile": {
+      "name": "Mobile",
+      "bbox": {
+        "minLat": 30.64,
+        "minLng": -88.2,
+        "maxLat": 30.75,
+        "maxLng": -87.98
+      }
+    },
+    "us/alabama/montgomery": {
+      "name": "Montgomery",
+      "bbox": {
+        "minLat": 32.3,
+        "minLng": -86.4,
+        "maxLat": 32.42,
+        "maxLng": -86.18
+      }
+    },
+    "us/alaska/anchorage": {
+      "name": "Anchorage",
+      "bbox": {
+        "minLat": 61.08,
+        "minLng": -150.05,
+        "maxLat": 61.28,
+        "maxLng": -149.65
+      }
+    },
+    "us/alaska/fairbanks": {
+      "name": "Fairbanks",
+      "bbox": {
+        "minLat": 64.8,
+        "minLng": -147.9,
+        "maxLat": 64.9,
+        "maxLng": -147.65
+      }
+    },
+    "us/alaska/juneau": {
+      "name": "Juneau",
+      "bbox": {
+        "minLat": 58.28,
+        "minLng": -134.6,
+        "maxLat": 58.45,
+        "maxLng": -134.35
+      }
+    },
+    "us/arizona/flagstaff": {
+      "name": "Flagstaff",
+      "bbox": {
+        "minLat": 35.15,
+        "minLng": -111.7,
+        "maxLat": 35.25,
+        "maxLng": -111.45
+      }
+    },
+    "us/arizona/phoenix": {
+      "name": "Phoenix",
+      "bbox": {
+        "minLat": 33.3,
+        "minLng": -112.15,
+        "maxLat": 33.7,
+        "maxLng": -111.9
+      }
+    },
+    "us/arizona/scottsdale": {
+      "name": "Scottsdale",
+      "bbox": {
+        "minLat": 33.45,
+        "minLng": -111.95,
+        "maxLat": 33.8,
+        "maxLng": -111.8
+      }
+    },
+    "us/arizona/sedona": {
+      "name": "Sedona",
+      "bbox": {
+        "minLat": 34.78,
+        "minLng": -111.9,
+        "maxLat": 34.95,
+        "maxLng": -111.72
+      }
+    },
+    "us/arizona/tucson": {
+      "name": "Tucson",
+      "bbox": {
+        "minLat": 32.08,
+        "minLng": -111.2,
+        "maxLat": 32.35,
+        "maxLng": -110.8
+      }
+    },
+    "us/arkansas/hot-springs": {
+      "name": "Hot Springs",
+      "bbox": {
+        "minLat": 34.42,
+        "minLng": -93.15,
+        "maxLat": 34.55,
+        "maxLng": -93
+      }
+    },
+    "us/arkansas/little-rock": {
+      "name": "Little Rock",
+      "bbox": {
+        "minLat": 34.7,
+        "minLng": -92.52,
+        "maxLat": 34.85,
+        "maxLng": -92.22
+      }
+    },
+    "us/california/anaheim": {
+      "name": "Anaheim",
+      "bbox": {
+        "minLat": 33.78,
+        "minLng": -117.95,
+        "maxLat": 33.86,
+        "maxLng": -117.85
+      }
+    },
+    "us/california/los-angeles": {
+      "name": "Los Angeles",
+      "bbox": {
+        "minLat": 33.95,
+        "minLng": -118.55,
+        "maxLat": 34.2,
+        "maxLng": -118.15
+      }
+    },
+    "us/california/monterey": {
+      "name": "Monterey",
+      "bbox": {
+        "minLat": 36.55,
+        "minLng": -121.98,
+        "maxLat": 36.65,
+        "maxLng": -121.85
+      }
+    },
+    "us/california/napa": {
+      "name": "Napa",
+      "bbox": {
+        "minLat": 38.236999999999995,
+        "minLng": -122.54299999999999,
+        "maxLat": 38.566,
+        "maxLng": -122.21886
+      }
+    },
+    "us/california/palm-springs": {
+      "name": "Palm Springs",
+      "bbox": {
+        "minLat": 33.75,
+        "minLng": -116.65,
+        "maxLat": 33.85,
+        "maxLng": -116.5
+      }
+    },
+    "us/california/sacramento": {
+      "name": "Sacramento",
+      "bbox": {
+        "minLat": 38.54,
+        "minLng": -121.55,
+        "maxLat": 38.62,
+        "maxLng": -121.45
+      }
+    },
+    "us/california/san-diego": {
+      "name": "San Diego",
+      "bbox": {
+        "minLat": 32.65,
+        "minLng": -117.3,
+        "maxLat": 32.95,
+        "maxLng": -117.1
+      }
+    },
+    "us/california/san-francisco": {
+      "name": "San Francisco",
+      "bbox": {
+        "minLat": 37.708,
+        "minLng": -122.515,
+        "maxLat": 37.833,
+        "maxLng": -122.357
+      }
+    },
+    "us/california/santa-barbara": {
+      "name": "Santa Barbara",
+      "bbox": {
+        "minLat": 34.38,
+        "minLng": -119.75,
+        "maxLat": 34.48,
+        "maxLng": -119.65
+      }
+    },
+    "us/california/south-lake-tahoe": {
+      "name": "South Lake Tahoe",
+      "bbox": {
+        "minLat": 38.914849999999994,
+        "minLng": -120.13059,
+        "maxLat": 38.97222,
+        "maxLng": -119.92
+      }
+    },
+    "us/colorado/aspen": {
+      "name": "Aspen",
+      "bbox": {
+        "minLat": 39.07678,
+        "minLng": -106.96546,
+        "maxLat": 39.22,
+        "maxLng": -106.54390000000001
+      }
+    },
+    "us/colorado/boulder": {
+      "name": "Boulder",
+      "bbox": {
+        "minLat": 39.95,
+        "minLng": -105.35,
+        "maxLat": 40.0981,
+        "maxLng": -105.18
+      }
+    },
+    "us/colorado/colorado-springs": {
+      "name": "Colorado Springs",
+      "bbox": {
+        "minLat": 38.75,
+        "minLng": -105.06394999999999,
+        "maxLat": 39.03,
+        "maxLng": -104.7
+      }
+    },
+    "us/colorado/denver": {
+      "name": "Denver",
+      "bbox": {
+        "minLat": 39.645399999999995,
+        "minLng": -105.22569999999999,
+        "maxLat": 39.85,
+        "maxLng": -104.8
+      }
+    },
+    "us/colorado/telluride": {
+      "name": "Telluride",
+      "bbox": {
+        "minLat": 37.89919999999999,
+        "minLng": -107.85,
+        "maxLat": 37.964240000000004,
+        "maxLng": -107.74996
+      }
+    },
+    "us/connecticut/hartford": {
+      "name": "Hartford",
+      "bbox": {
+        "minLat": 41.73,
+        "minLng": -72.72,
+        "maxLat": 41.8,
+        "maxLng": -72.65
+      }
+    },
+    "us/connecticut/mystic": {
+      "name": "Mystic",
+      "bbox": {
+        "minLat": 41.34,
+        "minLng": -71.98,
+        "maxLat": 41.37,
+        "maxLng": -71.95
+      }
+    },
+    "us/connecticut/new-haven": {
+      "name": "New Haven",
+      "bbox": {
+        "minLat": 41.27,
+        "minLng": -72.97,
+        "maxLat": 41.35,
+        "maxLng": -72.88
+      }
+    },
+    "us/delaware/rehoboth-beach": {
+      "name": "Rehoboth Beach",
+      "bbox": {
+        "minLat": 38.7,
+        "minLng": -75.12,
+        "maxLat": 38.74,
+        "maxLng": -75.06
+      }
+    },
+    "us/delaware/wilmington": {
+      "name": "Wilmington",
+      "bbox": {
+        "minLat": 39.7,
+        "minLng": -75.6,
+        "maxLat": 39.78,
+        "maxLng": -75.5
+      }
+    },
+    "us/district-of-columbia/washington": {
+      "name": "Washington",
+      "bbox": {
+        "minLat": 38.82,
+        "minLng": -77.12,
+        "maxLat": 38.99,
+        "maxLng": -76.91
+      }
+    },
+    "us/florida/fort-lauderdale": {
+      "name": "Fort Lauderdale",
+      "bbox": {
+        "minLat": 26.07961,
+        "minLng": -80.20364,
+        "maxLat": 26.21192,
+        "maxLng": -80.08715
+      }
+    },
+    "us/florida/jacksonville": {
+      "name": "Jacksonville",
+      "bbox": {
+        "minLat": 30.10375,
+        "minLng": -82.04939,
+        "maxLat": 30.58621,
+        "maxLng": -81.31671
+      }
+    },
+    "us/florida/key-west": {
+      "name": "Key West",
+      "bbox": {
+        "minLat": 24.54367,
+        "minLng": -81.81871,
+        "maxLat": 24.59472,
+        "maxLng": -81.72903
+      }
+    },
+    "us/florida/miami": {
+      "name": "Miami",
+      "bbox": {
+        "minLat": 25.4624,
+        "minLng": -80.42,
+        "maxLat": 25.87,
+        "maxLng": -80.1132031
+      }
+    },
+    "us/florida/naples": {
+      "name": "Naples",
+      "bbox": {
+        "minLat": 26.07892,
+        "minLng": -81.832,
+        "maxLat": 26.29,
+        "maxLng": -81.76684
+      }
+    },
+    "us/florida/orlando": {
+      "name": "Orlando",
+      "bbox": {
+        "minLat": 28.334992500000002,
+        "minLng": -81.6114841,
+        "maxLat": 28.5929,
+        "maxLng": -80.629
+      }
+    },
+    "us/florida/st-augustine": {
+      "name": "St. Augustine",
+      "bbox": {
+        "minLat": 29.84632,
+        "minLng": -81.34459,
+        "maxLat": 29.95554,
+        "maxLng": -81.26571
+      }
+    },
+    "us/florida/tampa": {
+      "name": "Tampa",
+      "bbox": {
+        "minLat": 27.9,
+        "minLng": -82.5233545,
+        "maxLat": 28.0570823,
+        "maxLng": -82.4
+      }
+    },
+    "us/georgia/athens": {
+      "name": "Athens",
+      "bbox": {
+        "minLat": 33.85,
+        "minLng": -83.54,
+        "maxLat": 34.04,
+        "maxLng": -83.24
+      }
+    },
+    "us/georgia/atlanta": {
+      "name": "Atlanta",
+      "bbox": {
+        "minLat": 33.65,
+        "minLng": -84.55,
+        "maxLat": 33.89,
+        "maxLng": -84.29
+      }
+    },
+    "us/georgia/savannah": {
+      "name": "Savannah",
+      "bbox": {
+        "minLat": 31.89,
+        "minLng": -81.37,
+        "maxLat": 32.19,
+        "maxLng": -81.03
+      }
+    },
+    "us/hawaii/hilo": {
+      "name": "Hilo",
+      "bbox": {
+        "minLat": 19.62,
+        "minLng": -155.18,
+        "maxLat": 19.87,
+        "maxLng": -154.99
+      }
+    },
+    "us/hawaii/honolulu": {
+      "name": "Honolulu",
+      "bbox": {
+        "minLat": 21.25,
+        "minLng": -157.95,
+        "maxLat": 21.4,
+        "maxLng": -157.65
+      }
+    },
+    "us/hawaii/kailua-kona": {
+      "name": "Kailua-Kona",
+      "bbox": {
+        "minLat": 19.45,
+        "minLng": -156.05,
+        "maxLat": 19.72,
+        "maxLng": -155.87
+      }
+    },
+    "us/hawaii/lahaina": {
+      "name": "Lahaina",
+      "bbox": {
+        "minLat": 20.86,
+        "minLng": -156.69,
+        "maxLat": 20.92,
+        "maxLng": -156.65
+      }
+    },
+    "us/idaho/boise": {
+      "name": "Boise",
+      "bbox": {
+        "minLat": 43.5,
+        "minLng": -116.37,
+        "maxLat": 43.69,
+        "maxLng": -116.09
+      }
+    },
+    "us/idaho/sun-valley": {
+      "name": "Sun Valley",
+      "bbox": {
+        "minLat": 43.64,
+        "minLng": -114.4,
+        "maxLat": 43.72,
+        "maxLng": -114.31
+      }
+    },
+    "us/illinois/chicago": {
+      "name": "Chicago",
+      "bbox": {
+        "minLat": 41.64,
+        "minLng": -87.94,
+        "maxLat": 42.02,
+        "maxLng": -87.52
+      }
+    },
+    "us/illinois/galena": {
+      "name": "Galena",
+      "bbox": {
+        "minLat": 42.39,
+        "minLng": -90.45,
+        "maxLat": 42.44,
+        "maxLng": -90.4
+      }
+    },
+    "us/illinois/springfield": {
+      "name": "Springfield",
+      "bbox": {
+        "minLat": 39.72,
+        "minLng": -89.72,
+        "maxLat": 39.87,
+        "maxLng": -89.55
+      }
+    },
+    "us/indiana/bloomington": {
+      "name": "Bloomington",
+      "bbox": {
+        "minLat": 39.12,
+        "minLng": -86.58,
+        "maxLat": 39.22,
+        "maxLng": -86.47
+      }
+    },
+    "us/indiana/indianapolis": {
+      "name": "Indianapolis",
+      "bbox": {
+        "minLat": 39.68,
+        "minLng": -86.28,
+        "maxLat": 39.92,
+        "maxLng": -86.04
+      }
+    },
+    "us/iowa/des-moines": {
+      "name": "Des Moines",
+      "bbox": {
+        "minLat": 41.5,
+        "minLng": -93.72,
+        "maxLat": 41.66,
+        "maxLng": -93.5
+      }
+    },
+    "us/iowa/iowa-city": {
+      "name": "Iowa City",
+      "bbox": {
+        "minLat": 41.63,
+        "minLng": -91.58,
+        "maxLat": 41.7,
+        "maxLng": -91.48
+      }
+    },
+    "us/kansas/lawrence": {
+      "name": "Lawrence",
+      "bbox": {
+        "minLat": 38.92,
+        "minLng": -95.27,
+        "maxLat": 38.99,
+        "maxLng": -95.2
+      }
+    },
+    "us/kansas/wichita": {
+      "name": "Wichita",
+      "bbox": {
+        "minLat": 37.62,
+        "minLng": -97.43,
+        "maxLat": 37.74,
+        "maxLng": -97.25
+      }
+    },
+    "us/kentucky/lexington": {
+      "name": "Lexington",
+      "bbox": {
+        "minLat": 37.88,
+        "minLng": -84.62,
+        "maxLat": 38.18,
+        "maxLng": -84.38
+      }
+    },
+    "us/kentucky/louisville": {
+      "name": "Louisville",
+      "bbox": {
+        "minLat": 38.18,
+        "minLng": -85.8,
+        "maxLat": 38.29,
+        "maxLng": -85.68
+      }
+    },
+    "us/louisiana/baton-rouge": {
+      "name": "Baton Rouge",
+      "bbox": {
+        "minLat": 30.35,
+        "minLng": -91.22,
+        "maxLat": 30.48,
+        "maxLng": -91.09
+      }
+    },
+    "us/louisiana/new-orleans": {
+      "name": "New Orleans",
+      "bbox": {
+        "minLat": 29.9,
+        "minLng": -90.15,
+        "maxLat": 30.03,
+        "maxLng": -90.04
+      }
+    },
+    "us/maine/bar-harbor": {
+      "name": "Bar Harbor",
+      "bbox": {
+        "minLat": 44.3,
+        "minLng": -68.27,
+        "maxLat": 44.42,
+        "maxLng": -68.17
+      }
+    },
+    "us/maine/portland": {
+      "name": "Portland",
+      "bbox": {
+        "minLat": 43.61,
+        "minLng": -70.28,
+        "maxLat": 43.68,
+        "maxLng": -70.19
+      }
+    },
+    "us/maryland/annapolis": {
+      "name": "Annapolis",
+      "bbox": {
+        "minLat": 38.93,
+        "minLng": -76.52,
+        "maxLat": 38.99,
+        "maxLng": -76.46
+      }
+    },
+    "us/maryland/baltimore": {
+      "name": "Baltimore",
+      "bbox": {
+        "minLat": 39.25,
+        "minLng": -76.65,
+        "maxLat": 39.34,
+        "maxLng": -76.56
+      }
+    },
+    "us/maryland/ocean-city": {
+      "name": "Ocean City",
+      "bbox": {
+        "minLat": 38.31,
+        "minLng": -75.11,
+        "maxLat": 38.46,
+        "maxLng": -75.04
+      }
+    },
+    "us/massachusetts/boston": {
+      "name": "Boston",
+      "bbox": {
+        "minLat": 42.32,
+        "minLng": -71.13,
+        "maxLat": 42.4,
+        "maxLng": -71.01
+      }
+    },
+    "us/massachusetts/cambridge": {
+      "name": "Cambridge",
+      "bbox": {
+        "minLat": 42.35,
+        "minLng": -71.16,
+        "maxLat": 42.4,
+        "maxLng": -71.07
+      }
+    },
+    "us/massachusetts/provincetown": {
+      "name": "Provincetown",
+      "bbox": {
+        "minLat": 42.02,
+        "minLng": -70.26,
+        "maxLat": 42.09,
+        "maxLng": -70.16
+      }
+    },
+    "us/massachusetts/salem": {
+      "name": "Salem",
+      "bbox": {
+        "minLat": 42.5,
+        "minLng": -70.92,
+        "maxLat": 42.54,
+        "maxLng": -70.87
+      }
+    },
+    "us/michigan/ann-arbor": {
+      "name": "Ann Arbor",
+      "bbox": {
+        "minLat": 42.24,
+        "minLng": -83.78,
+        "maxLat": 42.32,
+        "maxLng": -83.68
+      }
+    },
+    "us/michigan/detroit": {
+      "name": "Detroit",
+      "bbox": {
+        "minLat": 42.3,
+        "minLng": -83.25,
+        "maxLat": 42.45,
+        "maxLng": -82.9
+      }
+    },
+    "us/michigan/grand-rapids": {
+      "name": "Grand Rapids",
+      "bbox": {
+        "minLat": 42.9,
+        "minLng": -85.72,
+        "maxLat": 43.02,
+        "maxLng": -85.58
+      }
+    },
+    "us/michigan/mackinac-island": {
+      "name": "Mackinac Island",
+      "bbox": {
+        "minLat": 45.84,
+        "minLng": -84.64,
+        "maxLat": 45.88,
+        "maxLng": -84.6
+      }
+    },
+    "us/michigan/traverse-city": {
+      "name": "Traverse City",
+      "bbox": {
+        "minLat": 44.72,
+        "minLng": -85.68,
+        "maxLat": 44.8,
+        "maxLng": -85.55
+      }
+    },
+    "us/minnesota/duluth": {
+      "name": "Duluth",
+      "bbox": {
+        "minLat": 46.72,
+        "minLng": -92.2,
+        "maxLat": 46.85,
+        "maxLng": -92.02
+      }
+    },
+    "us/minnesota/minneapolis": {
+      "name": "Minneapolis",
+      "bbox": {
+        "minLat": 44.88,
+        "minLng": -93.35,
+        "maxLat": 45.05,
+        "maxLng": -93.2
+      }
+    },
+    "us/minnesota/saint-paul": {
+      "name": "Saint Paul",
+      "bbox": {
+        "minLat": 44.9,
+        "minLng": -93.2,
+        "maxLat": 45,
+        "maxLng": -93.05
+      }
+    },
+    "us/mississippi/biloxi": {
+      "name": "Biloxi",
+      "bbox": {
+        "minLat": 30.38,
+        "minLng": -88.98,
+        "maxLat": 30.45,
+        "maxLng": -88.85
+      }
+    },
+    "us/mississippi/jackson": {
+      "name": "Jackson",
+      "bbox": {
+        "minLat": 32.28,
+        "minLng": -90.25,
+        "maxLat": 32.38,
+        "maxLng": -90.12
+      }
+    },
+    "us/missouri/branson": {
+      "name": "Branson",
+      "bbox": {
+        "minLat": 36.6,
+        "minLng": -93.28,
+        "maxLat": 36.7,
+        "maxLng": -93.15
+      }
+    },
+    "us/missouri/kansas-city": {
+      "name": "Kansas City",
+      "bbox": {
+        "minLat": 39,
+        "minLng": -94.7,
+        "maxLat": 39.18,
+        "maxLng": -94.48
+      }
+    },
+    "us/missouri/st-louis": {
+      "name": "St. Louis",
+      "bbox": {
+        "minLat": 38.55,
+        "minLng": -90.4,
+        "maxLat": 38.75,
+        "maxLng": -90.18
+      }
+    },
+    "us/montana/billings": {
+      "name": "Billings",
+      "bbox": {
+        "minLat": 45.74,
+        "minLng": -108.6,
+        "maxLat": 45.82,
+        "maxLng": -108.45
+      }
+    },
+    "us/montana/bozeman": {
+      "name": "Bozeman",
+      "bbox": {
+        "minLat": 45.65,
+        "minLng": -111.1,
+        "maxLat": 45.72,
+        "maxLng": -110.98
+      }
+    },
+    "us/montana/missoula": {
+      "name": "Missoula",
+      "bbox": {
+        "minLat": 46.84,
+        "minLng": -114.05,
+        "maxLat": 46.9,
+        "maxLng": -113.95
+      }
+    },
+    "us/montana/whitefish": {
+      "name": "Whitefish",
+      "bbox": {
+        "minLat": 48.4,
+        "minLng": -114.38,
+        "maxLat": 48.45,
+        "maxLng": -114.3
+      }
+    },
+    "us/nebraska/lincoln": {
+      "name": "Lincoln",
+      "bbox": {
+        "minLat": 40.76,
+        "minLng": -96.75,
+        "maxLat": 40.86,
+        "maxLng": -96.64
+      }
+    },
+    "us/nebraska/omaha": {
+      "name": "Omaha",
+      "bbox": {
+        "minLat": 41.2,
+        "minLng": -96.12,
+        "maxLat": 41.32,
+        "maxLng": -95.9
+      }
+    },
+    "us/nevada/las-vegas": {
+      "name": "Las Vegas",
+      "bbox": {
+        "minLat": 36.05,
+        "minLng": -115.3,
+        "maxLat": 36.25,
+        "maxLng": -114.95
+      }
+    },
+    "us/nevada/reno": {
+      "name": "Reno",
+      "bbox": {
+        "minLat": 39.48,
+        "minLng": -119.85,
+        "maxLat": 39.58,
+        "maxLng": -119.75
+      }
+    },
+    "us/new-hampshire/concord": {
+      "name": "Concord",
+      "bbox": {
+        "minLat": 43.18,
+        "minLng": -71.56,
+        "maxLat": 43.24,
+        "maxLng": -71.5
+      }
+    },
+    "us/new-hampshire/north-conway": {
+      "name": "North Conway",
+      "bbox": {
+        "minLat": 44.02,
+        "minLng": -71.18,
+        "maxLat": 44.08,
+        "maxLng": -71.1
+      }
+    },
+    "us/new-hampshire/portsmouth": {
+      "name": "Portsmouth",
+      "bbox": {
+        "minLat": 43.05,
+        "minLng": -70.8,
+        "maxLat": 43.1,
+        "maxLng": -70.74
+      }
+    },
+    "us/new-jersey/atlantic-city": {
+      "name": "Atlantic City",
+      "bbox": {
+        "minLat": 39.34,
+        "minLng": -74.48,
+        "maxLat": 39.39,
+        "maxLng": -74.4
+      }
+    },
+    "us/new-jersey/cape-may": {
+      "name": "Cape May",
+      "bbox": {
+        "minLat": 38.92,
+        "minLng": -74.94,
+        "maxLat": 38.96,
+        "maxLng": -74.9
+      }
+    },
+    "us/new-jersey/princeton": {
+      "name": "Princeton",
+      "bbox": {
+        "minLat": 40.33,
+        "minLng": -74.68,
+        "maxLat": 40.37,
+        "maxLng": -74.64
+      }
+    },
+    "us/new-mexico/albuquerque": {
+      "name": "Albuquerque",
+      "bbox": {
+        "minLat": 35,
+        "minLng": -106.75,
+        "maxLat": 35.2,
+        "maxLng": -106.45
+      }
+    },
+    "us/new-mexico/santa-fe": {
+      "name": "Santa Fe",
+      "bbox": {
+        "minLat": 35.64,
+        "minLng": -106,
+        "maxLat": 35.72,
+        "maxLng": -105.9
+      }
+    },
+    "us/new-mexico/taos": {
+      "name": "Taos",
+      "bbox": {
+        "minLat": 36.38,
+        "minLng": -105.6,
+        "maxLat": 36.45,
+        "maxLng": -105.5
+      }
+    },
+    "us/new-york/albany": {
+      "name": "Albany",
+      "bbox": {
+        "minLat": 42.62,
+        "minLng": -73.8,
+        "maxLat": 42.7,
+        "maxLng": -73.72
+      }
+    },
+    "us/new-york/buffalo": {
+      "name": "Buffalo",
+      "bbox": {
+        "minLat": 42.85,
+        "minLng": -78.92,
+        "maxLat": 42.95,
+        "maxLng": -78.8
+      }
+    },
+    "us/new-york/ithaca": {
+      "name": "Ithaca",
+      "bbox": {
+        "minLat": 42.42,
+        "minLng": -76.53,
+        "maxLat": 42.48,
+        "maxLng": -76.46
+      }
+    },
+    "us/new-york/new-york-city": {
+      "name": "New York City",
+      "bbox": {
+        "minLat": 40.55,
+        "minLng": -74.1,
+        "maxLat": 40.92,
+        "maxLng": -73.7
+      }
+    },
+    "us/new-york/niagara-falls": {
+      "name": "Niagara Falls",
+      "bbox": {
+        "minLat": 43.07,
+        "minLng": -79.08,
+        "maxLat": 43.12,
+        "maxLng": -79.02
+      }
+    },
+    "us/new-york/saratoga-springs": {
+      "name": "Saratoga Springs",
+      "bbox": {
+        "minLat": 43.05,
+        "minLng": -73.82,
+        "maxLat": 43.1,
+        "maxLng": -73.75
+      }
+    },
+    "us/north-carolina/asheville": {
+      "name": "Asheville",
+      "bbox": {
+        "minLat": 35.5,
+        "minLng": -82.6,
+        "maxLat": 35.65,
+        "maxLng": -82.45
+      }
+    },
+    "us/north-carolina/charlotte": {
+      "name": "Charlotte",
+      "bbox": {
+        "minLat": 35.15,
+        "minLng": -80.95,
+        "maxLat": 35.3,
+        "maxLng": -80.75
+      }
+    },
+    "us/north-carolina/nags-head": {
+      "name": "Nags Head",
+      "bbox": {
+        "minLat": 35.9,
+        "minLng": -75.65,
+        "maxLat": 36,
+        "maxLng": -75.5
+      }
+    },
+    "us/north-carolina/raleigh": {
+      "name": "Raleigh",
+      "bbox": {
+        "minLat": 35.75,
+        "minLng": -78.72,
+        "maxLat": 35.85,
+        "maxLng": -78.58
+      }
+    },
+    "us/north-carolina/wilmington": {
+      "name": "Wilmington",
+      "bbox": {
+        "minLat": 34.18,
+        "minLng": -77.95,
+        "maxLat": 34.28,
+        "maxLng": -77.8
+      }
+    },
+    "us/north-dakota/bismarck": {
+      "name": "Bismarck",
+      "bbox": {
+        "minLat": 46.78,
+        "minLng": -100.82,
+        "maxLat": 46.85,
+        "maxLng": -100.72
+      }
+    },
+    "us/north-dakota/fargo": {
+      "name": "Fargo",
+      "bbox": {
+        "minLat": 46.84,
+        "minLng": -96.85,
+        "maxLat": 46.92,
+        "maxLng": -96.75
+      }
+    },
+    "us/ohio/cincinnati": {
+      "name": "Cincinnati",
+      "bbox": {
+        "minLat": 39.08,
+        "minLng": -84.58,
+        "maxLat": 39.18,
+        "maxLng": -84.45
+      }
+    },
+    "us/ohio/cleveland": {
+      "name": "Cleveland",
+      "bbox": {
+        "minLat": 41.43,
+        "minLng": -81.82,
+        "maxLat": 41.55,
+        "maxLng": -81.55
+      }
+    },
+    "us/ohio/columbus": {
+      "name": "Columbus",
+      "bbox": {
+        "minLat": 39.92,
+        "minLng": -83.08,
+        "maxLat": 40.05,
+        "maxLng": -82.9
+      }
+    },
+    "us/oklahoma/oklahoma-city": {
+      "name": "Oklahoma City",
+      "bbox": {
+        "minLat": 35.42,
+        "minLng": -97.6,
+        "maxLat": 35.55,
+        "maxLng": -97.45
+      }
+    },
+    "us/oklahoma/tulsa": {
+      "name": "Tulsa",
+      "bbox": {
+        "minLat": 36.1,
+        "minLng": -96,
+        "maxLat": 36.2,
+        "maxLng": -95.9
+      }
+    },
+    "us/oregon/ashland": {
+      "name": "Ashland",
+      "bbox": {
+        "minLat": 42.18,
+        "minLng": -122.73,
+        "maxLat": 42.22,
+        "maxLng": -122.68
+      }
+    },
+    "us/oregon/bend": {
+      "name": "Bend",
+      "bbox": {
+        "minLat": 44.02,
+        "minLng": -121.35,
+        "maxLat": 44.1,
+        "maxLng": -121.25
+      }
+    },
+    "us/oregon/cannon-beach": {
+      "name": "Cannon Beach",
+      "bbox": {
+        "minLat": 45.88,
+        "minLng": -123.98,
+        "maxLat": 45.92,
+        "maxLng": -123.95
+      }
+    },
+    "us/oregon/eugene": {
+      "name": "Eugene",
+      "bbox": {
+        "minLat": 44.02,
+        "minLng": -123.15,
+        "maxLat": 44.1,
+        "maxLng": -123.02
+      }
+    },
+    "us/oregon/portland": {
+      "name": "Portland",
+      "bbox": {
+        "minLat": 45.45,
+        "minLng": -122.8,
+        "maxLat": 45.6,
+        "maxLng": -122.5
+      }
+    },
+    "us/pennsylvania/gettysburg": {
+      "name": "Gettysburg",
+      "bbox": {
+        "minLat": 39.8,
+        "minLng": -77.28,
+        "maxLat": 39.85,
+        "maxLng": -77.2
+      }
+    },
+    "us/pennsylvania/lancaster": {
+      "name": "Lancaster",
+      "bbox": {
+        "minLat": 40.02,
+        "minLng": -76.35,
+        "maxLat": 40.07,
+        "maxLng": -76.28
+      }
+    },
+    "us/pennsylvania/philadelphia": {
+      "name": "Philadelphia",
+      "bbox": {
+        "minLat": 39.9,
+        "minLng": -75.25,
+        "maxLat": 40.05,
+        "maxLng": -75.1
+      }
+    },
+    "us/pennsylvania/pittsburgh": {
+      "name": "Pittsburgh",
+      "bbox": {
+        "minLat": 40.4,
+        "minLng": -80.05,
+        "maxLat": 40.5,
+        "maxLng": -79.9
+      }
+    },
+    "us/rhode-island/newport": {
+      "name": "Newport",
+      "bbox": {
+        "minLat": 41.45,
+        "minLng": -71.35,
+        "maxLat": 41.52,
+        "maxLng": -71.28
+      }
+    },
+    "us/rhode-island/providence": {
+      "name": "Providence",
+      "bbox": {
+        "minLat": 41.8,
+        "minLng": -71.45,
+        "maxLat": 41.85,
+        "maxLng": -71.38
+      }
+    },
+    "us/south-carolina/charleston": {
+      "name": "Charleston",
+      "bbox": {
+        "minLat": 32.72,
+        "minLng": -80,
+        "maxLat": 32.85,
+        "maxLng": -79.85
+      }
+    },
+    "us/south-carolina/columbia": {
+      "name": "Columbia",
+      "bbox": {
+        "minLat": 33.98,
+        "minLng": -81.08,
+        "maxLat": 34.05,
+        "maxLng": -80.98
+      }
+    },
+    "us/south-carolina/greenville": {
+      "name": "Greenville",
+      "bbox": {
+        "minLat": 34.82,
+        "minLng": -82.42,
+        "maxLat": 34.88,
+        "maxLng": -82.36
+      }
+    },
+    "us/south-carolina/myrtle-beach": {
+      "name": "Myrtle Beach",
+      "bbox": {
+        "minLat": 33.65,
+        "minLng": -78.95,
+        "maxLat": 33.75,
+        "maxLng": -78.82
+      }
+    },
+    "us/south-dakota/rapid-city": {
+      "name": "Rapid City",
+      "bbox": {
+        "minLat": 44.04,
+        "minLng": -103.28,
+        "maxLat": 44.12,
+        "maxLng": -103.18
+      }
+    },
+    "us/south-dakota/sioux-falls": {
+      "name": "Sioux Falls",
+      "bbox": {
+        "minLat": 43.52,
+        "minLng": -96.78,
+        "maxLat": 43.58,
+        "maxLng": -96.68
+      }
+    },
+    "us/tennessee/chattanooga": {
+      "name": "Chattanooga",
+      "bbox": {
+        "minLat": 35,
+        "minLng": -85.35,
+        "maxLat": 35.1,
+        "maxLng": -85.22
+      }
+    },
+    "us/tennessee/gatlinburg": {
+      "name": "Gatlinburg",
+      "bbox": {
+        "minLat": 35.68,
+        "minLng": -83.55,
+        "maxLat": 35.75,
+        "maxLng": -83.48
+      }
+    },
+    "us/tennessee/knoxville": {
+      "name": "Knoxville",
+      "bbox": {
+        "minLat": 35.94,
+        "minLng": -84,
+        "maxLat": 36.02,
+        "maxLng": -83.88
+      }
+    },
+    "us/tennessee/memphis": {
+      "name": "Memphis",
+      "bbox": {
+        "minLat": 35.05,
+        "minLng": -90.12,
+        "maxLat": 35.2,
+        "maxLng": -89.9
+      }
+    },
+    "us/tennessee/nashville": {
+      "name": "Nashville",
+      "bbox": {
+        "minLat": 36.12,
+        "minLng": -86.9,
+        "maxLat": 36.22,
+        "maxLng": -86.72
+      }
+    },
+    "us/texas/austin": {
+      "name": "Austin",
+      "bbox": {
+        "minLat": 30.2,
+        "minLng": -97.85,
+        "maxLat": 30.4,
+        "maxLng": -97.65
+      }
+    },
+    "us/texas/dallas": {
+      "name": "Dallas",
+      "bbox": {
+        "minLat": 32.7,
+        "minLng": -96.9,
+        "maxLat": 32.9,
+        "maxLng": -96.65
+      }
+    },
+    "us/texas/denton": {
+      "name": "Denton",
+      "bbox": {
+        "minLat": 33.17,
+        "minLng": -97.2,
+        "maxLat": 33.28,
+        "maxLng": -97.05
+      }
+    },
+    "us/texas/el-paso": {
+      "name": "El Paso",
+      "bbox": {
+        "minLat": 31.65,
+        "minLng": -106.6,
+        "maxLat": 31.98,
+        "maxLng": -106.3
+      }
+    },
+    "us/texas/fort-worth": {
+      "name": "Fort Worth",
+      "bbox": {
+        "minLat": 32.68,
+        "minLng": -97.45,
+        "maxLat": 32.85,
+        "maxLng": -97.25
+      }
+    },
+    "us/texas/galveston": {
+      "name": "Galveston",
+      "bbox": {
+        "minLat": 29.24,
+        "minLng": -94.9,
+        "maxLat": 29.34,
+        "maxLng": -94.75
+      }
+    },
+    "us/texas/houston": {
+      "name": "Houston",
+      "bbox": {
+        "minLat": 29.52,
+        "minLng": -95.65,
+        "maxLat": 29.9,
+        "maxLng": -95.05
+      }
+    },
+    "us/texas/san-antonio": {
+      "name": "San Antonio",
+      "bbox": {
+        "minLat": 29.3,
+        "minLng": -98.6,
+        "maxLat": 29.55,
+        "maxLng": -98.4
+      }
+    },
+    "us/utah/moab": {
+      "name": "Moab",
+      "bbox": {
+        "minLat": 38.54,
+        "minLng": -109.6,
+        "maxLat": 38.62,
+        "maxLng": -109.5
+      }
+    },
+    "us/utah/park-city": {
+      "name": "Park City",
+      "bbox": {
+        "minLat": 40.62,
+        "minLng": -111.52,
+        "maxLat": 40.68,
+        "maxLng": -111.48
+      }
+    },
+    "us/utah/salt-lake-city": {
+      "name": "Salt Lake City",
+      "bbox": {
+        "minLat": 40.72,
+        "minLng": -112,
+        "maxLat": 40.82,
+        "maxLng": -111.82
+      }
+    },
+    "us/utah/springdale": {
+      "name": "Springdale",
+      "bbox": {
+        "minLat": 37.16,
+        "minLng": -113.02,
+        "maxLat": 37.22,
+        "maxLng": -112.98
+      }
+    },
+    "us/utah/st-george": {
+      "name": "St. George",
+      "bbox": {
+        "minLat": 37.05,
+        "minLng": -113.62,
+        "maxLat": 37.15,
+        "maxLng": -113.5
+      }
+    },
+    "us/vermont/burlington": {
+      "name": "Burlington",
+      "bbox": {
+        "minLat": 44.45,
+        "minLng": -73.25,
+        "maxLat": 44.5,
+        "maxLng": -73.18
+      }
+    },
+    "us/vermont/montpelier": {
+      "name": "Montpelier",
+      "bbox": {
+        "minLat": 44.25,
+        "minLng": -72.6,
+        "maxLat": 44.28,
+        "maxLng": -72.55
+      }
+    },
+    "us/vermont/stowe": {
+      "name": "Stowe",
+      "bbox": {
+        "minLat": 44.46,
+        "minLng": -72.72,
+        "maxLat": 44.5,
+        "maxLng": -72.68
+      }
+    },
+    "us/virginia/alexandria": {
+      "name": "Alexandria",
+      "bbox": {
+        "minLat": 38.79,
+        "minLng": -77.08,
+        "maxLat": 38.82,
+        "maxLng": -77.03
+      }
+    },
+    "us/virginia/charlottesville": {
+      "name": "Charlottesville",
+      "bbox": {
+        "minLat": 38,
+        "minLng": -78.52,
+        "maxLat": 38.05,
+        "maxLng": -78.44
+      }
+    },
+    "us/virginia/richmond": {
+      "name": "Richmond",
+      "bbox": {
+        "minLat": 37.5,
+        "minLng": -77.52,
+        "maxLat": 37.6,
+        "maxLng": -77.4
+      }
+    },
+    "us/virginia/virginia-beach": {
+      "name": "Virginia Beach",
+      "bbox": {
+        "minLat": 36.78,
+        "minLng": -76.05,
+        "maxLat": 36.95,
+        "maxLng": -75.96
+      }
+    },
+    "us/virginia/williamsburg": {
+      "name": "Williamsburg",
+      "bbox": {
+        "minLat": 37.26,
+        "minLng": -76.72,
+        "maxLat": 37.29,
+        "maxLng": -76.69
+      }
+    },
+    "us/washington/bellingham": {
+      "name": "Bellingham",
+      "bbox": {
+        "minLat": 48.71,
+        "minLng": -122.52,
+        "maxLat": 48.77,
+        "maxLng": -122.43
+      }
+    },
+    "us/washington/port-angeles": {
+      "name": "Port Angeles",
+      "bbox": {
+        "minLat": 47.94,
+        "minLng": -123.52,
+        "maxLat": 48.15,
+        "maxLng": -123.38
+      }
+    },
+    "us/washington/seattle": {
+      "name": "Seattle",
+      "bbox": {
+        "minLat": 47.58,
+        "minLng": -122.38,
+        "maxLat": 47.66,
+        "maxLng": -122.3
+      }
+    },
+    "us/washington/spokane": {
+      "name": "Spokane",
+      "bbox": {
+        "minLat": 47.63,
+        "minLng": -117.45,
+        "maxLat": 47.68,
+        "maxLng": -117.38
+      }
+    },
+    "us/washington/tacoma": {
+      "name": "Tacoma",
+      "bbox": {
+        "minLat": 47.22,
+        "minLng": -122.54,
+        "maxLat": 47.32,
+        "maxLng": -122.42
+      }
+    },
+    "us/west-virginia/charleston": {
+      "name": "Charleston",
+      "bbox": {
+        "minLat": 38.33,
+        "minLng": -81.66,
+        "maxLat": 38.37,
+        "maxLng": -81.6
+      }
+    },
+    "us/west-virginia/morgantown": {
+      "name": "Morgantown",
+      "bbox": {
+        "minLat": 39.62,
+        "minLng": -79.99,
+        "maxLat": 39.66,
+        "maxLng": -79.94
+      }
+    },
+    "us/wisconsin/madison": {
+      "name": "Madison",
+      "bbox": {
+        "minLat": 43.06,
+        "minLng": -89.42,
+        "maxLat": 43.1,
+        "maxLng": -89.32
+      }
+    },
+    "us/wisconsin/milwaukee": {
+      "name": "Milwaukee",
+      "bbox": {
+        "minLat": 43.02,
+        "minLng": -87.95,
+        "maxLat": 43.08,
+        "maxLng": -87.86
+      }
+    },
+    "us/wisconsin/sturgeon-bay": {
+      "name": "Sturgeon Bay",
+      "bbox": {
+        "minLat": 44.79,
+        "minLng": -87.42,
+        "maxLat": 44.88,
+        "maxLng": -87.3
+      }
+    },
+    "us/wyoming/cheyenne": {
+      "name": "Cheyenne",
+      "bbox": {
+        "minLat": 41.12,
+        "minLng": -104.85,
+        "maxLat": 41.19,
+        "maxLng": -104.8
+      }
+    },
+    "us/wyoming/cody": {
+      "name": "Cody",
+      "bbox": {
+        "minLat": 44.5,
+        "minLng": -109.2,
+        "maxLat": 44.54,
+        "maxLng": -109.04
+      }
+    },
+    "us/wyoming/jackson": {
+      "name": "Jackson",
+      "bbox": {
+        "minLat": 43.46,
+        "minLng": -110.78,
+        "maxLat": 43.51,
+        "maxLng": -110.73
+      }
+    }
+  },
+  "cells": {
+    "102,-232": [
+      "ca/alberta/banff"
+    ],
+    "102,-229": [
+      "ca/alberta/calgary"
+    ],
+    "105,-237": [
+      "ca/alberta/jasper"
+    ],
+    "98,-247": [
+      "ca/british-columbia/vancouver"
+    ],
+    "96,-247": [
+      "ca/british-columbia/victoria",
+      "us/washington/port-angeles"
+    ],
+    "100,-246": [
+      "ca/british-columbia/whistler"
+    ],
+    "99,-195": [
+      "ca/manitoba/winnipeg"
+    ],
+    "89,-128": [
+      "ca/nova-scotia/halifax"
+    ],
+    "86,-159": [
+      "ca/ontario/niagara-falls",
+      "us/new-york/niagara-falls"
+    ],
+    "90,-152": [
+      "ca/ontario/ottawa"
+    ],
+    "87,-159": [
+      "ca/ontario/toronto"
+    ],
+    "90,-148": [
+      "ca/quebec/montreal"
+    ],
+    "91,-148": [
+      "ca/quebec/montreal"
+    ],
+    "93,-143": [
+      "ca/quebec/quebec-city"
+    ],
+    "20,-170": [
+      "cr/alajuela/la-fortuna",
+      "cr/puntarenas/monteverde"
+    ],
+    "20,-172": [
+      "cr/guanacaste/tamarindo"
+    ],
+    "18,-169": [
+      "cr/puntarenas/manuel-antonio"
+    ],
+    "19,-169": [
+      "cr/san-jose/san-jose"
+    ],
+    "36,-140": [
+      "do/distrito-nacional/santo-domingo"
+    ],
+    "37,-138": [
+      "do/la-altagracia/punta-cana"
+    ],
+    "37,-137": [
+      "do/la-altagracia/punta-cana"
+    ],
+    "39,-142": [
+      "do/puerto-plata/puerto-plata"
+    ],
+    "38,-139": [
+      "do/samana/samana"
+    ],
+    "38,-142": [
+      "do/santiago/santiago"
+    ],
+    "31,-180": [
+      "gt/alta-verapaz/lanquin"
+    ],
+    "33,-180": [
+      "gt/peten/flores"
+    ],
+    "34,-180": [
+      "gt/peten/tikal"
+    ],
+    "29,-182": [
+      "gt/sacatepequez/antigua"
+    ],
+    "29,-183": [
+      "gt/solola/panajachel"
+    ],
+    "45,-220": [
+      "mx/baja-california-sur/cabo-san-lucas"
+    ],
+    "38,-199": [
+      "mx/ciudad-de-mexico/mexico-city"
+    ],
+    "39,-198": [
+      "mx/estado-de-mexico/teotihuacan"
+    ],
+    "42,-203": [
+      "mx/guanajuato/guanajuato"
+    ],
+    "41,-202": [
+      "mx/guanajuato/san-miguel-de-allende"
+    ],
+    "41,-207": [
+      "mx/jalisco/guadalajara"
+    ],
+    "41,-211": [
+      "mx/jalisco/puerto-vallarta"
+    ],
+    "51,-201": [
+      "mx/nuevo-leon/monterrey"
+    ],
+    "34,-194": [
+      "mx/oaxaca/oaxaca"
+    ],
+    "38,-197": [
+      "mx/puebla/puebla"
+    ],
+    "42,-174": [
+      "mx/quintana-roo/cancun"
+    ],
+    "40,-175": [
+      "mx/quintana-roo/tulum"
+    ],
+    "41,-178": [
+      "mx/yucatan/chichen-itza"
+    ],
+    "41,-180": [
+      "mx/yucatan/merida"
+    ],
+    "42,-180": [
+      "mx/yucatan/merida"
+    ],
+    "18,-165": [
+      "pa/bocas-del-toro/bocas-town"
+    ],
+    "17,-166": [
+      "pa/chiriqui/boquete"
+    ],
+    "17,-165": [
+      "pa/chiriqui/boquete"
+    ],
+    "17,-161": [
+      "pa/cocle/el-valle"
+    ],
+    "19,-160": [
+      "pa/colon/portobelo"
+    ],
+    "17,-160": [
+      "pa/panama/panama-city"
+    ],
+    "17,-159": [
+      "pa/panama/panama-city"
+    ],
+    "18,-160": [
+      "pa/panama/panama-city"
+    ],
+    "18,-159": [
+      "pa/panama/panama-city"
+    ],
+    "66,-174": [
+      "us/alabama/birmingham"
+    ],
+    "67,-174": [
+      "us/alabama/birmingham"
+    ],
+    "69,-174": [
+      "us/alabama/huntsville"
+    ],
+    "69,-173": [
+      "us/alabama/huntsville"
+    ],
+    "61,-177": [
+      "us/alabama/mobile"
+    ],
+    "61,-176": [
+      "us/alabama/mobile"
+    ],
+    "64,-173": [
+      "us/alabama/montgomery"
+    ],
+    "122,-301": [
+      "us/alaska/anchorage"
+    ],
+    "122,-300": [
+      "us/alaska/anchorage"
+    ],
+    "129,-296": [
+      "us/alaska/fairbanks"
+    ],
+    "116,-270": [
+      "us/alaska/juneau"
+    ],
+    "116,-269": [
+      "us/alaska/juneau"
+    ],
+    "70,-224": [
+      "us/arizona/flagstaff"
+    ],
+    "70,-223": [
+      "us/arizona/flagstaff"
+    ],
+    "66,-225": [
+      "us/arizona/phoenix"
+    ],
+    "66,-224": [
+      "us/arizona/phoenix",
+      "us/arizona/scottsdale"
+    ],
+    "67,-225": [
+      "us/arizona/phoenix"
+    ],
+    "67,-224": [
+      "us/arizona/phoenix",
+      "us/arizona/scottsdale"
+    ],
+    "69,-224": [
+      "us/arizona/sedona"
+    ],
+    "64,-223": [
+      "us/arizona/tucson"
+    ],
+    "64,-222": [
+      "us/arizona/tucson"
+    ],
+    "68,-187": [
+      "us/arkansas/hot-springs"
+    ],
+    "68,-186": [
+      "us/arkansas/hot-springs"
+    ],
+    "69,-187": [
+      "us/arkansas/hot-springs"
+    ],
+    "69,-186": [
+      "us/arkansas/hot-springs",
+      "us/arkansas/little-rock"
+    ],
+    "69,-185": [
+      "us/arkansas/little-rock"
+    ],
+    "67,-236": [
+      "us/california/anaheim"
+    ],
+    "67,-238": [
+      "us/california/los-angeles"
+    ],
+    "67,-237": [
+      "us/california/los-angeles"
+    ],
+    "68,-238": [
+      "us/california/los-angeles"
+    ],
+    "68,-237": [
+      "us/california/los-angeles"
+    ],
+    "73,-244": [
+      "us/california/monterey"
+    ],
+    "76,-246": [
+      "us/california/napa"
+    ],
+    "76,-245": [
+      "us/california/napa"
+    ],
+    "77,-246": [
+      "us/california/napa"
+    ],
+    "77,-245": [
+      "us/california/napa"
+    ],
+    "67,-234": [
+      "us/california/palm-springs"
+    ],
+    "67,-233": [
+      "us/california/palm-springs"
+    ],
+    "77,-244": [
+      "us/california/sacramento"
+    ],
+    "77,-243": [
+      "us/california/sacramento"
+    ],
+    "65,-235": [
+      "us/california/san-diego"
+    ],
+    "75,-246": [
+      "us/california/san-francisco"
+    ],
+    "75,-245": [
+      "us/california/san-francisco"
+    ],
+    "68,-240": [
+      "us/california/santa-barbara"
+    ],
+    "77,-241": [
+      "us/california/south-lake-tahoe"
+    ],
+    "77,-240": [
+      "us/california/south-lake-tahoe"
+    ],
+    "78,-214": [
+      "us/colorado/aspen"
+    ],
+    "79,-211": [
+      "us/colorado/boulder",
+      "us/colorado/denver"
+    ],
+    "80,-211": [
+      "us/colorado/boulder"
+    ],
+    "77,-211": [
+      "us/colorado/colorado-springs"
+    ],
+    "77,-210": [
+      "us/colorado/colorado-springs"
+    ],
+    "78,-211": [
+      "us/colorado/colorado-springs"
+    ],
+    "78,-210": [
+      "us/colorado/colorado-springs"
+    ],
+    "79,-210": [
+      "us/colorado/denver"
+    ],
+    "75,-216": [
+      "us/colorado/telluride"
+    ],
+    "83,-146": [
+      "us/connecticut/hartford"
+    ],
+    "82,-144": [
+      "us/connecticut/mystic"
+    ],
+    "82,-146": [
+      "us/connecticut/new-haven"
+    ],
+    "77,-151": [
+      "us/delaware/rehoboth-beach"
+    ],
+    "79,-152": [
+      "us/delaware/wilmington"
+    ],
+    "79,-151": [
+      "us/delaware/wilmington",
+      "us/pennsylvania/philadelphia"
+    ],
+    "77,-155": [
+      "us/district-of-columbia/washington",
+      "us/virginia/alexandria"
+    ],
+    "77,-154": [
+      "us/district-of-columbia/washington",
+      "us/maryland/annapolis"
+    ],
+    "52,-161": [
+      "us/florida/fort-lauderdale"
+    ],
+    "60,-165": [
+      "us/florida/jacksonville"
+    ],
+    "60,-164": [
+      "us/florida/jacksonville"
+    ],
+    "60,-163": [
+      "us/florida/jacksonville"
+    ],
+    "61,-165": [
+      "us/florida/jacksonville"
+    ],
+    "61,-164": [
+      "us/florida/jacksonville"
+    ],
+    "61,-163": [
+      "us/florida/jacksonville"
+    ],
+    "49,-164": [
+      "us/florida/key-west"
+    ],
+    "50,-161": [
+      "us/florida/miami"
+    ],
+    "51,-161": [
+      "us/florida/miami"
+    ],
+    "52,-164": [
+      "us/florida/naples"
+    ],
+    "56,-164": [
+      "us/florida/orlando"
+    ],
+    "56,-163": [
+      "us/florida/orlando"
+    ],
+    "56,-162": [
+      "us/florida/orlando"
+    ],
+    "57,-164": [
+      "us/florida/orlando"
+    ],
+    "57,-163": [
+      "us/florida/orlando"
+    ],
+    "57,-162": [
+      "us/florida/orlando"
+    ],
+    "59,-163": [
+      "us/florida/st-augustine"
+    ],
+    "55,-166": [
+      "us/florida/tampa"
+    ],
+    "55,-165": [
+      "us/florida/tampa"
+    ],
+    "56,-166": [
+      "us/florida/tampa"
+    ],
+    "56,-165": [
+      "us/florida/tampa"
+    ],
+    "67,-168": [
+      "us/georgia/athens"
+    ],
+    "67,-167": [
+      "us/georgia/athens"
+    ],
+    "68,-168": [
+      "us/georgia/athens"
+    ],
+    "68,-167": [
+      "us/georgia/athens"
+    ],
+    "67,-170": [
+      "us/georgia/atlanta"
+    ],
+    "67,-169": [
+      "us/georgia/atlanta"
+    ],
+    "63,-163": [
+      "us/georgia/savannah"
+    ],
+    "64,-163": [
+      "us/georgia/savannah"
+    ],
+    "39,-311": [
+      "us/hawaii/hilo"
+    ],
+    "39,-310": [
+      "us/hawaii/hilo"
+    ],
+    "42,-316": [
+      "us/hawaii/honolulu"
+    ],
+    "38,-313": [
+      "us/hawaii/kailua-kona"
+    ],
+    "38,-312": [
+      "us/hawaii/kailua-kona"
+    ],
+    "39,-313": [
+      "us/hawaii/kailua-kona"
+    ],
+    "39,-312": [
+      "us/hawaii/kailua-kona"
+    ],
+    "41,-314": [
+      "us/hawaii/lahaina"
+    ],
+    "87,-233": [
+      "us/idaho/boise"
+    ],
+    "87,-229": [
+      "us/idaho/sun-valley"
+    ],
+    "83,-176": [
+      "us/illinois/chicago"
+    ],
+    "84,-176": [
+      "us/illinois/chicago"
+    ],
+    "84,-181": [
+      "us/illinois/galena"
+    ],
+    "79,-180": [
+      "us/illinois/springfield"
+    ],
+    "78,-174": [
+      "us/indiana/bloomington"
+    ],
+    "78,-173": [
+      "us/indiana/bloomington"
+    ],
+    "79,-173": [
+      "us/indiana/indianapolis"
+    ],
+    "83,-188": [
+      "us/iowa/des-moines"
+    ],
+    "83,-187": [
+      "us/iowa/des-moines"
+    ],
+    "83,-184": [
+      "us/iowa/iowa-city"
+    ],
+    "83,-183": [
+      "us/iowa/iowa-city"
+    ],
+    "77,-191": [
+      "us/kansas/lawrence"
+    ],
+    "75,-195": [
+      "us/kansas/wichita"
+    ],
+    "75,-170": [
+      "us/kentucky/lexington"
+    ],
+    "75,-169": [
+      "us/kentucky/lexington"
+    ],
+    "76,-170": [
+      "us/kentucky/lexington"
+    ],
+    "76,-169": [
+      "us/kentucky/lexington"
+    ],
+    "76,-172": [
+      "us/kentucky/louisville"
+    ],
+    "60,-183": [
+      "us/louisiana/baton-rouge"
+    ],
+    "59,-181": [
+      "us/louisiana/new-orleans"
+    ],
+    "60,-181": [
+      "us/louisiana/new-orleans"
+    ],
+    "88,-137": [
+      "us/maine/bar-harbor"
+    ],
+    "87,-141": [
+      "us/maine/portland"
+    ],
+    "77,-153": [
+      "us/maryland/annapolis"
+    ],
+    "78,-154": [
+      "us/maryland/baltimore"
+    ],
+    "76,-151": [
+      "us/maryland/ocean-city"
+    ],
+    "84,-143": [
+      "us/massachusetts/boston",
+      "us/massachusetts/cambridge"
+    ],
+    "84,-141": [
+      "us/massachusetts/provincetown"
+    ],
+    "85,-142": [
+      "us/massachusetts/salem"
+    ],
+    "84,-168": [
+      "us/michigan/ann-arbor"
+    ],
+    "84,-167": [
+      "us/michigan/detroit"
+    ],
+    "84,-166": [
+      "us/michigan/detroit"
+    ],
+    "85,-172": [
+      "us/michigan/grand-rapids"
+    ],
+    "86,-172": [
+      "us/michigan/grand-rapids"
+    ],
+    "91,-170": [
+      "us/michigan/mackinac-island"
+    ],
+    "89,-172": [
+      "us/michigan/traverse-city"
+    ],
+    "93,-185": [
+      "us/minnesota/duluth"
+    ],
+    "89,-187": [
+      "us/minnesota/minneapolis",
+      "us/minnesota/saint-paul"
+    ],
+    "90,-187": [
+      "us/minnesota/minneapolis",
+      "us/minnesota/saint-paul"
+    ],
+    "60,-178": [
+      "us/mississippi/biloxi"
+    ],
+    "64,-181": [
+      "us/mississippi/jackson"
+    ],
+    "73,-187": [
+      "us/missouri/branson"
+    ],
+    "78,-190": [
+      "us/missouri/kansas-city"
+    ],
+    "78,-189": [
+      "us/missouri/kansas-city"
+    ],
+    "77,-181": [
+      "us/missouri/st-louis"
+    ],
+    "91,-218": [
+      "us/montana/billings"
+    ],
+    "91,-217": [
+      "us/montana/billings"
+    ],
+    "91,-223": [
+      "us/montana/bozeman"
+    ],
+    "91,-222": [
+      "us/montana/bozeman"
+    ],
+    "93,-229": [
+      "us/montana/missoula"
+    ],
+    "93,-228": [
+      "us/montana/missoula"
+    ],
+    "96,-229": [
+      "us/montana/whitefish"
+    ],
+    "81,-194": [
+      "us/nebraska/lincoln"
+    ],
+    "82,-193": [
+      "us/nebraska/omaha"
+    ],
+    "82,-192": [
+      "us/nebraska/omaha"
+    ],
+    "72,-231": [
+      "us/nevada/las-vegas"
+    ],
+    "72,-230": [
+      "us/nevada/las-vegas"
+    ],
+    "78,-240": [
+      "us/nevada/reno"
+    ],
+    "79,-240": [
+      "us/nevada/reno"
+    ],
+    "86,-144": [
+      "us/new-hampshire/concord"
+    ],
+    "86,-143": [
+      "us/new-hampshire/concord"
+    ],
+    "88,-143": [
+      "us/new-hampshire/north-conway"
+    ],
+    "86,-142": [
+      "us/new-hampshire/portsmouth"
+    ],
+    "78,-149": [
+      "us/new-jersey/atlantic-city"
+    ],
+    "77,-150": [
+      "us/new-jersey/cape-may"
+    ],
+    "80,-150": [
+      "us/new-jersey/princeton"
+    ],
+    "70,-214": [
+      "us/new-mexico/albuquerque"
+    ],
+    "70,-213": [
+      "us/new-mexico/albuquerque"
+    ],
+    "71,-212": [
+      "us/new-mexico/santa-fe"
+    ],
+    "72,-212": [
+      "us/new-mexico/taos"
+    ],
+    "72,-211": [
+      "us/new-mexico/taos"
+    ],
+    "85,-148": [
+      "us/new-york/albany"
+    ],
+    "85,-158": [
+      "us/new-york/buffalo"
+    ],
+    "84,-154": [
+      "us/new-york/ithaca"
+    ],
+    "84,-153": [
+      "us/new-york/ithaca"
+    ],
+    "81,-149": [
+      "us/new-york/new-york-city"
+    ],
+    "81,-148": [
+      "us/new-york/new-york-city"
+    ],
+    "86,-148": [
+      "us/new-york/saratoga-springs"
+    ],
+    "71,-166": [
+      "us/north-carolina/asheville"
+    ],
+    "71,-165": [
+      "us/north-carolina/asheville"
+    ],
+    "70,-162": [
+      "us/north-carolina/charlotte"
+    ],
+    "71,-152": [
+      "us/north-carolina/nags-head"
+    ],
+    "71,-151": [
+      "us/north-carolina/nags-head"
+    ],
+    "72,-152": [
+      "us/north-carolina/nags-head"
+    ],
+    "72,-151": [
+      "us/north-carolina/nags-head"
+    ],
+    "71,-158": [
+      "us/north-carolina/raleigh"
+    ],
+    "68,-156": [
+      "us/north-carolina/wilmington"
+    ],
+    "93,-202": [
+      "us/north-dakota/bismarck"
+    ],
+    "93,-194": [
+      "us/north-dakota/fargo"
+    ],
+    "78,-170": [
+      "us/ohio/cincinnati"
+    ],
+    "78,-169": [
+      "us/ohio/cincinnati"
+    ],
+    "82,-164": [
+      "us/ohio/cleveland"
+    ],
+    "83,-164": [
+      "us/ohio/cleveland"
+    ],
+    "79,-167": [
+      "us/ohio/columbus"
+    ],
+    "79,-166": [
+      "us/ohio/columbus"
+    ],
+    "80,-167": [
+      "us/ohio/columbus"
+    ],
+    "80,-166": [
+      "us/ohio/columbus"
+    ],
+    "70,-196": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "70,-195": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "71,-196": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "71,-195": [
+      "us/oklahoma/oklahoma-city"
+    ],
+    "72,-192": [
+      "us/oklahoma/tulsa"
+    ],
+    "84,-246": [
+      "us/oregon/ashland"
+    ],
+    "88,-243": [
+      "us/oregon/bend"
+    ],
+    "91,-248": [
+      "us/oregon/cannon-beach"
+    ],
+    "88,-247": [
+      "us/oregon/eugene"
+    ],
+    "90,-246": [
+      "us/oregon/portland"
+    ],
+    "90,-245": [
+      "us/oregon/portland"
+    ],
+    "91,-246": [
+      "us/oregon/portland"
+    ],
+    "91,-245": [
+      "us/oregon/portland"
+    ],
+    "79,-155": [
+      "us/pennsylvania/gettysburg"
+    ],
+    "80,-153": [
+      "us/pennsylvania/lancaster"
+    ],
+    "80,-151": [
+      "us/pennsylvania/philadelphia"
+    ],
+    "80,-161": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "80,-160": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "81,-161": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "81,-160": [
+      "us/pennsylvania/pittsburgh"
+    ],
+    "82,-143": [
+      "us/rhode-island/newport"
+    ],
+    "83,-143": [
+      "us/rhode-island/newport",
+      "us/rhode-island/providence"
+    ],
+    "65,-160": [
+      "us/south-carolina/charleston"
+    ],
+    "67,-163": [
+      "us/south-carolina/columbia"
+    ],
+    "67,-162": [
+      "us/south-carolina/columbia"
+    ],
+    "68,-163": [
+      "us/south-carolina/columbia"
+    ],
+    "68,-162": [
+      "us/south-carolina/columbia"
+    ],
+    "69,-165": [
+      "us/south-carolina/greenville"
+    ],
+    "67,-158": [
+      "us/south-carolina/myrtle-beach"
+    ],
+    "88,-207": [
+      "us/south-dakota/rapid-city"
+    ],
+    "87,-194": [
+      "us/south-dakota/sioux-falls"
+    ],
+    "70,-171": [
+      "us/tennessee/chattanooga"
+    ],
+    "71,-168": [
+      "us/tennessee/gatlinburg",
+      "us/tennessee/knoxville"
+    ],
+    "71,-167": [
+      "us/tennessee/gatlinburg"
+    ],
+    "72,-168": [
+      "us/tennessee/knoxville"
+    ],
+    "70,-181": [
+      "us/tennessee/memphis"
+    ],
+    "70,-180": [
+      "us/tennessee/memphis"
+    ],
+    "72,-174": [
+      "us/tennessee/nashville"
+    ],
+    "60,-196": [
+      "us/texas/austin"
+    ],
+    "65,-194": [
+      "us/texas/dallas"
+    ],
+    "66,-195": [
+      "us/texas/denton"
+    ],
+    "63,-214": [
+      "us/texas/el-paso"
+    ],
+    "63,-213": [
+      "us/texas/el-paso"
+    ],
+    "65,-195": [
+      "us/texas/fort-worth"
+    ],
+    "58,-190": [
+      "us/texas/galveston"
+    ],
+    "59,-192": [
+      "us/texas/houston"
+    ],
+    "59,-191": [
+      "us/texas/houston"
+    ],
+    "58,-198": [
+      "us/texas/san-antonio"
+    ],
+    "58,-197": [
+      "us/texas/san-antonio"
+    ],
+    "59,-198": [
+      "us/texas/san-antonio"
+    ],
+    "59,-197": [
+      "us/texas/san-antonio"
+    ],
+    "77,-220": [
+      "us/utah/moab"
+    ],
+    "77,-219": [
+      "us/utah/moab"
+    ],
+    "81,-224": [
+      "us/utah/park-city",
+      "us/utah/salt-lake-city"
+    ],
+    "81,-223": [
+      "us/utah/park-city"
+    ],
+    "74,-227": [
+      "us/utah/springdale",
+      "us/utah/st-george"
+    ],
+    "74,-226": [
+      "us/utah/springdale"
+    ],
+    "74,-228": [
+      "us/utah/st-george"
+    ],
+    "88,-147": [
+      "us/vermont/burlington"
+    ],
+    "89,-147": [
+      "us/vermont/burlington"
+    ],
+    "88,-146": [
+      "us/vermont/montpelier",
+      "us/vermont/stowe"
+    ],
+    "89,-146": [
+      "us/vermont/stowe"
+    ],
+    "76,-158": [
+      "us/virginia/charlottesville"
+    ],
+    "76,-157": [
+      "us/virginia/charlottesville"
+    ],
+    "75,-156": [
+      "us/virginia/richmond"
+    ],
+    "75,-155": [
+      "us/virginia/richmond"
+    ],
+    "73,-153": [
+      "us/virginia/virginia-beach"
+    ],
+    "73,-152": [
+      "us/virginia/virginia-beach"
+    ],
+    "74,-154": [
+      "us/virginia/williamsburg"
+    ],
+    "97,-246": [
+      "us/washington/bellingham"
+    ],
+    "97,-245": [
+      "us/washington/bellingham"
+    ],
+    "95,-248": [
+      "us/washington/port-angeles"
+    ],
+    "95,-247": [
+      "us/washington/port-angeles"
+    ],
+    "96,-248": [
+      "us/washington/port-angeles"
+    ],
+    "95,-245": [
+      "us/washington/seattle"
+    ],
+    "95,-235": [
+      "us/washington/spokane"
+    ],
+    "94,-246": [
+      "us/washington/tacoma"
+    ],
+    "94,-245": [
+      "us/washington/tacoma"
+    ],
+    "76,-164": [
+      "us/west-virginia/charleston"
+    ],
+    "79,-160": [
+      "us/west-virginia/morgantown"
+    ],
+    "86,-179": [
+      "us/wisconsin/madison"
+    ],
+    "86,-176": [
+      "us/wisconsin/milwaukee"
+    ],
+    "89,-175": [
+      "us/wisconsin/sturgeon-bay"
+    ],
+    "82,-210": [
+      "us/wyoming/cheyenne"
+    ],
+    "89,-219": [
+      "us/wyoming/cody"
+    ],
+    "86,-222": [
+      "us/wyoming/jackson"
+    ],
+    "87,-222": [
+      "us/wyoming/jackson"
+    ]
+  }
+}

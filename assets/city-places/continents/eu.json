@@ -1,0 +1,3705 @@
+{
+  "schemaVersion": 1,
+  "continent": "eu",
+  "generatedAt": "2026-09-30T03:47:16.404Z",
+  "cellDeg": 0.5,
+  "cityCount": 300,
+  "cities": {
+    "ad/andorra-la-vella/andorra-la-vella": {
+      "name": "Andorra la Vella",
+      "bbox": {
+        "minLat": 42.498,
+        "minLng": 1.496,
+        "maxLat": 42.509,
+        "maxLng": 1.524
+      }
+    },
+    "ad/canillo/canillo": {
+      "name": "Canillo",
+      "bbox": {
+        "minLat": 42.551,
+        "minLng": 1.587,
+        "maxLat": 42.574,
+        "maxLng": 1.6
+      }
+    },
+    "ad/encamp/encamp": {
+      "name": "Encamp",
+      "bbox": {
+        "minLat": 42.534,
+        "minLng": 1.58,
+        "maxLat": 42.538,
+        "maxLng": 1.585
+      }
+    },
+    "ad/escaldes-engordany/escaldes-engordany": {
+      "name": "Escaldes-Engordany",
+      "bbox": {
+        "minLat": 42.509,
+        "minLng": 1.534,
+        "maxLat": 42.515,
+        "maxLng": 1.574
+      }
+    },
+    "ad/ordino/ordino": {
+      "name": "Ordino",
+      "bbox": {
+        "minLat": 42.553,
+        "minLng": 1.53,
+        "maxLat": 42.558,
+        "maxLng": 1.536
+      }
+    },
+    "al/berat/berat": {
+      "name": "Berat",
+      "bbox": {
+        "minLat": 40.702,
+        "minLng": 19.945,
+        "maxLat": 40.712,
+        "maxLng": 19.957
+      }
+    },
+    "al/gjirokaster/gjirokaster": {
+      "name": "Gjirokastër",
+      "bbox": {
+        "minLat": 40.071,
+        "minLng": 20.135,
+        "maxLat": 40.078,
+        "maxLng": 20.144
+      }
+    },
+    "al/shkoder/shkoder": {
+      "name": "Shkodër",
+      "bbox": {
+        "minLat": 42.044,
+        "minLng": 19.49,
+        "maxLat": 42.07,
+        "maxLng": 19.516
+      }
+    },
+    "al/tirana/tirana": {
+      "name": "Tirana",
+      "bbox": {
+        "minLat": 41.321,
+        "minLng": 19.816,
+        "maxLat": 41.33,
+        "maxLng": 19.824
+      }
+    },
+    "al/vlore/sarande": {
+      "name": "Sarandë",
+      "bbox": {
+        "minLat": 39.866,
+        "minLng": 19.998,
+        "maxLat": 39.88,
+        "maxLng": 20.025
+      }
+    },
+    "at/salzburg/salzburg": {
+      "name": "Salzburg",
+      "bbox": {
+        "minLat": 47.79,
+        "minLng": 13.03,
+        "maxLat": 47.81,
+        "maxLng": 13.06
+      }
+    },
+    "at/tyrol/innsbruck": {
+      "name": "Innsbruck",
+      "bbox": {
+        "minLat": 47.25,
+        "minLng": 11.38,
+        "maxLat": 47.28,
+        "maxLng": 11.41
+      }
+    },
+    "at/upper-austria/hallstatt": {
+      "name": "Hallstatt",
+      "bbox": {
+        "minLat": 47.55,
+        "minLng": 13.64,
+        "maxLat": 47.57,
+        "maxLng": 13.66
+      }
+    },
+    "at/vienna/vienna": {
+      "name": "Vienna",
+      "bbox": {
+        "minLat": 48.18,
+        "minLng": 16.35,
+        "maxLat": 48.22,
+        "maxLng": 16.4
+      }
+    },
+    "ba/central-bosnia/jajce": {
+      "name": "Jajce",
+      "bbox": {
+        "minLat": 44.337,
+        "minLng": 17.266,
+        "maxLat": 44.345,
+        "maxLng": 17.274
+      }
+    },
+    "ba/herzegovina-neretva/blagaj": {
+      "name": "Blagaj",
+      "bbox": {
+        "minLat": 43.254,
+        "minLng": 17.885,
+        "maxLat": 43.26,
+        "maxLng": 17.892
+      }
+    },
+    "ba/herzegovina-neretva/mostar": {
+      "name": "Mostar",
+      "bbox": {
+        "minLat": 43.335,
+        "minLng": 17.812,
+        "maxLat": 43.34,
+        "maxLng": 17.818
+      }
+    },
+    "ba/herzegovina-neretva/pocitelj": {
+      "name": "Počitelj",
+      "bbox": {
+        "minLat": 43.132,
+        "minLng": 17.727,
+        "maxLat": 43.138,
+        "maxLng": 17.735
+      }
+    },
+    "ba/sarajevo/sarajevo": {
+      "name": "Sarajevo",
+      "bbox": {
+        "minLat": 43.856,
+        "minLng": 18.426,
+        "maxLat": 43.862,
+        "maxLng": 18.434
+      }
+    },
+    "be/antwerp/antwerp": {
+      "name": "Antwerp",
+      "bbox": {
+        "minLat": 51.218,
+        "minLng": 4.396,
+        "maxLat": 51.224,
+        "maxLng": 4.405
+      }
+    },
+    "be/brussels/brussels": {
+      "name": "Brussels",
+      "bbox": {
+        "minLat": 50.84,
+        "minLng": 4.33,
+        "maxLat": 50.9,
+        "maxLng": 4.37
+      }
+    },
+    "be/east-flanders/ghent": {
+      "name": "Ghent",
+      "bbox": {
+        "minLat": 51.05,
+        "minLng": 3.715,
+        "maxLat": 51.06,
+        "maxLng": 3.732
+      }
+    },
+    "be/flemish-brabant/leuven": {
+      "name": "Leuven",
+      "bbox": {
+        "minLat": 50.868,
+        "minLng": 4.695,
+        "maxLat": 50.882,
+        "maxLng": 4.705
+      }
+    },
+    "be/west-flanders/bruges": {
+      "name": "Bruges",
+      "bbox": {
+        "minLat": 51.198,
+        "minLng": 3.218,
+        "maxLat": 51.212,
+        "maxLng": 3.23
+      }
+    },
+    "bg/burgas/nessebar": {
+      "name": "Nessebar",
+      "bbox": {
+        "minLat": 42.655,
+        "minLng": 27.725,
+        "maxLat": 42.662,
+        "maxLng": 27.738
+      }
+    },
+    "bg/kyustendil/rila": {
+      "name": "Rila",
+      "bbox": {
+        "minLat": 42.128,
+        "minLng": 23.335,
+        "maxLat": 42.14,
+        "maxLng": 23.345
+      }
+    },
+    "bg/plovdiv/plovdiv": {
+      "name": "Plovdiv",
+      "bbox": {
+        "minLat": 42.143,
+        "minLng": 24.745,
+        "maxLat": 42.155,
+        "maxLng": 24.758
+      }
+    },
+    "bg/sofia/sofia": {
+      "name": "Sofia",
+      "bbox": {
+        "minLat": 42.55,
+        "minLng": 23.26,
+        "maxLat": 42.71,
+        "maxLng": 23.35
+      }
+    },
+    "bg/veliko-tarnovo/veliko-tarnovo": {
+      "name": "Veliko Tarnovo",
+      "bbox": {
+        "minLat": 43.075,
+        "minLng": 25.63,
+        "maxLat": 43.09,
+        "maxLng": 25.66
+      }
+    },
+    "ch/basel-stadt/basel": {
+      "name": "Basel",
+      "bbox": {
+        "minLat": 47.55,
+        "minLng": 7.58,
+        "maxLat": 47.56,
+        "maxLng": 7.6
+      }
+    },
+    "ch/bern/bern": {
+      "name": "Bern",
+      "bbox": {
+        "minLat": 46.94,
+        "minLng": 7.44,
+        "maxLat": 46.95,
+        "maxLng": 7.46
+      }
+    },
+    "ch/bern/interlaken": {
+      "name": "Interlaken",
+      "bbox": {
+        "minLat": 46.68,
+        "minLng": 7.85,
+        "maxLat": 46.69,
+        "maxLng": 7.88
+      }
+    },
+    "ch/geneva/geneva": {
+      "name": "Geneva",
+      "bbox": {
+        "minLat": 46.19,
+        "minLng": 6.13,
+        "maxLat": 46.22,
+        "maxLng": 6.16
+      }
+    },
+    "ch/graubunden/st-moritz": {
+      "name": "St. Moritz",
+      "bbox": {
+        "minLat": 46.49,
+        "minLng": 9.83,
+        "maxLat": 46.5,
+        "maxLng": 9.85
+      }
+    },
+    "ch/lucerne/lucerne": {
+      "name": "Lucerne",
+      "bbox": {
+        "minLat": 47.04,
+        "minLng": 8.29,
+        "maxLat": 47.06,
+        "maxLng": 8.32
+      }
+    },
+    "ch/ticino/lugano": {
+      "name": "Lugano",
+      "bbox": {
+        "minLat": 46,
+        "minLng": 8.94,
+        "maxLat": 46.01,
+        "maxLng": 8.96
+      }
+    },
+    "ch/valais/zermatt": {
+      "name": "Zermatt",
+      "bbox": {
+        "minLat": 46.01,
+        "minLng": 7.74,
+        "maxLat": 46.03,
+        "maxLng": 7.76
+      }
+    },
+    "ch/vaud/lausanne": {
+      "name": "Lausanne",
+      "bbox": {
+        "minLat": 46.51,
+        "minLng": 6.62,
+        "maxLat": 46.53,
+        "maxLng": 6.64
+      }
+    },
+    "ch/vaud/montreux": {
+      "name": "Montreux",
+      "bbox": {
+        "minLat": 46.42,
+        "minLng": 6.9,
+        "maxLat": 46.44,
+        "maxLng": 6.93
+      }
+    },
+    "ch/zurich/zurich": {
+      "name": "Zurich",
+      "bbox": {
+        "minLat": 47.36,
+        "minLng": 8.52,
+        "maxLat": 47.39,
+        "maxLng": 8.56
+      }
+    },
+    "cy/famagusta/ayia-napa": {
+      "name": "Ayia Napa",
+      "bbox": {
+        "minLat": 34.95,
+        "minLng": 33.97,
+        "maxLat": 34.995,
+        "maxLng": 34.09
+      }
+    },
+    "cy/limassol/limassol": {
+      "name": "Limassol",
+      "bbox": {
+        "minLat": 34.66,
+        "minLng": 32.88,
+        "maxLat": 34.685,
+        "maxLng": 33.05
+      }
+    },
+    "cy/nicosia/nicosia": {
+      "name": "Nicosia",
+      "bbox": {
+        "minLat": 35.168,
+        "minLng": 33.355,
+        "maxLat": 35.18,
+        "maxLng": 33.37
+      }
+    },
+    "cy/nicosia/troodos": {
+      "name": "Troodos",
+      "bbox": {
+        "minLat": 34.92,
+        "minLng": 32.73,
+        "maxLat": 35,
+        "maxLng": 32.88
+      }
+    },
+    "cy/paphos/paphos": {
+      "name": "Paphos",
+      "bbox": {
+        "minLat": 34.75,
+        "minLng": 32.4,
+        "maxLat": 34.78,
+        "maxLng": 32.425
+      }
+    },
+    "cz/karlovy-vary/karlovy-vary": {
+      "name": "Karlovy Vary",
+      "bbox": {
+        "minLat": 50.22,
+        "minLng": 12.86,
+        "maxLat": 50.24,
+        "maxLng": 12.88
+      }
+    },
+    "cz/prague/prague": {
+      "name": "Prague",
+      "bbox": {
+        "minLat": 50.07,
+        "minLng": 14.4,
+        "maxLat": 50.1,
+        "maxLng": 14.45
+      }
+    },
+    "cz/south-bohemia/cesky-krumlov": {
+      "name": "Cesky Krumlov",
+      "bbox": {
+        "minLat": 48.8,
+        "minLng": 14.31,
+        "maxLat": 48.82,
+        "maxLng": 14.33
+      }
+    },
+    "cz/south-moravia/brno": {
+      "name": "Brno",
+      "bbox": {
+        "minLat": 49.18,
+        "minLng": 16.59,
+        "maxLat": 49.21,
+        "maxLng": 16.62
+      }
+    },
+    "de/baden-wuerttemberg/freiburg": {
+      "name": "Freiburg",
+      "bbox": {
+        "minLat": 47.99,
+        "minLng": 7.84,
+        "maxLat": 48,
+        "maxLng": 7.86
+      }
+    },
+    "de/baden-wuerttemberg/heidelberg": {
+      "name": "Heidelberg",
+      "bbox": {
+        "minLat": 49.4,
+        "minLng": 8.69,
+        "maxLat": 49.42,
+        "maxLng": 8.72
+      }
+    },
+    "de/baden-wuerttemberg/stuttgart": {
+      "name": "Stuttgart",
+      "bbox": {
+        "minLat": 48.77,
+        "minLng": 9.17,
+        "maxLat": 48.79,
+        "maxLng": 9.19
+      }
+    },
+    "de/bayern/bamberg": {
+      "name": "Bamberg",
+      "bbox": {
+        "minLat": 49.88,
+        "minLng": 10.88,
+        "maxLat": 49.9,
+        "maxLng": 10.89
+      }
+    },
+    "de/bayern/munich": {
+      "name": "Munich",
+      "bbox": {
+        "minLat": 48.13,
+        "minLng": 11.54,
+        "maxLat": 48.16,
+        "maxLng": 11.59
+      }
+    },
+    "de/bayern/neuschwanstein": {
+      "name": "Neuschwanstein",
+      "bbox": {
+        "minLat": 47.55,
+        "minLng": 10.74,
+        "maxLat": 47.56,
+        "maxLng": 10.76
+      }
+    },
+    "de/bayern/nuremberg": {
+      "name": "Nuremberg",
+      "bbox": {
+        "minLat": 49.44,
+        "minLng": 11.06,
+        "maxLat": 49.46,
+        "maxLng": 11.09
+      }
+    },
+    "de/berlin/berlin": {
+      "name": "Berlin",
+      "bbox": {
+        "minLat": 52.5,
+        "minLng": 13.35,
+        "maxLat": 52.54,
+        "maxLng": 13.45
+      }
+    },
+    "de/brandenburg/potsdam": {
+      "name": "Potsdam",
+      "bbox": {
+        "minLat": 52.39,
+        "minLng": 13.03,
+        "maxLat": 52.41,
+        "maxLng": 13.07
+      }
+    },
+    "de/bremen/bremen": {
+      "name": "Bremen",
+      "bbox": {
+        "minLat": 53.07,
+        "minLng": 8.8,
+        "maxLat": 53.08,
+        "maxLng": 8.81
+      }
+    },
+    "de/hamburg/hamburg": {
+      "name": "Hamburg",
+      "bbox": {
+        "minLat": 53.54,
+        "minLng": 9.96,
+        "maxLat": 53.56,
+        "maxLng": 10.01
+      }
+    },
+    "de/hessen/frankfurt": {
+      "name": "Frankfurt",
+      "bbox": {
+        "minLat": 50.1,
+        "minLng": 8.67,
+        "maxLat": 50.12,
+        "maxLng": 8.69
+      }
+    },
+    "de/niedersachsen/hanover": {
+      "name": "Hanover",
+      "bbox": {
+        "minLat": 52.36,
+        "minLng": 9.73,
+        "maxLat": 52.38,
+        "maxLng": 9.75
+      }
+    },
+    "de/nordrhein-westfalen/aachen": {
+      "name": "Aachen",
+      "bbox": {
+        "minLat": 50.77,
+        "minLng": 6.08,
+        "maxLat": 50.78,
+        "maxLng": 6.09
+      }
+    },
+    "de/nordrhein-westfalen/cologne": {
+      "name": "Cologne",
+      "bbox": {
+        "minLat": 50.93,
+        "minLng": 6.94,
+        "maxLat": 50.95,
+        "maxLng": 6.97
+      }
+    },
+    "de/nordrhein-westfalen/dusseldorf": {
+      "name": "Düsseldorf",
+      "bbox": {
+        "minLat": 51.22,
+        "minLng": 6.76,
+        "maxLat": 51.23,
+        "maxLng": 6.79
+      }
+    },
+    "de/rheinland-pfalz/mainz": {
+      "name": "Mainz",
+      "bbox": {
+        "minLat": 49.99,
+        "minLng": 8.26,
+        "maxLat": 50.01,
+        "maxLng": 8.28
+      }
+    },
+    "de/rheinland-pfalz/trier": {
+      "name": "Trier",
+      "bbox": {
+        "minLat": 49.75,
+        "minLng": 6.62,
+        "maxLat": 49.76,
+        "maxLng": 6.64
+      }
+    },
+    "de/sachsen/dresden": {
+      "name": "Dresden",
+      "bbox": {
+        "minLat": 51.04,
+        "minLng": 13.73,
+        "maxLat": 51.06,
+        "maxLng": 13.75
+      }
+    },
+    "de/sachsen/leipzig": {
+      "name": "Leipzig",
+      "bbox": {
+        "minLat": 51.33,
+        "minLng": 12.37,
+        "maxLat": 51.34,
+        "maxLng": 12.39
+      }
+    },
+    "de/schleswig-holstein/lubeck": {
+      "name": "Lübeck",
+      "bbox": {
+        "minLat": 53.86,
+        "minLng": 10.68,
+        "maxLat": 53.87,
+        "maxLng": 10.69
+      }
+    },
+    "dk/capital/copenhagen": {
+      "name": "Copenhagen",
+      "bbox": {
+        "minLat": 55.67,
+        "minLng": 12.57,
+        "maxLat": 55.7,
+        "maxLng": 12.61
+      }
+    },
+    "dk/capital/helsingor": {
+      "name": "Helsingor",
+      "bbox": {
+        "minLat": 56.033,
+        "minLng": 12.61,
+        "maxLat": 56.042,
+        "maxLng": 12.625
+      }
+    },
+    "dk/central-jutland/aarhus": {
+      "name": "Aarhus",
+      "bbox": {
+        "minLat": 56.15,
+        "minLng": 10.185,
+        "maxLat": 56.165,
+        "maxLng": 10.205
+      }
+    },
+    "dk/southern-denmark/odense": {
+      "name": "Odense",
+      "bbox": {
+        "minLat": 55.39,
+        "minLng": 10.38,
+        "maxLat": 55.405,
+        "maxLng": 10.4
+      }
+    },
+    "dk/zealand/roskilde": {
+      "name": "Roskilde",
+      "bbox": {
+        "minLat": 55.64,
+        "minLng": 12.07,
+        "maxLat": 55.655,
+        "maxLng": 12.09
+      }
+    },
+    "ee/harju/tallinn": {
+      "name": "Tallinn",
+      "bbox": {
+        "minLat": 59.434,
+        "minLng": 24.736,
+        "maxLat": 59.445,
+        "maxLng": 24.752
+      }
+    },
+    "ee/ida-viru/narva": {
+      "name": "Narva",
+      "bbox": {
+        "minLat": 59.373,
+        "minLng": 28.192,
+        "maxLat": 59.382,
+        "maxLng": 28.201
+      }
+    },
+    "ee/parnu/parnu": {
+      "name": "Pärnu",
+      "bbox": {
+        "minLat": 58.375,
+        "minLng": 24.493,
+        "maxLat": 58.387,
+        "maxLng": 24.515
+      }
+    },
+    "ee/saare/kuressaare": {
+      "name": "Kuressaare",
+      "bbox": {
+        "minLat": 58.244,
+        "minLng": 22.475,
+        "maxLat": 58.25,
+        "maxLng": 22.483
+      }
+    },
+    "ee/tartu/tartu": {
+      "name": "Tartu",
+      "bbox": {
+        "minLat": 58.378,
+        "minLng": 26.718,
+        "maxLat": 58.385,
+        "maxLng": 26.726
+      }
+    },
+    "es/andalucia/cordoba": {
+      "name": "Córdoba",
+      "bbox": {
+        "minLat": 37.87,
+        "minLng": -4.79,
+        "maxLat": 37.88,
+        "maxLng": -4.77
+      }
+    },
+    "es/andalucia/granada": {
+      "name": "Granada",
+      "bbox": {
+        "minLat": 37.17,
+        "minLng": -3.6,
+        "maxLat": 37.18,
+        "maxLng": -3.58
+      }
+    },
+    "es/andalucia/malaga": {
+      "name": "Málaga",
+      "bbox": {
+        "minLat": 36.71,
+        "minLng": -4.43,
+        "maxLat": 36.73,
+        "maxLng": -4.41
+      }
+    },
+    "es/andalucia/seville": {
+      "name": "Seville",
+      "bbox": {
+        "minLat": 37.38,
+        "minLng": -5.99,
+        "maxLat": 37.4,
+        "maxLng": -5.98
+      }
+    },
+    "es/aragon/zaragoza": {
+      "name": "Zaragoza",
+      "bbox": {
+        "minLat": 41.65,
+        "minLng": -0.89,
+        "maxLat": 41.66,
+        "maxLng": -0.87
+      }
+    },
+    "es/canarias/las-palmas": {
+      "name": "Las Palmas",
+      "bbox": {
+        "minLat": 28.12,
+        "minLng": -15.44,
+        "maxLat": 28.15,
+        "maxLng": -15.42
+      }
+    },
+    "es/canarias/santa-cruz-tenerife": {
+      "name": "Santa Cruz de Tenerife",
+      "bbox": {
+        "minLat": 28.46,
+        "minLng": -16.26,
+        "maxLat": 28.48,
+        "maxLng": -16.24
+      }
+    },
+    "es/castilla-y-leon/salamanca": {
+      "name": "Salamanca",
+      "bbox": {
+        "minLat": 40.96,
+        "minLng": -5.67,
+        "maxLat": 40.97,
+        "maxLng": -5.66
+      }
+    },
+    "es/castilla-y-leon/segovia": {
+      "name": "Segovia",
+      "bbox": {
+        "minLat": 40.94,
+        "minLng": -4.13,
+        "maxLat": 40.95,
+        "maxLng": -4.11
+      }
+    },
+    "es/catalunya/barcelona": {
+      "name": "Barcelona",
+      "bbox": {
+        "minLat": 41.37,
+        "minLng": 2.14,
+        "maxLat": 41.42,
+        "maxLng": 2.19
+      }
+    },
+    "es/catalunya/girona": {
+      "name": "Girona",
+      "bbox": {
+        "minLat": 41.98,
+        "minLng": 2.81,
+        "maxLat": 41.99,
+        "maxLng": 2.83
+      }
+    },
+    "es/comunidad-valenciana/alicante": {
+      "name": "Alicante",
+      "bbox": {
+        "minLat": 38.34,
+        "minLng": -0.49,
+        "maxLat": 38.35,
+        "maxLng": -0.47
+      }
+    },
+    "es/comunidad-valenciana/valencia": {
+      "name": "Valencia",
+      "bbox": {
+        "minLat": 39.45,
+        "minLng": -0.38,
+        "maxLat": 39.48,
+        "maxLng": -0.34
+      }
+    },
+    "es/galicia/santiago-de-compostela": {
+      "name": "Santiago de Compostela",
+      "bbox": {
+        "minLat": 42.87,
+        "minLng": -8.55,
+        "maxLat": 42.89,
+        "maxLng": -8.54
+      }
+    },
+    "es/islas-baleares/palma": {
+      "name": "Palma",
+      "bbox": {
+        "minLat": 39.56,
+        "minLng": 2.64,
+        "maxLat": 39.58,
+        "maxLng": 2.66
+      }
+    },
+    "es/madrid/madrid": {
+      "name": "Madrid",
+      "bbox": {
+        "minLat": 40.4,
+        "minLng": -3.72,
+        "maxLat": 40.43,
+        "maxLng": -3.68
+      }
+    },
+    "es/madrid/toledo": {
+      "name": "Toledo",
+      "bbox": {
+        "minLat": 39.85,
+        "minLng": -4.04,
+        "maxLat": 39.87,
+        "maxLng": -4.02
+      }
+    },
+    "es/pais-vasco/bilbao": {
+      "name": "Bilbao",
+      "bbox": {
+        "minLat": 43.26,
+        "minLng": -2.95,
+        "maxLat": 43.27,
+        "maxLng": -2.92
+      }
+    },
+    "es/pais-vasco/san-sebastian": {
+      "name": "San Sebastián",
+      "bbox": {
+        "minLat": 43.31,
+        "minLng": -1.99,
+        "maxLat": 43.33,
+        "maxLng": -1.97
+      }
+    },
+    "fi/lapland/rovaniemi": {
+      "name": "Rovaniemi",
+      "bbox": {
+        "minLat": 66.5,
+        "minLng": 25.73,
+        "maxLat": 66.55,
+        "maxLng": 25.86
+      }
+    },
+    "fi/pirkanmaa/tampere": {
+      "name": "Tampere",
+      "bbox": {
+        "minLat": 61.495,
+        "minLng": 23.74,
+        "maxLat": 61.512,
+        "maxLng": 23.78
+      }
+    },
+    "fi/southwest/turku": {
+      "name": "Turku",
+      "bbox": {
+        "minLat": 60.43,
+        "minLng": 22.22,
+        "maxLat": 60.46,
+        "maxLng": 22.29
+      }
+    },
+    "fi/uusimaa/helsinki": {
+      "name": "Helsinki",
+      "bbox": {
+        "minLat": 60.14,
+        "minLng": 24.93,
+        "maxLat": 60.18,
+        "maxLng": 25
+      }
+    },
+    "fi/uusimaa/porvoo": {
+      "name": "Porvoo",
+      "bbox": {
+        "minLat": 60.392,
+        "minLng": 25.652,
+        "maxLat": 60.4,
+        "maxLng": 25.668
+      }
+    },
+    "fr/auvergne-rhone-alpes/annecy": {
+      "name": "Annecy",
+      "bbox": {
+        "minLat": 45.89,
+        "minLng": 6.11,
+        "maxLat": 45.91,
+        "maxLng": 6.14
+      }
+    },
+    "fr/auvergne-rhone-alpes/grenoble": {
+      "name": "Grenoble",
+      "bbox": {
+        "minLat": 45.18,
+        "minLng": 5.71,
+        "maxLat": 45.2,
+        "maxLng": 5.74
+      }
+    },
+    "fr/auvergne-rhone-alpes/lyon": {
+      "name": "Lyon",
+      "bbox": {
+        "minLat": 45.75,
+        "minLng": 4.81,
+        "maxLat": 45.77,
+        "maxLng": 4.86
+      }
+    },
+    "fr/bourgogne-franche-comte/dijon": {
+      "name": "Dijon",
+      "bbox": {
+        "minLat": 47.31,
+        "minLng": 5.03,
+        "maxLat": 47.33,
+        "maxLng": 5.05
+      }
+    },
+    "fr/bretagne/rennes": {
+      "name": "Rennes",
+      "bbox": {
+        "minLat": 48.1,
+        "minLng": -1.69,
+        "maxLat": 48.12,
+        "maxLng": -1.66
+      }
+    },
+    "fr/bretagne/saint-malo": {
+      "name": "Saint-Malo",
+      "bbox": {
+        "minLat": 48.64,
+        "minLng": -2.03,
+        "maxLat": 48.66,
+        "maxLng": -2.01
+      }
+    },
+    "fr/centre-val-de-loire/orleans": {
+      "name": "Orléans",
+      "bbox": {
+        "minLat": 47.89,
+        "minLng": 1.9,
+        "maxLat": 47.91,
+        "maxLng": 1.92
+      }
+    },
+    "fr/centre-val-de-loire/tours": {
+      "name": "Tours",
+      "bbox": {
+        "minLat": 47.38,
+        "minLng": 0.68,
+        "maxLat": 47.4,
+        "maxLng": 0.7
+      }
+    },
+    "fr/corse/ajaccio": {
+      "name": "Ajaccio",
+      "bbox": {
+        "minLat": 41.91,
+        "minLng": 8.72,
+        "maxLat": 41.93,
+        "maxLng": 8.74
+      }
+    },
+    "fr/grand-est/reims": {
+      "name": "Reims",
+      "bbox": {
+        "minLat": 49.24,
+        "minLng": 4.02,
+        "maxLat": 49.26,
+        "maxLng": 4.04
+      }
+    },
+    "fr/grand-est/strasbourg": {
+      "name": "Strasbourg",
+      "bbox": {
+        "minLat": 48.57,
+        "minLng": 7.73,
+        "maxLat": 48.59,
+        "maxLng": 7.76
+      }
+    },
+    "fr/hauts-de-france/lille": {
+      "name": "Lille",
+      "bbox": {
+        "minLat": 50.62,
+        "minLng": 3.05,
+        "maxLat": 50.64,
+        "maxLng": 3.08
+      }
+    },
+    "fr/ile-de-france/paris": {
+      "name": "Paris",
+      "bbox": {
+        "minLat": 48.84,
+        "minLng": 2.28,
+        "maxLat": 48.89,
+        "maxLng": 2.38
+      }
+    },
+    "fr/ile-de-france/versailles": {
+      "name": "Versailles",
+      "bbox": {
+        "minLat": 48.8,
+        "minLng": 2.08,
+        "maxLat": 48.82,
+        "maxLng": 2.13
+      }
+    },
+    "fr/normandie/mont-saint-michel": {
+      "name": "Mont-Saint-Michel",
+      "bbox": {
+        "minLat": 48.63,
+        "minLng": -1.52,
+        "maxLat": 48.64,
+        "maxLng": -1.5
+      }
+    },
+    "fr/normandie/rouen": {
+      "name": "Rouen",
+      "bbox": {
+        "minLat": 49.43,
+        "minLng": 1.08,
+        "maxLat": 49.45,
+        "maxLng": 1.1
+      }
+    },
+    "fr/nouvelle-aquitaine/biarritz": {
+      "name": "Biarritz",
+      "bbox": {
+        "minLat": 43.47,
+        "minLng": -1.57,
+        "maxLat": 43.49,
+        "maxLng": -1.54
+      }
+    },
+    "fr/nouvelle-aquitaine/bordeaux": {
+      "name": "Bordeaux",
+      "bbox": {
+        "minLat": 44.83,
+        "minLng": -0.59,
+        "maxLat": 44.85,
+        "maxLng": -0.56
+      }
+    },
+    "fr/occitanie/carcassonne": {
+      "name": "Carcassonne",
+      "bbox": {
+        "minLat": 43.2,
+        "minLng": 2.35,
+        "maxLat": 43.22,
+        "maxLng": 2.37
+      }
+    },
+    "fr/occitanie/montpellier": {
+      "name": "Montpellier",
+      "bbox": {
+        "minLat": 43.6,
+        "minLng": 3.86,
+        "maxLat": 43.62,
+        "maxLng": 3.89
+      }
+    },
+    "fr/occitanie/toulouse": {
+      "name": "Toulouse",
+      "bbox": {
+        "minLat": 43.59,
+        "minLng": 1.43,
+        "maxLat": 43.61,
+        "maxLng": 1.46
+      }
+    },
+    "fr/pays-de-la-loire/nantes": {
+      "name": "Nantes",
+      "bbox": {
+        "minLat": 47.2,
+        "minLng": -1.58,
+        "maxLat": 47.22,
+        "maxLng": -1.54
+      }
+    },
+    "fr/provence-alpes-cote-dazur/aix-en-provence": {
+      "name": "Aix-en-Provence",
+      "bbox": {
+        "minLat": 43.52,
+        "minLng": 5.43,
+        "maxLat": 43.54,
+        "maxLng": 5.46
+      }
+    },
+    "fr/provence-alpes-cote-dazur/avignon": {
+      "name": "Avignon",
+      "bbox": {
+        "minLat": 43.94,
+        "minLng": 4.8,
+        "maxLat": 43.96,
+        "maxLng": 4.82
+      }
+    },
+    "fr/provence-alpes-cote-dazur/cannes": {
+      "name": "Cannes",
+      "bbox": {
+        "minLat": 43.54,
+        "minLng": 7.01,
+        "maxLat": 43.56,
+        "maxLng": 7.04
+      }
+    },
+    "fr/provence-alpes-cote-dazur/marseille": {
+      "name": "Marseille",
+      "bbox": {
+        "minLat": 43.28,
+        "minLng": 5.35,
+        "maxLat": 43.31,
+        "maxLng": 5.39
+      }
+    },
+    "fr/provence-alpes-cote-dazur/nice": {
+      "name": "Nice",
+      "bbox": {
+        "minLat": 43.68,
+        "minLng": 7.24,
+        "maxLat": 43.72,
+        "maxLng": 7.28
+      }
+    },
+    "gb/england/bath": {
+      "name": "Bath",
+      "bbox": {
+        "minLat": 51.37,
+        "minLng": -2.38,
+        "maxLat": 51.39,
+        "maxLng": -2.34
+      }
+    },
+    "gb/england/brighton": {
+      "name": "Brighton",
+      "bbox": {
+        "minLat": 50.81,
+        "minLng": -0.16,
+        "maxLat": 50.84,
+        "maxLng": -0.12
+      }
+    },
+    "gb/england/bristol": {
+      "name": "Bristol",
+      "bbox": {
+        "minLat": 51.44,
+        "minLng": -2.63,
+        "maxLat": 51.46,
+        "maxLng": -2.58
+      }
+    },
+    "gb/england/cambridge": {
+      "name": "Cambridge",
+      "bbox": {
+        "minLat": 52.19,
+        "minLng": 0.1,
+        "maxLat": 52.22,
+        "maxLng": 0.13
+      }
+    },
+    "gb/england/canterbury": {
+      "name": "Canterbury",
+      "bbox": {
+        "minLat": 51.27,
+        "minLng": 1.07,
+        "maxLat": 51.29,
+        "maxLng": 1.09
+      }
+    },
+    "gb/england/cornwall": {
+      "name": "Cornwall",
+      "bbox": {
+        "minLat": 50.08,
+        "minLng": -5.72,
+        "maxLat": 50.22,
+        "maxLng": -5.05
+      }
+    },
+    "gb/england/durham": {
+      "name": "Durham",
+      "bbox": {
+        "minLat": 54.77,
+        "minLng": -1.58,
+        "maxLat": 54.78,
+        "maxLng": -1.57
+      }
+    },
+    "gb/england/liverpool": {
+      "name": "Liverpool",
+      "bbox": {
+        "minLat": 53.39,
+        "minLng": -2.99,
+        "maxLat": 53.42,
+        "maxLng": -2.96
+      }
+    },
+    "gb/england/london": {
+      "name": "London",
+      "bbox": {
+        "minLat": 51.48,
+        "minLng": -0.2,
+        "maxLat": 51.55,
+        "maxLng": 0.02
+      }
+    },
+    "gb/england/manchester": {
+      "name": "Manchester",
+      "bbox": {
+        "minLat": 53.46,
+        "minLng": -2.26,
+        "maxLat": 53.49,
+        "maxLng": -2.22
+      }
+    },
+    "gb/england/oxford": {
+      "name": "Oxford",
+      "bbox": {
+        "minLat": 51.74,
+        "minLng": -1.27,
+        "maxLat": 51.76,
+        "maxLng": -1.24
+      }
+    },
+    "gb/england/stratford-upon-avon": {
+      "name": "Stratford-upon-Avon",
+      "bbox": {
+        "minLat": 52.18,
+        "minLng": -1.72,
+        "maxLat": 52.2,
+        "maxLng": -1.7
+      }
+    },
+    "gb/england/windsor": {
+      "name": "Windsor",
+      "bbox": {
+        "minLat": 51.48,
+        "minLng": -0.62,
+        "maxLat": 51.49,
+        "maxLng": -0.6
+      }
+    },
+    "gb/england/york": {
+      "name": "York",
+      "bbox": {
+        "minLat": 53.95,
+        "minLng": -1.1,
+        "maxLat": 53.97,
+        "maxLng": -1.07
+      }
+    },
+    "gb/northern-ireland/belfast": {
+      "name": "Belfast",
+      "bbox": {
+        "minLat": 54.58,
+        "minLng": -5.95,
+        "maxLat": 54.61,
+        "maxLng": -5.9
+      }
+    },
+    "gb/northern-ireland/giants-causeway": {
+      "name": "Giant's Causeway",
+      "bbox": {
+        "minLat": 55.23,
+        "minLng": -6.52,
+        "maxLat": 55.25,
+        "maxLng": -6.5
+      }
+    },
+    "gb/scotland/edinburgh": {
+      "name": "Edinburgh",
+      "bbox": {
+        "minLat": 55.94,
+        "minLng": -3.22,
+        "maxLat": 55.96,
+        "maxLng": -3.16
+      }
+    },
+    "gb/scotland/glasgow": {
+      "name": "Glasgow",
+      "bbox": {
+        "minLat": 55.85,
+        "minLng": -4.28,
+        "maxLat": 55.87,
+        "maxLng": -4.23
+      }
+    },
+    "gb/scotland/inverness": {
+      "name": "Inverness",
+      "bbox": {
+        "minLat": 57.46,
+        "minLng": -4.25,
+        "maxLat": 57.49,
+        "maxLng": -4.2
+      }
+    },
+    "gb/scotland/st-andrews": {
+      "name": "St Andrews",
+      "bbox": {
+        "minLat": 56.33,
+        "minLng": -2.81,
+        "maxLat": 56.35,
+        "maxLng": -2.78
+      }
+    },
+    "gb/scotland/stirling": {
+      "name": "Stirling",
+      "bbox": {
+        "minLat": 56.11,
+        "minLng": -3.95,
+        "maxLat": 56.13,
+        "maxLng": -3.93
+      }
+    },
+    "gb/wales/cardiff": {
+      "name": "Cardiff",
+      "bbox": {
+        "minLat": 51.46,
+        "minLng": -3.19,
+        "maxLat": 51.49,
+        "maxLng": -3.15
+      }
+    },
+    "gb/wales/conwy": {
+      "name": "Conwy",
+      "bbox": {
+        "minLat": 53.27,
+        "minLng": -3.84,
+        "maxLat": 53.29,
+        "maxLng": -3.82
+      }
+    },
+    "gb/wales/snowdonia": {
+      "name": "Snowdonia",
+      "bbox": {
+        "minLat": 53.05,
+        "minLng": -4.1,
+        "maxLat": 53.12,
+        "maxLng": -3.95
+      }
+    },
+    "gr/attica/athens": {
+      "name": "Athens",
+      "bbox": {
+        "minLat": 37.95,
+        "minLng": 23.7,
+        "maxLat": 38,
+        "maxLng": 23.78
+      }
+    },
+    "gr/attica/delphi": {
+      "name": "Delphi",
+      "bbox": {
+        "minLat": 38.47,
+        "minLng": 22.48,
+        "maxLat": 38.49,
+        "maxLng": 22.51
+      }
+    },
+    "gr/central-macedonia/thessaloniki": {
+      "name": "Thessaloniki",
+      "bbox": {
+        "minLat": 40.62,
+        "minLng": 22.92,
+        "maxLat": 40.65,
+        "maxLng": 22.97
+      }
+    },
+    "gr/crete/heraklion": {
+      "name": "Heraklion",
+      "bbox": {
+        "minLat": 35.32,
+        "minLng": 25.12,
+        "maxLat": 35.35,
+        "maxLng": 25.16
+      }
+    },
+    "gr/peloponnese/nafplio": {
+      "name": "Nafplio",
+      "bbox": {
+        "minLat": 37.56,
+        "minLng": 22.79,
+        "maxLat": 37.58,
+        "maxLng": 22.81
+      }
+    },
+    "gr/peloponnese/olympia": {
+      "name": "Olympia",
+      "bbox": {
+        "minLat": 37.63,
+        "minLng": 21.62,
+        "maxLat": 37.64,
+        "maxLng": 21.64
+      }
+    },
+    "gr/south-aegean/mykonos": {
+      "name": "Mykonos",
+      "bbox": {
+        "minLat": 37.43,
+        "minLng": 25.32,
+        "maxLat": 37.46,
+        "maxLng": 25.36
+      }
+    },
+    "gr/south-aegean/santorini": {
+      "name": "Santorini",
+      "bbox": {
+        "minLat": 36.4,
+        "minLng": 25.42,
+        "maxLat": 36.45,
+        "maxLng": 25.47
+      }
+    },
+    "hr/dubrovnik-neretva/dubrovnik": {
+      "name": "Dubrovnik",
+      "bbox": {
+        "minLat": 42.63,
+        "minLng": 18.1,
+        "maxLat": 42.65,
+        "maxLng": 18.12
+      }
+    },
+    "hr/istra/rovinj": {
+      "name": "Rovinj",
+      "bbox": {
+        "minLat": 45.07,
+        "minLng": 13.63,
+        "maxLat": 45.09,
+        "maxLng": 13.65
+      }
+    },
+    "hr/plitvice/plitvice-lakes": {
+      "name": "Plitvice Lakes",
+      "bbox": {
+        "minLat": 44.86,
+        "minLng": 15.58,
+        "maxLat": 44.9,
+        "maxLng": 15.62
+      }
+    },
+    "hr/split-dalmatia/hvar": {
+      "name": "Hvar",
+      "bbox": {
+        "minLat": 43.16,
+        "minLng": 16.43,
+        "maxLat": 43.18,
+        "maxLng": 16.46
+      }
+    },
+    "hr/split-dalmatia/split": {
+      "name": "Split",
+      "bbox": {
+        "minLat": 43.5,
+        "minLng": 16.43,
+        "maxLat": 43.52,
+        "maxLng": 16.45
+      }
+    },
+    "hr/zagreb/zagreb": {
+      "name": "Zagreb",
+      "bbox": {
+        "minLat": 45.8,
+        "minLng": 15.96,
+        "maxLat": 45.83,
+        "maxLng": 16
+      }
+    },
+    "hu/baranya/pecs": {
+      "name": "Pecs",
+      "bbox": {
+        "minLat": 46.07,
+        "minLng": 18.22,
+        "maxLat": 46.08,
+        "maxLng": 18.24
+      }
+    },
+    "hu/budapest/budapest": {
+      "name": "Budapest",
+      "bbox": {
+        "minLat": 47.48,
+        "minLng": 19.03,
+        "maxLat": 47.52,
+        "maxLng": 19.08
+      }
+    },
+    "hu/heves/eger": {
+      "name": "Eger",
+      "bbox": {
+        "minLat": 47.89,
+        "minLng": 20.36,
+        "maxLat": 47.91,
+        "maxLng": 20.39
+      }
+    },
+    "hu/veszprem/lake-balaton": {
+      "name": "Lake Balaton",
+      "bbox": {
+        "minLat": 46.75,
+        "minLng": 17.2,
+        "maxLat": 46.92,
+        "maxLng": 18.05
+      }
+    },
+    "ie/clare/cliffs-of-moher": {
+      "name": "Cliffs of Moher",
+      "bbox": {
+        "minLat": 52.96,
+        "minLng": -9.44,
+        "maxLat": 52.98,
+        "maxLng": -9.41
+      }
+    },
+    "ie/cork/cork": {
+      "name": "Cork",
+      "bbox": {
+        "minLat": 51.88,
+        "minLng": -8.5,
+        "maxLat": 51.91,
+        "maxLng": -8.45
+      }
+    },
+    "ie/dublin/dublin": {
+      "name": "Dublin",
+      "bbox": {
+        "minLat": 53.33,
+        "minLng": -6.28,
+        "maxLat": 53.36,
+        "maxLng": -6.24
+      }
+    },
+    "ie/galway/galway": {
+      "name": "Galway",
+      "bbox": {
+        "minLat": 53.26,
+        "minLng": -9.07,
+        "maxLat": 53.28,
+        "maxLng": -9.04
+      }
+    },
+    "ie/kerry/killarney": {
+      "name": "Killarney",
+      "bbox": {
+        "minLat": 52,
+        "minLng": -9.55,
+        "maxLat": 52.07,
+        "maxLng": -9.48
+      }
+    },
+    "is/east/jokulsarlon": {
+      "name": "Jokulsarlon",
+      "bbox": {
+        "minLat": 64.04,
+        "minLng": -16.22,
+        "maxLat": 64.08,
+        "maxLng": -16.17
+      }
+    },
+    "is/reykjavik/reykjavik": {
+      "name": "Reykjavik",
+      "bbox": {
+        "minLat": 64.12,
+        "minLng": -21.95,
+        "maxLat": 64.16,
+        "maxLng": -21.88
+      }
+    },
+    "is/south/golden-circle": {
+      "name": "Golden Circle",
+      "bbox": {
+        "minLat": 64,
+        "minLng": -21.2,
+        "maxLat": 64.35,
+        "maxLng": -20.1
+      }
+    },
+    "is/south/vik": {
+      "name": "Vik",
+      "bbox": {
+        "minLat": 63.39,
+        "minLng": -19.55,
+        "maxLat": 63.55,
+        "maxLng": -19
+      }
+    },
+    "is/sudurnes/blue-lagoon": {
+      "name": "Blue Lagoon",
+      "bbox": {
+        "minLat": 63.86,
+        "minLng": -22.7,
+        "maxLat": 63.89,
+        "maxLng": -22.43
+      }
+    },
+    "it/campania/amalfi": {
+      "name": "Amalfi",
+      "bbox": {
+        "minLat": 40.63,
+        "minLng": 14.6,
+        "maxLat": 40.64,
+        "maxLng": 14.61
+      }
+    },
+    "it/campania/capri": {
+      "name": "Capri",
+      "bbox": {
+        "minLat": 40.54,
+        "minLng": 14.22,
+        "maxLat": 40.56,
+        "maxLng": 14.25
+      }
+    },
+    "it/campania/naples": {
+      "name": "Naples",
+      "bbox": {
+        "minLat": 40.83,
+        "minLng": 14.23,
+        "maxLat": 40.86,
+        "maxLng": 14.27
+      }
+    },
+    "it/campania/pompeii": {
+      "name": "Pompeii",
+      "bbox": {
+        "minLat": 40.74,
+        "minLng": 14.48,
+        "maxLat": 40.76,
+        "maxLng": 14.5
+      }
+    },
+    "it/emilia-romagna/bologna": {
+      "name": "Bologna",
+      "bbox": {
+        "minLat": 44.49,
+        "minLng": 11.33,
+        "maxLat": 44.5,
+        "maxLng": 11.35
+      }
+    },
+    "it/emilia-romagna/ravenna": {
+      "name": "Ravenna",
+      "bbox": {
+        "minLat": 44.41,
+        "minLng": 12.19,
+        "maxLat": 44.42,
+        "maxLng": 12.21
+      }
+    },
+    "it/lazio/rome": {
+      "name": "Rome",
+      "bbox": {
+        "minLat": 41.88,
+        "minLng": 12.45,
+        "maxLat": 41.91,
+        "maxLng": 12.51
+      }
+    },
+    "it/lazio/vatican-city": {
+      "name": "Vatican City",
+      "bbox": {
+        "minLat": 41.9,
+        "minLng": 12.44,
+        "maxLat": 41.91,
+        "maxLng": 12.46
+      }
+    },
+    "it/liguria/cinque-terre": {
+      "name": "Cinque Terre",
+      "bbox": {
+        "minLat": 44.1,
+        "minLng": 9.65,
+        "maxLat": 44.15,
+        "maxLng": 9.73
+      }
+    },
+    "it/liguria/genoa": {
+      "name": "Genoa",
+      "bbox": {
+        "minLat": 44.4,
+        "minLng": 8.92,
+        "maxLat": 44.42,
+        "maxLng": 8.94
+      }
+    },
+    "it/lombardia/bergamo": {
+      "name": "Bergamo",
+      "bbox": {
+        "minLat": 45.7,
+        "minLng": 9.65,
+        "maxLat": 45.71,
+        "maxLng": 9.67
+      }
+    },
+    "it/lombardia/milan": {
+      "name": "Milan",
+      "bbox": {
+        "minLat": 45.45,
+        "minLng": 9.17,
+        "maxLat": 45.48,
+        "maxLng": 9.2
+      }
+    },
+    "it/piemonte/turin": {
+      "name": "Turin",
+      "bbox": {
+        "minLat": 45.06,
+        "minLng": 7.67,
+        "maxLat": 45.08,
+        "maxLng": 7.7
+      }
+    },
+    "it/puglia/alberobello": {
+      "name": "Alberobello",
+      "bbox": {
+        "minLat": 40.78,
+        "minLng": 17.23,
+        "maxLat": 40.79,
+        "maxLng": 17.24
+      }
+    },
+    "it/puglia/bari": {
+      "name": "Bari",
+      "bbox": {
+        "minLat": 41.12,
+        "minLng": 16.86,
+        "maxLat": 41.13,
+        "maxLng": 16.88
+      }
+    },
+    "it/sardegna/cagliari": {
+      "name": "Cagliari",
+      "bbox": {
+        "minLat": 39.21,
+        "minLng": 9.1,
+        "maxLat": 39.23,
+        "maxLng": 9.12
+      }
+    },
+    "it/sicilia/catania": {
+      "name": "Catania",
+      "bbox": {
+        "minLat": 37.5,
+        "minLng": 15.08,
+        "maxLat": 37.51,
+        "maxLng": 15.09
+      }
+    },
+    "it/sicilia/palermo": {
+      "name": "Palermo",
+      "bbox": {
+        "minLat": 38.11,
+        "minLng": 13.35,
+        "maxLat": 38.13,
+        "maxLng": 13.37
+      }
+    },
+    "it/sicilia/taormina": {
+      "name": "Taormina",
+      "bbox": {
+        "minLat": 37.85,
+        "minLng": 15.28,
+        "maxLat": 37.86,
+        "maxLng": 15.29
+      }
+    },
+    "it/toscana/florence": {
+      "name": "Florence",
+      "bbox": {
+        "minLat": 43.76,
+        "minLng": 11.24,
+        "maxLat": 43.78,
+        "maxLng": 11.27
+      }
+    },
+    "it/toscana/pisa": {
+      "name": "Pisa",
+      "bbox": {
+        "minLat": 43.72,
+        "minLng": 10.39,
+        "maxLat": 43.73,
+        "maxLng": 10.4
+      }
+    },
+    "it/toscana/siena": {
+      "name": "Siena",
+      "bbox": {
+        "minLat": 43.31,
+        "minLng": 11.32,
+        "maxLat": 43.33,
+        "maxLng": 11.34
+      }
+    },
+    "it/umbria/assisi": {
+      "name": "Assisi",
+      "bbox": {
+        "minLat": 43.07,
+        "minLng": 12.61,
+        "maxLat": 43.08,
+        "maxLng": 12.62
+      }
+    },
+    "it/umbria/perugia": {
+      "name": "Perugia",
+      "bbox": {
+        "minLat": 43.1,
+        "minLng": 12.38,
+        "maxLat": 43.12,
+        "maxLng": 12.4
+      }
+    },
+    "it/veneto/venice": {
+      "name": "Venice",
+      "bbox": {
+        "minLat": 45.42,
+        "minLng": 12.32,
+        "maxLat": 45.45,
+        "maxLng": 12.36
+      }
+    },
+    "it/veneto/verona": {
+      "name": "Verona",
+      "bbox": {
+        "minLat": 45.43,
+        "minLng": 10.98,
+        "maxLat": 45.45,
+        "maxLng": 11.01
+      }
+    },
+    "lt/kaunas/kaunas": {
+      "name": "Kaunas",
+      "bbox": {
+        "minLat": 54.895,
+        "minLng": 23.882,
+        "maxLat": 54.901,
+        "maxLng": 23.89
+      }
+    },
+    "lt/klaipeda/nida": {
+      "name": "Nida",
+      "bbox": {
+        "minLat": 55.293,
+        "minLng": 20.99,
+        "maxLat": 55.307,
+        "maxLng": 21.01
+      }
+    },
+    "lt/siauliai/siauliai": {
+      "name": "Šiauliai",
+      "bbox": {
+        "minLat": 56.013,
+        "minLng": 23.413,
+        "maxLat": 56.018,
+        "maxLng": 23.42
+      }
+    },
+    "lt/vilnius/trakai": {
+      "name": "Trakai",
+      "bbox": {
+        "minLat": 54.643,
+        "minLng": 24.928,
+        "maxLat": 54.655,
+        "maxLng": 24.945
+      }
+    },
+    "lt/vilnius/vilnius": {
+      "name": "Vilnius",
+      "bbox": {
+        "minLat": 54.681,
+        "minLng": 25.285,
+        "maxLat": 54.688,
+        "maxLng": 25.296
+      }
+    },
+    "lu/clervaux/clervaux": {
+      "name": "Clervaux",
+      "bbox": {
+        "minLat": 50.052,
+        "minLng": 6.027,
+        "maxLat": 50.058,
+        "maxLng": 6.035
+      }
+    },
+    "lu/echternach/echternach": {
+      "name": "Echternach",
+      "bbox": {
+        "minLat": 49.8,
+        "minLng": 6.408,
+        "maxLat": 49.817,
+        "maxLng": 6.428
+      }
+    },
+    "lu/luxembourg/luxembourg-city": {
+      "name": "Luxembourg City",
+      "bbox": {
+        "minLat": 49.606,
+        "minLng": 6.124,
+        "maxLat": 49.615,
+        "maxLng": 6.14
+      }
+    },
+    "lu/vianden/vianden": {
+      "name": "Vianden",
+      "bbox": {
+        "minLat": 49.932,
+        "minLng": 6.199,
+        "maxLat": 49.938,
+        "maxLng": 6.206
+      }
+    },
+    "lu/wiltz/esch-sur-sure": {
+      "name": "Esch-sur-Sûre",
+      "bbox": {
+        "minLat": 49.906,
+        "minLng": 5.925,
+        "maxLat": 49.915,
+        "maxLng": 5.94
+      }
+    },
+    "lv/riga/jurmala": {
+      "name": "Jūrmala",
+      "bbox": {
+        "minLat": 56.968,
+        "minLng": 23.793,
+        "maxLat": 56.978,
+        "maxLng": 23.82
+      }
+    },
+    "lv/riga/riga": {
+      "name": "Riga",
+      "bbox": {
+        "minLat": 56.946,
+        "minLng": 24.102,
+        "maxLat": 56.952,
+        "maxLng": 24.114
+      }
+    },
+    "lv/vidzeme/cesis": {
+      "name": "Cēsis",
+      "bbox": {
+        "minLat": 57.311,
+        "minLng": 25.268,
+        "maxLat": 57.316,
+        "maxLng": 25.275
+      }
+    },
+    "lv/vidzeme/sigulda": {
+      "name": "Sigulda",
+      "bbox": {
+        "minLat": 57.163,
+        "minLng": 24.845,
+        "maxLat": 57.185,
+        "maxLng": 24.855
+      }
+    },
+    "lv/zemgale/rundale": {
+      "name": "Rundāle",
+      "bbox": {
+        "minLat": 56.41,
+        "minLng": 24.022,
+        "maxLat": 56.416,
+        "maxLng": 24.029
+      }
+    },
+    "me/budva/budva": {
+      "name": "Budva",
+      "bbox": {
+        "minLat": 42.274,
+        "minLng": 18.834,
+        "maxLat": 42.28,
+        "maxLng": 18.841
+      }
+    },
+    "me/budva/sveti-stefan": {
+      "name": "Sveti Stefan",
+      "bbox": {
+        "minLat": 42.252,
+        "minLng": 18.886,
+        "maxLat": 42.259,
+        "maxLng": 18.896
+      }
+    },
+    "me/durmitor/zabljak": {
+      "name": "Žabljak",
+      "bbox": {
+        "minLat": 43.12,
+        "minLng": 19.08,
+        "maxLat": 43.15,
+        "maxLng": 19.11
+      }
+    },
+    "me/kotor/kotor": {
+      "name": "Kotor",
+      "bbox": {
+        "minLat": 42.422,
+        "minLng": 18.765,
+        "maxLat": 42.43,
+        "maxLng": 18.775
+      }
+    },
+    "me/kotor/perast": {
+      "name": "Perast",
+      "bbox": {
+        "minLat": 42.484,
+        "minLng": 18.688,
+        "maxLat": 42.492,
+        "maxLng": 18.703
+      }
+    },
+    "mk/bitola/bitola": {
+      "name": "Bitola",
+      "bbox": {
+        "minLat": 41.008,
+        "minLng": 21.33,
+        "maxLat": 41.034,
+        "maxLng": 21.348
+      }
+    },
+    "mk/ohrid/ohrid": {
+      "name": "Ohrid",
+      "bbox": {
+        "minLat": 41.108,
+        "minLng": 20.785,
+        "maxLat": 41.117,
+        "maxLng": 20.795
+      }
+    },
+    "mk/ohrid/st-naum": {
+      "name": "Saint Naum",
+      "bbox": {
+        "minLat": 40.911,
+        "minLng": 20.737,
+        "maxLat": 40.917,
+        "maxLng": 20.745
+      }
+    },
+    "mk/skopje/matka": {
+      "name": "Matka",
+      "bbox": {
+        "minLat": 41.948,
+        "minLng": 21.293,
+        "maxLat": 41.958,
+        "maxLng": 21.305
+      }
+    },
+    "mk/skopje/skopje": {
+      "name": "Skopje",
+      "bbox": {
+        "minLat": 41.995,
+        "minLng": 21.43,
+        "maxLat": 42.004,
+        "maxLng": 21.44
+      }
+    },
+    "mt/gozo/comino": {
+      "name": "Comino",
+      "bbox": {
+        "minLat": 36.008,
+        "minLng": 14.33,
+        "maxLat": 36.018,
+        "maxLng": 14.345
+      }
+    },
+    "mt/gozo/victoria": {
+      "name": "Victoria",
+      "bbox": {
+        "minLat": 36.04,
+        "minLng": 14.235,
+        "maxLat": 36.052,
+        "maxLng": 14.275
+      }
+    },
+    "mt/southern-harbour/valletta": {
+      "name": "Valletta",
+      "bbox": {
+        "minLat": 35.894,
+        "minLng": 14.508,
+        "maxLat": 35.902,
+        "maxLng": 14.518
+      }
+    },
+    "mt/southern/qrendi": {
+      "name": "Qrendi",
+      "bbox": {
+        "minLat": 35.818,
+        "minLng": 14.44,
+        "maxLat": 35.832,
+        "maxLng": 14.46
+      }
+    },
+    "mt/western/mdina": {
+      "name": "Mdina",
+      "bbox": {
+        "minLat": 35.883,
+        "minLng": 14.4,
+        "maxLat": 35.888,
+        "maxLng": 14.406
+      }
+    },
+    "nl/friesland/giethoorn": {
+      "name": "Giethoorn",
+      "bbox": {
+        "minLat": 52.72,
+        "minLng": 6.07,
+        "maxLat": 52.74,
+        "maxLng": 6.09
+      }
+    },
+    "nl/gelderland/arnhem": {
+      "name": "Arnhem",
+      "bbox": {
+        "minLat": 51.97,
+        "minLng": 5.88,
+        "maxLat": 51.99,
+        "maxLng": 5.92
+      }
+    },
+    "nl/limburg/maastricht": {
+      "name": "Maastricht",
+      "bbox": {
+        "minLat": 50.84,
+        "minLng": 5.68,
+        "maxLat": 50.86,
+        "maxLng": 5.7
+      }
+    },
+    "nl/noord-brabant/eindhoven": {
+      "name": "Eindhoven",
+      "bbox": {
+        "minLat": 51.43,
+        "minLng": 5.46,
+        "maxLat": 51.45,
+        "maxLng": 5.49
+      }
+    },
+    "nl/noord-holland/amsterdam": {
+      "name": "Amsterdam",
+      "bbox": {
+        "minLat": 52.35,
+        "minLng": 4.86,
+        "maxLat": 52.39,
+        "maxLng": 4.92
+      }
+    },
+    "nl/noord-holland/haarlem": {
+      "name": "Haarlem",
+      "bbox": {
+        "minLat": 52.37,
+        "minLng": 4.62,
+        "maxLat": 52.39,
+        "maxLng": 4.64
+      }
+    },
+    "nl/utrecht/utrecht": {
+      "name": "Utrecht",
+      "bbox": {
+        "minLat": 52.08,
+        "minLng": 5.11,
+        "maxLat": 52.1,
+        "maxLng": 5.13
+      }
+    },
+    "nl/zuid-holland/delft": {
+      "name": "Delft",
+      "bbox": {
+        "minLat": 52,
+        "minLng": 4.35,
+        "maxLat": 52.02,
+        "maxLng": 4.37
+      }
+    },
+    "nl/zuid-holland/leiden": {
+      "name": "Leiden",
+      "bbox": {
+        "minLat": 52.15,
+        "minLng": 4.48,
+        "maxLat": 52.17,
+        "maxLng": 4.5
+      }
+    },
+    "nl/zuid-holland/rotterdam": {
+      "name": "Rotterdam",
+      "bbox": {
+        "minLat": 51.9,
+        "minLng": 4.46,
+        "maxLat": 51.93,
+        "maxLng": 4.5
+      }
+    },
+    "nl/zuid-holland/the-hague": {
+      "name": "The Hague",
+      "bbox": {
+        "minLat": 52.07,
+        "minLng": 4.28,
+        "maxLat": 52.09,
+        "maxLng": 4.32
+      }
+    },
+    "no/nordland/lofoten": {
+      "name": "Lofoten",
+      "bbox": {
+        "minLat": 67.85,
+        "minLng": 13,
+        "maxLat": 68.25,
+        "maxLng": 14.6
+      }
+    },
+    "no/oslo/oslo": {
+      "name": "Oslo",
+      "bbox": {
+        "minLat": 59.9,
+        "minLng": 10.7,
+        "maxLat": 59.93,
+        "maxLng": 10.76
+      }
+    },
+    "no/troms/tromso": {
+      "name": "Tromso",
+      "bbox": {
+        "minLat": 69.63,
+        "minLng": 18.92,
+        "maxLat": 69.66,
+        "maxLng": 18.98
+      }
+    },
+    "no/vestland/bergen": {
+      "name": "Bergen",
+      "bbox": {
+        "minLat": 60.38,
+        "minLng": 5.31,
+        "maxLat": 60.4,
+        "maxLng": 5.34
+      }
+    },
+    "no/vestland/flam": {
+      "name": "Flam",
+      "bbox": {
+        "minLat": 60.85,
+        "minLng": 7.1,
+        "maxLat": 60.87,
+        "maxLng": 7.13
+      }
+    },
+    "pl/malopolskie/krakow": {
+      "name": "Krakow",
+      "bbox": {
+        "minLat": 50.04,
+        "minLng": 19.92,
+        "maxLat": 50.07,
+        "maxLng": 19.96
+      }
+    },
+    "pl/malopolskie/zakopane": {
+      "name": "Zakopane",
+      "bbox": {
+        "minLat": 49.28,
+        "minLng": 19.94,
+        "maxLat": 49.32,
+        "maxLng": 20
+      }
+    },
+    "pl/mazowieckie/warsaw": {
+      "name": "Warsaw",
+      "bbox": {
+        "minLat": 52.22,
+        "minLng": 21,
+        "maxLat": 52.26,
+        "maxLng": 21.04
+      }
+    },
+    "pl/pomorskie/gdansk": {
+      "name": "Gdansk",
+      "bbox": {
+        "minLat": 54.34,
+        "minLng": 18.64,
+        "maxLat": 54.36,
+        "maxLng": 18.66
+      }
+    },
+    "pl/wielkopolskie/poznan": {
+      "name": "Poznan",
+      "bbox": {
+        "minLat": 52.4,
+        "minLng": 16.92,
+        "maxLat": 52.42,
+        "maxLng": 16.94
+      }
+    },
+    "pt/acores/ponta-delgada": {
+      "name": "Ponta Delgada",
+      "bbox": {
+        "minLat": 37.73,
+        "minLng": -25.68,
+        "maxLat": 37.75,
+        "maxLng": -25.66
+      }
+    },
+    "pt/coimbra/coimbra": {
+      "name": "Coimbra",
+      "bbox": {
+        "minLat": 40.2,
+        "minLng": -8.43,
+        "maxLat": 40.21,
+        "maxLng": -8.41
+      }
+    },
+    "pt/evora/evora": {
+      "name": "Évora",
+      "bbox": {
+        "minLat": 38.56,
+        "minLng": -7.91,
+        "maxLat": 38.58,
+        "maxLng": -7.9
+      }
+    },
+    "pt/faro/faro": {
+      "name": "Faro",
+      "bbox": {
+        "minLat": 37.01,
+        "minLng": -7.94,
+        "maxLat": 37.02,
+        "maxLng": -7.93
+      }
+    },
+    "pt/faro/lagos": {
+      "name": "Lagos",
+      "bbox": {
+        "minLat": 37.09,
+        "minLng": -8.68,
+        "maxLat": 37.11,
+        "maxLng": -8.66
+      }
+    },
+    "pt/lisboa/cascais": {
+      "name": "Cascais",
+      "bbox": {
+        "minLat": 38.69,
+        "minLng": -9.43,
+        "maxLat": 38.7,
+        "maxLng": -9.41
+      }
+    },
+    "pt/lisboa/lisbon": {
+      "name": "Lisbon",
+      "bbox": {
+        "minLat": 38.7,
+        "minLng": -9.2,
+        "maxLat": 38.74,
+        "maxLng": -9.12
+      }
+    },
+    "pt/lisboa/sintra": {
+      "name": "Sintra",
+      "bbox": {
+        "minLat": 38.78,
+        "minLng": -9.43,
+        "maxLat": 38.8,
+        "maxLng": -9.38
+      }
+    },
+    "pt/madeira/funchal": {
+      "name": "Funchal",
+      "bbox": {
+        "minLat": 32.64,
+        "minLng": -16.93,
+        "maxLat": 32.66,
+        "maxLng": -16.9
+      }
+    },
+    "pt/porto/porto": {
+      "name": "Porto",
+      "bbox": {
+        "minLat": 41.13,
+        "minLng": -8.63,
+        "maxLat": 41.15,
+        "maxLng": -8.6
+      }
+    },
+    "ro/brasov/bran": {
+      "name": "Bran",
+      "bbox": {
+        "minLat": 45.51,
+        "minLng": 25.36,
+        "maxLat": 45.595,
+        "maxLng": 25.465
+      }
+    },
+    "ro/brasov/brasov": {
+      "name": "Brasov",
+      "bbox": {
+        "minLat": 45.638,
+        "minLng": 25.585,
+        "maxLat": 45.645,
+        "maxLng": 25.595
+      }
+    },
+    "ro/bucharest/bucharest": {
+      "name": "Bucharest",
+      "bbox": {
+        "minLat": 44.425,
+        "minLng": 26.085,
+        "maxLat": 44.445,
+        "maxLng": 26.105
+      }
+    },
+    "ro/mures/sighisoara": {
+      "name": "Sighisoara",
+      "bbox": {
+        "minLat": 46.216,
+        "minLng": 24.788,
+        "maxLat": 46.222,
+        "maxLng": 24.796
+      }
+    },
+    "ro/sibiu/sibiu": {
+      "name": "Sibiu",
+      "bbox": {
+        "minLat": 45.793,
+        "minLng": 24.148,
+        "maxLat": 45.799,
+        "maxLng": 24.155
+      }
+    },
+    "rs/belgrade/belgrade": {
+      "name": "Belgrade",
+      "bbox": {
+        "minLat": 44.79,
+        "minLng": 20.44,
+        "maxLat": 44.83,
+        "maxLng": 20.48
+      }
+    },
+    "rs/branicevo/golubac": {
+      "name": "Golubac",
+      "bbox": {
+        "minLat": 44.655,
+        "minLng": 21.668,
+        "maxLat": 44.668,
+        "maxLng": 21.688
+      }
+    },
+    "rs/nisava/nis": {
+      "name": "Niš",
+      "bbox": {
+        "minLat": 43.305,
+        "minLng": 21.888,
+        "maxLat": 43.332,
+        "maxLng": 21.955
+      }
+    },
+    "rs/vojvodina/novi-sad": {
+      "name": "Novi Sad",
+      "bbox": {
+        "minLat": 45.248,
+        "minLng": 19.838,
+        "maxLat": 45.26,
+        "maxLng": 19.87
+      }
+    },
+    "rs/vojvodina/subotica": {
+      "name": "Subotica",
+      "bbox": {
+        "minLat": 46.096,
+        "minLng": 19.658,
+        "maxLat": 46.105,
+        "maxLng": 19.672
+      }
+    },
+    "se/gotland/visby": {
+      "name": "Visby",
+      "bbox": {
+        "minLat": 57.634,
+        "minLng": 18.288,
+        "maxLat": 57.646,
+        "maxLng": 18.305
+      }
+    },
+    "se/skane/malmo": {
+      "name": "Malmo",
+      "bbox": {
+        "minLat": 55.6,
+        "minLng": 12.97,
+        "maxLat": 55.62,
+        "maxLng": 12.995
+      }
+    },
+    "se/stockholm/stockholm": {
+      "name": "Stockholm",
+      "bbox": {
+        "minLat": 59.32,
+        "minLng": 18.05,
+        "maxLat": 59.335,
+        "maxLng": 18.1
+      }
+    },
+    "se/uppsala/uppsala": {
+      "name": "Uppsala",
+      "bbox": {
+        "minLat": 59.855,
+        "minLng": 17.628,
+        "maxLat": 59.865,
+        "maxLng": 17.64
+      }
+    },
+    "se/vastra-gotaland/gothenburg": {
+      "name": "Gothenburg",
+      "bbox": {
+        "minLat": 57.694,
+        "minLng": 11.95,
+        "maxLat": 57.705,
+        "maxLng": 11.985
+      }
+    },
+    "si/gorenjska/bled": {
+      "name": "Bled",
+      "bbox": {
+        "minLat": 46.358,
+        "minLng": 14.085,
+        "maxLat": 46.375,
+        "maxLng": 14.11
+      }
+    },
+    "si/gorenjska/bohinj": {
+      "name": "Bohinj",
+      "bbox": {
+        "minLat": 46.275,
+        "minLng": 13.795,
+        "maxLat": 46.295,
+        "maxLng": 13.87
+      }
+    },
+    "si/ljubljana/ljubljana": {
+      "name": "Ljubljana",
+      "bbox": {
+        "minLat": 46.045,
+        "minLng": 14.5,
+        "maxLat": 46.056,
+        "maxLng": 14.515
+      }
+    },
+    "si/notranjsko-kraska/postojna": {
+      "name": "Postojna",
+      "bbox": {
+        "minLat": 45.78,
+        "minLng": 14.12,
+        "maxLat": 45.82,
+        "maxLng": 14.21
+      }
+    },
+    "si/obalno-kraska/piran": {
+      "name": "Piran",
+      "bbox": {
+        "minLat": 45.525,
+        "minLng": 13.565,
+        "maxLat": 45.532,
+        "maxLng": 13.575
+      }
+    },
+    "sk/banska-bystrica/banska-stiavnica": {
+      "name": "Banská Štiavnica",
+      "bbox": {
+        "minLat": 48.449,
+        "minLng": 18.888,
+        "maxLat": 48.462,
+        "maxLng": 18.912
+      }
+    },
+    "sk/bratislava/bratislava": {
+      "name": "Bratislava",
+      "bbox": {
+        "minLat": 48.14,
+        "minLng": 17.098,
+        "maxLat": 48.147,
+        "maxLng": 17.111
+      }
+    },
+    "sk/kosice/kosice": {
+      "name": "Košice",
+      "bbox": {
+        "minLat": 48.718,
+        "minLng": 21.255,
+        "maxLat": 48.724,
+        "maxLng": 21.262
+      }
+    },
+    "sk/presov/spisske-podhradie": {
+      "name": "Spišské Podhradie",
+      "bbox": {
+        "minLat": 48.996,
+        "minLng": 20.735,
+        "maxLat": 49.005,
+        "maxLng": 20.775
+      }
+    },
+    "sk/presov/vysoke-tatry": {
+      "name": "Vysoké Tatry",
+      "bbox": {
+        "minLat": 49.115,
+        "minLng": 20.05,
+        "maxLat": 49.158,
+        "maxLng": 20.085
+      }
+    },
+    "xk/gjakova/gjakova": {
+      "name": "Gjakova",
+      "bbox": {
+        "minLat": 42.377,
+        "minLng": 20.425,
+        "maxLat": 42.382,
+        "maxLng": 20.43
+      }
+    },
+    "xk/peja/peja": {
+      "name": "Peja",
+      "bbox": {
+        "minLat": 42.658,
+        "minLng": 20.25,
+        "maxLat": 42.668,
+        "maxLng": 20.27
+      }
+    },
+    "xk/pristina/gracanica": {
+      "name": "Gračanica",
+      "bbox": {
+        "minLat": 42.596,
+        "minLng": 21.191,
+        "maxLat": 42.601,
+        "maxLng": 21.196
+      }
+    },
+    "xk/pristina/pristina": {
+      "name": "Pristina",
+      "bbox": {
+        "minLat": 42.654,
+        "minLng": 21.156,
+        "maxLat": 42.669,
+        "maxLng": 21.17
+      }
+    },
+    "xk/prizren/prizren": {
+      "name": "Prizren",
+      "bbox": {
+        "minLat": 42.207,
+        "minLng": 20.737,
+        "maxLat": 42.211,
+        "maxLng": 20.748
+      }
+    }
+  },
+  "cells": {
+    "84,2": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "84,3": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "85,2": [
+      "ad/andorra-la-vella/andorra-la-vella"
+    ],
+    "85,3": [
+      "ad/andorra-la-vella/andorra-la-vella",
+      "ad/canillo/canillo",
+      "ad/encamp/encamp",
+      "ad/escaldes-engordany/escaldes-engordany",
+      "ad/ordino/ordino"
+    ],
+    "81,39": [
+      "al/berat/berat"
+    ],
+    "80,40": [
+      "al/gjirokaster/gjirokaster"
+    ],
+    "84,38": [
+      "al/shkoder/shkoder"
+    ],
+    "84,39": [
+      "al/shkoder/shkoder"
+    ],
+    "82,39": [
+      "al/tirana/tirana"
+    ],
+    "79,39": [
+      "al/vlore/sarande"
+    ],
+    "79,40": [
+      "al/vlore/sarande"
+    ],
+    "95,26": [
+      "at/salzburg/salzburg"
+    ],
+    "94,22": [
+      "at/tyrol/innsbruck"
+    ],
+    "95,27": [
+      "at/upper-austria/hallstatt"
+    ],
+    "96,32": [
+      "at/vienna/vienna"
+    ],
+    "88,34": [
+      "ba/central-bosnia/jajce"
+    ],
+    "86,35": [
+      "ba/herzegovina-neretva/blagaj",
+      "ba/herzegovina-neretva/mostar",
+      "ba/herzegovina-neretva/pocitelj"
+    ],
+    "87,36": [
+      "ba/sarajevo/sarajevo"
+    ],
+    "102,8": [
+      "be/antwerp/antwerp"
+    ],
+    "101,8": [
+      "be/brussels/brussels"
+    ],
+    "102,7": [
+      "be/east-flanders/ghent"
+    ],
+    "101,9": [
+      "be/flemish-brabant/leuven"
+    ],
+    "102,6": [
+      "be/west-flanders/bruges"
+    ],
+    "85,55": [
+      "bg/burgas/nessebar"
+    ],
+    "84,46": [
+      "bg/kyustendil/rila"
+    ],
+    "84,49": [
+      "bg/plovdiv/plovdiv"
+    ],
+    "85,46": [
+      "bg/sofia/sofia"
+    ],
+    "86,51": [
+      "bg/veliko-tarnovo/veliko-tarnovo"
+    ],
+    "95,15": [
+      "ch/basel-stadt/basel",
+      "de/baden-wuerttemberg/freiburg"
+    ],
+    "93,14": [
+      "ch/bern/bern"
+    ],
+    "93,15": [
+      "ch/bern/interlaken"
+    ],
+    "92,12": [
+      "ch/geneva/geneva"
+    ],
+    "92,19": [
+      "ch/graubunden/st-moritz"
+    ],
+    "93,19": [
+      "ch/graubunden/st-moritz"
+    ],
+    "94,16": [
+      "ch/lucerne/lucerne"
+    ],
+    "92,17": [
+      "ch/ticino/lugano"
+    ],
+    "92,15": [
+      "ch/valais/zermatt"
+    ],
+    "93,13": [
+      "ch/vaud/lausanne"
+    ],
+    "92,13": [
+      "ch/vaud/montreux"
+    ],
+    "94,17": [
+      "ch/zurich/zurich"
+    ],
+    "69,67": [
+      "cy/famagusta/ayia-napa"
+    ],
+    "69,68": [
+      "cy/famagusta/ayia-napa"
+    ],
+    "69,65": [
+      "cy/limassol/limassol",
+      "cy/nicosia/troodos"
+    ],
+    "69,66": [
+      "cy/limassol/limassol"
+    ],
+    "70,66": [
+      "cy/nicosia/nicosia"
+    ],
+    "70,65": [
+      "cy/nicosia/troodos"
+    ],
+    "69,64": [
+      "cy/paphos/paphos"
+    ],
+    "100,25": [
+      "cz/karlovy-vary/karlovy-vary"
+    ],
+    "100,28": [
+      "cz/prague/prague"
+    ],
+    "97,28": [
+      "cz/south-bohemia/cesky-krumlov"
+    ],
+    "98,33": [
+      "cz/south-moravia/brno"
+    ],
+    "96,15": [
+      "de/baden-wuerttemberg/freiburg"
+    ],
+    "98,17": [
+      "de/baden-wuerttemberg/heidelberg"
+    ],
+    "97,18": [
+      "de/baden-wuerttemberg/stuttgart"
+    ],
+    "99,21": [
+      "de/bayern/bamberg"
+    ],
+    "96,23": [
+      "de/bayern/munich"
+    ],
+    "95,21": [
+      "de/bayern/neuschwanstein"
+    ],
+    "98,22": [
+      "de/bayern/nuremberg"
+    ],
+    "105,26": [
+      "de/berlin/berlin"
+    ],
+    "104,26": [
+      "de/brandenburg/potsdam"
+    ],
+    "106,17": [
+      "de/bremen/bremen"
+    ],
+    "107,19": [
+      "de/hamburg/hamburg"
+    ],
+    "107,20": [
+      "de/hamburg/hamburg"
+    ],
+    "100,17": [
+      "de/hessen/frankfurt"
+    ],
+    "104,19": [
+      "de/niedersachsen/hanover"
+    ],
+    "101,12": [
+      "de/nordrhein-westfalen/aachen"
+    ],
+    "101,13": [
+      "de/nordrhein-westfalen/cologne"
+    ],
+    "102,13": [
+      "de/nordrhein-westfalen/dusseldorf"
+    ],
+    "99,16": [
+      "de/rheinland-pfalz/mainz"
+    ],
+    "100,16": [
+      "de/rheinland-pfalz/mainz"
+    ],
+    "99,13": [
+      "de/rheinland-pfalz/trier"
+    ],
+    "102,27": [
+      "de/sachsen/dresden"
+    ],
+    "102,24": [
+      "de/sachsen/leipzig"
+    ],
+    "107,21": [
+      "de/schleswig-holstein/lubeck"
+    ],
+    "111,25": [
+      "dk/capital/copenhagen",
+      "se/skane/malmo"
+    ],
+    "112,25": [
+      "dk/capital/helsingor"
+    ],
+    "112,20": [
+      "dk/central-jutland/aarhus"
+    ],
+    "110,20": [
+      "dk/southern-denmark/odense"
+    ],
+    "111,24": [
+      "dk/zealand/roskilde"
+    ],
+    "118,49": [
+      "ee/harju/tallinn"
+    ],
+    "118,56": [
+      "ee/ida-viru/narva"
+    ],
+    "116,48": [
+      "ee/parnu/parnu"
+    ],
+    "116,49": [
+      "ee/parnu/parnu"
+    ],
+    "116,44": [
+      "ee/saare/kuressaare"
+    ],
+    "116,53": [
+      "ee/tartu/tartu"
+    ],
+    "75,-10": [
+      "es/andalucia/cordoba"
+    ],
+    "74,-8": [
+      "es/andalucia/granada"
+    ],
+    "73,-9": [
+      "es/andalucia/malaga"
+    ],
+    "74,-12": [
+      "es/andalucia/seville"
+    ],
+    "83,-2": [
+      "es/aragon/zaragoza"
+    ],
+    "56,-31": [
+      "es/canarias/las-palmas"
+    ],
+    "56,-33": [
+      "es/canarias/santa-cruz-tenerife"
+    ],
+    "81,-12": [
+      "es/castilla-y-leon/salamanca"
+    ],
+    "81,-9": [
+      "es/castilla-y-leon/segovia"
+    ],
+    "82,4": [
+      "es/catalunya/barcelona"
+    ],
+    "83,5": [
+      "es/catalunya/girona"
+    ],
+    "76,-1": [
+      "es/comunidad-valenciana/alicante"
+    ],
+    "78,-1": [
+      "es/comunidad-valenciana/valencia"
+    ],
+    "85,-18": [
+      "es/galicia/santiago-de-compostela"
+    ],
+    "79,5": [
+      "es/islas-baleares/palma"
+    ],
+    "80,-8": [
+      "es/madrid/madrid"
+    ],
+    "79,-9": [
+      "es/madrid/toledo"
+    ],
+    "86,-6": [
+      "es/pais-vasco/bilbao"
+    ],
+    "86,-4": [
+      "es/pais-vasco/san-sebastian",
+      "fr/nouvelle-aquitaine/biarritz"
+    ],
+    "133,51": [
+      "fi/lapland/rovaniemi"
+    ],
+    "122,47": [
+      "fi/pirkanmaa/tampere"
+    ],
+    "123,47": [
+      "fi/pirkanmaa/tampere"
+    ],
+    "120,44": [
+      "fi/southwest/turku"
+    ],
+    "120,49": [
+      "fi/uusimaa/helsinki"
+    ],
+    "120,50": [
+      "fi/uusimaa/helsinki"
+    ],
+    "120,51": [
+      "fi/uusimaa/porvoo"
+    ],
+    "91,12": [
+      "fr/auvergne-rhone-alpes/annecy"
+    ],
+    "90,11": [
+      "fr/auvergne-rhone-alpes/grenoble"
+    ],
+    "91,9": [
+      "fr/auvergne-rhone-alpes/lyon"
+    ],
+    "94,10": [
+      "fr/bourgogne-franche-comte/dijon"
+    ],
+    "96,-4": [
+      "fr/bretagne/rennes"
+    ],
+    "97,-5": [
+      "fr/bretagne/saint-malo"
+    ],
+    "95,3": [
+      "fr/centre-val-de-loire/orleans"
+    ],
+    "94,1": [
+      "fr/centre-val-de-loire/tours"
+    ],
+    "83,17": [
+      "fr/corse/ajaccio"
+    ],
+    "98,8": [
+      "fr/grand-est/reims"
+    ],
+    "97,15": [
+      "fr/grand-est/strasbourg"
+    ],
+    "101,6": [
+      "fr/hauts-de-france/lille"
+    ],
+    "97,4": [
+      "fr/ile-de-france/paris",
+      "fr/ile-de-france/versailles"
+    ],
+    "97,-4": [
+      "fr/normandie/mont-saint-michel"
+    ],
+    "97,-3": [
+      "fr/normandie/mont-saint-michel"
+    ],
+    "98,2": [
+      "fr/normandie/rouen"
+    ],
+    "89,-2": [
+      "fr/nouvelle-aquitaine/bordeaux"
+    ],
+    "86,4": [
+      "fr/occitanie/carcassonne"
+    ],
+    "87,7": [
+      "fr/occitanie/montpellier"
+    ],
+    "87,2": [
+      "fr/occitanie/toulouse"
+    ],
+    "94,-4": [
+      "fr/pays-de-la-loire/nantes"
+    ],
+    "87,10": [
+      "fr/provence-alpes-cote-dazur/aix-en-provence"
+    ],
+    "87,9": [
+      "fr/provence-alpes-cote-dazur/avignon"
+    ],
+    "87,14": [
+      "fr/provence-alpes-cote-dazur/cannes",
+      "fr/provence-alpes-cote-dazur/nice"
+    ],
+    "86,10": [
+      "fr/provence-alpes-cote-dazur/marseille"
+    ],
+    "102,-5": [
+      "gb/england/bath"
+    ],
+    "101,-1": [
+      "gb/england/brighton"
+    ],
+    "102,-6": [
+      "gb/england/bristol"
+    ],
+    "104,0": [
+      "gb/england/cambridge"
+    ],
+    "102,2": [
+      "gb/england/canterbury"
+    ],
+    "100,-12": [
+      "gb/england/cornwall"
+    ],
+    "100,-11": [
+      "gb/england/cornwall"
+    ],
+    "109,-4": [
+      "gb/england/durham"
+    ],
+    "106,-6": [
+      "gb/england/liverpool"
+    ],
+    "102,-1": [
+      "gb/england/london"
+    ],
+    "102,0": [
+      "gb/england/london"
+    ],
+    "103,-1": [
+      "gb/england/london"
+    ],
+    "103,0": [
+      "gb/england/london"
+    ],
+    "106,-5": [
+      "gb/england/manchester"
+    ],
+    "103,-3": [
+      "gb/england/oxford"
+    ],
+    "104,-4": [
+      "gb/england/stratford-upon-avon"
+    ],
+    "102,-2": [
+      "gb/england/windsor"
+    ],
+    "107,-3": [
+      "gb/england/york"
+    ],
+    "109,-12": [
+      "gb/northern-ireland/belfast"
+    ],
+    "110,-14": [
+      "gb/northern-ireland/giants-causeway"
+    ],
+    "110,-13": [
+      "gb/northern-ireland/giants-causeway"
+    ],
+    "111,-7": [
+      "gb/scotland/edinburgh"
+    ],
+    "111,-9": [
+      "gb/scotland/glasgow"
+    ],
+    "114,-9": [
+      "gb/scotland/inverness"
+    ],
+    "112,-6": [
+      "gb/scotland/st-andrews"
+    ],
+    "112,-8": [
+      "gb/scotland/stirling"
+    ],
+    "102,-7": [
+      "gb/wales/cardiff"
+    ],
+    "106,-8": [
+      "gb/wales/conwy",
+      "gb/wales/snowdonia"
+    ],
+    "106,-9": [
+      "gb/wales/snowdonia"
+    ],
+    "75,47": [
+      "gr/attica/athens"
+    ],
+    "76,47": [
+      "gr/attica/athens"
+    ],
+    "76,44": [
+      "gr/attica/delphi"
+    ],
+    "76,45": [
+      "gr/attica/delphi"
+    ],
+    "81,45": [
+      "gr/central-macedonia/thessaloniki"
+    ],
+    "70,50": [
+      "gr/crete/heraklion"
+    ],
+    "75,45": [
+      "gr/peloponnese/nafplio"
+    ],
+    "75,43": [
+      "gr/peloponnese/olympia"
+    ],
+    "74,50": [
+      "gr/south-aegean/mykonos"
+    ],
+    "72,50": [
+      "gr/south-aegean/santorini"
+    ],
+    "85,36": [
+      "hr/dubrovnik-neretva/dubrovnik"
+    ],
+    "90,27": [
+      "hr/istra/rovinj"
+    ],
+    "89,31": [
+      "hr/plitvice/plitvice-lakes"
+    ],
+    "86,32": [
+      "hr/split-dalmatia/hvar"
+    ],
+    "87,32": [
+      "hr/split-dalmatia/split"
+    ],
+    "91,31": [
+      "hr/zagreb/zagreb"
+    ],
+    "91,32": [
+      "hr/zagreb/zagreb"
+    ],
+    "92,36": [
+      "hu/baranya/pecs"
+    ],
+    "94,38": [
+      "hu/budapest/budapest"
+    ],
+    "95,38": [
+      "hu/budapest/budapest"
+    ],
+    "95,40": [
+      "hu/heves/eger"
+    ],
+    "93,34": [
+      "hu/veszprem/lake-balaton"
+    ],
+    "93,35": [
+      "hu/veszprem/lake-balaton"
+    ],
+    "93,36": [
+      "hu/veszprem/lake-balaton"
+    ],
+    "105,-19": [
+      "ie/clare/cliffs-of-moher"
+    ],
+    "103,-17": [
+      "ie/cork/cork"
+    ],
+    "106,-13": [
+      "ie/dublin/dublin"
+    ],
+    "106,-19": [
+      "ie/galway/galway"
+    ],
+    "104,-20": [
+      "ie/kerry/killarney"
+    ],
+    "104,-19": [
+      "ie/kerry/killarney"
+    ],
+    "128,-33": [
+      "is/east/jokulsarlon"
+    ],
+    "128,-44": [
+      "is/reykjavik/reykjavik"
+    ],
+    "128,-43": [
+      "is/south/golden-circle"
+    ],
+    "128,-42": [
+      "is/south/golden-circle"
+    ],
+    "128,-41": [
+      "is/south/golden-circle"
+    ],
+    "126,-40": [
+      "is/south/vik"
+    ],
+    "126,-39": [
+      "is/south/vik"
+    ],
+    "126,-38": [
+      "is/south/vik"
+    ],
+    "127,-40": [
+      "is/south/vik"
+    ],
+    "127,-39": [
+      "is/south/vik"
+    ],
+    "127,-38": [
+      "is/south/vik"
+    ],
+    "127,-46": [
+      "is/sudurnes/blue-lagoon"
+    ],
+    "127,-45": [
+      "is/sudurnes/blue-lagoon"
+    ],
+    "81,29": [
+      "it/campania/amalfi",
+      "it/campania/pompeii"
+    ],
+    "81,28": [
+      "it/campania/capri",
+      "it/campania/naples",
+      "it/campania/pompeii"
+    ],
+    "88,22": [
+      "it/emilia-romagna/bologna"
+    ],
+    "89,22": [
+      "it/emilia-romagna/bologna"
+    ],
+    "88,24": [
+      "it/emilia-romagna/ravenna"
+    ],
+    "83,24": [
+      "it/lazio/rome",
+      "it/lazio/vatican-city"
+    ],
+    "83,25": [
+      "it/lazio/rome"
+    ],
+    "88,19": [
+      "it/liguria/cinque-terre"
+    ],
+    "88,17": [
+      "it/liguria/genoa"
+    ],
+    "91,19": [
+      "it/lombardia/bergamo"
+    ],
+    "90,18": [
+      "it/lombardia/milan"
+    ],
+    "90,15": [
+      "it/piemonte/turin"
+    ],
+    "81,34": [
+      "it/puglia/alberobello"
+    ],
+    "82,33": [
+      "it/puglia/bari"
+    ],
+    "78,18": [
+      "it/sardegna/cagliari"
+    ],
+    "75,30": [
+      "it/sicilia/catania",
+      "it/sicilia/taormina"
+    ],
+    "76,26": [
+      "it/sicilia/palermo"
+    ],
+    "87,22": [
+      "it/toscana/florence"
+    ],
+    "87,20": [
+      "it/toscana/pisa"
+    ],
+    "86,22": [
+      "it/toscana/siena"
+    ],
+    "86,25": [
+      "it/umbria/assisi"
+    ],
+    "86,24": [
+      "it/umbria/perugia"
+    ],
+    "90,24": [
+      "it/veneto/venice"
+    ],
+    "90,21": [
+      "it/veneto/verona"
+    ],
+    "90,22": [
+      "it/veneto/verona"
+    ],
+    "109,47": [
+      "lt/kaunas/kaunas"
+    ],
+    "110,41": [
+      "lt/klaipeda/nida"
+    ],
+    "110,42": [
+      "lt/klaipeda/nida"
+    ],
+    "112,46": [
+      "lt/siauliai/siauliai"
+    ],
+    "109,49": [
+      "lt/vilnius/trakai"
+    ],
+    "109,50": [
+      "lt/vilnius/vilnius"
+    ],
+    "100,12": [
+      "lu/clervaux/clervaux"
+    ],
+    "99,12": [
+      "lu/echternach/echternach",
+      "lu/luxembourg/luxembourg-city",
+      "lu/vianden/vianden"
+    ],
+    "99,11": [
+      "lu/wiltz/esch-sur-sure"
+    ],
+    "113,47": [
+      "lv/riga/jurmala"
+    ],
+    "113,48": [
+      "lv/riga/riga"
+    ],
+    "114,50": [
+      "lv/vidzeme/cesis"
+    ],
+    "114,49": [
+      "lv/vidzeme/sigulda"
+    ],
+    "112,48": [
+      "lv/zemgale/rundale"
+    ],
+    "84,37": [
+      "me/budva/budva",
+      "me/budva/sveti-stefan",
+      "me/kotor/kotor",
+      "me/kotor/perast"
+    ],
+    "86,38": [
+      "me/durmitor/zabljak"
+    ],
+    "82,42": [
+      "mk/bitola/bitola"
+    ],
+    "82,41": [
+      "mk/ohrid/ohrid"
+    ],
+    "81,41": [
+      "mk/ohrid/st-naum"
+    ],
+    "83,42": [
+      "mk/skopje/matka",
+      "mk/skopje/skopje"
+    ],
+    "84,42": [
+      "mk/skopje/skopje"
+    ],
+    "72,28": [
+      "mt/gozo/comino",
+      "mt/gozo/victoria"
+    ],
+    "71,29": [
+      "mt/southern-harbour/valletta"
+    ],
+    "71,28": [
+      "mt/southern/qrendi",
+      "mt/western/mdina"
+    ],
+    "105,12": [
+      "nl/friesland/giethoorn"
+    ],
+    "103,11": [
+      "nl/gelderland/arnhem"
+    ],
+    "101,11": [
+      "nl/limburg/maastricht"
+    ],
+    "102,10": [
+      "nl/noord-brabant/eindhoven"
+    ],
+    "104,9": [
+      "nl/noord-holland/amsterdam",
+      "nl/noord-holland/haarlem",
+      "nl/zuid-holland/leiden"
+    ],
+    "104,10": [
+      "nl/utrecht/utrecht"
+    ],
+    "104,8": [
+      "nl/zuid-holland/delft",
+      "nl/zuid-holland/leiden",
+      "nl/zuid-holland/the-hague"
+    ],
+    "103,8": [
+      "nl/zuid-holland/rotterdam"
+    ],
+    "103,9": [
+      "nl/zuid-holland/rotterdam"
+    ],
+    "135,26": [
+      "no/nordland/lofoten"
+    ],
+    "135,27": [
+      "no/nordland/lofoten"
+    ],
+    "135,28": [
+      "no/nordland/lofoten"
+    ],
+    "135,29": [
+      "no/nordland/lofoten"
+    ],
+    "136,26": [
+      "no/nordland/lofoten"
+    ],
+    "136,27": [
+      "no/nordland/lofoten"
+    ],
+    "136,28": [
+      "no/nordland/lofoten"
+    ],
+    "136,29": [
+      "no/nordland/lofoten"
+    ],
+    "119,21": [
+      "no/oslo/oslo"
+    ],
+    "139,37": [
+      "no/troms/tromso"
+    ],
+    "120,10": [
+      "no/vestland/bergen"
+    ],
+    "121,14": [
+      "no/vestland/flam"
+    ],
+    "100,39": [
+      "pl/malopolskie/krakow"
+    ],
+    "98,39": [
+      "pl/malopolskie/zakopane"
+    ],
+    "98,40": [
+      "pl/malopolskie/zakopane",
+      "sk/presov/vysoke-tatry"
+    ],
+    "104,42": [
+      "pl/mazowieckie/warsaw"
+    ],
+    "108,37": [
+      "pl/pomorskie/gdansk"
+    ],
+    "104,33": [
+      "pl/wielkopolskie/poznan"
+    ],
+    "75,-52": [
+      "pt/acores/ponta-delgada"
+    ],
+    "80,-17": [
+      "pt/coimbra/coimbra"
+    ],
+    "77,-16": [
+      "pt/evora/evora"
+    ],
+    "74,-16": [
+      "pt/faro/faro"
+    ],
+    "74,-18": [
+      "pt/faro/lagos"
+    ],
+    "77,-19": [
+      "pt/lisboa/cascais",
+      "pt/lisboa/lisbon",
+      "pt/lisboa/sintra"
+    ],
+    "65,-34": [
+      "pt/madeira/funchal"
+    ],
+    "82,-18": [
+      "pt/porto/porto"
+    ],
+    "91,50": [
+      "ro/brasov/bran"
+    ],
+    "91,51": [
+      "ro/brasov/brasov"
+    ],
+    "88,52": [
+      "ro/bucharest/bucharest"
+    ],
+    "92,49": [
+      "ro/mures/sighisoara"
+    ],
+    "91,48": [
+      "ro/sibiu/sibiu"
+    ],
+    "89,40": [
+      "rs/belgrade/belgrade"
+    ],
+    "89,43": [
+      "rs/branicevo/golubac"
+    ],
+    "86,43": [
+      "rs/nisava/nis"
+    ],
+    "90,39": [
+      "rs/vojvodina/novi-sad"
+    ],
+    "92,39": [
+      "rs/vojvodina/subotica"
+    ],
+    "115,36": [
+      "se/gotland/visby"
+    ],
+    "118,36": [
+      "se/stockholm/stockholm"
+    ],
+    "119,35": [
+      "se/uppsala/uppsala"
+    ],
+    "115,23": [
+      "se/vastra-gotaland/gothenburg"
+    ],
+    "92,28": [
+      "si/gorenjska/bled"
+    ],
+    "92,27": [
+      "si/gorenjska/bohinj"
+    ],
+    "92,29": [
+      "si/ljubljana/ljubljana"
+    ],
+    "91,28": [
+      "si/notranjsko-kraska/postojna"
+    ],
+    "91,27": [
+      "si/obalno-kraska/piran"
+    ],
+    "96,37": [
+      "sk/banska-bystrica/banska-stiavnica"
+    ],
+    "96,34": [
+      "sk/bratislava/bratislava"
+    ],
+    "97,42": [
+      "sk/kosice/kosice"
+    ],
+    "97,41": [
+      "sk/presov/spisske-podhradie"
+    ],
+    "98,41": [
+      "sk/presov/spisske-podhradie"
+    ],
+    "84,40": [
+      "xk/gjakova/gjakova"
+    ],
+    "85,40": [
+      "xk/peja/peja"
+    ],
+    "85,42": [
+      "xk/pristina/gracanica",
+      "xk/pristina/pristina"
+    ],
+    "84,41": [
+      "xk/prizren/prizren"
+    ]
+  }
+}

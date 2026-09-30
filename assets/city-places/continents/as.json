@@ -1,0 +1,4235 @@
+{
+  "schemaVersion": 1,
+  "continent": "as",
+  "generatedAt": "2026-09-30T03:47:16.404Z",
+  "cellDeg": 0.5,
+  "cityCount": 343,
+  "cities": {
+    "ae/abu-dhabi/abu-dhabi": {
+      "name": "Abu Dhabi",
+      "bbox": {
+        "minLat": 24.41,
+        "minLng": 54.3,
+        "maxLat": 24.54,
+        "maxLng": 54.5
+      }
+    },
+    "ae/dubai/dubai": {
+      "name": "Dubai",
+      "bbox": {
+        "minLat": 25.05,
+        "minLng": 55.12,
+        "maxLat": 25.28,
+        "maxLng": 55.35
+      }
+    },
+    "ae/sharjah/sharjah": {
+      "name": "Sharjah",
+      "bbox": {
+        "minLat": 25.33,
+        "minLng": 55.37,
+        "maxLat": 25.38,
+        "maxLng": 55.42
+      }
+    },
+    "af/balkh/mazar-i-sharif": {
+      "name": "Mazar-i-Sharif",
+      "bbox": {
+        "minLat": 36.70596,
+        "minLng": 67.10785,
+        "maxLat": 36.7135,
+        "maxLng": 67.1155
+      }
+    },
+    "af/bamyan/bamyan": {
+      "name": "Bamyan",
+      "bbox": {
+        "minLat": 34.82866,
+        "minLng": 67.82362,
+        "maxLat": 34.837,
+        "maxLng": 67.832
+      }
+    },
+    "af/bamyan/band-e-amir": {
+      "name": "Band-e Amir",
+      "bbox": {
+        "minLat": 34.88735,
+        "minLng": 67.28102,
+        "maxLat": 34.8955,
+        "maxLng": 67.2895
+      }
+    },
+    "af/herat/herat": {
+      "name": "Herat",
+      "bbox": {
+        "minLat": 34.34013,
+        "minLng": 62.18523,
+        "maxLat": 34.34906,
+        "maxLng": 62.19792
+      }
+    },
+    "af/kabul/kabul": {
+      "name": "Kabul",
+      "bbox": {
+        "minLat": 34.4996,
+        "minLng": 69.15538,
+        "maxLat": 34.5075,
+        "maxLng": 69.163
+      }
+    },
+    "am/kotayk/garni": {
+      "name": "Garni",
+      "bbox": {
+        "minLat": 40.108,
+        "minLng": 44.718,
+        "maxLat": 40.122,
+        "maxLng": 44.735
+      }
+    },
+    "am/kotayk/geghard": {
+      "name": "Geghard",
+      "bbox": {
+        "minLat": 40.138,
+        "minLng": 44.815,
+        "maxLat": 40.143,
+        "maxLng": 44.822
+      }
+    },
+    "am/syunik/tatev": {
+      "name": "Tatev",
+      "bbox": {
+        "minLat": 39.375,
+        "minLng": 46.245,
+        "maxLat": 39.412,
+        "maxLng": 46.278
+      }
+    },
+    "am/tavush/dilijan": {
+      "name": "Dilijan",
+      "bbox": {
+        "minLat": 40.735,
+        "minLng": 44.855,
+        "maxLat": 40.805,
+        "maxLng": 44.895
+      }
+    },
+    "am/yerevan/yerevan": {
+      "name": "Yerevan",
+      "bbox": {
+        "minLat": 40.175,
+        "minLng": 44.508,
+        "maxLat": 40.195,
+        "maxLng": 44.525
+      }
+    },
+    "az/absheron/gobustan": {
+      "name": "Gobustan",
+      "bbox": {
+        "minLat": 40.05,
+        "minLng": 49.36,
+        "maxLat": 40.14,
+        "maxLng": 49.4
+      }
+    },
+    "az/absheron/surakhani": {
+      "name": "Surakhani",
+      "bbox": {
+        "minLat": 40.412,
+        "minLng": 50.004,
+        "maxLat": 40.42,
+        "maxLng": 50.014
+      }
+    },
+    "az/baku/baku": {
+      "name": "Baku",
+      "bbox": {
+        "minLat": 40.356,
+        "minLng": 49.823,
+        "maxLat": 40.37,
+        "maxLng": 49.842
+      }
+    },
+    "az/gabala/gabala": {
+      "name": "Gabala",
+      "bbox": {
+        "minLat": 40.848,
+        "minLng": 47.87,
+        "maxLat": 40.935,
+        "maxLng": 47.9
+      }
+    },
+    "az/shaki/shaki": {
+      "name": "Shaki",
+      "bbox": {
+        "minLat": 41.197,
+        "minLng": 47.186,
+        "maxLat": 41.208,
+        "maxLng": 47.203
+      }
+    },
+    "bd/chattogram/coxs-bazar": {
+      "name": "Cox's Bazar",
+      "bbox": {
+        "minLat": 21.238,
+        "minLng": 91.9802,
+        "maxLat": 21.4173,
+        "maxLng": 92.04
+      }
+    },
+    "bd/dhaka/dhaka": {
+      "name": "Dhaka",
+      "bbox": {
+        "minLat": 23.7056,
+        "minLng": 90.3851,
+        "maxLat": 23.722,
+        "maxLng": 90.40906
+      }
+    },
+    "bd/khulna/bagerhat": {
+      "name": "Bagerhat",
+      "bbox": {
+        "minLat": 22.6575,
+        "minLng": 89.73894,
+        "maxLat": 22.67744,
+        "maxLng": 89.7942
+      }
+    },
+    "bd/rajshahi/paharpur": {
+      "name": "Paharpur",
+      "bbox": {
+        "minLat": 25.02811,
+        "minLng": 88.97394,
+        "maxLat": 25.0365,
+        "maxLng": 88.9815
+      }
+    },
+    "bd/sylhet/sylhet": {
+      "name": "Sylhet",
+      "bbox": {
+        "minLat": 25.0048,
+        "minLng": 91.6798,
+        "maxLat": 25.1863,
+        "maxLng": 92.0197
+      }
+    },
+    "bh/capital/manama": {
+      "name": "Manama",
+      "bbox": {
+        "minLat": 26.215,
+        "minLng": 50.575,
+        "maxLat": 26.242,
+        "maxLng": 50.602
+      }
+    },
+    "bh/central/riffa": {
+      "name": "Riffa",
+      "bbox": {
+        "minLat": 26.115,
+        "minLng": 50.551,
+        "maxLat": 26.122,
+        "maxLng": 50.56
+      }
+    },
+    "bh/muharraq/muharraq": {
+      "name": "Muharraq",
+      "bbox": {
+        "minLat": 26.24,
+        "minLng": 50.605,
+        "maxLat": 26.257,
+        "maxLng": 50.616
+      }
+    },
+    "bh/northern/qalat-al-bahrain": {
+      "name": "Qal'at al-Bahrain",
+      "bbox": {
+        "minLat": 26.23,
+        "minLng": 50.516,
+        "maxLat": 26.238,
+        "maxLng": 50.525
+      }
+    },
+    "bh/southern/tree-of-life": {
+      "name": "Tree of Life",
+      "bbox": {
+        "minLat": 25.999,
+        "minLng": 50.615,
+        "maxLat": 26.006,
+        "maxLng": 50.622
+      }
+    },
+    "bn/belait/seria": {
+      "name": "Seria",
+      "bbox": {
+        "minLat": 4.6095,
+        "minLng": 114.31415,
+        "maxLat": 4.61978,
+        "maxLng": 114.328
+      }
+    },
+    "bn/brunei-muara/bandar-seri-begawan": {
+      "name": "Bandar Seri Begawan",
+      "bbox": {
+        "minLat": 4.8795,
+        "minLng": 114.9362,
+        "maxLat": 4.8924,
+        "maxLng": 114.9455
+      }
+    },
+    "bn/brunei-muara/kiarong": {
+      "name": "Kiarong",
+      "bbox": {
+        "minLat": 4.86903,
+        "minLng": 114.91776,
+        "maxLat": 4.9027,
+        "maxLng": 114.9285
+      }
+    },
+    "bn/temburong/temburong": {
+      "name": "Temburong",
+      "bbox": {
+        "minLat": 4.475,
+        "minLng": 115.2047,
+        "maxLat": 4.483,
+        "maxLng": 115.213
+      }
+    },
+    "bn/tutong/tutong": {
+      "name": "Tutong",
+      "bbox": {
+        "minLat": 4.59098,
+        "minLng": 114.67409,
+        "maxLat": 4.5985,
+        "maxLng": 114.6815
+      }
+    },
+    "bt/paro/paro": {
+      "name": "Paro",
+      "bbox": {
+        "minLat": 27.42367,
+        "minLng": 89.36049,
+        "maxLat": 27.49491,
+        "maxLng": 89.4263
+      }
+    },
+    "bt/punakha/punakha": {
+      "name": "Punakha",
+      "bbox": {
+        "minLat": 27.524,
+        "minLng": 89.86006,
+        "maxLat": 27.58494,
+        "maxLng": 89.8812
+      }
+    },
+    "bt/thimphu/dochula": {
+      "name": "Dochula",
+      "bbox": {
+        "minLat": 27.487,
+        "minLng": 89.74728,
+        "maxLat": 27.4945,
+        "maxLng": 89.7545
+      }
+    },
+    "bt/thimphu/thimphu": {
+      "name": "Thimphu",
+      "bbox": {
+        "minLat": 27.46339,
+        "minLng": 89.632,
+        "maxLat": 27.49244,
+        "maxLng": 89.64078
+      }
+    },
+    "bt/wangdue/phobjikha": {
+      "name": "Phobjikha",
+      "bbox": {
+        "minLat": 27.449,
+        "minLng": 90.16367,
+        "maxLat": 27.503,
+        "maxLng": 90.203
+      }
+    },
+    "ge/adjara/batumi": {
+      "name": "Batumi",
+      "bbox": {
+        "minLat": 41.648,
+        "minLng": 41.63,
+        "maxLat": 41.658,
+        "maxLng": 41.653
+      }
+    },
+    "ge/kakheti/sighnaghi": {
+      "name": "Sighnaghi",
+      "bbox": {
+        "minLat": 41.603,
+        "minLng": 45.915,
+        "maxLat": 41.625,
+        "maxLng": 45.94
+      }
+    },
+    "ge/mtskheta-mtianeti/mtskheta": {
+      "name": "Mtskheta",
+      "bbox": {
+        "minLat": 41.835,
+        "minLng": 44.712,
+        "maxLat": 41.846,
+        "maxLng": 44.738
+      }
+    },
+    "ge/mtskheta-mtianeti/stepantsminda": {
+      "name": "Stepantsminda",
+      "bbox": {
+        "minLat": 42.658,
+        "minLng": 44.615,
+        "maxLat": 42.667,
+        "maxLng": 44.627
+      }
+    },
+    "ge/tbilisi/tbilisi": {
+      "name": "Tbilisi",
+      "bbox": {
+        "minLat": 41.685,
+        "minLng": 44.805,
+        "maxLat": 41.696,
+        "maxLng": 44.82
+      }
+    },
+    "hk/hong-kong-island/central": {
+      "name": "Central",
+      "bbox": {
+        "minLat": 22.275,
+        "minLng": 114.145,
+        "maxLat": 22.286,
+        "maxLng": 114.165
+      }
+    },
+    "hk/kowloon/kowloon": {
+      "name": "Kowloon",
+      "bbox": {
+        "minLat": 22.29,
+        "minLng": 114.17,
+        "maxLat": 22.345,
+        "maxLng": 114.21
+      }
+    },
+    "hk/lantau/lantau": {
+      "name": "Lantau",
+      "bbox": {
+        "minLat": 22.25,
+        "minLng": 113.858,
+        "maxLat": 22.26,
+        "maxLng": 113.91
+      }
+    },
+    "hk/new-territories/sha-tin": {
+      "name": "Sha Tin",
+      "bbox": {
+        "minLat": 22.37,
+        "minLng": 114.18,
+        "maxLat": 22.39,
+        "maxLng": 114.19
+      }
+    },
+    "id/bali/denpasar": {
+      "name": "Denpasar",
+      "bbox": {
+        "minLat": -8.7,
+        "minLng": 115.2,
+        "maxLat": -8.6,
+        "maxLng": 115.3
+      }
+    },
+    "id/bali/kuta": {
+      "name": "Kuta",
+      "bbox": {
+        "minLat": -8.75,
+        "minLng": 115.15,
+        "maxLat": -8.7,
+        "maxLng": 115.2
+      }
+    },
+    "id/bali/nusa-penida": {
+      "name": "Nusa Penida",
+      "bbox": {
+        "minLat": -8.75,
+        "minLng": 115.52,
+        "maxLat": -8.68,
+        "maxLng": 115.58
+      }
+    },
+    "id/central-java/semarang": {
+      "name": "Semarang",
+      "bbox": {
+        "minLat": -6.98,
+        "minLng": 110.4,
+        "maxLat": -6.95,
+        "maxLng": 110.45
+      }
+    },
+    "id/dki-jakarta/jakarta": {
+      "name": "Jakarta",
+      "bbox": {
+        "minLat": -6.25,
+        "minLng": 106.78,
+        "maxLat": -6.15,
+        "maxLng": 106.88
+      }
+    },
+    "id/east-java/surabaya": {
+      "name": "Surabaya",
+      "bbox": {
+        "minLat": -7.28,
+        "minLng": 112.7,
+        "maxLat": -7.22,
+        "maxLng": 112.78
+      }
+    },
+    "id/north-sulawesi/manado": {
+      "name": "Manado",
+      "bbox": {
+        "minLat": 1.46,
+        "minLng": 124.82,
+        "maxLat": 1.5,
+        "maxLng": 124.87
+      }
+    },
+    "id/riau-islands/batam": {
+      "name": "Batam",
+      "bbox": {
+        "minLat": 1.1,
+        "minLng": 104.02,
+        "maxLat": 1.15,
+        "maxLng": 104.08
+      }
+    },
+    "id/west-java/bandung": {
+      "name": "Bandung",
+      "bbox": {
+        "minLat": -6.95,
+        "minLng": 107.58,
+        "maxLat": -6.88,
+        "maxLng": 107.65
+      }
+    },
+    "id/west-nusa-tenggara/lombok": {
+      "name": "Lombok",
+      "bbox": {
+        "minLat": -8.58,
+        "minLng": 116.04,
+        "maxLat": -8.52,
+        "maxLng": 116.12
+      }
+    },
+    "id/yogyakarta/yogyakarta": {
+      "name": "Yogyakarta",
+      "bbox": {
+        "minLat": -7.82,
+        "minLng": 110.35,
+        "maxLat": -7.75,
+        "maxLng": 110.42
+      }
+    },
+    "il/haifa/haifa": {
+      "name": "Haifa",
+      "bbox": {
+        "minLat": 32.808,
+        "minLng": 34.965,
+        "maxLat": 32.832,
+        "maxLng": 34.99
+      }
+    },
+    "il/jerusalem/jerusalem": {
+      "name": "Jerusalem",
+      "bbox": {
+        "minLat": 31.775,
+        "minLng": 35.226,
+        "maxLat": 31.78,
+        "maxLng": 35.237
+      }
+    },
+    "il/northern/acre": {
+      "name": "Acre",
+      "bbox": {
+        "minLat": 32.918,
+        "minLng": 35.066,
+        "maxLat": 32.926,
+        "maxLng": 35.075
+      }
+    },
+    "il/southern/masada": {
+      "name": "Masada",
+      "bbox": {
+        "minLat": 31.31,
+        "minLng": 35.35,
+        "maxLat": 31.32,
+        "maxLng": 35.36
+      }
+    },
+    "il/tel-aviv/tel-aviv": {
+      "name": "Tel Aviv",
+      "bbox": {
+        "minLat": 32.05,
+        "minLng": 34.748,
+        "maxLat": 32.085,
+        "maxLng": 34.772
+      }
+    },
+    "in/andaman-and-nicobar/port-blair": {
+      "name": "Port Blair",
+      "bbox": {
+        "minLat": 11.65,
+        "minLng": 92.72,
+        "maxLat": 11.68,
+        "maxLng": 92.76
+      }
+    },
+    "in/andhra-pradesh/tirupati": {
+      "name": "Tirupati",
+      "bbox": {
+        "minLat": 13.62,
+        "minLng": 79.38,
+        "maxLat": 13.7,
+        "maxLng": 79.48
+      }
+    },
+    "in/andhra-pradesh/vijayawada": {
+      "name": "Vijayawada",
+      "bbox": {
+        "minLat": 16.48,
+        "minLng": 80.58,
+        "maxLat": 16.56,
+        "maxLng": 80.72
+      }
+    },
+    "in/andhra-pradesh/visakhapatnam": {
+      "name": "Visakhapatnam",
+      "bbox": {
+        "minLat": 17.68,
+        "minLng": 83.18,
+        "maxLat": 17.82,
+        "maxLng": 83.42
+      }
+    },
+    "in/arunachal-pradesh/itanagar": {
+      "name": "Itanagar",
+      "bbox": {
+        "minLat": 27.06,
+        "minLng": 93.58,
+        "maxLat": 27.12,
+        "maxLng": 93.66
+      }
+    },
+    "in/arunachal-pradesh/tawang": {
+      "name": "Tawang",
+      "bbox": {
+        "minLat": 27.54,
+        "minLng": 91.82,
+        "maxLat": 27.62,
+        "maxLng": 91.92
+      }
+    },
+    "in/assam/guwahati": {
+      "name": "Guwahati",
+      "bbox": {
+        "minLat": 26.12,
+        "minLng": 91.68,
+        "maxLat": 26.22,
+        "maxLng": 91.82
+      }
+    },
+    "in/assam/kaziranga": {
+      "name": "Kaziranga",
+      "bbox": {
+        "minLat": 26.55,
+        "minLng": 93.15,
+        "maxLat": 26.72,
+        "maxLng": 93.45
+      }
+    },
+    "in/bihar/bodh-gaya": {
+      "name": "Bodh Gaya",
+      "bbox": {
+        "minLat": 24.68,
+        "minLng": 84.98,
+        "maxLat": 24.72,
+        "maxLng": 85.02
+      }
+    },
+    "in/bihar/patna": {
+      "name": "Patna",
+      "bbox": {
+        "minLat": 25.58,
+        "minLng": 85.08,
+        "maxLat": 25.64,
+        "maxLng": 85.18
+      }
+    },
+    "in/chandigarh/chandigarh": {
+      "name": "Chandigarh",
+      "bbox": {
+        "minLat": 30.7,
+        "minLng": 76.75,
+        "maxLat": 30.78,
+        "maxLng": 76.85
+      }
+    },
+    "in/chhattisgarh/raipur": {
+      "name": "Raipur",
+      "bbox": {
+        "minLat": 21.22,
+        "minLng": 81.6,
+        "maxLat": 21.28,
+        "maxLng": 81.68
+      }
+    },
+    "in/daman-and-diu/daman": {
+      "name": "Daman",
+      "bbox": {
+        "minLat": 20.4,
+        "minLng": 72.82,
+        "maxLat": 20.44,
+        "maxLng": 72.86
+      }
+    },
+    "in/daman-and-diu/diu": {
+      "name": "Diu",
+      "bbox": {
+        "minLat": 20.7,
+        "minLng": 70.96,
+        "maxLat": 20.73,
+        "maxLng": 71
+      }
+    },
+    "in/delhi/delhi": {
+      "name": "Delhi",
+      "bbox": {
+        "minLat": 28.52,
+        "minLng": 77.15,
+        "maxLat": 28.72,
+        "maxLng": 77.3
+      }
+    },
+    "in/goa/calangute": {
+      "name": "Calangute",
+      "bbox": {
+        "minLat": 15.52,
+        "minLng": 73.74,
+        "maxLat": 15.6,
+        "maxLng": 73.78
+      }
+    },
+    "in/goa/old-goa": {
+      "name": "Old Goa",
+      "bbox": {
+        "minLat": 15.49,
+        "minLng": 73.9,
+        "maxLat": 15.51,
+        "maxLng": 73.93
+      }
+    },
+    "in/goa/panaji": {
+      "name": "Panaji",
+      "bbox": {
+        "minLat": 15.48,
+        "minLng": 73.8,
+        "maxLat": 15.52,
+        "maxLng": 73.86
+      }
+    },
+    "in/gujarat/ahmedabad": {
+      "name": "Ahmedabad",
+      "bbox": {
+        "minLat": 23,
+        "minLng": 72.52,
+        "maxLat": 23.1,
+        "maxLng": 72.64
+      }
+    },
+    "in/gujarat/dwarka": {
+      "name": "Dwarka",
+      "bbox": {
+        "minLat": 22.23,
+        "minLng": 68.95,
+        "maxLat": 22.28,
+        "maxLng": 69.02
+      }
+    },
+    "in/gujarat/surat": {
+      "name": "Surat",
+      "bbox": {
+        "minLat": 21.14,
+        "minLng": 72.75,
+        "maxLat": 21.22,
+        "maxLng": 72.85
+      }
+    },
+    "in/gujarat/vadodara": {
+      "name": "Vadodara",
+      "bbox": {
+        "minLat": 22.28,
+        "minLng": 73.16,
+        "maxLat": 22.34,
+        "maxLng": 73.22
+      }
+    },
+    "in/haryana/gurugram": {
+      "name": "Gurugram",
+      "bbox": {
+        "minLat": 28.38,
+        "minLng": 76.98,
+        "maxLat": 28.5,
+        "maxLng": 77.12
+      }
+    },
+    "in/haryana/kurukshetra": {
+      "name": "Kurukshetra",
+      "bbox": {
+        "minLat": 29.94,
+        "minLng": 76.8,
+        "maxLat": 29.99,
+        "maxLng": 76.88
+      }
+    },
+    "in/himachal-pradesh/dharamshala": {
+      "name": "Dharamshala",
+      "bbox": {
+        "minLat": 32.2,
+        "minLng": 76.3,
+        "maxLat": 32.25,
+        "maxLng": 76.35
+      }
+    },
+    "in/himachal-pradesh/manali": {
+      "name": "Manali",
+      "bbox": {
+        "minLat": 32.22,
+        "minLng": 77.16,
+        "maxLat": 32.28,
+        "maxLng": 77.22
+      }
+    },
+    "in/himachal-pradesh/shimla": {
+      "name": "Shimla",
+      "bbox": {
+        "minLat": 31.08,
+        "minLng": 77.15,
+        "maxLat": 31.12,
+        "maxLng": 77.2
+      }
+    },
+    "in/jammu-and-kashmir/jammu": {
+      "name": "Jammu",
+      "bbox": {
+        "minLat": 32.7,
+        "minLng": 74.84,
+        "maxLat": 32.76,
+        "maxLng": 74.9
+      }
+    },
+    "in/jammu-and-kashmir/srinagar": {
+      "name": "Srinagar",
+      "bbox": {
+        "minLat": 34.05,
+        "minLng": 74.78,
+        "maxLat": 34.12,
+        "maxLng": 74.88
+      }
+    },
+    "in/jharkhand/ranchi": {
+      "name": "Ranchi",
+      "bbox": {
+        "minLat": 23.32,
+        "minLng": 85.28,
+        "maxLat": 23.4,
+        "maxLng": 85.38
+      }
+    },
+    "in/karnataka/bengaluru": {
+      "name": "Bengaluru",
+      "bbox": {
+        "minLat": 12.9,
+        "minLng": 77.52,
+        "maxLat": 13.05,
+        "maxLng": 77.68
+      }
+    },
+    "in/karnataka/hampi": {
+      "name": "Hampi",
+      "bbox": {
+        "minLat": 15.31,
+        "minLng": 76.44,
+        "maxLat": 15.35,
+        "maxLng": 76.49
+      }
+    },
+    "in/karnataka/mangaluru": {
+      "name": "Mangaluru",
+      "bbox": {
+        "minLat": 12.84,
+        "minLng": 74.78,
+        "maxLat": 12.92,
+        "maxLng": 74.88
+      }
+    },
+    "in/karnataka/mysuru": {
+      "name": "Mysuru",
+      "bbox": {
+        "minLat": 12.26,
+        "minLng": 76.6,
+        "maxLat": 12.35,
+        "maxLng": 76.7
+      }
+    },
+    "in/kerala/alappuzha": {
+      "name": "Alappuzha",
+      "bbox": {
+        "minLat": 9.48,
+        "minLng": 76.32,
+        "maxLat": 9.52,
+        "maxLng": 76.35
+      }
+    },
+    "in/kerala/kochi": {
+      "name": "Kochi",
+      "bbox": {
+        "minLat": 9.93,
+        "minLng": 76.23,
+        "maxLat": 10.02,
+        "maxLng": 76.32
+      }
+    },
+    "in/kerala/munnar": {
+      "name": "Munnar",
+      "bbox": {
+        "minLat": 10.05,
+        "minLng": 77.02,
+        "maxLat": 10.12,
+        "maxLng": 77.1
+      }
+    },
+    "in/kerala/thiruvananthapuram": {
+      "name": "Thiruvananthapuram",
+      "bbox": {
+        "minLat": 8.44,
+        "minLng": 76.9,
+        "maxLat": 8.55,
+        "maxLng": 77
+      }
+    },
+    "in/ladakh/leh": {
+      "name": "Leh",
+      "bbox": {
+        "minLat": 34.14,
+        "minLng": 77.55,
+        "maxLat": 34.18,
+        "maxLng": 77.6
+      }
+    },
+    "in/lakshadweep/kavaratti": {
+      "name": "Kavaratti",
+      "bbox": {
+        "minLat": 10.55,
+        "minLng": 72.63,
+        "maxLat": 10.58,
+        "maxLng": 72.65
+      }
+    },
+    "in/madhya-pradesh/bhopal": {
+      "name": "Bhopal",
+      "bbox": {
+        "minLat": 23.2,
+        "minLng": 77.38,
+        "maxLat": 23.28,
+        "maxLng": 77.48
+      }
+    },
+    "in/madhya-pradesh/gwalior": {
+      "name": "Gwalior",
+      "bbox": {
+        "minLat": 26.2,
+        "minLng": 78.14,
+        "maxLat": 26.24,
+        "maxLng": 78.2
+      }
+    },
+    "in/madhya-pradesh/indore": {
+      "name": "Indore",
+      "bbox": {
+        "minLat": 22.68,
+        "minLng": 75.82,
+        "maxLat": 22.76,
+        "maxLng": 75.92
+      }
+    },
+    "in/madhya-pradesh/khajuraho": {
+      "name": "Khajuraho",
+      "bbox": {
+        "minLat": 24.84,
+        "minLng": 79.91,
+        "maxLat": 24.86,
+        "maxLng": 79.94
+      }
+    },
+    "in/madhya-pradesh/ujjain": {
+      "name": "Ujjain",
+      "bbox": {
+        "minLat": 23.16,
+        "minLng": 75.76,
+        "maxLat": 23.2,
+        "maxLng": 75.8
+      }
+    },
+    "in/maharashtra/aurangabad": {
+      "name": "Aurangabad",
+      "bbox": {
+        "minLat": 19.85,
+        "minLng": 75.3,
+        "maxLat": 20.02,
+        "maxLng": 75.36
+      }
+    },
+    "in/maharashtra/mumbai": {
+      "name": "Mumbai",
+      "bbox": {
+        "minLat": 18.9,
+        "minLng": 72.78,
+        "maxLat": 19.12,
+        "maxLng": 72.9
+      }
+    },
+    "in/maharashtra/nagpur": {
+      "name": "Nagpur",
+      "bbox": {
+        "minLat": 21.12,
+        "minLng": 79.04,
+        "maxLat": 21.18,
+        "maxLng": 79.12
+      }
+    },
+    "in/maharashtra/pune": {
+      "name": "Pune",
+      "bbox": {
+        "minLat": 18.48,
+        "minLng": 73.8,
+        "maxLat": 18.58,
+        "maxLng": 73.92
+      }
+    },
+    "in/manipur/imphal": {
+      "name": "Imphal",
+      "bbox": {
+        "minLat": 24.78,
+        "minLng": 93.9,
+        "maxLat": 24.84,
+        "maxLng": 93.96
+      }
+    },
+    "in/meghalaya/cherrapunji": {
+      "name": "Cherrapunji",
+      "bbox": {
+        "minLat": 25.22,
+        "minLng": 91.68,
+        "maxLat": 25.3,
+        "maxLng": 91.78
+      }
+    },
+    "in/meghalaya/shillong": {
+      "name": "Shillong",
+      "bbox": {
+        "minLat": 25.54,
+        "minLng": 91.85,
+        "maxLat": 25.6,
+        "maxLng": 91.92
+      }
+    },
+    "in/mizoram/aizawl": {
+      "name": "Aizawl",
+      "bbox": {
+        "minLat": 23.7,
+        "minLng": 92.7,
+        "maxLat": 23.76,
+        "maxLng": 92.74
+      }
+    },
+    "in/nagaland/kohima": {
+      "name": "Kohima",
+      "bbox": {
+        "minLat": 25.64,
+        "minLng": 94.08,
+        "maxLat": 25.7,
+        "maxLng": 94.12
+      }
+    },
+    "in/odisha/bhubaneswar": {
+      "name": "Bhubaneswar",
+      "bbox": {
+        "minLat": 20.24,
+        "minLng": 85.8,
+        "maxLat": 20.36,
+        "maxLng": 85.88
+      }
+    },
+    "in/odisha/konark": {
+      "name": "Konark",
+      "bbox": {
+        "minLat": 19.88,
+        "minLng": 86.08,
+        "maxLat": 19.9,
+        "maxLng": 86.12
+      }
+    },
+    "in/odisha/puri": {
+      "name": "Puri",
+      "bbox": {
+        "minLat": 19.79,
+        "minLng": 85.81,
+        "maxLat": 19.82,
+        "maxLng": 85.85
+      }
+    },
+    "in/puducherry/puducherry": {
+      "name": "Puducherry",
+      "bbox": {
+        "minLat": 11.92,
+        "minLng": 79.81,
+        "maxLat": 11.95,
+        "maxLng": 79.85
+      }
+    },
+    "in/punjab/amritsar": {
+      "name": "Amritsar",
+      "bbox": {
+        "minLat": 31.61,
+        "minLng": 74.85,
+        "maxLat": 31.66,
+        "maxLng": 74.9
+      }
+    },
+    "in/punjab/ludhiana": {
+      "name": "Ludhiana",
+      "bbox": {
+        "minLat": 30.88,
+        "minLng": 75.82,
+        "maxLat": 30.94,
+        "maxLng": 75.9
+      }
+    },
+    "in/rajasthan/jaipur": {
+      "name": "Jaipur",
+      "bbox": {
+        "minLat": 26.88,
+        "minLng": 75.78,
+        "maxLat": 26.96,
+        "maxLng": 75.86
+      }
+    },
+    "in/rajasthan/jaisalmer": {
+      "name": "Jaisalmer",
+      "bbox": {
+        "minLat": 26.9,
+        "minLng": 70.88,
+        "maxLat": 26.94,
+        "maxLng": 70.93
+      }
+    },
+    "in/rajasthan/jodhpur": {
+      "name": "Jodhpur",
+      "bbox": {
+        "minLat": 26.27,
+        "minLng": 73,
+        "maxLat": 26.32,
+        "maxLng": 73.05
+      }
+    },
+    "in/rajasthan/pushkar": {
+      "name": "Pushkar",
+      "bbox": {
+        "minLat": 26.48,
+        "minLng": 74.54,
+        "maxLat": 26.5,
+        "maxLng": 74.57
+      }
+    },
+    "in/rajasthan/udaipur": {
+      "name": "Udaipur",
+      "bbox": {
+        "minLat": 24.55,
+        "minLng": 73.66,
+        "maxLat": 24.62,
+        "maxLng": 73.72
+      }
+    },
+    "in/sikkim/gangtok": {
+      "name": "Gangtok",
+      "bbox": {
+        "minLat": 27.31,
+        "minLng": 88.59,
+        "maxLat": 27.36,
+        "maxLng": 88.64
+      }
+    },
+    "in/tamil-nadu/chennai": {
+      "name": "Chennai",
+      "bbox": {
+        "minLat": 12.95,
+        "minLng": 80.2,
+        "maxLat": 13.1,
+        "maxLng": 80.3
+      }
+    },
+    "in/tamil-nadu/kanyakumari": {
+      "name": "Kanyakumari",
+      "bbox": {
+        "minLat": 8.07,
+        "minLng": 77.54,
+        "maxLat": 8.09,
+        "maxLng": 77.56
+      }
+    },
+    "in/tamil-nadu/madurai": {
+      "name": "Madurai",
+      "bbox": {
+        "minLat": 9.9,
+        "minLng": 78.1,
+        "maxLat": 9.95,
+        "maxLng": 78.15
+      }
+    },
+    "in/tamil-nadu/mahabalipuram": {
+      "name": "Mahabalipuram",
+      "bbox": {
+        "minLat": 12.61,
+        "minLng": 80.18,
+        "maxLat": 12.63,
+        "maxLng": 80.2
+      }
+    },
+    "in/tamil-nadu/ooty": {
+      "name": "Ooty",
+      "bbox": {
+        "minLat": 11.4,
+        "minLng": 76.68,
+        "maxLat": 11.43,
+        "maxLng": 76.72
+      }
+    },
+    "in/tamil-nadu/rameswaram": {
+      "name": "Rameswaram",
+      "bbox": {
+        "minLat": 9.27,
+        "minLng": 79.29,
+        "maxLat": 9.3,
+        "maxLng": 79.33
+      }
+    },
+    "in/telangana/hyderabad": {
+      "name": "Hyderabad",
+      "bbox": {
+        "minLat": 17.35,
+        "minLng": 78.4,
+        "maxLat": 17.45,
+        "maxLng": 78.52
+      }
+    },
+    "in/telangana/warangal": {
+      "name": "Warangal",
+      "bbox": {
+        "minLat": 17.95,
+        "minLng": 79.58,
+        "maxLat": 18.02,
+        "maxLng": 79.65
+      }
+    },
+    "in/tripura/agartala": {
+      "name": "Agartala",
+      "bbox": {
+        "minLat": 23.82,
+        "minLng": 91.26,
+        "maxLat": 23.86,
+        "maxLng": 91.3
+      }
+    },
+    "in/uttar-pradesh/agra": {
+      "name": "Agra",
+      "bbox": {
+        "minLat": 27.15,
+        "minLng": 78,
+        "maxLat": 27.2,
+        "maxLng": 78.05
+      }
+    },
+    "in/uttar-pradesh/ayodhya": {
+      "name": "Ayodhya",
+      "bbox": {
+        "minLat": 26.78,
+        "minLng": 82.18,
+        "maxLat": 26.81,
+        "maxLng": 82.22
+      }
+    },
+    "in/uttar-pradesh/lucknow": {
+      "name": "Lucknow",
+      "bbox": {
+        "minLat": 26.82,
+        "minLng": 80.9,
+        "maxLat": 26.9,
+        "maxLng": 81
+      }
+    },
+    "in/uttar-pradesh/mathura": {
+      "name": "Mathura",
+      "bbox": {
+        "minLat": 27.48,
+        "minLng": 77.66,
+        "maxLat": 27.52,
+        "maxLng": 77.7
+      }
+    },
+    "in/uttar-pradesh/prayagraj": {
+      "name": "Prayagraj",
+      "bbox": {
+        "minLat": 25.42,
+        "minLng": 81.82,
+        "maxLat": 25.46,
+        "maxLng": 81.88
+      }
+    },
+    "in/uttar-pradesh/varanasi": {
+      "name": "Varanasi",
+      "bbox": {
+        "minLat": 25.28,
+        "minLng": 82.98,
+        "maxLat": 25.33,
+        "maxLng": 83.03
+      }
+    },
+    "in/uttarakhand/dehradun": {
+      "name": "Dehradun",
+      "bbox": {
+        "minLat": 30.3,
+        "minLng": 78,
+        "maxLat": 30.36,
+        "maxLng": 78.08
+      }
+    },
+    "in/uttarakhand/haridwar": {
+      "name": "Haridwar",
+      "bbox": {
+        "minLat": 29.93,
+        "minLng": 78.14,
+        "maxLat": 29.98,
+        "maxLng": 78.18
+      }
+    },
+    "in/uttarakhand/nainital": {
+      "name": "Nainital",
+      "bbox": {
+        "minLat": 29.37,
+        "minLng": 79.44,
+        "maxLat": 29.4,
+        "maxLng": 79.47
+      }
+    },
+    "in/uttarakhand/rishikesh": {
+      "name": "Rishikesh",
+      "bbox": {
+        "minLat": 30.08,
+        "minLng": 78.26,
+        "maxLat": 30.13,
+        "maxLng": 78.32
+      }
+    },
+    "in/west-bengal/darjeeling": {
+      "name": "Darjeeling",
+      "bbox": {
+        "minLat": 27.03,
+        "minLng": 88.25,
+        "maxLat": 27.06,
+        "maxLng": 88.28
+      }
+    },
+    "in/west-bengal/kolkata": {
+      "name": "Kolkata",
+      "bbox": {
+        "minLat": 22.5,
+        "minLng": 88.3,
+        "maxLat": 22.6,
+        "maxLng": 88.4
+      }
+    },
+    "iq/babylon/babylon": {
+      "name": "Babylon",
+      "bbox": {
+        "minLat": 32.53847,
+        "minLng": 44.42097,
+        "maxLat": 32.54771,
+        "maxLng": 44.43481
+      }
+    },
+    "iq/dhi-qar/ur": {
+      "name": "Ur",
+      "bbox": {
+        "minLat": 30.95978,
+        "minLng": 46.10014,
+        "maxLat": 30.968,
+        "maxLng": 46.108
+      }
+    },
+    "iq/erbil/erbil": {
+      "name": "Erbil",
+      "bbox": {
+        "minLat": 36.18461,
+        "minLng": 43.99698,
+        "maxLat": 36.19443,
+        "maxLng": 44.01227
+      }
+    },
+    "iq/nineveh/hatra": {
+      "name": "Hatra",
+      "bbox": {
+        "minLat": 35.58491,
+        "minLng": 42.7146,
+        "maxLat": 35.593,
+        "maxLng": 42.723
+      }
+    },
+    "iq/salah-ad-din/samarra": {
+      "name": "Samarra",
+      "bbox": {
+        "minLat": 34.20277,
+        "minLng": 43.87691,
+        "maxLat": 34.20922,
+        "maxLng": 43.88369
+      }
+    },
+    "jo/amman/amman": {
+      "name": "Amman",
+      "bbox": {
+        "minLat": 31.95,
+        "minLng": 35.908,
+        "maxLat": 31.965,
+        "maxLng": 35.942
+      }
+    },
+    "jo/aqaba/wadi-rum": {
+      "name": "Wadi Rum",
+      "bbox": {
+        "minLat": 29.535,
+        "minLng": 35.39,
+        "maxLat": 29.585,
+        "maxLng": 35.43
+      }
+    },
+    "jo/jerash/jerash": {
+      "name": "Jerash",
+      "bbox": {
+        "minLat": 32.27,
+        "minLng": 35.888,
+        "maxLat": 32.283,
+        "maxLng": 35.895
+      }
+    },
+    "jo/maan/petra": {
+      "name": "Petra",
+      "bbox": {
+        "minLat": 30.32,
+        "minLng": 35.43,
+        "maxLat": 30.342,
+        "maxLng": 35.456
+      }
+    },
+    "jo/madaba/madaba": {
+      "name": "Madaba",
+      "bbox": {
+        "minLat": 31.715,
+        "minLng": 35.72,
+        "maxLat": 31.77,
+        "maxLng": 35.8
+      }
+    },
+    "jp/aichi/nagoya": {
+      "name": "Nagoya",
+      "bbox": {
+        "minLat": 35.15,
+        "minLng": 136.88,
+        "maxLat": 35.2,
+        "maxLng": 136.95
+      }
+    },
+    "jp/ehime/matsuyama": {
+      "name": "Matsuyama",
+      "bbox": {
+        "minLat": 33.83,
+        "minLng": 132.75,
+        "maxLat": 33.86,
+        "maxLng": 132.78
+      }
+    },
+    "jp/fukuoka/fukuoka": {
+      "name": "Fukuoka",
+      "bbox": {
+        "minLat": 33.57,
+        "minLng": 130.38,
+        "maxLat": 33.61,
+        "maxLng": 130.43
+      }
+    },
+    "jp/gifu/shirakawa-go": {
+      "name": "Shirakawa-go",
+      "bbox": {
+        "minLat": 36.25,
+        "minLng": 136.9,
+        "maxLat": 36.27,
+        "maxLng": 136.91
+      }
+    },
+    "jp/gifu/takayama": {
+      "name": "Takayama",
+      "bbox": {
+        "minLat": 36.13,
+        "minLng": 137.24,
+        "maxLat": 36.15,
+        "maxLng": 137.27
+      }
+    },
+    "jp/hiroshima/hiroshima": {
+      "name": "Hiroshima",
+      "bbox": {
+        "minLat": 34.38,
+        "minLng": 132.44,
+        "maxLat": 34.41,
+        "maxLng": 132.48
+      }
+    },
+    "jp/hiroshima/miyajima": {
+      "name": "Miyajima",
+      "bbox": {
+        "minLat": 34.29,
+        "minLng": 132.31,
+        "maxLat": 34.3,
+        "maxLng": 132.33
+      }
+    },
+    "jp/hokkaido/hakodate": {
+      "name": "Hakodate",
+      "bbox": {
+        "minLat": 41.75,
+        "minLng": 140.7,
+        "maxLat": 41.8,
+        "maxLng": 140.76
+      }
+    },
+    "jp/hokkaido/otaru": {
+      "name": "Otaru",
+      "bbox": {
+        "minLat": 43.18,
+        "minLng": 140.98,
+        "maxLat": 43.21,
+        "maxLng": 141.02
+      }
+    },
+    "jp/hokkaido/sapporo": {
+      "name": "Sapporo",
+      "bbox": {
+        "minLat": 43.02,
+        "minLng": 141.3,
+        "maxLat": 43.1,
+        "maxLng": 141.42
+      }
+    },
+    "jp/hyogo/himeji": {
+      "name": "Himeji",
+      "bbox": {
+        "minLat": 34.83,
+        "minLng": 134.68,
+        "maxLat": 34.85,
+        "maxLng": 134.7
+      }
+    },
+    "jp/hyogo/kobe": {
+      "name": "Kobe",
+      "bbox": {
+        "minLat": 34.68,
+        "minLng": 135.17,
+        "maxLat": 34.72,
+        "maxLng": 135.22
+      }
+    },
+    "jp/ishikawa/kanazawa": {
+      "name": "Kanazawa",
+      "bbox": {
+        "minLat": 36.55,
+        "minLng": 136.64,
+        "maxLat": 36.58,
+        "maxLng": 136.68
+      }
+    },
+    "jp/kagawa/naoshima": {
+      "name": "Naoshima",
+      "bbox": {
+        "minLat": 34.45,
+        "minLng": 133.98,
+        "maxLat": 34.47,
+        "maxLng": 134.01
+      }
+    },
+    "jp/kagawa/takamatsu": {
+      "name": "Takamatsu",
+      "bbox": {
+        "minLat": 34.33,
+        "minLng": 134.04,
+        "maxLat": 34.35,
+        "maxLng": 134.06
+      }
+    },
+    "jp/kagoshima/kagoshima": {
+      "name": "Kagoshima",
+      "bbox": {
+        "minLat": 31.58,
+        "minLng": 130.54,
+        "maxLat": 31.61,
+        "maxLng": 130.57
+      }
+    },
+    "jp/kanagawa/hakone": {
+      "name": "Hakone",
+      "bbox": {
+        "minLat": 35.22,
+        "minLng": 139.02,
+        "maxLat": 35.26,
+        "maxLng": 139.08
+      }
+    },
+    "jp/kanagawa/kamakura": {
+      "name": "Kamakura",
+      "bbox": {
+        "minLat": 35.3,
+        "minLng": 139.53,
+        "maxLat": 35.34,
+        "maxLng": 139.57
+      }
+    },
+    "jp/kanagawa/yokohama": {
+      "name": "Yokohama",
+      "bbox": {
+        "minLat": 35.43,
+        "minLng": 139.62,
+        "maxLat": 35.47,
+        "maxLng": 139.66
+      }
+    },
+    "jp/kumamoto/kumamoto": {
+      "name": "Kumamoto",
+      "bbox": {
+        "minLat": 32.79,
+        "minLng": 130.68,
+        "maxLat": 32.81,
+        "maxLng": 130.71
+      }
+    },
+    "jp/kyoto/kyoto": {
+      "name": "Kyoto",
+      "bbox": {
+        "minLat": 34.98,
+        "minLng": 135.74,
+        "maxLat": 35.05,
+        "maxLng": 135.8
+      }
+    },
+    "jp/mie/ise": {
+      "name": "Ise",
+      "bbox": {
+        "minLat": 34.45,
+        "minLng": 136.72,
+        "maxLat": 34.49,
+        "maxLng": 136.74
+      }
+    },
+    "jp/miyagi/sendai": {
+      "name": "Sendai",
+      "bbox": {
+        "minLat": 38.24,
+        "minLng": 140.85,
+        "maxLat": 38.28,
+        "maxLng": 140.9
+      }
+    },
+    "jp/nagano/matsumoto": {
+      "name": "Matsumoto",
+      "bbox": {
+        "minLat": 36.23,
+        "minLng": 137.96,
+        "maxLat": 36.25,
+        "maxLng": 137.98
+      }
+    },
+    "jp/nagano/nagano": {
+      "name": "Nagano",
+      "bbox": {
+        "minLat": 36.64,
+        "minLng": 138.18,
+        "maxLat": 36.67,
+        "maxLng": 138.2
+      }
+    },
+    "jp/nagasaki/nagasaki": {
+      "name": "Nagasaki",
+      "bbox": {
+        "minLat": 32.73,
+        "minLng": 129.86,
+        "maxLat": 32.76,
+        "maxLng": 129.89
+      }
+    },
+    "jp/nara/nara": {
+      "name": "Nara",
+      "bbox": {
+        "minLat": 34.67,
+        "minLng": 135.82,
+        "maxLat": 34.7,
+        "maxLng": 135.85
+      }
+    },
+    "jp/oita/beppu": {
+      "name": "Beppu",
+      "bbox": {
+        "minLat": 33.27,
+        "minLng": 131.48,
+        "maxLat": 33.3,
+        "maxLng": 131.51
+      }
+    },
+    "jp/okayama/kurashiki": {
+      "name": "Kurashiki",
+      "bbox": {
+        "minLat": 34.59,
+        "minLng": 133.76,
+        "maxLat": 34.6,
+        "maxLng": 133.78
+      }
+    },
+    "jp/okayama/okayama": {
+      "name": "Okayama",
+      "bbox": {
+        "minLat": 34.66,
+        "minLng": 133.92,
+        "maxLat": 34.68,
+        "maxLng": 133.95
+      }
+    },
+    "jp/okinawa/ishigaki": {
+      "name": "Ishigaki",
+      "bbox": {
+        "minLat": 24.33,
+        "minLng": 124.15,
+        "maxLat": 24.38,
+        "maxLng": 124.18
+      }
+    },
+    "jp/okinawa/naha": {
+      "name": "Naha",
+      "bbox": {
+        "minLat": 26.2,
+        "minLng": 127.67,
+        "maxLat": 26.23,
+        "maxLng": 127.72
+      }
+    },
+    "jp/osaka/osaka": {
+      "name": "Osaka",
+      "bbox": {
+        "minLat": 34.64,
+        "minLng": 135.48,
+        "maxLat": 34.7,
+        "maxLng": 135.53
+      }
+    },
+    "jp/tochigi/nikko": {
+      "name": "Nikko",
+      "bbox": {
+        "minLat": 36.74,
+        "minLng": 139.58,
+        "maxLat": 36.78,
+        "maxLng": 139.62
+      }
+    },
+    "jp/tokyo/tokyo": {
+      "name": "Tokyo",
+      "bbox": {
+        "minLat": 35.62,
+        "minLng": 139.7,
+        "maxLat": 35.72,
+        "maxLng": 139.82
+      }
+    },
+    "jp/wakayama/koyasan": {
+      "name": "Koyasan",
+      "bbox": {
+        "minLat": 34.21,
+        "minLng": 135.58,
+        "maxLat": 34.22,
+        "maxLng": 135.6
+      }
+    },
+    "jp/yamanashi/kawaguchiko": {
+      "name": "Kawaguchiko",
+      "bbox": {
+        "minLat": 35.48,
+        "minLng": 138.74,
+        "maxLat": 35.52,
+        "maxLng": 138.78
+      }
+    },
+    "kh/battambang/battambang": {
+      "name": "Battambang",
+      "bbox": {
+        "minLat": 12.93,
+        "minLng": 103.1,
+        "maxLat": 13.03,
+        "maxLng": 103.16
+      }
+    },
+    "kh/kampot/kampot": {
+      "name": "Kampot",
+      "bbox": {
+        "minLat": 10.6,
+        "minLng": 104.02,
+        "maxLat": 10.64,
+        "maxLng": 104.19
+      }
+    },
+    "kh/kep/kep": {
+      "name": "Kep",
+      "bbox": {
+        "minLat": 10.47,
+        "minLng": 104.29,
+        "maxLat": 10.5,
+        "maxLng": 104.33
+      }
+    },
+    "kh/phnom-penh/phnom-penh": {
+      "name": "Phnom Penh",
+      "bbox": {
+        "minLat": 11.56,
+        "minLng": 104.918,
+        "maxLat": 11.58,
+        "maxLng": 104.935
+      }
+    },
+    "kh/siem-reap/siem-reap": {
+      "name": "Siem Reap",
+      "bbox": {
+        "minLat": 13.41,
+        "minLng": 103.85,
+        "maxLat": 13.61,
+        "maxLng": 103.97
+      }
+    },
+    "kr/busan/busan": {
+      "name": "Busan",
+      "bbox": {
+        "minLat": 35.09,
+        "minLng": 129.02,
+        "maxLat": 35.17,
+        "maxLng": 129.13
+      }
+    },
+    "kr/daejeon/daejeon": {
+      "name": "Daejeon",
+      "bbox": {
+        "minLat": 36.35,
+        "minLng": 127.37,
+        "maxLat": 36.38,
+        "maxLng": 127.4
+      }
+    },
+    "kr/gangwon/gangneung": {
+      "name": "Gangneung",
+      "bbox": {
+        "minLat": 37.75,
+        "minLng": 128.87,
+        "maxLat": 37.78,
+        "maxLng": 128.9
+      }
+    },
+    "kr/gangwon/sokcho": {
+      "name": "Sokcho",
+      "bbox": {
+        "minLat": 38.19,
+        "minLng": 128.52,
+        "maxLat": 38.22,
+        "maxLng": 128.6
+      }
+    },
+    "kr/gyeongju/gyeongju": {
+      "name": "Gyeongju",
+      "bbox": {
+        "minLat": 35.82,
+        "minLng": 129.2,
+        "maxLat": 35.84,
+        "maxLng": 129.23
+      }
+    },
+    "kr/incheon/incheon": {
+      "name": "Incheon",
+      "bbox": {
+        "minLat": 37.44,
+        "minLng": 126.6,
+        "maxLat": 37.48,
+        "maxLng": 126.65
+      }
+    },
+    "kr/jeju/jeju": {
+      "name": "Jeju",
+      "bbox": {
+        "minLat": 33.35,
+        "minLng": 126.45,
+        "maxLat": 33.52,
+        "maxLng": 126.6
+      }
+    },
+    "kr/jeonju/jeonju": {
+      "name": "Jeonju",
+      "bbox": {
+        "minLat": 35.81,
+        "minLng": 127.14,
+        "maxLat": 35.83,
+        "maxLng": 127.16
+      }
+    },
+    "kr/seoul/seoul": {
+      "name": "Seoul",
+      "bbox": {
+        "minLat": 37.54,
+        "minLng": 126.95,
+        "maxLat": 37.59,
+        "maxLng": 127.02
+      }
+    },
+    "kr/suwon/suwon": {
+      "name": "Suwon",
+      "bbox": {
+        "minLat": 37.28,
+        "minLng": 127,
+        "maxLat": 37.29,
+        "maxLng": 127.02
+      }
+    },
+    "kw/ahmadi/fahaheel": {
+      "name": "Fahaheel",
+      "bbox": {
+        "minLat": 29.078,
+        "minLng": 48.13,
+        "maxLat": 29.09,
+        "maxLng": 48.145
+      }
+    },
+    "kw/capital/failaka": {
+      "name": "Failaka",
+      "bbox": {
+        "minLat": 29.42,
+        "minLng": 48.26,
+        "maxLat": 29.45,
+        "maxLng": 48.35
+      }
+    },
+    "kw/capital/kuwait-city": {
+      "name": "Kuwait City",
+      "bbox": {
+        "minLat": 29.37,
+        "minLng": 47.968,
+        "maxLat": 29.395,
+        "maxLng": 48.008
+      }
+    },
+    "kw/hawalli/salmiya": {
+      "name": "Salmiya",
+      "bbox": {
+        "minLat": 29.333,
+        "minLng": 48.075,
+        "maxLat": 29.345,
+        "maxLng": 48.105
+      }
+    },
+    "kw/jahra/jahra": {
+      "name": "Jahra",
+      "bbox": {
+        "minLat": 29.334,
+        "minLng": 47.673,
+        "maxLat": 29.342,
+        "maxLng": 47.682
+      }
+    },
+    "kz/almaty-region/charyn": {
+      "name": "Charyn",
+      "bbox": {
+        "minLat": 43.348,
+        "minLng": 79.052,
+        "maxLat": 43.358,
+        "maxLng": 79.084
+      }
+    },
+    "kz/almaty/almaty": {
+      "name": "Almaty",
+      "bbox": {
+        "minLat": 43.23,
+        "minLng": 76.95,
+        "maxLat": 43.262,
+        "maxLng": 76.979
+      }
+    },
+    "kz/almaty/big-almaty-lake": {
+      "name": "Big Almaty Lake",
+      "bbox": {
+        "minLat": 43.049,
+        "minLng": 76.968,
+        "maxLat": 43.06,
+        "maxLng": 76.988
+      }
+    },
+    "kz/astana/astana": {
+      "name": "Astana",
+      "bbox": {
+        "minLat": 51.126,
+        "minLng": 71.403,
+        "maxLat": 51.134,
+        "maxLng": 71.434
+      }
+    },
+    "kz/turkistan/turkestan": {
+      "name": "Turkestan",
+      "bbox": {
+        "minLat": 43.293,
+        "minLng": 68.266,
+        "maxLat": 43.3,
+        "maxLng": 68.274
+      }
+    },
+    "la/champasak/champasak": {
+      "name": "Champasak",
+      "bbox": {
+        "minLat": 14.845,
+        "minLng": 105.818,
+        "maxLat": 14.852,
+        "maxLng": 105.826
+      }
+    },
+    "la/luang-prabang/kuang-si": {
+      "name": "Kuang Si",
+      "bbox": {
+        "minLat": 19.746,
+        "minLng": 101.988,
+        "maxLat": 19.752,
+        "maxLng": 101.995
+      }
+    },
+    "la/luang-prabang/luang-prabang": {
+      "name": "Luang Prabang",
+      "bbox": {
+        "minLat": 19.889,
+        "minLng": 102.133,
+        "maxLat": 19.9,
+        "maxLng": 102.146
+      }
+    },
+    "la/vientiane-prefecture/vientiane": {
+      "name": "Vientiane",
+      "bbox": {
+        "minLat": 17.959,
+        "minLng": 102.609,
+        "maxLat": 17.979,
+        "maxLng": 102.637
+      }
+    },
+    "la/vientiane/vang-vieng": {
+      "name": "Vang Vieng",
+      "bbox": {
+        "minLat": 18.91,
+        "minLng": 102.444,
+        "maxLat": 18.928,
+        "maxLng": 102.456
+      }
+    },
+    "lb/baalbek-hermel/baalbek": {
+      "name": "Baalbek",
+      "bbox": {
+        "minLat": 34.00311,
+        "minLng": 36.20038,
+        "maxLat": 34.00982,
+        "maxLng": 36.20698
+      }
+    },
+    "lb/beirut/beirut": {
+      "name": "Beirut",
+      "bbox": {
+        "minLat": 33.88723,
+        "minLng": 35.46704,
+        "maxLat": 33.89831,
+        "maxLng": 35.50904
+      }
+    },
+    "lb/keserwan-jbeil/byblos": {
+      "name": "Byblos",
+      "bbox": {
+        "minLat": 34.11684,
+        "minLng": 35.642,
+        "maxLat": 34.1245,
+        "maxLng": 35.64948
+      }
+    },
+    "lb/south/sidon": {
+      "name": "Sidon",
+      "bbox": {
+        "minLat": 33.56418,
+        "minLng": 35.366,
+        "maxLat": 33.5715,
+        "maxLng": 35.37397
+      }
+    },
+    "lb/south/tyre": {
+      "name": "Tyre",
+      "bbox": {
+        "minLat": 33.26458,
+        "minLng": 35.20682,
+        "maxLat": 33.273,
+        "maxLng": 35.215
+      }
+    },
+    "lk/central/kandy": {
+      "name": "Kandy",
+      "bbox": {
+        "minLat": 7.268,
+        "minLng": 80.59,
+        "maxLat": 7.3,
+        "maxLng": 80.65
+      }
+    },
+    "lk/central/sigiriya": {
+      "name": "Sigiriya",
+      "bbox": {
+        "minLat": 7.954,
+        "minLng": 80.755,
+        "maxLat": 7.968,
+        "maxLng": 80.765
+      }
+    },
+    "lk/southern/galle": {
+      "name": "Galle",
+      "bbox": {
+        "minLat": 6.022,
+        "minLng": 80.214,
+        "maxLat": 6.03,
+        "maxLng": 80.222
+      }
+    },
+    "lk/uva/ella": {
+      "name": "Ella",
+      "bbox": {
+        "minLat": 6.86,
+        "minLng": 81.04,
+        "maxLat": 6.88,
+        "maxLng": 81.07
+      }
+    },
+    "lk/western/colombo": {
+      "name": "Colombo",
+      "bbox": {
+        "minLat": 6.91,
+        "minLng": 79.84,
+        "maxLat": 6.935,
+        "maxLng": 79.865
+      }
+    },
+    "mm/mandalay/bagan": {
+      "name": "Bagan",
+      "bbox": {
+        "minLat": 21.16575,
+        "minLng": 94.85995,
+        "maxLat": 21.17381,
+        "maxLng": 94.87086
+      }
+    },
+    "mm/mandalay/mandalay": {
+      "name": "Mandalay",
+      "bbox": {
+        "minLat": 21.88839,
+        "minLng": 96.05311,
+        "maxLat": 21.99594,
+        "maxLng": 96.09891
+      }
+    },
+    "mm/mon/kyaiktiyo": {
+      "name": "Kyaiktiyo",
+      "bbox": {
+        "minLat": 17.47868,
+        "minLng": 97.09512,
+        "maxLat": 17.4865,
+        "maxLng": 97.1025
+      }
+    },
+    "mm/shan/inle": {
+      "name": "Inle",
+      "bbox": {
+        "minLat": 20.4565,
+        "minLng": 96.9065,
+        "maxLat": 20.553,
+        "maxLng": 96.91967
+      }
+    },
+    "mm/yangon/yangon": {
+      "name": "Yangon",
+      "bbox": {
+        "minLat": 16.77139,
+        "minLng": 96.1467,
+        "maxLat": 16.80135,
+        "maxLng": 96.16178
+      }
+    },
+    "mn/omnogovi/bayanzag": {
+      "name": "Bayanzag",
+      "bbox": {
+        "minLat": 44.138,
+        "minLng": 103.72,
+        "maxLat": 44.147,
+        "maxLng": 103.726
+      }
+    },
+    "mn/omnogovi/khongor": {
+      "name": "Khongor",
+      "bbox": {
+        "minLat": 43.768,
+        "minLng": 102.168,
+        "maxLat": 43.781,
+        "maxLng": 102.188
+      }
+    },
+    "mn/ovorkhangai/kharkhorin": {
+      "name": "Kharkhorin",
+      "bbox": {
+        "minLat": 47.198,
+        "minLng": 102.818,
+        "maxLat": 47.209,
+        "maxLng": 102.845
+      }
+    },
+    "mn/ulaanbaatar/terelj": {
+      "name": "Terelj",
+      "bbox": {
+        "minLat": 47.886,
+        "minLng": 107.418,
+        "maxLat": 47.91,
+        "maxLng": 107.428
+      }
+    },
+    "mn/ulaanbaatar/ulaanbaatar": {
+      "name": "Ulaanbaatar",
+      "bbox": {
+        "minLat": 47.917,
+        "minLng": 106.892,
+        "maxLat": 47.924,
+        "maxLng": 106.919
+      }
+    },
+    "mv/gnaviyani/fuvahmulah": {
+      "name": "Fuvahmulah",
+      "bbox": {
+        "minLat": -0.3015,
+        "minLng": 73.4215,
+        "maxLat": -0.2775,
+        "maxLng": 73.4285
+      }
+    },
+    "mv/haa-alif/utheemu": {
+      "name": "Utheemu",
+      "bbox": {
+        "minLat": 6.8317,
+        "minLng": 73.1095,
+        "maxLat": 6.8395,
+        "maxLng": 73.118
+      }
+    },
+    "mv/male/male": {
+      "name": "Malé",
+      "bbox": {
+        "minLat": 4.172,
+        "minLng": 73.5062,
+        "maxLat": 4.18106,
+        "maxLng": 73.5155
+      }
+    },
+    "mv/raa/vaadhoo": {
+      "name": "Vaadhoo",
+      "bbox": {
+        "minLat": 5.85228,
+        "minLng": 72.98783,
+        "maxLat": 5.8595,
+        "maxLng": 72.995
+      }
+    },
+    "mv/seenu/addu": {
+      "name": "Addu",
+      "bbox": {
+        "minLat": -0.6965,
+        "minLng": 73.1525,
+        "maxLat": -0.6383,
+        "maxLng": 73.161
+      }
+    },
+    "my/kuala-lumpur/kuala-lumpur": {
+      "name": "Kuala Lumpur",
+      "bbox": {
+        "minLat": 3.13,
+        "minLng": 101.67,
+        "maxLat": 3.17,
+        "maxLng": 101.72
+      }
+    },
+    "my/langkawi/langkawi": {
+      "name": "Langkawi",
+      "bbox": {
+        "minLat": 6.35,
+        "minLng": 99.7,
+        "maxLat": 6.38,
+        "maxLng": 99.75
+      }
+    },
+    "my/malacca/malacca": {
+      "name": "Malacca",
+      "bbox": {
+        "minLat": 2.19,
+        "minLng": 102.24,
+        "maxLat": 2.21,
+        "maxLng": 102.26
+      }
+    },
+    "my/pahang/cameron-highlands": {
+      "name": "Cameron Highlands",
+      "bbox": {
+        "minLat": 4.46,
+        "minLng": 101.37,
+        "maxLat": 4.5,
+        "maxLng": 101.41
+      }
+    },
+    "my/penang/george-town": {
+      "name": "George Town",
+      "bbox": {
+        "minLat": 5.41,
+        "minLng": 100.32,
+        "maxLat": 5.43,
+        "maxLng": 100.35
+      }
+    },
+    "my/sabah/kota-kinabalu": {
+      "name": "Kota Kinabalu",
+      "bbox": {
+        "minLat": 5.95,
+        "minLng": 116.04,
+        "maxLat": 5.99,
+        "maxLng": 116.1
+      }
+    },
+    "np/bagmati/bhaktapur": {
+      "name": "Bhaktapur",
+      "bbox": {
+        "minLat": 27.668,
+        "minLng": 85.425,
+        "maxLat": 27.675,
+        "maxLng": 85.432
+      }
+    },
+    "np/bagmati/kathmandu": {
+      "name": "Kathmandu",
+      "bbox": {
+        "minLat": 27.7,
+        "minLng": 85.29,
+        "maxLat": 27.73,
+        "maxLng": 85.37
+      }
+    },
+    "np/bagmati/patan": {
+      "name": "Patan",
+      "bbox": {
+        "minLat": 27.67,
+        "minLng": 85.322,
+        "maxLat": 27.678,
+        "maxLng": 85.328
+      }
+    },
+    "np/gandaki/pokhara": {
+      "name": "Pokhara",
+      "bbox": {
+        "minLat": 28.198,
+        "minLng": 83.94,
+        "maxLat": 28.215,
+        "maxLng": 83.962
+      }
+    },
+    "np/lumbini/lumbini": {
+      "name": "Lumbini",
+      "bbox": {
+        "minLat": 27.465,
+        "minLng": 83.27,
+        "maxLat": 27.5,
+        "maxLng": 83.28
+      }
+    },
+    "om/ad-dakhiliyah/al-hamra": {
+      "name": "Al Hamra",
+      "bbox": {
+        "minLat": 23.1,
+        "minLng": 57.2,
+        "maxLat": 23.25,
+        "maxLng": 57.3
+      }
+    },
+    "om/ad-dakhiliyah/nizwa": {
+      "name": "Nizwa",
+      "bbox": {
+        "minLat": 22.925,
+        "minLng": 57.525,
+        "maxLat": 22.94,
+        "maxLng": 57.54
+      }
+    },
+    "om/ash-sharqiyah/bidiyah": {
+      "name": "Bidiyah",
+      "bbox": {
+        "minLat": 22.4,
+        "minLng": 58.7,
+        "maxLat": 22.55,
+        "maxLng": 58.95
+      }
+    },
+    "om/ash-sharqiyah/sur": {
+      "name": "Sur",
+      "bbox": {
+        "minLat": 22.42,
+        "minLng": 59.04,
+        "maxLat": 22.85,
+        "maxLng": 59.85
+      }
+    },
+    "om/muscat/muscat": {
+      "name": "Muscat",
+      "bbox": {
+        "minLat": 23.575,
+        "minLng": 58.38,
+        "maxLat": 23.625,
+        "maxLng": 58.6
+      }
+    },
+    "ph/aklan/boracay": {
+      "name": "Boracay",
+      "bbox": {
+        "minLat": 11.95,
+        "minLng": 121.91,
+        "maxLat": 11.98,
+        "maxLng": 121.95
+      }
+    },
+    "ph/benguet/baguio": {
+      "name": "Baguio",
+      "bbox": {
+        "minLat": 16.4,
+        "minLng": 120.58,
+        "maxLat": 16.43,
+        "maxLng": 120.62
+      }
+    },
+    "ph/bohol/panglao": {
+      "name": "Panglao",
+      "bbox": {
+        "minLat": 9.55,
+        "minLng": 123.75,
+        "maxLat": 9.95,
+        "maxLng": 124.2
+      }
+    },
+    "ph/cebu/cebu-city": {
+      "name": "Cebu City",
+      "bbox": {
+        "minLat": 10.28,
+        "minLng": 123.88,
+        "maxLat": 10.32,
+        "maxLng": 123.91
+      }
+    },
+    "ph/davao/davao-city": {
+      "name": "Davao City",
+      "bbox": {
+        "minLat": 7.05,
+        "minLng": 125.58,
+        "maxLat": 7.1,
+        "maxLng": 125.65
+      }
+    },
+    "ph/ilocos/vigan": {
+      "name": "Vigan",
+      "bbox": {
+        "minLat": 17.56,
+        "minLng": 120.37,
+        "maxLat": 17.58,
+        "maxLng": 120.4
+      }
+    },
+    "ph/metro-manila/manila": {
+      "name": "Manila",
+      "bbox": {
+        "minLat": 14.56,
+        "minLng": 120.96,
+        "maxLat": 14.6,
+        "maxLng": 121
+      }
+    },
+    "ph/palawan/el-nido": {
+      "name": "El Nido",
+      "bbox": {
+        "minLat": 11.17,
+        "minLng": 119.38,
+        "maxLat": 11.2,
+        "maxLng": 119.42
+      }
+    },
+    "ph/palawan/puerto-princesa": {
+      "name": "Puerto Princesa",
+      "bbox": {
+        "minLat": 9.72,
+        "minLng": 118.72,
+        "maxLat": 9.76,
+        "maxLng": 118.77
+      }
+    },
+    "pk/gilgit-baltistan/hunza": {
+      "name": "Hunza",
+      "bbox": {
+        "minLat": 36.3225,
+        "minLng": 74.66694,
+        "maxLat": 36.3305,
+        "maxLng": 74.675
+      }
+    },
+    "pk/islamabad/islamabad": {
+      "name": "Islamabad",
+      "bbox": {
+        "minLat": 33.69041,
+        "minLng": 73.03434,
+        "maxLat": 33.73299,
+        "maxLng": 73.07132
+      }
+    },
+    "pk/punjab/lahore": {
+      "name": "Lahore",
+      "bbox": {
+        "minLat": 31.58513,
+        "minLng": 74.30635,
+        "maxLat": 31.5912,
+        "maxLng": 74.318
+      }
+    },
+    "pk/sindh/karachi": {
+      "name": "Karachi",
+      "bbox": {
+        "minLat": 24.80548,
+        "minLng": 67.00689,
+        "maxLat": 24.8775,
+        "maxLng": 67.04237
+      }
+    },
+    "pk/sindh/mohenjo-daro": {
+      "name": "Mohenjo-daro",
+      "bbox": {
+        "minLat": 27.32233,
+        "minLng": 68.13194,
+        "maxLat": 27.3305,
+        "maxLng": 68.14
+      }
+    },
+    "ps/bethlehem/bethlehem": {
+      "name": "Bethlehem",
+      "bbox": {
+        "minLat": 31.70044,
+        "minLng": 35.20458,
+        "maxLat": 31.70731,
+        "maxLng": 35.21178
+      }
+    },
+    "ps/hebron/hebron": {
+      "name": "Hebron",
+      "bbox": {
+        "minLat": 31.5217,
+        "minLng": 35.1065,
+        "maxLat": 31.5285,
+        "maxLng": 35.1137
+      }
+    },
+    "ps/jericho/jericho": {
+      "name": "Jericho",
+      "bbox": {
+        "minLat": 31.87172,
+        "minLng": 35.42922,
+        "maxLat": 31.8855,
+        "maxLng": 35.46272
+      }
+    },
+    "ps/nablus/nablus": {
+      "name": "Nablus",
+      "bbox": {
+        "minLat": 32.20646,
+        "minLng": 35.2755,
+        "maxLat": 32.2165,
+        "maxLng": 35.28833
+      }
+    },
+    "ps/nablus/sebastia": {
+      "name": "Sebastia",
+      "bbox": {
+        "minLat": 32.27367,
+        "minLng": 35.19283,
+        "maxLat": 32.2805,
+        "maxLng": 35.1995
+      }
+    },
+    "qa/ad-dawhah/doha": {
+      "name": "Doha",
+      "bbox": {
+        "minLat": 25.28,
+        "minLng": 51.5,
+        "maxLat": 25.37,
+        "maxLng": 51.545
+      }
+    },
+    "qa/al-khor/al-khor": {
+      "name": "Al Khor",
+      "bbox": {
+        "minLat": 25.67,
+        "minLng": 51.49,
+        "maxLat": 25.69,
+        "maxLng": 51.52
+      }
+    },
+    "qa/al-rayyan/sealine": {
+      "name": "Sealine",
+      "bbox": {
+        "minLat": 24.62,
+        "minLng": 51.28,
+        "maxLat": 24.86,
+        "maxLng": 51.52
+      }
+    },
+    "qa/al-shamal/al-zubarah": {
+      "name": "Al Zubarah",
+      "bbox": {
+        "minLat": 25.97,
+        "minLng": 51.025,
+        "maxLat": 25.985,
+        "maxLng": 51.05
+      }
+    },
+    "qa/al-wakrah/al-wakrah": {
+      "name": "Al Wakrah",
+      "bbox": {
+        "minLat": 25.16,
+        "minLng": 51.595,
+        "maxLat": 25.175,
+        "maxLng": 51.615
+      }
+    },
+    "sg/singapore/singapore": {
+      "name": "Singapore",
+      "bbox": {
+        "minLat": 1.24,
+        "minLng": 103.82,
+        "maxLat": 1.32,
+        "maxLng": 103.9
+      }
+    },
+    "sy/aleppo/aleppo": {
+      "name": "Aleppo",
+      "bbox": {
+        "minLat": 36.195,
+        "minLng": 37.1585,
+        "maxLat": 36.20252,
+        "maxLng": 37.16592
+      }
+    },
+    "sy/damascus/damascus": {
+      "name": "Damascus",
+      "bbox": {
+        "minLat": 33.50858,
+        "minLng": 36.29914,
+        "maxLat": 33.51489,
+        "maxLng": 36.30965
+      }
+    },
+    "sy/daraa/bosra": {
+      "name": "Bosra",
+      "bbox": {
+        "minLat": 32.51479,
+        "minLng": 36.47868,
+        "maxLat": 32.5225,
+        "maxLng": 36.4865
+      }
+    },
+    "sy/homs/krak-des-chevaliers": {
+      "name": "Krak des Chevaliers",
+      "bbox": {
+        "minLat": 34.75406,
+        "minLng": 36.29181,
+        "maxLat": 34.7615,
+        "maxLng": 36.299
+      }
+    },
+    "sy/homs/palmyra": {
+      "name": "Palmyra",
+      "bbox": {
+        "minLat": 34.54431,
+        "minLng": 38.26582,
+        "maxLat": 34.55368,
+        "maxLng": 38.27707
+      }
+    },
+    "th/ayutthaya/ayutthaya": {
+      "name": "Ayutthaya",
+      "bbox": {
+        "minLat": 14.34,
+        "minLng": 100.55,
+        "maxLat": 14.36,
+        "maxLng": 100.58
+      }
+    },
+    "th/bangkok/bangkok": {
+      "name": "Bangkok",
+      "bbox": {
+        "minLat": 13.72,
+        "minLng": 100.48,
+        "maxLat": 13.78,
+        "maxLng": 100.56
+      }
+    },
+    "th/chiang-mai/chiang-mai": {
+      "name": "Chiang Mai",
+      "bbox": {
+        "minLat": 18.77,
+        "minLng": 98.97,
+        "maxLat": 18.8,
+        "maxLng": 99
+      }
+    },
+    "th/chiang-rai/chiang-rai": {
+      "name": "Chiang Rai",
+      "bbox": {
+        "minLat": 19.9,
+        "minLng": 99.82,
+        "maxLat": 19.92,
+        "maxLng": 99.84
+      }
+    },
+    "th/hua-hin/hua-hin": {
+      "name": "Hua Hin",
+      "bbox": {
+        "minLat": 12.56,
+        "minLng": 99.95,
+        "maxLat": 12.58,
+        "maxLng": 99.97
+      }
+    },
+    "th/kanchanaburi/kanchanaburi": {
+      "name": "Kanchanaburi",
+      "bbox": {
+        "minLat": 14.01,
+        "minLng": 99.52,
+        "maxLat": 14.04,
+        "maxLng": 99.55
+      }
+    },
+    "th/krabi/krabi": {
+      "name": "Krabi",
+      "bbox": {
+        "minLat": 8.05,
+        "minLng": 98.9,
+        "maxLat": 8.09,
+        "maxLng": 98.93
+      }
+    },
+    "th/krabi/railay": {
+      "name": "Railay",
+      "bbox": {
+        "minLat": 8,
+        "minLng": 98.83,
+        "maxLat": 8.02,
+        "maxLng": 98.85
+      }
+    },
+    "th/pattaya/pattaya": {
+      "name": "Pattaya",
+      "bbox": {
+        "minLat": 12.92,
+        "minLng": 100.86,
+        "maxLat": 12.95,
+        "maxLng": 100.9
+      }
+    },
+    "th/phuket/phuket": {
+      "name": "Phuket",
+      "bbox": {
+        "minLat": 7.85,
+        "minLng": 98.28,
+        "maxLat": 7.95,
+        "maxLng": 98.4
+      }
+    },
+    "th/sukhothai/sukhothai": {
+      "name": "Sukhothai",
+      "bbox": {
+        "minLat": 17.01,
+        "minLng": 99.69,
+        "maxLat": 17.03,
+        "maxLng": 99.71
+      }
+    },
+    "tl/ainaro/maubisse": {
+      "name": "Maubisse",
+      "bbox": {
+        "minLat": -8.90967,
+        "minLng": 125.49033,
+        "maxLat": -8.8375,
+        "maxLng": 125.598
+      }
+    },
+    "tl/baucau/baucau": {
+      "name": "Baucau",
+      "bbox": {
+        "minLat": -8.4699,
+        "minLng": 126.4533,
+        "maxLat": -8.452,
+        "maxLng": 126.473
+      }
+    },
+    "tl/dili/atauro": {
+      "name": "Atauro",
+      "bbox": {
+        "minLat": -8.253,
+        "minLng": 125.577,
+        "maxLat": -8.219,
+        "maxLng": 125.61
+      }
+    },
+    "tl/dili/dili": {
+      "name": "Dili",
+      "bbox": {
+        "minLat": -8.5505,
+        "minLng": 125.5835,
+        "maxLat": -8.51753,
+        "maxLng": 125.61132
+      }
+    },
+    "tl/lautem/tutuala": {
+      "name": "Tutuala",
+      "bbox": {
+        "minLat": -8.428,
+        "minLng": 127.249,
+        "maxLat": -8.392,
+        "maxLng": 127.328
+      }
+    },
+    "tr/antalya/antalya": {
+      "name": "Antalya",
+      "bbox": {
+        "minLat": 36.85,
+        "minLng": 30.68,
+        "maxLat": 36.9,
+        "maxLng": 30.75
+      }
+    },
+    "tr/istanbul/istanbul": {
+      "name": "Istanbul",
+      "bbox": {
+        "minLat": 40.95,
+        "minLng": 28.9,
+        "maxLat": 41.08,
+        "maxLng": 29.05
+      }
+    },
+    "tr/izmir/ephesus": {
+      "name": "Ephesus",
+      "bbox": {
+        "minLat": 37.93,
+        "minLng": 27.33,
+        "maxLat": 37.95,
+        "maxLng": 27.36
+      }
+    },
+    "tr/mugla/bodrum": {
+      "name": "Bodrum",
+      "bbox": {
+        "minLat": 37.02,
+        "minLng": 27.4,
+        "maxLat": 37.05,
+        "maxLng": 27.45
+      }
+    },
+    "tr/mugla/fethiye": {
+      "name": "Fethiye",
+      "bbox": {
+        "minLat": 36.62,
+        "minLng": 29.1,
+        "maxLat": 36.65,
+        "maxLng": 29.14
+      }
+    },
+    "tr/nevsehir/cappadocia": {
+      "name": "Cappadocia",
+      "bbox": {
+        "minLat": 38.62,
+        "minLng": 34.8,
+        "maxLat": 38.68,
+        "maxLng": 34.88
+      }
+    },
+    "tw/hualien/hualien": {
+      "name": "Hualien",
+      "bbox": {
+        "minLat": 24.02,
+        "minLng": 121.6,
+        "maxLat": 24.17,
+        "maxLng": 121.65
+      }
+    },
+    "tw/kaohsiung/kaohsiung": {
+      "name": "Kaohsiung",
+      "bbox": {
+        "minLat": 22.615,
+        "minLng": 120.258,
+        "maxLat": 22.66,
+        "maxLng": 120.29
+      }
+    },
+    "tw/new-taipei/jiufen": {
+      "name": "Jiufen",
+      "bbox": {
+        "minLat": 25.105,
+        "minLng": 121.838,
+        "maxLat": 25.115,
+        "maxLng": 121.862
+      }
+    },
+    "tw/tainan/tainan": {
+      "name": "Tainan",
+      "bbox": {
+        "minLat": 22.988,
+        "minLng": 120.198,
+        "maxLat": 23.002,
+        "maxLng": 120.21
+      }
+    },
+    "tw/taipei/taipei": {
+      "name": "Taipei",
+      "bbox": {
+        "minLat": 25.03,
+        "minLng": 121.49,
+        "maxLat": 25.11,
+        "maxLng": 121.57
+      }
+    },
+    "uz/bukhara/bukhara": {
+      "name": "Bukhara",
+      "bbox": {
+        "minLat": 39.771,
+        "minLng": 64.408,
+        "maxLat": 39.78,
+        "maxLng": 64.423
+      }
+    },
+    "uz/qashqadaryo/shakhrisabz": {
+      "name": "Shakhrisabz",
+      "bbox": {
+        "minLat": 39.052,
+        "minLng": 66.826,
+        "maxLat": 39.058,
+        "maxLng": 66.833
+      }
+    },
+    "uz/samarqand/samarkand": {
+      "name": "Samarkand",
+      "bbox": {
+        "minLat": 39.646,
+        "minLng": 66.966,
+        "maxLat": 39.663,
+        "maxLng": 66.982
+      }
+    },
+    "uz/tashkent/tashkent": {
+      "name": "Tashkent",
+      "bbox": {
+        "minLat": 41.323,
+        "minLng": 69.232,
+        "maxLat": 41.329,
+        "maxLng": 69.245
+      }
+    },
+    "uz/xorazm/khiva": {
+      "name": "Khiva",
+      "bbox": {
+        "minLat": 41.375,
+        "minLng": 60.355,
+        "maxLat": 41.381,
+        "maxLng": 60.363
+      }
+    },
+    "vn/da-nang/da-nang": {
+      "name": "Da Nang",
+      "bbox": {
+        "minLat": 16.03,
+        "minLng": 108.2,
+        "maxLat": 16.08,
+        "maxLng": 108.25
+      }
+    },
+    "vn/hanoi/hanoi": {
+      "name": "Hanoi",
+      "bbox": {
+        "minLat": 21,
+        "minLng": 105.8,
+        "maxLat": 21.07,
+        "maxLng": 105.88
+      }
+    },
+    "vn/ho-chi-minh/ho-chi-minh-city": {
+      "name": "Ho Chi Minh City",
+      "bbox": {
+        "minLat": 10.75,
+        "minLng": 106.67,
+        "maxLat": 10.82,
+        "maxLng": 106.72
+      }
+    },
+    "vn/khanh-hoa/nha-trang": {
+      "name": "Nha Trang",
+      "bbox": {
+        "minLat": 12.22,
+        "minLng": 109.17,
+        "maxLat": 12.26,
+        "maxLng": 109.21
+      }
+    },
+    "vn/lao-cai/sapa": {
+      "name": "Sapa",
+      "bbox": {
+        "minLat": 22.32,
+        "minLng": 103.83,
+        "maxLat": 22.36,
+        "maxLng": 103.87
+      }
+    },
+    "vn/quang-nam/hoi-an": {
+      "name": "Hoi An",
+      "bbox": {
+        "minLat": 15.87,
+        "minLng": 108.31,
+        "maxLat": 15.9,
+        "maxLng": 108.35
+      }
+    },
+    "vn/quang-ninh/ha-long": {
+      "name": "Ha Long",
+      "bbox": {
+        "minLat": 20.93,
+        "minLng": 107.03,
+        "maxLat": 20.98,
+        "maxLng": 107.1
+      }
+    },
+    "vn/thua-thien-hue/hue": {
+      "name": "Hue",
+      "bbox": {
+        "minLat": 16.44,
+        "minLng": 107.55,
+        "maxLat": 16.48,
+        "maxLng": 107.6
+      }
+    },
+    "ye/aden/aden": {
+      "name": "Aden",
+      "bbox": {
+        "minLat": 12.7716,
+        "minLng": 45.02611,
+        "maxLat": 12.77998,
+        "maxLng": 45.04033
+      }
+    },
+    "ye/al-hudaydah/zabid": {
+      "name": "Zabid",
+      "bbox": {
+        "minLat": 14.1923,
+        "minLng": 43.31215,
+        "maxLat": 14.2005,
+        "maxLng": 43.32
+      }
+    },
+    "ye/hadhramaut/shibam": {
+      "name": "Shibam",
+      "bbox": {
+        "minLat": 15.9237,
+        "minLng": 48.62325,
+        "maxLat": 15.9315,
+        "maxLng": 48.631
+      }
+    },
+    "ye/sanaa/dar-al-hajar": {
+      "name": "Dar al-Hajar",
+      "bbox": {
+        "minLat": 15.43801,
+        "minLng": 44.12216,
+        "maxLat": 15.446,
+        "maxLng": 44.13
+      }
+    },
+    "ye/sanaa/sanaa": {
+      "name": "Sana'a",
+      "bbox": {
+        "minLat": 15.3227,
+        "minLng": 44.20473,
+        "maxLat": 15.35613,
+        "maxLng": 44.21817
+      }
+    }
+  },
+  "cells": {
+    "48,108": [
+      "ae/abu-dhabi/abu-dhabi"
+    ],
+    "48,109": [
+      "ae/abu-dhabi/abu-dhabi"
+    ],
+    "49,108": [
+      "ae/abu-dhabi/abu-dhabi"
+    ],
+    "49,109": [
+      "ae/abu-dhabi/abu-dhabi"
+    ],
+    "50,110": [
+      "ae/dubai/dubai",
+      "ae/sharjah/sharjah"
+    ],
+    "73,134": [
+      "af/balkh/mazar-i-sharif"
+    ],
+    "69,135": [
+      "af/bamyan/bamyan"
+    ],
+    "69,134": [
+      "af/bamyan/band-e-amir"
+    ],
+    "68,124": [
+      "af/herat/herat"
+    ],
+    "68,138": [
+      "af/kabul/kabul"
+    ],
+    "69,138": [
+      "af/kabul/kabul"
+    ],
+    "80,89": [
+      "am/kotayk/garni",
+      "am/kotayk/geghard",
+      "am/yerevan/yerevan"
+    ],
+    "78,92": [
+      "am/syunik/tatev"
+    ],
+    "81,89": [
+      "am/tavush/dilijan"
+    ],
+    "80,98": [
+      "az/absheron/gobustan"
+    ],
+    "80,100": [
+      "az/absheron/surakhani"
+    ],
+    "80,99": [
+      "az/baku/baku"
+    ],
+    "81,95": [
+      "az/gabala/gabala"
+    ],
+    "82,94": [
+      "az/shaki/shaki"
+    ],
+    "42,183": [
+      "bd/chattogram/coxs-bazar"
+    ],
+    "42,184": [
+      "bd/chattogram/coxs-bazar"
+    ],
+    "47,180": [
+      "bd/dhaka/dhaka"
+    ],
+    "45,179": [
+      "bd/khulna/bagerhat"
+    ],
+    "50,177": [
+      "bd/rajshahi/paharpur"
+    ],
+    "50,183": [
+      "bd/sylhet/sylhet",
+      "in/meghalaya/cherrapunji"
+    ],
+    "50,184": [
+      "bd/sylhet/sylhet"
+    ],
+    "52,101": [
+      "bh/capital/manama",
+      "bh/central/riffa",
+      "bh/muharraq/muharraq",
+      "bh/northern/qalat-al-bahrain",
+      "bh/southern/tree-of-life"
+    ],
+    "51,101": [
+      "bh/southern/tree-of-life"
+    ],
+    "9,228": [
+      "bn/belait/seria"
+    ],
+    "9,229": [
+      "bn/brunei-muara/bandar-seri-begawan",
+      "bn/brunei-muara/kiarong",
+      "bn/tutong/tutong"
+    ],
+    "8,230": [
+      "bn/temburong/temburong"
+    ],
+    "54,178": [
+      "bt/paro/paro"
+    ],
+    "55,179": [
+      "bt/punakha/punakha"
+    ],
+    "54,179": [
+      "bt/thimphu/dochula",
+      "bt/thimphu/thimphu"
+    ],
+    "54,180": [
+      "bt/wangdue/phobjikha"
+    ],
+    "55,180": [
+      "bt/wangdue/phobjikha"
+    ],
+    "83,83": [
+      "ge/adjara/batumi"
+    ],
+    "83,91": [
+      "ge/kakheti/sighnaghi"
+    ],
+    "83,89": [
+      "ge/mtskheta-mtianeti/mtskheta",
+      "ge/tbilisi/tbilisi"
+    ],
+    "85,89": [
+      "ge/mtskheta-mtianeti/stepantsminda"
+    ],
+    "44,228": [
+      "hk/hong-kong-island/central",
+      "hk/kowloon/kowloon",
+      "hk/new-territories/sha-tin"
+    ],
+    "44,227": [
+      "hk/lantau/lantau"
+    ],
+    "-18,230": [
+      "id/bali/denpasar",
+      "id/bali/kuta"
+    ],
+    "-18,231": [
+      "id/bali/nusa-penida"
+    ],
+    "-14,220": [
+      "id/central-java/semarang"
+    ],
+    "-13,213": [
+      "id/dki-jakarta/jakarta"
+    ],
+    "-15,225": [
+      "id/east-java/surabaya"
+    ],
+    "2,249": [
+      "id/north-sulawesi/manado"
+    ],
+    "3,249": [
+      "id/north-sulawesi/manado"
+    ],
+    "2,208": [
+      "id/riau-islands/batam"
+    ],
+    "-14,215": [
+      "id/west-java/bandung"
+    ],
+    "-18,232": [
+      "id/west-nusa-tenggara/lombok"
+    ],
+    "-16,220": [
+      "id/yogyakarta/yogyakarta"
+    ],
+    "65,69": [
+      "il/haifa/haifa"
+    ],
+    "63,70": [
+      "il/jerusalem/jerusalem",
+      "ps/bethlehem/bethlehem",
+      "ps/hebron/hebron",
+      "ps/jericho/jericho"
+    ],
+    "65,70": [
+      "il/northern/acre"
+    ],
+    "62,70": [
+      "il/southern/masada"
+    ],
+    "64,69": [
+      "il/tel-aviv/tel-aviv"
+    ],
+    "23,185": [
+      "in/andaman-and-nicobar/port-blair"
+    ],
+    "27,158": [
+      "in/andhra-pradesh/tirupati"
+    ],
+    "32,161": [
+      "in/andhra-pradesh/vijayawada"
+    ],
+    "33,161": [
+      "in/andhra-pradesh/vijayawada"
+    ],
+    "35,166": [
+      "in/andhra-pradesh/visakhapatnam"
+    ],
+    "54,187": [
+      "in/arunachal-pradesh/itanagar"
+    ],
+    "55,183": [
+      "in/arunachal-pradesh/tawang"
+    ],
+    "52,183": [
+      "in/assam/guwahati"
+    ],
+    "53,186": [
+      "in/assam/kaziranga"
+    ],
+    "49,169": [
+      "in/bihar/bodh-gaya"
+    ],
+    "49,170": [
+      "in/bihar/bodh-gaya"
+    ],
+    "51,170": [
+      "in/bihar/patna"
+    ],
+    "61,153": [
+      "in/chandigarh/chandigarh"
+    ],
+    "42,163": [
+      "in/chhattisgarh/raipur"
+    ],
+    "40,145": [
+      "in/daman-and-diu/daman"
+    ],
+    "41,141": [
+      "in/daman-and-diu/diu"
+    ],
+    "41,142": [
+      "in/daman-and-diu/diu"
+    ],
+    "57,154": [
+      "in/delhi/delhi",
+      "in/haryana/gurugram"
+    ],
+    "31,147": [
+      "in/goa/calangute",
+      "in/goa/old-goa",
+      "in/goa/panaji"
+    ],
+    "30,147": [
+      "in/goa/old-goa",
+      "in/goa/panaji"
+    ],
+    "46,145": [
+      "in/gujarat/ahmedabad"
+    ],
+    "44,137": [
+      "in/gujarat/dwarka"
+    ],
+    "44,138": [
+      "in/gujarat/dwarka"
+    ],
+    "42,145": [
+      "in/gujarat/surat"
+    ],
+    "44,146": [
+      "in/gujarat/vadodara"
+    ],
+    "56,153": [
+      "in/haryana/gurugram"
+    ],
+    "56,154": [
+      "in/haryana/gurugram"
+    ],
+    "57,153": [
+      "in/haryana/gurugram"
+    ],
+    "59,153": [
+      "in/haryana/kurukshetra"
+    ],
+    "64,152": [
+      "in/himachal-pradesh/dharamshala"
+    ],
+    "64,154": [
+      "in/himachal-pradesh/manali"
+    ],
+    "62,154": [
+      "in/himachal-pradesh/shimla"
+    ],
+    "65,149": [
+      "in/jammu-and-kashmir/jammu"
+    ],
+    "68,149": [
+      "in/jammu-and-kashmir/srinagar"
+    ],
+    "46,170": [
+      "in/jharkhand/ranchi"
+    ],
+    "25,155": [
+      "in/karnataka/bengaluru"
+    ],
+    "26,155": [
+      "in/karnataka/bengaluru"
+    ],
+    "30,152": [
+      "in/karnataka/hampi"
+    ],
+    "25,149": [
+      "in/karnataka/mangaluru"
+    ],
+    "24,153": [
+      "in/karnataka/mysuru"
+    ],
+    "18,152": [
+      "in/kerala/alappuzha"
+    ],
+    "19,152": [
+      "in/kerala/alappuzha",
+      "in/kerala/kochi"
+    ],
+    "20,152": [
+      "in/kerala/kochi"
+    ],
+    "20,154": [
+      "in/kerala/munnar"
+    ],
+    "16,153": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "16,154": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "17,153": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "17,154": [
+      "in/kerala/thiruvananthapuram"
+    ],
+    "68,155": [
+      "in/ladakh/leh"
+    ],
+    "21,145": [
+      "in/lakshadweep/kavaratti"
+    ],
+    "46,154": [
+      "in/madhya-pradesh/bhopal"
+    ],
+    "52,156": [
+      "in/madhya-pradesh/gwalior"
+    ],
+    "45,151": [
+      "in/madhya-pradesh/indore"
+    ],
+    "49,159": [
+      "in/madhya-pradesh/khajuraho"
+    ],
+    "46,151": [
+      "in/madhya-pradesh/ujjain"
+    ],
+    "39,150": [
+      "in/maharashtra/aurangabad"
+    ],
+    "40,150": [
+      "in/maharashtra/aurangabad"
+    ],
+    "37,145": [
+      "in/maharashtra/mumbai"
+    ],
+    "38,145": [
+      "in/maharashtra/mumbai"
+    ],
+    "42,158": [
+      "in/maharashtra/nagpur"
+    ],
+    "36,147": [
+      "in/maharashtra/pune"
+    ],
+    "37,147": [
+      "in/maharashtra/pune"
+    ],
+    "49,187": [
+      "in/manipur/imphal"
+    ],
+    "51,183": [
+      "in/meghalaya/shillong"
+    ],
+    "47,185": [
+      "in/mizoram/aizawl"
+    ],
+    "51,188": [
+      "in/nagaland/kohima"
+    ],
+    "40,171": [
+      "in/odisha/bhubaneswar"
+    ],
+    "39,172": [
+      "in/odisha/konark"
+    ],
+    "39,171": [
+      "in/odisha/puri"
+    ],
+    "23,159": [
+      "in/puducherry/puducherry"
+    ],
+    "63,149": [
+      "in/punjab/amritsar"
+    ],
+    "61,151": [
+      "in/punjab/ludhiana"
+    ],
+    "53,151": [
+      "in/rajasthan/jaipur"
+    ],
+    "53,141": [
+      "in/rajasthan/jaisalmer"
+    ],
+    "52,146": [
+      "in/rajasthan/jodhpur"
+    ],
+    "52,149": [
+      "in/rajasthan/pushkar"
+    ],
+    "53,149": [
+      "in/rajasthan/pushkar"
+    ],
+    "49,147": [
+      "in/rajasthan/udaipur"
+    ],
+    "54,177": [
+      "in/sikkim/gangtok"
+    ],
+    "25,160": [
+      "in/tamil-nadu/chennai",
+      "in/tamil-nadu/mahabalipuram"
+    ],
+    "26,160": [
+      "in/tamil-nadu/chennai"
+    ],
+    "16,155": [
+      "in/tamil-nadu/kanyakumari"
+    ],
+    "19,156": [
+      "in/tamil-nadu/madurai"
+    ],
+    "22,153": [
+      "in/tamil-nadu/ooty"
+    ],
+    "18,158": [
+      "in/tamil-nadu/rameswaram"
+    ],
+    "34,156": [
+      "in/telangana/hyderabad"
+    ],
+    "34,157": [
+      "in/telangana/hyderabad"
+    ],
+    "35,159": [
+      "in/telangana/warangal"
+    ],
+    "36,159": [
+      "in/telangana/warangal"
+    ],
+    "47,182": [
+      "in/tripura/agartala"
+    ],
+    "54,156": [
+      "in/uttar-pradesh/agra"
+    ],
+    "53,164": [
+      "in/uttar-pradesh/ayodhya"
+    ],
+    "53,161": [
+      "in/uttar-pradesh/lucknow"
+    ],
+    "53,162": [
+      "in/uttar-pradesh/lucknow"
+    ],
+    "54,155": [
+      "in/uttar-pradesh/mathura"
+    ],
+    "55,155": [
+      "in/uttar-pradesh/mathura"
+    ],
+    "50,163": [
+      "in/uttar-pradesh/prayagraj"
+    ],
+    "50,165": [
+      "in/uttar-pradesh/varanasi"
+    ],
+    "50,166": [
+      "in/uttar-pradesh/varanasi"
+    ],
+    "60,156": [
+      "in/uttarakhand/dehradun",
+      "in/uttarakhand/rishikesh"
+    ],
+    "59,156": [
+      "in/uttarakhand/haridwar"
+    ],
+    "58,158": [
+      "in/uttarakhand/nainital"
+    ],
+    "54,176": [
+      "in/west-bengal/darjeeling"
+    ],
+    "45,176": [
+      "in/west-bengal/kolkata"
+    ],
+    "65,88": [
+      "iq/babylon/babylon"
+    ],
+    "61,92": [
+      "iq/dhi-qar/ur"
+    ],
+    "72,87": [
+      "iq/erbil/erbil"
+    ],
+    "72,88": [
+      "iq/erbil/erbil"
+    ],
+    "71,85": [
+      "iq/nineveh/hatra"
+    ],
+    "68,87": [
+      "iq/salah-ad-din/samarra"
+    ],
+    "63,71": [
+      "jo/amman/amman",
+      "jo/madaba/madaba"
+    ],
+    "59,70": [
+      "jo/aqaba/wadi-rum"
+    ],
+    "64,71": [
+      "jo/jerash/jerash"
+    ],
+    "60,70": [
+      "jo/maan/petra"
+    ],
+    "70,273": [
+      "jp/aichi/nagoya"
+    ],
+    "67,265": [
+      "jp/ehime/matsuyama"
+    ],
+    "67,260": [
+      "jp/fukuoka/fukuoka"
+    ],
+    "72,273": [
+      "jp/gifu/shirakawa-go"
+    ],
+    "72,274": [
+      "jp/gifu/takayama"
+    ],
+    "68,264": [
+      "jp/hiroshima/hiroshima",
+      "jp/hiroshima/miyajima"
+    ],
+    "83,281": [
+      "jp/hokkaido/hakodate"
+    ],
+    "86,281": [
+      "jp/hokkaido/otaru"
+    ],
+    "86,282": [
+      "jp/hokkaido/otaru",
+      "jp/hokkaido/sapporo"
+    ],
+    "69,269": [
+      "jp/hyogo/himeji"
+    ],
+    "69,270": [
+      "jp/hyogo/kobe",
+      "jp/osaka/osaka"
+    ],
+    "73,273": [
+      "jp/ishikawa/kanazawa"
+    ],
+    "68,267": [
+      "jp/kagawa/naoshima"
+    ],
+    "68,268": [
+      "jp/kagawa/naoshima",
+      "jp/kagawa/takamatsu"
+    ],
+    "63,261": [
+      "jp/kagoshima/kagoshima"
+    ],
+    "70,278": [
+      "jp/kanagawa/hakone"
+    ],
+    "70,279": [
+      "jp/kanagawa/kamakura",
+      "jp/kanagawa/yokohama"
+    ],
+    "65,261": [
+      "jp/kumamoto/kumamoto"
+    ],
+    "69,271": [
+      "jp/kyoto/kyoto",
+      "jp/nara/nara",
+      "jp/osaka/osaka"
+    ],
+    "70,271": [
+      "jp/kyoto/kyoto"
+    ],
+    "68,273": [
+      "jp/mie/ise"
+    ],
+    "76,281": [
+      "jp/miyagi/sendai"
+    ],
+    "72,275": [
+      "jp/nagano/matsumoto"
+    ],
+    "73,276": [
+      "jp/nagano/nagano"
+    ],
+    "65,259": [
+      "jp/nagasaki/nagasaki"
+    ],
+    "66,262": [
+      "jp/oita/beppu"
+    ],
+    "66,263": [
+      "jp/oita/beppu"
+    ],
+    "69,267": [
+      "jp/okayama/kurashiki",
+      "jp/okayama/okayama"
+    ],
+    "48,248": [
+      "jp/okinawa/ishigaki"
+    ],
+    "52,255": [
+      "jp/okinawa/naha"
+    ],
+    "73,279": [
+      "jp/tochigi/nikko"
+    ],
+    "71,279": [
+      "jp/tokyo/tokyo"
+    ],
+    "68,271": [
+      "jp/wakayama/koyasan"
+    ],
+    "70,277": [
+      "jp/yamanashi/kawaguchiko"
+    ],
+    "71,277": [
+      "jp/yamanashi/kawaguchiko"
+    ],
+    "25,206": [
+      "kh/battambang/battambang"
+    ],
+    "26,206": [
+      "kh/battambang/battambang"
+    ],
+    "21,208": [
+      "kh/kampot/kampot",
+      "kh/kep/kep"
+    ],
+    "20,208": [
+      "kh/kep/kep"
+    ],
+    "23,209": [
+      "kh/phnom-penh/phnom-penh"
+    ],
+    "26,207": [
+      "kh/siem-reap/siem-reap"
+    ],
+    "27,207": [
+      "kh/siem-reap/siem-reap"
+    ],
+    "70,258": [
+      "kr/busan/busan"
+    ],
+    "72,254": [
+      "kr/daejeon/daejeon"
+    ],
+    "75,257": [
+      "kr/gangwon/gangneung"
+    ],
+    "76,257": [
+      "kr/gangwon/sokcho"
+    ],
+    "71,258": [
+      "kr/gyeongju/gyeongju"
+    ],
+    "74,253": [
+      "kr/incheon/incheon"
+    ],
+    "66,252": [
+      "kr/jeju/jeju"
+    ],
+    "66,253": [
+      "kr/jeju/jeju"
+    ],
+    "67,252": [
+      "kr/jeju/jeju"
+    ],
+    "67,253": [
+      "kr/jeju/jeju"
+    ],
+    "71,254": [
+      "kr/jeonju/jeonju"
+    ],
+    "75,253": [
+      "kr/seoul/seoul"
+    ],
+    "75,254": [
+      "kr/seoul/seoul"
+    ],
+    "74,254": [
+      "kr/suwon/suwon"
+    ],
+    "58,96": [
+      "kw/ahmadi/fahaheel",
+      "kw/capital/failaka",
+      "kw/capital/kuwait-city",
+      "kw/hawalli/salmiya"
+    ],
+    "58,95": [
+      "kw/capital/kuwait-city",
+      "kw/jahra/jahra"
+    ],
+    "86,158": [
+      "kz/almaty-region/charyn"
+    ],
+    "86,153": [
+      "kz/almaty/almaty",
+      "kz/almaty/big-almaty-lake"
+    ],
+    "102,142": [
+      "kz/astana/astana"
+    ],
+    "86,136": [
+      "kz/turkistan/turkestan"
+    ],
+    "29,211": [
+      "la/champasak/champasak"
+    ],
+    "39,203": [
+      "la/luang-prabang/kuang-si"
+    ],
+    "39,204": [
+      "la/luang-prabang/luang-prabang"
+    ],
+    "35,205": [
+      "la/vientiane-prefecture/vientiane"
+    ],
+    "37,204": [
+      "la/vientiane/vang-vieng"
+    ],
+    "68,72": [
+      "lb/baalbek-hermel/baalbek"
+    ],
+    "67,70": [
+      "lb/beirut/beirut",
+      "lb/south/sidon"
+    ],
+    "67,71": [
+      "lb/beirut/beirut"
+    ],
+    "68,71": [
+      "lb/keserwan-jbeil/byblos"
+    ],
+    "66,70": [
+      "lb/south/tyre"
+    ],
+    "14,161": [
+      "lk/central/kandy"
+    ],
+    "15,161": [
+      "lk/central/sigiriya"
+    ],
+    "12,160": [
+      "lk/southern/galle"
+    ],
+    "13,162": [
+      "lk/uva/ella"
+    ],
+    "13,159": [
+      "lk/western/colombo"
+    ],
+    "42,189": [
+      "mm/mandalay/bagan"
+    ],
+    "43,192": [
+      "mm/mandalay/mandalay"
+    ],
+    "34,194": [
+      "mm/mon/kyaiktiyo"
+    ],
+    "40,193": [
+      "mm/shan/inle"
+    ],
+    "41,193": [
+      "mm/shan/inle"
+    ],
+    "33,192": [
+      "mm/yangon/yangon"
+    ],
+    "88,207": [
+      "mn/omnogovi/bayanzag"
+    ],
+    "87,204": [
+      "mn/omnogovi/khongor"
+    ],
+    "94,205": [
+      "mn/ovorkhangai/kharkhorin"
+    ],
+    "95,214": [
+      "mn/ulaanbaatar/terelj"
+    ],
+    "95,213": [
+      "mn/ulaanbaatar/ulaanbaatar"
+    ],
+    "-1,146": [
+      "mv/gnaviyani/fuvahmulah"
+    ],
+    "13,146": [
+      "mv/haa-alif/utheemu"
+    ],
+    "8,147": [
+      "mv/male/male"
+    ],
+    "11,145": [
+      "mv/raa/vaadhoo"
+    ],
+    "-2,146": [
+      "mv/seenu/addu"
+    ],
+    "6,203": [
+      "my/kuala-lumpur/kuala-lumpur"
+    ],
+    "12,199": [
+      "my/langkawi/langkawi"
+    ],
+    "4,204": [
+      "my/malacca/malacca"
+    ],
+    "8,202": [
+      "my/pahang/cameron-highlands"
+    ],
+    "9,202": [
+      "my/pahang/cameron-highlands"
+    ],
+    "10,200": [
+      "my/penang/george-town"
+    ],
+    "11,232": [
+      "my/sabah/kota-kinabalu"
+    ],
+    "55,170": [
+      "np/bagmati/bhaktapur",
+      "np/bagmati/kathmandu",
+      "np/bagmati/patan"
+    ],
+    "56,167": [
+      "np/gandaki/pokhara"
+    ],
+    "54,166": [
+      "np/lumbini/lumbini"
+    ],
+    "55,166": [
+      "np/lumbini/lumbini"
+    ],
+    "46,114": [
+      "om/ad-dakhiliyah/al-hamra"
+    ],
+    "45,115": [
+      "om/ad-dakhiliyah/nizwa"
+    ],
+    "44,117": [
+      "om/ash-sharqiyah/bidiyah"
+    ],
+    "45,117": [
+      "om/ash-sharqiyah/bidiyah"
+    ],
+    "44,118": [
+      "om/ash-sharqiyah/sur"
+    ],
+    "44,119": [
+      "om/ash-sharqiyah/sur"
+    ],
+    "45,118": [
+      "om/ash-sharqiyah/sur"
+    ],
+    "45,119": [
+      "om/ash-sharqiyah/sur"
+    ],
+    "47,116": [
+      "om/muscat/muscat"
+    ],
+    "47,117": [
+      "om/muscat/muscat"
+    ],
+    "23,243": [
+      "ph/aklan/boracay"
+    ],
+    "32,241": [
+      "ph/benguet/baguio"
+    ],
+    "19,247": [
+      "ph/bohol/panglao"
+    ],
+    "19,248": [
+      "ph/bohol/panglao"
+    ],
+    "20,247": [
+      "ph/cebu/cebu-city"
+    ],
+    "14,251": [
+      "ph/davao/davao-city"
+    ],
+    "35,240": [
+      "ph/ilocos/vigan"
+    ],
+    "29,241": [
+      "ph/metro-manila/manila"
+    ],
+    "29,242": [
+      "ph/metro-manila/manila"
+    ],
+    "22,238": [
+      "ph/palawan/el-nido"
+    ],
+    "19,237": [
+      "ph/palawan/puerto-princesa"
+    ],
+    "72,149": [
+      "pk/gilgit-baltistan/hunza"
+    ],
+    "67,146": [
+      "pk/islamabad/islamabad"
+    ],
+    "63,148": [
+      "pk/punjab/lahore"
+    ],
+    "49,134": [
+      "pk/sindh/karachi"
+    ],
+    "54,136": [
+      "pk/sindh/mohenjo-daro"
+    ],
+    "64,70": [
+      "ps/nablus/nablus",
+      "ps/nablus/sebastia"
+    ],
+    "50,103": [
+      "qa/ad-dawhah/doha",
+      "qa/al-wakrah/al-wakrah"
+    ],
+    "51,102": [
+      "qa/al-khor/al-khor",
+      "qa/al-shamal/al-zubarah"
+    ],
+    "51,103": [
+      "qa/al-khor/al-khor"
+    ],
+    "49,102": [
+      "qa/al-rayyan/sealine"
+    ],
+    "49,103": [
+      "qa/al-rayyan/sealine"
+    ],
+    "2,207": [
+      "sg/singapore/singapore"
+    ],
+    "72,74": [
+      "sy/aleppo/aleppo"
+    ],
+    "67,72": [
+      "sy/damascus/damascus"
+    ],
+    "65,72": [
+      "sy/daraa/bosra"
+    ],
+    "69,72": [
+      "sy/homs/krak-des-chevaliers"
+    ],
+    "69,76": [
+      "sy/homs/palmyra"
+    ],
+    "28,201": [
+      "th/ayutthaya/ayutthaya"
+    ],
+    "27,200": [
+      "th/bangkok/bangkok"
+    ],
+    "27,201": [
+      "th/bangkok/bangkok"
+    ],
+    "37,197": [
+      "th/chiang-mai/chiang-mai"
+    ],
+    "37,198": [
+      "th/chiang-mai/chiang-mai"
+    ],
+    "39,199": [
+      "th/chiang-rai/chiang-rai"
+    ],
+    "25,199": [
+      "th/hua-hin/hua-hin"
+    ],
+    "28,199": [
+      "th/kanchanaburi/kanchanaburi"
+    ],
+    "16,197": [
+      "th/krabi/krabi",
+      "th/krabi/railay"
+    ],
+    "25,201": [
+      "th/pattaya/pattaya"
+    ],
+    "15,196": [
+      "th/phuket/phuket"
+    ],
+    "34,199": [
+      "th/sukhothai/sukhothai"
+    ],
+    "-18,250": [
+      "tl/ainaro/maubisse"
+    ],
+    "-18,251": [
+      "tl/ainaro/maubisse",
+      "tl/dili/dili"
+    ],
+    "-17,252": [
+      "tl/baucau/baucau"
+    ],
+    "-17,251": [
+      "tl/dili/atauro"
+    ],
+    "-17,254": [
+      "tl/lautem/tutuala"
+    ],
+    "73,61": [
+      "tr/antalya/antalya"
+    ],
+    "81,57": [
+      "tr/istanbul/istanbul"
+    ],
+    "81,58": [
+      "tr/istanbul/istanbul"
+    ],
+    "82,57": [
+      "tr/istanbul/istanbul"
+    ],
+    "82,58": [
+      "tr/istanbul/istanbul"
+    ],
+    "75,54": [
+      "tr/izmir/ephesus"
+    ],
+    "74,54": [
+      "tr/mugla/bodrum"
+    ],
+    "73,58": [
+      "tr/mugla/fethiye"
+    ],
+    "77,69": [
+      "tr/nevsehir/cappadocia"
+    ],
+    "48,243": [
+      "tw/hualien/hualien"
+    ],
+    "45,240": [
+      "tw/kaohsiung/kaohsiung",
+      "tw/tainan/tainan"
+    ],
+    "50,243": [
+      "tw/new-taipei/jiufen",
+      "tw/taipei/taipei"
+    ],
+    "46,240": [
+      "tw/tainan/tainan"
+    ],
+    "50,242": [
+      "tw/taipei/taipei"
+    ],
+    "79,128": [
+      "uz/bukhara/bukhara"
+    ],
+    "78,133": [
+      "uz/qashqadaryo/shakhrisabz"
+    ],
+    "79,133": [
+      "uz/samarqand/samarkand"
+    ],
+    "82,138": [
+      "uz/tashkent/tashkent"
+    ],
+    "82,120": [
+      "uz/xorazm/khiva"
+    ],
+    "32,216": [
+      "vn/da-nang/da-nang"
+    ],
+    "42,211": [
+      "vn/hanoi/hanoi"
+    ],
+    "21,213": [
+      "vn/ho-chi-minh/ho-chi-minh-city"
+    ],
+    "24,218": [
+      "vn/khanh-hoa/nha-trang"
+    ],
+    "44,207": [
+      "vn/lao-cai/sapa"
+    ],
+    "31,216": [
+      "vn/quang-nam/hoi-an"
+    ],
+    "41,214": [
+      "vn/quang-ninh/ha-long"
+    ],
+    "32,215": [
+      "vn/thua-thien-hue/hue"
+    ],
+    "25,90": [
+      "ye/aden/aden"
+    ],
+    "28,86": [
+      "ye/al-hudaydah/zabid"
+    ],
+    "31,97": [
+      "ye/hadhramaut/shibam"
+    ],
+    "30,88": [
+      "ye/sanaa/dar-al-hajar",
+      "ye/sanaa/sanaa"
+    ]
+  }
+}

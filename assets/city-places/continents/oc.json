@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "continent": "oc",
+  "generatedAt": "2026-09-30T03:47:16.404Z",
+  "cellDeg": 0.5,
+  "cityCount": 55,
+  "cities": {
+    "au/australian-capital-territory/canberra": {
+      "name": "Canberra",
+      "bbox": {
+        "minLat": -35.31,
+        "minLng": 149.11,
+        "maxLat": -35.28,
+        "maxLng": 149.14
+      }
+    },
+    "au/new-south-wales/blue-mountains": {
+      "name": "Blue Mountains",
+      "bbox": {
+        "minLat": -33.75,
+        "minLng": 150.28,
+        "maxLat": -33.7,
+        "maxLng": 150.35
+      }
+    },
+    "au/new-south-wales/byron-bay": {
+      "name": "Byron Bay",
+      "bbox": {
+        "minLat": -28.65,
+        "minLng": 153.6,
+        "maxLat": -28.63,
+        "maxLng": 153.64
+      }
+    },
+    "au/new-south-wales/sydney": {
+      "name": "Sydney",
+      "bbox": {
+        "minLat": -33.9,
+        "minLng": 151.17,
+        "maxLat": -33.84,
+        "maxLng": 151.25
+      }
+    },
+    "au/northern-territory/darwin": {
+      "name": "Darwin",
+      "bbox": {
+        "minLat": -12.47,
+        "minLng": 130.83,
+        "maxLat": -12.45,
+        "maxLng": 130.85
+      }
+    },
+    "au/northern-territory/uluru": {
+      "name": "Uluru",
+      "bbox": {
+        "minLat": -25.36,
+        "minLng": 131,
+        "maxLat": -25.32,
+        "maxLng": 131.06
+      }
+    },
+    "au/queensland/brisbane": {
+      "name": "Brisbane",
+      "bbox": {
+        "minLat": -27.48,
+        "minLng": 153.01,
+        "maxLat": -27.45,
+        "maxLng": 153.04
+      }
+    },
+    "au/queensland/cairns": {
+      "name": "Cairns",
+      "bbox": {
+        "minLat": -16.93,
+        "minLng": 145.76,
+        "maxLat": -16.9,
+        "maxLng": 145.78
+      }
+    },
+    "au/queensland/gold-coast": {
+      "name": "Gold Coast",
+      "bbox": {
+        "minLat": -28.02,
+        "minLng": 153.4,
+        "maxLat": -27.98,
+        "maxLng": 153.44
+      }
+    },
+    "au/south-australia/adelaide": {
+      "name": "Adelaide",
+      "bbox": {
+        "minLat": -34.94,
+        "minLng": 138.59,
+        "maxLat": -34.91,
+        "maxLng": 138.61
+      }
+    },
+    "au/tasmania/hobart": {
+      "name": "Hobart",
+      "bbox": {
+        "minLat": -42.9,
+        "minLng": 147.32,
+        "maxLat": -42.87,
+        "maxLng": 147.35
+      }
+    },
+    "au/victoria/great-ocean-road": {
+      "name": "Great Ocean Road",
+      "bbox": {
+        "minLat": -38.68,
+        "minLng": 143.05,
+        "maxLat": -38.65,
+        "maxLng": 143.12
+      }
+    },
+    "au/victoria/melbourne": {
+      "name": "Melbourne",
+      "bbox": {
+        "minLat": -37.84,
+        "minLng": 144.94,
+        "maxLat": -37.8,
+        "maxLng": 144.99
+      }
+    },
+    "au/western-australia/perth": {
+      "name": "Perth",
+      "bbox": {
+        "minLat": -31.98,
+        "minLng": 115.84,
+        "maxLat": -31.94,
+        "maxLng": 115.88
+      }
+    },
+    "fj/central/suva": {
+      "name": "Suva",
+      "bbox": {
+        "minLat": -18.1521,
+        "minLng": 178.4217,
+        "maxLat": -18.1386,
+        "maxLng": 178.4449
+      }
+    },
+    "fj/northern/taveuni": {
+      "name": "Taveuni",
+      "bbox": {
+        "minLat": -16.836,
+        "minLng": 179.88,
+        "maxLat": -16.817,
+        "maxLng": 179.953
+      }
+    },
+    "fj/western/nadi": {
+      "name": "Nadi",
+      "bbox": {
+        "minLat": -17.7797,
+        "minLng": 177.4326,
+        "maxLat": -17.7475,
+        "maxLng": 177.484
+      }
+    },
+    "fj/western/navala": {
+      "name": "Navala",
+      "bbox": {
+        "minLat": -17.865,
+        "minLng": 177.747,
+        "maxLat": -17.847,
+        "maxLng": 177.768
+      }
+    },
+    "fj/western/sigatoka": {
+      "name": "Sigatoka",
+      "bbox": {
+        "minLat": -18.208,
+        "minLng": 177.5137,
+        "maxLat": -18.1637,
+        "maxLng": 177.555
+      }
+    },
+    "nz/auckland/auckland": {
+      "name": "Auckland",
+      "bbox": {
+        "minLat": -36.87,
+        "minLng": 174.74,
+        "maxLat": -36.83,
+        "maxLng": 174.78
+      }
+    },
+    "nz/bay-of-plenty/tauranga": {
+      "name": "Tauranga",
+      "bbox": {
+        "minLat": -37.7,
+        "minLng": 176.15,
+        "maxLat": -37.68,
+        "maxLng": 176.18
+      }
+    },
+    "nz/canterbury/christchurch": {
+      "name": "Christchurch",
+      "bbox": {
+        "minLat": -43.54,
+        "minLng": 172.62,
+        "maxLat": -43.52,
+        "maxLng": 172.65
+      }
+    },
+    "nz/canterbury/lake-tekapo": {
+      "name": "Lake Tekapo",
+      "bbox": {
+        "minLat": -44.01,
+        "minLng": 170.47,
+        "maxLat": -43.99,
+        "maxLng": 170.49
+      }
+    },
+    "nz/otago/dunedin": {
+      "name": "Dunedin",
+      "bbox": {
+        "minLat": -45.88,
+        "minLng": 170.49,
+        "maxLat": -45.86,
+        "maxLng": 170.52
+      }
+    },
+    "nz/otago/milford-sound": {
+      "name": "Milford Sound",
+      "bbox": {
+        "minLat": -44.68,
+        "minLng": 167.9,
+        "maxLat": -44.65,
+        "maxLng": 167.93
+      }
+    },
+    "nz/otago/queenstown": {
+      "name": "Queenstown",
+      "bbox": {
+        "minLat": -45.04,
+        "minLng": 168.65,
+        "maxLat": -45.02,
+        "maxLng": 168.68
+      }
+    },
+    "nz/waikato/hobbiton": {
+      "name": "Hobbiton",
+      "bbox": {
+        "minLat": -37.88,
+        "minLng": 175.68,
+        "maxLat": -37.86,
+        "maxLng": 175.69
+      }
+    },
+    "nz/waikato/rotorua": {
+      "name": "Rotorua",
+      "bbox": {
+        "minLat": -38.16,
+        "minLng": 176.24,
+        "maxLat": -38.13,
+        "maxLng": 176.27
+      }
+    },
+    "nz/wellington/wellington": {
+      "name": "Wellington",
+      "bbox": {
+        "minLat": -41.3,
+        "minLng": 174.76,
+        "maxLat": -41.27,
+        "maxLng": 174.79
+      }
+    },
+    "nz/west-coast/franz-josef": {
+      "name": "Franz Josef",
+      "bbox": {
+        "minLat": -43.4,
+        "minLng": 170.18,
+        "maxLat": -43.38,
+        "maxLng": 170.2
+      }
+    },
+    "pg/chimbu/mount-wilhelm": {
+      "name": "Mount Wilhelm",
+      "bbox": {
+        "minLat": -5.803,
+        "minLng": 145.03033,
+        "maxLat": -5.777,
+        "maxLng": 145.053
+      }
+    },
+    "pg/east-new-britain/rabaul": {
+      "name": "Rabaul",
+      "bbox": {
+        "minLat": -4.242,
+        "minLng": 152.18033,
+        "maxLat": -4.197,
+        "maxLng": 152.213
+      }
+    },
+    "pg/madang/madang": {
+      "name": "Madang",
+      "bbox": {
+        "minLat": -5.21967,
+        "minLng": 145.797,
+        "maxLat": -5.207,
+        "maxLng": 145.823
+      }
+    },
+    "pg/ncd/port-moresby": {
+      "name": "Port Moresby",
+      "bbox": {
+        "minLat": -9.4815,
+        "minLng": 147.154,
+        "maxLat": -9.4255,
+        "maxLng": 147.191
+      }
+    },
+    "pg/oro/kokoda": {
+      "name": "Kokoda",
+      "bbox": {
+        "minLat": -8.893,
+        "minLng": 147.73,
+        "maxLat": -8.88,
+        "maxLng": 147.743
+      }
+    },
+    "sb/central/tulagi": {
+      "name": "Tulagi",
+      "bbox": {
+        "minLat": -9.108,
+        "minLng": 160.14367,
+        "maxLat": -9.09839,
+        "maxLng": 160.153
+      }
+    },
+    "sb/guadalcanal/bonegi": {
+      "name": "Bonegi",
+      "bbox": {
+        "minLat": -9.483,
+        "minLng": 159.877,
+        "maxLat": -9.402,
+        "maxLng": 159.973
+      }
+    },
+    "sb/guadalcanal/honiara": {
+      "name": "Honiara",
+      "bbox": {
+        "minLat": -9.44561,
+        "minLng": 159.95256,
+        "maxLat": -9.42894,
+        "maxLng": 159.96051
+      }
+    },
+    "sb/western/gizo": {
+      "name": "Gizo",
+      "bbox": {
+        "minLat": -8.108,
+        "minLng": 156.842,
+        "maxLat": -8.087,
+        "maxLng": 156.863
+      }
+    },
+    "sb/western/munda": {
+      "name": "Munda",
+      "bbox": {
+        "minLat": -8.453,
+        "minLng": 157.26783,
+        "maxLat": -8.32506,
+        "maxLng": 158.053
+      }
+    },
+    "to/eua/eua": {
+      "name": "'Eua",
+      "bbox": {
+        "minLat": -21.393,
+        "minLng": -174.933,
+        "maxLat": -21.377,
+        "maxLng": -174.917
+      }
+    },
+    "to/tongatapu/houma": {
+      "name": "Houma",
+      "bbox": {
+        "minLat": -21.171,
+        "minLng": -175.258,
+        "maxLat": -21.162,
+        "maxLng": -175.247
+      }
+    },
+    "to/tongatapu/niutoua": {
+      "name": "Niutoua",
+      "bbox": {
+        "minLat": -21.143,
+        "minLng": -175.103,
+        "maxLat": -21.13367,
+        "maxLng": -175.04506
+      }
+    },
+    "to/tongatapu/nukualofa": {
+      "name": "Nuku'alofa",
+      "bbox": {
+        "minLat": -21.13633,
+        "minLng": -175.203,
+        "maxLat": -21.1175,
+        "maxLng": -175.152
+      }
+    },
+    "to/vavau/neiafu": {
+      "name": "Neiafu",
+      "bbox": {
+        "minLat": -18.6538,
+        "minLng": -173.9865,
+        "maxLat": -18.637,
+        "maxLng": -173.977
+      }
+    },
+    "vu/sanma/espiritu-santo": {
+      "name": "Espiritu Santo",
+      "bbox": {
+        "minLat": -15.486,
+        "minLng": 167.116,
+        "maxLat": -15.142,
+        "maxLng": 167.178
+      }
+    },
+    "vu/sanma/luganville": {
+      "name": "Luganville",
+      "bbox": {
+        "minLat": -15.533,
+        "minLng": 167.173,
+        "maxLat": -15.509,
+        "maxLng": 167.183
+      }
+    },
+    "vu/shefa/efate": {
+      "name": "Efate",
+      "bbox": {
+        "minLat": -17.698,
+        "minLng": 168.212,
+        "maxLat": -17.601,
+        "maxLng": 168.265
+      }
+    },
+    "vu/shefa/port-vila": {
+      "name": "Port Vila",
+      "bbox": {
+        "minLat": -17.73633,
+        "minLng": 168.262,
+        "maxLat": -17.677,
+        "maxLng": 168.31967
+      }
+    },
+    "vu/tafea/tanna": {
+      "name": "Tanna",
+      "bbox": {
+        "minLat": -19.53133,
+        "minLng": 169.437,
+        "maxLat": -19.517,
+        "maxLng": 169.45133
+      }
+    },
+    "ws/atua/lotofaga": {
+      "name": "Lotofaga",
+      "bbox": {
+        "minLat": -14.04828,
+        "minLng": -171.483,
+        "maxLat": -14.017,
+        "maxLng": -171.43783
+      }
+    },
+    "ws/gagaifomauga/saleaula": {
+      "name": "Saleaula",
+      "bbox": {
+        "minLat": -13.455,
+        "minLng": -172.338,
+        "maxLat": -13.44709,
+        "maxLng": -172.33049
+      }
+    },
+    "ws/palauli/taga": {
+      "name": "Taga",
+      "bbox": {
+        "minLat": -13.808,
+        "minLng": -172.528,
+        "maxLat": -13.7992,
+        "maxLng": -172.5167
+      }
+    },
+    "ws/tuamasaga/apia": {
+      "name": "Apia",
+      "bbox": {
+        "minLat": -13.8675,
+        "minLng": -171.753,
+        "maxLat": -13.83033,
+        "maxLng": -171.737
+      }
+    },
+    "ws/tuamasaga/piula": {
+      "name": "Piula",
+      "bbox": {
+        "minLat": -13.878,
+        "minLng": -171.803,
+        "maxLat": -13.857,
+        "maxLng": -171.597
+      }
+    }
+  },
+  "cells": {
+    "-71,298": [
+      "au/australian-capital-territory/canberra"
+    ],
+    "-68,300": [
+      "au/new-south-wales/blue-mountains"
+    ],
+    "-58,307": [
+      "au/new-south-wales/byron-bay"
+    ],
+    "-68,302": [
+      "au/new-south-wales/sydney"
+    ],
+    "-25,261": [
+      "au/northern-territory/darwin"
+    ],
+    "-51,262": [
+      "au/northern-territory/uluru"
+    ],
+    "-55,306": [
+      "au/queensland/brisbane"
+    ],
+    "-34,291": [
+      "au/queensland/cairns"
+    ],
+    "-57,306": [
+      "au/queensland/gold-coast"
+    ],
+    "-56,306": [
+      "au/queensland/gold-coast"
+    ],
+    "-70,277": [
+      "au/south-australia/adelaide"
+    ],
+    "-86,294": [
+      "au/tasmania/hobart"
+    ],
+    "-78,286": [
+      "au/victoria/great-ocean-road"
+    ],
+    "-76,289": [
+      "au/victoria/melbourne"
+    ],
+    "-64,231": [
+      "au/western-australia/perth"
+    ],
+    "-37,356": [
+      "fj/central/suva"
+    ],
+    "-34,359": [
+      "fj/northern/taveuni"
+    ],
+    "-36,354": [
+      "fj/western/nadi"
+    ],
+    "-36,355": [
+      "fj/western/navala"
+    ],
+    "-37,355": [
+      "fj/western/sigatoka"
+    ],
+    "-74,349": [
+      "nz/auckland/auckland"
+    ],
+    "-76,352": [
+      "nz/bay-of-plenty/tauranga"
+    ],
+    "-88,345": [
+      "nz/canterbury/christchurch"
+    ],
+    "-89,340": [
+      "nz/canterbury/lake-tekapo"
+    ],
+    "-88,340": [
+      "nz/canterbury/lake-tekapo"
+    ],
+    "-92,340": [
+      "nz/otago/dunedin"
+    ],
+    "-92,341": [
+      "nz/otago/dunedin"
+    ],
+    "-90,335": [
+      "nz/otago/milford-sound"
+    ],
+    "-91,337": [
+      "nz/otago/queenstown"
+    ],
+    "-76,351": [
+      "nz/waikato/hobbiton"
+    ],
+    "-77,352": [
+      "nz/waikato/rotorua"
+    ],
+    "-83,349": [
+      "nz/wellington/wellington"
+    ],
+    "-87,340": [
+      "nz/west-coast/franz-josef"
+    ],
+    "-12,290": [
+      "pg/chimbu/mount-wilhelm"
+    ],
+    "-9,304": [
+      "pg/east-new-britain/rabaul"
+    ],
+    "-11,291": [
+      "pg/madang/madang"
+    ],
+    "-19,294": [
+      "pg/ncd/port-moresby"
+    ],
+    "-18,295": [
+      "pg/oro/kokoda"
+    ],
+    "-19,320": [
+      "sb/central/tulagi"
+    ],
+    "-19,319": [
+      "sb/guadalcanal/bonegi",
+      "sb/guadalcanal/honiara"
+    ],
+    "-17,313": [
+      "sb/western/gizo"
+    ],
+    "-17,314": [
+      "sb/western/munda"
+    ],
+    "-17,315": [
+      "sb/western/munda"
+    ],
+    "-17,316": [
+      "sb/western/munda"
+    ],
+    "-43,-350": [
+      "to/eua/eua"
+    ],
+    "-43,-351": [
+      "to/tongatapu/houma",
+      "to/tongatapu/niutoua",
+      "to/tongatapu/nukualofa"
+    ],
+    "-38,-348": [
+      "to/vavau/neiafu"
+    ],
+    "-31,334": [
+      "vu/sanma/espiritu-santo"
+    ],
+    "-32,334": [
+      "vu/sanma/luganville"
+    ],
+    "-36,336": [
+      "vu/shefa/efate",
+      "vu/shefa/port-vila"
+    ],
+    "-40,338": [
+      "vu/tafea/tanna"
+    ],
+    "-29,-343": [
+      "ws/atua/lotofaga"
+    ],
+    "-27,-345": [
+      "ws/gagaifomauga/saleaula"
+    ],
+    "-28,-346": [
+      "ws/palauli/taga"
+    ],
+    "-28,-344": [
+      "ws/tuamasaga/apia",
+      "ws/tuamasaga/piula"
+    ]
+  }
+}

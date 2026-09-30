@@ -376,7 +376,10 @@ Do **not** embed the full `index.json` in the app. It is large and full of progr
 ```bash
 pnpm city-places:catalog
 # → assets/city-places/city-entry-catalog.json
+# → assets/city-places/continents/{af,as,eu,na,oc,sa}.json
 ```
+
+The combined file is the full list. The app does not download it. It downloads the six continent files (same shape, plus `"continent"`). GPS matching keeps only the continent the user is standing in parsed in memory. Crossing into another continent loads that file from disk. A country id missing from the generator's continent map fails the script.
 
 Output shape (app-facing; not the full index):
 
@@ -520,9 +523,9 @@ Agents: run this checklist without the human re-pasting it (see **START HERE**).
 
 When a user visits a curated city (complete pack in lean catalog):
 
-1. GPS persist (cell-gated) resolves city from `assets/city-places/city-entry-catalog.json` (`cells` + `bbox`).
+1. GPS persist (cell-gated) resolves city from the **active continent** file (`cells` + `bbox`). A tiny square→continent index, built when Journey is turned on, picks the file. Same square does no continent work. A new continent loads that file from disk. No catalog download on GPS.
 2. Map shows non-dismissable **Welcome to {name}** (`Close` = decline, `Track achievements` = download).
-3. Cold start refreshes remote catalog at most every 24h (configurable); never on GPS.
+3. Turning Journey on downloads all six continent catalogs while the user watches. Cold start reads that cache only — it never fetches, and it parses only the last continent the user was in.
 4. Track downloads `city.json` + `badges/` from jsDelivr (`data/city-places/...`) into Documents + SQLite.
 5. Achievements shows tracked city sections (locked grayscale / unlocked color).
 6. When a stay **seals** (today’s sealable prefix on refresh, or yesterday finalize), centroids within `radiusM` unlock that city’s places and Map can celebrate the same day — not “tomorrow only”.
@@ -537,7 +540,7 @@ Babysit agents only produce packs + progress. They do not change app unlock code
 - [ ] `city.json` valid (0–20 places, required fields present)
 - [ ] Each place has framed `badges/{id}.png` (512×512, gold frame)
 - [ ] Index city row: `status: complete`, `placeCount` set, `completedAt` set, **`bbox` copied from `city.json`**
-- [ ] `pnpm city-places:catalog` regenerated (`assets/city-places/city-entry-catalog.json` includes the city)
+- [ ] `pnpm city-places:catalog` regenerated (`assets/city-places/city-entry-catalog.json` and `assets/city-places/continents/*.json` include the city)
 - [ ] Changes committed and **pushed to `main` on LifeMap-city-places** (not LifeMap)
 - [ ] `cursor` advanced
 - [ ] Place selection followed; no invented criteria

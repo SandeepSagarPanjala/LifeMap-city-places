@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 1,
+  "continent": "sa",
+  "generatedAt": "2026-09-30T03:47:16.404Z",
+  "cellDeg": 0.5,
+  "cityCount": 47,
+  "cities": {
+    "ar/buenos-aires/buenos-aires": {
+      "name": "Buenos Aires",
+      "bbox": {
+        "minLat": -34.65,
+        "minLng": -58.4,
+        "maxLat": -34.58,
+        "maxLng": -58.35
+      }
+    },
+    "ar/mendoza/mendoza": {
+      "name": "Mendoza",
+      "bbox": {
+        "minLat": -33,
+        "minLng": -68.9,
+        "maxLat": -32.85,
+        "maxLng": -68.8
+      }
+    },
+    "ar/misiones/puerto-iguazu": {
+      "name": "Puerto Iguazu",
+      "bbox": {
+        "minLat": -25.7,
+        "minLng": -54.5,
+        "maxLat": -25.65,
+        "maxLng": -54.42
+      }
+    },
+    "ar/rio-negro/bariloche": {
+      "name": "Bariloche",
+      "bbox": {
+        "minLat": -41.16,
+        "minLng": -71.32,
+        "maxLat": -41.12,
+        "maxLng": -71.28
+      }
+    },
+    "ar/salta/salta": {
+      "name": "Salta",
+      "bbox": {
+        "minLat": -24.8,
+        "minLng": -65.45,
+        "maxLat": -24.75,
+        "maxLng": -65.4
+      }
+    },
+    "ar/tierra-del-fuego/ushuaia": {
+      "name": "Ushuaia",
+      "bbox": {
+        "minLat": -54.82,
+        "minLng": -68.32,
+        "maxLat": -54.78,
+        "maxLng": -68.28
+      }
+    },
+    "bo/chuquisaca/sucre": {
+      "name": "Sucre",
+      "bbox": {
+        "minLat": -19.055,
+        "minLng": -65.265,
+        "maxLat": -19.04,
+        "maxLng": -65.245
+      }
+    },
+    "bo/la-paz/copacabana": {
+      "name": "Copacabana",
+      "bbox": {
+        "minLat": -16.18,
+        "minLng": -69.18,
+        "maxLat": -16,
+        "maxLng": -69.07
+      }
+    },
+    "bo/la-paz/la-paz": {
+      "name": "La Paz",
+      "bbox": {
+        "minLat": -16.575,
+        "minLng": -68.145,
+        "maxLat": -16.485,
+        "maxLng": -68.085
+      }
+    },
+    "bo/potosi/potosi": {
+      "name": "Potosi",
+      "bbox": {
+        "minLat": -19.625,
+        "minLng": -65.76,
+        "maxLat": -19.575,
+        "maxLng": -65.74
+      }
+    },
+    "bo/potosi/uyuni": {
+      "name": "Uyuni",
+      "bbox": {
+        "minLat": -20.48,
+        "minLng": -67.55,
+        "maxLat": -20.13,
+        "maxLng": -66.8
+      }
+    },
+    "br/amazonas/manaus": {
+      "name": "Manaus",
+      "bbox": {
+        "minLat": -3.16,
+        "minLng": -60.04,
+        "maxLat": -3.1,
+        "maxLng": -59.98
+      }
+    },
+    "br/bahia/salvador": {
+      "name": "Salvador",
+      "bbox": {
+        "minLat": -13.02,
+        "minLng": -38.53,
+        "maxLat": -12.96,
+        "maxLng": -38.48
+      }
+    },
+    "br/distrito-federal/brasilia": {
+      "name": "Brasília",
+      "bbox": {
+        "minLat": -15.84,
+        "minLng": -47.93,
+        "maxLat": -15.75,
+        "maxLng": -47.86
+      }
+    },
+    "br/minas-gerais/ouro-preto": {
+      "name": "Ouro Preto",
+      "bbox": {
+        "minLat": -20.4,
+        "minLng": -43.52,
+        "maxLat": -20.38,
+        "maxLng": -43.49
+      }
+    },
+    "br/parana/curitiba": {
+      "name": "Curitiba",
+      "bbox": {
+        "minLat": -25.47,
+        "minLng": -49.32,
+        "maxLat": -25.4,
+        "maxLng": -49.24
+      }
+    },
+    "br/parana/foz-do-iguacu": {
+      "name": "Foz do Iguaçu",
+      "bbox": {
+        "minLat": -25.7,
+        "minLng": -54.6,
+        "maxLat": -25.38,
+        "maxLng": -54.38
+      }
+    },
+    "br/pernambuco/olinda": {
+      "name": "Olinda",
+      "bbox": {
+        "minLat": -8.02,
+        "minLng": -34.86,
+        "maxLat": -7.99,
+        "maxLng": -34.84
+      }
+    },
+    "br/pernambuco/recife": {
+      "name": "Recife",
+      "bbox": {
+        "minLat": -8.1,
+        "minLng": -34.98,
+        "maxLat": -8.04,
+        "maxLng": -34.86
+      }
+    },
+    "br/rio-de-janeiro/rio-de-janeiro": {
+      "name": "Rio de Janeiro",
+      "bbox": {
+        "minLat": -23.02,
+        "minLng": -43.3,
+        "maxLat": -22.9,
+        "maxLng": -43.16
+      }
+    },
+    "br/santa-catarina/florianopolis": {
+      "name": "Florianópolis",
+      "bbox": {
+        "minLat": -27.62,
+        "minLng": -48.58,
+        "maxLat": -27.42,
+        "maxLng": -48.38
+      }
+    },
+    "br/sao-paulo/sao-paulo": {
+      "name": "São Paulo",
+      "bbox": {
+        "minLat": -23.62,
+        "minLng": -46.68,
+        "maxLat": -23.52,
+        "maxLng": -46.62
+      }
+    },
+    "cl/atacama/san-pedro-de-atacama": {
+      "name": "San Pedro de Atacama",
+      "bbox": {
+        "minLat": -22.92,
+        "minLng": -68.22,
+        "maxLat": -22.89,
+        "maxLng": -68.19
+      }
+    },
+    "cl/magallanes/puerto-natales": {
+      "name": "Puerto Natales",
+      "bbox": {
+        "minLat": -51.05,
+        "minLng": -72.55,
+        "maxLat": -50.95,
+        "maxLng": -72.45
+      }
+    },
+    "cl/metropolitan/santiago": {
+      "name": "Santiago",
+      "bbox": {
+        "minLat": -33.48,
+        "minLng": -70.68,
+        "maxLat": -33.42,
+        "maxLng": -70.62
+      }
+    },
+    "cl/valparaiso/valparaiso": {
+      "name": "Valparaiso",
+      "bbox": {
+        "minLat": -33.06,
+        "minLng": -71.64,
+        "maxLat": -33.03,
+        "maxLng": -71.6
+      }
+    },
+    "cl/valparaiso/vina-del-mar": {
+      "name": "Vina del Mar",
+      "bbox": {
+        "minLat": -33.02,
+        "minLng": -71.58,
+        "maxLat": -33,
+        "maxLng": -71.54
+      }
+    },
+    "co/antioquia/medellin": {
+      "name": "Medellin",
+      "bbox": {
+        "minLat": 6.22,
+        "minLng": -75.59,
+        "maxLat": 6.27,
+        "maxLng": -75.55
+      }
+    },
+    "co/bogota/bogota": {
+      "name": "Bogota",
+      "bbox": {
+        "minLat": 4.58,
+        "minLng": -74.1,
+        "maxLat": 4.65,
+        "maxLng": -74.05
+      }
+    },
+    "co/bolivar/cartagena": {
+      "name": "Cartagena",
+      "bbox": {
+        "minLat": 10.38,
+        "minLng": -75.55,
+        "maxLat": 10.42,
+        "maxLng": -75.52
+      }
+    },
+    "co/magdalena/santa-marta": {
+      "name": "Santa Marta",
+      "bbox": {
+        "minLat": 11.22,
+        "minLng": -74.22,
+        "maxLat": 11.26,
+        "maxLng": -74.18
+      }
+    },
+    "co/quindio/salento": {
+      "name": "Salento",
+      "bbox": {
+        "minLat": 4.62,
+        "minLng": -75.58,
+        "maxLat": 4.65,
+        "maxLng": -75.55
+      }
+    },
+    "ec/azuay/cuenca": {
+      "name": "Cuenca",
+      "bbox": {
+        "minLat": -2.905,
+        "minLng": -79.01,
+        "maxLat": -2.895,
+        "maxLng": -79
+      }
+    },
+    "ec/galapagos/puerto-ayora": {
+      "name": "Puerto Ayora",
+      "bbox": {
+        "minLat": -0.77,
+        "minLng": -90.33,
+        "maxLat": -0.73,
+        "maxLng": -90.29
+      }
+    },
+    "ec/imbabura/otavalo": {
+      "name": "Otavalo",
+      "bbox": {
+        "minLat": 0.22,
+        "minLng": -78.27,
+        "maxLat": 0.32,
+        "maxLng": -78.23
+      }
+    },
+    "ec/pichincha/quito": {
+      "name": "Quito",
+      "bbox": {
+        "minLat": -0.23,
+        "minLng": -78.53,
+        "maxLat": -0.2,
+        "maxLng": -78.48
+      }
+    },
+    "ec/tungurahua/banos": {
+      "name": "Banos",
+      "bbox": {
+        "minLat": -1.405,
+        "minLng": -78.445,
+        "maxLat": -1.385,
+        "maxLng": -78.415
+      }
+    },
+    "pe/arequipa/arequipa": {
+      "name": "Arequipa",
+      "bbox": {
+        "minLat": -16.41,
+        "minLng": -71.55,
+        "maxLat": -16.38,
+        "maxLng": -71.52
+      }
+    },
+    "pe/cusco/cusco": {
+      "name": "Cusco",
+      "bbox": {
+        "minLat": -13.53,
+        "minLng": -71.98,
+        "maxLat": -13.5,
+        "maxLng": -71.95
+      }
+    },
+    "pe/cusco/machu-picchu": {
+      "name": "Machu Picchu",
+      "bbox": {
+        "minLat": -13.18,
+        "minLng": -72.55,
+        "maxLat": -13.15,
+        "maxLng": -72.52
+      }
+    },
+    "pe/lima/lima": {
+      "name": "Lima",
+      "bbox": {
+        "minLat": -12.15,
+        "minLng": -77.05,
+        "maxLat": -12.05,
+        "maxLng": -77
+      }
+    },
+    "pe/puno/puno": {
+      "name": "Puno",
+      "bbox": {
+        "minLat": -16,
+        "minLng": -70.05,
+        "maxLat": -15.82,
+        "maxLng": -69.8
+      }
+    },
+    "uy/canelones/piriapolis": {
+      "name": "Piriapolis",
+      "bbox": {
+        "minLat": -34.875,
+        "minLng": -55.285,
+        "maxLat": -34.855,
+        "maxLng": -55.265
+      }
+    },
+    "uy/colonia/colonia": {
+      "name": "Colonia del Sacramento",
+      "bbox": {
+        "minLat": -34.478,
+        "minLng": -57.855,
+        "maxLat": -34.465,
+        "maxLng": -57.838
+      }
+    },
+    "uy/maldonado/punta-del-este": {
+      "name": "Punta del Este",
+      "bbox": {
+        "minLat": -34.965,
+        "minLng": -54.945,
+        "maxLat": -34.955,
+        "maxLng": -54.925
+      }
+    },
+    "uy/montevideo/montevideo": {
+      "name": "Montevideo",
+      "bbox": {
+        "minLat": -34.915,
+        "minLng": -56.22,
+        "maxLat": -34.895,
+        "maxLng": -56.19
+      }
+    },
+    "uy/rocha/cabo-polonio": {
+      "name": "Cabo Polonio",
+      "bbox": {
+        "minLat": -34.415,
+        "minLng": -53.805,
+        "maxLat": -34.395,
+        "maxLng": -53.775
+      }
+    }
+  },
+  "cells": {
+    "-70,-117": [
+      "ar/buenos-aires/buenos-aires"
+    ],
+    "-66,-138": [
+      "ar/mendoza/mendoza"
+    ],
+    "-52,-109": [
+      "ar/misiones/puerto-iguazu",
+      "br/parana/foz-do-iguacu"
+    ],
+    "-83,-143": [
+      "ar/rio-negro/bariloche"
+    ],
+    "-50,-131": [
+      "ar/salta/salta"
+    ],
+    "-110,-137": [
+      "ar/tierra-del-fuego/ushuaia"
+    ],
+    "-39,-131": [
+      "bo/chuquisaca/sucre"
+    ],
+    "-33,-139": [
+      "bo/la-paz/copacabana"
+    ],
+    "-32,-139": [
+      "bo/la-paz/copacabana"
+    ],
+    "-34,-137": [
+      "bo/la-paz/la-paz"
+    ],
+    "-33,-137": [
+      "bo/la-paz/la-paz"
+    ],
+    "-40,-132": [
+      "bo/potosi/potosi"
+    ],
+    "-41,-136": [
+      "bo/potosi/uyuni"
+    ],
+    "-41,-135": [
+      "bo/potosi/uyuni"
+    ],
+    "-41,-134": [
+      "bo/potosi/uyuni"
+    ],
+    "-7,-121": [
+      "br/amazonas/manaus"
+    ],
+    "-7,-120": [
+      "br/amazonas/manaus"
+    ],
+    "-27,-78": [
+      "br/bahia/salvador"
+    ],
+    "-27,-77": [
+      "br/bahia/salvador"
+    ],
+    "-26,-78": [
+      "br/bahia/salvador"
+    ],
+    "-26,-77": [
+      "br/bahia/salvador"
+    ],
+    "-32,-96": [
+      "br/distrito-federal/brasilia"
+    ],
+    "-41,-88": [
+      "br/minas-gerais/ouro-preto"
+    ],
+    "-41,-87": [
+      "br/minas-gerais/ouro-preto"
+    ],
+    "-51,-99": [
+      "br/parana/curitiba"
+    ],
+    "-52,-110": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-51,-110": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-51,-109": [
+      "br/parana/foz-do-iguacu"
+    ],
+    "-17,-70": [
+      "br/pernambuco/olinda",
+      "br/pernambuco/recife"
+    ],
+    "-16,-70": [
+      "br/pernambuco/olinda"
+    ],
+    "-47,-87": [
+      "br/rio-de-janeiro/rio-de-janeiro"
+    ],
+    "-46,-87": [
+      "br/rio-de-janeiro/rio-de-janeiro"
+    ],
+    "-56,-98": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-56,-97": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-55,-98": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-55,-97": [
+      "br/santa-catarina/florianopolis"
+    ],
+    "-48,-94": [
+      "br/sao-paulo/sao-paulo"
+    ],
+    "-46,-137": [
+      "cl/atacama/san-pedro-de-atacama"
+    ],
+    "-103,-146": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-103,-145": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-102,-146": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-102,-145": [
+      "cl/magallanes/puerto-natales"
+    ],
+    "-67,-142": [
+      "cl/metropolitan/santiago"
+    ],
+    "-67,-144": [
+      "cl/valparaiso/valparaiso",
+      "cl/valparaiso/vina-del-mar"
+    ],
+    "-66,-144": [
+      "cl/valparaiso/vina-del-mar"
+    ],
+    "12,-152": [
+      "co/antioquia/medellin"
+    ],
+    "9,-149": [
+      "co/bogota/bogota"
+    ],
+    "20,-152": [
+      "co/bolivar/cartagena"
+    ],
+    "22,-149": [
+      "co/magdalena/santa-marta"
+    ],
+    "9,-152": [
+      "co/quindio/salento"
+    ],
+    "-6,-159": [
+      "ec/azuay/cuenca"
+    ],
+    "-6,-158": [
+      "ec/azuay/cuenca"
+    ],
+    "-2,-181": [
+      "ec/galapagos/puerto-ayora"
+    ],
+    "0,-157": [
+      "ec/imbabura/otavalo"
+    ],
+    "-1,-158": [
+      "ec/pichincha/quito"
+    ],
+    "-1,-157": [
+      "ec/pichincha/quito"
+    ],
+    "-3,-157": [
+      "ec/tungurahua/banos"
+    ],
+    "-33,-144": [
+      "pe/arequipa/arequipa"
+    ],
+    "-28,-144": [
+      "pe/cusco/cusco"
+    ],
+    "-27,-144": [
+      "pe/cusco/cusco"
+    ],
+    "-27,-146": [
+      "pe/cusco/machu-picchu"
+    ],
+    "-25,-155": [
+      "pe/lima/lima"
+    ],
+    "-25,-154": [
+      "pe/lima/lima"
+    ],
+    "-32,-141": [
+      "pe/puno/puno"
+    ],
+    "-32,-140": [
+      "pe/puno/puno"
+    ],
+    "-70,-111": [
+      "uy/canelones/piriapolis"
+    ],
+    "-69,-116": [
+      "uy/colonia/colonia"
+    ],
+    "-70,-110": [
+      "uy/maldonado/punta-del-este"
+    ],
+    "-70,-113": [
+      "uy/montevideo/montevideo"
+    ],
+    "-69,-108": [
+      "uy/rocha/cabo-polonio"
+    ]
+  }
+}
