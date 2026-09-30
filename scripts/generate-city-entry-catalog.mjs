@@ -22,6 +22,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const INDEX_PATH = path.join(ROOT, 'data/city-places/index.json');
 const OUT_PATH = path.join(ROOT, 'assets/city-places/city-entry-catalog.json');
+const GEOGRAPHY_PATH = path.join(ROOT, 'assets/city-places/geography.json');
 const CONTINENTS_DIR = path.join(ROOT, 'assets/city-places/continents');
 
 /** ~55 km cells — matches city-places plan. */
@@ -99,6 +100,56 @@ function cellKeysForBbox(bbox) {
   return keys;
 }
 
+function writeGeography(index) {
+  /** @type {{ id: string, name: string, states: { id: string, name: string, cities: { id: string, name: string }[] }[] }[]} */
+  const countries = [];
+  for (const country of index.countries ?? []) {
+    if (typeof country.id !== 'string' || typeof country.name !== 'string') {
+      continue;
+    }
+    /** @type {{ id: string, name: string, cities: { id: string, name: string }[] }[]} */
+    const states = [];
+    for (const state of country.states ?? []) {
+      if (typeof state.id !== 'string' || typeof state.name !== 'string') {
+        continue;
+      }
+      /** @type {{ id: string, name: string }[]} */
+      const cities = [];
+      for (const city of state.cities ?? []) {
+        if (city.status !== 'complete') {
+          continue;
+        }
+        if (typeof city.id !== 'string' || typeof city.name !== 'string') {
+          continue;
+        }
+        cities.push({ id: city.id, name: city.name });
+      }
+      if (cities.length === 0) {
+        continue;
+      }
+      cities.sort((a, b) => a.name.localeCompare(b.name));
+      states.push({ id: state.id, name: state.name, cities });
+    }
+    if (states.length === 0) {
+      continue;
+    }
+    states.sort((a, b) => a.name.localeCompare(b.name));
+    countries.push({ id: country.id, name: country.name, states });
+  }
+  countries.sort((a, b) => a.name.localeCompare(b.name));
+  const geography = { schemaVersion: 1, countries };
+  fs.mkdirSync(path.dirname(GEOGRAPHY_PATH), { recursive: true });
+  fs.writeFileSync(GEOGRAPHY_PATH, `${JSON.stringify(geography)}\n`);
+  const cityCount = countries.reduce(
+    (sum, country) =>
+      sum + country.states.reduce((inner, state) => inner + state.cities.length, 0),
+    0,
+  );
+  console.log(
+    `Wrote ${countries.length} countries, ${cityCount} cities → ${path.relative(ROOT, GEOGRAPHY_PATH)}`,
+  );
+}
+
 function main() {
   if (!fs.existsSync(INDEX_PATH)) {
     console.error(`Missing index: ${INDEX_PATH}`);
@@ -106,6 +157,10 @@ function main() {
   }
 
   const index = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8'));
+  if (process.argv.includes('--geography-only')) {
+    writeGeography(index);
+    return;
+  }
   /** @type {Record<string, { name: string, bbox: { minLat: number, minLng: number, maxLat: number, maxLng: number } }>} */
   const cities = {};
   /** @type {string[]} */
@@ -242,6 +297,8 @@ function main() {
       `Wrote ${continentCatalog.cityCount} cities → ${path.relative(ROOT, out)}`,
     );
   }
+  writeGeography(index);
+
   if (overlaps.length > 0) {
     console.warn(
       `Shared squares across continents (${overlaps.length}). GPS uses the first continent for that square:`,

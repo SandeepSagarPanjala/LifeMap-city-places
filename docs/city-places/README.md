@@ -377,6 +377,7 @@ Do **not** embed the full `index.json` in the app. It is large and full of progr
 pnpm city-places:catalog
 # → assets/city-places/city-entry-catalog.json
 # → assets/city-places/continents/{af,as,eu,na,oc,sa}.json
+# → assets/city-places/geography.json
 ```
 
 The combined file is the full list. The app does not download it. It downloads the six continent files (same shape, plus `"continent"`). GPS matching keeps only the continent the user is standing in parsed in memory. Crossing into another continent loads that file from disk. A country id missing from the generator's continent map fails the script.

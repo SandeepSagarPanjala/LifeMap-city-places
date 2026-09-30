@@ -9,6 +9,7 @@ LifeMap itself is private. Packs must live here so the app can fetch them over C
 - Packs: `https://cdn.jsdelivr.net/gh/SandeepSagarPanjala/LifeMap-city-places@main/data/city-places/`
 - Entry catalog (all continents, kept for reference): `https://cdn.jsdelivr.net/gh/SandeepSagarPanjala/LifeMap-city-places@main/assets/city-places/city-entry-catalog.json`
 - Continent catalogs the app downloads: `https://cdn.jsdelivr.net/gh/SandeepSagarPanjala/LifeMap-city-places@main/assets/city-places/continents/{af,as,eu,na,oc,sa}.json`
+- Explore tree (country / state / city names only): `https://cdn.jsdelivr.net/gh/SandeepSagarPanjala/LifeMap-city-places@main/assets/city-places/geography.json`
 
 ## Babysit / `go` work
 
