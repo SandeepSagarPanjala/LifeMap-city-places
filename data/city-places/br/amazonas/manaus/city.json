@@ -12,7 +12,7 @@
     "maxLat": -3.1,
     "maxLng": -59.98
   },
-  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "updatedAt": "2026-10-01T07:24:34.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 80,
       "address": "Centro Hist\u00f3rico",
       "howTo": "Visit Teatro Amazonas.",
-      "badge": "badges/teatro-amazonas.png"
+      "badge": "badges/teatro-amazonas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -3.13012,
+              -60.02371
+            ],
+            [
+              -3.13014,
+              -60.02315
+            ],
+            [
+              -3.13021,
+              -60.02315
+            ],
+            [
+              -3.13021,
+              -60.02309
+            ],
+            [
+              -3.13037,
+              -60.02309
+            ],
+            [
+              -3.13036,
+              -60.02315
+            ],
+            [
+              -3.13042,
+              -60.02316
+            ],
+            [
+              -3.13039,
+              -60.02372
+            ],
+            [
+              -3.13012,
+              -60.02371
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "meeting-of-waters",
@@ -38,12 +81,40 @@
     {
       "id": "mercado-municipal-manaus",
       "name": "Mercado Municipal Adolpho Lisboa",
-      "lat": -3.1368,
-      "lng": -60.0235,
+      "lat": -3.13612,
+      "lng": -60.02499,
       "radiusM": 100,
       "address": "Porto de Manaus",
       "howTo": "Visit Mercado Municipal Adolpho Lisboa.",
-      "badge": "badges/mercado-municipal-manaus.png"
+      "badge": "badges/mercado-municipal-manaus.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -3.13608,
+              -60.02499
+            ],
+            [
+              -3.13611,
+              -60.02495
+            ],
+            [
+              -3.13617,
+              -60.02499
+            ],
+            [
+              -3.13614,
+              -60.02503
+            ],
+            [
+              -3.13608,
+              -60.02499
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     }
   ]
 }

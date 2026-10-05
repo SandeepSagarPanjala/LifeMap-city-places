@@ -12,7 +12,7 @@
     "maxLat": 22.66,
     "maxLng": 120.29
   },
-  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "updatedAt": "2026-10-03T00:56:31.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "pier-2",
       "name": "Pier-2 Art Center",
-      "lat": 22.6203,
-      "lng": 120.2816,
+      "lat": 22.61866,
+      "lng": 120.28308,
       "radiusM": 180,
       "address": "Yancheng District",
       "howTo": "Visit Pier-2 Art Center.",
-      "badge": "badges/pier-2.png"
+      "badge": "badges/pier-2.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.61862,
+              120.28315
+            ],
+            [
+              22.61868,
+              120.28319
+            ],
+            [
+              22.61875,
+              120.28305
+            ],
+            [
+              22.61865,
+              120.28298
+            ],
+            [
+              22.61861,
+              120.28305
+            ],
+            [
+              22.61866,
+              120.28308
+            ],
+            [
+              22.61862,
+              120.28315
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

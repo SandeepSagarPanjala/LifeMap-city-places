@@ -12,7 +12,7 @@
     "maxLat": 51.93,
     "maxLng": 4.5
   },
-  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "updatedAt": "2026-10-01T19:41:17.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 100,
       "address": "Markthal Rotterdam",
       "howTo": "Visit Markthal.",
-      "badge": "badges/markthal.png"
+      "badge": "badges/markthal.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.92026,
+              4.48598
+            ],
+            [
+              51.92056,
+              4.48763
+            ],
+            [
+              51.91996,
+              4.48793
+            ],
+            [
+              51.91965,
+              4.48628
+            ],
+            [
+              51.92012,
+              4.48605
+            ],
+            [
+              51.92026,
+              4.48598
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "erasmusbrug",
@@ -33,7 +64,54 @@
       "radiusM": 150,
       "address": "Erasmusbrug",
       "howTo": "Visit Erasmus Bridge.",
-      "badge": "badges/erasmusbrug.png"
+      "badge": "badges/erasmusbrug.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.90752,
+              4.49005
+            ],
+            [
+              51.90781,
+              4.49062
+            ],
+            [
+              51.91062,
+              4.48341
+            ],
+            [
+              51.91101,
+              4.48296
+            ],
+            [
+              51.91167,
+              4.48275
+            ],
+            [
+              51.9116,
+              4.4821
+            ],
+            [
+              51.91086,
+              4.48241
+            ],
+            [
+              51.9104,
+              4.48303
+            ],
+            [
+              51.90774,
+              4.48955
+            ],
+            [
+              51.90752,
+              4.49005
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cube-houses",
@@ -48,12 +126,59 @@
     {
       "id": "euromast",
       "name": "Euromast",
-      "lat": 51.9055,
-      "lng": 4.4665,
+      "lat": 51.90539,
+      "lng": 4.46659,
       "radiusM": 100,
       "address": "Euromast",
       "howTo": "Visit Euromast.",
-      "badge": "badges/euromast.png"
+      "badge": "badges/euromast.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.90542,
+              4.46643
+            ],
+            [
+              51.90551,
+              4.46654
+            ],
+            [
+              51.90552,
+              4.46667
+            ],
+            [
+              51.90547,
+              4.46676
+            ],
+            [
+              51.90536,
+              4.46678
+            ],
+            [
+              51.90528,
+              4.46671
+            ],
+            [
+              51.90528,
+              4.46658
+            ],
+            [
+              51.90532,
+              4.46644
+            ],
+            [
+              51.90539,
+              4.46642
+            ],
+            [
+              51.90542,
+              4.46643
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

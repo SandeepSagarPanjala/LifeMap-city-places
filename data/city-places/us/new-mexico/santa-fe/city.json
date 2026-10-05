@@ -12,58 +12,285 @@
     "maxLat": 35.72,
     "maxLng": -105.9
   },
-  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "updatedAt": "2026-10-03T00:16:06.000Z",
   "status": "complete",
   "places": [
     {
       "id": "santa-fe-plaza",
       "name": "Santa Fe Plaza",
-      "lat": 35.687,
-      "lng": -105.9378,
+      "lat": 35.68749,
+      "lng": -105.93868,
       "radiusM": 150,
       "address": "Santa Fe Plaza, Santa Fe, NM",
       "howTo": "Visit the Santa Fe Plaza.",
-      "badge": "badges/santa-fe-plaza.png"
+      "badge": "badges/santa-fe-plaza.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68771,
+              -105.93885
+            ],
+            [
+              35.68731,
+              -105.93901
+            ],
+            [
+              35.68726,
+              -105.93899
+            ],
+            [
+              35.6871,
+              -105.93822
+            ],
+            [
+              35.68758,
+              -105.93807
+            ],
+            [
+              35.68775,
+              -105.93876
+            ],
+            [
+              35.68773,
+              -105.93884
+            ],
+            [
+              35.68771,
+              -105.93885
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "canyon-road",
       "name": "Canyon Road",
-      "lat": 35.6785,
-      "lng": -105.9285,
+      "lat": 35.68378,
+      "lng": -105.93295,
       "radiusM": 200,
       "address": "Canyon Rd, Santa Fe, NM",
       "howTo": "Walk Canyon Road.",
-      "badge": "badges/canyon-road.png"
+      "badge": "badges/canyon-road.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68306,
+              -105.93274
+            ],
+            [
+              35.68359,
+              -105.93354
+            ],
+            [
+              35.68423,
+              -105.93336
+            ],
+            [
+              35.68423,
+              -105.93292
+            ],
+            [
+              35.68432,
+              -105.93243
+            ],
+            [
+              35.68327,
+              -105.9327
+            ],
+            [
+              35.68306,
+              -105.93274
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "loretto-chapel",
       "name": "Loretto Chapel",
-      "lat": 35.6855,
-      "lng": -105.9385,
+      "lat": 35.68563,
+      "lng": -105.93747,
       "radiusM": 100,
       "address": "207 Old Santa Fe Trail, Santa Fe, NM",
       "howTo": "Visit Loretto Chapel.",
-      "badge": "badges/loretto-chapel.png"
+      "badge": "badges/loretto-chapel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68565,
+              -105.9374
+            ],
+            [
+              35.68567,
+              -105.93746
+            ],
+            [
+              35.68567,
+              -105.9377
+            ],
+            [
+              35.68557,
+              -105.9377
+            ],
+            [
+              35.68557,
+              -105.93745
+            ],
+            [
+              35.68561,
+              -105.9374
+            ],
+            [
+              35.68561,
+              -105.93733
+            ],
+            [
+              35.68565,
+              -105.93735
+            ],
+            [
+              35.68564,
+              -105.9374
+            ],
+            [
+              35.68565,
+              -105.9374
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cathedral-basilica-st-francis",
       "name": "Cathedral Basilica of St. Francis of Assisi",
-      "lat": 35.6865,
-      "lng": -105.9365,
+      "lat": 35.68701,
+      "lng": -105.93629,
       "radiusM": 120,
       "address": "131 Cathedral Pl, Santa Fe, NM",
       "howTo": "Visit the Cathedral Basilica of St. Francis.",
-      "badge": "badges/cathedral-basilica-st-francis.png"
+      "badge": "badges/cathedral-basilica-st-francis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68721,
+              -105.93654
+            ],
+            [
+              35.68702,
+              -105.93575
+            ],
+            [
+              35.68671,
+              -105.93586
+            ],
+            [
+              35.68691,
+              -105.93669
+            ],
+            [
+              35.68719,
+              -105.93659
+            ],
+            [
+              35.68721,
+              -105.93654
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "georgia-okeeffe-museum",
       "name": "Georgia O'Keeffe Museum",
-      "lat": 35.6895,
-      "lng": -105.9415,
+      "lat": 35.68913,
+      "lng": -105.94114,
       "radiusM": 120,
       "address": "217 Johnson St, Santa Fe, NM",
       "howTo": "Visit the Georgia O'Keeffe Museum.",
-      "badge": "badges/georgia-okeeffe-museum.png"
+      "badge": "badges/georgia-okeeffe-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68903,
+              -105.94094
+            ],
+            [
+              35.68919,
+              -105.94092
+            ],
+            [
+              35.68919,
+              -105.94107
+            ],
+            [
+              35.68933,
+              -105.94107
+            ],
+            [
+              35.68934,
+              -105.94137
+            ],
+            [
+              35.68907,
+              -105.94142
+            ],
+            [
+              35.68905,
+              -105.94122
+            ],
+            [
+              35.6891,
+              -105.9412
+            ],
+            [
+              35.68912,
+              -105.9413
+            ],
+            [
+              35.68924,
+              -105.94126
+            ],
+            [
+              35.68922,
+              -105.94115
+            ],
+            [
+              35.68906,
+              -105.94116
+            ],
+            [
+              35.68906,
+              -105.94106
+            ],
+            [
+              35.68902,
+              -105.94107
+            ],
+            [
+              35.68901,
+              -105.94098
+            ],
+            [
+              35.68903,
+              -105.94098
+            ],
+            [
+              35.68903,
+              -105.94094
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

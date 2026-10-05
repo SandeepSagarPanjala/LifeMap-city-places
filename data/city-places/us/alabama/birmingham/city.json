@@ -12,7 +12,7 @@
     "maxLat": 33.56,
     "maxLng": -86.74
   },
-  "updatedAt": "2026-08-09T16:45:00.000Z",
+  "updatedAt": "2026-10-02T20:11:46.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 200,
       "address": "1701 Valley View Dr, Birmingham, AL",
       "howTo": "Visit Vulcan Park and Museum on Red Mountain.",
-      "badge": "badges/vulcan-park.png"
+      "badge": "badges/vulcan-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.49128,
+              -86.79505
+            ],
+            [
+              33.49128,
+              -86.79502
+            ],
+            [
+              33.49125,
+              -86.79502
+            ],
+            [
+              33.49125,
+              -86.79506
+            ],
+            [
+              33.49128,
+              -86.79505
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sloss-furnaces",
@@ -33,7 +60,50 @@
       "radiusM": 250,
       "address": "20 32nd St N, Birmingham, AL",
       "howTo": "Visit Sloss Furnaces National Historic Landmark.",
-      "badge": "badges/sloss-furnaces.png"
+      "badge": "badges/sloss-furnaces.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.52508,
+              -86.79119
+            ],
+            [
+              33.52108,
+              -86.78862
+            ],
+            [
+              33.51899,
+              -86.79301
+            ],
+            [
+              33.5188,
+              -86.79368
+            ],
+            [
+              33.51888,
+              -86.79464
+            ],
+            [
+              33.52156,
+              -86.7925
+            ],
+            [
+              33.52278,
+              -86.79184
+            ],
+            [
+              33.52429,
+              -86.79138
+            ],
+            [
+              33.52508,
+              -86.79119
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sixteenth-street-baptist-church",
@@ -43,7 +113,66 @@
       "radiusM": 150,
       "address": "1530 6th Ave N, Birmingham, AL",
       "howTo": "Visit the 16th Street Baptist Church.",
-      "badge": "badges/sixteenth-street-baptist-church.png"
+      "badge": "badges/sixteenth-street-baptist-church.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.51683,
+              -86.81515
+            ],
+            [
+              33.51693,
+              -86.81493
+            ],
+            [
+              33.51665,
+              -86.81475
+            ],
+            [
+              33.51663,
+              -86.81481
+            ],
+            [
+              33.5166,
+              -86.81478
+            ],
+            [
+              33.51656,
+              -86.81487
+            ],
+            [
+              33.51659,
+              -86.81489
+            ],
+            [
+              33.51656,
+              -86.81496
+            ],
+            [
+              33.51658,
+              -86.81498
+            ],
+            [
+              33.51655,
+              -86.81505
+            ],
+            [
+              33.51669,
+              -86.81515
+            ],
+            [
+              33.51673,
+              -86.81508
+            ],
+            [
+              33.51683,
+              -86.81515
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "birmingham-civil-rights-institute",
@@ -53,7 +182,50 @@
       "radiusM": 150,
       "address": "520 16th St N, Birmingham, AL",
       "howTo": "Visit the Birmingham Civil Rights Institute.",
-      "badge": "badges/birmingham-civil-rights-institute.png"
+      "badge": "badges/birmingham-civil-rights-institute.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.51606,
+              -86.81531
+            ],
+            [
+              33.51633,
+              -86.81473
+            ],
+            [
+              33.51626,
+              -86.81468
+            ],
+            [
+              33.51628,
+              -86.81462
+            ],
+            [
+              33.51583,
+              -86.81432
+            ],
+            [
+              33.51576,
+              -86.81444
+            ],
+            [
+              33.51595,
+              -86.81457
+            ],
+            [
+              33.51572,
+              -86.81509
+            ],
+            [
+              33.51606,
+              -86.81531
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kelly-ingram-park",
@@ -63,7 +235,38 @@
       "radiusM": 150,
       "address": "5th Ave N & 16th St, Birmingham, AL",
       "howTo": "Visit Kelly Ingram Park in the Civil Rights District.",
-      "badge": "badges/kelly-ingram-park.png"
+      "badge": "badges/kelly-ingram-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.51555,
+              -86.8137
+            ],
+            [
+              33.5161,
+              -86.81253
+            ],
+            [
+              33.51709,
+              -86.81321
+            ],
+            [
+              33.51654,
+              -86.81437
+            ],
+            [
+              33.51556,
+              -86.81371
+            ],
+            [
+              33.51555,
+              -86.8137
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "a-g-gaston-motel",
@@ -73,7 +276,78 @@
       "radiusM": 120,
       "address": "1510 5th Ave N, Birmingham, AL",
       "howTo": "Visit the A.G. Gaston Motel at the Birmingham Civil Rights National Monument.",
-      "badge": "badges/a-g-gaston-motel.png"
+      "badge": "badges/a-g-gaston-motel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.51507,
+              -86.8148
+            ],
+            [
+              33.51531,
+              -86.81431
+            ],
+            [
+              33.51555,
+              -86.81446
+            ],
+            [
+              33.51558,
+              -86.8144
+            ],
+            [
+              33.5158,
+              -86.81454
+            ],
+            [
+              33.51576,
+              -86.81463
+            ],
+            [
+              33.51553,
+              -86.81448
+            ],
+            [
+              33.51548,
+              -86.8145
+            ],
+            [
+              33.51534,
+              -86.81475
+            ],
+            [
+              33.51523,
+              -86.81467
+            ],
+            [
+              33.51518,
+              -86.81477
+            ],
+            [
+              33.51551,
+              -86.815
+            ],
+            [
+              33.51554,
+              -86.81494
+            ],
+            [
+              33.5156,
+              -86.81498
+            ],
+            [
+              33.51554,
+              -86.81511
+            ],
+            [
+              33.51507,
+              -86.8148
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "railroad-park",
@@ -83,7 +357,46 @@
       "radiusM": 300,
       "address": "1600 1st Ave S, Birmingham, AL",
       "howTo": "Visit Railroad Park downtown.",
-      "badge": "badges/railroad-park.png"
+      "badge": "badges/railroad-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.5114,
+              -86.80756
+            ],
+            [
+              33.51055,
+              -86.80699
+            ],
+            [
+              33.51048,
+              -86.80733
+            ],
+            [
+              33.51035,
+              -86.80743
+            ],
+            [
+              33.51043,
+              -86.80702
+            ],
+            [
+              33.50797,
+              -86.81217
+            ],
+            [
+              33.5089,
+              -86.81284
+            ],
+            [
+              33.5114,
+              -86.80756
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "birmingham-museum-of-art",
@@ -93,7 +406,90 @@
       "radiusM": 150,
       "address": "2000 Rev Abraham Woods Jr Blvd, Birmingham, AL",
       "howTo": "Visit the Birmingham Museum of Art.",
-      "badge": "badges/birmingham-museum-of-art.png"
+      "badge": "badges/birmingham-museum-of-art.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.52217,
+              -86.81034
+            ],
+            [
+              33.52245,
+              -86.80976
+            ],
+            [
+              33.5225,
+              -86.80979
+            ],
+            [
+              33.52252,
+              -86.80975
+            ],
+            [
+              33.52247,
+              -86.80972
+            ],
+            [
+              33.52255,
+              -86.80955
+            ],
+            [
+              33.52234,
+              -86.80939
+            ],
+            [
+              33.52217,
+              -86.80964
+            ],
+            [
+              33.52213,
+              -86.80971
+            ],
+            [
+              33.52216,
+              -86.80974
+            ],
+            [
+              33.52201,
+              -86.81006
+            ],
+            [
+              33.52192,
+              -86.81012
+            ],
+            [
+              33.52185,
+              -86.81039
+            ],
+            [
+              33.52191,
+              -86.81043
+            ],
+            [
+              33.52187,
+              -86.8105
+            ],
+            [
+              33.5223,
+              -86.81079
+            ],
+            [
+              33.52243,
+              -86.81052
+            ],
+            [
+              33.52225,
+              -86.81039
+            ],
+            [
+              33.52217,
+              -86.81034
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "birmingham-zoo",
@@ -103,7 +499,58 @@
       "radiusM": 300,
       "address": "2630 Cahaba Rd, Birmingham, AL",
       "howTo": "Visit the Birmingham Zoo.",
-      "badge": "badges/birmingham-zoo.png"
+      "badge": "badges/birmingham-zoo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.4904,
+              -86.78294
+            ],
+            [
+              33.49042,
+              -86.77797
+            ],
+            [
+              33.48948,
+              -86.77709
+            ],
+            [
+              33.48738,
+              -86.77621
+            ],
+            [
+              33.48543,
+              -86.7749
+            ],
+            [
+              33.48513,
+              -86.77501
+            ],
+            [
+              33.48486,
+              -86.77542
+            ],
+            [
+              33.48447,
+              -86.77669
+            ],
+            [
+              33.48419,
+              -86.78087
+            ],
+            [
+              33.48448,
+              -86.78311
+            ],
+            [
+              33.4904,
+              -86.78294
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "arlington-antebellum-home",
@@ -113,7 +560,42 @@
       "radiusM": 150,
       "address": "331 Cotton Ave SW, Birmingham, AL",
       "howTo": "Visit Arlington Antebellum Home and Gardens.",
-      "badge": "badges/arlington-antebellum-home.png"
+      "badge": "badges/arlington-antebellum-home.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.50049,
+              -86.83955
+            ],
+            [
+              33.49921,
+              -86.83952
+            ],
+            [
+              33.49969,
+              -86.83788
+            ],
+            [
+              33.50099,
+              -86.83825
+            ],
+            [
+              33.50087,
+              -86.83875
+            ],
+            [
+              33.50054,
+              -86.83944
+            ],
+            [
+              33.50049,
+              -86.83955
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

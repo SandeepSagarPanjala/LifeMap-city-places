@@ -12,18 +12,45 @@
     "maxLat": 14.04,
     "maxLng": 99.55
   },
-  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "updatedAt": "2026-10-02T19:53:45.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bridge-on-the-river-kwai",
       "name": "Bridge on the River Kwai",
-      "lat": 14.0415,
-      "lng": 99.5045,
+      "lat": 14.04318,
+      "lng": 99.50487,
       "radiusM": 120,
       "address": "River Kwai Bridge",
       "howTo": "Visit Bridge on the River Kwai.",
-      "badge": "badges/bridge-on-the-river-kwai.png"
+      "badge": "badges/bridge-on-the-river-kwai.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.04338,
+              99.50495
+            ],
+            [
+              14.04334,
+              99.50501
+            ],
+            [
+              14.04298,
+              99.50479
+            ],
+            [
+              14.04302,
+              99.50473
+            ],
+            [
+              14.04338,
+              99.50495
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jeath-war-museum",
@@ -38,12 +65,39 @@
     {
       "id": "erawan-national-park",
       "name": "Erawan National Park",
-      "lat": 14.3705,
-      "lng": 99.1445,
+      "lat": 14.37454,
+      "lng": 99.14485,
       "radiusM": 300,
       "address": "Erawan Falls",
       "howTo": "Visit Erawan National Park.",
-      "badge": "badges/erawan-national-park.png"
+      "badge": "badges/erawan-national-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.37452,
+              99.14469
+            ],
+            [
+              14.37469,
+              99.14488
+            ],
+            [
+              14.37456,
+              99.145
+            ],
+            [
+              14.37439,
+              99.14481
+            ],
+            [
+              14.37452,
+              99.14469
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

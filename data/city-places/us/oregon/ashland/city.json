@@ -12,28 +12,138 @@
     "maxLat": 42.22,
     "maxLng": -122.68
   },
-  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "updatedAt": "2026-10-02T21:22:11.000Z",
   "status": "complete",
   "places": [
     {
       "id": "lithia-park",
       "name": "Lithia Park",
-      "lat": 42.1945,
-      "lng": -122.7155,
+      "lat": 42.19366,
+      "lng": -122.71784,
       "radiusM": 250,
       "address": "Lithia Park, Ashland, OR",
       "howTo": "Visit Lithia Park.",
-      "badge": "badges/lithia-park.png"
+      "badge": "badges/lithia-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.19376,
+              -122.71778
+            ],
+            [
+              42.19363,
+              -122.71803
+            ],
+            [
+              42.19359,
+              -122.71795
+            ],
+            [
+              42.19359,
+              -122.71786
+            ],
+            [
+              42.19361,
+              -122.7178
+            ],
+            [
+              42.19369,
+              -122.71773
+            ],
+            [
+              42.19377,
+              -122.71775
+            ],
+            [
+              42.19376,
+              -122.71778
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "oregon-shakespeare-festival",
       "name": "Oregon Shakespeare Festival",
-      "lat": 42.1955,
-      "lng": -122.7145,
+      "lat": 42.19626,
+      "lng": -122.71473,
       "radiusM": 150,
       "address": "15 S Pioneer St, Ashland, OR",
       "howTo": "Visit the Oregon Shakespeare Festival theaters.",
-      "badge": "badges/oregon-shakespeare-festival.png"
+      "badge": "badges/oregon-shakespeare-festival.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.19591,
+              -122.71369
+            ],
+            [
+              42.19553,
+              -122.71405
+            ],
+            [
+              42.1958,
+              -122.71455
+            ],
+            [
+              42.19574,
+              -122.71501
+            ],
+            [
+              42.19588,
+              -122.71528
+            ],
+            [
+              42.19601,
+              -122.71538
+            ],
+            [
+              42.19644,
+              -122.71547
+            ],
+            [
+              42.1967,
+              -122.71521
+            ],
+            [
+              42.19676,
+              -122.71494
+            ],
+            [
+              42.19668,
+              -122.71474
+            ],
+            [
+              42.19658,
+              -122.71469
+            ],
+            [
+              42.1966,
+              -122.71461
+            ],
+            [
+              42.19653,
+              -122.71463
+            ],
+            [
+              42.19639,
+              -122.7143
+            ],
+            [
+              42.19628,
+              -122.7144
+            ],
+            [
+              42.19591,
+              -122.71369
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "downtown-ashland",

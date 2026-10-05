@@ -12,28 +12,86 @@
     "maxLat": 36.9,
     "maxLng": 30.75
   },
-  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "updatedAt": "2026-10-02T23:45:29.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kaleici",
       "name": "Kaleici Old Town",
-      "lat": 36.8841,
-      "lng": 30.7056,
+      "lat": 36.88272,
+      "lng": 30.70657,
       "radiusM": 200,
       "address": "Antalya",
       "howTo": "Visit Kaleici Old Town.",
-      "badge": "badges/kaleici.png"
+      "badge": "badges/kaleici.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.88276,
+              30.70657
+            ],
+            [
+              36.88272,
+              30.70662
+            ],
+            [
+              36.88268,
+              30.70656
+            ],
+            [
+              36.88272,
+              30.70651
+            ],
+            [
+              36.88276,
+              30.70657
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "duden-waterfalls",
       "name": "Duden Waterfalls",
-      "lat": 36.8565,
-      "lng": 30.7835,
+      "lat": 36.85378,
+      "lng": 30.78172,
       "radiusM": 150,
       "address": "Antalya",
       "howTo": "Visit Duden Waterfalls.",
-      "badge": "badges/duden-waterfalls.png"
+      "badge": "badges/duden-waterfalls.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.85371,
+              30.78178
+            ],
+            [
+              36.85381,
+              30.78182
+            ],
+            [
+              36.85389,
+              30.7817
+            ],
+            [
+              36.85379,
+              30.78164
+            ],
+            [
+              36.85369,
+              30.78164
+            ],
+            [
+              36.85371,
+              30.78178
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "aspendos-theatre",
@@ -43,7 +101,78 @@
       "radiusM": 120,
       "address": "Serik",
       "howTo": "Visit Aspendos Theatre.",
-      "badge": "badges/aspendos-theatre.png"
+      "badge": "badges/aspendos-theatre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.93853,
+              31.17238
+            ],
+            [
+              36.93856,
+              31.17213
+            ],
+            [
+              36.93865,
+              31.17196
+            ],
+            [
+              36.93878,
+              31.17184
+            ],
+            [
+              36.93894,
+              31.17179
+            ],
+            [
+              36.9391,
+              31.17181
+            ],
+            [
+              36.93924,
+              31.17191
+            ],
+            [
+              36.93937,
+              31.1721
+            ],
+            [
+              36.93941,
+              31.1723
+            ],
+            [
+              36.93941,
+              31.17254
+            ],
+            [
+              36.93925,
+              31.17254
+            ],
+            [
+              36.93925,
+              31.1726
+            ],
+            [
+              36.93868,
+              31.17259
+            ],
+            [
+              36.93868,
+              31.17253
+            ],
+            [
+              36.93853,
+              31.17252
+            ],
+            [
+              36.93853,
+              31.17238
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

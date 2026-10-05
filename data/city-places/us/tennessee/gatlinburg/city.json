@@ -12,18 +12,45 @@
     "maxLat": 35.75,
     "maxLng": -83.48
   },
-  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "updatedAt": "2026-10-03T01:11:24.000Z",
   "status": "complete",
   "places": [
     {
       "id": "great-smoky-mountains",
       "name": "Great Smoky Mountains National Park",
-      "lat": 35.6869,
-      "lng": -83.5369,
+      "lat": 35.68772,
+      "lng": -83.5375,
       "radiusM": 400,
       "address": "Sugarlands Visitor Center, Gatlinburg, TN",
       "howTo": "Visit Great Smoky Mountains National Park.",
-      "badge": "badges/great-smoky-mountains.png"
+      "badge": "badges/great-smoky-mountains.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.68784,
+              -83.53764
+            ],
+            [
+              35.68788,
+              -83.53756
+            ],
+            [
+              35.6876,
+              -83.53736
+            ],
+            [
+              35.68756,
+              -83.53744
+            ],
+            [
+              35.68784,
+              -83.53764
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "gatlinburg-skybridge",
@@ -38,22 +65,152 @@
     {
       "id": "anakeesta",
       "name": "Anakeesta",
-      "lat": 35.7135,
-      "lng": -83.5105,
+      "lat": 35.71044,
+      "lng": -83.50566,
       "radiusM": 200,
       "address": "576 Parkway, Gatlinburg, TN",
       "howTo": "Visit Anakeesta.",
-      "badge": "badges/anakeesta.png"
+      "badge": "badges/anakeesta.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.71379,
+              -83.50733
+            ],
+            [
+              35.71318,
+              -83.50552
+            ],
+            [
+              35.71173,
+              -83.50292
+            ],
+            [
+              35.71086,
+              -83.50255
+            ],
+            [
+              35.71065,
+              -83.50227
+            ],
+            [
+              35.71041,
+              -83.50151
+            ],
+            [
+              35.7099,
+              -83.50118
+            ],
+            [
+              35.70928,
+              -83.50108
+            ],
+            [
+              35.70898,
+              -83.50134
+            ],
+            [
+              35.70774,
+              -83.50352
+            ],
+            [
+              35.70989,
+              -83.503
+            ],
+            [
+              35.70964,
+              -83.50415
+            ],
+            [
+              35.70853,
+              -83.50507
+            ],
+            [
+              35.70774,
+              -83.50751
+            ],
+            [
+              35.70868,
+              -83.50965
+            ],
+            [
+              35.70901,
+              -83.5096
+            ],
+            [
+              35.70982,
+              -83.51022
+            ],
+            [
+              35.71076,
+              -83.51039
+            ],
+            [
+              35.71149,
+              -83.51025
+            ],
+            [
+              35.71182,
+              -83.50995
+            ],
+            [
+              35.71241,
+              -83.50808
+            ],
+            [
+              35.71345,
+              -83.50749
+            ],
+            [
+              35.71379,
+              -83.50733
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "roaring-fork",
       "name": "Roaring Fork Motor Nature Trail",
-      "lat": 35.7055,
-      "lng": -83.4655,
+      "lat": 35.7074,
+      "lng": -83.47152,
       "radiusM": 300,
       "address": "Roaring Fork, Gatlinburg, TN",
       "howTo": "Drive the Roaring Fork Motor Nature Trail.",
-      "badge": "badges/roaring-fork.png"
+      "badge": "badges/roaring-fork.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.70738,
+              -83.47154
+            ],
+            [
+              35.70751,
+              -83.47159
+            ],
+            [
+              35.70749,
+              -83.47152
+            ],
+            [
+              35.70733,
+              -83.47146
+            ],
+            [
+              35.70727,
+              -83.4715
+            ],
+            [
+              35.70738,
+              -83.47154
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

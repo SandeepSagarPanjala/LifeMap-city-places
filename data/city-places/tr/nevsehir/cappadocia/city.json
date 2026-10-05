@@ -12,38 +12,127 @@
     "maxLat": 38.68,
     "maxLng": 34.88
   },
-  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "updatedAt": "2026-10-02T20:04:28.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hot-air-balloon-cappadocia",
       "name": "Cappadocia Hot Air Balloons",
-      "lat": 38.6435,
-      "lng": 34.8295,
+      "lat": 38.64736,
+      "lng": 34.83335,
       "radiusM": 300,
       "address": "Goreme",
       "howTo": "Visit Cappadocia Hot Air Balloons.",
-      "badge": "badges/hot-air-balloon-cappadocia.png"
+      "badge": "badges/hot-air-balloon-cappadocia.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.64725,
+              34.83325
+            ],
+            [
+              38.64723,
+              34.83332
+            ],
+            [
+              38.64747,
+              34.83344
+            ],
+            [
+              38.64749,
+              34.83337
+            ],
+            [
+              38.64725,
+              34.83325
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "underground-city-derinkuyu",
       "name": "Derinkuyu Underground City",
-      "lat": 38.3755,
-      "lng": 34.7345,
+      "lat": 38.37633,
+      "lng": 34.73463,
       "radiusM": 200,
       "address": "Derinkuyu",
       "howTo": "Visit Derinkuyu Underground City.",
-      "badge": "badges/underground-city-derinkuyu.png"
+      "badge": "badges/underground-city-derinkuyu.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.37628,
+              34.7348
+            ],
+            [
+              38.37626,
+              34.73449
+            ],
+            [
+              38.37639,
+              34.73447
+            ],
+            [
+              38.37641,
+              34.73478
+            ],
+            [
+              38.37628,
+              34.7348
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "love-valley",
       "name": "Love Valley",
-      "lat": 38.6555,
-      "lng": 34.8185,
+      "lat": 38.65862,
+      "lng": 34.82356,
       "radiusM": 200,
       "address": "Goreme",
       "howTo": "Visit Love Valley.",
-      "badge": "badges/love-valley.png"
+      "badge": "badges/love-valley.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.66343,
+              34.82678
+            ],
+            [
+              38.66227,
+              34.82526
+            ],
+            [
+              38.6603,
+              34.82376
+            ],
+            [
+              38.6569,
+              34.82211
+            ],
+            [
+              38.65526,
+              34.82199
+            ],
+            [
+              38.65357,
+              34.82146
+            ],
+            [
+              38.66343,
+              34.82678
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

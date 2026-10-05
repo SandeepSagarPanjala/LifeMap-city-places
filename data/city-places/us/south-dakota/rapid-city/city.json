@@ -12,18 +12,78 @@
     "maxLat": 44.12,
     "maxLng": -103.18
   },
-  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "updatedAt": "2026-10-02T21:31:39.000Z",
   "status": "complete",
   "places": [
     {
       "id": "mount-rushmore",
       "name": "Mount Rushmore National Memorial",
-      "lat": 43.8791,
-      "lng": -103.4591,
+      "lat": 43.87895,
+      "lng": -103.45901,
       "radiusM": 300,
       "address": "13000 SD-244, Keystone, SD",
       "howTo": "Visit Mount Rushmore.",
-      "badge": "badges/mount-rushmore.png"
+      "badge": "badges/mount-rushmore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.87921,
+              -103.45875
+            ],
+            [
+              43.87921,
+              -103.45891
+            ],
+            [
+              43.87902,
+              -103.45909
+            ],
+            [
+              43.87883,
+              -103.45914
+            ],
+            [
+              43.87852,
+              -103.4591
+            ],
+            [
+              43.87851,
+              -103.45898
+            ],
+            [
+              43.87863,
+              -103.45886
+            ],
+            [
+              43.879,
+              -103.45892
+            ],
+            [
+              43.87907,
+              -103.45883
+            ],
+            [
+              43.87909,
+              -103.45871
+            ],
+            [
+              43.87915,
+              -103.45862
+            ],
+            [
+              43.87919,
+              -103.4586
+            ],
+            [
+              43.87921,
+              -103.45875
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "dinosaur-park",
@@ -38,12 +98,43 @@
     {
       "id": "main-street-square",
       "name": "Main Street Square",
-      "lat": 44.0805,
-      "lng": -103.2285,
+      "lat": 44.0813,
+      "lng": -103.22637,
       "radiusM": 150,
       "address": "Main Street Square, Rapid City, SD",
       "howTo": "Visit Main Street Square.",
-      "badge": "badges/main-street-square.png"
+      "badge": "badges/main-street-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.08167,
+              -103.22673
+            ],
+            [
+              44.08155,
+              -103.22598
+            ],
+            [
+              44.08109,
+              -103.22612
+            ],
+            [
+              44.08104,
+              -103.22614
+            ],
+            [
+              44.08117,
+              -103.22689
+            ],
+            [
+              44.08167,
+              -103.22673
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "chapel-in-the-hills",

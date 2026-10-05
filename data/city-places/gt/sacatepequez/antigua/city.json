@@ -12,18 +12,46 @@
     "maxLat": 14.57,
     "maxLng": -90.725
   },
-  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "updatedAt": "2026-10-01T18:03:38.000Z",
   "status": "complete",
   "places": [
     {
       "id": "santa-catalina-arch",
       "name": "Santa Catalina Arch",
-      "lat": 14.5589,
-      "lng": -90.7342,
+      "lat": 14.55959,
+      "lng": -90.73425,
       "radiusM": 80,
       "address": "5a Avenida Norte",
       "howTo": "Visit Santa Catalina Arch.",
-      "badge": "badges/santa-catalina-arch.png"
+      "badge": "badges/santa-catalina-arch.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.55962,
+              -90.7343
+            ],
+            [
+              14.55962,
+              -90.7342
+            ],
+            [
+              14.55955,
+              -90.7342
+            ],
+            [
+              14.55955,
+              -90.7343
+            ],
+            [
+              14.55962,
+              -90.7343
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "antigua-cathedral",
@@ -38,12 +66,59 @@
     {
       "id": "cerro-de-la-cruz",
       "name": "Cerro de la Cruz",
-      "lat": 14.567,
-      "lng": -90.729,
+      "lat": 14.5645,
+      "lng": -90.73174,
       "radiusM": 150,
       "address": "Antigua",
       "howTo": "Visit Cerro de la Cruz.",
-      "badge": "badges/cerro-de-la-cruz.png"
+      "badge": "badges/cerro-de-la-cruz.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.56492,
+              -90.73176
+            ],
+            [
+              14.56443,
+              -90.73195
+            ],
+            [
+              14.56429,
+              -90.73205
+            ],
+            [
+              14.56418,
+              -90.73189
+            ],
+            [
+              14.56417,
+              -90.7316
+            ],
+            [
+              14.56425,
+              -90.73146
+            ],
+            [
+              14.56445,
+              -90.73159
+            ],
+            [
+              14.56491,
+              -90.73162
+            ],
+            [
+              14.5649,
+              -90.73172
+            ],
+            [
+              14.56492,
+              -90.73176
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

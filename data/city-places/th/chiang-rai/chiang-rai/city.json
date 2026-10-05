@@ -12,18 +12,57 @@
     "maxLat": 19.92,
     "maxLng": 99.84
   },
-  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "updatedAt": "2026-10-01T21:05:15.000Z",
   "status": "complete",
   "places": [
     {
       "id": "white-temple",
       "name": "Wat Rong Khun",
-      "lat": 19.8245,
-      "lng": 99.7635,
+      "lat": 19.82387,
+      "lng": 99.76292,
       "radiusM": 150,
       "address": "White Temple",
       "howTo": "Visit Wat Rong Khun.",
-      "badge": "badges/white-temple.png"
+      "badge": "badges/white-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.82487,
+              99.76218
+            ],
+            [
+              19.82431,
+              99.76389
+            ],
+            [
+              19.82332,
+              99.7638
+            ],
+            [
+              19.82328,
+              99.76329
+            ],
+            [
+              19.82309,
+              99.76327
+            ],
+            [
+              19.82345,
+              99.76184
+            ],
+            [
+              19.82479,
+              99.76216
+            ],
+            [
+              19.82487,
+              99.76218
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "blue-temple",
@@ -48,12 +87,48 @@
     {
       "id": "clock-tower-chiang-rai",
       "name": "Chiang Rai Clock Tower",
-      "lat": 19.9075,
-      "lng": 99.8325,
+      "lat": 19.90716,
+      "lng": 99.831,
       "radiusM": 60,
       "address": "Clock Tower",
       "howTo": "Visit Chiang Rai Clock Tower.",
-      "badge": "badges/clock-tower-chiang-rai.png"
+      "badge": "badges/clock-tower-chiang-rai.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.90717,
+              99.83104
+            ],
+            [
+              19.90714,
+              99.83103
+            ],
+            [
+              19.90711,
+              99.831
+            ],
+            [
+              19.90715,
+              99.83094
+            ],
+            [
+              19.90721,
+              99.83097
+            ],
+            [
+              19.90719,
+              99.83103
+            ],
+            [
+              19.90717,
+              99.83104
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     }
   ]
 }

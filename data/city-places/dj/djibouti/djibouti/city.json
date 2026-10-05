@@ -12,7 +12,7 @@
     "maxLat": 11.60309,
     "maxLng": 43.15429
   },
-  "updatedAt": "2026-08-19T11:57:50.000Z",
+  "updatedAt": "2026-10-01T08:25:48.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Djibouti City",
       "howTo": "Visit Grande Mosqu\u00e9e de Djibouti.",
-      "badge": "badges/grande-mosquee.png"
+      "badge": "badges/grande-mosquee.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.57652,
+              43.13492
+            ],
+            [
+              11.5766,
+              43.13529
+            ],
+            [
+              11.57616,
+              43.1354
+            ],
+            [
+              11.57607,
+              43.13502
+            ],
+            [
+              11.57652,
+              43.13492
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "notre-dame",
@@ -33,7 +60,58 @@
       "radiusM": 50,
       "address": "Djibouti City",
       "howTo": "Visit Cath\u00e9drale Notre-Dame du Bon-Pasteur.",
-      "badge": "badges/notre-dame.png"
+      "badge": "badges/notre-dame.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.60027,
+              43.15118
+            ],
+            [
+              11.60014,
+              43.15141
+            ],
+            [
+              11.60016,
+              43.15141
+            ],
+            [
+              11.60011,
+              43.1515
+            ],
+            [
+              11.6001,
+              43.15149
+            ],
+            [
+              11.60005,
+              43.15153
+            ],
+            [
+              11.59996,
+              43.15152
+            ],
+            [
+              11.59991,
+              43.1514
+            ],
+            [
+              11.6001,
+              43.15107
+            ],
+            [
+              11.60025,
+              43.15116
+            ],
+            [
+              11.60027,
+              43.15118
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

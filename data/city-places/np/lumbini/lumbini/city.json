@@ -12,18 +12,49 @@
     "maxLat": 27.5,
     "maxLng": 83.28
   },
-  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "updatedAt": "2026-10-01T19:46:41.000Z",
   "status": "complete",
   "places": [
     {
       "id": "maya-devi-temple",
       "name": "Maya Devi Temple",
-      "lat": 27.4696,
-      "lng": 83.2756,
+      "lat": 27.46959,
+      "lng": 83.27582,
       "radiusM": 120,
       "address": "Sacred Garden",
       "howTo": "Visit Maya Devi Temple.",
-      "badge": "badges/maya-devi-temple.png"
+      "badge": "badges/maya-devi-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.46952,
+              83.27568
+            ],
+            [
+              27.46972,
+              83.2757
+            ],
+            [
+              27.4697,
+              83.27598
+            ],
+            [
+              27.46949,
+              83.27596
+            ],
+            [
+              27.46951,
+              83.27577
+            ],
+            [
+              27.46952,
+              83.27568
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lumbini-peace-pagoda",

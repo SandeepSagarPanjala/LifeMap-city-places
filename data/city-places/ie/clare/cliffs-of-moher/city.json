@@ -12,7 +12,7 @@
     "maxLat": 52.98,
     "maxLng": -9.41
   },
-  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "updatedAt": "2026-10-01T18:11:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,43 @@
     {
       "id": "o-brien-tower",
       "name": "O'Brien's Tower",
-      "lat": 52.973,
-      "lng": -9.427,
+      "lat": 52.97309,
+      "lng": -9.43124,
       "radiusM": 100,
       "address": "Cliffs of Moher",
       "howTo": "Visit O'Brien's Tower.",
-      "badge": "badges/o-brien-tower.png"
+      "badge": "badges/o-brien-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.97309,
+              -9.43127
+            ],
+            [
+              52.97307,
+              -9.43129
+            ],
+            [
+              52.97307,
+              -9.43123
+            ],
+            [
+              52.97309,
+              -9.43119
+            ],
+            [
+              52.97311,
+              -9.43124
+            ],
+            [
+              52.97309,
+              -9.43127
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

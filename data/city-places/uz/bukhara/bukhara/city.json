@@ -12,7 +12,7 @@
     "maxLat": 39.78,
     "maxLng": 64.423
   },
-  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "updatedAt": "2026-10-02T21:54:23.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 60,
       "address": "Bukhara",
       "howTo": "Visit Kalyan Minaret.",
-      "badge": "badges/kalyan-minaret.png"
+      "badge": "badges/kalyan-minaret.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.77619,
+              64.41334
+            ],
+            [
+              39.77632,
+              64.41483
+            ],
+            [
+              39.7756,
+              64.41493
+            ],
+            [
+              39.77546,
+              64.41345
+            ],
+            [
+              39.77581,
+              64.41339
+            ],
+            [
+              39.77619,
+              64.41334
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ark-of-bukhara",

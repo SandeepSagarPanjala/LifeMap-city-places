@@ -12,28 +12,99 @@
     "maxLat": 41.381,
     "maxLng": 60.363
   },
-  "updatedAt": "2026-08-18T04:18:46.000Z",
+  "updatedAt": "2026-10-02T21:56:37.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kalta-minor",
       "name": "Kalta Minor",
-      "lat": 41.37833,
-      "lng": 60.3575,
+      "lat": 41.37835,
+      "lng": 60.35798,
       "radiusM": 50,
       "address": "Khiva",
       "howTo": "Visit Kalta Minor.",
-      "badge": "badges/kalta-minor.png"
+      "badge": "badges/kalta-minor.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.37838,
+              60.35793
+            ],
+            [
+              41.3784,
+              60.35802
+            ],
+            [
+              41.37836,
+              60.35805
+            ],
+            [
+              41.37832,
+              60.35804
+            ],
+            [
+              41.3783,
+              60.35799
+            ],
+            [
+              41.37831,
+              60.35794
+            ],
+            [
+              41.37837,
+              60.35792
+            ],
+            [
+              41.37838,
+              60.35793
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "islam-khodja",
       "name": "Islam Khodja Minaret",
-      "lat": 41.37722,
-      "lng": 60.36028,
+      "lat": 41.37659,
+      "lng": 60.36013,
       "radiusM": 50,
       "address": "Khiva",
       "howTo": "Visit Islam Khodja Minaret.",
-      "badge": "badges/islam-khodja.png"
+      "badge": "badges/islam-khodja.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.37657,
+              60.36016
+            ],
+            [
+              41.37657,
+              60.36009
+            ],
+            [
+              41.37662,
+              60.36009
+            ],
+            [
+              41.37662,
+              60.36016
+            ],
+            [
+              41.37659,
+              60.36017
+            ],
+            [
+              41.37657,
+              60.36016
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

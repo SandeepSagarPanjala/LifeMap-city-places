@@ -12,28 +12,94 @@
     "maxLat": 20.66,
     "maxLng": -105.2
   },
-  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "updatedAt": "2026-10-01T12:56:20.000Z",
   "status": "complete",
   "places": [
     {
       "id": "malecon-puerto-vallarta",
       "name": "Malec\u00f3n Puerto Vallarta",
-      "lat": 20.6097,
-      "lng": -105.235,
+      "lat": 20.60654,
+      "lng": -105.23776,
       "radiusM": 200,
       "address": "Centro",
       "howTo": "Visit Malec\u00f3n Puerto Vallarta.",
-      "badge": "badges/malecon-puerto-vallarta.png"
+      "badge": "badges/malecon-puerto-vallarta.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.60649,
+              -105.23775
+            ],
+            [
+              20.60651,
+              -105.23772
+            ],
+            [
+              20.60656,
+              -105.2377
+            ],
+            [
+              20.60661,
+              -105.23776
+            ],
+            [
+              20.60656,
+              -105.23783
+            ],
+            [
+              20.60653,
+              -105.23782
+            ],
+            [
+              20.60649,
+              -105.23777
+            ],
+            [
+              20.60649,
+              -105.23775
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "iglesia-de-guadalupe-pv",
       "name": "Church of Our Lady of Guadalupe",
-      "lat": 20.6085,
-      "lng": -105.2308,
+      "lat": 20.6122,
+      "lng": -105.23184,
       "radiusM": 80,
       "address": "Centro",
       "howTo": "Visit Church of Our Lady of Guadalupe.",
-      "badge": "badges/iglesia-de-guadalupe-pv.png"
+      "badge": "badges/iglesia-de-guadalupe-pv.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.61231,
+              -105.23188
+            ],
+            [
+              20.61222,
+              -105.23172
+            ],
+            [
+              20.6121,
+              -105.23179
+            ],
+            [
+              20.61219,
+              -105.23195
+            ],
+            [
+              20.61231,
+              -105.23188
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "los-arcos-vallarta",

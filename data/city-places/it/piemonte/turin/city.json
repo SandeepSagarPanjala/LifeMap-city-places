@@ -12,7 +12,7 @@
     "maxLat": 45.08,
     "maxLng": 7.7
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T18:37:03.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,71 @@
       "radiusM": 100,
       "address": "Mole Antonelliana",
       "howTo": "Visit Mole Antonelliana.",
-      "badge": "badges/mole-antonelliana.png"
+      "badge": "badges/mole-antonelliana.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.06925,
+              7.69312
+            ],
+            [
+              45.0692,
+              7.6931
+            ],
+            [
+              45.06922,
+              7.69305
+            ],
+            [
+              45.06899,
+              7.69288
+            ],
+            [
+              45.06897,
+              7.69293
+            ],
+            [
+              45.06893,
+              7.69289
+            ],
+            [
+              45.06883,
+              7.69319
+            ],
+            [
+              45.06878,
+              7.69316
+            ],
+            [
+              45.06872,
+              7.6933
+            ],
+            [
+              45.06913,
+              7.6936
+            ],
+            [
+              45.06918,
+              7.69346
+            ],
+            [
+              45.06913,
+              7.69342
+            ],
+            [
+              45.06924,
+              7.69314
+            ],
+            [
+              45.06925,
+              7.69312
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "egyptian-museum-turin",
@@ -43,17 +107,115 @@
       "radiusM": 120,
       "address": "Piazza Castello",
       "howTo": "Visit Piazza Castello.",
-      "badge": "badges/piazza-castello-turin.png"
+      "badge": "badges/piazza-castello-turin.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.06978,
+              7.68666
+            ],
+            [
+              45.07113,
+              7.68761
+            ],
+            [
+              45.07207,
+              7.68509
+            ],
+            [
+              45.07065,
+              7.68413
+            ],
+            [
+              45.06981,
+              7.68657
+            ],
+            [
+              45.06978,
+              7.68666
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "royal-palace-turin",
       "name": "Royal Palace of Turin",
-      "lat": 45.0725,
-      "lng": 7.6865,
+      "lat": 45.07317,
+      "lng": 7.68656,
       "radiusM": 120,
       "address": "Palazzo Reale",
       "howTo": "Visit Royal Palace of Turin.",
-      "badge": "badges/royal-palace-turin.png"
+      "badge": "badges/royal-palace-turin.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.0729,
+              7.68552
+            ],
+            [
+              45.07246,
+              7.68679
+            ],
+            [
+              45.07312,
+              7.68724
+            ],
+            [
+              45.07358,
+              7.68588
+            ],
+            [
+              45.07361,
+              7.6859
+            ],
+            [
+              45.07365,
+              7.68579
+            ],
+            [
+              45.0734,
+              7.68564
+            ],
+            [
+              45.07331,
+              7.68599
+            ],
+            [
+              45.0732,
+              7.68606
+            ],
+            [
+              45.07306,
+              7.68594
+            ],
+            [
+              45.07315,
+              7.68566
+            ],
+            [
+              45.07305,
+              7.6856
+            ],
+            [
+              45.07303,
+              7.68565
+            ],
+            [
+              45.07292,
+              7.68553
+            ],
+            [
+              45.0729,
+              7.68552
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

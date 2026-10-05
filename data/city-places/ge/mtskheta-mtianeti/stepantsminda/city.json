@@ -12,18 +12,73 @@
     "maxLat": 42.667,
     "maxLng": 44.627
   },
-  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "updatedAt": "2026-10-02T18:17:36.000Z",
   "status": "complete",
   "places": [
     {
       "id": "gergeti-trinity",
       "name": "Gergeti Trinity Church",
-      "lat": 42.6624,
-      "lng": 44.6208,
+      "lat": 42.66237,
+      "lng": 44.62047,
       "radiusM": 80,
       "address": "Kazbegi",
       "howTo": "Visit Gergeti Trinity Church.",
-      "badge": "badges/gergeti-trinity.png"
+      "badge": "badges/gergeti-trinity.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.66231,
+              44.62041
+            ],
+            [
+              42.66234,
+              44.62042
+            ],
+            [
+              42.66235,
+              44.62036
+            ],
+            [
+              42.66247,
+              44.62041
+            ],
+            [
+              42.66245,
+              44.62054
+            ],
+            [
+              42.66243,
+              44.62053
+            ],
+            [
+              42.66242,
+              44.6206
+            ],
+            [
+              42.66233,
+              44.62056
+            ],
+            [
+              42.66234,
+              44.62049
+            ],
+            [
+              42.6623,
+              44.62047
+            ],
+            [
+              42.66231,
+              44.62042
+            ],
+            [
+              42.66231,
+              44.62041
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

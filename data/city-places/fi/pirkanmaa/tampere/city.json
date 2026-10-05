@@ -12,7 +12,7 @@
     "maxLat": 61.512,
     "maxLng": 23.78
   },
-  "updatedAt": "2026-08-18T08:00:00.000Z",
+  "updatedAt": "2026-10-01T08:58:18.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,59 @@
     {
       "id": "nasinneula",
       "name": "Nasinneula",
-      "lat": 61.5078,
-      "lng": 23.7434,
+      "lat": 61.50497,
+      "lng": 23.74328,
       "radiusM": 120,
       "address": "Sarkanniemi",
       "howTo": "Visit Nasinneula.",
-      "badge": "badges/nasinneula.png"
+      "badge": "badges/nasinneula.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              61.50507,
+              23.74334
+            ],
+            [
+              61.50503,
+              23.74347
+            ],
+            [
+              61.50492,
+              23.7435
+            ],
+            [
+              61.50486,
+              23.7434
+            ],
+            [
+              61.50485,
+              23.74325
+            ],
+            [
+              61.50488,
+              23.74312
+            ],
+            [
+              61.50498,
+              23.74306
+            ],
+            [
+              61.50504,
+              23.74314
+            ],
+            [
+              61.50507,
+              23.74327
+            ],
+            [
+              61.50507,
+              23.74334
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

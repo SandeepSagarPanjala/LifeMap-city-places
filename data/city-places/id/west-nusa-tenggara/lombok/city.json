@@ -12,7 +12,7 @@
     "maxLat": -8.52,
     "maxLng": 116.12
   },
-  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "updatedAt": "2026-10-01T18:11:16.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "gili-trawangan",
       "name": "Gili Trawangan",
-      "lat": -8.3495,
-      "lng": 116.0435,
+      "lat": -8.34956,
+      "lng": 116.04314,
       "radiusM": 200,
       "address": "Gili Islands",
       "howTo": "Visit Gili Trawangan.",
-      "badge": "badges/gili-trawangan.png"
+      "badge": "badges/gili-trawangan.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.34946,
+              116.04341
+            ],
+            [
+              -8.34954,
+              116.04345
+            ],
+            [
+              -8.3499,
+              116.04268
+            ],
+            [
+              -8.3497,
+              116.04258
+            ],
+            [
+              -8.34932,
+              116.04333
+            ],
+            [
+              -8.34944,
+              116.0434
+            ],
+            [
+              -8.34946,
+              116.04341
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "senggigi-beach",

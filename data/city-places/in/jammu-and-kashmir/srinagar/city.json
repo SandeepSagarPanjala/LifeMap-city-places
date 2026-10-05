@@ -12,7 +12,7 @@
     "maxLat": 34.12,
     "maxLng": 74.88
   },
-  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "updatedAt": "2026-10-01T10:26:14.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,51 @@
     {
       "id": "shankaracharya-temple",
       "name": "Shankaracharya Temple",
-      "lat": 34.0795,
-      "lng": 74.8435,
+      "lat": 34.07893,
+      "lng": 74.8436,
       "radiusM": 150,
       "address": "Shankaracharya Hill, Srinagar",
       "howTo": "Visit Shankaracharya Temple.",
-      "badge": "badges/shankaracharya-temple.png"
+      "badge": "badges/shankaracharya-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.079,
+              74.84348
+            ],
+            [
+              34.0788,
+              74.84341
+            ],
+            [
+              34.07872,
+              74.84353
+            ],
+            [
+              34.07887,
+              74.84378
+            ],
+            [
+              34.07901,
+              74.84375
+            ],
+            [
+              34.07909,
+              74.84367
+            ],
+            [
+              34.07905,
+              74.84356
+            ],
+            [
+              34.079,
+              74.84348
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nishat-bagh",
@@ -43,7 +82,58 @@
       "radiusM": 200,
       "address": "Nishat Bagh, Srinagar",
       "howTo": "Visit Nishat Bagh.",
-      "badge": "badges/nishat-bagh.png"
+      "badge": "badges/nishat-bagh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.12432,
+              74.88504
+            ],
+            [
+              34.12737,
+              74.88407
+            ],
+            [
+              34.12733,
+              74.88337
+            ],
+            [
+              34.12723,
+              74.88328
+            ],
+            [
+              34.12606,
+              74.87809
+            ],
+            [
+              34.12463,
+              74.87861
+            ],
+            [
+              34.12445,
+              74.87856
+            ],
+            [
+              34.12441,
+              74.8787
+            ],
+            [
+              34.12302,
+              74.87923
+            ],
+            [
+              34.12418,
+              74.88441
+            ],
+            [
+              34.12432,
+              74.88504
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shalimar-bagh",
@@ -53,17 +143,123 @@
       "radiusM": 200,
       "address": "Shalimar Bagh, Srinagar",
       "howTo": "Visit Shalimar Bagh.",
-      "badge": "badges/shalimar-bagh.png"
+      "badge": "badges/shalimar-bagh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.14722,
+              74.87084
+            ],
+            [
+              34.14767,
+              74.87164
+            ],
+            [
+              34.14749,
+              74.8718
+            ],
+            [
+              34.15011,
+              74.87622
+            ],
+            [
+              34.15194,
+              74.87469
+            ],
+            [
+              34.14931,
+              74.87023
+            ],
+            [
+              34.14909,
+              74.8704
+            ],
+            [
+              34.14861,
+              74.86968
+            ],
+            [
+              34.14722,
+              74.87084
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "hazratbal",
       "name": "Hazratbal Shrine",
-      "lat": 34.1305,
-      "lng": 74.8425,
+      "lat": 34.12901,
+      "lng": 74.84247,
       "radiusM": 150,
       "address": "Hazratbal, Srinagar",
       "howTo": "Visit Hazratbal Shrine.",
-      "badge": "badges/hazratbal.png"
+      "badge": "badges/hazratbal.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.12937,
+              74.84219
+            ],
+            [
+              34.12941,
+              74.84241
+            ],
+            [
+              34.12919,
+              74.8425
+            ],
+            [
+              34.12925,
+              74.84277
+            ],
+            [
+              34.12888,
+              74.8429
+            ],
+            [
+              34.12882,
+              74.84262
+            ],
+            [
+              34.12856,
+              74.84271
+            ],
+            [
+              34.12851,
+              74.84252
+            ],
+            [
+              34.12877,
+              74.84241
+            ],
+            [
+              34.12877,
+              74.84237
+            ],
+            [
+              34.1291,
+              74.84224
+            ],
+            [
+              34.1291,
+              74.84229
+            ],
+            [
+              34.12937,
+              74.84216
+            ],
+            [
+              34.12937,
+              74.84219
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pari-mahal",

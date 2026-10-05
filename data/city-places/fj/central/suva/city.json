@@ -12,7 +12,7 @@
     "maxLat": -18.1386,
     "maxLng": 178.4449
   },
-  "updatedAt": "2026-08-20T12:23:31.000Z",
+  "updatedAt": "2026-10-01T17:41:17.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "address": "Suva",
       "howTo": "Visit Thurston Gardens.",
       "radiusM": 80,
-      "badge": "badges/thurston-gardens.png"
+      "badge": "badges/thurston-gardens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -18.14999,
+              178.42523
+            ],
+            [
+              -18.1495,
+              178.42407
+            ],
+            [
+              -18.14959,
+              178.42339
+            ],
+            [
+              -18.14803,
+              178.42336
+            ],
+            [
+              -18.14844,
+              178.42593
+            ],
+            [
+              -18.149,
+              178.42583
+            ],
+            [
+              -18.14924,
+              178.42588
+            ],
+            [
+              -18.14963,
+              178.42542
+            ],
+            [
+              -18.14999,
+              178.42523
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "suva-waterfront",

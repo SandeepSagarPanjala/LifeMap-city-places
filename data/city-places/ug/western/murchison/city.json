@@ -12,7 +12,7 @@
     "maxLat": 2.283,
     "maxLng": 31.688
   },
-  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "updatedAt": "2026-10-03T00:58:07.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "nile-gorge",
       "name": "Nile Gorge",
-      "lat": 2.2805,
-      "lng": 31.678,
+      "lat": 2.27649,
+      "lng": 31.6803,
       "radiusM": 150,
       "address": "Murchison",
       "howTo": "Visit Nile Gorge.",
-      "badge": "badges/nile-gorge.png"
+      "badge": "badges/nile-gorge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              2.27792,
+              31.68487
+            ],
+            [
+              2.27659,
+              31.68161
+            ],
+            [
+              2.27598,
+              31.67803
+            ],
+            [
+              2.27548,
+              31.67668
+            ],
+            [
+              2.27792,
+              31.68487
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,102 @@
     "maxLat": 46.9,
     "maxLng": -113.95
   },
-  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "updatedAt": "2026-10-02T21:03:20.000Z",
   "status": "complete",
   "places": [
     {
       "id": "university-of-montana",
       "name": "University of Montana",
-      "lat": 46.862,
-      "lng": -113.9851,
+      "lat": 46.86088,
+      "lng": -113.98273,
       "radiusM": 250,
       "address": "Missoula, MT",
       "howTo": "Visit the University of Montana campus.",
-      "badge": "badges/university-of-montana.png"
+      "badge": "badges/university-of-montana.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.86124,
+              -113.98334
+            ],
+            [
+              46.86124,
+              -113.98233
+            ],
+            [
+              46.86102,
+              -113.98232
+            ],
+            [
+              46.86046,
+              -113.98233
+            ],
+            [
+              46.86045,
+              -113.98333
+            ],
+            [
+              46.86124,
+              -113.98334
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-sentinel",
       "name": "Mount Sentinel",
-      "lat": 46.8585,
-      "lng": -113.9755,
+      "lat": 46.86651,
+      "lng": -113.97675,
       "radiusM": 300,
       "address": "Mount Sentinel, Missoula, MT",
       "howTo": "Hike Mount Sentinel to the M.",
-      "badge": "badges/mount-sentinel.png"
+      "badge": "badges/mount-sentinel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.86677,
+              -113.97718
+            ],
+            [
+              46.86665,
+              -113.97731
+            ],
+            [
+              46.86664,
+              -113.97727
+            ],
+            [
+              46.8667,
+              -113.9772
+            ],
+            [
+              46.86637,
+              -113.97655
+            ],
+            [
+              46.8663,
+              -113.97663
+            ],
+            [
+              46.86628,
+              -113.97658
+            ],
+            [
+              46.8664,
+              -113.97645
+            ],
+            [
+              46.86677,
+              -113.97718
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "caras-park",
@@ -43,7 +117,58 @@
       "radiusM": 200,
       "address": "Caras Park, Missoula, MT",
       "howTo": "Visit Caras Park on the Clark Fork.",
-      "badge": "badges/caras-park.png"
+      "badge": "badges/caras-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.87101,
+              -113.99931
+            ],
+            [
+              46.87077,
+              -113.99889
+            ],
+            [
+              46.86903,
+              -113.99733
+            ],
+            [
+              46.8685,
+              -113.99639
+            ],
+            [
+              46.86929,
+              -113.99589
+            ],
+            [
+              46.86973,
+              -113.99656
+            ],
+            [
+              46.87004,
+              -113.99655
+            ],
+            [
+              46.87035,
+              -113.99737
+            ],
+            [
+              46.87025,
+              -113.9976
+            ],
+            [
+              46.87118,
+              -113.99895
+            ],
+            [
+              46.87101,
+              -113.99931
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fort-missoula",
@@ -53,7 +178,82 @@
       "radiusM": 200,
       "address": "3400 Captain Rawn Way, Missoula, MT",
       "howTo": "Visit Fort Missoula.",
-      "badge": "badges/fort-missoula.png"
+      "badge": "badges/fort-missoula.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.84479,
+              -114.06383
+            ],
+            [
+              46.84446,
+              -114.06253
+            ],
+            [
+              46.84414,
+              -114.06261
+            ],
+            [
+              46.84352,
+              -114.05951
+            ],
+            [
+              46.84279,
+              -114.05738
+            ],
+            [
+              46.84255,
+              -114.05703
+            ],
+            [
+              46.84228,
+              -114.05701
+            ],
+            [
+              46.84082,
+              -114.05771
+            ],
+            [
+              46.8406,
+              -114.05847
+            ],
+            [
+              46.84092,
+              -114.06116
+            ],
+            [
+              46.84177,
+              -114.0646
+            ],
+            [
+              46.84192,
+              -114.06478
+            ],
+            [
+              46.84251,
+              -114.06695
+            ],
+            [
+              46.84327,
+              -114.06681
+            ],
+            [
+              46.84517,
+              -114.06594
+            ],
+            [
+              46.8452,
+              -114.06571
+            ],
+            [
+              46.84479,
+              -114.06383
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

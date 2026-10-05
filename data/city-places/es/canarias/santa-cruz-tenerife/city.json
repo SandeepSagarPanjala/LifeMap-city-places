@@ -12,38 +12,207 @@
     "maxLat": 28.48,
     "maxLng": -16.24
   },
-  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "updatedAt": "2026-10-01T08:48:12.000Z",
   "status": "complete",
   "places": [
     {
       "id": "auditorio-tenerife",
       "name": "Auditorio de Tenerife",
-      "lat": 28.456,
-      "lng": -16.2475,
+      "lat": 28.4561,
+      "lng": -16.25124,
       "radiusM": 120,
       "address": "Auditorio Ad\u00e1n Mart\u00edn",
       "howTo": "Visit Auditorio de Tenerife.",
-      "badge": "badges/auditorio-tenerife.png"
+      "badge": "badges/auditorio-tenerife.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              28.45634,
+              -16.25194
+            ],
+            [
+              28.45606,
+              -16.25182
+            ],
+            [
+              28.45609,
+              -16.25176
+            ],
+            [
+              28.456,
+              -16.25167
+            ],
+            [
+              28.45588,
+              -16.25141
+            ],
+            [
+              28.45584,
+              -16.25123
+            ],
+            [
+              28.45587,
+              -16.2511
+            ],
+            [
+              28.45577,
+              -16.25107
+            ],
+            [
+              28.4557,
+              -16.25087
+            ],
+            [
+              28.45577,
+              -16.25089
+            ],
+            [
+              28.45594,
+              -16.25077
+            ],
+            [
+              28.45614,
+              -16.25073
+            ],
+            [
+              28.45618,
+              -16.25066
+            ],
+            [
+              28.45625,
+              -16.25086
+            ],
+            [
+              28.45619,
+              -16.25096
+            ],
+            [
+              28.45629,
+              -16.25104
+            ],
+            [
+              28.45637,
+              -16.2512
+            ],
+            [
+              28.45643,
+              -16.25148
+            ],
+            [
+              28.45642,
+              -16.25161
+            ],
+            [
+              28.45647,
+              -16.25164
+            ],
+            [
+              28.45634,
+              -16.25194
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "plaza-espana-tenerife",
       "name": "Plaza de Espa\u00f1a",
-      "lat": 28.4675,
-      "lng": -16.2485,
+      "lat": 28.4683,
+      "lng": -16.24709,
       "radiusM": 100,
       "address": "Plaza de Espa\u00f1a",
       "howTo": "Visit Plaza de Espa\u00f1a.",
-      "badge": "badges/plaza-espana-tenerife.png"
+      "badge": "badges/plaza-espana-tenerife.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              28.4687,
+              -16.24755
+            ],
+            [
+              28.46762,
+              -16.24713
+            ],
+            [
+              28.4673,
+              -16.24685
+            ],
+            [
+              28.4675,
+              -16.24651
+            ],
+            [
+              28.46783,
+              -16.24668
+            ],
+            [
+              28.46793,
+              -16.24665
+            ],
+            [
+              28.46868,
+              -16.24715
+            ],
+            [
+              28.46936,
+              -16.24729
+            ],
+            [
+              28.46935,
+              -16.24753
+            ],
+            [
+              28.46871,
+              -16.24756
+            ],
+            [
+              28.4687,
+              -16.24755
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "teatro-guimera",
       "name": "Teatro Guimer\u00e1",
-      "lat": 28.4655,
-      "lng": -16.2505,
+      "lat": 28.46595,
+      "lng": -16.25066,
       "radiusM": 80,
       "address": "Teatro Guimer\u00e1",
       "howTo": "Visit Teatro Guimer\u00e1.",
-      "badge": "badges/teatro-guimera.png"
+      "badge": "badges/teatro-guimera.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              28.46598,
+              -16.25039
+            ],
+            [
+              28.46579,
+              -16.25045
+            ],
+            [
+              28.46592,
+              -16.25093
+            ],
+            [
+              28.4661,
+              -16.25087
+            ],
+            [
+              28.46598,
+              -16.25039
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

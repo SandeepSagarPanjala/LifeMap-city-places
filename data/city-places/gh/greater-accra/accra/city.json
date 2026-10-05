@@ -12,7 +12,7 @@
     "maxLat": 5.548,
     "maxLng": -0.191
   },
-  "updatedAt": "2026-08-18T23:42:06.000Z",
+  "updatedAt": "2026-10-01T09:35:43.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 80,
       "address": "Accra",
       "howTo": "Visit Independence Arch.",
-      "badge": "badges/independence-arch.png"
+      "badge": "badges/independence-arch.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              5.5466,
+              -0.1922
+            ],
+            [
+              5.54644,
+              -0.19217
+            ],
+            [
+              5.54635,
+              -0.19262
+            ],
+            [
+              5.54651,
+              -0.19265
+            ],
+            [
+              5.54654,
+              -0.19246
+            ],
+            [
+              5.54658,
+              -0.19247
+            ],
+            [
+              5.54661,
+              -0.19244
+            ],
+            [
+              5.54659,
+              -0.19239
+            ],
+            [
+              5.54656,
+              -0.19238
+            ],
+            [
+              5.5466,
+              -0.1922
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nkrumah-mausoleum",
@@ -33,7 +80,34 @@
       "radiusM": 80,
       "address": "Accra",
       "howTo": "Visit Kwame Nkrumah Mausoleum.",
-      "badge": "badges/nkrumah-mausoleum.png"
+      "badge": "badges/nkrumah-mausoleum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              5.54426,
+              -0.20269
+            ],
+            [
+              5.54434,
+              -0.20259
+            ],
+            [
+              5.54445,
+              -0.20268
+            ],
+            [
+              5.54437,
+              -0.20278
+            ],
+            [
+              5.54426,
+              -0.20269
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -3,3 +3,9 @@ node_modules/
 # Working scenes (framed badges under data/.../badges/ are committed)
 data/city-places/**/scenes/
 data/city-places/**/.frame-tmp/
+scripts/.outline-run-progress.json
+scripts/.outline-run.lock
+scripts/.outline-run.pid
+scripts/.outline-*.log
+scripts/.review-*.json
+scripts/__pycache__/

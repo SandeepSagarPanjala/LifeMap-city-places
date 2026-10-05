@@ -12,7 +12,7 @@
     "maxLat": 31.8855,
     "maxLng": 35.46272
   },
-  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "updatedAt": "2026-10-02T19:29:42.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "address": "Jericho",
       "howTo": "Visit Hisham's Palace.",
       "radiusM": 80,
-      "badge": "badges/hishams-palace.png"
+      "badge": "badges/hishams-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              31.88425,
+              35.45971
+            ],
+            [
+              31.88413,
+              35.46072
+            ],
+            [
+              31.88155,
+              35.46061
+            ],
+            [
+              31.88154,
+              35.45932
+            ],
+            [
+              31.88286,
+              35.45933
+            ],
+            [
+              31.88347,
+              35.45948
+            ],
+            [
+              31.88425,
+              35.45971
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "monastery-of-the-temptation",

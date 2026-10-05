@@ -12,18 +12,45 @@
     "maxLat": -18.977,
     "maxLng": 34.36
   },
-  "updatedAt": "2026-08-19T00:40:52.000Z",
+  "updatedAt": "2026-10-01T13:04:46.000Z",
   "status": "complete",
   "places": [
     {
       "id": "chitengo",
       "name": "Chitengo",
-      "lat": -18.97927,
-      "lng": 34.35226,
+      "lat": -18.97519,
+      "lng": 34.35707,
       "radiusM": 200,
       "address": "Gorongosa",
       "howTo": "Visit Chitengo.",
-      "badge": "badges/chitengo.png"
+      "badge": "badges/chitengo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -18.97853,
+              34.3527
+            ],
+            [
+              -18.97928,
+              34.35354
+            ],
+            [
+              -18.97177,
+              34.36132
+            ],
+            [
+              -18.97119,
+              34.36071
+            ],
+            [
+              -18.97853,
+              34.3527
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "gorongosa-savanna",

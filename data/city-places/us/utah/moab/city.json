@@ -12,7 +12,7 @@
     "maxLat": 38.62,
     "maxLng": -109.5
   },
-  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "updatedAt": "2026-10-02T21:39:30.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,88 @@
     {
       "id": "delicate-arch",
       "name": "Delicate Arch",
-      "lat": 38.7436,
-      "lng": -109.4993,
+      "lat": 38.74348,
+      "lng": -109.49927,
       "radiusM": 200,
       "address": "Arches National Park, UT",
       "howTo": "Hike to Delicate Arch.",
-      "badge": "badges/delicate-arch.png"
+      "badge": "badges/delicate-arch.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.74353,
+              -109.49918
+            ],
+            [
+              38.74347,
+              -109.49938
+            ],
+            [
+              38.74343,
+              -109.49944
+            ],
+            [
+              38.74341,
+              -109.49944
+            ],
+            [
+              38.74349,
+              -109.49915
+            ],
+            [
+              38.74351,
+              -109.49913
+            ],
+            [
+              38.74353,
+              -109.49916
+            ],
+            [
+              38.74353,
+              -109.49918
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dead-horse-point",
       "name": "Dead Horse Point State Park",
-      "lat": 38.4825,
-      "lng": -109.7405,
+      "lat": 38.48761,
+      "lng": -109.73571,
       "radiusM": 300,
       "address": "Dead Horse Point State Park, UT",
       "howTo": "Visit Dead Horse Point State Park.",
-      "badge": "badges/dead-horse-point.png"
+      "badge": "badges/dead-horse-point.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.48775,
+              -109.73549
+            ],
+            [
+              38.4876,
+              -109.73543
+            ],
+            [
+              38.4875,
+              -109.73594
+            ],
+            [
+              38.48761,
+              -109.73598
+            ],
+            [
+              38.48775,
+              -109.73549
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "canyonlands",

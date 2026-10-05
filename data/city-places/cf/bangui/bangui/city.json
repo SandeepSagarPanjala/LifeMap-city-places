@@ -12,7 +12,7 @@
     "maxLat": 4.38223,
     "maxLng": 18.58107
   },
-  "updatedAt": "2026-08-20T10:58:34.000Z",
+  "updatedAt": "2026-10-01T07:43:35.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 50,
       "address": "Bangui",
       "howTo": "Visit Cath\u00e9drale Notre-Dame.",
-      "badge": "badges/notre-dame.png"
+      "badge": "badges/notre-dame.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.37018,
+              18.57817
+            ],
+            [
+              4.37022,
+              18.57825
+            ],
+            [
+              4.3702,
+              18.57829
+            ],
+            [
+              4.37013,
+              18.5783
+            ],
+            [
+              4.37009,
+              18.57826
+            ],
+            [
+              4.37005,
+              18.57829
+            ],
+            [
+              4.36966,
+              18.57786
+            ],
+            [
+              4.36984,
+              18.57771
+            ],
+            [
+              4.37022,
+              18.57814
+            ],
+            [
+              4.37018,
+              18.57817
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "grande-mosquee",
@@ -33,7 +80,34 @@
       "radiusM": 50,
       "address": "Bangui",
       "howTo": "Visit Grande Mosqu\u00e9e.",
-      "badge": "badges/grande-mosquee.png"
+      "badge": "badges/grande-mosquee.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.37935,
+              18.53799
+            ],
+            [
+              4.37942,
+              18.53821
+            ],
+            [
+              4.37912,
+              18.53831
+            ],
+            [
+              4.37904,
+              18.5381
+            ],
+            [
+              4.37935,
+              18.53799
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

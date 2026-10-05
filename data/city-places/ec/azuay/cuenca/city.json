@@ -12,18 +12,45 @@
     "maxLat": -2.895,
     "maxLng": -79.0
   },
-  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "updatedAt": "2026-10-01T08:34:03.000Z",
   "status": "complete",
   "places": [
     {
       "id": "new-cathedral-cuenca",
       "name": "New Cathedral of Cuenca",
-      "lat": -2.897,
-      "lng": -79.0045,
+      "lat": -2.89794,
+      "lng": -79.00591,
       "radiusM": 100,
       "address": "Centro Historico",
       "howTo": "Visit New Cathedral of Cuenca.",
-      "badge": "badges/new-cathedral-cuenca.png"
+      "badge": "badges/new-cathedral-cuenca.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -2.89775,
+              -79.00593
+            ],
+            [
+              -2.89778,
+              -79.00582
+            ],
+            [
+              -2.89813,
+              -79.0059
+            ],
+            [
+              -2.8981,
+              -79.006
+            ],
+            [
+              -2.89775,
+              -79.00593
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tomebamba-riverfront",

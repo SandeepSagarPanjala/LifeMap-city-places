@@ -12,38 +12,148 @@
     "maxLat": 11.68,
     "maxLng": 92.76
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:09:47.000Z",
   "status": "complete",
   "places": [
     {
       "id": "cellular-jail",
       "name": "Cellular Jail",
-      "lat": 11.675,
-      "lng": 92.7475,
+      "lat": 11.67434,
+      "lng": 92.74778,
       "radiusM": 150,
       "address": "Cellular Jail, Port Blair, AN",
       "howTo": "Visit Cellular Jail.",
-      "badge": "badges/cellular-jail.png"
+      "badge": "badges/cellular-jail.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.67366,
+              92.74739
+            ],
+            [
+              11.67351,
+              92.7479
+            ],
+            [
+              11.67373,
+              92.74836
+            ],
+            [
+              11.675,
+              92.74864
+            ],
+            [
+              11.67518,
+              92.74791
+            ],
+            [
+              11.67498,
+              92.74781
+            ],
+            [
+              11.67469,
+              92.74691
+            ],
+            [
+              11.67399,
+              92.74729
+            ],
+            [
+              11.67366,
+              92.74739
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "corbyns-cove",
       "name": "Corbyn's Cove",
-      "lat": 11.6455,
-      "lng": 92.7485,
+      "lat": 11.64533,
+      "lng": 92.7488,
       "radiusM": 200,
       "address": "Corbyn's Cove, Port Blair, AN",
       "howTo": "Visit Corbyn's Cove.",
-      "badge": "badges/corbyns-cove.png"
+      "badge": "badges/corbyns-cove.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.64536,
+              92.74844
+            ],
+            [
+              11.64529,
+              92.74852
+            ],
+            [
+              11.64517,
+              92.7491
+            ],
+            [
+              11.64529,
+              92.74926
+            ],
+            [
+              11.64542,
+              92.74895
+            ],
+            [
+              11.64542,
+              92.74881
+            ],
+            [
+              11.64537,
+              92.74855
+            ],
+            [
+              11.64536,
+              92.74844
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ross-island",
       "name": "Ross Island",
-      "lat": 11.6775,
-      "lng": 92.7635,
+      "lat": 11.67458,
+      "lng": 92.76193,
       "radiusM": 250,
       "address": "Ross Island / Netaji Subhash Chandra Bose Island, AN",
       "howTo": "Visit Ross Island.",
-      "badge": "badges/ross-island.png"
+      "badge": "badges/ross-island.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.67449,
+              92.76187
+            ],
+            [
+              11.67468,
+              92.76188
+            ],
+            [
+              11.67468,
+              92.76198
+            ],
+            [
+              11.67448,
+              92.76198
+            ],
+            [
+              11.67449,
+              92.76187
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "samudrika-museum",

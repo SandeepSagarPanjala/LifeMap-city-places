@@ -12,28 +12,94 @@
     "maxLat": 39.18,
     "maxLng": -84.45
   },
-  "updatedAt": "2026-08-11T13:48:30.000Z",
+  "updatedAt": "2026-10-02T21:18:58.000Z",
   "status": "complete",
   "places": [
     {
       "id": "john-a-roebling-bridge",
       "name": "John A. Roebling Suspension Bridge",
-      "lat": 39.09,
-      "lng": -84.508,
+      "lat": 39.09358,
+      "lng": -84.51006,
       "radiusM": 150,
       "address": "Roebling Bridge, Cincinnati, OH",
       "howTo": "Visit the Roebling Suspension Bridge.",
-      "badge": "badges/john-a-roebling-bridge.png"
+      "badge": "badges/john-a-roebling-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.09614,
+              -84.51079
+            ],
+            [
+              39.09617,
+              -84.5106
+            ],
+            [
+              39.09531,
+              -84.51034
+            ],
+            [
+              39.09034,
+              -84.5091
+            ],
+            [
+              39.09031,
+              -84.50933
+            ],
+            [
+              39.09065,
+              -84.50945
+            ],
+            [
+              39.09611,
+              -84.51078
+            ],
+            [
+              39.09614,
+              -84.51079
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fountain-square",
       "name": "Fountain Square",
       "lat": 39.1015,
-      "lng": -84.5125,
+      "lng": -84.51279,
       "radiusM": 120,
       "address": "Fountain Square, Cincinnati, OH",
       "howTo": "Visit Fountain Square.",
-      "badge": "badges/fountain-square.png"
+      "badge": "badges/fountain-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.10147,
+              -84.5128
+            ],
+            [
+              39.10153,
+              -84.51281
+            ],
+            [
+              39.10153,
+              -84.51278
+            ],
+            [
+              39.10147,
+              -84.51277
+            ],
+            [
+              39.10147,
+              -84.5128
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cincinnati-zoo",
@@ -43,17 +109,191 @@
       "radiusM": 250,
       "address": "3400 Vine St, Cincinnati, OH",
       "howTo": "Visit the Cincinnati Zoo.",
-      "badge": "badges/cincinnati-zoo.png"
+      "badge": "badges/cincinnati-zoo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.14233,
+              -84.50763
+            ],
+            [
+              39.14246,
+              -84.50762
+            ],
+            [
+              39.14234,
+              -84.50614
+            ],
+            [
+              39.14247,
+              -84.50587
+            ],
+            [
+              39.14633,
+              -84.50543
+            ],
+            [
+              39.14652,
+              -84.50566
+            ],
+            [
+              39.14662,
+              -84.50734
+            ],
+            [
+              39.14678,
+              -84.50791
+            ],
+            [
+              39.14816,
+              -84.50885
+            ],
+            [
+              39.14799,
+              -84.50936
+            ],
+            [
+              39.14831,
+              -84.51106
+            ],
+            [
+              39.14703,
+              -84.51117
+            ],
+            [
+              39.14705,
+              -84.51158
+            ],
+            [
+              39.14659,
+              -84.51162
+            ],
+            [
+              39.14657,
+              -84.51121
+            ],
+            [
+              39.14519,
+              -84.51134
+            ],
+            [
+              39.14366,
+              -84.51011
+            ],
+            [
+              39.14354,
+              -84.51031
+            ],
+            [
+              39.1433,
+              -84.51006
+            ],
+            [
+              39.14256,
+              -84.51107
+            ],
+            [
+              39.14261,
+              -84.51192
+            ],
+            [
+              39.14144,
+              -84.51166
+            ],
+            [
+              39.14076,
+              -84.51183
+            ],
+            [
+              39.14055,
+              -84.5077
+            ],
+            [
+              39.14226,
+              -84.50763
+            ],
+            [
+              39.14233,
+              -84.50763
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "great-american-ball-park",
       "name": "Great American Ball Park",
-      "lat": 39.0979,
-      "lng": -84.5082,
+      "lat": 39.09743,
+      "lng": -84.50672,
       "radiusM": 200,
       "address": "100 Joe Nuxhall Way, Cincinnati, OH",
       "howTo": "Visit Great American Ball Park.",
-      "badge": "badges/great-american-ball-park.png"
+      "badge": "badges/great-american-ball-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.0981,
+              -84.5073
+            ],
+            [
+              39.09792,
+              -84.50765
+            ],
+            [
+              39.09748,
+              -84.5079
+            ],
+            [
+              39.09707,
+              -84.50778
+            ],
+            [
+              39.09638,
+              -84.50725
+            ],
+            [
+              39.09638,
+              -84.5065
+            ],
+            [
+              39.09676,
+              -84.50557
+            ],
+            [
+              39.09691,
+              -84.50544
+            ],
+            [
+              39.09722,
+              -84.50539
+            ],
+            [
+              39.09795,
+              -84.50559
+            ],
+            [
+              39.09816,
+              -84.50653
+            ],
+            [
+              39.09814,
+              -84.50714
+            ],
+            [
+              39.09806,
+              -84.50728
+            ],
+            [
+              39.0981,
+              -84.5073
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "krohn-conservatory",
@@ -68,12 +308,71 @@
     {
       "id": "findlay-market",
       "name": "Findlay Market",
-      "lat": 39.1155,
-      "lng": -84.5185,
+      "lat": 39.11531,
+      "lng": -84.51906,
       "radiusM": 150,
       "address": "1801 Race St, Cincinnati, OH",
       "howTo": "Visit Findlay Market.",
-      "badge": "badges/findlay-market.png"
+      "badge": "badges/findlay-market.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.11528,
+              -84.51971
+            ],
+            [
+              39.11515,
+              -84.51968
+            ],
+            [
+              39.11516,
+              -84.5196
+            ],
+            [
+              39.11513,
+              -84.51959
+            ],
+            [
+              39.1153,
+              -84.51848
+            ],
+            [
+              39.11533,
+              -84.51848
+            ],
+            [
+              39.11534,
+              -84.51841
+            ],
+            [
+              39.11548,
+              -84.51844
+            ],
+            [
+              39.11546,
+              -84.51852
+            ],
+            [
+              39.1155,
+              -84.51853
+            ],
+            [
+              39.11533,
+              -84.51964
+            ],
+            [
+              39.11529,
+              -84.51963
+            ],
+            [
+              39.11528,
+              -84.51971
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

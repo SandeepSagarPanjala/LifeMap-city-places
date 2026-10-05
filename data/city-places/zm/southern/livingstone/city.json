@@ -12,7 +12,7 @@
     "maxLat": -17.923,
     "maxLng": 25.864
   },
-  "updatedAt": "2026-08-19T00:25:08.000Z",
+  "updatedAt": "2026-10-02T22:15:23.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 150,
       "address": "Livingstone",
       "howTo": "Visit Victoria Falls.",
-      "badge": "badges/victoria-falls.png"
+      "badge": "badges/victoria-falls.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -17.92409,
+              25.85546
+            ],
+            [
+              -17.92442,
+              25.85631
+            ],
+            [
+              -17.92438,
+              25.85651
+            ],
+            [
+              -17.92453,
+              25.8567
+            ],
+            [
+              -17.92475,
+              25.85789
+            ],
+            [
+              -17.92487,
+              25.85794
+            ],
+            [
+              -17.92478,
+              25.85805
+            ],
+            [
+              -17.92492,
+              25.8588
+            ],
+            [
+              -17.92409,
+              25.85546
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "knife-edge-bridge",

@@ -12,7 +12,7 @@
     "maxLat": 9.55584,
     "maxLng": 44.09494
   },
-  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "updatedAt": "2026-10-01T20:49:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Hargeisa",
       "howTo": "Visit Hargeisa Mosque.",
-      "badge": "badges/hargeisa-mosque.png"
+      "badge": "badges/hargeisa-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.55288,
+              44.09184
+            ],
+            [
+              9.55294,
+              44.09194
+            ],
+            [
+              9.5528,
+              44.09205
+            ],
+            [
+              9.55273,
+              44.09195
+            ],
+            [
+              9.55288,
+              44.09184
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jameeco-weyn",

@@ -12,7 +12,7 @@
     "maxLat": 12.368,
     "maxLng": -1.52
   },
-  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "updatedAt": "2026-10-01T06:52:24.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 50,
       "address": "Ouagadougou",
       "howTo": "Visit Cathedrale de Ouagadougou.",
-      "badge": "badges/ouaga-cathedral.png"
+      "badge": "badges/ouaga-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.36207,
+              -1.52736
+            ],
+            [
+              12.36207,
+              -1.5267
+            ],
+            [
+              12.36201,
+              -1.5267
+            ],
+            [
+              12.36201,
+              -1.52665
+            ],
+            [
+              12.36192,
+              -1.52665
+            ],
+            [
+              12.36192,
+              -1.5267
+            ],
+            [
+              12.36186,
+              -1.5267
+            ],
+            [
+              12.36186,
+              -1.52736
+            ],
+            [
+              12.36207,
+              -1.52736
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ouaga-mosque",
@@ -33,7 +76,34 @@
       "radiusM": 50,
       "address": "Ouagadougou",
       "howTo": "Visit Grande Mosquee de Ouagadougou.",
-      "badge": "badges/ouaga-mosque.png"
+      "badge": "badges/ouaga-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.36645,
+              -1.52169
+            ],
+            [
+              12.36653,
+              -1.52118
+            ],
+            [
+              12.36599,
+              -1.52109
+            ],
+            [
+              12.3659,
+              -1.5216
+            ],
+            [
+              12.36645,
+              -1.52169
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,38 +12,191 @@
     "maxLat": 34.18,
     "maxLng": 77.6
   },
-  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "updatedAt": "2026-10-01T10:32:15.000Z",
   "status": "complete",
   "places": [
     {
       "id": "leh-palace",
       "name": "Leh Palace",
-      "lat": 34.1655,
-      "lng": 77.5855,
+      "lat": 34.16593,
+      "lng": 77.58619,
       "radiusM": 150,
       "address": "Leh Palace, Leh",
       "howTo": "Visit Leh Palace.",
-      "badge": "badges/leh-palace.png"
+      "badge": "badges/leh-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.166,
+              77.58585
+            ],
+            [
+              34.16608,
+              77.58631
+            ],
+            [
+              34.16612,
+              77.58631
+            ],
+            [
+              34.16613,
+              77.58652
+            ],
+            [
+              34.16589,
+              77.58656
+            ],
+            [
+              34.16585,
+              77.58619
+            ],
+            [
+              34.16574,
+              77.58618
+            ],
+            [
+              34.16575,
+              77.58595
+            ],
+            [
+              34.16579,
+              77.58588
+            ],
+            [
+              34.166,
+              77.58585
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shanti-stupa-leh",
       "name": "Shanti Stupa",
-      "lat": 34.1745,
-      "lng": 77.5755,
+      "lat": 34.17377,
+      "lng": 77.57492,
       "radiusM": 120,
       "address": "Shanti Stupa, Leh",
       "howTo": "Visit Shanti Stupa.",
-      "badge": "badges/shanti-stupa-leh.png"
+      "badge": "badges/shanti-stupa-leh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.17388,
+              77.57483
+            ],
+            [
+              34.1739,
+              77.57489
+            ],
+            [
+              34.1739,
+              77.57498
+            ],
+            [
+              34.17387,
+              77.57505
+            ],
+            [
+              34.17382,
+              77.5751
+            ],
+            [
+              34.17375,
+              77.57512
+            ],
+            [
+              34.17365,
+              77.57507
+            ],
+            [
+              34.17361,
+              77.57496
+            ],
+            [
+              34.17362,
+              77.57488
+            ],
+            [
+              34.17365,
+              77.57481
+            ],
+            [
+              34.1737,
+              77.57477
+            ],
+            [
+              34.17378,
+              77.57476
+            ],
+            [
+              34.17383,
+              77.57478
+            ],
+            [
+              34.17388,
+              77.57483
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "thiksey-monastery",
       "name": "Thiksey Monastery",
-      "lat": 34.0565,
-      "lng": 77.6665,
+      "lat": 34.05655,
+      "lng": 77.66675,
       "radiusM": 200,
       "address": "Thiksey Monastery, Leh",
       "howTo": "Visit Thiksey Monastery.",
-      "badge": "badges/thiksey-monastery.png"
+      "badge": "badges/thiksey-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.05665,
+              77.6669
+            ],
+            [
+              34.05636,
+              77.66682
+            ],
+            [
+              34.05636,
+              77.66669
+            ],
+            [
+              34.05648,
+              77.6667
+            ],
+            [
+              34.05646,
+              77.6666
+            ],
+            [
+              34.05671,
+              77.66659
+            ],
+            [
+              34.05674,
+              77.66685
+            ],
+            [
+              34.05665,
+              77.66685
+            ],
+            [
+              34.05665,
+              77.6669
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "hemis-monastery",
@@ -53,7 +206,42 @@
       "radiusM": 200,
       "address": "Hemis Monastery, Ladakh",
       "howTo": "Visit Hemis Monastery.",
-      "badge": "badges/hemis-monastery.png"
+      "badge": "badges/hemis-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.91206,
+              77.70298
+            ],
+            [
+              33.91275,
+              77.70354
+            ],
+            [
+              33.91302,
+              77.70292
+            ],
+            [
+              33.91256,
+              77.7024
+            ],
+            [
+              33.91231,
+              77.70232
+            ],
+            [
+              33.91226,
+              77.70249
+            ],
+            [
+              33.91206,
+              77.70298
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "magnetic-hill",

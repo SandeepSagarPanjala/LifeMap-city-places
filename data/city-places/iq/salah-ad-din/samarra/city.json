@@ -12,7 +12,7 @@
     "maxLat": 34.20922,
     "maxLng": 43.88369
   },
-  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "updatedAt": "2026-10-01T18:32:49.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 80,
       "address": "Samarra",
       "howTo": "Visit the Great Mosque of Samarra.",
-      "badge": "badges/great-mosque.png"
+      "badge": "badges/great-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.20707,
+              43.87935
+            ],
+            [
+              34.2066,
+              43.88105
+            ],
+            [
+              34.20449,
+              43.88021
+            ],
+            [
+              34.20495,
+              43.87851
+            ],
+            [
+              34.20707,
+              43.87935
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "malwiya",
@@ -33,7 +60,34 @@
       "radiusM": 60,
       "address": "Samarra",
       "howTo": "Visit the Malwiya spiral minaret.",
-      "badge": "badges/malwiya.png"
+      "badge": "badges/malwiya.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.20707,
+              43.87935
+            ],
+            [
+              34.2066,
+              43.88105
+            ],
+            [
+              34.20449,
+              43.88021
+            ],
+            [
+              34.20495,
+              43.87851
+            ],
+            [
+              34.20707,
+              43.87935
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

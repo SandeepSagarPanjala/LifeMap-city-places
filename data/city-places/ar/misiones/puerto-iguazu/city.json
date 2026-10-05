@@ -12,7 +12,7 @@
     "maxLat": -25.65,
     "maxLng": -54.42
   },
-  "updatedAt": "2026-08-18T04:00:00.000Z",
+  "updatedAt": "2026-10-01T03:53:32.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,62 @@
       "radiusM": 400,
       "address": "Iguazu National Park",
       "howTo": "Visit Iguazu Falls.",
-      "badge": "badges/iguazu-falls-argentina.png"
+      "badge": "badges/iguazu-falls-argentina.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -25.69005,
+              -54.43809
+            ],
+            [
+              -25.68479,
+              -54.44018
+            ],
+            [
+              -25.68305,
+              -54.44055
+            ],
+            [
+              -25.68324,
+              -54.44281
+            ],
+            [
+              -25.68431,
+              -54.44405
+            ],
+            [
+              -25.68505,
+              -54.44709
+            ],
+            [
+              -25.68998,
+              -54.44688
+            ],
+            [
+              -25.69795,
+              -54.44506
+            ],
+            [
+              -25.70157,
+              -54.44158
+            ],
+            [
+              -25.69738,
+              -54.43637
+            ],
+            [
+              -25.69501,
+              -54.43377
+            ],
+            [
+              -25.69005,
+              -54.43809
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "devils-throat-iguazu",

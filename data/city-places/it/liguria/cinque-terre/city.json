@@ -12,38 +12,135 @@
     "maxLat": 44.15,
     "maxLng": 9.73
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-02T23:06:37.000Z",
   "status": "complete",
   "places": [
     {
       "id": "manarola",
       "name": "Manarola",
-      "lat": 44.107,
-      "lng": 9.728,
+      "lat": 44.10496,
+      "lng": 9.72939,
       "radiusM": 200,
       "address": "Manarola village",
       "howTo": "Visit Manarola.",
-      "badge": "badges/manarola.png"
+      "badge": "badges/manarola.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.10514,
+              9.72931
+            ],
+            [
+              44.1048,
+              9.72956
+            ],
+            [
+              44.10477,
+              9.72947
+            ],
+            [
+              44.10511,
+              9.72922
+            ],
+            [
+              44.10514,
+              9.72931
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "vernazza",
       "name": "Vernazza",
-      "lat": 44.135,
-      "lng": 9.6835,
+      "lat": 44.13531,
+      "lng": 9.6837,
       "radiusM": 200,
       "address": "Vernazza harbour",
       "howTo": "Visit Vernazza.",
-      "badge": "badges/vernazza.png"
+      "badge": "badges/vernazza.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.13522,
+              9.68363
+            ],
+            [
+              44.13537,
+              9.68365
+            ],
+            [
+              44.13537,
+              9.68375
+            ],
+            [
+              44.1353,
+              9.68375
+            ],
+            [
+              44.13529,
+              9.68388
+            ],
+            [
+              44.13536,
+              9.68389
+            ],
+            [
+              44.13536,
+              9.68393
+            ],
+            [
+              44.13521,
+              9.68391
+            ],
+            [
+              44.13522,
+              9.68363
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "riomaggiore",
       "name": "Riomaggiore",
-      "lat": 44.0995,
-      "lng": 9.7375,
+      "lat": 44.10069,
+      "lng": 9.73624,
       "radiusM": 200,
       "address": "Riomaggiore",
       "howTo": "Visit Riomaggiore.",
-      "badge": "badges/riomaggiore.png"
+      "badge": "badges/riomaggiore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.1008,
+              9.73615
+            ],
+            [
+              44.10064,
+              9.7364
+            ],
+            [
+              44.10058,
+              9.73632
+            ],
+            [
+              44.10075,
+              9.73609
+            ],
+            [
+              44.1008,
+              9.73615
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

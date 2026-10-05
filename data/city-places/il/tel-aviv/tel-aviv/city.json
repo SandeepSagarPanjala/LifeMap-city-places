@@ -12,18 +12,45 @@
     "maxLat": 32.085,
     "maxLng": 34.772
   },
-  "updatedAt": "2026-08-18T09:00:00.000Z",
+  "updatedAt": "2026-10-01T10:09:33.000Z",
   "status": "complete",
   "places": [
     {
       "id": "jaffa-old-city",
       "name": "Jaffa Old City",
-      "lat": 32.054,
-      "lng": 34.7522,
+      "lat": 32.05431,
+      "lng": 34.75179,
       "radiusM": 180,
       "address": "Old Jaffa",
       "howTo": "Visit Jaffa Old City.",
-      "badge": "badges/jaffa-old-city.png"
+      "badge": "badges/jaffa-old-city.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.05442,
+              34.75185
+            ],
+            [
+              32.05432,
+              34.75193
+            ],
+            [
+              32.0542,
+              34.75173
+            ],
+            [
+              32.0543,
+              34.75165
+            ],
+            [
+              32.05442,
+              34.75185
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tel-aviv-promenade",

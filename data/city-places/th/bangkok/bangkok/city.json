@@ -12,28 +12,94 @@
     "maxLat": 13.78,
     "maxLng": 100.56
   },
-  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "updatedAt": "2026-10-01T21:04:37.000Z",
   "status": "complete",
   "places": [
     {
       "id": "grand-palace-bangkok",
       "name": "Grand Palace",
-      "lat": 13.75,
-      "lng": 100.4913,
+      "lat": 13.74989,
+      "lng": 100.49153,
       "radiusM": 200,
       "address": "Grand Palace",
       "howTo": "Visit Grand Palace.",
-      "badge": "badges/grand-palace-bangkok.png"
+      "badge": "badges/grand-palace-bangkok.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.74993,
+              100.49156
+            ],
+            [
+              13.74994,
+              100.49168
+            ],
+            [
+              13.7498,
+              100.49169
+            ],
+            [
+              13.74979,
+              100.49138
+            ],
+            [
+              13.74992,
+              100.49137
+            ],
+            [
+              13.74993,
+              100.49153
+            ],
+            [
+              13.74993,
+              100.49156
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-pho",
       "name": "Wat Pho",
-      "lat": 13.7465,
-      "lng": 100.493,
+      "lat": 13.74662,
+      "lng": 100.4941,
       "radiusM": 150,
       "address": "Temple of the Reclining Buddha",
       "howTo": "Visit Wat Pho.",
-      "badge": "badges/wat-pho.png"
+      "badge": "badges/wat-pho.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.74669,
+              100.49406
+            ],
+            [
+              13.7467,
+              100.49412
+            ],
+            [
+              13.74653,
+              100.49415
+            ],
+            [
+              13.74651,
+              100.49409
+            ],
+            [
+              13.74667,
+              100.49406
+            ],
+            [
+              13.74669,
+              100.49406
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-arun",
@@ -43,17 +109,79 @@
       "radiusM": 120,
       "address": "Temple of Dawn",
       "howTo": "Visit Wat Arun.",
-      "badge": "badges/wat-arun.png"
+      "badge": "badges/wat-arun.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.74427,
+              100.48707
+            ],
+            [
+              13.74276,
+              100.48782
+            ],
+            [
+              13.74367,
+              100.48991
+            ],
+            [
+              13.74489,
+              100.48908
+            ],
+            [
+              13.74447,
+              100.48772
+            ],
+            [
+              13.74427,
+              100.48707
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-saket",
       "name": "Wat Saket",
-      "lat": 13.7537,
-      "lng": 100.5065,
+      "lat": 13.75386,
+      "lng": 100.50667,
       "radiusM": 120,
       "address": "Golden Mount",
       "howTo": "Visit Wat Saket.",
-      "badge": "badges/wat-saket.png"
+      "badge": "badges/wat-saket.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.75394,
+              100.50658
+            ],
+            [
+              13.75397,
+              100.50679
+            ],
+            [
+              13.75376,
+              100.50681
+            ],
+            [
+              13.75373,
+              100.5066
+            ],
+            [
+              13.75392,
+              100.50658
+            ],
+            [
+              13.75394,
+              100.50658
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "chatuchak-weekend-market",
@@ -63,37 +191,229 @@
       "radiusM": 250,
       "address": "Chatuchak Market",
       "howTo": "Visit Chatuchak Weekend Market.",
-      "badge": "badges/chatuchak-weekend-market.png"
+      "badge": "badges/chatuchak-weekend-market.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.80007,
+              100.55003
+            ],
+            [
+              13.80285,
+              100.55166
+            ],
+            [
+              13.80285,
+              100.55199
+            ],
+            [
+              13.80048,
+              100.55222
+            ],
+            [
+              13.79824,
+              100.55092
+            ],
+            [
+              13.79802,
+              100.55056
+            ],
+            [
+              13.79792,
+              100.5486
+            ],
+            [
+              13.8001,
+              100.54853
+            ],
+            [
+              13.80007,
+              100.55
+            ],
+            [
+              13.80007,
+              100.55003
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jim-thompson-house",
       "name": "Jim Thompson House",
-      "lat": 13.7495,
-      "lng": 100.5285,
+      "lat": 13.74931,
+      "lng": 100.52848,
       "radiusM": 80,
       "address": "Jim Thompson House",
       "howTo": "Visit Jim Thompson House.",
-      "badge": "badges/jim-thompson-house.png"
+      "badge": "badges/jim-thompson-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.74929,
+              100.52834
+            ],
+            [
+              13.74924,
+              100.5286
+            ],
+            [
+              13.74934,
+              100.52863
+            ],
+            [
+              13.74939,
+              100.52836
+            ],
+            [
+              13.74929,
+              100.52834
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lumphini-park",
       "name": "Lumphini Park",
-      "lat": 13.7305,
-      "lng": 100.5415,
+      "lat": 13.73075,
+      "lng": 100.54061,
       "radiusM": 250,
       "address": "Lumphini Park",
       "howTo": "Visit Lumphini Park.",
-      "badge": "badges/lumphini-park.png"
+      "badge": "badges/lumphini-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.73069,
+              100.54042
+            ],
+            [
+              13.73058,
+              100.54047
+            ],
+            [
+              13.73073,
+              100.54082
+            ],
+            [
+              13.73084,
+              100.54077
+            ],
+            [
+              13.73079,
+              100.54066
+            ],
+            [
+              13.73082,
+              100.54065
+            ],
+            [
+              13.73077,
+              100.54053
+            ],
+            [
+              13.73074,
+              100.54055
+            ],
+            [
+              13.73069,
+              100.54042
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-traimit",
       "name": "Wat Traimit",
-      "lat": 13.7375,
-      "lng": 100.5145,
+      "lat": 13.7382,
+      "lng": 100.5135,
       "radiusM": 100,
       "address": "Temple of the Golden Buddha",
       "howTo": "Visit Wat Traimit.",
-      "badge": "badges/wat-traimit.png"
+      "badge": "badges/wat-traimit.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.73785,
+              100.51311
+            ],
+            [
+              13.73769,
+              100.51315
+            ],
+            [
+              13.73772,
+              100.51324
+            ],
+            [
+              13.7374,
+              100.51333
+            ],
+            [
+              13.73774,
+              100.51431
+            ],
+            [
+              13.73824,
+              100.51418
+            ],
+            [
+              13.73841,
+              100.51401
+            ],
+            [
+              13.73847,
+              100.51382
+            ],
+            [
+              13.73872,
+              100.51388
+            ],
+            [
+              13.73878,
+              100.51358
+            ],
+            [
+              13.73849,
+              100.51351
+            ],
+            [
+              13.73852,
+              100.51341
+            ],
+            [
+              13.73848,
+              100.51322
+            ],
+            [
+              13.73844,
+              100.51322
+            ],
+            [
+              13.73834,
+              100.51295
+            ],
+            [
+              13.73788,
+              100.51311
+            ],
+            [
+              13.73785,
+              100.51311
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

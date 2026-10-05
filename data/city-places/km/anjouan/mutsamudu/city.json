@@ -12,7 +12,7 @@
     "maxLat": -12.16355,
     "maxLng": 44.39835
   },
-  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "updatedAt": "2026-10-01T18:52:20.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Mutsamudu",
       "howTo": "Visit Grande Mosqu\u00e9e de Mutsamudu.",
-      "badge": "badges/mutsamudu-mosque.png"
+      "badge": "badges/mutsamudu-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.16641,
+              44.39539
+            ],
+            [
+              -12.16661,
+              44.39548
+            ],
+            [
+              -12.16669,
+              44.39531
+            ],
+            [
+              -12.16649,
+              44.39522
+            ],
+            [
+              -12.16641,
+              44.39539
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mutsamudu-harbor",

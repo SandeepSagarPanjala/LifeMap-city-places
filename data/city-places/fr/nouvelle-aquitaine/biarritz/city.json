@@ -12,38 +12,207 @@
     "maxLat": 43.49,
     "maxLng": -1.54
   },
-  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "updatedAt": "2026-10-01T09:09:35.000Z",
   "status": "complete",
   "places": [
     {
       "id": "grande-plage-biarritz",
       "name": "Grande Plage",
-      "lat": 43.4835,
-      "lng": -1.5585,
+      "lat": 43.48514,
+      "lng": -1.55863,
       "radiusM": 200,
       "address": "Grande Plage, Biarritz",
       "howTo": "Visit Grande Plage.",
-      "badge": "badges/grande-plage-biarritz.png"
+      "badge": "badges/grande-plage-biarritz.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.48368,
+              -1.56156
+            ],
+            [
+              43.48354,
+              -1.56159
+            ],
+            [
+              43.48344,
+              -1.56138
+            ],
+            [
+              43.48354,
+              -1.56046
+            ],
+            [
+              43.48442,
+              -1.55913
+            ],
+            [
+              43.48536,
+              -1.55804
+            ],
+            [
+              43.48631,
+              -1.55728
+            ],
+            [
+              43.48643,
+              -1.55746
+            ],
+            [
+              43.48716,
+              -1.55674
+            ],
+            [
+              43.48721,
+              -1.557
+            ],
+            [
+              43.48677,
+              -1.55723
+            ],
+            [
+              43.48605,
+              -1.55814
+            ],
+            [
+              43.4851,
+              -1.559
+            ],
+            [
+              43.4843,
+              -1.56017
+            ],
+            [
+              43.48377,
+              -1.56133
+            ],
+            [
+              43.48368,
+              -1.56156
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rocher-de-la-vierge",
       "name": "Rocher de la Vierge",
-      "lat": 43.483,
-      "lng": -1.5675,
+      "lat": 43.48403,
+      "lng": -1.56312,
       "radiusM": 100,
       "address": "Rocher de la Vierge",
       "howTo": "Visit Rocher de la Vierge.",
-      "badge": "badges/rocher-de-la-vierge.png"
+      "badge": "badges/rocher-de-la-vierge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.48425,
+              -1.5632
+            ],
+            [
+              43.48417,
+              -1.56306
+            ],
+            [
+              43.48391,
+              -1.56277
+            ],
+            [
+              43.48373,
+              -1.56277
+            ],
+            [
+              43.48369,
+              -1.56287
+            ],
+            [
+              43.48384,
+              -1.56314
+            ],
+            [
+              43.48407,
+              -1.56327
+            ],
+            [
+              43.4842,
+              -1.56348
+            ],
+            [
+              43.48424,
+              -1.56341
+            ],
+            [
+              43.48424,
+              -1.56326
+            ],
+            [
+              43.48425,
+              -1.5632
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "phare-de-biarritz",
       "name": "Phare de Biarritz",
-      "lat": 43.4945,
-      "lng": -1.5525,
+      "lat": 43.49376,
+      "lng": -1.55389,
       "radiusM": 80,
       "address": "Biarritz Lighthouse",
       "howTo": "Visit Phare de Biarritz.",
-      "badge": "badges/phare-de-biarritz.png"
+      "badge": "badges/phare-de-biarritz.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.49374,
+              -1.55381
+            ],
+            [
+              43.49379,
+              -1.55381
+            ],
+            [
+              43.49383,
+              -1.55386
+            ],
+            [
+              43.49383,
+              -1.55393
+            ],
+            [
+              43.49379,
+              -1.55399
+            ],
+            [
+              43.49374,
+              -1.55399
+            ],
+            [
+              43.4937,
+              -1.55393
+            ],
+            [
+              43.4937,
+              -1.55386
+            ],
+            [
+              43.49373,
+              -1.55384
+            ],
+            [
+              43.49374,
+              -1.55381
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

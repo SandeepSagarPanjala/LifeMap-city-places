@@ -12,18 +12,77 @@
     "maxLat": 25.7,
     "maxLng": 94.12
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:39:39.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kohima-war-cemetery",
       "name": "Kohima War Cemetery",
-      "lat": 25.6665,
-      "lng": 94.1055,
+      "lat": 25.66777,
+      "lng": 94.10339,
       "radiusM": 150,
       "address": "Kohima, NL",
       "howTo": "Visit Kohima War Cemetery.",
-      "badge": "badges/kohima-war-cemetery.png"
+      "badge": "badges/kohima-war-cemetery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              25.66698,
+              94.10341
+            ],
+            [
+              25.66735,
+              94.10373
+            ],
+            [
+              25.66794,
+              94.10464
+            ],
+            [
+              25.66817,
+              94.10469
+            ],
+            [
+              25.66834,
+              94.10458
+            ],
+            [
+              25.66849,
+              94.10375
+            ],
+            [
+              25.6682,
+              94.10333
+            ],
+            [
+              25.66825,
+              94.1026
+            ],
+            [
+              25.66806,
+              94.10232
+            ],
+            [
+              25.6677,
+              94.10203
+            ],
+            [
+              25.66686,
+              94.10233
+            ],
+            [
+              25.6669,
+              94.10323
+            ],
+            [
+              25.66698,
+              94.10341
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kisama",

@@ -12,7 +12,7 @@
     "maxLat": 42.4,
     "maxLng": -71.07
   },
-  "updatedAt": "2026-08-11T00:11:53.000Z",
+  "updatedAt": "2026-10-02T20:54:58.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,160 @@
       "radiusM": 250,
       "address": "Harvard Yard, Cambridge, MA",
       "howTo": "Visit Harvard Yard.",
-      "badge": "badges/harvard-yard.png"
+      "badge": "badges/harvard-yard.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37559,
+              -71.11672
+            ],
+            [
+              42.37544,
+              -71.1157
+            ],
+            [
+              42.37478,
+              -71.11459
+            ],
+            [
+              42.37242,
+              -71.11522
+            ],
+            [
+              42.37332,
+              -71.11833
+            ],
+            [
+              42.37367,
+              -71.11872
+            ],
+            [
+              42.37564,
+              -71.11827
+            ],
+            [
+              42.37584,
+              -71.11771
+            ],
+            [
+              42.37559,
+              -71.11674
+            ],
+            [
+              42.37559,
+              -71.11672
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "harvard-square",
       "name": "Harvard Square",
-      "lat": 42.37347,
-      "lng": -71.11894,
+      "lat": 42.37373,
+      "lng": -71.11969,
       "radiusM": 200,
       "address": "Harvard Square, Cambridge, MA",
       "howTo": "Visit Harvard Square.",
-      "badge": "badges/harvard-square.png"
+      "badge": "badges/harvard-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37386,
+              -71.11999
+            ],
+            [
+              42.37367,
+              -71.11994
+            ],
+            [
+              42.3737,
+              -71.11974
+            ],
+            [
+              42.37359,
+              -71.11938
+            ],
+            [
+              42.37369,
+              -71.11932
+            ],
+            [
+              42.37385,
+              -71.11979
+            ],
+            [
+              42.37386,
+              -71.11999
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "harvard-museum-of-natural-history",
       "name": "Harvard Museum of Natural History",
-      "lat": 42.37847,
-      "lng": -71.11565,
+      "lat": 42.37766,
+      "lng": -71.11369,
       "radiusM": 150,
       "address": "26 Oxford St, Cambridge, MA",
       "howTo": "Visit the Harvard Museum of Natural History.",
-      "badge": "badges/harvard-museum-of-natural-history.png"
+      "badge": "badges/harvard-museum-of-natural-history.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37734,
+              -71.11383
+            ],
+            [
+              42.37778,
+              -71.11399
+            ],
+            [
+              42.37781,
+              -71.11374
+            ],
+            [
+              42.37802,
+              -71.11381
+            ],
+            [
+              42.37805,
+              -71.11365
+            ],
+            [
+              42.37759,
+              -71.11348
+            ],
+            [
+              42.37754,
+              -71.11351
+            ],
+            [
+              42.37751,
+              -71.11362
+            ],
+            [
+              42.37753,
+              -71.11366
+            ],
+            [
+              42.37739,
+              -71.1136
+            ],
+            [
+              42.37734,
+              -71.11383
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "harvard-art-museums",
@@ -53,27 +186,208 @@
       "radiusM": 150,
       "address": "32 Quincy St, Cambridge, MA",
       "howTo": "Visit the Harvard Art Museums.",
-      "badge": "badges/harvard-art-museums.png"
+      "badge": "badges/harvard-art-museums.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37419,
+              -71.11444
+            ],
+            [
+              42.3745,
+              -71.11439
+            ],
+            [
+              42.37447,
+              -71.11417
+            ],
+            [
+              42.37434,
+              -71.1142
+            ],
+            [
+              42.3743,
+              -71.11395
+            ],
+            [
+              42.37438,
+              -71.11392
+            ],
+            [
+              42.37434,
+              -71.11379
+            ],
+            [
+              42.3743,
+              -71.1138
+            ],
+            [
+              42.37429,
+              -71.11371
+            ],
+            [
+              42.37385,
+              -71.11383
+            ],
+            [
+              42.37388,
+              -71.11405
+            ],
+            [
+              42.37393,
+              -71.11404
+            ],
+            [
+              42.37397,
+              -71.1143
+            ],
+            [
+              42.37384,
+              -71.11433
+            ],
+            [
+              42.37387,
+              -71.11455
+            ],
+            [
+              42.37401,
+              -71.11451
+            ],
+            [
+              42.37401,
+              -71.11448
+            ],
+            [
+              42.37419,
+              -71.11444
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mit-great-dome",
       "name": "MIT Great Dome",
-      "lat": 42.35876,
-      "lng": -71.09149,
+      "lat": 42.35943,
+      "lng": -71.09101,
       "radiusM": 200,
       "address": "Killian Court, Cambridge, MA",
       "howTo": "Visit Killian Court and the MIT Great Dome.",
-      "badge": "badges/mit-great-dome.png"
+      "badge": "badges/mit-great-dome.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.35971,
+              -71.09169
+            ],
+            [
+              42.35977,
+              -71.09173
+            ],
+            [
+              42.35995,
+              -71.09119
+            ],
+            [
+              42.35908,
+              -71.09067
+            ],
+            [
+              42.35906,
+              -71.09072
+            ],
+            [
+              42.3589,
+              -71.09062
+            ],
+            [
+              42.35885,
+              -71.09079
+            ],
+            [
+              42.35971,
+              -71.0913
+            ],
+            [
+              42.35961,
+              -71.09163
+            ],
+            [
+              42.35969,
+              -71.09168
+            ],
+            [
+              42.35971,
+              -71.09169
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mit-museum",
       "name": "MIT Museum",
-      "lat": 42.36198,
-      "lng": -71.08642,
+      "lat": 42.36161,
+      "lng": -71.0886,
       "radiusM": 150,
       "address": "314 Main St, Cambridge, MA",
       "howTo": "Visit the MIT Museum.",
-      "badge": "badges/mit-museum.png"
+      "badge": "badges/mit-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.36119,
+              -71.08886
+            ],
+            [
+              42.36209,
+              -71.08871
+            ],
+            [
+              42.36209,
+              -71.08863
+            ],
+            [
+              42.36214,
+              -71.08862
+            ],
+            [
+              42.36208,
+              -71.08841
+            ],
+            [
+              42.36143,
+              -71.08848
+            ],
+            [
+              42.36138,
+              -71.08849
+            ],
+            [
+              42.36139,
+              -71.08854
+            ],
+            [
+              42.3612,
+              -71.08856
+            ],
+            [
+              42.36114,
+              -71.08866
+            ],
+            [
+              42.36119,
+              -71.08886
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-auburn-cemetery",
@@ -83,17 +397,139 @@
       "radiusM": 400,
       "address": "580 Mount Auburn St, Cambridge, MA",
       "howTo": "Visit Mount Auburn Cemetery.",
-      "badge": "badges/mount-auburn-cemetery.png"
+      "badge": "badges/mount-auburn-cemetery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.36703,
+              -71.14246
+            ],
+            [
+              42.36665,
+              -71.14317
+            ],
+            [
+              42.36582,
+              -71.14722
+            ],
+            [
+              42.3688,
+              -71.14967
+            ],
+            [
+              42.3691,
+              -71.15017
+            ],
+            [
+              42.36959,
+              -71.15182
+            ],
+            [
+              42.37111,
+              -71.15035
+            ],
+            [
+              42.36963,
+              -71.1475
+            ],
+            [
+              42.37137,
+              -71.14768
+            ],
+            [
+              42.37153,
+              -71.1491
+            ],
+            [
+              42.37223,
+              -71.14928
+            ],
+            [
+              42.37401,
+              -71.15024
+            ],
+            [
+              42.37448,
+              -71.14997
+            ],
+            [
+              42.3747,
+              -71.14907
+            ],
+            [
+              42.37523,
+              -71.1453
+            ],
+            [
+              42.37529,
+              -71.14272
+            ],
+            [
+              42.37484,
+              -71.13986
+            ],
+            [
+              42.37145,
+              -71.14023
+            ],
+            [
+              42.37016,
+              -71.14058
+            ],
+            [
+              42.36703,
+              -71.14246
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "longfellow-house",
       "name": "Longfellow House",
-      "lat": 42.37714,
-      "lng": -71.12631,
+      "lat": 42.37698,
+      "lng": -71.12636,
       "radiusM": 150,
       "address": "105 Brattle St, Cambridge, MA",
       "howTo": "Visit Longfellow House-Washington's Headquarters.",
-      "badge": "badges/longfellow-house.png"
+      "badge": "badges/longfellow-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37682,
+              -71.12629
+            ],
+            [
+              42.37688,
+              -71.12655
+            ],
+            [
+              42.37712,
+              -71.12645
+            ],
+            [
+              42.37709,
+              -71.12629
+            ],
+            [
+              42.37698,
+              -71.12633
+            ],
+            [
+              42.37696,
+              -71.12623
+            ],
+            [
+              42.37682,
+              -71.12629
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cambridge-common",
@@ -103,7 +539,58 @@
       "radiusM": 250,
       "address": "Cambridge Common, Cambridge, MA",
       "howTo": "Visit Cambridge Common.",
-      "badge": "badges/cambridge-common.png"
+      "badge": "badges/cambridge-common.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.3765,
+              -71.12191
+            ],
+            [
+              42.37703,
+              -71.12245
+            ],
+            [
+              42.37735,
+              -71.12238
+            ],
+            [
+              42.37781,
+              -71.1209
+            ],
+            [
+              42.37778,
+              -71.12055
+            ],
+            [
+              42.37758,
+              -71.12025
+            ],
+            [
+              42.37567,
+              -71.11951
+            ],
+            [
+              42.37555,
+              -71.11968
+            ],
+            [
+              42.37557,
+              -71.11983
+            ],
+            [
+              42.37645,
+              -71.12183
+            ],
+            [
+              42.3765,
+              -71.12191
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

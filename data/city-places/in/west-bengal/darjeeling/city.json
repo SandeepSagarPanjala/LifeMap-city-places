@@ -12,7 +12,7 @@
     "maxLat": 27.06,
     "maxLng": 88.28
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T18:31:27.000Z",
   "status": "complete",
   "places": [
     {
@@ -58,12 +58,43 @@
     {
       "id": "padmaja-naidu-zoo",
       "name": "Padmaja Naidu Himalayan Zoo",
-      "lat": 27.0585,
-      "lng": 88.2545,
+      "lat": 27.05865,
+      "lng": 88.25315,
       "radiusM": 150,
       "address": "Himalayan Zoo, Darjeeling, WB",
       "howTo": "Visit Padmaja Naidu Himalayan Zoo.",
-      "badge": "badges/padmaja-naidu-zoo.png"
+      "badge": "badges/padmaja-naidu-zoo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.05928,
+              88.25283
+            ],
+            [
+              27.05825,
+              88.25226
+            ],
+            [
+              27.05817,
+              88.25249
+            ],
+            [
+              27.05827,
+              88.25426
+            ],
+            [
+              27.0593,
+              88.2539
+            ],
+            [
+              27.05928,
+              88.25283
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

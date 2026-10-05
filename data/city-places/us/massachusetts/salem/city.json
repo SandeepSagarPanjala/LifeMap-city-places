@@ -12,7 +12,7 @@
     "maxLat": 42.54,
     "maxLng": -70.87
   },
-  "updatedAt": "2026-08-11T00:11:53.000Z",
+  "updatedAt": "2026-10-03T01:10:50.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,74 @@
       "radiusM": 150,
       "address": "115 Derby St, Salem, MA",
       "howTo": "Visit the House of the Seven Gables.",
-      "badge": "badges/house-of-the-seven-gables.png"
+      "badge": "badges/house-of-the-seven-gables.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52193,
+              -70.88402
+            ],
+            [
+              42.52198,
+              -70.88391
+            ],
+            [
+              42.52201,
+              -70.88393
+            ],
+            [
+              42.52203,
+              -70.88388
+            ],
+            [
+              42.52188,
+              -70.88375
+            ],
+            [
+              42.52192,
+              -70.88365
+            ],
+            [
+              42.52187,
+              -70.8836
+            ],
+            [
+              42.52176,
+              -70.88383
+            ],
+            [
+              42.52168,
+              -70.88376
+            ],
+            [
+              42.52166,
+              -70.88382
+            ],
+            [
+              42.52163,
+              -70.8838
+            ],
+            [
+              42.52161,
+              -70.88384
+            ],
+            [
+              42.5217,
+              -70.88392
+            ],
+            [
+              42.52173,
+              -70.88385
+            ],
+            [
+              42.52193,
+              -70.88402
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "the-witch-house",
@@ -33,7 +100,50 @@
       "radiusM": 150,
       "address": "310 Essex St, Salem, MA",
       "howTo": "Visit The Witch House.",
-      "badge": "badges/the-witch-house.png"
+      "badge": "badges/the-witch-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52148,
+              -70.89891
+            ],
+            [
+              42.5215,
+              -70.89892
+            ],
+            [
+              42.52149,
+              -70.89898
+            ],
+            [
+              42.5216,
+              -70.899
+            ],
+            [
+              42.52162,
+              -70.89882
+            ],
+            [
+              42.52151,
+              -70.8988
+            ],
+            [
+              42.5215,
+              -70.89887
+            ],
+            [
+              42.52148,
+              -70.89888
+            ],
+            [
+              42.52148,
+              -70.89891
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "peabody-essex-museum",
@@ -43,17 +153,143 @@
       "radiusM": 150,
       "address": "161 Essex St, Salem, MA",
       "howTo": "Visit the Peabody Essex Museum.",
-      "badge": "badges/peabody-essex-museum.png"
+      "badge": "badges/peabody-essex-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52131,
+              -70.89276
+            ],
+            [
+              42.52134,
+              -70.89266
+            ],
+            [
+              42.52134,
+              -70.89276
+            ],
+            [
+              42.52148,
+              -70.89282
+            ],
+            [
+              42.5215,
+              -70.89274
+            ],
+            [
+              42.52173,
+              -70.89283
+            ],
+            [
+              42.52176,
+              -70.89261
+            ],
+            [
+              42.52195,
+              -70.89209
+            ],
+            [
+              42.52197,
+              -70.89196
+            ],
+            [
+              42.52169,
+              -70.8919
+            ],
+            [
+              42.52173,
+              -70.89167
+            ],
+            [
+              42.52125,
+              -70.89147
+            ],
+            [
+              42.5212,
+              -70.8918
+            ],
+            [
+              42.52115,
+              -70.89179
+            ],
+            [
+              42.52113,
+              -70.89193
+            ],
+            [
+              42.52138,
+              -70.89201
+            ],
+            [
+              42.52141,
+              -70.89225
+            ],
+            [
+              42.52121,
+              -70.89231
+            ],
+            [
+              42.52113,
+              -70.89247
+            ],
+            [
+              42.5212,
+              -70.89254
+            ],
+            [
+              42.52112,
+              -70.89289
+            ],
+            [
+              42.52126,
+              -70.89295
+            ],
+            [
+              42.52131,
+              -70.89276
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "derby-wharf",
       "name": "Derby Wharf",
-      "lat": 42.51796,
-      "lng": -70.8848,
+      "lat": 42.51658,
+      "lng": -70.88354,
       "radiusM": 250,
       "address": "Derby Wharf, Salem, MA",
       "howTo": "Visit Derby Wharf at Salem Maritime National Historic Site.",
-      "badge": "badges/derby-wharf.png"
+      "badge": "badges/derby-wharf.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.5166,
+              -70.88355
+            ],
+            [
+              42.51659,
+              -70.88351
+            ],
+            [
+              42.51656,
+              -70.88353
+            ],
+            [
+              42.51657,
+              -70.88357
+            ],
+            [
+              42.5166,
+              -70.88355
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "salem-witch-trials-memorial",
@@ -63,7 +299,35 @@
       "radiusM": 150,
       "address": "24 Liberty St, Salem, MA",
       "howTo": "Visit the Salem Witch Trials Memorial.",
-      "badge": "badges/salem-witch-trials-memorial.png"
+      "badge": "badges/salem-witch-trials-memorial.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52088,
+              -70.89212
+            ],
+            [
+              42.52094,
+              -70.89171
+            ],
+            [
+              42.52081,
+              -70.89167
+            ],
+            [
+              42.52075,
+              -70.89209
+            ],
+            [
+              42.52088,
+              -70.89212
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "salem-common",
@@ -73,7 +337,46 @@
       "radiusM": 250,
       "address": "Salem Common, Salem, MA",
       "howTo": "Visit Salem Common.",
-      "badge": "badges/salem-common.png"
+      "badge": "badges/salem-common.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52307,
+              -70.89053
+            ],
+            [
+              42.52374,
+              -70.89058
+            ],
+            [
+              42.52525,
+              -70.88906
+            ],
+            [
+              42.5253,
+              -70.88876
+            ],
+            [
+              42.5234,
+              -70.8876
+            ],
+            [
+              42.52331,
+              -70.88774
+            ],
+            [
+              42.52305,
+              -70.89049
+            ],
+            [
+              42.52307,
+              -70.89053
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "custom-house-salem",
@@ -83,7 +386,58 @@
       "radiusM": 150,
       "address": "176 Derby St, Salem, MA",
       "howTo": "Visit the Custom House at Salem Maritime National Historic Site.",
-      "badge": "badges/custom-house-salem.png"
+      "badge": "badges/custom-house-salem.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.52177,
+              -70.88714
+            ],
+            [
+              42.52168,
+              -70.88738
+            ],
+            [
+              42.52161,
+              -70.88733
+            ],
+            [
+              42.52163,
+              -70.88729
+            ],
+            [
+              42.52153,
+              -70.88722
+            ],
+            [
+              42.52157,
+              -70.88709
+            ],
+            [
+              42.52158,
+              -70.8871
+            ],
+            [
+              42.5216,
+              -70.88706
+            ],
+            [
+              42.52169,
+              -70.88713
+            ],
+            [
+              42.52171,
+              -70.88709
+            ],
+            [
+              42.52177,
+              -70.88714
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "salem-witch-museum",
@@ -93,7 +447,38 @@
       "radiusM": 150,
       "address": "19 1/2 Washington Square N, Salem, MA",
       "howTo": "Visit the Salem Witch Museum.",
-      "badge": "badges/salem-witch-museum.png"
+      "badge": "badges/salem-witch-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.5237,
+              -70.89092
+            ],
+            [
+              42.52355,
+              -70.89106
+            ],
+            [
+              42.52369,
+              -70.8913
+            ],
+            [
+              42.52379,
+              -70.89133
+            ],
+            [
+              42.52387,
+              -70.89123
+            ],
+            [
+              42.5237,
+              -70.89092
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

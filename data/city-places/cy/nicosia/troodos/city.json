@@ -12,18 +12,61 @@
     "maxLat": 35.0,
     "maxLng": 32.88
   },
-  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "updatedAt": "2026-10-01T08:09:46.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kykkos-monastery",
       "name": "Kykkos Monastery",
-      "lat": 34.98387,
-      "lng": 32.74108,
+      "lat": 34.98367,
+      "lng": 32.74023,
       "radiusM": 150,
       "address": "Troodos",
       "howTo": "Visit Kykkos Monastery.",
-      "badge": "badges/kykkos-monastery.png"
+      "badge": "badges/kykkos-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.98374,
+              32.74031
+            ],
+            [
+              34.98376,
+              32.74023
+            ],
+            [
+              34.98373,
+              32.74014
+            ],
+            [
+              34.98367,
+              32.74011
+            ],
+            [
+              34.98361,
+              32.74015
+            ],
+            [
+              34.98358,
+              32.74023
+            ],
+            [
+              34.98361,
+              32.74031
+            ],
+            [
+              34.98367,
+              32.74034
+            ],
+            [
+              34.98374,
+              32.74031
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-olympus-cyprus",

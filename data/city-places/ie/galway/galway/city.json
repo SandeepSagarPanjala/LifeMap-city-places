@@ -12,18 +12,53 @@
     "maxLat": 53.28,
     "maxLng": -9.04
   },
-  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "updatedAt": "2026-10-01T10:06:41.000Z",
   "status": "complete",
   "places": [
     {
       "id": "galway-spanish-arch",
       "name": "Spanish Arch",
-      "lat": 53.269,
+      "lat": 53.26979,
       "lng": -9.054,
       "radiusM": 100,
       "address": "Latin Quarter",
       "howTo": "Visit Spanish Arch.",
-      "badge": "badges/galway-spanish-arch.png"
+      "badge": "badges/galway-spanish-arch.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              53.26971,
+              -9.05416
+            ],
+            [
+              53.26967,
+              -9.05409
+            ],
+            [
+              53.26992,
+              -9.05375
+            ],
+            [
+              53.2698,
+              -9.05394
+            ],
+            [
+              53.26983,
+              -9.054
+            ],
+            [
+              53.26979,
+              -9.05405
+            ],
+            [
+              53.26971,
+              -9.05416
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "eyre-square",
@@ -33,7 +68,54 @@
       "radiusM": 150,
       "address": "Eyre Square",
       "howTo": "Visit Eyre Square.",
-      "badge": "badges/eyre-square.png"
+      "badge": "badges/eyre-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              53.27368,
+              -9.04904
+            ],
+            [
+              53.27456,
+              -9.05037
+            ],
+            [
+              53.2746,
+              -9.05032
+            ],
+            [
+              53.27501,
+              -9.04939
+            ],
+            [
+              53.27501,
+              -9.04921
+            ],
+            [
+              53.27491,
+              -9.04915
+            ],
+            [
+              53.27441,
+              -9.04845
+            ],
+            [
+              53.27429,
+              -9.04817
+            ],
+            [
+              53.27415,
+              -9.04814
+            ],
+            [
+              53.27368,
+              -9.04904
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 34.00982,
     "maxLng": 36.20698
   },
-  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "updatedAt": "2026-10-01T19:00:02.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 80,
       "address": "Baalbek",
       "howTo": "Visit the Temple of Jupiter.",
-      "badge": "badges/temple-jupiter.png"
+      "badge": "badges/temple-jupiter.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.00694,
+              36.20283
+            ],
+            [
+              34.00714,
+              36.2038
+            ],
+            [
+              34.0067,
+              36.20394
+            ],
+            [
+              34.0065,
+              36.20297
+            ],
+            [
+              34.00694,
+              36.20283
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "temple-bacchus",
@@ -33,7 +60,34 @@
       "radiusM": 60,
       "address": "Baalbek",
       "howTo": "Visit the Temple of Bacchus.",
-      "badge": "badges/temple-bacchus.png"
+      "badge": "badges/temple-bacchus.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.00619,
+              36.20362
+            ],
+            [
+              34.00632,
+              36.20424
+            ],
+            [
+              34.00602,
+              36.20433
+            ],
+            [
+              34.00589,
+              36.20372
+            ],
+            [
+              34.00619,
+              36.20362
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

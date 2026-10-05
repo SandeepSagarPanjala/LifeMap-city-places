@@ -12,7 +12,7 @@
     "maxLat": 34.55368,
     "maxLng": 38.27707
   },
-  "updatedAt": "2026-08-20T11:25:09.000Z",
+  "updatedAt": "2026-10-01T20:56:56.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 100,
       "address": "Palmyra",
       "howTo": "Visit the Temple of Bel.",
-      "badge": "badges/temple-of-bel.png"
+      "badge": "badges/temple-of-bel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.54748,
+              38.27416
+            ],
+            [
+              34.54714,
+              38.27414
+            ],
+            [
+              34.54715,
+              38.27399
+            ],
+            [
+              34.54749,
+              38.27401
+            ],
+            [
+              34.54748,
+              38.27416
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palmyra-theatre",
@@ -33,7 +60,51 @@
       "radiusM": 80,
       "address": "Palmyra",
       "howTo": "Visit the Palmyra Theatre.",
-      "badge": "badges/palmyra-theatre.png"
+      "badge": "badges/palmyra-theatre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.55094,
+              38.26871
+            ],
+            [
+              34.55074,
+              38.26854
+            ],
+            [
+              34.55065,
+              38.26851
+            ],
+            [
+              34.55051,
+              38.26854
+            ],
+            [
+              34.55045,
+              38.2686
+            ],
+            [
+              34.5504,
+              38.26876
+            ],
+            [
+              34.55044,
+              38.26892
+            ],
+            [
+              34.55071,
+              38.26915
+            ],
+            [
+              34.55094,
+              38.26871
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     }
   ]
 }

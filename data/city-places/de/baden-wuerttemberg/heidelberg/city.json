@@ -12,7 +12,7 @@
     "maxLat": 49.42,
     "maxLng": 8.72
   },
-  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "updatedAt": "2026-10-01T08:13:38.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,102 @@
       "radiusM": 200,
       "address": "Schloss Heidelberg",
       "howTo": "Visit Heidelberg Castle.",
-      "badge": "badges/heidelberg-castle.png"
+      "badge": "badges/heidelberg-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.40956,
+              8.71552
+            ],
+            [
+              49.40965,
+              8.71663
+            ],
+            [
+              49.41002,
+              8.71651
+            ],
+            [
+              49.41017,
+              8.71679
+            ],
+            [
+              49.41021,
+              8.71642
+            ],
+            [
+              49.41075,
+              8.71641
+            ],
+            [
+              49.41081,
+              8.71672
+            ],
+            [
+              49.41089,
+              8.71629
+            ],
+            [
+              49.4115,
+              8.71572
+            ],
+            [
+              49.41186,
+              8.71561
+            ],
+            [
+              49.41163,
+              8.71528
+            ],
+            [
+              49.41139,
+              8.71521
+            ],
+            [
+              49.41108,
+              8.71423
+            ],
+            [
+              49.41101,
+              8.71429
+            ],
+            [
+              49.41079,
+              8.71388
+            ],
+            [
+              49.41035,
+              8.71399
+            ],
+            [
+              49.41028,
+              8.71385
+            ],
+            [
+              49.41031,
+              8.71405
+            ],
+            [
+              49.40925,
+              8.71408
+            ],
+            [
+              49.40939,
+              8.71512
+            ],
+            [
+              49.40953,
+              8.71509
+            ],
+            [
+              49.40956,
+              8.71552
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "alte-brucke-heidelberg",
@@ -33,17 +128,87 @@
       "radiusM": 100,
       "address": "Old Bridge",
       "howTo": "Visit Alte Br\u00fccke.",
-      "badge": "badges/alte-brucke-heidelberg.png"
+      "badge": "badges/alte-brucke-heidelberg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.41513,
+              8.70946
+            ],
+            [
+              49.41513,
+              8.70957
+            ],
+            [
+              49.41336,
+              8.70965
+            ],
+            [
+              49.41335,
+              8.70954
+            ],
+            [
+              49.41356,
+              8.70946
+            ],
+            [
+              49.41512,
+              8.70946
+            ],
+            [
+              49.41513,
+              8.70946
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "philosophenweg",
       "name": "Philosophenweg",
-      "lat": 49.4175,
-      "lng": 8.7055,
+      "lat": 49.41586,
+      "lng": 8.70259,
       "radiusM": 200,
       "address": "Philosophers' Walk",
       "howTo": "Visit Philosophenweg.",
-      "badge": "badges/philosophenweg.png"
+      "badge": "badges/philosophenweg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.41589,
+              8.70254
+            ],
+            [
+              49.41586,
+              8.70249
+            ],
+            [
+              49.4158,
+              8.70255
+            ],
+            [
+              49.41586,
+              8.70271
+            ],
+            [
+              49.4159,
+              8.70267
+            ],
+            [
+              49.41588,
+              8.7026
+            ],
+            [
+              49.41589,
+              8.70254
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 42.662,
     "maxLng": 27.738
   },
-  "updatedAt": "2026-08-18T02:32:07.000Z",
+  "updatedAt": "2026-10-01T06:59:33.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "church-christ-pantocrator",
       "name": "Church of Christ Pantocrator",
-      "lat": 42.6595,
-      "lng": 27.7335,
+      "lat": 42.6587,
+      "lng": 27.73333,
       "radiusM": 80,
       "address": "Nessebar",
       "howTo": "Visit Church of Christ Pantocrator.",
-      "badge": "badges/church-christ-pantocrator.png"
+      "badge": "badges/church-christ-pantocrator.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.65868,
+              27.73325
+            ],
+            [
+              42.65873,
+              27.73325
+            ],
+            [
+              42.65873,
+              27.73342
+            ],
+            [
+              42.65868,
+              27.73341
+            ],
+            [
+              42.65868,
+              27.73325
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

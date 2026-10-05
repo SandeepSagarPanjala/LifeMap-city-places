@@ -12,7 +12,7 @@
     "maxLat": 43.12,
     "maxLng": 12.4
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-02T18:33:32.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,160 @@
       "radiusM": 100,
       "address": "Piazza IV Novembre",
       "howTo": "Visit Piazza IV Novembre.",
-      "badge": "badges/piazza-iv-novembre.png"
+      "badge": "badges/piazza-iv-novembre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.11193,
+              12.38855
+            ],
+            [
+              43.11198,
+              12.38828
+            ],
+            [
+              43.11231,
+              12.38838
+            ],
+            [
+              43.11227,
+              12.38888
+            ],
+            [
+              43.11217,
+              12.38933
+            ],
+            [
+              43.11182,
+              12.38907
+            ],
+            [
+              43.1119,
+              12.38871
+            ],
+            [
+              43.11197,
+              12.38865
+            ],
+            [
+              43.11195,
+              12.38857
+            ],
+            [
+              43.11193,
+              12.38855
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palazzo-dei-priori",
       "name": "Palazzo dei Priori",
-      "lat": 43.1115,
-      "lng": 12.388,
+      "lat": 43.11157,
+      "lng": 12.38837,
       "radiusM": 80,
       "address": "Palazzo dei Priori",
       "howTo": "Visit Palazzo dei Priori.",
-      "badge": "badges/palazzo-dei-priori.png"
+      "badge": "badges/palazzo-dei-priori.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.11197,
+              12.38837
+            ],
+            [
+              43.1119,
+              12.38873
+            ],
+            [
+              43.11116,
+              12.38853
+            ],
+            [
+              43.11122,
+              12.38815
+            ],
+            [
+              43.1115,
+              12.38827
+            ],
+            [
+              43.11148,
+              12.38836
+            ],
+            [
+              43.11151,
+              12.38837
+            ],
+            [
+              43.11154,
+              12.38823
+            ],
+            [
+              43.11181,
+              12.38833
+            ],
+            [
+              43.11197,
+              12.38837
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "corso-vannucci",
       "name": "Corso Vannucci",
-      "lat": 43.1105,
-      "lng": 12.3885,
+      "lat": 43.11026,
+      "lng": 12.38878,
       "radiusM": 150,
       "address": "Corso Vannucci",
       "howTo": "Visit Corso Vannucci.",
-      "badge": "badges/corso-vannucci.png"
+      "badge": "badges/corso-vannucci.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.11036,
+              12.38851
+            ],
+            [
+              43.11017,
+              12.38857
+            ],
+            [
+              43.11011,
+              12.38894
+            ],
+            [
+              43.11025,
+              12.38896
+            ],
+            [
+              43.11027,
+              12.38882
+            ],
+            [
+              43.11034,
+              12.38884
+            ],
+            [
+              43.11034,
+              12.38879
+            ],
+            [
+              43.11036,
+              12.38851
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 35.888,
     "maxLng": 14.406
   },
-  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "updatedAt": "2026-10-01T19:23:22.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,51 @@
     {
       "id": "st-pauls-cathedral-mdina",
       "name": "St Paul's Cathedral",
-      "lat": 35.8858,
-      "lng": 14.4039,
+      "lat": 35.88648,
+      "lng": 14.40411,
       "radiusM": 80,
       "address": "Mdina",
       "howTo": "Visit St Paul's Cathedral.",
-      "badge": "badges/st-pauls-cathedral-mdina.png"
+      "badge": "badges/st-pauls-cathedral-mdina.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.88653,
+              14.40377
+            ],
+            [
+              35.88623,
+              14.40384
+            ],
+            [
+              35.88633,
+              14.40445
+            ],
+            [
+              35.88656,
+              14.4044
+            ],
+            [
+              35.88654,
+              14.40426
+            ],
+            [
+              35.8866,
+              14.40424
+            ],
+            [
+              35.88654,
+              14.40384
+            ],
+            [
+              35.88653,
+              14.40377
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

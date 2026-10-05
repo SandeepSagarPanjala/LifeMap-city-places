@@ -12,18 +12,93 @@
     "maxLat": 43.31,
     "maxLng": 5.39
   },
-  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "updatedAt": "2026-10-01T09:14:47.000Z",
   "status": "complete",
   "places": [
     {
       "id": "vieux-port-marseille",
       "name": "Vieux-Port",
-      "lat": 43.2951,
-      "lng": 5.3735,
+      "lat": 43.29453,
+      "lng": 5.37389,
       "radiusM": 200,
       "address": "Old Port of Marseille",
       "howTo": "Visit Vieux-Port.",
-      "badge": "badges/vieux-port-marseille.png"
+      "badge": "badges/vieux-port-marseille.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.29443,
+              5.37396
+            ],
+            [
+              43.29452,
+              5.37394
+            ],
+            [
+              43.29458,
+              5.37386
+            ],
+            [
+              43.29461,
+              5.37392
+            ],
+            [
+              43.29465,
+              5.37391
+            ],
+            [
+              43.29466,
+              5.37388
+            ],
+            [
+              43.29461,
+              5.37382
+            ],
+            [
+              43.2948,
+              5.37354
+            ],
+            [
+              43.29477,
+              5.3735
+            ],
+            [
+              43.29451,
+              5.37388
+            ],
+            [
+              43.29437,
+              5.37392
+            ],
+            [
+              43.29433,
+              5.37387
+            ],
+            [
+              43.29447,
+              5.37366
+            ],
+            [
+              43.29445,
+              5.37364
+            ],
+            [
+              43.29428,
+              5.3739
+            ],
+            [
+              43.29437,
+              5.37398
+            ],
+            [
+              43.29443,
+              5.37396
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "notre-dame-de-la-garde",
@@ -33,7 +108,54 @@
       "radiusM": 150,
       "address": "Notre-Dame de la Garde",
       "howTo": "Visit Notre-Dame de la Garde.",
-      "badge": "badges/notre-dame-de-la-garde.png"
+      "badge": "badges/notre-dame-de-la-garde.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.28384,
+              5.3715
+            ],
+            [
+              43.28386,
+              5.37152
+            ],
+            [
+              43.28411,
+              5.37114
+            ],
+            [
+              43.28409,
+              5.3711
+            ],
+            [
+              43.28413,
+              5.37101
+            ],
+            [
+              43.28408,
+              5.37095
+            ],
+            [
+              43.28403,
+              5.37103
+            ],
+            [
+              43.284,
+              5.371
+            ],
+            [
+              43.28375,
+              5.37139
+            ],
+            [
+              43.28384,
+              5.3715
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mucem",
@@ -43,7 +165,34 @@
       "radiusM": 120,
       "address": "MuCEM, Marseille",
       "howTo": "Visit MuCEM.",
-      "badge": "badges/mucem.png"
+      "badge": "badges/mucem.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.29683,
+              5.36045
+            ],
+            [
+              43.29714,
+              5.36116
+            ],
+            [
+              43.29663,
+              5.3616
+            ],
+            [
+              43.29631,
+              5.36088
+            ],
+            [
+              43.29683,
+              5.36045
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "calanques-marseille",

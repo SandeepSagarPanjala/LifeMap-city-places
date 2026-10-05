@@ -12,7 +12,7 @@
     "maxLat": -42.87,
     "maxLng": 147.35
   },
-  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "updatedAt": "2026-10-01T04:40:08.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,119 @@
       "radiusM": 150,
       "address": "Salamanca Place",
       "howTo": "Visit Salamanca Place.",
-      "badge": "badges/salamanca-place.png"
+      "badge": "badges/salamanca-place.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -42.88678,
+              147.33467
+            ],
+            [
+              -42.88658,
+              147.33467
+            ],
+            [
+              -42.88656,
+              147.33211
+            ],
+            [
+              -42.8863,
+              147.3323
+            ],
+            [
+              -42.88617,
+              147.332
+            ],
+            [
+              -42.88616,
+              147.33181
+            ],
+            [
+              -42.88643,
+              147.33168
+            ],
+            [
+              -42.88655,
+              147.3318
+            ],
+            [
+              -42.88614,
+              147.33047
+            ],
+            [
+              -42.88604,
+              147.33052
+            ],
+            [
+              -42.8852,
+              147.32894
+            ],
+            [
+              -42.88531,
+              147.32882
+            ],
+            [
+              -42.88636,
+              147.33066
+            ],
+            [
+              -42.88676,
+              147.33191
+            ],
+            [
+              -42.88678,
+              147.33467
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-wellington",
       "name": "kunanyi / Mount Wellington",
-      "lat": -42.8965,
-      "lng": 147.2365,
+      "lat": -42.89543,
+      "lng": 147.23836,
       "radiusM": 250,
       "address": "Mount Wellington summit area",
       "howTo": "Visit kunanyi / Mount Wellington.",
-      "badge": "badges/mount-wellington.png"
+      "badge": "badges/mount-wellington.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -42.89539,
+              147.23847
+            ],
+            [
+              -42.89549,
+              147.23847
+            ],
+            [
+              -42.89546,
+              147.23825
+            ],
+            [
+              -42.89542,
+              147.23825
+            ],
+            [
+              -42.89542,
+              147.23833
+            ],
+            [
+              -42.89539,
+              147.23838
+            ],
+            [
+              -42.89539,
+              147.23847
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mona-hobart",
@@ -48,12 +150,47 @@
     {
       "id": "battery-point",
       "name": "Battery Point",
-      "lat": -42.8895,
-      "lng": 147.3335,
+      "lat": -42.89011,
+      "lng": 147.32925,
       "radiusM": 150,
       "address": "Battery Point",
       "howTo": "Visit Battery Point.",
-      "badge": "badges/battery-point.png"
+      "badge": "badges/battery-point.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -42.89024,
+              147.32928
+            ],
+            [
+              -42.89012,
+              147.32911
+            ],
+            [
+              -42.89007,
+              147.32917
+            ],
+            [
+              -42.8901,
+              147.32923
+            ],
+            [
+              -42.89003,
+              147.32931
+            ],
+            [
+              -42.89011,
+              147.32943
+            ],
+            [
+              -42.89024,
+              147.32928
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

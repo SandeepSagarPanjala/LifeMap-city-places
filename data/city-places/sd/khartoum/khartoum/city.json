@@ -12,7 +12,7 @@
     "maxLat": 15.6235,
     "maxLng": 32.51135
   },
-  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "updatedAt": "2026-10-01T20:33:33.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 60,
       "address": "Khartoum",
       "howTo": "Visit the Sudan National Museum.",
-      "badge": "badges/national-museum.png"
+      "badge": "badges/national-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.60676,
+              32.50937
+            ],
+            [
+              15.60684,
+              32.50736
+            ],
+            [
+              15.6055,
+              32.50733
+            ],
+            [
+              15.60532,
+              32.50933
+            ],
+            [
+              15.60676,
+              32.50937
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nilein-mosque",

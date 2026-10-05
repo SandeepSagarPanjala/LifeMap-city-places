@@ -12,18 +12,45 @@
     "maxLat": 30.342,
     "maxLng": 35.456
   },
-  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "updatedAt": "2026-10-01T11:21:03.000Z",
   "status": "complete",
   "places": [
     {
       "id": "petra-treasury",
       "name": "The Treasury",
-      "lat": 30.3225,
-      "lng": 35.4513,
+      "lat": 30.32207,
+      "lng": 35.45153,
       "radiusM": 80,
       "address": "Al-Khazneh",
       "howTo": "Visit The Treasury.",
-      "badge": "badges/petra-treasury.png"
+      "badge": "badges/petra-treasury.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.32214,
+              35.45146
+            ],
+            [
+              30.32216,
+              35.45152
+            ],
+            [
+              30.32201,
+              35.45159
+            ],
+            [
+              30.32199,
+              35.45153
+            ],
+            [
+              30.32214,
+              35.45146
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "petra-monastery",

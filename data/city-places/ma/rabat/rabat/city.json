@@ -12,38 +12,167 @@
     "maxLat": 34.04,
     "maxLng": -6.8
   },
-  "updatedAt": "2026-08-18T02:15:00.000Z",
+  "updatedAt": "2026-10-01T12:25:09.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hassan-tower",
       "name": "Hassan Tower",
-      "lat": 34.0244,
-      "lng": -6.8225,
+      "lat": 34.02414,
+      "lng": -6.82279,
       "radiusM": 150,
       "address": "Tour Hassan",
       "howTo": "Visit Hassan Tower.",
-      "badge": "badges/hassan-tower.png"
+      "badge": "badges/hassan-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.02423,
+              -6.82275
+            ],
+            [
+              34.0241,
+              -6.82268
+            ],
+            [
+              34.02404,
+              -6.82283
+            ],
+            [
+              34.02417,
+              -6.8229
+            ],
+            [
+              34.02423,
+              -6.82275
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kasbah-of-the-udayas",
       "name": "Kasbah of the Udayas",
-      "lat": 34.0331,
-      "lng": -6.8369,
+      "lat": 34.03045,
+      "lng": -6.83573,
       "radiusM": 200,
       "address": "Kasbah",
       "howTo": "Visit Kasbah of the Udayas.",
-      "badge": "badges/kasbah-of-the-udayas.png"
+      "badge": "badges/kasbah-of-the-udayas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.0305,
+              -6.83587
+            ],
+            [
+              34.0307,
+              -6.83559
+            ],
+            [
+              34.03065,
+              -6.83554
+            ],
+            [
+              34.03067,
+              -6.83552
+            ],
+            [
+              34.03054,
+              -6.83539
+            ],
+            [
+              34.03042,
+              -6.83556
+            ],
+            [
+              34.0304,
+              -6.83553
+            ],
+            [
+              34.03032,
+              -6.83564
+            ],
+            [
+              34.03035,
+              -6.83566
+            ],
+            [
+              34.03031,
+              -6.83571
+            ],
+            [
+              34.0304,
+              -6.8358
+            ],
+            [
+              34.03028,
+              -6.83596
+            ],
+            [
+              34.03034,
+              -6.83601
+            ],
+            [
+              34.03038,
+              -6.83595
+            ],
+            [
+              34.03042,
+              -6.83599
+            ],
+            [
+              34.0305,
+              -6.83588
+            ],
+            [
+              34.0305,
+              -6.83587
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "chellah-necropolis",
       "name": "Chellah Necropolis",
-      "lat": 34.0069,
-      "lng": -6.8225,
+      "lat": 34.00663,
+      "lng": -6.82037,
       "radiusM": 200,
       "address": "Chellah",
       "howTo": "Visit Chellah Necropolis.",
-      "badge": "badges/chellah-necropolis.png"
+      "badge": "badges/chellah-necropolis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.00654,
+              -6.82068
+            ],
+            [
+              34.00692,
+              -6.82033
+            ],
+            [
+              34.00673,
+              -6.82004
+            ],
+            [
+              34.00632,
+              -6.82043
+            ],
+            [
+              34.00654,
+              -6.82068
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

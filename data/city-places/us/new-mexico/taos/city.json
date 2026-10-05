@@ -12,7 +12,7 @@
     "maxLat": 36.45,
     "maxLng": -105.5
   },
-  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "updatedAt": "2026-10-02T21:10:46.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "rio-grande-gorge-bridge",
       "name": "Rio Grande Gorge Bridge",
-      "lat": 36.4755,
-      "lng": -105.7315,
+      "lat": 36.47625,
+      "lng": -105.73307,
       "radiusM": 150,
       "address": "US-64, Taos, NM",
       "howTo": "Visit the Rio Grande Gorge Bridge.",
-      "badge": "badges/rio-grande-gorge-bridge.png"
+      "badge": "badges/rio-grande-gorge-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.4763,
+              -105.73085
+            ],
+            [
+              36.4763,
+              -105.73529
+            ],
+            [
+              36.47619,
+              -105.73529
+            ],
+            [
+              36.47621,
+              -105.73085
+            ],
+            [
+              36.4763,
+              -105.73085
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "san-francisco-de-asis",
@@ -43,17 +70,147 @@
       "radiusM": 120,
       "address": "60 St Francis Plaza, Ranchos de Taos, NM",
       "howTo": "Visit San Francisco de As\u00eds Church.",
-      "badge": "badges/san-francisco-de-asis.png"
+      "badge": "badges/san-francisco-de-asis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.35852,
+              -105.60851
+            ],
+            [
+              36.35847,
+              -105.60862
+            ],
+            [
+              36.35841,
+              -105.60857
+            ],
+            [
+              36.35845,
+              -105.60847
+            ],
+            [
+              36.35833,
+              -105.60836
+            ],
+            [
+              36.35835,
+              -105.60833
+            ],
+            [
+              36.35831,
+              -105.60829
+            ],
+            [
+              36.35833,
+              -105.60825
+            ],
+            [
+              36.35836,
+              -105.60828
+            ],
+            [
+              36.35838,
+              -105.60826
+            ],
+            [
+              36.3585,
+              -105.60837
+            ],
+            [
+              36.35852,
+              -105.60834
+            ],
+            [
+              36.35858,
+              -105.60839
+            ],
+            [
+              36.35855,
+              -105.60844
+            ],
+            [
+              36.35859,
+              -105.60849
+            ],
+            [
+              36.35856,
+              -105.60854
+            ],
+            [
+              36.35854,
+              -105.60853
+            ],
+            [
+              36.35852,
+              -105.60851
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "taos-plaza",
       "name": "Taos Plaza",
-      "lat": 36.4075,
-      "lng": -105.5735,
+      "lat": 36.40722,
+      "lng": -105.57452,
       "radiusM": 150,
       "address": "Taos Plaza, Taos, NM",
       "howTo": "Visit Taos Plaza.",
-      "badge": "badges/taos-plaza.png"
+      "badge": "badges/taos-plaza.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.4074,
+              -105.57471
+            ],
+            [
+              36.40738,
+              -105.57481
+            ],
+            [
+              36.40733,
+              -105.57486
+            ],
+            [
+              36.40717,
+              -105.5749
+            ],
+            [
+              36.4071,
+              -105.57487
+            ],
+            [
+              36.407,
+              -105.57421
+            ],
+            [
+              36.40704,
+              -105.57416
+            ],
+            [
+              36.40722,
+              -105.57412
+            ],
+            [
+              36.40726,
+              -105.57418
+            ],
+            [
+              36.40731,
+              -105.57436
+            ],
+            [
+              36.4074,
+              -105.57471
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

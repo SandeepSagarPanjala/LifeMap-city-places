@@ -12,48 +12,172 @@
     "maxLat": -12.96,
     "maxLng": -38.48
   },
-  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "updatedAt": "2026-10-01T13:36:00.000Z",
   "status": "complete",
   "places": [
     {
       "id": "pelourinho",
       "name": "Pelourinho",
-      "lat": -12.9718,
-      "lng": -38.5108,
+      "lat": -12.97149,
+      "lng": -38.50834,
       "radiusM": 200,
       "address": "Historic Center",
       "howTo": "Visit Pelourinho.",
-      "badge": "badges/pelourinho.png"
+      "badge": "badges/pelourinho.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.97135,
+              -38.50831
+            ],
+            [
+              -12.97158,
+              -38.50851
+            ],
+            [
+              -12.97175,
+              -38.50836
+            ],
+            [
+              -12.97176,
+              -38.50832
+            ],
+            [
+              -12.97136,
+              -38.50828
+            ],
+            [
+              -12.97133,
+              -38.50828
+            ],
+            [
+              -12.97132,
+              -38.5083
+            ],
+            [
+              -12.97135,
+              -38.50831
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "elevador-lacerda",
       "name": "Elevador Lacerda",
-      "lat": -12.9744,
-      "lng": -38.5128,
+      "lat": -12.97409,
+      "lng": -38.51336,
       "radiusM": 80,
       "address": "Cidade Alta / Cidade Baixa",
       "howTo": "Visit Elevador Lacerda.",
-      "badge": "badges/elevador-lacerda.png"
+      "badge": "badges/elevador-lacerda.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.97414,
+              -38.51336
+            ],
+            [
+              -12.97409,
+              -38.51331
+            ],
+            [
+              -12.97404,
+              -38.51336
+            ],
+            [
+              -12.97409,
+              -38.51341
+            ],
+            [
+              -12.97414,
+              -38.51336
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "farol-da-barra",
       "name": "Farol da Barra",
-      "lat": -13.0104,
-      "lng": -38.5328,
+      "lat": -13.01032,
+      "lng": -38.53291,
       "radiusM": 100,
       "address": "Porto da Barra",
       "howTo": "Visit Farol da Barra.",
-      "badge": "badges/farol-da-barra.png"
+      "badge": "badges/farol-da-barra.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -13.01029,
+              -38.53289
+            ],
+            [
+              -13.0103,
+              -38.53294
+            ],
+            [
+              -13.01035,
+              -38.53295
+            ],
+            [
+              -13.01036,
+              -38.53291
+            ],
+            [
+              -13.01032,
+              -38.53288
+            ],
+            [
+              -13.01029,
+              -38.53289
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "igreja-do-bonfim",
       "name": "Igreja do Bonfim",
-      "lat": -12.9236,
-      "lng": -38.5065,
+      "lat": -12.92375,
+      "lng": -38.50812,
       "radiusM": 80,
       "address": "Colina Sagrada do Bonfim",
       "howTo": "Visit Igreja do Bonfim.",
-      "badge": "badges/igreja-do-bonfim.png"
+      "badge": "badges/igreja-do-bonfim.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.92384,
+              -38.50833
+            ],
+            [
+              -12.92353,
+              -38.50811
+            ],
+            [
+              -12.92367,
+              -38.50791
+            ],
+            [
+              -12.92398,
+              -38.50814
+            ],
+            [
+              -12.92384,
+              -38.50833
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

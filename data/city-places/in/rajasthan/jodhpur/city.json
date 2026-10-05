@@ -12,7 +12,7 @@
     "maxLat": 26.32,
     "maxLng": 73.05
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-05T00:37:44.000Z",
   "status": "complete",
   "places": [
     {
@@ -43,7 +43,82 @@
       "radiusM": 200,
       "address": "Umaid Bhawan Palace, Jodhpur, RJ",
       "howTo": "Visit Umaid Bhawan Palace.",
-      "badge": "badges/umaid-bhawan.png"
+      "badge": "badges/umaid-bhawan.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.28167,
+              73.04654
+            ],
+            [
+              26.28126,
+              73.04666
+            ],
+            [
+              26.2813,
+              73.04684
+            ],
+            [
+              26.28052,
+              73.04705
+            ],
+            [
+              26.28048,
+              73.04688
+            ],
+            [
+              26.28008,
+              73.04699
+            ],
+            [
+              26.28023,
+              73.04771
+            ],
+            [
+              26.28063,
+              73.0476
+            ],
+            [
+              26.28067,
+              73.04782
+            ],
+            [
+              26.28103,
+              73.04765
+            ],
+            [
+              26.28104,
+              73.04771
+            ],
+            [
+              26.28135,
+              73.04756
+            ],
+            [
+              26.28136,
+              73.04763
+            ],
+            [
+              26.2815,
+              73.0476
+            ],
+            [
+              26.28144,
+              73.04735
+            ],
+            [
+              26.28183,
+              73.04724
+            ],
+            [
+              26.28167,
+              73.04654
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "clock-tower-jodhpur",
@@ -53,7 +128,35 @@
       "radiusM": 120,
       "address": "Ghanta Ghar, Jodhpur, RJ",
       "howTo": "Visit Clock Tower & Sardar Market.",
-      "badge": "badges/clock-tower-jodhpur.png"
+      "badge": "badges/clock-tower-jodhpur.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.29499,
+              73.02395
+            ],
+            [
+              26.29501,
+              73.02406
+            ],
+            [
+              26.29512,
+              73.02404
+            ],
+            [
+              26.2951,
+              73.02393
+            ],
+            [
+              26.29499,
+              73.02395
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "mandore-gardens",

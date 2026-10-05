@@ -12,7 +12,7 @@
     "maxLat": 38.35,
     "maxLng": -0.47
   },
-  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "updatedAt": "2026-10-01T17:38:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,80 @@
     {
       "id": "explanada-alicante",
       "name": "Explanada de Espa\u00f1a",
-      "lat": 38.3435,
-      "lng": -0.4855,
+      "lat": 38.34609,
+      "lng": -0.48453,
       "radiusM": 150,
       "address": "Explanada",
       "howTo": "Visit Explanada de Espa\u00f1a.",
-      "badge": "badges/explanada-alicante.png"
+      "badge": "badges/explanada-alicante.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.3462,
+              -0.48471
+            ],
+            [
+              38.34592,
+              -0.48456
+            ],
+            [
+              38.34598,
+              -0.48434
+            ],
+            [
+              38.34627,
+              -0.4845
+            ],
+            [
+              38.3462,
+              -0.48471
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "basilica-santa-maria-alicante",
       "name": "Bas\u00edlica de Santa Mar\u00eda",
-      "lat": 38.3465,
-      "lng": -0.4805,
+      "lat": 38.3462,
+      "lng": -0.47926,
       "radiusM": 80,
       "address": "Santa Mar\u00eda",
       "howTo": "Visit Bas\u00edlica de Santa Mar\u00eda.",
-      "badge": "badges/basilica-santa-maria-alicante.png"
+      "badge": "badges/basilica-santa-maria-alicante.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.34624,
+              -0.47954
+            ],
+            [
+              38.34642,
+              -0.47904
+            ],
+            [
+              38.3462,
+              -0.47889
+            ],
+            [
+              38.34599,
+              -0.47936
+            ],
+            [
+              38.34615,
+              -0.47948
+            ],
+            [
+              38.34624,
+              -0.47954
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

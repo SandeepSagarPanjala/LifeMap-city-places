@@ -12,7 +12,7 @@
     "maxLat": 23.86,
     "maxLng": 91.3
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:52:17.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,106 @@
       "radiusM": 200,
       "address": "Ujjayanta Palace, Agartala, TR",
       "howTo": "Visit Ujjayanta Palace.",
-      "badge": "badges/ujjayanta-palace.png"
+      "badge": "badges/ujjayanta-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              23.83954,
+              91.28276
+            ],
+            [
+              23.83823,
+              91.28274
+            ],
+            [
+              23.83811,
+              91.28334
+            ],
+            [
+              23.83762,
+              91.2834
+            ],
+            [
+              23.83735,
+              91.28384
+            ],
+            [
+              23.83668,
+              91.28389
+            ],
+            [
+              23.83668,
+              91.28424
+            ],
+            [
+              23.83449,
+              91.2842
+            ],
+            [
+              23.83453,
+              91.28291
+            ],
+            [
+              23.83404,
+              91.28289
+            ],
+            [
+              23.83406,
+              91.28244
+            ],
+            [
+              23.83447,
+              91.28244
+            ],
+            [
+              23.83454,
+              91.28088
+            ],
+            [
+              23.83676,
+              91.28118
+            ],
+            [
+              23.83677,
+              91.28163
+            ],
+            [
+              23.8372,
+              91.28164
+            ],
+            [
+              23.83742,
+              91.28148
+            ],
+            [
+              23.83822,
+              91.28156
+            ],
+            [
+              23.83823,
+              91.28214
+            ],
+            [
+              23.83908,
+              91.28216
+            ],
+            [
+              23.83908,
+              91.28238
+            ],
+            [
+              23.83956,
+              91.2824
+            ],
+            [
+              23.83954,
+              91.28276
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "neermahal",
@@ -38,12 +137,39 @@
     {
       "id": "jagannath-temple-agartala",
       "name": "Jagannath Temple",
-      "lat": 23.8345,
-      "lng": 91.2795,
+      "lat": 23.83566,
+      "lng": 91.28179,
       "radiusM": 100,
       "address": "Jagannath Temple, Agartala, TR",
       "howTo": "Visit Jagannath Temple.",
-      "badge": "badges/jagannath-temple-agartala.png"
+      "badge": "badges/jagannath-temple-agartala.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              23.83462,
+              91.2812
+            ],
+            [
+              23.83459,
+              91.28232
+            ],
+            [
+              23.8367,
+              91.28238
+            ],
+            [
+              23.83673,
+              91.28127
+            ],
+            [
+              23.83462,
+              91.2812
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sepahijala",

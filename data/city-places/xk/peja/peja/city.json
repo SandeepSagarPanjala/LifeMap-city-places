@@ -12,7 +12,7 @@
     "maxLat": 42.668,
     "maxLng": 20.27
   },
-  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "updatedAt": "2026-10-02T22:05:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 100,
       "address": "Peja",
       "howTo": "Visit Patriarchate of Pe\u0107.",
-      "badge": "badges/patriarchate-of-pec.png"
+      "badge": "badges/patriarchate-of-pec.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.66019,
+              20.26642
+            ],
+            [
+              42.66106,
+              20.26642
+            ],
+            [
+              42.66124,
+              20.26627
+            ],
+            [
+              42.66142,
+              20.26584
+            ],
+            [
+              42.66154,
+              20.26365
+            ],
+            [
+              42.66077,
+              20.26344
+            ],
+            [
+              42.66072,
+              20.26402
+            ],
+            [
+              42.66046,
+              20.2649
+            ],
+            [
+              42.65991,
+              20.2661
+            ],
+            [
+              42.66019,
+              20.26642
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rugova-canyon",

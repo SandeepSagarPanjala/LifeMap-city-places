@@ -12,28 +12,118 @@
     "maxLat": 12.036,
     "maxLng": 39.046
   },
-  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "updatedAt": "2026-10-01T08:56:34.000Z",
   "status": "complete",
   "places": [
     {
       "id": "biete-giyorgis",
       "name": "Biete Giyorgis",
-      "lat": 12.03139,
-      "lng": 39.04111,
+      "lat": 12.03163,
+      "lng": 39.04114,
       "radiusM": 60,
       "address": "Lalibela",
       "howTo": "Visit Biete Giyorgis.",
-      "badge": "badges/biete-giyorgis.png"
+      "badge": "badges/biete-giyorgis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.03158,
+              39.04111
+            ],
+            [
+              12.03157,
+              39.04116
+            ],
+            [
+              12.0316,
+              39.04116
+            ],
+            [
+              12.0316,
+              39.04119
+            ],
+            [
+              12.03164,
+              39.0412
+            ],
+            [
+              12.03164,
+              39.04117
+            ],
+            [
+              12.03168,
+              39.04118
+            ],
+            [
+              12.03168,
+              39.04113
+            ],
+            [
+              12.03165,
+              39.04112
+            ],
+            [
+              12.03166,
+              39.04109
+            ],
+            [
+              12.03161,
+              39.04108
+            ],
+            [
+              12.03161,
+              39.04112
+            ],
+            [
+              12.03158,
+              39.04111
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "biete-medhane-alem",
       "name": "Biete Medhane Alem",
-      "lat": 12.0339,
-      "lng": 39.0436,
+      "lat": 12.03366,
+      "lng": 39.04374,
       "radiusM": 60,
       "address": "Lalibela",
       "howTo": "Visit Biete Medhane Alem.",
-      "badge": "badges/biete-medhane-alem.png"
+      "badge": "badges/biete-medhane-alem.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.03376,
+              39.04359
+            ],
+            [
+              12.03379,
+              39.04393
+            ],
+            [
+              12.03357,
+              39.04395
+            ],
+            [
+              12.03355,
+              39.04361
+            ],
+            [
+              12.03365,
+              39.0436
+            ],
+            [
+              12.03376,
+              39.04359
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,45 @@
     "maxLat": 0.446,
     "maxLng": 33.2
   },
-  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "updatedAt": "2026-10-02T20:09:07.000Z",
   "status": "complete",
   "places": [
     {
       "id": "source-of-the-nile",
       "name": "Source of the Nile",
-      "lat": 0.42093,
-      "lng": 33.1968,
+      "lat": 0.41869,
+      "lng": 33.19715,
       "radiusM": 120,
       "address": "Jinja",
       "howTo": "Visit Source of the Nile.",
-      "badge": "badges/source-of-the-nile.png"
+      "badge": "badges/source-of-the-nile.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.41872,
+              33.19711
+            ],
+            [
+              0.41873,
+              33.19719
+            ],
+            [
+              0.41866,
+              33.19719
+            ],
+            [
+              0.41865,
+              33.19711
+            ],
+            [
+              0.41872,
+              33.19711
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "owen-falls",

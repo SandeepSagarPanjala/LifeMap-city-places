@@ -12,7 +12,7 @@
     "maxLat": 19.06,
     "maxLng": -98.18
   },
-  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "updatedAt": "2026-10-02T19:05:30.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,99 @@
       "radiusM": 80,
       "address": "Z\u00f3calo",
       "howTo": "Visit Puebla Cathedral.",
-      "badge": "badges/puebla-cathedral.png"
+      "badge": "badges/puebla-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.04281,
+              -98.19893
+            ],
+            [
+              19.04329,
+              -98.19866
+            ],
+            [
+              19.04288,
+              -98.19785
+            ],
+            [
+              19.04241,
+              -98.19812
+            ],
+            [
+              19.04264,
+              -98.19858
+            ],
+            [
+              19.04281,
+              -98.19893
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "capilla-del-rosario",
       "name": "Capilla del Rosario",
-      "lat": 19.0475,
-      "lng": -98.1985,
+      "lat": 19.04653,
+      "lng": -98.19833,
       "radiusM": 80,
       "address": "Santo Domingo",
       "howTo": "Visit Capilla del Rosario.",
-      "badge": "badges/capilla-del-rosario.png"
+      "badge": "badges/capilla-del-rosario.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.0467,
+              -98.19827
+            ],
+            [
+              19.04658,
+              -98.19834
+            ],
+            [
+              19.0466,
+              -98.19836
+            ],
+            [
+              19.04651,
+              -98.19841
+            ],
+            [
+              19.0465,
+              -98.19839
+            ],
+            [
+              19.04646,
+              -98.19842
+            ],
+            [
+              19.04641,
+              -98.19833
+            ],
+            [
+              19.04646,
+              -98.1983
+            ],
+            [
+              19.04645,
+              -98.19828
+            ],
+            [
+              19.04665,
+              -98.19819
+            ],
+            [
+              19.0467,
+              -98.19827
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "biblioteca-palafoxiana",

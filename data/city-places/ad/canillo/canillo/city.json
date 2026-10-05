@@ -12,7 +12,7 @@
     "maxLat": 42.574,
     "maxLng": 1.6
   },
-  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "updatedAt": "2026-09-30T23:21:55.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "meritxell",
       "name": "Santuari de Meritxell",
-      "lat": 42.55389,
-      "lng": 1.59056,
+      "lat": 42.55463,
+      "lng": 1.59088,
       "radiusM": 80,
       "address": "Meritxell",
       "howTo": "Visit Santuari de Meritxell.",
-      "badge": "badges/meritxell.png"
+      "badge": "badges/meritxell.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.55501,
+              1.5911
+            ],
+            [
+              42.55424,
+              1.59108
+            ],
+            [
+              42.55424,
+              1.59065
+            ],
+            [
+              42.55501,
+              1.59067
+            ],
+            [
+              42.55501,
+              1.5911
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

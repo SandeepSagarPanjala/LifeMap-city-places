@@ -12,18 +12,45 @@
     "maxLat": -34.895,
     "maxLng": -56.19
   },
-  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "updatedAt": "2026-10-02T21:53:56.000Z",
   "status": "complete",
   "places": [
     {
       "id": "ciudad-vieja",
       "name": "Ciudad Vieja",
-      "lat": -34.90667,
-      "lng": -56.20833,
+      "lat": -34.90891,
+      "lng": -56.20831,
       "radiusM": 200,
       "address": "Ciudad Vieja",
       "howTo": "Visit Ciudad Vieja.",
-      "badge": "badges/ciudad-vieja.png"
+      "badge": "badges/ciudad-vieja.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -34.90875,
+              -56.20846
+            ],
+            [
+              -34.90911,
+              -56.20829
+            ],
+            [
+              -34.90907,
+              -56.20816
+            ],
+            [
+              -34.90871,
+              -56.20833
+            ],
+            [
+              -34.90875,
+              -56.20846
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mercado-del-puerto",
@@ -33,17 +60,79 @@
       "radiusM": 120,
       "address": "Puerto",
       "howTo": "Visit Mercado del Puerto.",
-      "badge": "badges/mercado-del-puerto.png"
+      "badge": "badges/mercado-del-puerto.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -34.90614,
+              -56.21175
+            ],
+            [
+              -34.90596,
+              -56.21134
+            ],
+            [
+              -34.90528,
+              -56.21167
+            ],
+            [
+              -34.90544,
+              -56.21209
+            ],
+            [
+              -34.90596,
+              -56.21184
+            ],
+            [
+              -34.90614,
+              -56.21175
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palacio-salvo",
       "name": "Palacio Salvo",
-      "lat": -34.9066,
-      "lng": -56.2019,
+      "lat": -34.90672,
+      "lng": -56.19836,
       "radiusM": 80,
       "address": "Centro",
       "howTo": "Visit Palacio Salvo.",
-      "badge": "badges/palacio-salvo.png"
+      "badge": "badges/palacio-salvo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -34.90653,
+              -56.19818
+            ],
+            [
+              -34.90698,
+              -56.19814
+            ],
+            [
+              -34.90701,
+              -56.19853
+            ],
+            [
+              -34.90655,
+              -56.19857
+            ],
+            [
+              -34.90654,
+              -56.1984
+            ],
+            [
+              -34.90653,
+              -56.19818
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

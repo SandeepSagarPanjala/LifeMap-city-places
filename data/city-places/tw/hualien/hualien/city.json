@@ -12,18 +12,45 @@
     "maxLat": 24.17,
     "maxLng": 121.65
   },
-  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "updatedAt": "2026-10-02T20:04:42.000Z",
   "status": "complete",
   "places": [
     {
       "id": "taroko-gorge",
       "name": "Taroko Gorge",
-      "lat": 24.1635,
-      "lng": 121.6115,
+      "lat": 24.16049,
+      "lng": 121.60367,
       "radiusM": 300,
       "address": "Eternal Spring Shrine",
       "howTo": "Visit Taroko Gorge.",
-      "badge": "badges/taroko-gorge.png"
+      "badge": "badges/taroko-gorge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              24.16055,
+              121.60363
+            ],
+            [
+              24.16052,
+              121.60374
+            ],
+            [
+              24.16043,
+              121.60371
+            ],
+            [
+              24.16046,
+              121.6036
+            ],
+            [
+              24.16055,
+              121.60363
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "qixingtan",

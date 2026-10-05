@@ -12,28 +12,142 @@
     "maxLat": 45.72,
     "maxLng": -110.98
   },
-  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "updatedAt": "2026-10-03T01:03:43.000Z",
   "status": "complete",
   "places": [
     {
       "id": "museum-of-the-rockies",
       "name": "Museum of the Rockies",
-      "lat": 45.6585,
-      "lng": -111.0455,
+      "lat": 45.65868,
+      "lng": -111.04552,
       "radiusM": 150,
       "address": "600 W Kagy Blvd, Bozeman, MT",
       "howTo": "Visit the Museum of the Rockies.",
-      "badge": "badges/museum-of-the-rockies.png"
+      "badge": "badges/museum-of-the-rockies.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.659,
+              -111.04616
+            ],
+            [
+              45.65821,
+              -111.04617
+            ],
+            [
+              45.65821,
+              -111.04592
+            ],
+            [
+              45.65845,
+              -111.04592
+            ],
+            [
+              45.65845,
+              -111.04583
+            ],
+            [
+              45.65859,
+              -111.04583
+            ],
+            [
+              45.65859,
+              -111.04549
+            ],
+            [
+              45.65837,
+              -111.04546
+            ],
+            [
+              45.65837,
+              -111.04512
+            ],
+            [
+              45.65844,
+              -111.04512
+            ],
+            [
+              45.65844,
+              -111.04517
+            ],
+            [
+              45.6586,
+              -111.04517
+            ],
+            [
+              45.6586,
+              -111.04511
+            ],
+            [
+              45.65913,
+              -111.04506
+            ],
+            [
+              45.65913,
+              -111.04523
+            ],
+            [
+              45.65921,
+              -111.04523
+            ],
+            [
+              45.65921,
+              -111.04556
+            ],
+            [
+              45.65899,
+              -111.04556
+            ],
+            [
+              45.65899,
+              -111.04575
+            ],
+            [
+              45.659,
+              -111.04616
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "main-street-bozeman",
       "name": "Main Street Bozeman",
-      "lat": 45.6795,
-      "lng": -111.0375,
+      "lat": 45.67955,
+      "lng": -111.03476,
       "radiusM": 200,
       "address": "Main St, Bozeman, MT",
       "howTo": "Walk Main Street in Bozeman.",
-      "badge": "badges/main-street-bozeman.png"
+      "badge": "badges/main-street-bozeman.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.67944,
+              -111.03472
+            ],
+            [
+              45.67944,
+              -111.0348
+            ],
+            [
+              45.67965,
+              -111.03481
+            ],
+            [
+              45.67965,
+              -111.03473
+            ],
+            [
+              45.67944,
+              -111.03472
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "hyalite-canyon",

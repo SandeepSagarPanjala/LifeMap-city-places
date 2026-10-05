@@ -12,7 +12,7 @@
     "maxLat": 49.9,
     "maxLng": 10.89
   },
-  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "updatedAt": "2026-10-01T08:14:37.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,176 @@
       "radiusM": 100,
       "address": "Bamberger Dom",
       "howTo": "Visit Bamberg Cathedral.",
-      "badge": "badges/bamberg-cathedral.png"
+      "badge": "badges/bamberg-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.89044,
+              10.88212
+            ],
+            [
+              49.89038,
+              10.88217
+            ],
+            [
+              49.89042,
+              10.88226
+            ],
+            [
+              49.89039,
+              10.8823
+            ],
+            [
+              49.89046,
+              10.88246
+            ],
+            [
+              49.8905,
+              10.88242
+            ],
+            [
+              49.89081,
+              10.88316
+            ],
+            [
+              49.89086,
+              10.8831
+            ],
+            [
+              49.89095,
+              10.88314
+            ],
+            [
+              49.89099,
+              10.8831
+            ],
+            [
+              49.89099,
+              10.88296
+            ],
+            [
+              49.89106,
+              10.8829
+            ],
+            [
+              49.89074,
+              10.88223
+            ],
+            [
+              49.89076,
+              10.88215
+            ],
+            [
+              49.89065,
+              10.8819
+            ],
+            [
+              49.89056,
+              10.88198
+            ],
+            [
+              49.89048,
+              10.88194
+            ],
+            [
+              49.89042,
+              10.88205
+            ],
+            [
+              49.89044,
+              10.88212
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "alte-rathaus-bamberg",
       "name": "Altes Rathaus",
-      "lat": 49.8915,
-      "lng": 10.8865,
+      "lat": 49.89153,
+      "lng": 10.88689,
       "radiusM": 80,
       "address": "Altes Rathaus",
       "howTo": "Visit Altes Rathaus.",
-      "badge": "badges/alte-rathaus-bamberg.png"
+      "badge": "badges/alte-rathaus-bamberg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.89175,
+              10.88662
+            ],
+            [
+              49.89181,
+              10.88674
+            ],
+            [
+              49.89147,
+              10.88705
+            ],
+            [
+              49.89146,
+              10.88702
+            ],
+            [
+              49.89138,
+              10.88706
+            ],
+            [
+              49.89134,
+              10.88693
+            ],
+            [
+              49.8915,
+              10.8868
+            ],
+            [
+              49.89175,
+              10.88662
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kleine-venedig-bamberg",
       "name": "Klein Venedig",
-      "lat": 49.8925,
-      "lng": 10.8875,
+      "lat": 49.89366,
+      "lng": 10.88394,
       "radiusM": 150,
       "address": "Little Venice",
       "howTo": "Visit Klein Venedig.",
-      "badge": "badges/kleine-venedig-bamberg.png"
+      "badge": "badges/kleine-venedig-bamberg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.89371,
+              10.88393
+            ],
+            [
+              49.89368,
+              10.88401
+            ],
+            [
+              49.89361,
+              10.88394
+            ],
+            [
+              49.89364,
+              10.88386
+            ],
+            [
+              49.89371,
+              10.88393
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 49.46,
     "maxLng": 11.09
   },
-  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "updatedAt": "2026-10-01T14:22:07.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,136 @@
     {
       "id": "hauptmarkt-nuremberg",
       "name": "Hauptmarkt",
-      "lat": 49.454,
-      "lng": 11.077,
+      "lat": 49.45451,
+      "lng": 11.075,
       "radiusM": 100,
       "address": "Hauptmarkt",
       "howTo": "Visit Hauptmarkt.",
-      "badge": "badges/hauptmarkt-nuremberg.png"
+      "badge": "badges/hauptmarkt-nuremberg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.45433,
+              11.07471
+            ],
+            [
+              49.45457,
+              11.07466
+            ],
+            [
+              49.45459,
+              11.07486
+            ],
+            [
+              49.45464,
+              11.07485
+            ],
+            [
+              49.4547,
+              11.07547
+            ],
+            [
+              49.4544,
+              11.07554
+            ],
+            [
+              49.45434,
+              11.07494
+            ],
+            [
+              49.45433,
+              11.07471
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-lorenz-nuremberg",
       "name": "St. Lorenz",
-      "lat": 49.4505,
-      "lng": 11.0785,
+      "lat": 49.45101,
+      "lng": 11.07875,
       "radiusM": 100,
       "address": "Lorenzkirche",
       "howTo": "Visit St. Lorenz.",
-      "badge": "badges/st-lorenz-nuremberg.png"
+      "badge": "badges/st-lorenz-nuremberg.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.45108,
+              11.07802
+            ],
+            [
+              49.45114,
+              11.07858
+            ],
+            [
+              49.45118,
+              11.07864
+            ],
+            [
+              49.45119,
+              11.0788
+            ],
+            [
+              49.45116,
+              11.07884
+            ],
+            [
+              49.45119,
+              11.07898
+            ],
+            [
+              49.45113,
+              11.07924
+            ],
+            [
+              49.45102,
+              11.07931
+            ],
+            [
+              49.45091,
+              11.07922
+            ],
+            [
+              49.45086,
+              11.07904
+            ],
+            [
+              49.45087,
+              11.07889
+            ],
+            [
+              49.45081,
+              11.07883
+            ],
+            [
+              49.45082,
+              11.07874
+            ],
+            [
+              49.45086,
+              11.07873
+            ],
+            [
+              49.45081,
+              11.07807
+            ],
+            [
+              49.45107,
+              11.07801
+            ],
+            [
+              49.45108,
+              11.07802
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dokumentationszentrum",

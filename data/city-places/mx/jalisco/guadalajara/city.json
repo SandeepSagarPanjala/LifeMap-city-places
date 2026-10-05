@@ -12,18 +12,45 @@
     "maxLat": 20.7,
     "maxLng": -103.33
   },
-  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "updatedAt": "2026-10-01T12:56:04.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hospicio-cabanas",
       "name": "Hospicio Caba\u00f1as",
-      "lat": 20.6736,
-      "lng": -103.3372,
+      "lat": 20.67688,
+      "lng": -103.33749,
       "radiusM": 120,
       "address": "Guadalajara",
       "howTo": "Visit Hospicio Caba\u00f1as.",
-      "badge": "badges/hospicio-cabanas.png"
+      "badge": "badges/hospicio-cabanas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.67752,
+              -103.3383
+            ],
+            [
+              20.67755,
+              -103.33671
+            ],
+            [
+              20.67625,
+              -103.33668
+            ],
+            [
+              20.67622,
+              -103.33827
+            ],
+            [
+              20.67752,
+              -103.3383
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "guadalajara-cathedral",
@@ -33,17 +60,95 @@
       "radiusM": 80,
       "address": "Plaza de Armas",
       "howTo": "Visit Guadalajara Cathedral.",
-      "badge": "badges/guadalajara-cathedral.png"
+      "badge": "badges/guadalajara-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.67726,
+              -103.34734
+            ],
+            [
+              20.67729,
+              -103.34661
+            ],
+            [
+              20.67691,
+              -103.34659
+            ],
+            [
+              20.67691,
+              -103.34673
+            ],
+            [
+              20.677,
+              -103.34673
+            ],
+            [
+              20.67698,
+              -103.34733
+            ],
+            [
+              20.67726,
+              -103.34734
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "teatro-degollado",
       "name": "Teatro Degollado",
-      "lat": 20.6774,
-      "lng": -103.346,
+      "lat": 20.67703,
+      "lng": -103.34465,
       "radiusM": 80,
       "address": "Theatro Municipal",
       "howTo": "Visit Teatro Degollado.",
-      "badge": "badges/teatro-degollado.png"
+      "badge": "badges/teatro-degollado.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.67714,
+              -103.34483
+            ],
+            [
+              20.6772,
+              -103.34483
+            ],
+            [
+              20.67722,
+              -103.34406
+            ],
+            [
+              20.67687,
+              -103.34405
+            ],
+            [
+              20.67685,
+              -103.34481
+            ],
+            [
+              20.6769,
+              -103.34482
+            ],
+            [
+              20.6769,
+              -103.34489
+            ],
+            [
+              20.67713,
+              -103.3449
+            ],
+            [
+              20.67714,
+              -103.34483
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

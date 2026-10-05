@@ -12,7 +12,7 @@
     "maxLat": 36.19443,
     "maxLng": 44.01227
   },
-  "updatedAt": "2026-08-20T11:14:16.000Z",
+  "updatedAt": "2026-10-01T10:59:20.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,34 @@
       "radiusM": 50,
       "address": "Erbil",
       "howTo": "Visit the Choli Minaret.",
-      "badge": "badges/choli-minaret.png"
+      "badge": "badges/choli-minaret.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.18763,
+              43.99989
+            ],
+            [
+              36.18765,
+              44.00005
+            ],
+            [
+              36.18759,
+              44.00006
+            ],
+            [
+              36.18757,
+              43.9999
+            ],
+            [
+              36.18763,
+              43.99989
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

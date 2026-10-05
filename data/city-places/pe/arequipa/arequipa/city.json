@@ -12,18 +12,61 @@
     "maxLat": -16.38,
     "maxLng": -71.52
   },
-  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "updatedAt": "2026-10-02T19:19:38.000Z",
   "status": "complete",
   "places": [
     {
       "id": "arequipa-plaza-de-armas",
       "name": "Arequipa Plaza de Armas",
-      "lat": -16.398,
-      "lng": -71.537,
+      "lat": -16.39883,
+      "lng": -71.53697,
       "radiusM": 150,
       "address": "Centro Historico",
       "howTo": "Visit Arequipa Plaza de Armas.",
-      "badge": "badges/arequipa-plaza-de-armas.png"
+      "badge": "badges/arequipa-plaza-de-armas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -16.39838,
+              -71.53723
+            ],
+            [
+              -16.399,
+              -71.53746
+            ],
+            [
+              -16.39905,
+              -71.53745
+            ],
+            [
+              -16.3993,
+              -71.53676
+            ],
+            [
+              -16.39928,
+              -71.53671
+            ],
+            [
+              -16.39866,
+              -71.53647
+            ],
+            [
+              -16.39859,
+              -71.53649
+            ],
+            [
+              -16.39835,
+              -71.53718
+            ],
+            [
+              -16.39838,
+              -71.53723
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "colca-canyon",

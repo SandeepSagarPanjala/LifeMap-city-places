@@ -12,18 +12,49 @@
     "maxLat": 52.9,
     "maxLng": -118.05
   },
-  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "updatedAt": "2026-10-01T07:35:08.000Z",
   "status": "complete",
   "places": [
     {
       "id": "maligne-lake",
       "name": "Maligne Lake",
-      "lat": 52.7275,
-      "lng": -117.6405,
+      "lat": 52.72868,
+      "lng": -117.63841,
       "radiusM": 300,
       "address": "Maligne Lake",
       "howTo": "Visit Maligne Lake.",
-      "badge": "badges/maligne-lake.png"
+      "badge": "badges/maligne-lake.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.72868,
+              -117.63829
+            ],
+            [
+              52.72877,
+              -117.6384
+            ],
+            [
+              52.72869,
+              -117.63858
+            ],
+            [
+              52.7286,
+              -117.63847
+            ],
+            [
+              52.72866,
+              -117.63832
+            ],
+            [
+              52.72868,
+              -117.63829
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jasper-townsite",
@@ -38,12 +69,51 @@
     {
       "id": "athabasca-falls",
       "name": "Athabasca Falls",
-      "lat": 52.6655,
-      "lng": -117.8835,
+      "lat": 52.66589,
+      "lng": -117.88282,
       "radiusM": 200,
       "address": "Athabasca Falls",
       "howTo": "Visit Athabasca Falls.",
-      "badge": "badges/athabasca-falls.png"
+      "badge": "badges/athabasca-falls.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.66599,
+              -117.88353
+            ],
+            [
+              52.66582,
+              -117.88365
+            ],
+            [
+              52.66586,
+              -117.88267
+            ],
+            [
+              52.6657,
+              -117.8823
+            ],
+            [
+              52.66585,
+              -117.88219
+            ],
+            [
+              52.666,
+              -117.88253
+            ],
+            [
+              52.66604,
+              -117.88286
+            ],
+            [
+              52.66599,
+              -117.88353
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

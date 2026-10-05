@@ -12,18 +12,49 @@
     "maxLat": 22.286,
     "maxLng": 114.165
   },
-  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "updatedAt": "2026-10-01T09:53:22.000Z",
   "status": "complete",
   "places": [
     {
       "id": "victoria-peak",
       "name": "Victoria Peak",
-      "lat": 22.2758,
-      "lng": 114.1455,
+      "lat": 22.27589,
+      "lng": 114.14581,
       "radiusM": 200,
       "address": "The Peak",
       "howTo": "Visit Victoria Peak.",
-      "badge": "badges/victoria-peak.png"
+      "badge": "badges/victoria-peak.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.27599,
+              114.14574
+            ],
+            [
+              22.27596,
+              114.14589
+            ],
+            [
+              22.27584,
+              114.14586
+            ],
+            [
+              22.27582,
+              114.14584
+            ],
+            [
+              22.27583,
+              114.1457
+            ],
+            [
+              22.27599,
+              114.14574
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "man-mo-temple",
@@ -33,7 +64,46 @@
       "radiusM": 60,
       "address": "Hollywood Road",
       "howTo": "Visit Man Mo Temple.",
-      "badge": "badges/man-mo-temple.png"
+      "badge": "badges/man-mo-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.28402,
+              114.15031
+            ],
+            [
+              22.28373,
+              114.1502
+            ],
+            [
+              22.28381,
+              114.14998
+            ],
+            [
+              22.28383,
+              114.14999
+            ],
+            [
+              22.28389,
+              114.14985
+            ],
+            [
+              22.28408,
+              114.15003
+            ],
+            [
+              22.28409,
+              114.1501
+            ],
+            [
+              22.28402,
+              114.15031
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bank-of-china-tower",
@@ -43,7 +113,34 @@
       "radiusM": 80,
       "address": "1 Garden Road",
       "howTo": "Visit Bank of China Tower.",
-      "badge": "badges/bank-of-china-tower.png"
+      "badge": "badges/bank-of-china-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.27956,
+              114.16139
+            ],
+            [
+              22.2791,
+              114.16125
+            ],
+            [
+              22.27897,
+              114.16175
+            ],
+            [
+              22.27943,
+              114.16189
+            ],
+            [
+              22.27956,
+              114.16139
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tai-kwun",
@@ -53,7 +150,54 @@
       "radiusM": 100,
       "address": "10 Hollywood Road",
       "howTo": "Visit Tai Kwun.",
-      "badge": "badges/tai-kwun.png"
+      "badge": "badges/tai-kwun.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.28097,
+              114.15332
+            ],
+            [
+              22.28145,
+              114.15359
+            ],
+            [
+              22.28143,
+              114.15364
+            ],
+            [
+              22.28197,
+              114.15388
+            ],
+            [
+              22.28173,
+              114.15462
+            ],
+            [
+              22.28143,
+              114.15469
+            ],
+            [
+              22.28057,
+              114.15439
+            ],
+            [
+              22.28039,
+              114.15439
+            ],
+            [
+              22.28094,
+              114.15336
+            ],
+            [
+              22.28097,
+              114.15332
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

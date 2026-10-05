@@ -12,7 +12,7 @@
     "maxLat": 45.82,
     "maxLng": 14.21
   },
-  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "updatedAt": "2026-10-01T20:40:04.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "predjama-castle",
       "name": "Predjama Castle",
-      "lat": 45.8156,
-      "lng": 14.1267,
+      "lat": 45.81579,
+      "lng": 14.12659,
       "radiusM": 120,
       "address": "Predjama",
       "howTo": "Visit Predjama Castle.",
-      "badge": "badges/predjama-castle.png"
+      "badge": "badges/predjama-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.8158,
+              14.12665
+            ],
+            [
+              45.81567,
+              14.12666
+            ],
+            [
+              45.81567,
+              14.12653
+            ],
+            [
+              45.81589,
+              14.12652
+            ],
+            [
+              45.8159,
+              14.12693
+            ],
+            [
+              45.8158,
+              14.12694
+            ],
+            [
+              45.8158,
+              14.12665
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

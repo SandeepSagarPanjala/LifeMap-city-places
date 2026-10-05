@@ -12,18 +12,57 @@
     "maxLat": -6.95,
     "maxLng": 110.45
   },
-  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "updatedAt": "2026-10-02T22:59:38.000Z",
   "status": "complete",
   "places": [
     {
       "id": "lawang-sewu",
       "name": "Lawang Sewu",
-      "lat": -6.9835,
+      "lat": -6.98392,
       "lng": 110.4105,
       "radiusM": 100,
       "address": "Semarang",
       "howTo": "Visit Lawang Sewu.",
-      "badge": "badges/lawang-sewu.png"
+      "badge": "badges/lawang-sewu.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -6.98349,
+              110.41066
+            ],
+            [
+              -6.98365,
+              110.41081
+            ],
+            [
+              -6.98397,
+              110.41048
+            ],
+            [
+              -6.98415,
+              110.41065
+            ],
+            [
+              -6.9843,
+              110.41048
+            ],
+            [
+              -6.98403,
+              110.41022
+            ],
+            [
+              -6.98387,
+              110.41023
+            ],
+            [
+              -6.98349,
+              110.41066
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sam-poo-kong",

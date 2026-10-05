@@ -12,7 +12,7 @@
     "maxLat": 1.15,
     "maxLng": 104.08
   },
-  "updatedAt": "2026-08-17T23:45:00.000Z",
+  "updatedAt": "2026-10-01T18:10:17.000Z",
   "status": "complete",
   "places": [
     {
@@ -38,12 +38,43 @@
     {
       "id": "nongsa-beach",
       "name": "Nongsa Beach",
-      "lat": 1.1555,
-      "lng": 104.0955,
+      "lat": 1.16136,
+      "lng": 104.09818,
       "radiusM": 200,
       "address": "Batam",
       "howTo": "Visit Nongsa Beach.",
-      "badge": "badges/nongsa-beach.png"
+      "badge": "badges/nongsa-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              1.16028,
+              104.09962
+            ],
+            [
+              1.1625,
+              104.09945
+            ],
+            [
+              1.16197,
+              104.09804
+            ],
+            [
+              1.16202,
+              104.09678
+            ],
+            [
+              1.16002,
+              104.09699
+            ],
+            [
+              1.16028,
+              104.09962
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,61 @@
     "maxLat": 40.64,
     "maxLng": 14.61
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T11:03:19.000Z",
   "status": "complete",
   "places": [
     {
       "id": "amalfi-cathedral",
       "name": "Amalfi Cathedral",
-      "lat": 40.634,
-      "lng": 14.6025,
+      "lat": 40.63448,
+      "lng": 14.60358,
       "radiusM": 80,
       "address": "Duomo di Amalfi",
       "howTo": "Visit Amalfi Cathedral.",
-      "badge": "badges/amalfi-cathedral.png"
+      "badge": "badges/amalfi-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.63431,
+              14.6031
+            ],
+            [
+              40.63452,
+              14.60303
+            ],
+            [
+              40.63461,
+              14.60362
+            ],
+            [
+              40.63461,
+              14.60369
+            ],
+            [
+              40.63448,
+              14.60372
+            ],
+            [
+              40.6345,
+              14.60382
+            ],
+            [
+              40.63442,
+              14.60384
+            ],
+            [
+              40.6344,
+              14.6038
+            ],
+            [
+              40.63431,
+              14.6031
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "amalfi-coast-view",

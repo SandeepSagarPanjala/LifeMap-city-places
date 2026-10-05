@@ -12,7 +12,7 @@
     "maxLat": 15.61059,
     "maxLng": 39.47825
   },
-  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "updatedAt": "2026-10-01T08:44:48.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Massawa Old Town",
       "howTo": "Visit Sheikh Hanafi Mosque.",
-      "badge": "badges/sheikh-hanafi.png"
+      "badge": "badges/sheikh-hanafi.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.60771,
+              39.4751
+            ],
+            [
+              15.60769,
+              39.47542
+            ],
+            [
+              15.60747,
+              39.4754
+            ],
+            [
+              15.60749,
+              39.47509
+            ],
+            [
+              15.60771,
+              39.4751
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-maryam",
@@ -33,7 +60,58 @@
       "radiusM": 50,
       "address": "Massawa",
       "howTo": "Visit St. Maryam Cathedral.",
-      "badge": "badges/st-maryam.png"
+      "badge": "badges/st-maryam.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.60234,
+              39.46511
+            ],
+            [
+              15.60245,
+              39.46517
+            ],
+            [
+              15.60239,
+              39.4653
+            ],
+            [
+              15.60241,
+              39.46531
+            ],
+            [
+              15.60233,
+              39.46543
+            ],
+            [
+              15.60221,
+              39.46537
+            ],
+            [
+              15.60224,
+              39.46531
+            ],
+            [
+              15.60221,
+              39.4653
+            ],
+            [
+              15.60225,
+              39.46523
+            ],
+            [
+              15.60228,
+              39.46525
+            ],
+            [
+              15.60234,
+              39.46511
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

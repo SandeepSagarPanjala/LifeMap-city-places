@@ -12,7 +12,7 @@
     "maxLat": 53.08,
     "maxLng": 8.81
   },
-  "updatedAt": "2026-08-13T21:30:00.000Z",
+  "updatedAt": "2026-10-01T08:18:27.000Z",
   "status": "complete",
   "places": [
     {
@@ -38,12 +38,39 @@
     {
       "id": "schnoor",
       "name": "Schnoor Quarter",
-      "lat": 53.0725,
-      "lng": 8.8095,
+      "lat": 53.07274,
+      "lng": 8.80976,
       "radiusM": 150,
       "address": "Schnoor",
       "howTo": "Visit Schnoor Quarter.",
-      "badge": "badges/schnoor.png"
+      "badge": "badges/schnoor.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              53.07281,
+              8.8097
+            ],
+            [
+              53.07275,
+              8.80964
+            ],
+            [
+              53.07266,
+              8.8098
+            ],
+            [
+              53.07275,
+              8.8099
+            ],
+            [
+              53.07281,
+              8.8097
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

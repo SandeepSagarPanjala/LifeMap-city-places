@@ -12,28 +12,98 @@
     "maxLat": 12.63,
     "maxLng": 80.2
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:49:18.000Z",
   "status": "complete",
   "places": [
     {
       "id": "shore-temple",
       "name": "Shore Temple",
-      "lat": 12.6165,
-      "lng": 80.199,
+      "lat": 12.61646,
+      "lng": 80.19932,
       "radiusM": 150,
       "address": "Shore Temple, Mahabalipuram, TN",
       "howTo": "Visit Shore Temple.",
-      "badge": "badges/shore-temple.png"
+      "badge": "badges/shore-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.61634,
+              80.19939
+            ],
+            [
+              12.61639,
+              80.19941
+            ],
+            [
+              12.61639,
+              80.19944
+            ],
+            [
+              12.61647,
+              80.19946
+            ],
+            [
+              12.61651,
+              80.1994
+            ],
+            [
+              12.61653,
+              80.1994
+            ],
+            [
+              12.61662,
+              80.19906
+            ],
+            [
+              12.61643,
+              80.19901
+            ],
+            [
+              12.61634,
+              80.19939
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pancha-rathas",
       "name": "Pancha Rathas",
-      "lat": 12.6085,
-      "lng": 80.1915,
+      "lat": 12.60901,
+      "lng": 80.18972,
       "radiusM": 150,
       "address": "Pancha Rathas, Mahabalipuram, TN",
       "howTo": "Visit Pancha Rathas.",
-      "badge": "badges/pancha-rathas.png"
+      "badge": "badges/pancha-rathas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.60904,
+              80.18972
+            ],
+            [
+              12.60901,
+              80.18975
+            ],
+            [
+              12.60898,
+              80.18972
+            ],
+            [
+              12.609,
+              80.18969
+            ],
+            [
+              12.60904,
+              80.18972
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "arjuna-penance",
@@ -48,12 +118,43 @@
     {
       "id": "krishna-butterball",
       "name": "Krishna's Butter Ball",
-      "lat": 12.6205,
-      "lng": 80.192,
+      "lat": 12.61909,
+      "lng": 80.19239,
       "radiusM": 80,
       "address": "Krishna Butter Ball, Mahabalipuram, TN",
       "howTo": "Visit Krishna's Butter Ball.",
-      "badge": "badges/krishna-butterball.png"
+      "badge": "badges/krishna-butterball.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.61912,
+              80.19239
+            ],
+            [
+              12.61909,
+              80.19244
+            ],
+            [
+              12.61905,
+              80.1924
+            ],
+            [
+              12.61907,
+              80.19237
+            ],
+            [
+              12.61911,
+              80.19236
+            ],
+            [
+              12.61912,
+              80.19239
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

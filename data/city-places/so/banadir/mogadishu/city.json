@@ -12,7 +12,7 @@
     "maxLat": 2.04162,
     "maxLng": 45.34467
   },
-  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "updatedAt": "2026-10-01T20:48:50.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 50,
       "address": "Hamar Weyne",
       "howTo": "Visit the Mogadishu Cathedral ruins.",
-      "badge": "badges/cathedral.png"
+      "badge": "badges/cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              2.03549,
+              45.3416
+            ],
+            [
+              2.03553,
+              45.3418
+            ],
+            [
+              2.03587,
+              45.34173
+            ],
+            [
+              2.03591,
+              45.34194
+            ],
+            [
+              2.03608,
+              45.3419
+            ],
+            [
+              2.03595,
+              45.34129
+            ],
+            [
+              2.03579,
+              45.34132
+            ],
+            [
+              2.03583,
+              45.34153
+            ],
+            [
+              2.03549,
+              45.3416
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lighthouse",

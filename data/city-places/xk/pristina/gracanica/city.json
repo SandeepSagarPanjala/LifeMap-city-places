@@ -12,18 +12,45 @@
     "maxLat": 42.601,
     "maxLng": 21.196
   },
-  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "updatedAt": "2026-10-03T00:37:01.000Z",
   "status": "complete",
   "places": [
     {
       "id": "gracanica-monastery",
       "name": "Gra\u010danica Monastery",
-      "lat": 42.59833,
-      "lng": 21.19333,
+      "lat": 42.59846,
+      "lng": 21.19344,
       "radiusM": 80,
       "address": "Gra\u010danica",
       "howTo": "Visit Gra\u010danica Monastery.",
-      "badge": "badges/gracanica-monastery.png"
+      "badge": "badges/gracanica-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.59848,
+              21.19326
+            ],
+            [
+              42.59836,
+              21.19331
+            ],
+            [
+              42.59843,
+              21.19362
+            ],
+            [
+              42.59855,
+              21.19357
+            ],
+            [
+              42.59848,
+              21.19326
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

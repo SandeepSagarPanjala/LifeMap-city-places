@@ -12,18 +12,45 @@
     "maxLat": -8.51753,
     "maxLng": 125.61132
   },
-  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "updatedAt": "2026-10-02T19:57:41.000Z",
   "status": "complete",
   "places": [
     {
       "id": "cristo-rei-of-dili",
       "name": "Cristo Rei of Dili",
-      "lat": -8.520527,
-      "lng": 125.608322,
+      "lat": -8.52218,
+      "lng": 125.60939,
       "address": "Dili",
       "howTo": "Visit Cristo Rei of Dili cape.",
       "radiusM": 80,
-      "badge": "badges/cristo-rei-of-dili.png"
+      "badge": "badges/cristo-rei-of-dili.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.52216,
+              125.60937
+            ],
+            [
+              -8.52216,
+              125.6094
+            ],
+            [
+              -8.52219,
+              125.6094
+            ],
+            [
+              -8.52219,
+              125.60937
+            ],
+            [
+              -8.52216,
+              125.60937
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "areia-branca",

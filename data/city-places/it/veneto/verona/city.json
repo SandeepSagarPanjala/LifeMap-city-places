@@ -12,18 +12,97 @@
     "maxLat": 45.45,
     "maxLng": 11.01
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-03T00:44:45.000Z",
   "status": "complete",
   "places": [
     {
       "id": "arena-di-verona",
       "name": "Arena di Verona",
-      "lat": 45.439,
-      "lng": 10.994,
+      "lat": 45.43899,
+      "lng": 10.99438,
       "radiusM": 150,
       "address": "Arena di Verona",
       "howTo": "Visit Arena di Verona.",
-      "badge": "badges/arena-di-verona.png"
+      "badge": "badges/arena-di-verona.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.43929,
+              10.99413
+            ],
+            [
+              45.4393,
+              10.99429
+            ],
+            [
+              45.43925,
+              10.99443
+            ],
+            [
+              45.439,
+              10.99473
+            ],
+            [
+              45.43888,
+              10.99478
+            ],
+            [
+              45.43874,
+              10.99472
+            ],
+            [
+              45.43866,
+              10.99481
+            ],
+            [
+              45.43862,
+              10.99474
+            ],
+            [
+              45.4387,
+              10.99465
+            ],
+            [
+              45.43868,
+              10.99457
+            ],
+            [
+              45.43872,
+              10.99435
+            ],
+            [
+              45.43891,
+              10.99411
+            ],
+            [
+              45.43904,
+              10.99401
+            ],
+            [
+              45.43914,
+              10.99399
+            ],
+            [
+              45.43924,
+              10.99403
+            ],
+            [
+              45.4393,
+              10.99398
+            ],
+            [
+              45.43934,
+              10.99407
+            ],
+            [
+              45.43929,
+              10.99413
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "casa-di-giulietta",
@@ -43,17 +122,95 @@
       "radiusM": 100,
       "address": "Piazza delle Erbe",
       "howTo": "Visit Piazza delle Erbe.",
-      "badge": "badges/piazza-delle-erbe.png"
+      "badge": "badges/piazza-delle-erbe.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.4435,
+              10.99703
+            ],
+            [
+              45.44367,
+              10.99684
+            ],
+            [
+              45.44354,
+              10.99657
+            ],
+            [
+              45.4429,
+              10.99691
+            ],
+            [
+              45.44242,
+              10.9976
+            ],
+            [
+              45.4425,
+              10.99787
+            ],
+            [
+              45.44302,
+              10.99755
+            ],
+            [
+              45.44344,
+              10.9971
+            ],
+            [
+              45.4435,
+              10.99703
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "castelvecchio",
       "name": "Castelvecchio",
-      "lat": 45.44,
-      "lng": 10.9875,
+      "lat": 45.43968,
+      "lng": 10.98755,
       "radiusM": 150,
       "address": "Castelvecchio",
       "howTo": "Visit Castelvecchio.",
-      "badge": "badges/castelvecchio.png"
+      "badge": "badges/castelvecchio.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.43977,
+              10.98624
+            ],
+            [
+              45.4398,
+              10.98693
+            ],
+            [
+              45.44028,
+              10.98847
+            ],
+            [
+              45.43981,
+              10.98878
+            ],
+            [
+              45.43931,
+              10.98777
+            ],
+            [
+              45.43913,
+              10.98709
+            ],
+            [
+              45.43977,
+              10.98624
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

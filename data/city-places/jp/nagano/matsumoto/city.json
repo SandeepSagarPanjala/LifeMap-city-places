@@ -12,7 +12,7 @@
     "maxLat": 36.25,
     "maxLng": 137.98
   },
-  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "updatedAt": "2026-10-02T18:37:38.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,58 @@
       "radiusM": 150,
       "address": "Matsumoto Castle",
       "howTo": "Visit Matsumoto Castle.",
-      "badge": "badges/matsumoto-castle.png"
+      "badge": "badges/matsumoto-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.23869,
+              137.96898
+            ],
+            [
+              36.23858,
+              137.96898
+            ],
+            [
+              36.23856,
+              137.96911
+            ],
+            [
+              36.23849,
+              137.96911
+            ],
+            [
+              36.2385,
+              137.96896
+            ],
+            [
+              36.23853,
+              137.96896
+            ],
+            [
+              36.23854,
+              137.96876
+            ],
+            [
+              36.23882,
+              137.96878
+            ],
+            [
+              36.23882,
+              137.96889
+            ],
+            [
+              36.23869,
+              137.96889
+            ],
+            [
+              36.23869,
+              137.96898
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nakamachi-street",
@@ -38,12 +89,39 @@
     {
       "id": "kaichi-school",
       "name": "Former Kaichi School",
-      "lat": 36.2415,
-      "lng": 137.9715,
+      "lat": 36.24305,
+      "lng": 137.96824,
       "radiusM": 100,
       "address": "Kaichi School Museum, Matsumoto",
       "howTo": "Visit Former Kaichi School.",
-      "badge": "badges/kaichi-school.png"
+      "badge": "badges/kaichi-school.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.24311,
+              137.96804
+            ],
+            [
+              36.24312,
+              137.96845
+            ],
+            [
+              36.24299,
+              137.96845
+            ],
+            [
+              36.24298,
+              137.96804
+            ],
+            [
+              36.24311,
+              137.96804
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

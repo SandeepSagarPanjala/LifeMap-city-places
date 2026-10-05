@@ -12,7 +12,7 @@
     "maxLat": 27.58494,
     "maxLng": 89.8812
   },
-  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "updatedAt": "2026-10-01T17:29:58.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,103 @@
       "address": "Punakha",
       "howTo": "Visit Punakha Dzong.",
       "radiusM": 80,
-      "badge": "badges/punakha-dzong.png"
+      "badge": "badges/punakha-dzong.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.58324,
+              89.86296
+            ],
+            [
+              27.58152,
+              89.86378
+            ],
+            [
+              27.58126,
+              89.86318
+            ],
+            [
+              27.58136,
+              89.86312
+            ],
+            [
+              27.58132,
+              89.86301
+            ],
+            [
+              27.58203,
+              89.86259
+            ],
+            [
+              27.58229,
+              89.86249
+            ],
+            [
+              27.58312,
+              89.86247
+            ],
+            [
+              27.58324,
+              89.86296
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "chimi-lhakhang",
       "name": "Chimi Lhakhang",
-      "lat": 27.527,
-      "lng": 89.8782,
+      "lat": 27.52693,
+      "lng": 89.87809,
       "address": "Punakha",
       "howTo": "Visit Chimi Lhakhang.",
       "radiusM": 80,
-      "badge": "badges/chimi-lhakhang.png"
+      "badge": "badges/chimi-lhakhang.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.52684,
+              89.87804
+            ],
+            [
+              27.527,
+              89.87806
+            ],
+            [
+              27.52699,
+              89.87813
+            ],
+            [
+              27.52692,
+              89.87813
+            ],
+            [
+              27.52691,
+              89.87827
+            ],
+            [
+              27.52697,
+              89.87828
+            ],
+            [
+              27.52697,
+              89.87834
+            ],
+            [
+              27.52681,
+              89.87833
+            ],
+            [
+              27.52684,
+              89.87804
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

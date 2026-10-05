@@ -12,7 +12,7 @@
     "maxLat": 14.919,
     "maxLng": -23.507
   },
-  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "updatedAt": "2026-10-01T08:07:03.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 50,
       "address": "Praia",
       "howTo": "Visit Presidential Palace.",
-      "badge": "badges/presidential-palace.png"
+      "badge": "badges/presidential-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.91659,
+              -23.50933
+            ],
+            [
+              14.91641,
+              -23.50947
+            ],
+            [
+              14.91619,
+              -23.50914
+            ],
+            [
+              14.91638,
+              -23.50901
+            ],
+            [
+              14.91655,
+              -23.50927
+            ],
+            [
+              14.91659,
+              -23.50933
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "praca-albuquerque",
@@ -33,7 +64,34 @@
       "radiusM": 40,
       "address": "Praia",
       "howTo": "Visit Praca Alexandre Albuquerque.",
-      "badge": "badges/praca-albuquerque.png"
+      "badge": "badges/praca-albuquerque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.91823,
+              -23.50918
+            ],
+            [
+              14.91786,
+              -23.50865
+            ],
+            [
+              14.91717,
+              -23.50908
+            ],
+            [
+              14.9175,
+              -23.50963
+            ],
+            [
+              14.91823,
+              -23.50918
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

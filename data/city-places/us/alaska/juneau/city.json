@@ -12,7 +12,7 @@
     "maxLat": 58.45,
     "maxLng": -134.35
   },
-  "updatedAt": "2026-08-10T09:42:46.000Z",
+  "updatedAt": "2026-10-02T23:49:23.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,74 @@
       "radiusM": 400,
       "address": "Mendenhall Glacier Visitor Center, Juneau, AK",
       "howTo": "Visit Mendenhall Glacier and the visitor center.",
-      "badge": "badges/mendenhall-glacier.png"
+      "badge": "badges/mendenhall-glacier.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.41707,
+              -134.5459
+            ],
+            [
+              58.41721,
+              -134.54595
+            ],
+            [
+              58.41721,
+              -134.54586
+            ],
+            [
+              58.41728,
+              -134.54584
+            ],
+            [
+              58.41727,
+              -134.54579
+            ],
+            [
+              58.41733,
+              -134.5457
+            ],
+            [
+              58.41734,
+              -134.54561
+            ],
+            [
+              58.4173,
+              -134.54546
+            ],
+            [
+              58.41735,
+              -134.54529
+            ],
+            [
+              58.41731,
+              -134.54519
+            ],
+            [
+              58.41721,
+              -134.54516
+            ],
+            [
+              58.41714,
+              -134.54547
+            ],
+            [
+              58.41701,
+              -134.54566
+            ],
+            [
+              58.41709,
+              -134.5458
+            ],
+            [
+              58.41707,
+              -134.5459
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nugget-falls",
@@ -53,7 +120,58 @@
       "radiusM": 120,
       "address": "120 4th St, Juneau, AK",
       "howTo": "Visit the Alaska State Capitol.",
-      "badge": "badges/alaska-state-capitol.png"
+      "badge": "badges/alaska-state-capitol.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.30207,
+              -134.41103
+            ],
+            [
+              58.30188,
+              -134.41068
+            ],
+            [
+              58.302,
+              -134.4102
+            ],
+            [
+              58.30211,
+              -134.40988
+            ],
+            [
+              58.30216,
+              -134.40987
+            ],
+            [
+              58.3024,
+              -134.41031
+            ],
+            [
+              58.30229,
+              -134.41054
+            ],
+            [
+              58.30217,
+              -134.41031
+            ],
+            [
+              58.30207,
+              -134.41063
+            ],
+            [
+              58.30217,
+              -134.4108
+            ],
+            [
+              58.30207,
+              -134.41103
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "alaska-state-museum",
@@ -63,17 +181,131 @@
       "radiusM": 150,
       "address": "395 Whittier St, Juneau, AK",
       "howTo": "Visit the Alaska State Museum.",
-      "badge": "badges/alaska-state-museum.png"
+      "badge": "badges/alaska-state-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.30021,
+              -134.41641
+            ],
+            [
+              58.30027,
+              -134.41525
+            ],
+            [
+              58.30018,
+              -134.41523
+            ],
+            [
+              58.30017,
+              -134.41533
+            ],
+            [
+              58.29987,
+              -134.41529
+            ],
+            [
+              58.29986,
+              -134.41541
+            ],
+            [
+              58.29978,
+              -134.4154
+            ],
+            [
+              58.29975,
+              -134.41626
+            ],
+            [
+              58.29966,
+              -134.41625
+            ],
+            [
+              58.29961,
+              -134.4168
+            ],
+            [
+              58.30022,
+              -134.41698
+            ],
+            [
+              58.30027,
+              -134.41643
+            ],
+            [
+              58.30021,
+              -134.41641
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-nicholas-russian-orthodox-church",
       "name": "St. Nicholas Russian Orthodox Church",
-      "lat": 58.3035,
-      "lng": -134.4175,
+      "lat": 58.30315,
+      "lng": -134.40898,
       "radiusM": 100,
       "address": "326 5th St, Juneau, AK",
       "howTo": "Visit St. Nicholas Russian Orthodox Church.",
-      "badge": "badges/st-nicholas-russian-orthodox-church.png"
+      "badge": "badges/st-nicholas-russian-orthodox-church.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.30313,
+              -134.4091
+            ],
+            [
+              58.30316,
+              -134.40912
+            ],
+            [
+              58.30319,
+              -134.40909
+            ],
+            [
+              58.3032,
+              -134.40903
+            ],
+            [
+              58.30319,
+              -134.40897
+            ],
+            [
+              58.30321,
+              -134.40887
+            ],
+            [
+              58.3031,
+              -134.40877
+            ],
+            [
+              58.30308,
+              -134.40888
+            ],
+            [
+              58.30315,
+              -134.40895
+            ],
+            [
+              58.30312,
+              -134.40898
+            ],
+            [
+              58.30311,
+              -134.40905
+            ],
+            [
+              58.30313,
+              -134.4091
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

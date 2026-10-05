@@ -12,7 +12,7 @@
     "maxLat": 33.3,
     "maxLng": 131.51
   },
-  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "updatedAt": "2026-10-01T11:37:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "beppu-tower",
       "name": "Beppu Tower",
-      "lat": 33.2795,
-      "lng": 131.5065,
+      "lat": 33.28171,
+      "lng": 131.50592,
       "radiusM": 80,
       "address": "Beppu Tower",
       "howTo": "Visit Beppu Tower.",
-      "badge": "badges/beppu-tower.png"
+      "badge": "badges/beppu-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.28176,
+              131.50586
+            ],
+            [
+              33.28173,
+              131.50585
+            ],
+            [
+              33.28166,
+              131.50587
+            ],
+            [
+              33.28164,
+              131.5059
+            ],
+            [
+              33.28166,
+              131.50598
+            ],
+            [
+              33.28169,
+              131.506
+            ],
+            [
+              33.28176,
+              131.50598
+            ],
+            [
+              33.28178,
+              131.50595
+            ],
+            [
+              33.28176,
+              131.50586
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kannawa-onsen",

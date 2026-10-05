@@ -12,18 +12,81 @@
     "maxLat": 52.17,
     "maxLng": 4.5
   },
-  "updatedAt": "2026-08-15T08:50:00.000Z",
+  "updatedAt": "2026-10-01T19:40:48.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hortus-botanicus-leiden",
       "name": "Hortus Botanicus",
-      "lat": 52.1575,
-      "lng": 4.4845,
+      "lat": 52.15558,
+      "lng": 4.48398,
       "radiusM": 150,
       "address": "Hortus Botanicus Leiden",
       "howTo": "Visit Hortus Botanicus.",
-      "badge": "badges/hortus-botanicus-leiden.png"
+      "badge": "badges/hortus-botanicus-leiden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.15503,
+              4.48495
+            ],
+            [
+              52.1568,
+              4.48415
+            ],
+            [
+              52.15693,
+              4.48509
+            ],
+            [
+              52.15741,
+              4.48484
+            ],
+            [
+              52.15715,
+              4.48267
+            ],
+            [
+              52.15566,
+              4.4835
+            ],
+            [
+              52.15533,
+              4.4834
+            ],
+            [
+              52.15495,
+              4.48294
+            ],
+            [
+              52.15467,
+              4.48306
+            ],
+            [
+              52.15444,
+              4.48354
+            ],
+            [
+              52.15445,
+              4.48379
+            ],
+            [
+              52.15468,
+              4.48484
+            ],
+            [
+              52.15501,
+              4.48497
+            ],
+            [
+              52.15503,
+              4.48495
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "burcht-van-leiden",

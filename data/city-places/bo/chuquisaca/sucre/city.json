@@ -12,7 +12,7 @@
     "maxLat": -19.04,
     "maxLng": -65.245
   },
-  "updatedAt": "2026-08-18T02:26:46.000Z",
+  "updatedAt": "2026-10-01T07:22:08.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 120,
       "address": "Centro Historico",
       "howTo": "Visit Plaza 25 de Mayo.",
-      "badge": "badges/plaza-25-de-mayo.png"
+      "badge": "badges/plaza-25-de-mayo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -19.04798,
+              -65.26017
+            ],
+            [
+              -19.04791,
+              -65.26017
+            ],
+            [
+              -19.04729,
+              -65.25964
+            ],
+            [
+              -19.04728,
+              -65.25956
+            ],
+            [
+              -19.04781,
+              -65.25888
+            ],
+            [
+              -19.04791,
+              -65.25887
+            ],
+            [
+              -19.04852,
+              -65.25944
+            ],
+            [
+              -19.04851,
+              -65.25955
+            ],
+            [
+              -19.04798,
+              -65.26017
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "la-recoleta-sucre",

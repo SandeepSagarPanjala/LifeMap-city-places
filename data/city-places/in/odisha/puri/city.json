@@ -12,7 +12,7 @@
     "maxLat": 19.82,
     "maxLng": 85.85
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T18:25:07.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 150,
       "address": "Grand Rd, Puri, OD",
       "howTo": "Visit Jagannath Temple.",
-      "badge": "badges/jagannath-temple-puri.png"
+      "badge": "badges/jagannath-temple-puri.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.80451,
+              85.81852
+            ],
+            [
+              19.805,
+              85.81854
+            ],
+            [
+              19.80502,
+              85.81765
+            ],
+            [
+              19.80455,
+              85.81762
+            ],
+            [
+              19.80451,
+              85.81852
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "puri-beach",

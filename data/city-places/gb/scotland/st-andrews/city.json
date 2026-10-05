@@ -12,38 +12,219 @@
     "maxLat": 56.35,
     "maxLng": -2.78
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T09:29:55.000Z",
   "status": "complete",
   "places": [
     {
       "id": "st-andrews-cathedral",
       "name": "St Andrews Cathedral",
-      "lat": 56.34,
-      "lng": -2.788,
+      "lat": 56.33993,
+      "lng": -2.78709,
       "radiusM": 150,
       "address": "St Andrews Cathedral",
       "howTo": "Visit St Andrews Cathedral.",
-      "badge": "badges/st-andrews-cathedral.png"
+      "badge": "badges/st-andrews-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              56.33936,
+              -2.78617
+            ],
+            [
+              56.33933,
+              -2.78678
+            ],
+            [
+              56.33967,
+              -2.787
+            ],
+            [
+              56.33976,
+              -2.78735
+            ],
+            [
+              56.33994,
+              -2.78736
+            ],
+            [
+              56.33999,
+              -2.78679
+            ],
+            [
+              56.34008,
+              -2.78679
+            ],
+            [
+              56.34013,
+              -2.78738
+            ],
+            [
+              56.34027,
+              -2.78739
+            ],
+            [
+              56.34027,
+              -2.78762
+            ],
+            [
+              56.34014,
+              -2.78761
+            ],
+            [
+              56.34014,
+              -2.78859
+            ],
+            [
+              56.34028,
+              -2.78857
+            ],
+            [
+              56.34053,
+              -2.78812
+            ],
+            [
+              56.34047,
+              -2.78728
+            ],
+            [
+              56.33953,
+              -2.78515
+            ],
+            [
+              56.33946,
+              -2.78585
+            ],
+            [
+              56.33938,
+              -2.78582
+            ],
+            [
+              56.33936,
+              -2.78617
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-andrews-castle",
       "name": "St Andrews Castle",
-      "lat": 56.3415,
-      "lng": -2.787,
+      "lat": 56.34226,
+      "lng": -2.78994,
       "radiusM": 100,
       "address": "St Andrews Castle",
       "howTo": "Visit St Andrews Castle.",
-      "badge": "badges/st-andrews-castle.png"
+      "badge": "badges/st-andrews-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              56.34235,
+              -2.79037
+            ],
+            [
+              56.34205,
+              -2.79047
+            ],
+            [
+              56.34192,
+              -2.79014
+            ],
+            [
+              56.34189,
+              -2.79014
+            ],
+            [
+              56.34189,
+              -2.78998
+            ],
+            [
+              56.34204,
+              -2.78998
+            ],
+            [
+              56.34206,
+              -2.78968
+            ],
+            [
+              56.34235,
+              -2.7896
+            ],
+            [
+              56.34241,
+              -2.78948
+            ],
+            [
+              56.34258,
+              -2.78943
+            ],
+            [
+              56.34258,
+              -2.78961
+            ],
+            [
+              56.34255,
+              -2.7897
+            ],
+            [
+              56.34253,
+              -2.79027
+            ],
+            [
+              56.34239,
+              -2.79035
+            ],
+            [
+              56.34235,
+              -2.79037
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-course-st-andrews",
       "name": "Old Course St Andrews",
-      "lat": 56.3435,
-      "lng": -2.8025,
+      "lat": 56.34376,
+      "lng": -2.80265,
       "radiusM": 250,
       "address": "Old Course, St Andrews",
       "howTo": "Visit Old Course St Andrews.",
-      "badge": "badges/old-course-st-andrews.png"
+      "badge": "badges/old-course-st-andrews.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              56.34377,
+              -2.80266
+            ],
+            [
+              56.34377,
+              -2.80262
+            ],
+            [
+              56.34375,
+              -2.80262
+            ],
+            [
+              56.34375,
+              -2.80266
+            ],
+            [
+              56.34377,
+              -2.80268
+            ],
+            [
+              56.34377,
+              -2.80266
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

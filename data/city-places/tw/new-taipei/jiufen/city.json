@@ -12,7 +12,7 @@
     "maxLat": 25.115,
     "maxLng": 121.862
   },
-  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "updatedAt": "2026-10-02T20:05:38.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "jinguashi",
       "name": "Jinguashi",
-      "lat": 25.1083,
-      "lng": 121.8575,
+      "lat": 25.10813,
+      "lng": 121.85782,
       "radiusM": 200,
       "address": "Gold Museum",
       "howTo": "Visit Jinguashi.",
-      "badge": "badges/jinguashi.png"
+      "badge": "badges/jinguashi.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              25.1082,
+              121.8578
+            ],
+            [
+              25.10817,
+              121.85789
+            ],
+            [
+              25.10806,
+              121.85785
+            ],
+            [
+              25.10809,
+              121.85776
+            ],
+            [
+              25.1082,
+              121.8578
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

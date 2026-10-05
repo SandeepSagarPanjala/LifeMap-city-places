@@ -12,28 +12,90 @@
     "maxLat": 17.58,
     "maxLng": 120.4
   },
-  "updatedAt": "2026-08-18T03:00:00.000Z",
+  "updatedAt": "2026-10-02T19:25:39.000Z",
   "status": "complete",
   "places": [
     {
       "id": "calle-crisologo",
       "name": "Calle Crisologo",
-      "lat": 17.574,
-      "lng": 120.388,
+      "lat": 17.57262,
+      "lng": 120.38904,
       "radiusM": 200,
       "address": "Historic Vigan",
       "howTo": "Visit Calle Crisologo.",
-      "badge": "badges/calle-crisologo.png"
+      "badge": "badges/calle-crisologo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.57019,
+              120.38835
+            ],
+            [
+              17.57295,
+              120.38915
+            ],
+            [
+              17.57368,
+              120.38922
+            ],
+            [
+              17.5737,
+              120.38908
+            ],
+            [
+              17.57295,
+              120.38911
+            ],
+            [
+              17.57223,
+              120.38893
+            ],
+            [
+              17.57019,
+              120.38835
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "vigan-cathedral",
       "name": "Vigan Cathedral",
-      "lat": 17.5747,
-      "lng": 120.3867,
+      "lat": 17.57474,
+      "lng": 120.38893,
       "radiusM": 100,
       "address": "Plaza Salcedo",
       "howTo": "Visit Vigan Cathedral.",
-      "badge": "badges/vigan-cathedral.png"
+      "badge": "badges/vigan-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.57501,
+              120.38863
+            ],
+            [
+              17.57472,
+              120.38934
+            ],
+            [
+              17.57447,
+              120.38922
+            ],
+            [
+              17.57476,
+              120.38851
+            ],
+            [
+              17.57501,
+              120.38863
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

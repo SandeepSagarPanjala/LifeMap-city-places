@@ -12,7 +12,7 @@
     "maxLat": 38.22,
     "maxLng": 128.6
   },
-  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "updatedAt": "2026-10-01T11:52:09.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "sokcho-beach",
       "name": "Sokcho Beach",
-      "lat": 38.2075,
-      "lng": 128.5945,
+      "lat": 38.20333,
+      "lng": 128.59488,
       "radiusM": 200,
       "address": "Sokcho Beach",
       "howTo": "Visit Sokcho Beach.",
-      "badge": "badges/sokcho-beach.png"
+      "badge": "badges/sokcho-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.20217,
+              128.59487
+            ],
+            [
+              38.20243,
+              128.59579
+            ],
+            [
+              38.20252,
+              128.59536
+            ],
+            [
+              38.20278,
+              128.5951
+            ],
+            [
+              38.20314,
+              128.595
+            ],
+            [
+              38.20571,
+              128.59532
+            ],
+            [
+              38.20536,
+              128.59492
+            ],
+            [
+              38.20252,
+              128.59466
+            ],
+            [
+              38.20217,
+              128.59487
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "abai-village",

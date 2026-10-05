@@ -12,58 +12,255 @@
     "maxLat": 22.76,
     "maxLng": 75.92
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:33:22.000Z",
   "status": "complete",
   "places": [
     {
       "id": "rajwada",
       "name": "Rajwada",
-      "lat": 22.7177,
-      "lng": 75.855,
+      "lat": 22.71802,
+      "lng": 75.85476,
       "radiusM": 120,
       "address": "Rajwada, Indore, MP",
       "howTo": "Visit Rajwada.",
-      "badge": "badges/rajwada.png"
+      "badge": "badges/rajwada.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.71831,
+              75.85433
+            ],
+            [
+              22.71831,
+              75.8552
+            ],
+            [
+              22.71772,
+              75.8552
+            ],
+            [
+              22.71773,
+              75.85432
+            ],
+            [
+              22.71831,
+              75.85433
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "lal-bagh-palace-indore",
       "name": "Lal Bagh Palace",
-      "lat": 22.7075,
-      "lng": 75.8485,
+      "lat": 22.70148,
+      "lng": 75.84728,
       "radiusM": 150,
       "address": "Lal Bagh, Indore, MP",
       "howTo": "Visit Lal Bagh Palace.",
-      "badge": "badges/lal-bagh-palace-indore.png"
+      "badge": "badges/lal-bagh-palace-indore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.69887,
+              75.84488
+            ],
+            [
+              22.7053,
+              75.84558
+            ],
+            [
+              22.70525,
+              75.84745
+            ],
+            [
+              22.70542,
+              75.84803
+            ],
+            [
+              22.70393,
+              75.84848
+            ],
+            [
+              22.70194,
+              75.84812
+            ],
+            [
+              22.70172,
+              75.8478
+            ],
+            [
+              22.70128,
+              75.84751
+            ],
+            [
+              22.69987,
+              75.84738
+            ],
+            [
+              22.6993,
+              75.84761
+            ],
+            [
+              22.69899,
+              75.84792
+            ],
+            [
+              22.69866,
+              75.84717
+            ],
+            [
+              22.69866,
+              75.84667
+            ],
+            [
+              22.69887,
+              75.84488
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kanch-mandir",
       "name": "Kanch Mandir",
-      "lat": 22.7185,
-      "lng": 75.8545,
+      "lat": 22.71754,
+      "lng": 75.85443,
       "radiusM": 100,
       "address": "Itwaria Bazaar, Indore, MP",
       "howTo": "Visit Kanch Mandir.",
-      "badge": "badges/kanch-mandir.png"
+      "badge": "badges/kanch-mandir.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.71803,
+              75.85414
+            ],
+            [
+              22.71803,
+              75.85486
+            ],
+            [
+              22.71737,
+              75.85484
+            ],
+            [
+              22.71739,
+              75.85447
+            ],
+            [
+              22.71702,
+              75.8545
+            ],
+            [
+              22.71708,
+              75.85439
+            ],
+            [
+              22.71738,
+              75.85417
+            ],
+            [
+              22.71803,
+              75.85409
+            ],
+            [
+              22.71803,
+              75.85414
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "krishnapura-chhatris",
       "name": "Krishnapura Chhatris",
-      "lat": 22.7205,
-      "lng": 75.8575,
+      "lat": 22.71889,
+      "lng": 75.85795,
       "radiusM": 120,
       "address": "Indore, MP",
       "howTo": "Visit Krishnapura Chhatris.",
-      "badge": "badges/krishnapura-chhatris.png"
+      "badge": "badges/krishnapura-chhatris.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.71893,
+              75.85775
+            ],
+            [
+              22.71942,
+              75.85779
+            ],
+            [
+              22.71955,
+              75.85812
+            ],
+            [
+              22.71839,
+              75.85844
+            ],
+            [
+              22.71828,
+              75.85783
+            ],
+            [
+              22.71878,
+              75.85775
+            ],
+            [
+              22.71893,
+              75.85775
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "pipliyapala",
       "name": "Pipliyapala Regional Park",
-      "lat": 22.6805,
-      "lng": 75.8605,
+      "lat": 22.67789,
+      "lng": 75.85729,
       "radiusM": 250,
       "address": "Pipliyapala, Indore, MP",
       "howTo": "Visit Pipliyapala Regional Park.",
-      "badge": "badges/pipliyapala.png"
+      "badge": "badges/pipliyapala.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.67991,
+              75.85891
+            ],
+            [
+              22.68007,
+              75.85575
+            ],
+            [
+              22.67593,
+              75.85549
+            ],
+            [
+              22.67566,
+              75.85899
+            ],
+            [
+              22.67991,
+              75.85891
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

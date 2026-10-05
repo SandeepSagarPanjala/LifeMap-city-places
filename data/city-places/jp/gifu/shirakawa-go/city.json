@@ -12,18 +12,49 @@
     "maxLat": 36.27,
     "maxLng": 136.91
   },
-  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "updatedAt": "2026-10-01T18:41:46.000Z",
   "status": "complete",
   "places": [
     {
       "id": "ogimachi-village",
       "name": "Ogimachi Village",
-      "lat": 36.2575,
-      "lng": 136.9065,
+      "lat": 36.26199,
+      "lng": 136.90686,
       "radiusM": 250,
       "address": "Ogimachi, Shirakawa-go",
       "howTo": "Visit Ogimachi Village.",
-      "badge": "badges/ogimachi-village.png"
+      "badge": "badges/ogimachi-village.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.26206,
+              136.90677
+            ],
+            [
+              36.26209,
+              136.90693
+            ],
+            [
+              36.26193,
+              136.90698
+            ],
+            [
+              36.2619,
+              136.90682
+            ],
+            [
+              36.26197,
+              136.9068
+            ],
+            [
+              36.26206,
+              136.90677
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shiroyama-viewpoint",
@@ -38,12 +69,39 @@
     {
       "id": "wada-house",
       "name": "Wada House",
-      "lat": 36.2565,
-      "lng": 136.9055,
+      "lat": 36.25992,
+      "lng": 136.90763,
       "radiusM": 80,
       "address": "Wada House, Shirakawa-go",
       "howTo": "Visit Wada House.",
-      "badge": "badges/wada-house.png"
+      "badge": "badges/wada-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.26004,
+              136.90755
+            ],
+            [
+              36.26003,
+              136.90772
+            ],
+            [
+              36.25981,
+              136.90771
+            ],
+            [
+              36.25982,
+              136.90754
+            ],
+            [
+              36.26004,
+              136.90755
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

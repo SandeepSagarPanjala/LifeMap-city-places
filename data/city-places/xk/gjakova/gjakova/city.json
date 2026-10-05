@@ -12,7 +12,7 @@
     "maxLat": 42.382,
     "maxLng": 20.43
   },
-  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "updatedAt": "2026-10-02T22:05:14.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 80,
       "address": "Gjakova",
       "howTo": "Visit Hadum Mosque.",
-      "badge": "badges/hadum-mosque.png"
+      "badge": "badges/hadum-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37927,
+              20.42717
+            ],
+            [
+              42.37906,
+              20.42727
+            ],
+            [
+              42.37911,
+              20.42747
+            ],
+            [
+              42.37932,
+              20.42737
+            ],
+            [
+              42.37927,
+              20.42717
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 5.99,
     "maxLng": 116.1
   },
-  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "updatedAt": "2026-10-01T13:02:47.000Z",
   "status": "complete",
   "places": [
     {
@@ -38,12 +38,59 @@
     {
       "id": "kk-waterfront",
       "name": "Kota Kinabalu Waterfront",
-      "lat": 5.981,
-      "lng": 116.073,
+      "lat": 5.97905,
+      "lng": 116.06993,
       "radiusM": 200,
       "address": "Jesselton Point",
       "howTo": "Visit Kota Kinabalu Waterfront.",
-      "badge": "badges/kk-waterfront.png"
+      "badge": "badges/kk-waterfront.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              5.98,
+              116.07043
+            ],
+            [
+              5.9798,
+              116.07076
+            ],
+            [
+              5.9795,
+              116.07056
+            ],
+            [
+              5.97958,
+              116.07041
+            ],
+            [
+              5.97933,
+              116.07019
+            ],
+            [
+              5.97846,
+              116.06968
+            ],
+            [
+              5.97838,
+              116.0698
+            ],
+            [
+              5.97812,
+              116.06963
+            ],
+            [
+              5.9783,
+              116.06935
+            ],
+            [
+              5.98,
+              116.07043
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

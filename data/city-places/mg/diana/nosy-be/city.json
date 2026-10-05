@@ -12,7 +12,7 @@
     "maxLat": -13.249,
     "maxLng": 48.197
   },
-  "updatedAt": "2026-08-19T00:19:39.000Z",
+  "updatedAt": "2026-10-01T12:30:29.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 120,
       "address": "Nosy Be",
       "howTo": "Visit Andilana Beach.",
-      "badge": "badges/andilana-beach.png"
+      "badge": "badges/andilana-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -13.25169,
+              48.18969
+            ],
+            [
+              -13.25166,
+              48.18973
+            ],
+            [
+              -13.25176,
+              48.18979
+            ],
+            [
+              -13.25183,
+              48.18966
+            ],
+            [
+              -13.25174,
+              48.1896
+            ],
+            [
+              -13.25169,
+              48.18969
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "andilana-lagoon",

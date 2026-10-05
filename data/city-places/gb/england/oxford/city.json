@@ -12,7 +12,7 @@
     "maxLat": 51.76,
     "maxLng": -1.24
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T14:55:30.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,37 +23,209 @@
       "radiusM": 80,
       "address": "Radcliffe Camera, Oxford",
       "howTo": "Visit Radcliffe Camera.",
-      "badge": "badges/radcliffe-camera.png"
+      "badge": "badges/radcliffe-camera.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.7536,
+              -1.25404
+            ],
+            [
+              51.75357,
+              -1.25403
+            ],
+            [
+              51.75354,
+              -1.25384
+            ],
+            [
+              51.75347,
+              -1.25377
+            ],
+            [
+              51.75337,
+              -1.25378
+            ],
+            [
+              51.75332,
+              -1.25385
+            ],
+            [
+              51.75329,
+              -1.25394
+            ],
+            [
+              51.7533,
+              -1.25409
+            ],
+            [
+              51.75334,
+              -1.25417
+            ],
+            [
+              51.7534,
+              -1.25422
+            ],
+            [
+              51.7535,
+              -1.25419
+            ],
+            [
+              51.75356,
+              -1.25409
+            ],
+            [
+              51.75358,
+              -1.25411
+            ],
+            [
+              51.75359,
+              -1.25407
+            ],
+            [
+              51.7536,
+              -1.25404
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "christ-church-oxford",
       "name": "Christ Church",
-      "lat": 51.7502,
-      "lng": -1.2554,
+      "lat": 51.75068,
+      "lng": -1.25443,
       "radiusM": 150,
       "address": "Christ Church College, Oxford",
       "howTo": "Visit Christ Church.",
-      "badge": "badges/christ-church-oxford.png"
+      "badge": "badges/christ-church-oxford.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.75052,
+              -1.25447
+            ],
+            [
+              51.75082,
+              -1.25454
+            ],
+            [
+              51.75084,
+              -1.25439
+            ],
+            [
+              51.75053,
+              -1.25431
+            ],
+            [
+              51.75052,
+              -1.25447
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bodleian-library",
       "name": "Bodleian Library",
-      "lat": 51.754,
-      "lng": -1.2544,
+      "lat": 51.75392,
+      "lng": -1.25344,
       "radiusM": 100,
       "address": "Bodleian Library, Oxford",
       "howTo": "Visit Bodleian Library.",
-      "badge": "badges/bodleian-library.png"
+      "badge": "badges/bodleian-library.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.75397,
+              -1.25347
+            ],
+            [
+              51.75396,
+              -1.2536
+            ],
+            [
+              51.75385,
+              -1.25357
+            ],
+            [
+              51.75387,
+              -1.25335
+            ],
+            [
+              51.75389,
+              -1.25335
+            ],
+            [
+              51.75389,
+              -1.25338
+            ],
+            [
+              51.75397,
+              -1.25339
+            ],
+            [
+              51.75397,
+              -1.25343
+            ],
+            [
+              51.75397,
+              -1.25347
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "oxford-botanic-garden",
       "name": "University of Oxford Botanic Garden",
-      "lat": 51.751,
-      "lng": -1.2475,
+      "lat": 51.75073,
+      "lng": -1.24859,
       "radiusM": 150,
       "address": "Botanic Garden, Oxford",
       "howTo": "Visit University of Oxford Botanic Garden.",
-      "badge": "badges/oxford-botanic-garden.png"
+      "badge": "badges/oxford-botanic-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.75079,
+              -1.24866
+            ],
+            [
+              51.75076,
+              -1.24869
+            ],
+            [
+              51.75073,
+              -1.2486
+            ],
+            [
+              51.75071,
+              -1.24863
+            ],
+            [
+              51.75066,
+              -1.2485
+            ],
+            [
+              51.75073,
+              -1.24847
+            ],
+            [
+              51.75079,
+              -1.24866
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

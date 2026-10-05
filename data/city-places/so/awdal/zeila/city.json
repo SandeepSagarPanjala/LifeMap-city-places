@@ -12,7 +12,7 @@
     "maxLat": 11.35843,
     "maxLng": 43.479
   },
-  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "updatedAt": "2026-10-02T23:36:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Zeila",
       "howTo": "Visit Zeila Central Mosque.",
-      "badge": "badges/zeila-mosque.png"
+      "badge": "badges/zeila-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.35536,
+              43.47311
+            ],
+            [
+              11.35549,
+              43.47311
+            ],
+            [
+              11.35549,
+              43.47332
+            ],
+            [
+              11.35537,
+              43.47332
+            ],
+            [
+              11.35536,
+              43.47311
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "zeila-coast",

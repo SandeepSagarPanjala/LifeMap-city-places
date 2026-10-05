@@ -12,7 +12,7 @@
     "maxLat": 26.257,
     "maxLng": 50.616
   },
-  "updatedAt": "2026-08-18T03:48:23.000Z",
+  "updatedAt": "2026-10-01T07:15:51.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "sheikh-isa-house",
       "name": "Sheikh Isa House",
-      "lat": 26.2535,
-      "lng": 50.6114,
+      "lat": 26.25435,
+      "lng": 50.61258,
       "radiusM": 40,
       "address": "Muharraq",
       "howTo": "Visit Sheikh Isa House.",
-      "badge": "badges/sheikh-isa-house.png"
+      "badge": "badges/sheikh-isa-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.25453,
+              50.61232
+            ],
+            [
+              26.25396,
+              50.6125
+            ],
+            [
+              26.25404,
+              50.61289
+            ],
+            [
+              26.2545,
+              50.61269
+            ],
+            [
+              26.25447,
+              50.61258
+            ],
+            [
+              26.25462,
+              50.61252
+            ],
+            [
+              26.25453,
+              50.61232
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

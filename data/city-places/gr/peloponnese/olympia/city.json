@@ -12,7 +12,7 @@
     "maxLat": 37.64,
     "maxLng": 21.64
   },
-  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "updatedAt": "2026-10-02T18:19:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,43 @@
     {
       "id": "temple-of-zeus-olympia",
       "name": "Temple of Zeus at Olympia",
-      "lat": 37.6385,
-      "lng": 21.6295,
+      "lat": 37.63859,
+      "lng": 21.63037,
       "radiusM": 100,
       "address": "Olympia",
       "howTo": "Visit Temple of Zeus at Olympia.",
-      "badge": "badges/temple-of-zeus-olympia.png"
+      "badge": "badges/temple-of-zeus-olympia.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.63863,
+              21.63034
+            ],
+            [
+              37.63862,
+              21.63042
+            ],
+            [
+              37.63856,
+              21.63041
+            ],
+            [
+              37.63855,
+              21.63037
+            ],
+            [
+              37.6386,
+              21.63032
+            ],
+            [
+              37.63863,
+              21.63034
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,61 @@
     "maxLat": 15.35,
     "maxLng": 76.49
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-02T23:03:27.000Z",
   "status": "complete",
   "places": [
     {
       "id": "virupaksha-temple",
       "name": "Virupaksha Temple",
-      "lat": 15.335,
-      "lng": 76.46,
+      "lat": 15.33517,
+      "lng": 76.45874,
       "radiusM": 150,
       "address": "Hampi, KA",
       "howTo": "Visit Virupaksha Temple.",
-      "badge": "badges/virupaksha-temple.png"
+      "badge": "badges/virupaksha-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.33525,
+              76.45856
+            ],
+            [
+              15.33524,
+              76.4588
+            ],
+            [
+              15.33521,
+              76.45879
+            ],
+            [
+              15.33521,
+              76.45882
+            ],
+            [
+              15.33512,
+              76.45881
+            ],
+            [
+              15.33512,
+              76.45879
+            ],
+            [
+              15.33509,
+              76.45879
+            ],
+            [
+              15.33511,
+              76.45855
+            ],
+            [
+              15.33525,
+              76.45856
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "vittala-temple",
@@ -38,32 +81,154 @@
     {
       "id": "lotus-mahal",
       "name": "Lotus Mahal",
-      "lat": 15.3215,
-      "lng": 76.4715,
+      "lat": 15.32027,
+      "lng": 76.47139,
       "radiusM": 120,
       "address": "Royal Enclosure, Hampi, KA",
       "howTo": "Visit Lotus Mahal.",
-      "badge": "badges/lotus-mahal.png"
+      "badge": "badges/lotus-mahal.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.3202,
+              76.47137
+            ],
+            [
+              15.3202,
+              76.47142
+            ],
+            [
+              15.32025,
+              76.47144
+            ],
+            [
+              15.32025,
+              76.47148
+            ],
+            [
+              15.3203,
+              76.47148
+            ],
+            [
+              15.3203,
+              76.47145
+            ],
+            [
+              15.32037,
+              76.47142
+            ],
+            [
+              15.32037,
+              76.47137
+            ],
+            [
+              15.32031,
+              76.47134
+            ],
+            [
+              15.32031,
+              76.47131
+            ],
+            [
+              15.32026,
+              76.47131
+            ],
+            [
+              15.32026,
+              76.47134
+            ],
+            [
+              15.32023,
+              76.47134
+            ],
+            [
+              15.32023,
+              76.47137
+            ],
+            [
+              15.3202,
+              76.47137
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "hemakuta-hill",
       "name": "Hemakuta Hill",
-      "lat": 15.3335,
-      "lng": 76.4585,
+      "lat": 15.33429,
+      "lng": 76.46004,
       "radiusM": 200,
       "address": "Hampi, KA",
       "howTo": "Visit Hemakuta Hill.",
-      "badge": "badges/hemakuta-hill.png"
+      "badge": "badges/hemakuta-hill.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.33423,
+              76.45998
+            ],
+            [
+              15.33436,
+              76.46
+            ],
+            [
+              15.33435,
+              76.4601
+            ],
+            [
+              15.33421,
+              76.46008
+            ],
+            [
+              15.33423,
+              76.45998
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "elephant-stables",
       "name": "Elephant Stables",
-      "lat": 15.3205,
-      "lng": 76.4735,
+      "lat": 15.32111,
+      "lng": 76.47278,
       "radiusM": 120,
       "address": "Hampi, KA",
       "howTo": "Visit the Elephant Stables.",
-      "badge": "badges/elephant-stables.png"
+      "badge": "badges/elephant-stables.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.32074,
+              76.47275
+            ],
+            [
+              15.32148,
+              76.47273
+            ],
+            [
+              15.32148,
+              76.47281
+            ],
+            [
+              15.32074,
+              76.47283
+            ],
+            [
+              15.32074,
+              76.47275
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

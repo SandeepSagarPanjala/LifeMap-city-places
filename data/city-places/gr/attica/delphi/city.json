@@ -12,7 +12,7 @@
     "maxLat": 38.49,
     "maxLng": 22.51
   },
-  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "updatedAt": "2026-10-01T09:44:24.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "temple-of-apollo-delphi",
       "name": "Temple of Apollo at Delphi",
-      "lat": 38.4822,
-      "lng": 22.5005,
+      "lat": 38.48228,
+      "lng": 22.50117,
       "radiusM": 120,
       "address": "Delphi",
       "howTo": "Visit Temple of Apollo at Delphi.",
-      "badge": "badges/temple-of-apollo-delphi.png"
+      "badge": "badges/temple-of-apollo-delphi.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.48202,
+              22.50101
+            ],
+            [
+              38.48237,
+              22.50152
+            ],
+            [
+              38.48254,
+              22.50132
+            ],
+            [
+              38.48219,
+              22.50081
+            ],
+            [
+              38.48202,
+              22.50101
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

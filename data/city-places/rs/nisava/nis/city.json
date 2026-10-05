@@ -12,7 +12,7 @@
     "maxLat": 43.332,
     "maxLng": 21.955
   },
-  "updatedAt": "2026-08-18T02:56:22.000Z",
+  "updatedAt": "2026-10-02T23:33:15.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,38 @@
       "radiusM": 150,
       "address": "Ni\u0161",
       "howTo": "Visit Mediana.",
-      "badge": "badges/mediana.png"
+      "badge": "badges/mediana.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.30886,
+              21.94703
+            ],
+            [
+              43.30847,
+              21.94926
+            ],
+            [
+              43.31094,
+              21.95047
+            ],
+            [
+              43.31136,
+              21.94791
+            ],
+            [
+              43.31027,
+              21.94753
+            ],
+            [
+              43.30886,
+              21.94703
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

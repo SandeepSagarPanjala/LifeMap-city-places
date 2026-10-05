@@ -12,18 +12,73 @@
     "maxLat": 69.66,
     "maxLng": 18.98
   },
-  "updatedAt": "2026-08-18T06:00:00.000Z",
+  "updatedAt": "2026-10-01T19:43:14.000Z",
   "status": "complete",
   "places": [
     {
       "id": "arctic-cathedral",
       "name": "Arctic Cathedral",
-      "lat": 69.648,
-      "lng": 18.987,
+      "lat": 69.64795,
+      "lng": 18.98771,
       "radiusM": 120,
       "address": "Tromsdalen",
       "howTo": "Visit Arctic Cathedral.",
-      "badge": "badges/arctic-cathedral.png"
+      "badge": "badges/arctic-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              69.6479,
+              18.98806
+            ],
+            [
+              69.64801,
+              18.98772
+            ],
+            [
+              69.64828,
+              18.98742
+            ],
+            [
+              69.64813,
+              18.98681
+            ],
+            [
+              69.64794,
+              18.98744
+            ],
+            [
+              69.6478,
+              18.98765
+            ],
+            [
+              69.64782,
+              18.98774
+            ],
+            [
+              69.64779,
+              18.9878
+            ],
+            [
+              69.64788,
+              18.98817
+            ],
+            [
+              69.64797,
+              18.98805
+            ],
+            [
+              69.64794,
+              18.98797
+            ],
+            [
+              69.6479,
+              18.98806
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fjellheisen",

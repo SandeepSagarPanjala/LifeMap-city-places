@@ -12,48 +12,188 @@
     "maxLat": 46.92,
     "maxLng": -96.75
   },
-  "updatedAt": "2026-08-11T06:19:24.000Z",
+  "updatedAt": "2026-10-02T21:18:08.000Z",
   "status": "complete",
   "places": [
     {
       "id": "plains-art-museum",
       "name": "Plains Art Museum",
-      "lat": 46.8785,
-      "lng": -96.7895,
+      "lat": 46.87689,
+      "lng": -96.79181,
       "radiusM": 120,
       "address": "704 First Ave N, Fargo, ND",
       "howTo": "Visit Plains Art Museum.",
-      "badge": "badges/plains-art-museum.png"
+      "badge": "badges/plains-art-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.8767,
+              -96.79169
+            ],
+            [
+              46.87676,
+              -96.79211
+            ],
+            [
+              46.87709,
+              -96.79201
+            ],
+            [
+              46.87704,
+              -96.79159
+            ],
+            [
+              46.87688,
+              -96.79163
+            ],
+            [
+              46.8767,
+              -96.79169
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fargo-theatre",
       "name": "Fargo Theatre",
-      "lat": 46.8775,
-      "lng": -96.7895,
+      "lat": 46.87963,
+      "lng": -96.78819,
       "radiusM": 100,
       "address": "314 Broadway, Fargo, ND",
       "howTo": "Visit the Fargo Theatre.",
-      "badge": "badges/fargo-theatre.png"
+      "badge": "badges/fargo-theatre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.8797,
+              -96.78788
+            ],
+            [
+              46.87952,
+              -96.78788
+            ],
+            [
+              46.87952,
+              -96.78842
+            ],
+            [
+              46.8797,
+              -96.78842
+            ],
+            [
+              46.8797,
+              -96.78833
+            ],
+            [
+              46.8797,
+              -96.78788
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "island-park",
       "name": "Island Park",
-      "lat": 46.8685,
-      "lng": -96.7895,
+      "lat": 46.871,
+      "lng": -96.78798,
       "radiusM": 250,
       "address": "Island Park, Fargo, ND",
       "howTo": "Visit Island Park.",
-      "badge": "badges/island-park.png"
+      "badge": "badges/island-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.87337,
+              -96.78959
+            ],
+            [
+              46.87316,
+              -96.78696
+            ],
+            [
+              46.8723,
+              -96.78707
+            ],
+            [
+              46.8721,
+              -96.78685
+            ],
+            [
+              46.87203,
+              -96.78539
+            ],
+            [
+              46.86867,
+              -96.7858
+            ],
+            [
+              46.86868,
+              -96.78842
+            ],
+            [
+              46.86921,
+              -96.78964
+            ],
+            [
+              46.86927,
+              -96.79016
+            ],
+            [
+              46.87118,
+              -96.78993
+            ],
+            [
+              46.87337,
+              -96.78959
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "red-river-fargo",
       "name": "Red River",
-      "lat": 46.8775,
-      "lng": -96.7835,
+      "lat": 46.87437,
+      "lng": -96.79232,
       "radiusM": 200,
       "address": "Red River, Fargo, ND",
       "howTo": "Visit the Red River waterfront.",
-      "badge": "badges/red-river-fargo.png"
+      "badge": "badges/red-river-fargo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.87453,
+              -96.79219
+            ],
+            [
+              46.87419,
+              -96.79223
+            ],
+            [
+              46.87421,
+              -96.79244
+            ],
+            [
+              46.87455,
+              -96.7924
+            ],
+            [
+              46.87453,
+              -96.79219
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

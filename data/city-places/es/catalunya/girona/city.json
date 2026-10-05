@@ -12,38 +12,207 @@
     "maxLat": 41.99,
     "maxLng": 2.83
   },
-  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "updatedAt": "2026-10-01T08:50:18.000Z",
   "status": "complete",
   "places": [
     {
       "id": "girona-cathedral",
       "name": "Girona Cathedral",
-      "lat": 41.9875,
-      "lng": 2.8255,
+      "lat": 41.98737,
+      "lng": 2.82643,
       "radiusM": 100,
       "address": "Catedral de Girona",
       "howTo": "Visit Girona Cathedral.",
-      "badge": "badges/girona-cathedral.png"
+      "badge": "badges/girona-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.98708,
+              2.82659
+            ],
+            [
+              41.98711,
+              2.8264
+            ],
+            [
+              41.98717,
+              2.82638
+            ],
+            [
+              41.98717,
+              2.82619
+            ],
+            [
+              41.98713,
+              2.82618
+            ],
+            [
+              41.98718,
+              2.82607
+            ],
+            [
+              41.98711,
+              2.82597
+            ],
+            [
+              41.98715,
+              2.82583
+            ],
+            [
+              41.98749,
+              2.82582
+            ],
+            [
+              41.98749,
+              2.8259
+            ],
+            [
+              41.98793,
+              2.82608
+            ],
+            [
+              41.98773,
+              2.82651
+            ],
+            [
+              41.98774,
+              2.82657
+            ],
+            [
+              41.98767,
+              2.82676
+            ],
+            [
+              41.98764,
+              2.82675
+            ],
+            [
+              41.98765,
+              2.82671
+            ],
+            [
+              41.98748,
+              2.82664
+            ],
+            [
+              41.98745,
+              2.82681
+            ],
+            [
+              41.98738,
+              2.82686
+            ],
+            [
+              41.98726,
+              2.82686
+            ],
+            [
+              41.98719,
+              2.82678
+            ],
+            [
+              41.98716,
+              2.82659
+            ],
+            [
+              41.98709,
+              2.82659
+            ],
+            [
+              41.98708,
+              2.82659
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jewish-quarter-girona",
       "name": "Call Jueu",
-      "lat": 41.9865,
-      "lng": 2.8245,
+      "lat": 41.98601,
+      "lng": 2.82542,
       "radiusM": 150,
       "address": "Jewish Quarter",
       "howTo": "Visit Call Jueu.",
-      "badge": "badges/jewish-quarter-girona.png"
+      "badge": "badges/jewish-quarter-girona.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.9861,
+              2.82549
+            ],
+            [
+              41.98607,
+              2.82523
+            ],
+            [
+              41.9859,
+              2.82526
+            ],
+            [
+              41.98594,
+              2.82551
+            ],
+            [
+              41.986,
+              2.82548
+            ],
+            [
+              41.986,
+              2.8255
+            ],
+            [
+              41.98607,
+              2.82549
+            ],
+            [
+              41.9861,
+              2.82549
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pont-de-les-peixateries",
       "name": "Pont de les Peixateries Velles",
-      "lat": 41.9845,
-      "lng": 2.8255,
+      "lat": 41.98455,
+      "lng": 2.8239,
       "radiusM": 80,
       "address": "Eiffel Bridge",
       "howTo": "Visit Pont de les Peixateries Velles.",
-      "badge": "badges/pont-de-les-peixateries.png"
+      "badge": "badges/pont-de-les-peixateries.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.98462,
+              2.82368
+            ],
+            [
+              41.9846,
+              2.82367
+            ],
+            [
+              41.98448,
+              2.82412
+            ],
+            [
+              41.9845,
+              2.82413
+            ],
+            [
+              41.98462,
+              2.82368
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

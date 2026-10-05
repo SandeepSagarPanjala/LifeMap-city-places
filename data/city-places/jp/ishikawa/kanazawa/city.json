@@ -12,7 +12,7 @@
     "maxLat": 36.58,
     "maxLng": 136.68
   },
-  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "updatedAt": "2026-10-01T11:28:09.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,152 @@
       "radiusM": 200,
       "address": "Kenrokuen, Kanazawa",
       "howTo": "Visit Kenrokuen Garden.",
-      "badge": "badges/kenrokuen.png"
+      "badge": "badges/kenrokuen.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.56198,
+              136.65986
+            ],
+            [
+              36.56239,
+              136.66044
+            ],
+            [
+              36.56468,
+              136.66215
+            ],
+            [
+              36.5614,
+              136.66521
+            ],
+            [
+              36.56035,
+              136.66392
+            ],
+            [
+              36.5606,
+              136.66357
+            ],
+            [
+              36.56016,
+              136.66256
+            ],
+            [
+              36.5603,
+              136.66226
+            ],
+            [
+              36.56166,
+              136.66083
+            ],
+            [
+              36.56168,
+              136.65965
+            ],
+            [
+              36.5618,
+              136.65967
+            ],
+            [
+              36.56198,
+              136.65986
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kanazawa-castle",
       "name": "Kanazawa Castle",
-      "lat": 36.5645,
-      "lng": 136.6595,
+      "lat": 36.56576,
+      "lng": 136.65958,
       "radiusM": 200,
       "address": "Kanazawa Castle Park",
       "howTo": "Visit Kanazawa Castle.",
-      "badge": "badges/kanazawa-castle.png"
+      "badge": "badges/kanazawa-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.56585,
+              136.6596
+            ],
+            [
+              36.56526,
+              136.65938
+            ],
+            [
+              36.56523,
+              136.6595
+            ],
+            [
+              36.56592,
+              136.65976
+            ],
+            [
+              36.56595,
+              136.65965
+            ],
+            [
+              36.566,
+              136.65967
+            ],
+            [
+              36.56603,
+              136.65956
+            ],
+            [
+              36.56588,
+              136.6595
+            ],
+            [
+              36.56585,
+              136.6596
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "higashi-chaya",
       "name": "Higashi Chaya District",
-      "lat": 36.5725,
-      "lng": 136.6665,
+      "lat": 36.57233,
+      "lng": 136.66583,
       "radiusM": 150,
       "address": "Higashi Chaya, Kanazawa",
       "howTo": "Visit Higashi Chaya District.",
-      "badge": "badges/higashi-chaya.png"
+      "badge": "badges/higashi-chaya.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.57238,
+              136.66581
+            ],
+            [
+              36.57237,
+              136.66588
+            ],
+            [
+              36.57227,
+              136.66585
+            ],
+            [
+              36.57229,
+              136.66578
+            ],
+            [
+              36.57238,
+              136.66581
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "21st-century-museum",
@@ -53,7 +178,86 @@
       "radiusM": 120,
       "address": "21st Century Museum of Contemporary Art, Kanazawa",
       "howTo": "Visit 21st Century Museum.",
-      "badge": "badges/21st-century-museum.png"
+      "badge": "badges/21st-century-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.56122,
+              136.65778
+            ],
+            [
+              36.56132,
+              136.65799
+            ],
+            [
+              36.56135,
+              136.65822
+            ],
+            [
+              36.5613,
+              136.65849
+            ],
+            [
+              36.56119,
+              136.65867
+            ],
+            [
+              36.561,
+              136.65881
+            ],
+            [
+              36.56085,
+              136.65884
+            ],
+            [
+              36.56066,
+              136.6588
+            ],
+            [
+              36.56047,
+              136.65863
+            ],
+            [
+              36.56038,
+              136.65845
+            ],
+            [
+              36.56034,
+              136.65823
+            ],
+            [
+              36.56037,
+              136.65802
+            ],
+            [
+              36.56048,
+              136.65778
+            ],
+            [
+              36.56065,
+              136.65763
+            ],
+            [
+              36.56082,
+              136.65758
+            ],
+            [
+              36.56104,
+              136.65763
+            ],
+            [
+              36.56119,
+              136.65774
+            ],
+            [
+              36.56122,
+              136.65778
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

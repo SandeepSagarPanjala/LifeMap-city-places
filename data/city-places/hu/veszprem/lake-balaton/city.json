@@ -12,28 +12,106 @@
     "maxLat": 46.92,
     "maxLng": 18.05
   },
-  "updatedAt": "2026-08-18T06:30:00.000Z",
+  "updatedAt": "2026-10-01T09:59:35.000Z",
   "status": "complete",
   "places": [
     {
       "id": "tihany-abbey",
       "name": "Tihany Abbey",
-      "lat": 46.914,
-      "lng": 17.889,
+      "lat": 46.91396,
+      "lng": 17.88977,
       "radiusM": 150,
       "address": "Tihany",
       "howTo": "Visit Tihany Abbey.",
-      "badge": "badges/tihany-abbey.png"
+      "badge": "badges/tihany-abbey.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.91406,
+              17.88983
+            ],
+            [
+              46.91413,
+              17.88981
+            ],
+            [
+              46.91411,
+              17.88968
+            ],
+            [
+              46.91406,
+              17.8897
+            ],
+            [
+              46.914,
+              17.88933
+            ],
+            [
+              46.91354,
+              17.88947
+            ],
+            [
+              46.91363,
+              17.89003
+            ],
+            [
+              46.91397,
+              17.88992
+            ],
+            [
+              46.91398,
+              17.88997
+            ],
+            [
+              46.91408,
+              17.88994
+            ],
+            [
+              46.91406,
+              17.88983
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "balatonfured-promenade",
       "name": "Balatonfured Promenade",
-      "lat": 46.955,
-      "lng": 17.893,
+      "lat": 46.95515,
+      "lng": 17.88949,
       "radiusM": 200,
       "address": "Tagore Promenade",
       "howTo": "Visit Balatonfured Promenade.",
-      "badge": "badges/balatonfured-promenade.png"
+      "badge": "badges/balatonfured-promenade.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.95504,
+              17.89005
+            ],
+            [
+              46.95554,
+              17.88963
+            ],
+            [
+              46.95534,
+              17.88913
+            ],
+            [
+              46.95468,
+              17.88916
+            ],
+            [
+              46.95504,
+              17.89005
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

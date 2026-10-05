@@ -12,7 +12,7 @@
     "maxLat": 42.211,
     "maxLng": 20.748
   },
-  "updatedAt": "2026-08-18T04:01:28.000Z",
+  "updatedAt": "2026-10-02T22:07:34.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "sinan-pasha-mosque",
       "name": "Sinan Pasha Mosque",
-      "lat": 42.20861,
-      "lng": 20.74139,
+      "lat": 42.20899,
+      "lng": 20.74142,
       "radiusM": 80,
       "address": "Prizren",
       "howTo": "Visit Sinan Pasha Mosque.",
-      "badge": "badges/sinan-pasha-mosque.png"
+      "badge": "badges/sinan-pasha-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.20904,
+              20.74122
+            ],
+            [
+              42.20892,
+              20.74136
+            ],
+            [
+              42.20894,
+              20.7414
+            ],
+            [
+              42.2089,
+              20.74144
+            ],
+            [
+              42.20896,
+              20.74154
+            ],
+            [
+              42.20899,
+              20.7415
+            ],
+            [
+              42.20902,
+              20.74154
+            ],
+            [
+              42.20915,
+              20.74139
+            ],
+            [
+              42.20904,
+              20.74122
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-stone-bridge",

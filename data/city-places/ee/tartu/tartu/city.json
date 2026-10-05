@@ -12,18 +12,45 @@
     "maxLat": 58.385,
     "maxLng": 26.726
   },
-  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "updatedAt": "2026-10-01T15:34:05.000Z",
   "status": "complete",
   "places": [
     {
       "id": "tartu-town-hall",
       "name": "Tartu Town Hall",
       "lat": 58.38,
-      "lng": 26.7225,
+      "lng": 26.72178,
       "radiusM": 50,
       "address": "Raekoja plats",
       "howTo": "Visit Tartu Town Hall.",
-      "badge": "badges/tartu-town-hall.png"
+      "badge": "badges/tartu-town-hall.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.38011,
+              26.7215
+            ],
+            [
+              58.38018,
+              26.7218
+            ],
+            [
+              58.37988,
+              26.72206
+            ],
+            [
+              58.37981,
+              26.72176
+            ],
+            [
+              58.38011,
+              26.7215
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-johns-church",

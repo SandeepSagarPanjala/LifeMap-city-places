@@ -12,7 +12,7 @@
     "maxLat": 20.69,
     "maxLng": -88.56
   },
-  "updatedAt": "2026-08-17T22:40:00.000Z",
+  "updatedAt": "2026-10-01T12:59:20.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,116 @@
     {
       "id": "sacred-cenote",
       "name": "Sacred Cenote",
-      "lat": 20.688,
-      "lng": -88.5679,
+      "lat": 20.68774,
+      "lng": -88.56771,
       "radiusM": 80,
       "address": "Cenote Sagrado",
       "howTo": "Visit Sacred Cenote.",
-      "badge": "badges/sacred-cenote.png"
+      "badge": "badges/sacred-cenote.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.68798,
+              -88.56765
+            ],
+            [
+              20.68798,
+              -88.56777
+            ],
+            [
+              20.68795,
+              -88.56787
+            ],
+            [
+              20.68788,
+              -88.56798
+            ],
+            [
+              20.68776,
+              -88.56804
+            ],
+            [
+              20.68761,
+              -88.568
+            ],
+            [
+              20.68753,
+              -88.56789
+            ],
+            [
+              20.68755,
+              -88.56768
+            ],
+            [
+              20.68748,
+              -88.56766
+            ],
+            [
+              20.68753,
+              -88.56755
+            ],
+            [
+              20.68761,
+              -88.56747
+            ],
+            [
+              20.68772,
+              -88.56744
+            ],
+            [
+              20.68784,
+              -88.56746
+            ],
+            [
+              20.68793,
+              -88.56754
+            ],
+            [
+              20.68798,
+              -88.56765
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "temple-of-the-warriors",
       "name": "Temple of the Warriors",
-      "lat": 20.6847,
-      "lng": -88.5662,
+      "lat": 20.68314,
+      "lng": -88.56712,
       "radiusM": 80,
       "address": "Chich\u00e9n Itz\u00e1",
       "howTo": "Visit Temple of the Warriors.",
-      "badge": "badges/temple-of-the-warriors.png"
+      "badge": "badges/temple-of-the-warriors.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.68304,
+              -88.56736
+            ],
+            [
+              20.68291,
+              -88.567
+            ],
+            [
+              20.68324,
+              -88.56687
+            ],
+            [
+              20.68336,
+              -88.56723
+            ],
+            [
+              20.68304,
+              -88.56736
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

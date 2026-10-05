@@ -12,28 +12,94 @@
     "maxLat": 42.492,
     "maxLng": 18.703
   },
-  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "updatedAt": "2026-10-03T00:48:28.000Z",
   "status": "complete",
   "places": [
     {
       "id": "perast-waterfront",
       "name": "Perast Waterfront",
-      "lat": 42.4867,
-      "lng": 18.6994,
+      "lat": 42.48809,
+      "lng": 18.69525,
       "radiusM": 120,
       "address": "Perast",
       "howTo": "Visit Perast Waterfront.",
-      "badge": "badges/perast-waterfront.png"
+      "badge": "badges/perast-waterfront.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.48808,
+              18.69521
+            ],
+            [
+              42.48812,
+              18.69523
+            ],
+            [
+              42.4881,
+              18.69529
+            ],
+            [
+              42.48806,
+              18.69527
+            ],
+            [
+              42.48808,
+              18.69521
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "our-lady-of-the-rocks",
       "name": "Our Lady of the Rocks",
-      "lat": 42.4889,
-      "lng": 18.6911,
+      "lat": 42.4867,
+      "lng": 18.68873,
       "radiusM": 80,
       "address": "Bay of Kotor",
       "howTo": "Visit Our Lady of the Rocks.",
-      "badge": "badges/our-lady-of-the-rocks.png"
+      "badge": "badges/our-lady-of-the-rocks.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.48678,
+              18.68871
+            ],
+            [
+              42.48673,
+              18.68862
+            ],
+            [
+              42.48671,
+              18.68863
+            ],
+            [
+              42.48671,
+              18.68866
+            ],
+            [
+              42.48662,
+              18.6888
+            ],
+            [
+              42.48666,
+              18.68885
+            ],
+            [
+              42.48669,
+              18.68884
+            ],
+            [
+              42.48678,
+              18.68871
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

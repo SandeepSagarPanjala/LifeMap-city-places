@@ -12,7 +12,7 @@
     "maxLat": 15.446,
     "maxLng": 44.13
   },
-  "updatedAt": "2026-08-20T11:30:08.000Z",
+  "updatedAt": "2026-10-02T22:09:53.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 80,
       "address": "Wadi Dhar",
       "howTo": "Visit Dar al-Hajar.",
-      "badge": "badges/dar-al-hajar.png"
+      "badge": "badges/dar-al-hajar.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.44107,
+              44.12511
+            ],
+            [
+              15.44107,
+              44.12521
+            ],
+            [
+              15.44095,
+              44.12521
+            ],
+            [
+              15.44095,
+              44.12511
+            ],
+            [
+              15.44107,
+              44.12511
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wadi-dhar",

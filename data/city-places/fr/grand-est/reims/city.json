@@ -12,38 +12,223 @@
     "maxLat": 49.26,
     "maxLng": 4.04
   },
-  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "updatedAt": "2026-10-01T14:43:39.000Z",
   "status": "complete",
   "places": [
     {
       "id": "cathedrale-reims",
       "name": "Cath\u00e9drale Notre-Dame de Reims",
-      "lat": 49.2535,
-      "lng": 4.034,
+      "lat": 49.25379,
+      "lng": 4.03399,
       "radiusM": 120,
       "address": "Reims Cathedral",
       "howTo": "Visit Cath\u00e9drale Notre-Dame de Reims.",
-      "badge": "badges/cathedrale-reims.png"
+      "badge": "badges/cathedrale-reims.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.25361,
+              4.03446
+            ],
+            [
+              49.25364,
+              4.03454
+            ],
+            [
+              49.25378,
+              4.03451
+            ],
+            [
+              49.2539,
+              4.03476
+            ],
+            [
+              49.25412,
+              4.03479
+            ],
+            [
+              49.25417,
+              4.03473
+            ],
+            [
+              49.25424,
+              4.03443
+            ],
+            [
+              49.25414,
+              4.0339
+            ],
+            [
+              49.25402,
+              4.03361
+            ],
+            [
+              49.25394,
+              4.03368
+            ],
+            [
+              49.25384,
+              4.03342
+            ],
+            [
+              49.25382,
+              4.03344
+            ],
+            [
+              49.25364,
+              4.03286
+            ],
+            [
+              49.25329,
+              4.03318
+            ],
+            [
+              49.25354,
+              4.03369
+            ],
+            [
+              49.25351,
+              4.03374
+            ],
+            [
+              49.2536,
+              4.03397
+            ],
+            [
+              49.25347,
+              4.03409
+            ],
+            [
+              49.25361,
+              4.03446
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palais-du-tau",
       "name": "Palais du Tau",
-      "lat": 49.253,
-      "lng": 4.0345,
+      "lat": 49.25331,
+      "lng": 4.03466,
       "radiusM": 100,
       "address": "Palais du Tau",
       "howTo": "Visit Palais du Tau.",
-      "badge": "badges/palais-du-tau.png"
+      "badge": "badges/palais-du-tau.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.25365,
+              4.03454
+            ],
+            [
+              49.25361,
+              4.03446
+            ],
+            [
+              49.25338,
+              4.03469
+            ],
+            [
+              49.25292,
+              4.03357
+            ],
+            [
+              49.25283,
+              4.03365
+            ],
+            [
+              49.25304,
+              4.03417
+            ],
+            [
+              49.25306,
+              4.03437
+            ],
+            [
+              49.25312,
+              4.03432
+            ],
+            [
+              49.25333,
+              4.03485
+            ],
+            [
+              49.25322,
+              4.03496
+            ],
+            [
+              49.25328,
+              4.03514
+            ],
+            [
+              49.25362,
+              4.03483
+            ],
+            [
+              49.25359,
+              4.03475
+            ],
+            [
+              49.2537,
+              4.03466
+            ],
+            [
+              49.25365,
+              4.03454
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "basilique-saint-remi",
       "name": "Basilique Saint-Remi",
-      "lat": 49.243,
-      "lng": 4.032,
+      "lat": 49.24356,
+      "lng": 4.03569,
       "radiusM": 120,
       "address": "Basilique Saint-Remi",
       "howTo": "Visit Basilique Saint-Remi.",
-      "badge": "badges/basilique-saint-remi.png"
+      "badge": "badges/basilique-saint-remi.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.24313,
+              4.03538
+            ],
+            [
+              49.2437,
+              4.03503
+            ],
+            [
+              49.24373,
+              4.03506
+            ],
+            [
+              49.24421,
+              4.03645
+            ],
+            [
+              49.24349,
+              4.03685
+            ],
+            [
+              49.24313,
+              4.03539
+            ],
+            [
+              49.24313,
+              4.03538
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,102 @@
     "maxLat": 41.034,
     "maxLng": 21.348
   },
-  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "updatedAt": "2026-10-02T18:57:31.000Z",
   "status": "complete",
   "places": [
     {
       "id": "heraclea-lyncestis",
       "name": "Heraclea Lyncestis",
-      "lat": 41.0111,
-      "lng": 21.3428,
+      "lat": 41.01152,
+      "lng": 21.3421,
       "radiusM": 150,
       "address": "Bitola",
       "howTo": "Visit Heraclea Lyncestis.",
-      "badge": "badges/heraclea-lyncestis.png"
+      "badge": "badges/heraclea-lyncestis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.01145,
+              21.34255
+            ],
+            [
+              41.01165,
+              21.3424
+            ],
+            [
+              41.01168,
+              21.3423
+            ],
+            [
+              41.01169,
+              21.34215
+            ],
+            [
+              41.01164,
+              21.34199
+            ],
+            [
+              41.01156,
+              21.34188
+            ],
+            [
+              41.01146,
+              21.34183
+            ],
+            [
+              41.01135,
+              21.34184
+            ],
+            [
+              41.0112,
+              21.34195
+            ],
+            [
+              41.01145,
+              21.34255
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sirok-sokak",
       "name": "\u0160irok Sokak",
-      "lat": 41.0308,
-      "lng": 21.3344,
+      "lat": 41.02871,
+      "lng": 21.33508,
       "radiusM": 150,
       "address": "Bitola",
       "howTo": "Visit \u0160irok Sokak.",
-      "badge": "badges/sirok-sokak.png"
+      "badge": "badges/sirok-sokak.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.02878,
+              21.33505
+            ],
+            [
+              41.02864,
+              21.33505
+            ],
+            [
+              41.02864,
+              21.33511
+            ],
+            [
+              41.02878,
+              21.3351
+            ],
+            [
+              41.02878,
+              21.33505
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

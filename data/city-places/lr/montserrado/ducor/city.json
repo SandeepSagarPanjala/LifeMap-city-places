@@ -12,7 +12,7 @@
     "maxLat": 6.322,
     "maxLng": -10.812
   },
-  "updatedAt": "2026-08-19T01:55:31.000Z",
+  "updatedAt": "2026-10-01T12:09:47.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 50,
       "address": "Monrovia",
       "howTo": "Visit Ducor Palace Hotel.",
-      "badge": "badges/ducor-palace.png"
+      "badge": "badges/ducor-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.32028,
+              -10.81329
+            ],
+            [
+              6.32039,
+              -10.81319
+            ],
+            [
+              6.32039,
+              -10.81315
+            ],
+            [
+              6.32037,
+              -10.81313
+            ],
+            [
+              6.32033,
+              -10.81313
+            ],
+            [
+              6.32024,
+              -10.81323
+            ],
+            [
+              6.32019,
+              -10.81332
+            ],
+            [
+              6.32025,
+              -10.81335
+            ],
+            [
+              6.32027,
+              -10.81331
+            ],
+            [
+              6.32028,
+              -10.81329
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "masonic-temple",
@@ -33,7 +80,34 @@
       "radiusM": 40,
       "address": "Monrovia",
       "howTo": "Visit Masonic Temple.",
-      "badge": "badges/masonic-temple.png"
+      "badge": "badges/masonic-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.31803,
+              -10.81374
+            ],
+            [
+              6.31804,
+              -10.81325
+            ],
+            [
+              6.31825,
+              -10.81325
+            ],
+            [
+              6.31824,
+              -10.81374
+            ],
+            [
+              6.31803,
+              -10.81374
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,53 @@
     "maxLat": -12.05,
     "maxLng": -77.0
   },
-  "updatedAt": "2026-08-18T04:20:00.000Z",
+  "updatedAt": "2026-10-02T19:20:56.000Z",
   "status": "complete",
   "places": [
     {
       "id": "miraflores-cliff",
       "name": "Miraflores Clifftop",
-      "lat": -12.122,
-      "lng": -77.03,
+      "lat": -12.12074,
+      "lng": -77.02947,
       "radiusM": 200,
       "address": "Miraflores",
       "howTo": "Visit Miraflores Clifftop.",
-      "badge": "badges/miraflores-cliff.png"
+      "badge": "badges/miraflores-cliff.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.12091,
+              -77.03011
+            ],
+            [
+              -12.11979,
+              -77.02929
+            ],
+            [
+              -12.11988,
+              -77.02902
+            ],
+            [
+              -12.12141,
+              -77.02912
+            ],
+            [
+              -12.12144,
+              -77.02924
+            ],
+            [
+              -12.12102,
+              -77.03005
+            ],
+            [
+              -12.12091,
+              -77.03011
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "plaza-mayor-lima",
@@ -33,27 +68,152 @@
       "radiusM": 150,
       "address": "Centro Historico",
       "howTo": "Visit Plaza Mayor of Lima.",
-      "badge": "badges/plaza-mayor-lima.png"
+      "badge": "badges/plaza-mayor-lima.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.04535,
+              -77.03078
+            ],
+            [
+              -12.04532,
+              -77.03061
+            ],
+            [
+              -12.04573,
+              -77.02997
+            ],
+            [
+              -12.04591,
+              -77.02993
+            ],
+            [
+              -12.04651,
+              -77.03034
+            ],
+            [
+              -12.04655,
+              -77.03052
+            ],
+            [
+              -12.04617,
+              -77.03115
+            ],
+            [
+              -12.04597,
+              -77.03121
+            ],
+            [
+              -12.04567,
+              -77.031
+            ],
+            [
+              -12.04535,
+              -77.03078
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "larco-museum",
       "name": "Larco Museum",
-      "lat": -12.072,
-      "lng": -77.07,
+      "lat": -12.07281,
+      "lng": -77.07082,
       "radiusM": 120,
       "address": "Pueblo Libre",
       "howTo": "Visit Larco Museum.",
-      "badge": "badges/larco-museum.png"
+      "badge": "badges/larco-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.07257,
+              -77.07105
+            ],
+            [
+              -12.07292,
+              -77.07115
+            ],
+            [
+              -12.07299,
+              -77.0708
+            ],
+            [
+              -12.07294,
+              -77.07079
+            ],
+            [
+              -12.07296,
+              -77.07071
+            ],
+            [
+              -12.07279,
+              -77.07067
+            ],
+            [
+              -12.07278,
+              -77.0707
+            ],
+            [
+              -12.07267,
+              -77.07067
+            ],
+            [
+              -12.07263,
+              -77.07084
+            ],
+            [
+              -12.07257,
+              -77.07105
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "barranco-district",
       "name": "Barranco District",
-      "lat": -12.152,
-      "lng": -77.021,
+      "lat": -12.15055,
+      "lng": -77.02271,
       "radiusM": 200,
       "address": "Barranco",
       "howTo": "Visit Barranco District.",
-      "badge": "badges/barranco-district.png"
+      "badge": "badges/barranco-district.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.15054,
+              -77.02277
+            ],
+            [
+              -12.15051,
+              -77.02275
+            ],
+            [
+              -12.15049,
+              -77.02265
+            ],
+            [
+              -12.15059,
+              -77.02262
+            ],
+            [
+              -12.15062,
+              -77.02274
+            ],
+            [
+              -12.15054,
+              -77.02277
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,61 @@
     "maxLat": 52.22,
     "maxLng": 0.13
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T09:20:11.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kings-college-chapel",
       "name": "King's College Chapel",
-      "lat": 52.2043,
-      "lng": 0.1166,
+      "lat": 52.20479,
+      "lng": 0.11657,
       "radiusM": 120,
       "address": "King's College, Cambridge",
       "howTo": "Visit King's College Chapel.",
-      "badge": "badges/kings-college-chapel.png"
+      "badge": "badges/kings-college-chapel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.20492,
+              0.11719
+            ],
+            [
+              52.20491,
+              0.11724
+            ],
+            [
+              52.20474,
+              0.11726
+            ],
+            [
+              52.20464,
+              0.11603
+            ],
+            [
+              52.20468,
+              0.11603
+            ],
+            [
+              52.20466,
+              0.11584
+            ],
+            [
+              52.20482,
+              0.11583
+            ],
+            [
+              52.20491,
+              0.11718
+            ],
+            [
+              52.20492,
+              0.11719
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mathematical-bridge",
@@ -33,7 +76,34 @@
       "radiusM": 80,
       "address": "Queens' College, Cambridge",
       "howTo": "Visit Mathematical Bridge.",
-      "badge": "badges/mathematical-bridge.png"
+      "badge": "badges/mathematical-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.20226,
+              0.11512
+            ],
+            [
+              52.20219,
+              0.11495
+            ],
+            [
+              52.20217,
+              0.11497
+            ],
+            [
+              52.20225,
+              0.11514
+            ],
+            [
+              52.20226,
+              0.11512
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fitzwilliam-museum",
@@ -43,17 +113,179 @@
       "radiusM": 100,
       "address": "Fitzwilliam Museum, Cambridge",
       "howTo": "Visit Fitzwilliam Museum.",
-      "badge": "badges/fitzwilliam-museum.png"
+      "badge": "badges/fitzwilliam-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.20037,
+              0.11958
+            ],
+            [
+              52.20013,
+              0.11996
+            ],
+            [
+              52.19998,
+              0.11964
+            ],
+            [
+              52.19977,
+              0.11994
+            ],
+            [
+              52.19988,
+              0.12015
+            ],
+            [
+              52.19961,
+              0.12048
+            ],
+            [
+              52.19933,
+              0.11999
+            ],
+            [
+              52.19928,
+              0.12005
+            ],
+            [
+              52.19933,
+              0.11995
+            ],
+            [
+              52.19924,
+              0.11978
+            ],
+            [
+              52.19954,
+              0.11947
+            ],
+            [
+              52.1996,
+              0.11947
+            ],
+            [
+              52.19979,
+              0.11975
+            ],
+            [
+              52.20021,
+              0.11907
+            ],
+            [
+              52.20046,
+              0.11945
+            ],
+            [
+              52.20041,
+              0.11952
+            ],
+            [
+              52.20037,
+              0.11958
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "the-backs",
       "name": "The Backs",
-      "lat": 52.2045,
-      "lng": 0.114,
+      "lat": 52.20407,
+      "lng": 0.11326,
       "radiusM": 200,
       "address": "The Backs, Cambridge",
       "howTo": "Visit The Backs.",
-      "badge": "badges/the-backs.png"
+      "badge": "badges/the-backs.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              52.20744,
+              0.11417
+            ],
+            [
+              52.20667,
+              0.1137
+            ],
+            [
+              52.20372,
+              0.11387
+            ],
+            [
+              52.20222,
+              0.11492
+            ],
+            [
+              52.20218,
+              0.1148
+            ],
+            [
+              52.20268,
+              0.11433
+            ],
+            [
+              52.20249,
+              0.11374
+            ],
+            [
+              52.20255,
+              0.11336
+            ],
+            [
+              52.20215,
+              0.11296
+            ],
+            [
+              52.20167,
+              0.1132
+            ],
+            [
+              52.20129,
+              0.11434
+            ],
+            [
+              52.20083,
+              0.1132
+            ],
+            [
+              52.2013,
+              0.11282
+            ],
+            [
+              52.2037,
+              0.11182
+            ],
+            [
+              52.20675,
+              0.11118
+            ],
+            [
+              52.20746,
+              0.11079
+            ],
+            [
+              52.20706,
+              0.11217
+            ],
+            [
+              52.20769,
+              0.11251
+            ],
+            [
+              52.20745,
+              0.11411
+            ],
+            [
+              52.20744,
+              0.11417
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

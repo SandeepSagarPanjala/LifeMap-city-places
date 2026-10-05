@@ -12,18 +12,61 @@
     "maxLat": -33.0,
     "maxLng": -71.54
   },
-  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "updatedAt": "2026-10-01T07:59:12.000Z",
   "status": "complete",
   "places": [
     {
       "id": "vina-del-mar-beach",
       "name": "Vina del Mar Beach",
-      "lat": -33.015,
-      "lng": -71.552,
+      "lat": -33.01268,
+      "lng": -71.55488,
       "radiusM": 300,
       "address": "Playa Re\u00f1aca",
       "howTo": "Visit Vina del Mar Beach.",
-      "badge": "badges/vina-del-mar-beach.png"
+      "badge": "badges/vina-del-mar-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.01151,
+              -71.55372
+            ],
+            [
+              -33.01312,
+              -71.55493
+            ],
+            [
+              -33.01426,
+              -71.55611
+            ],
+            [
+              -33.01417,
+              -71.55622
+            ],
+            [
+              -33.01382,
+              -71.55584
+            ],
+            [
+              -33.01167,
+              -71.5543
+            ],
+            [
+              -33.01142,
+              -71.55407
+            ],
+            [
+              -33.0115,
+              -71.55386
+            ],
+            [
+              -33.01151,
+              -71.55372
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "flower-clock-vina",

@@ -12,18 +12,45 @@
     "maxLat": 41.208,
     "maxLng": 47.203
   },
-  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "updatedAt": "2026-10-01T04:49:13.000Z",
   "status": "complete",
   "places": [
     {
       "id": "shaki-khan-palace",
       "name": "Palace of Shaki Khans",
-      "lat": 41.2044,
-      "lng": 47.1986,
+      "lat": 41.20441,
+      "lng": 47.19759,
       "radiusM": 60,
       "address": "Shaki",
       "howTo": "Visit Palace of Shaki Khans.",
-      "badge": "badges/shaki-khan-palace.png"
+      "badge": "badges/shaki-khan-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.2045,
+              47.19742
+            ],
+            [
+              41.20441,
+              47.1978
+            ],
+            [
+              41.20433,
+              47.19776
+            ],
+            [
+              41.20442,
+              47.19739
+            ],
+            [
+              41.2045,
+              47.19742
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shaki-caravanserai",

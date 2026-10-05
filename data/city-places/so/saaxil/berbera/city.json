@@ -12,7 +12,7 @@
     "maxLat": 10.46895,
     "maxLng": 45.03334
   },
-  "updatedAt": "2026-08-20T10:39:57.000Z",
+  "updatedAt": "2026-10-02T23:37:12.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Berbera",
       "howTo": "Visit Berbera Central Mosque.",
-      "badge": "badges/berbera-mosque.png"
+      "badge": "badges/berbera-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              10.44539,
+              45.00747
+            ],
+            [
+              10.4456,
+              45.00743
+            ],
+            [
+              10.44565,
+              45.0077
+            ],
+            [
+              10.44545,
+              45.00774
+            ],
+            [
+              10.44539,
+              45.00747
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "baathela-beach",

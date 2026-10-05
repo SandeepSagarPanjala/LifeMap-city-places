@@ -12,28 +12,114 @@
     "maxLat": 30.45,
     "maxLng": -88.85
   },
-  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "updatedAt": "2026-10-02T21:00:03.000Z",
   "status": "complete",
   "places": [
     {
       "id": "biloxi-lighthouse",
       "name": "Biloxi Lighthouse",
-      "lat": 30.3945,
-      "lng": -88.9005,
+      "lat": 30.39442,
+      "lng": -88.90123,
       "radiusM": 100,
       "address": "1050 Beach Blvd, Biloxi, MS",
       "howTo": "Visit the Biloxi Lighthouse.",
-      "badge": "badges/biloxi-lighthouse.png"
+      "badge": "badges/biloxi-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.39441,
+              -88.90125
+            ],
+            [
+              30.39439,
+              -88.90122
+            ],
+            [
+              30.39442,
+              -88.90119
+            ],
+            [
+              30.39444,
+              -88.90122
+            ],
+            [
+              30.39442,
+              -88.90125
+            ],
+            [
+              30.39441,
+              -88.90125
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "beauvoir",
       "name": "Beauvoir",
-      "lat": 30.3925,
-      "lng": -88.9785,
+      "lat": 30.39287,
+      "lng": -88.97049,
       "radiusM": 200,
       "address": "2244 Beach Blvd, Biloxi, MS",
       "howTo": "Visit Beauvoir.",
-      "badge": "badges/beauvoir.png"
+      "badge": "badges/beauvoir.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.39565,
+              -88.97273
+            ],
+            [
+              30.3959,
+              -88.96766
+            ],
+            [
+              30.39188,
+              -88.96763
+            ],
+            [
+              30.39184,
+              -88.96949
+            ],
+            [
+              30.39195,
+              -88.96952
+            ],
+            [
+              30.39194,
+              -88.96975
+            ],
+            [
+              30.39183,
+              -88.96978
+            ],
+            [
+              30.39184,
+              -88.97087
+            ],
+            [
+              30.39157,
+              -88.97255
+            ],
+            [
+              30.39166,
+              -88.97267
+            ],
+            [
+              30.39548,
+              -88.97273
+            ],
+            [
+              30.39565,
+              -88.97273
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ohr-okeefe-museum",
@@ -48,22 +134,96 @@
     {
       "id": "biloxi-town-green",
       "name": "Biloxi Town Green",
-      "lat": 30.3955,
-      "lng": -88.8865,
+      "lat": 30.3932,
+      "lng": -88.8864,
       "radiusM": 150,
       "address": "Town Green, Biloxi, MS",
       "howTo": "Visit Biloxi Town Green.",
-      "badge": "badges/biloxi-town-green.png"
+      "badge": "badges/biloxi-town-green.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.39306,
+              -88.88702
+            ],
+            [
+              30.39299,
+              -88.88696
+            ],
+            [
+              30.39297,
+              -88.88641
+            ],
+            [
+              30.39296,
+              -88.88585
+            ],
+            [
+              30.39304,
+              -88.88578
+            ],
+            [
+              30.3937,
+              -88.88579
+            ],
+            [
+              30.39368,
+              -88.88702
+            ],
+            [
+              30.39306,
+              -88.88702
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "maritime-seafood-museum",
       "name": "Maritime & Seafood Industry Museum",
-      "lat": 30.3935,
-      "lng": -88.8585,
+      "lat": 30.3933,
+      "lng": -88.85912,
       "radiusM": 150,
       "address": "115 1st St, Biloxi, MS",
       "howTo": "Visit the Maritime & Seafood Industry Museum.",
-      "badge": "badges/maritime-seafood-museum.png"
+      "badge": "badges/maritime-seafood-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.39322,
+              -88.85911
+            ],
+            [
+              30.39317,
+              -88.85911
+            ],
+            [
+              30.39317,
+              -88.85925
+            ],
+            [
+              30.3935,
+              -88.85925
+            ],
+            [
+              30.39353,
+              -88.85897
+            ],
+            [
+              30.39322,
+              -88.85902
+            ],
+            [
+              30.39322,
+              -88.85911
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

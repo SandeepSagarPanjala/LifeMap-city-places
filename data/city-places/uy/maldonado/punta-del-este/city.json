@@ -12,7 +12,7 @@
     "maxLat": -34.955,
     "maxLng": -54.925
   },
-  "updatedAt": "2026-08-18T02:14:11.000Z",
+  "updatedAt": "2026-10-02T21:53:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "playa-brava",
       "name": "Playa Brava",
-      "lat": -34.958,
-      "lng": -54.935,
+      "lat": -34.95399,
+      "lng": -54.93566,
       "radiusM": 250,
       "address": "Punta del Este",
       "howTo": "Visit Playa Brava.",
-      "badge": "badges/playa-brava.png"
+      "badge": "badges/playa-brava.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -34.95412,
+              -54.93573
+            ],
+            [
+              -34.95401,
+              -54.93549
+            ],
+            [
+              -34.95392,
+              -54.93554
+            ],
+            [
+              -34.95395,
+              -54.9356
+            ],
+            [
+              -34.95391,
+              -54.93563
+            ],
+            [
+              -34.95397,
+              -54.93576
+            ],
+            [
+              -34.954,
+              -54.93573
+            ],
+            [
+              -34.95403,
+              -54.93579
+            ],
+            [
+              -34.95412,
+              -54.93573
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

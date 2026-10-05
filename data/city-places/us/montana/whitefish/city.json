@@ -12,7 +12,7 @@
     "maxLat": 48.45,
     "maxLng": -114.3
   },
-  "updatedAt": "2026-08-11T06:18:31.000Z",
+  "updatedAt": "2026-10-02T21:03:33.000Z",
   "status": "complete",
   "places": [
     {
@@ -38,22 +38,80 @@
     {
       "id": "whitefish-mountain",
       "name": "Whitefish Mountain Resort",
-      "lat": 48.4855,
-      "lng": -114.3555,
+      "lat": 48.48109,
+      "lng": -114.35785,
       "radiusM": 300,
       "address": "Whitefish Mountain Resort, MT",
       "howTo": "Visit Whitefish Mountain Resort.",
-      "badge": "badges/whitefish-mountain.png"
+      "badge": "badges/whitefish-mountain.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              48.48082,
+              -114.35751
+            ],
+            [
+              48.48086,
+              -114.35811
+            ],
+            [
+              48.4813,
+              -114.35819
+            ],
+            [
+              48.48137,
+              -114.35759
+            ],
+            [
+              48.48082,
+              -114.35751
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "downtown-whitefish",
       "name": "Downtown Whitefish",
-      "lat": 48.4115,
-      "lng": -114.3375,
+      "lat": 48.4101,
+      "lng": -114.33569,
       "radiusM": 150,
       "address": "Central Ave, Whitefish, MT",
       "howTo": "Explore downtown Whitefish.",
-      "badge": "badges/downtown-whitefish.png"
+      "badge": "badges/downtown-whitefish.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              48.41019,
+              -114.33598
+            ],
+            [
+              48.41004,
+              -114.33598
+            ],
+            [
+              48.41004,
+              -114.33562
+            ],
+            [
+              48.41004,
+              -114.33543
+            ],
+            [
+              48.41019,
+              -114.33543
+            ],
+            [
+              48.41019,
+              -114.33598
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

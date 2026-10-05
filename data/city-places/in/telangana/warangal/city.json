@@ -12,28 +12,86 @@
     "maxLat": 18.02,
     "maxLng": 79.65
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T18:29:12.000Z",
   "status": "complete",
   "places": [
     {
       "id": "warangal-fort",
       "name": "Warangal Fort",
-      "lat": 17.956,
-      "lng": 79.6145,
+      "lat": 17.95628,
+      "lng": 79.61533,
       "radiusM": 200,
       "address": "Warangal Fort, Warangal, TS",
       "howTo": "Visit Warangal Fort.",
-      "badge": "badges/warangal-fort.png"
+      "badge": "badges/warangal-fort.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.95696,
+              79.61479
+            ],
+            [
+              17.95696,
+              79.61615
+            ],
+            [
+              17.95574,
+              79.61605
+            ],
+            [
+              17.95572,
+              79.61499
+            ],
+            [
+              17.95603,
+              79.61469
+            ],
+            [
+              17.95696,
+              79.61479
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "thousand-pillar-temple",
       "name": "Thousand Pillar Temple",
-      "lat": 18.0035,
-      "lng": 79.5785,
+      "lat": 18.00424,
+      "lng": 79.57593,
       "radiusM": 150,
       "address": "Thousand Pillar Temple, Hanamkonda, TS",
       "howTo": "Visit Thousand Pillar Temple.",
-      "badge": "badges/thousand-pillar-temple.png"
+      "badge": "badges/thousand-pillar-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              18.00405,
+              79.57567
+            ],
+            [
+              18.00453,
+              79.57579
+            ],
+            [
+              18.00442,
+              79.57616
+            ],
+            [
+              18.00397,
+              79.5761
+            ],
+            [
+              18.00405,
+              79.57567
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kakatiya-rock-garden",

@@ -12,28 +12,118 @@
     "maxLat": 43.72,
     "maxLng": 7.28
   },
-  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "updatedAt": "2026-10-01T09:15:40.000Z",
   "status": "complete",
   "places": [
     {
       "id": "promenade-des-anglais",
       "name": "Promenade des Anglais",
-      "lat": 43.695,
-      "lng": 7.265,
+      "lat": 43.69553,
+      "lng": 7.25657,
       "radiusM": 250,
       "address": "Promenade des Anglais",
       "howTo": "Visit Promenade des Anglais.",
-      "badge": "badges/promenade-des-anglais.png"
+      "badge": "badges/promenade-des-anglais.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.69543,
+              7.25675
+            ],
+            [
+              43.69541,
+              7.25662
+            ],
+            [
+              43.6955,
+              7.25654
+            ],
+            [
+              43.69553,
+              7.25639
+            ],
+            [
+              43.69563,
+              7.25639
+            ],
+            [
+              43.69564,
+              7.25656
+            ],
+            [
+              43.69556,
+              7.25675
+            ],
+            [
+              43.69543,
+              7.25675
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "castle-hill-nice",
       "name": "Castle Hill",
-      "lat": 43.6955,
-      "lng": 7.2795,
+      "lat": 43.69624,
+      "lng": 7.27477,
       "radiusM": 200,
       "address": "Colline du Ch\u00e2teau",
       "howTo": "Visit Castle Hill.",
-      "badge": "badges/castle-hill-nice.png"
+      "badge": "badges/castle-hill-nice.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.69621,
+              7.27472
+            ],
+            [
+              43.6962,
+              7.27481
+            ],
+            [
+              43.69627,
+              7.27482
+            ],
+            [
+              43.69623,
+              7.27528
+            ],
+            [
+              43.69615,
+              7.27526
+            ],
+            [
+              43.69614,
+              7.27535
+            ],
+            [
+              43.69611,
+              7.27534
+            ],
+            [
+              43.69609,
+              7.27554
+            ],
+            [
+              43.69642,
+              7.27559
+            ],
+            [
+              43.69659,
+              7.27481
+            ],
+            [
+              43.69621,
+              7.27472
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cours-saleya",
@@ -48,12 +138,55 @@
     {
       "id": "musee-matisse",
       "name": "Mus\u00e9e Matisse",
-      "lat": 43.7195,
-      "lng": 7.2765,
+      "lat": 43.71953,
+      "lng": 7.27586,
       "radiusM": 100,
       "address": "Mus\u00e9e Matisse, Nice",
       "howTo": "Visit Mus\u00e9e Matisse.",
-      "badge": "badges/musee-matisse.png"
+      "badge": "badges/musee-matisse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.71957,
+              7.27542
+            ],
+            [
+              43.71951,
+              7.27538
+            ],
+            [
+              43.71922,
+              7.27633
+            ],
+            [
+              43.71941,
+              7.27643
+            ],
+            [
+              43.71954,
+              7.27599
+            ],
+            [
+              43.7197,
+              7.27608
+            ],
+            [
+              43.71969,
+              7.27582
+            ],
+            [
+              43.71959,
+              7.27546
+            ],
+            [
+              43.71957,
+              7.27542
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

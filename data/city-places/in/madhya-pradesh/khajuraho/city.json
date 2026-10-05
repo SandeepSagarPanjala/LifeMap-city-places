@@ -12,7 +12,7 @@
     "maxLat": 24.86,
     "maxLng": 79.94
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T18:23:50.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,73 @@
       "radiusM": 120,
       "address": "Western Group, Khajuraho, MP",
       "howTo": "Visit Kandariya Mahadeva Temple.",
-      "badge": "badges/kandariya-mahadeva.png"
+      "badge": "badges/kandariya-mahadeva.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              24.85288,
+              79.91982
+            ],
+            [
+              24.85295,
+              79.91939
+            ],
+            [
+              24.8532,
+              79.91945
+            ],
+            [
+              24.85312,
+              79.91987
+            ],
+            [
+              24.85288,
+              79.91982
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "lakshmana-temple",
       "name": "Lakshmana Temple",
-      "lat": 24.852,
-      "lng": 79.9215,
+      "lat": 24.85223,
+      "lng": 79.9217,
       "radiusM": 120,
       "address": "Western Group, Khajuraho, MP",
       "howTo": "Visit Lakshmana Temple.",
-      "badge": "badges/lakshmana-temple.png"
+      "badge": "badges/lakshmana-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              24.85234,
+              79.92152
+            ],
+            [
+              24.85214,
+              79.9215
+            ],
+            [
+              24.85211,
+              79.92188
+            ],
+            [
+              24.85232,
+              79.92189
+            ],
+            [
+              24.85234,
+              79.92152
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "western-group",

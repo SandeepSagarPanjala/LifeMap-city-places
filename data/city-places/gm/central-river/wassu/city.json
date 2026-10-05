@@ -12,7 +12,7 @@
     "maxLat": 13.696,
     "maxLng": -14.868
   },
-  "updatedAt": "2026-08-19T02:12:59.000Z",
+  "updatedAt": "2026-10-01T09:37:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 80,
       "address": "Niani",
       "howTo": "Visit Wassu Stone Circles.",
-      "badge": "badges/wassu.png"
+      "badge": "badges/wassu.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.69263,
+              -14.87313
+            ],
+            [
+              13.69106,
+              -14.87396
+            ],
+            [
+              13.69092,
+              -14.87379
+            ],
+            [
+              13.69129,
+              -14.87299
+            ],
+            [
+              13.69225,
+              -14.87221
+            ],
+            [
+              13.69263,
+              -14.87313
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wassu-field",

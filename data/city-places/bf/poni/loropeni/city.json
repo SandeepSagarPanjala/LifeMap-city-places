@@ -12,7 +12,7 @@
     "maxLat": 10.314,
     "maxLng": -3.558
   },
-  "updatedAt": "2026-08-19T02:06:51.000Z",
+  "updatedAt": "2026-10-01T06:55:12.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 60,
       "address": "Lorop\u00e9ni",
       "howTo": "Visit Ruines de Loropeni.",
-      "badge": "badges/loropeni.png"
+      "badge": "badges/loropeni.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              10.30974,
+              -3.56346
+            ],
+            [
+              10.3097,
+              -3.56341
+            ],
+            [
+              10.30975,
+              -3.56252
+            ],
+            [
+              10.31057,
+              -3.56253
+            ],
+            [
+              10.31067,
+              -3.56257
+            ],
+            [
+              10.31064,
+              -3.56344
+            ],
+            [
+              10.31061,
+              -3.5635
+            ],
+            [
+              10.30977,
+              -3.56346
+            ],
+            [
+              10.30974,
+              -3.56346
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "loropeni-walls",

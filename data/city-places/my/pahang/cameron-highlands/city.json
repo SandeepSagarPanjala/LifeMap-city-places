@@ -12,28 +12,118 @@
     "maxLat": 4.5,
     "maxLng": 101.41
   },
-  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "updatedAt": "2026-10-03T01:08:21.000Z",
   "status": "complete",
   "places": [
     {
       "id": "boh-tea-plantation",
       "name": "BOH Tea Plantation",
-      "lat": 4.454,
-      "lng": 101.423,
+      "lat": 4.44997,
+      "lng": 101.42244,
       "radiusM": 250,
       "address": "Sungai Palas",
       "howTo": "Visit BOH Tea Plantation.",
-      "badge": "badges/boh-tea-plantation.png"
+      "badge": "badges/boh-tea-plantation.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.44992,
+              101.42211
+            ],
+            [
+              4.44984,
+              101.42214
+            ],
+            [
+              4.44974,
+              101.42225
+            ],
+            [
+              4.44975,
+              101.42253
+            ],
+            [
+              4.44978,
+              101.42263
+            ],
+            [
+              4.44988,
+              101.42269
+            ],
+            [
+              4.45,
+              101.42267
+            ],
+            [
+              4.45008,
+              101.42261
+            ],
+            [
+              4.4501,
+              101.42257
+            ],
+            [
+              4.45024,
+              101.42261
+            ],
+            [
+              4.45024,
+              101.42238
+            ],
+            [
+              4.45003,
+              101.42238
+            ],
+            [
+              4.45002,
+              101.42211
+            ],
+            [
+              4.44992,
+              101.42211
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mossy-forest",
       "name": "Mossy Forest",
-      "lat": 4.52,
-      "lng": 101.38,
+      "lat": 4.52424,
+      "lng": 101.38188,
       "radiusM": 300,
       "address": "Gunung Brinchang",
       "howTo": "Visit Mossy Forest.",
-      "badge": "badges/mossy-forest.png"
+      "badge": "badges/mossy-forest.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.5242,
+              101.38181
+            ],
+            [
+              4.52412,
+              101.38189
+            ],
+            [
+              4.5243,
+              101.38195
+            ],
+            [
+              4.52434,
+              101.38187
+            ],
+            [
+              4.5242,
+              101.38181
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

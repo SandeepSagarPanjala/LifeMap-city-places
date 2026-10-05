@@ -12,7 +12,7 @@
     "maxLat": 27.678,
     "maxLng": 85.328
   },
-  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "updatedAt": "2026-10-02T19:13:48.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "golden-temple-patan",
       "name": "Golden Temple",
-      "lat": 27.675,
-      "lng": 85.3255,
+      "lat": 27.67446,
+      "lng": 85.32161,
       "radiusM": 80,
       "address": "Kwa Bahal",
       "howTo": "Visit Golden Temple.",
-      "badge": "badges/golden-temple-patan.png"
+      "badge": "badges/golden-temple-patan.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.67449,
+              85.32159
+            ],
+            [
+              27.67444,
+              85.32157
+            ],
+            [
+              27.67443,
+              85.32163
+            ],
+            [
+              27.67448,
+              85.32165
+            ],
+            [
+              27.67449,
+              85.32159
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 23.002,
     "maxLng": 120.21
   },
-  "updatedAt": "2026-08-18T08:25:00.000Z",
+  "updatedAt": "2026-10-03T00:56:44.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,95 @@
       "radiusM": 100,
       "address": "West Central District",
       "howTo": "Visit Chihkan Tower.",
-      "badge": "badges/chihkan-tower.png"
+      "badge": "badges/chihkan-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.99745,
+              120.20325
+            ],
+            [
+              22.99707,
+              120.2031
+            ],
+            [
+              22.99683,
+              120.20294
+            ],
+            [
+              22.9971,
+              120.20217
+            ],
+            [
+              22.99787,
+              120.20244
+            ],
+            [
+              22.99784,
+              120.20257
+            ],
+            [
+              22.99796,
+              120.20262
+            ],
+            [
+              22.99781,
+              120.20286
+            ],
+            [
+              22.99761,
+              120.20281
+            ],
+            [
+              22.99758,
+              120.20292
+            ],
+            [
+              22.99745,
+              120.20325
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tainan-confucius-temple",
       "name": "Tainan Confucius Temple",
-      "lat": 22.9904,
-      "lng": 120.2047,
+      "lat": 22.99047,
+      "lng": 120.20409,
       "radiusM": 100,
       "address": "Nanmen Road",
       "howTo": "Visit Tainan Confucius Temple.",
-      "badge": "badges/tainan-confucius-temple.png"
+      "badge": "badges/tainan-confucius-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.9902,
+              120.2039
+            ],
+            [
+              22.9902,
+              120.20428
+            ],
+            [
+              22.99075,
+              120.20428
+            ],
+            [
+              22.99075,
+              120.2039
+            ],
+            [
+              22.9902,
+              120.2039
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

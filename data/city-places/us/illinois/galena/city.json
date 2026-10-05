@@ -12,68 +12,266 @@
     "maxLat": 42.44,
     "maxLng": -90.4
   },
-  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "updatedAt": "2026-10-03T00:04:07.000Z",
   "status": "complete",
   "places": [
     {
       "id": "historic-main-street",
       "name": "Historic Main Street",
-      "lat": 42.4167,
-      "lng": -90.429,
+      "lat": 42.4105,
+      "lng": -90.42708,
       "radiusM": 200,
       "address": "Main Street, Galena, IL",
       "howTo": "Stroll Historic Main Street in Galena.",
-      "badge": "badges/historic-main-street.png"
+      "badge": "badges/historic-main-street.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.41056,
+              -90.4273
+            ],
+            [
+              42.41053,
+              -90.42707
+            ],
+            [
+              42.41057,
+              -90.42707
+            ],
+            [
+              42.41056,
+              -90.4269
+            ],
+            [
+              42.41047,
+              -90.42692
+            ],
+            [
+              42.41048,
+              -90.427
+            ],
+            [
+              42.41039,
+              -90.42702
+            ],
+            [
+              42.41042,
+              -90.42733
+            ],
+            [
+              42.41056,
+              -90.4273
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ulysses-s-grant-home",
       "name": "Ulysses S. Grant Home",
-      "lat": 42.4178,
-      "lng": -90.4245,
+      "lat": 42.41339,
+      "lng": -90.42668,
       "radiusM": 150,
       "address": "500 Bouthillier St, Galena, IL",
       "howTo": "Visit the Ulysses S. Grant Home.",
-      "badge": "badges/ulysses-s-grant-home.png"
+      "badge": "badges/ulysses-s-grant-home.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.41345,
+              -90.42533
+            ],
+            [
+              42.41443,
+              -90.42628
+            ],
+            [
+              42.41346,
+              -90.42815
+            ],
+            [
+              42.41255,
+              -90.42743
+            ],
+            [
+              42.41307,
+              -90.42622
+            ],
+            [
+              42.41345,
+              -90.42533
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-market-house",
       "name": "Old Market House",
-      "lat": 42.4169,
-      "lng": -90.4293,
+      "lat": 42.41576,
+      "lng": -90.42741,
       "radiusM": 150,
       "address": "123 N Commerce St, Galena, IL",
       "howTo": "Visit the Old Market House.",
-      "badge": "badges/old-market-house.png"
+      "badge": "badges/old-market-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.41574,
+              -90.42755
+            ],
+            [
+              42.41582,
+              -90.42739
+            ],
+            [
+              42.41581,
+              -90.42738
+            ],
+            [
+              42.41584,
+              -90.4273
+            ],
+            [
+              42.41576,
+              -90.42723
+            ],
+            [
+              42.41565,
+              -90.42748
+            ],
+            [
+              42.41569,
+              -90.42751
+            ],
+            [
+              42.41574,
+              -90.42755
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dowling-house",
       "name": "Dowling House",
-      "lat": 42.4178,
-      "lng": -90.4285,
+      "lat": 42.4171,
+      "lng": -90.42699,
       "radiusM": 150,
       "address": "220 Diagonal St, Galena, IL",
       "howTo": "Visit the Dowling House.",
-      "badge": "badges/dowling-house.png"
+      "badge": "badges/dowling-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.41704,
+              -90.427
+            ],
+            [
+              42.41708,
+              -90.4269
+            ],
+            [
+              42.41717,
+              -90.42698
+            ],
+            [
+              42.41713,
+              -90.42707
+            ],
+            [
+              42.41704,
+              -90.427
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "grant-park",
       "name": "Grant Park",
-      "lat": 42.4145,
-      "lng": -90.4265,
+      "lat": 42.41339,
+      "lng": -90.42668,
       "radiusM": 200,
       "address": "Park Ave, Galena, IL",
       "howTo": "Visit Grant Park overlooking Galena.",
-      "badge": "badges/grant-park.png"
+      "badge": "badges/grant-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.41345,
+              -90.42533
+            ],
+            [
+              42.41443,
+              -90.42628
+            ],
+            [
+              42.41346,
+              -90.42815
+            ],
+            [
+              42.41255,
+              -90.42743
+            ],
+            [
+              42.41307,
+              -90.42622
+            ],
+            [
+              42.41345,
+              -90.42533
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "galena-and-us-grant-museum",
       "name": "Galena & U.S. Grant Museum",
-      "lat": 42.416,
-      "lng": -90.4298,
+      "lat": 42.41555,
+      "lng": -90.43041,
       "radiusM": 150,
       "address": "211 S Bench St, Galena, IL",
       "howTo": "Visit the Galena & U.S. Grant Museum.",
-      "badge": "badges/galena-and-us-grant-museum.png"
+      "badge": "badges/galena-and-us-grant-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.4155,
+              -90.43049
+            ],
+            [
+              42.41547,
+              -90.43038
+            ],
+            [
+              42.4156,
+              -90.43032
+            ],
+            [
+              42.41563,
+              -90.43043
+            ],
+            [
+              42.4155,
+              -90.43049
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "belvedere-mansion",

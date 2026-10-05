@@ -12,7 +12,7 @@
     "maxLat": 4.8924,
     "maxLng": 114.9455
   },
-  "updatedAt": "2026-08-20T12:13:18.000Z",
+  "updatedAt": "2026-10-01T13:33:15.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,119 @@
       "address": "Bandar Seri Begawan",
       "howTo": "Visit Omar Ali Saifuddien Mosque.",
       "radiusM": 80,
-      "badge": "badges/omar-ali-saifuddien-mosque.png"
+      "badge": "badges/omar-ali-saifuddien-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.88936,
+              114.93888
+            ],
+            [
+              4.88933,
+              114.93901
+            ],
+            [
+              4.88926,
+              114.93899
+            ],
+            [
+              4.88923,
+              114.9391
+            ],
+            [
+              4.8893,
+              114.93912
+            ],
+            [
+              4.88924,
+              114.93936
+            ],
+            [
+              4.88931,
+              114.93938
+            ],
+            [
+              4.88929,
+              114.93949
+            ],
+            [
+              4.88938,
+              114.93951
+            ],
+            [
+              4.88941,
+              114.93941
+            ],
+            [
+              4.88947,
+              114.93943
+            ],
+            [
+              4.88953,
+              114.93918
+            ],
+            [
+              4.88959,
+              114.93919
+            ],
+            [
+              4.88962,
+              114.9391
+            ],
+            [
+              4.88956,
+              114.93909
+            ],
+            [
+              4.8896,
+              114.93894
+            ],
+            [
+              4.88936,
+              114.93888
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kampong-ayer",
       "name": "Kampong Ayer",
-      "lat": 4.8825,
-      "lng": 114.9425,
+      "lat": 4.88417,
+      "lng": 114.94445,
       "address": "Bandar Seri Begawan",
       "howTo": "Visit Kampong Ayer water village.",
       "radiusM": 80,
-      "badge": "badges/kampong-ayer.png"
+      "badge": "badges/kampong-ayer.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.88435,
+              114.94422
+            ],
+            [
+              4.88444,
+              114.94455
+            ],
+            [
+              4.88398,
+              114.94468
+            ],
+            [
+              4.88389,
+              114.94435
+            ],
+            [
+              4.88435,
+              114.94422
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

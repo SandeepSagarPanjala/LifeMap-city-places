@@ -12,18 +12,65 @@
     "maxLat": 0.332,
     "maxLng": 32.571
   },
-  "updatedAt": "2026-08-18T23:57:33.000Z",
+  "updatedAt": "2026-10-02T20:09:51.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kasubi-tombs",
       "name": "Kasubi Tombs",
-      "lat": 0.32931,
-      "lng": 32.55298,
+      "lat": 0.32913,
+      "lng": 32.5533,
       "radiusM": 80,
       "address": "Kampala",
       "howTo": "Visit Kasubi Tombs.",
-      "badge": "badges/kasubi-tombs.png"
+      "badge": "badges/kasubi-tombs.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.32927,
+              32.55333
+            ],
+            [
+              0.32922,
+              32.55341
+            ],
+            [
+              0.32913,
+              32.55344
+            ],
+            [
+              0.32904,
+              32.5534
+            ],
+            [
+              0.32899,
+              32.55332
+            ],
+            [
+              0.32901,
+              32.55323
+            ],
+            [
+              0.32909,
+              32.55317
+            ],
+            [
+              0.32918,
+              32.55317
+            ],
+            [
+              0.32925,
+              32.55323
+            ],
+            [
+              0.32927,
+              32.55333
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "uganda-national-mosque",

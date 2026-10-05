@@ -12,18 +12,45 @@
     "maxLat": 12.11448,
     "maxLng": 15.05447
   },
-  "updatedAt": "2026-08-20T10:53:26.000Z",
+  "updatedAt": "2026-10-02T19:52:36.000Z",
   "status": "complete",
   "places": [
     {
       "id": "grande-mosquee",
       "name": "Grande Mosqu\u00e9e",
-      "lat": 12.1109,
-      "lng": 15.05147,
+      "lat": 12.11155,
+      "lng": 15.05024,
       "radiusM": 50,
       "address": "N'Djamena",
       "howTo": "Visit Grande Mosqu\u00e9e.",
-      "badge": "badges/grande-mosquee.png"
+      "badge": "badges/grande-mosquee.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.11165,
+              15.05019
+            ],
+            [
+              12.11145,
+              15.0502
+            ],
+            [
+              12.11146,
+              15.05028
+            ],
+            [
+              12.11166,
+              15.05028
+            ],
+            [
+              12.11165,
+              15.05019
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "notre-dame",
@@ -33,7 +60,62 @@
       "radiusM": 50,
       "address": "N'Djamena",
       "howTo": "Visit Cath\u00e9drale Notre-Dame de la Paix.",
-      "badge": "badges/notre-dame.png"
+      "badge": "badges/notre-dame.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.1114,
+              15.03705
+            ],
+            [
+              12.11174,
+              15.03733
+            ],
+            [
+              12.11177,
+              15.03745
+            ],
+            [
+              12.11172,
+              15.03754
+            ],
+            [
+              12.11168,
+              15.03757
+            ],
+            [
+              12.1116,
+              15.03757
+            ],
+            [
+              12.11119,
+              15.03731
+            ],
+            [
+              12.11123,
+              15.03725
+            ],
+            [
+              12.11114,
+              15.03716
+            ],
+            [
+              12.11126,
+              15.037
+            ],
+            [
+              12.11137,
+              15.03709
+            ],
+            [
+              12.1114,
+              15.03705
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

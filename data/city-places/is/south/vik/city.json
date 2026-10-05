@@ -12,28 +12,126 @@
     "maxLat": 63.55,
     "maxLng": -19.0
   },
-  "updatedAt": "2026-08-18T07:00:00.000Z",
+  "updatedAt": "2026-10-01T11:02:06.000Z",
   "status": "complete",
   "places": [
     {
       "id": "reynisfjara",
       "name": "Reynisfjara Black Sand Beach",
-      "lat": 63.4047,
-      "lng": -19.043,
+      "lat": 63.40417,
+      "lng": -19.04375,
       "radiusM": 250,
       "address": "Reynisfjara",
       "howTo": "Visit Reynisfjara Black Sand Beach.",
-      "badge": "badges/reynisfjara.png"
+      "badge": "badges/reynisfjara.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              63.40407,
+              -19.04381
+            ],
+            [
+              63.4042,
+              -19.04391
+            ],
+            [
+              63.40422,
+              -19.04383
+            ],
+            [
+              63.40429,
+              -19.04388
+            ],
+            [
+              63.40432,
+              -19.04365
+            ],
+            [
+              63.40411,
+              -19.04349
+            ],
+            [
+              63.40407,
+              -19.04372
+            ],
+            [
+              63.40409,
+              -19.04373
+            ],
+            [
+              63.40407,
+              -19.04381
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "skogafoss",
       "name": "Skogafoss",
-      "lat": 63.5321,
-      "lng": -19.5115,
+      "lat": 63.52713,
+      "lng": -19.51088,
       "radiusM": 200,
       "address": "Skogar",
       "howTo": "Visit Skogafoss.",
-      "badge": "badges/skogafoss.png"
+      "badge": "badges/skogafoss.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              63.52709,
+              -19.51111
+            ],
+            [
+              63.52704,
+              -19.51123
+            ],
+            [
+              63.52711,
+              -19.51138
+            ],
+            [
+              63.52726,
+              -19.51111
+            ],
+            [
+              63.52722,
+              -19.51103
+            ],
+            [
+              63.52724,
+              -19.51101
+            ],
+            [
+              63.52722,
+              -19.5108
+            ],
+            [
+              63.52717,
+              -19.51083
+            ],
+            [
+              63.52707,
+              -19.51006
+            ],
+            [
+              63.52697,
+              -19.51013
+            ],
+            [
+              63.52708,
+              -19.51102
+            ],
+            [
+              63.52709,
+              -19.51111
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

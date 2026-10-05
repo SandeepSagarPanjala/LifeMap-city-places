@@ -12,18 +12,45 @@
     "maxLat": 13.7,
     "maxLng": 79.48
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T18:14:29.000Z",
   "status": "complete",
   "places": [
     {
       "id": "tirumala",
       "name": "Tirumala Venkateswara Temple",
-      "lat": 13.6833,
-      "lng": 79.3472,
+      "lat": 13.68322,
+      "lng": 79.34716,
       "radiusM": 200,
       "address": "Tirumala, Tirupati, AP",
       "howTo": "Visit Tirumala Venkateswara Temple.",
-      "badge": "badges/tirumala.png"
+      "badge": "badges/tirumala.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.68317,
+              79.34713
+            ],
+            [
+              13.68326,
+              79.34712
+            ],
+            [
+              13.68327,
+              79.34719
+            ],
+            [
+              13.68318,
+              79.34721
+            ],
+            [
+              13.68317,
+              79.34713
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kapila-theertham",

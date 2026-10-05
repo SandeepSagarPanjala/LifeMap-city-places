@@ -12,18 +12,45 @@
     "maxLat": 18.8,
     "maxLng": 99.0
   },
-  "updatedAt": "2026-08-15T06:15:00.000Z",
+  "updatedAt": "2026-10-02T23:40:14.000Z",
   "status": "complete",
   "places": [
     {
       "id": "doi-suthep",
       "name": "Wat Phra That Doi Suthep",
-      "lat": 18.805,
-      "lng": 98.9215,
+      "lat": 18.80496,
+      "lng": 98.92159,
       "radiusM": 150,
       "address": "Doi Suthep",
       "howTo": "Visit Wat Phra That Doi Suthep.",
-      "badge": "badges/doi-suthep.png"
+      "badge": "badges/doi-suthep.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              18.80498,
+              98.9215
+            ],
+            [
+              18.80504,
+              98.92161
+            ],
+            [
+              18.80494,
+              98.92169
+            ],
+            [
+              18.80487,
+              98.92157
+            ],
+            [
+              18.80498,
+              98.9215
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-city-chiang-mai",
@@ -43,7 +70,58 @@
       "radiusM": 120,
       "address": "Wat Chedi Luang",
       "howTo": "Visit Wat Chedi Luang.",
-      "badge": "badges/wat-chedi-luang.png"
+      "badge": "badges/wat-chedi-luang.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              18.78596,
+              98.98701
+            ],
+            [
+              18.78604,
+              98.98815
+            ],
+            [
+              18.78746,
+              98.98794
+            ],
+            [
+              18.78743,
+              98.98699
+            ],
+            [
+              18.78795,
+              98.98696
+            ],
+            [
+              18.78799,
+              98.98561
+            ],
+            [
+              18.78685,
+              98.98557
+            ],
+            [
+              18.78611,
+              98.98567
+            ],
+            [
+              18.78609,
+              98.98589
+            ],
+            [
+              18.78599,
+              98.9859
+            ],
+            [
+              18.78596,
+              98.98701
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-phra-singh",
@@ -53,7 +131,46 @@
       "radiusM": 100,
       "address": "Wat Phra Singh",
       "howTo": "Visit Wat Phra Singh.",
-      "badge": "badges/wat-phra-singh.png"
+      "badge": "badges/wat-phra-singh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              18.78944,
+              98.98057
+            ],
+            [
+              18.7895,
+              98.98077
+            ],
+            [
+              18.78938,
+              98.9824
+            ],
+            [
+              18.78861,
+              98.98242
+            ],
+            [
+              18.78767,
+              98.98234
+            ],
+            [
+              18.78781,
+              98.98034
+            ],
+            [
+              18.78931,
+              98.98048
+            ],
+            [
+              18.78944,
+              98.98057
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sunday-walking-street",

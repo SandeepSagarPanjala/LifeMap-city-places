@@ -12,18 +12,45 @@
     "maxLat": 30.13,
     "maxLng": 78.32
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-02T18:30:16.000Z",
   "status": "complete",
   "places": [
     {
       "id": "lakshman-jhula",
       "name": "Lakshman Jhula",
-      "lat": 30.1265,
-      "lng": 78.3305,
+      "lat": 30.12882,
+      "lng": 78.3315,
       "radiusM": 120,
       "address": "Lakshman Jhula, Rishikesh, UK",
       "howTo": "Visit Lakshman Jhula.",
-      "badge": "badges/lakshman-jhula.png"
+      "badge": "badges/lakshman-jhula.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.12897,
+              78.33139
+            ],
+            [
+              30.12897,
+              78.33161
+            ],
+            [
+              30.12867,
+              78.33161
+            ],
+            [
+              30.12867,
+              78.33138
+            ],
+            [
+              30.12897,
+              78.33139
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ram-jhula",
@@ -38,22 +65,144 @@
     {
       "id": "triveni-ghat-rishikesh",
       "name": "Triveni Ghat",
-      "lat": 30.1035,
-      "lng": 78.2945,
+      "lat": 30.10344,
+      "lng": 78.29937,
       "radiusM": 150,
       "address": "Triveni Ghat, Rishikesh, UK",
       "howTo": "Visit Triveni Ghat.",
-      "badge": "badges/triveni-ghat-rishikesh.png"
+      "badge": "badges/triveni-ghat-rishikesh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.1027,
+              78.3012
+            ],
+            [
+              30.10323,
+              78.29815
+            ],
+            [
+              30.10351,
+              78.29862
+            ],
+            [
+              30.10355,
+              78.2992
+            ],
+            [
+              30.10372,
+              78.29929
+            ],
+            [
+              30.10354,
+              78.29963
+            ],
+            [
+              30.10338,
+              78.30059
+            ],
+            [
+              30.1031,
+              78.30073
+            ],
+            [
+              30.10291,
+              78.30212
+            ],
+            [
+              30.10302,
+              78.30306
+            ],
+            [
+              30.10328,
+              78.30431
+            ],
+            [
+              30.10468,
+              78.30548
+            ],
+            [
+              30.10473,
+              78.30564
+            ],
+            [
+              30.10422,
+              78.30583
+            ],
+            [
+              30.10289,
+              78.30432
+            ],
+            [
+              30.10258,
+              78.30202
+            ],
+            [
+              30.1027,
+              78.3012
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "beatles-ashram",
       "name": "Beatles Ashram",
-      "lat": 30.1195,
-      "lng": 78.3165,
+      "lat": 30.12056,
+      "lng": 78.31653,
       "radiusM": 150,
       "address": "Beatles Ashram, Rishikesh, UK",
       "howTo": "Visit Beatles Ashram.",
-      "badge": "badges/beatles-ashram.png"
+      "badge": "badges/beatles-ashram.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              30.11996,
+              78.31499
+            ],
+            [
+              30.12014,
+              78.31471
+            ],
+            [
+              30.12101,
+              78.31469
+            ],
+            [
+              30.1215,
+              78.31764
+            ],
+            [
+              30.12136,
+              78.31805
+            ],
+            [
+              30.12065,
+              78.31833
+            ],
+            [
+              30.12009,
+              78.31728
+            ],
+            [
+              30.12008,
+              78.31657
+            ],
+            [
+              30.12024,
+              78.31653
+            ],
+            [
+              30.11996,
+              78.31499
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

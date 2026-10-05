@@ -12,18 +12,53 @@
     "maxLat": 23.2,
     "maxLng": 75.8
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:34:26.000Z",
   "status": "complete",
   "places": [
     {
       "id": "mahakaleshwar",
       "name": "Mahakaleshwar Temple",
-      "lat": 23.1828,
-      "lng": 75.7682,
+      "lat": 23.18204,
+      "lng": 75.76903,
       "radiusM": 150,
       "address": "Jaisinghpura, Ujjain, MP",
       "howTo": "Visit Mahakaleshwar Temple.",
-      "badge": "badges/mahakaleshwar.png"
+      "badge": "badges/mahakaleshwar.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              23.18171,
+              75.76894
+            ],
+            [
+              23.18197,
+              75.76889
+            ],
+            [
+              23.18216,
+              75.76897
+            ],
+            [
+              23.18233,
+              75.76897
+            ],
+            [
+              23.18233,
+              75.76917
+            ],
+            [
+              23.18172,
+              75.76925
+            ],
+            [
+              23.18171,
+              75.76894
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ram-ghat-ujjain",

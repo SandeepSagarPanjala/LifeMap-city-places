@@ -12,7 +12,7 @@
     "maxLat": 50.64,
     "maxLng": 3.08
   },
-  "updatedAt": "2026-08-13T17:40:00.000Z",
+  "updatedAt": "2026-10-01T17:45:34.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,148 @@
     {
       "id": "vieille-bourse",
       "name": "Vieille Bourse",
-      "lat": 50.6375,
-      "lng": 3.0645,
+      "lat": 50.63701,
+      "lng": 3.06425,
       "radiusM": 80,
       "address": "Vieille Bourse",
       "howTo": "Visit Vieille Bourse.",
-      "badge": "badges/vieille-bourse.png"
+      "badge": "badges/vieille-bourse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              50.63681,
+              3.0642
+            ],
+            [
+              50.63703,
+              3.06465
+            ],
+            [
+              50.63728,
+              3.06436
+            ],
+            [
+              50.63706,
+              3.06391
+            ],
+            [
+              50.63687,
+              3.06414
+            ],
+            [
+              50.63681,
+              3.0642
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palais-des-beaux-arts-lille",
       "name": "Palais des Beaux-Arts",
-      "lat": 50.632,
-      "lng": 3.0625,
+      "lat": 50.63057,
+      "lng": 3.06264,
       "radiusM": 120,
       "address": "Palais des Beaux-Arts",
       "howTo": "Visit Palais des Beaux-Arts.",
-      "badge": "badges/palais-des-beaux-arts-lille.png"
+      "badge": "badges/palais-des-beaux-arts-lille.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              50.63058,
+              3.06223
+            ],
+            [
+              50.63056,
+              3.06227
+            ],
+            [
+              50.63079,
+              3.06259
+            ],
+            [
+              50.63083,
+              3.06255
+            ],
+            [
+              50.63095,
+              3.0627
+            ],
+            [
+              50.6309,
+              3.0628
+            ],
+            [
+              50.63096,
+              3.06285
+            ],
+            [
+              50.63096,
+              3.06293
+            ],
+            [
+              50.63088,
+              3.06301
+            ],
+            [
+              50.63083,
+              3.06292
+            ],
+            [
+              50.63042,
+              3.06364
+            ],
+            [
+              50.63032,
+              3.0635
+            ],
+            [
+              50.63034,
+              3.06347
+            ],
+            [
+              50.62995,
+              3.06299
+            ],
+            [
+              50.63035,
+              3.06225
+            ],
+            [
+              50.63028,
+              3.0622
+            ],
+            [
+              50.63032,
+              3.06205
+            ],
+            [
+              50.63037,
+              3.06204
+            ],
+            [
+              50.63041,
+              3.06213
+            ],
+            [
+              50.63046,
+              3.06203
+            ],
+            [
+              50.63057,
+              3.06222
+            ],
+            [
+              50.63058,
+              3.06223
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 7.3,
     "maxLng": 80.65
   },
-  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "updatedAt": "2026-10-01T12:04:52.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,79 @@
       "radiusM": 120,
       "address": "Sri Dalada Maligawa",
       "howTo": "Visit Temple of the Tooth.",
-      "badge": "badges/temple-of-the-tooth.png"
+      "badge": "badges/temple-of-the-tooth.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              7.29367,
+              80.64127
+            ],
+            [
+              7.29367,
+              80.64143
+            ],
+            [
+              7.29356,
+              80.64143
+            ],
+            [
+              7.29356,
+              80.64127
+            ],
+            [
+              7.29367,
+              80.64127
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "peradeniya-gardens",
       "name": "Royal Botanical Gardens",
-      "lat": 7.2714,
-      "lng": 80.5966,
+      "lat": 7.26996,
+      "lng": 80.59578,
       "radiusM": 250,
       "address": "Peradeniya",
       "howTo": "Visit Royal Botanical Gardens.",
-      "badge": "badges/peradeniya-gardens.png"
+      "badge": "badges/peradeniya-gardens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              7.2699,
+              80.59571
+            ],
+            [
+              7.26988,
+              80.5958
+            ],
+            [
+              7.26993,
+              80.59586
+            ],
+            [
+              7.27003,
+              80.59584
+            ],
+            [
+              7.27005,
+              80.59575
+            ],
+            [
+              7.26999,
+              80.59569
+            ],
+            [
+              7.2699,
+              80.59571
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

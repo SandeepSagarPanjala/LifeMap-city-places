@@ -12,28 +12,110 @@
     "maxLat": 11.58,
     "maxLng": 104.935
   },
-  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "updatedAt": "2026-10-02T18:42:08.000Z",
   "status": "complete",
   "places": [
     {
       "id": "royal-palace-phnom-penh",
       "name": "Royal Palace",
-      "lat": 11.5633,
-      "lng": 104.9314,
+      "lat": 11.56503,
+      "lng": 104.93231,
       "radiusM": 150,
       "address": "Sothearos Blvd",
       "howTo": "Visit Royal Palace.",
-      "badge": "badges/royal-palace-phnom-penh.png"
+      "badge": "badges/royal-palace-phnom-penh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.56593,
+              104.93217
+            ],
+            [
+              11.56453,
+              104.93314
+            ],
+            [
+              11.56402,
+              104.93241
+            ],
+            [
+              11.56566,
+              104.93152
+            ],
+            [
+              11.56593,
+              104.93217
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wat-phnom",
       "name": "Wat Phnom",
-      "lat": 11.5763,
-      "lng": 104.9216,
+      "lat": 11.57611,
+      "lng": 104.92324,
       "radiusM": 100,
       "address": "Wat Phnom",
       "howTo": "Visit Wat Phnom.",
-      "badge": "badges/wat-phnom.png"
+      "badge": "badges/wat-phnom.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.57632,
+              104.92351
+            ],
+            [
+              11.57636,
+              104.92344
+            ],
+            [
+              11.5763,
+              104.92293
+            ],
+            [
+              11.57624,
+              104.92286
+            ],
+            [
+              11.57596,
+              104.9229
+            ],
+            [
+              11.57591,
+              104.92293
+            ],
+            [
+              11.5759,
+              104.92298
+            ],
+            [
+              11.57598,
+              104.9235
+            ],
+            [
+              11.576,
+              104.92354
+            ],
+            [
+              11.57605,
+              104.92355
+            ],
+            [
+              11.57615,
+              104.92354
+            ],
+            [
+              11.57632,
+              104.92351
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

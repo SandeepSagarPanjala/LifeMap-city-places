@@ -12,48 +12,236 @@
     "maxLat": 45.88,
     "maxLng": -84.6
   },
-  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "updatedAt": "2026-10-03T00:09:19.000Z",
   "status": "complete",
   "places": [
     {
       "id": "fort-mackinac",
       "name": "Fort Mackinac",
-      "lat": 45.8515,
-      "lng": -84.6175,
+      "lat": 45.85205,
+      "lng": -84.61762,
       "radiusM": 200,
       "address": "7127 Huron Rd, Mackinac Island, MI",
       "howTo": "Visit Fort Mackinac.",
-      "badge": "badges/fort-mackinac.png"
+      "badge": "badges/fort-mackinac.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.85198,
+              -84.61823
+            ],
+            [
+              45.85174,
+              -84.61856
+            ],
+            [
+              45.85155,
+              -84.61829
+            ],
+            [
+              45.85169,
+              -84.61749
+            ],
+            [
+              45.85188,
+              -84.61691
+            ],
+            [
+              45.8519,
+              -84.61675
+            ],
+            [
+              45.85182,
+              -84.61665
+            ],
+            [
+              45.8519,
+              -84.6166
+            ],
+            [
+              45.85198,
+              -84.61625
+            ],
+            [
+              45.85277,
+              -84.61726
+            ],
+            [
+              45.85237,
+              -84.61778
+            ],
+            [
+              45.85234,
+              -84.61785
+            ],
+            [
+              45.8524,
+              -84.61794
+            ],
+            [
+              45.85217,
+              -84.61815
+            ],
+            [
+              45.85216,
+              -84.61824
+            ],
+            [
+              45.85212,
+              -84.6182
+            ],
+            [
+              45.85208,
+              -84.61835
+            ],
+            [
+              45.85198,
+              -84.61823
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "arch-rock",
       "name": "Arch Rock",
-      "lat": 45.8585,
-      "lng": -84.6075,
+      "lat": 45.85709,
+      "lng": -84.60717,
       "radiusM": 150,
       "address": "Mackinac Island, MI",
       "howTo": "Visit Arch Rock.",
-      "badge": "badges/arch-rock.png"
+      "badge": "badges/arch-rock.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.85712,
+              -84.60725
+            ],
+            [
+              45.85715,
+              -84.60715
+            ],
+            [
+              45.85706,
+              -84.6071
+            ],
+            [
+              45.85704,
+              -84.6072
+            ],
+            [
+              45.85712,
+              -84.60725
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "marquette-park",
       "name": "Marquette Park",
-      "lat": 45.8505,
-      "lng": -84.6185,
+      "lat": 45.85112,
+      "lng": -84.61658,
       "radiusM": 150,
       "address": "Mackinac Island, MI",
       "howTo": "Visit Marquette Park below Fort Mackinac.",
-      "badge": "badges/marquette-park.png"
+      "badge": "badges/marquette-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.85055,
+              -84.61691
+            ],
+            [
+              45.85071,
+              -84.6153
+            ],
+            [
+              45.85173,
+              -84.61541
+            ],
+            [
+              45.85158,
+              -84.61583
+            ],
+            [
+              45.85145,
+              -84.61745
+            ],
+            [
+              45.85125,
+              -84.61806
+            ],
+            [
+              45.85058,
+              -84.61709
+            ],
+            [
+              45.85055,
+              -84.61691
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fort-holmes",
       "name": "Fort Holmes",
-      "lat": 45.8605,
-      "lng": -84.6165,
+      "lat": 45.85817,
+      "lng": -84.61642,
       "radiusM": 150,
       "address": "Mackinac Island, MI",
       "howTo": "Visit Fort Holmes.",
-      "badge": "badges/fort-holmes.png"
+      "badge": "badges/fort-holmes.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.8581,
+              -84.61604
+            ],
+            [
+              45.85827,
+              -84.61629
+            ],
+            [
+              45.85832,
+              -84.6164
+            ],
+            [
+              45.8583,
+              -84.61658
+            ],
+            [
+              45.85824,
+              -84.61665
+            ],
+            [
+              45.85815,
+              -84.61667
+            ],
+            [
+              45.85805,
+              -84.61658
+            ],
+            [
+              45.85793,
+              -84.61617
+            ],
+            [
+              45.8581,
+              -84.61604
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sugar-loaf-rock",

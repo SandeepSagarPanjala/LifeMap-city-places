@@ -12,7 +12,7 @@
     "maxLat": 16.80135,
     "maxLng": 96.16178
   },
-  "updatedAt": "2026-08-20T12:08:03.000Z",
+  "updatedAt": "2026-10-01T12:38:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "address": "Yangon",
       "howTo": "Visit Shwedagon Pagoda.",
       "radiusM": 80,
-      "badge": "badges/shwedagon-pagoda.png"
+      "badge": "badges/shwedagon-pagoda.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.79856,
+              96.15061
+            ],
+            [
+              16.79773,
+              96.15087
+            ],
+            [
+              16.79718,
+              96.14899
+            ],
+            [
+              16.79957,
+              96.14824
+            ],
+            [
+              16.80008,
+              96.15014
+            ],
+            [
+              16.79856,
+              96.15061
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sule-pagoda",
@@ -33,7 +64,50 @@
       "address": "Yangon",
       "howTo": "Visit Sule Pagoda.",
       "radiusM": 80,
-      "badge": "badges/sule-pagoda.png"
+      "badge": "badges/sule-pagoda.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.77439,
+              96.15859
+            ],
+            [
+              16.77427,
+              96.15863
+            ],
+            [
+              16.7742,
+              96.15874
+            ],
+            [
+              16.77424,
+              96.15887
+            ],
+            [
+              16.77435,
+              96.15894
+            ],
+            [
+              16.77447,
+              96.15891
+            ],
+            [
+              16.77454,
+              96.15879
+            ],
+            [
+              16.7745,
+              96.15866
+            ],
+            [
+              16.77439,
+              96.15859
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

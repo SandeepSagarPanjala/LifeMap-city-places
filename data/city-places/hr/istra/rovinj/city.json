@@ -12,7 +12,7 @@
     "maxLat": 45.09,
     "maxLng": 13.65
   },
-  "updatedAt": "2026-08-18T06:15:00.000Z",
+  "updatedAt": "2026-10-01T18:05:01.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,63 @@
     {
       "id": "st-euphemia-church",
       "name": "St Euphemia Church",
-      "lat": 45.083,
-      "lng": 13.637,
+      "lat": 45.08317,
+      "lng": 13.63111,
       "radiusM": 100,
       "address": "Rovinj",
       "howTo": "Visit St Euphemia Church.",
-      "badge": "badges/st-euphemia-church.png"
+      "badge": "badges/st-euphemia-church.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.08336,
+              13.63066
+            ],
+            [
+              45.08329,
+              13.63132
+            ],
+            [
+              45.08319,
+              13.6313
+            ],
+            [
+              45.08319,
+              13.63135
+            ],
+            [
+              45.08316,
+              13.63135
+            ],
+            [
+              45.0831,
+              13.63132
+            ],
+            [
+              45.0831,
+              13.63128
+            ],
+            [
+              45.08301,
+              13.63126
+            ],
+            [
+              45.08308,
+              13.63061
+            ],
+            [
+              45.08322,
+              13.63064
+            ],
+            [
+              45.08336,
+              13.63066
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

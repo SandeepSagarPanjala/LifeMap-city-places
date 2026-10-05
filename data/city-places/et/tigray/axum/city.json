@@ -12,7 +12,7 @@
     "maxLat": 14.134,
     "maxLng": 38.723
   },
-  "updatedAt": "2026-08-18T23:27:02.000Z",
+  "updatedAt": "2026-10-01T08:57:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "mary-of-zion",
       "name": "Church of Our Lady Mary of Zion",
-      "lat": 14.1294,
-      "lng": 38.7197,
+      "lat": 14.12949,
+      "lng": 38.71925,
       "radiusM": 60,
       "address": "Axum",
       "howTo": "Visit Church of Our Lady Mary of Zion.",
-      "badge": "badges/mary-of-zion.png"
+      "badge": "badges/mary-of-zion.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.12964,
+              38.71915
+            ],
+            [
+              14.12949,
+              38.71912
+            ],
+            [
+              14.12948,
+              38.71917
+            ],
+            [
+              14.12944,
+              38.71916
+            ],
+            [
+              14.12942,
+              38.71923
+            ],
+            [
+              14.12946,
+              38.71923
+            ],
+            [
+              14.12941,
+              38.71946
+            ],
+            [
+              14.12956,
+              38.7195
+            ],
+            [
+              14.12964,
+              38.71915
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

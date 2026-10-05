@@ -12,7 +12,7 @@
     "maxLat": 13.61,
     "maxLng": 103.97
   },
-  "updatedAt": "2026-08-18T09:20:00.000Z",
+  "updatedAt": "2026-10-02T18:43:02.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "radiusM": 250,
       "address": "Angkor",
       "howTo": "Visit Angkor Wat.",
-      "badge": "badges/angkor-wat.png"
+      "badge": "badges/angkor-wat.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.41257,
+              103.86144
+            ],
+            [
+              13.41659,
+              103.86148
+            ],
+            [
+              13.41648,
+              103.87173
+            ],
+            [
+              13.40839,
+              103.87172
+            ],
+            [
+              13.40848,
+              103.86145
+            ],
+            [
+              13.41247,
+              103.86145
+            ],
+            [
+              13.41257,
+              103.86144
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bayon",
@@ -33,7 +68,34 @@
       "radiusM": 120,
       "address": "Angkor Thom",
       "howTo": "Visit Bayon.",
-      "badge": "badges/bayon.png"
+      "badge": "badges/bayon.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.44172,
+              103.85835
+            ],
+            [
+              13.44174,
+              103.85947
+            ],
+            [
+              13.44072,
+              103.85949
+            ],
+            [
+              13.44071,
+              103.85837
+            ],
+            [
+              13.44172,
+              103.85835
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ta-prohm",
@@ -43,7 +105,34 @@
       "radiusM": 150,
       "address": "Angkor",
       "howTo": "Visit Ta Prohm.",
-      "badge": "badges/ta-prohm.png"
+      "badge": "badges/ta-prohm.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.4362,
+              103.88777
+            ],
+            [
+              13.43633,
+              103.89084
+            ],
+            [
+              13.43347,
+              103.89097
+            ],
+            [
+              13.43334,
+              103.8879
+            ],
+            [
+              13.4362,
+              103.88777
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "banteay-srei",
@@ -53,7 +142,38 @@
       "radiusM": 120,
       "address": "Banteay Srei",
       "howTo": "Visit Banteay Srei.",
-      "badge": "badges/banteay-srei.png"
+      "badge": "badges/banteay-srei.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.5984,
+              103.96371
+            ],
+            [
+              13.59839,
+              103.96241
+            ],
+            [
+              13.59947,
+              103.9624
+            ],
+            [
+              13.59948,
+              103.96369
+            ],
+            [
+              13.59885,
+              103.9637
+            ],
+            [
+              13.5984,
+              103.96371
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

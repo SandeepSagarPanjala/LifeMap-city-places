@@ -12,48 +12,248 @@
     "maxLat": 11.95,
     "maxLng": 79.85
   },
-  "updatedAt": "2026-08-12T08:00:00.000Z",
+  "updatedAt": "2026-10-01T10:42:38.000Z",
   "status": "complete",
   "places": [
     {
       "id": "promenade-beach-pondy",
       "name": "Promenade Beach",
-      "lat": 11.9335,
-      "lng": 79.8355,
+      "lat": 11.93326,
+      "lng": 79.83566,
       "radiusM": 200,
       "address": "Promenade Beach, Puducherry",
       "howTo": "Visit Promenade Beach.",
-      "badge": "badges/promenade-beach-pondy.png"
+      "badge": "badges/promenade-beach-pondy.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.93342,
+              79.83554
+            ],
+            [
+              11.93337,
+              79.83581
+            ],
+            [
+              11.93322,
+              79.83578
+            ],
+            [
+              11.93324,
+              79.83567
+            ],
+            [
+              11.93315,
+              79.83565
+            ],
+            [
+              11.93318,
+              79.83549
+            ],
+            [
+              11.93342,
+              79.83554
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "auroville",
       "name": "Auroville",
-      "lat": 12.0065,
-      "lng": 79.8105,
+      "lat": 12.00944,
+      "lng": 79.81182,
       "radiusM": 250,
       "address": "Auroville, near Puducherry",
       "howTo": "Visit Auroville.",
-      "badge": "badges/auroville.png"
+      "badge": "badges/auroville.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              12.00941,
+              79.81191
+            ],
+            [
+              12.00943,
+              79.81188
+            ],
+            [
+              12.00947,
+              79.8119
+            ],
+            [
+              12.00951,
+              79.81183
+            ],
+            [
+              12.00948,
+              79.8118
+            ],
+            [
+              12.00952,
+              79.81174
+            ],
+            [
+              12.00941,
+              79.81167
+            ],
+            [
+              12.0093,
+              79.81184
+            ],
+            [
+              12.00941,
+              79.81191
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sri-aurobindo-ashram",
       "name": "Sri Aurobindo Ashram",
-      "lat": 11.9365,
-      "lng": 79.8335,
+      "lat": 11.9368,
+      "lng": 79.83429,
       "radiusM": 120,
       "address": "Sri Aurobindo Ashram, Puducherry",
       "howTo": "Visit Sri Aurobindo Ashram.",
-      "badge": "badges/sri-aurobindo-ashram.png"
+      "badge": "badges/sri-aurobindo-ashram.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.93667,
+              79.83395
+            ],
+            [
+              11.93655,
+              79.83454
+            ],
+            [
+              11.93694,
+              79.83464
+            ],
+            [
+              11.93705,
+              79.83403
+            ],
+            [
+              11.93667,
+              79.83395
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "basilica-of-sacred-heart",
       "name": "Basilica of the Sacred Heart of Jesus",
-      "lat": 11.9285,
-      "lng": 79.8295,
+      "lat": 11.92622,
+      "lng": 79.82702,
       "radiusM": 100,
       "address": "Sacred Heart Basilica, Puducherry",
       "howTo": "Visit Basilica of the Sacred Heart of Jesus.",
-      "badge": "badges/basilica-of-sacred-heart.png"
+      "badge": "badges/basilica-of-sacred-heart.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.92599,
+              79.8271
+            ],
+            [
+              11.926,
+              79.82704
+            ],
+            [
+              11.92617,
+              79.82707
+            ],
+            [
+              11.92614,
+              79.82719
+            ],
+            [
+              11.92629,
+              79.82722
+            ],
+            [
+              11.92631,
+              79.82714
+            ],
+            [
+              11.92634,
+              79.82715
+            ],
+            [
+              11.92636,
+              79.82709
+            ],
+            [
+              11.92639,
+              79.82709
+            ],
+            [
+              11.92643,
+              79.82705
+            ],
+            [
+              11.92642,
+              79.82701
+            ],
+            [
+              11.92638,
+              79.82698
+            ],
+            [
+              11.92639,
+              79.82693
+            ],
+            [
+              11.92636,
+              79.82692
+            ],
+            [
+              11.92637,
+              79.82685
+            ],
+            [
+              11.92622,
+              79.82682
+            ],
+            [
+              11.92619,
+              79.82695
+            ],
+            [
+              11.92602,
+              79.82692
+            ],
+            [
+              11.92603,
+              79.82686
+            ],
+            [
+              11.92598,
+              79.82685
+            ],
+            [
+              11.92593,
+              79.82709
+            ],
+            [
+              11.92599,
+              79.8271
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "french-war-memorial",
@@ -68,12 +268,71 @@
     {
       "id": "paradise-beach-pondy",
       "name": "Paradise Beach",
-      "lat": 11.8765,
-      "lng": 79.8255,
+      "lat": 11.86935,
+      "lng": 79.81972,
       "radiusM": 200,
       "address": "Paradise Beach, Puducherry",
       "howTo": "Visit Paradise Beach.",
-      "badge": "badges/paradise-beach-pondy.png"
+      "badge": "badges/paradise-beach-pondy.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              11.86604,
+              79.81798
+            ],
+            [
+              11.86534,
+              79.81786
+            ],
+            [
+              11.86504,
+              79.81803
+            ],
+            [
+              11.86427,
+              79.81784
+            ],
+            [
+              11.87274,
+              79.82122
+            ],
+            [
+              11.87351,
+              79.82144
+            ],
+            [
+              11.87541,
+              79.82166
+            ],
+            [
+              11.87516,
+              79.82141
+            ],
+            [
+              11.87187,
+              79.82056
+            ],
+            [
+              11.86959,
+              79.81965
+            ],
+            [
+              11.86694,
+              79.81876
+            ],
+            [
+              11.86626,
+              79.8183
+            ],
+            [
+              11.86604,
+              79.81798
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

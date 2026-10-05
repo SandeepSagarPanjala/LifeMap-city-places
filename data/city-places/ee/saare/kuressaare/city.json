@@ -12,18 +12,45 @@
     "maxLat": 58.25,
     "maxLng": 22.483
   },
-  "updatedAt": "2026-08-18T03:33:29.000Z",
+  "updatedAt": "2026-10-01T08:39:05.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kuressaare-castle",
       "name": "Kuressaare Castle",
-      "lat": 58.2467,
-      "lng": 22.4789,
+      "lat": 58.2469,
+      "lng": 22.47932,
       "radiusM": 120,
       "address": "Saaremaa",
       "howTo": "Visit Kuressaare Castle.",
-      "badge": "badges/kuressaare-castle.png"
+      "badge": "badges/kuressaare-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              58.24664,
+              22.47944
+            ],
+            [
+              58.24696,
+              22.47982
+            ],
+            [
+              58.24716,
+              22.4792
+            ],
+            [
+              58.24684,
+              22.47883
+            ],
+            [
+              58.24664,
+              22.47944
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

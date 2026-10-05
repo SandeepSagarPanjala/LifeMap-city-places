@@ -12,18 +12,45 @@
     "maxLat": 47.924,
     "maxLng": 106.919
   },
-  "updatedAt": "2026-08-18T23:53:15.000Z",
+  "updatedAt": "2026-10-01T12:41:22.000Z",
   "status": "complete",
   "places": [
     {
       "id": "gandan",
       "name": "Gandan Monastery",
-      "lat": 47.92204,
-      "lng": 106.89476,
+      "lat": 47.92155,
+      "lng": 106.89536,
       "radiusM": 80,
       "address": "Ulaanbaatar",
       "howTo": "Visit Gandan Monastery.",
-      "badge": "badges/gandan.png"
+      "badge": "badges/gandan.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              47.9216,
+              106.89527
+            ],
+            [
+              47.92159,
+              106.89546
+            ],
+            [
+              47.92149,
+              106.89545
+            ],
+            [
+              47.9215,
+              106.89526
+            ],
+            [
+              47.9216,
+              106.89527
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sukhbaatar-square",
@@ -33,7 +60,38 @@
       "radiusM": 100,
       "address": "Ulaanbaatar",
       "howTo": "Visit Sukhbaatar Square.",
-      "badge": "badges/sukhbaatar-square.png"
+      "badge": "badges/sukhbaatar-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              47.91793,
+              106.91653
+            ],
+            [
+              47.91948,
+              106.91622
+            ],
+            [
+              47.91969,
+              106.91874
+            ],
+            [
+              47.91815,
+              106.91903
+            ],
+            [
+              47.91804,
+              106.9178
+            ],
+            [
+              47.91793,
+              106.91653
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

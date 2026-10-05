@@ -12,7 +12,7 @@
     "maxLat": 40.37,
     "maxLng": 49.842
   },
-  "updatedAt": "2026-08-18T03:41:18.000Z",
+  "updatedAt": "2026-10-01T04:44:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,123 @@
       "radiusM": 40,
       "address": "Icherisheher",
       "howTo": "Visit Maiden Tower.",
-      "badge": "badges/maiden-tower.png"
+      "badge": "badges/maiden-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.36617,
+              49.83712
+            ],
+            [
+              40.36611,
+              49.83713
+            ],
+            [
+              40.36607,
+              49.83719
+            ],
+            [
+              40.36609,
+              49.83727
+            ],
+            [
+              40.36612,
+              49.8373
+            ],
+            [
+              40.36609,
+              49.83742
+            ],
+            [
+              40.36611,
+              49.83743
+            ],
+            [
+              40.36622,
+              49.83726
+            ],
+            [
+              40.3662,
+              49.83714
+            ],
+            [
+              40.36617,
+              49.83712
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shirvanshahs-palace",
       "name": "Palace of the Shirvanshahs",
-      "lat": 40.3656,
-      "lng": 49.8331,
+      "lat": 40.36613,
+      "lng": 49.83317,
       "radiusM": 80,
       "address": "Icherisheher",
       "howTo": "Visit Palace of the Shirvanshahs.",
-      "badge": "badges/shirvanshahs-palace.png"
+      "badge": "badges/shirvanshahs-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.36656,
+              49.83313
+            ],
+            [
+              40.36656,
+              49.83342
+            ],
+            [
+              40.36612,
+              49.83385
+            ],
+            [
+              40.36595,
+              49.83385
+            ],
+            [
+              40.36584,
+              49.83358
+            ],
+            [
+              40.3658,
+              49.83331
+            ],
+            [
+              40.36601,
+              49.83322
+            ],
+            [
+              40.36601,
+              49.83279
+            ],
+            [
+              40.36606,
+              49.83274
+            ],
+            [
+              40.36599,
+              49.83258
+            ],
+            [
+              40.36626,
+              49.83245
+            ],
+            [
+              40.36635,
+              49.83313
+            ],
+            [
+              40.36656,
+              49.83313
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "flame-towers",
@@ -43,7 +149,50 @@
       "radiusM": 120,
       "address": "Baku",
       "howTo": "Visit Flame Towers.",
-      "badge": "badges/flame-towers.png"
+      "badge": "badges/flame-towers.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.35998,
+              49.82516
+            ],
+            [
+              40.36075,
+              49.82616
+            ],
+            [
+              40.36119,
+              49.8263
+            ],
+            [
+              40.36126,
+              49.82681
+            ],
+            [
+              40.35923,
+              49.82731
+            ],
+            [
+              40.35882,
+              49.82726
+            ],
+            [
+              40.3587,
+              49.82682
+            ],
+            [
+              40.3594,
+              49.82594
+            ],
+            [
+              40.35998,
+              49.82516
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

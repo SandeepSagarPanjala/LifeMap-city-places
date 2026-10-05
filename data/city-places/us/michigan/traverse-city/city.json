@@ -12,58 +12,309 @@
     "maxLat": 44.8,
     "maxLng": -85.55
   },
-  "updatedAt": "2026-08-11T04:41:34.000Z",
+  "updatedAt": "2026-10-02T20:58:18.000Z",
   "status": "complete",
   "places": [
     {
       "id": "clinch-park",
       "name": "Clinch Park",
-      "lat": 44.7665,
-      "lng": -85.6225,
+      "lat": 44.76593,
+      "lng": -85.6212,
       "radiusM": 250,
       "address": "Clinch Park, Traverse City, MI",
       "howTo": "Visit Clinch Park on West Grand Traverse Bay.",
-      "badge": "badges/clinch-park.png"
+      "badge": "badges/clinch-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.76569,
+              -85.62257
+            ],
+            [
+              44.76496,
+              -85.61798
+            ],
+            [
+              44.76484,
+              -85.61303
+            ],
+            [
+              44.76495,
+              -85.61321
+            ],
+            [
+              44.76504,
+              -85.61627
+            ],
+            [
+              44.76549,
+              -85.61966
+            ],
+            [
+              44.76564,
+              -85.61995
+            ],
+            [
+              44.76613,
+              -85.61991
+            ],
+            [
+              44.76624,
+              -85.61977
+            ],
+            [
+              44.76615,
+              -85.61955
+            ],
+            [
+              44.76627,
+              -85.61982
+            ],
+            [
+              44.76633,
+              -85.61958
+            ],
+            [
+              44.76688,
+              -85.61962
+            ],
+            [
+              44.76709,
+              -85.6204
+            ],
+            [
+              44.76637,
+              -85.62058
+            ],
+            [
+              44.76645,
+              -85.62226
+            ],
+            [
+              44.76626,
+              -85.62235
+            ],
+            [
+              44.76569,
+              -85.62257
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-mission-lighthouse",
       "name": "Old Mission Point Lighthouse",
-      "lat": 44.9915,
-      "lng": -85.4785,
+      "lat": 44.99126,
+      "lng": -85.47944,
       "radiusM": 150,
       "address": "Old Mission Peninsula, MI",
       "howTo": "Visit Old Mission Point Lighthouse.",
-      "badge": "badges/old-mission-lighthouse.png"
+      "badge": "badges/old-mission-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.99121,
+              -85.47934
+            ],
+            [
+              44.99125,
+              -85.47935
+            ],
+            [
+              44.99124,
+              -85.47943
+            ],
+            [
+              44.99132,
+              -85.47944
+            ],
+            [
+              44.99132,
+              -85.47955
+            ],
+            [
+              44.9912,
+              -85.47954
+            ],
+            [
+              44.99121,
+              -85.47934
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sleeping-bear-dunes",
       "name": "Sleeping Bear Dunes National Lakeshore",
-      "lat": 44.8605,
-      "lng": -86.0585,
+      "lat": 44.85641,
+      "lng": -86.06533,
       "radiusM": 400,
       "address": "Pierce Stocking Scenic Drive, MI",
       "howTo": "Visit Sleeping Bear Dunes.",
-      "badge": "badges/sleeping-bear-dunes.png"
+      "badge": "badges/sleeping-bear-dunes.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.85658,
+              -86.06549
+            ],
+            [
+              44.85663,
+              -86.06545
+            ],
+            [
+              44.85663,
+              -86.06528
+            ],
+            [
+              44.85639,
+              -86.06516
+            ],
+            [
+              44.85619,
+              -86.06516
+            ],
+            [
+              44.85623,
+              -86.06524
+            ],
+            [
+              44.85623,
+              -86.06537
+            ],
+            [
+              44.85636,
+              -86.06537
+            ],
+            [
+              44.85647,
+              -86.06541
+            ],
+            [
+              44.85658,
+              -86.06549
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "botanical-garden-tc",
       "name": "Historic Barns Park",
-      "lat": 44.7455,
-      "lng": -85.6455,
+      "lat": 44.74832,
+      "lng": -85.64678,
       "radiusM": 200,
       "address": "Historic Barns Park, Traverse City, MI",
       "howTo": "Visit Historic Barns Park.",
-      "badge": "badges/botanical-garden-tc.png"
+      "badge": "badges/botanical-garden-tc.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.75,
+              -85.64649
+            ],
+            [
+              44.74994,
+              -85.64413
+            ],
+            [
+              44.7489,
+              -85.64423
+            ],
+            [
+              44.74872,
+              -85.64442
+            ],
+            [
+              44.74862,
+              -85.645
+            ],
+            [
+              44.74841,
+              -85.64534
+            ],
+            [
+              44.74758,
+              -85.64542
+            ],
+            [
+              44.74452,
+              -85.65307
+            ],
+            [
+              44.74821,
+              -85.65289
+            ],
+            [
+              44.75,
+              -85.64649
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "state-theatre-tc",
       "name": "State Theatre",
-      "lat": 44.7635,
-      "lng": -85.6225,
+      "lat": 44.76438,
+      "lng": -85.6195,
       "radiusM": 100,
       "address": "233 E Front St, Traverse City, MI",
       "howTo": "Visit the State Theatre.",
-      "badge": "badges/state-theatre-tc.png"
+      "badge": "badges/state-theatre-tc.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.76419,
+              -85.6196
+            ],
+            [
+              44.7643,
+              -85.6196
+            ],
+            [
+              44.7643,
+              -85.61964
+            ],
+            [
+              44.76454,
+              -85.61963
+            ],
+            [
+              44.76454,
+              -85.61939
+            ],
+            [
+              44.76447,
+              -85.61938
+            ],
+            [
+              44.76447,
+              -85.61936
+            ],
+            [
+              44.76419,
+              -85.61936
+            ],
+            [
+              44.76419,
+              -85.6196
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

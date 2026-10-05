@@ -12,7 +12,7 @@
     "maxLat": 27.49491,
     "maxLng": 89.4263
   },
-  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "updatedAt": "2026-10-01T07:30:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "address": "Paro",
       "howTo": "Hike to Paro Taktsang (Tiger's Nest).",
       "radiusM": 80,
-      "badge": "badges/paro-taktsang.png"
+      "badge": "badges/paro-taktsang.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.49197,
+              89.36354
+            ],
+            [
+              27.49186,
+              89.36355
+            ],
+            [
+              27.49185,
+              89.36338
+            ],
+            [
+              27.4919,
+              89.36335
+            ],
+            [
+              27.492,
+              89.36335
+            ],
+            [
+              27.49204,
+              89.36339
+            ],
+            [
+              27.49201,
+              89.36342
+            ],
+            [
+              27.49202,
+              89.36347
+            ],
+            [
+              27.49197,
+              89.36354
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rinpung-dzong",
@@ -33,7 +76,50 @@
       "address": "Paro",
       "howTo": "Visit Rinpung Dzong.",
       "radiusM": 80,
-      "badge": "badges/rinpung-dzong.png"
+      "badge": "badges/rinpung-dzong.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.4268,
+              89.42247
+            ],
+            [
+              27.42696,
+              89.42282
+            ],
+            [
+              27.42701,
+              89.4228
+            ],
+            [
+              27.42718,
+              89.4235
+            ],
+            [
+              27.42667,
+              89.42388
+            ],
+            [
+              27.42642,
+              89.42337
+            ],
+            [
+              27.42622,
+              89.42276
+            ],
+            [
+              27.42666,
+              89.42251
+            ],
+            [
+              27.4268,
+              89.42247
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

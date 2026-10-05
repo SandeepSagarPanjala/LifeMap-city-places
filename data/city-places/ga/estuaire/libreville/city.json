@@ -12,18 +12,45 @@
     "maxLat": 0.411,
     "maxLng": 9.46
   },
-  "updatedAt": "2026-08-19T01:22:46.000Z",
+  "updatedAt": "2026-10-02T22:56:28.000Z",
   "status": "complete",
   "places": [
     {
       "id": "sainte-marie",
       "name": "Sainte-Marie Cathedral",
-      "lat": 0.4028,
-      "lng": 9.43629,
+      "lat": 0.40431,
+      "lng": 9.43855,
       "radiusM": 50,
       "address": "Libreville",
       "howTo": "Visit Sainte-Marie Cathedral.",
-      "badge": "badges/sainte-marie.png"
+      "badge": "badges/sainte-marie.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.40429,
+              9.43842
+            ],
+            [
+              0.40444,
+              9.43858
+            ],
+            [
+              0.40434,
+              9.43868
+            ],
+            [
+              0.40419,
+              9.43852
+            ],
+            [
+              0.40429,
+              9.43842
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "saint-michel",
@@ -33,7 +60,82 @@
       "radiusM": 50,
       "address": "Libreville",
       "howTo": "Visit Saint-Michel Parish.",
-      "badge": "badges/saint-michel.png"
+      "badge": "badges/saint-michel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.40933,
+              9.45756
+            ],
+            [
+              0.40932,
+              9.45752
+            ],
+            [
+              0.409,
+              9.45729
+            ],
+            [
+              0.4088,
+              9.45745
+            ],
+            [
+              0.40887,
+              9.45753
+            ],
+            [
+              0.40885,
+              9.45756
+            ],
+            [
+              0.40887,
+              9.45758
+            ],
+            [
+              0.40878,
+              9.45765
+            ],
+            [
+              0.40891,
+              9.45782
+            ],
+            [
+              0.40904,
+              9.45772
+            ],
+            [
+              0.40907,
+              9.45775
+            ],
+            [
+              0.40902,
+              9.45779
+            ],
+            [
+              0.40907,
+              9.45783
+            ],
+            [
+              0.4092,
+              9.45784
+            ],
+            [
+              0.40932,
+              9.4578
+            ],
+            [
+              0.40935,
+              9.45768
+            ],
+            [
+              0.40933,
+              9.45756
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

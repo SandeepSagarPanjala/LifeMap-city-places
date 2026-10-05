@@ -12,18 +12,81 @@
     "maxLat": 38.74,
     "maxLng": -75.06
   },
-  "updatedAt": "2026-08-10T23:51:48.000Z",
+  "updatedAt": "2026-10-02T20:32:24.000Z",
   "status": "complete",
   "places": [
     {
       "id": "rehoboth-beach-boardwalk",
       "name": "Rehoboth Beach Boardwalk",
-      "lat": 38.7209,
-      "lng": -75.076,
+      "lat": 38.71887,
+      "lng": -75.07671,
       "radiusM": 250,
       "address": "Boardwalk, Rehoboth Beach, DE",
       "howTo": "Walk the Rehoboth Beach Boardwalk.",
-      "badge": "badges/rehoboth-beach-boardwalk.png"
+      "badge": "badges/rehoboth-beach-boardwalk.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.71901,
+              -75.07704
+            ],
+            [
+              38.71888,
+              -75.07701
+            ],
+            [
+              38.71889,
+              -75.07693
+            ],
+            [
+              38.71883,
+              -75.07692
+            ],
+            [
+              38.71887,
+              -75.07664
+            ],
+            [
+              38.7187,
+              -75.0766
+            ],
+            [
+              38.7187,
+              -75.07663
+            ],
+            [
+              38.71856,
+              -75.07659
+            ],
+            [
+              38.71859,
+              -75.0764
+            ],
+            [
+              38.71906,
+              -75.07653
+            ],
+            [
+              38.71906,
+              -75.07661
+            ],
+            [
+              38.71908,
+              -75.07665
+            ],
+            [
+              38.71905,
+              -75.07669
+            ],
+            [
+              38.71901,
+              -75.07704
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cape-henlopen-state-park",
@@ -33,17 +96,139 @@
       "radiusM": 400,
       "address": "15099 Cape Henlopen Dr, Lewes, DE",
       "howTo": "Visit Cape Henlopen State Park.",
-      "badge": "badges/cape-henlopen-state-park.png"
+      "badge": "badges/cape-henlopen-state-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.77675,
+              -75.0934
+            ],
+            [
+              38.77688,
+              -75.09665
+            ],
+            [
+              38.77632,
+              -75.0986
+            ],
+            [
+              38.77747,
+              -75.09863
+            ],
+            [
+              38.77779,
+              -75.09927
+            ],
+            [
+              38.77739,
+              -75.10049
+            ],
+            [
+              38.77704,
+              -75.10019
+            ],
+            [
+              38.77686,
+              -75.09979
+            ],
+            [
+              38.77654,
+              -75.09959
+            ],
+            [
+              38.77622,
+              -75.09958
+            ],
+            [
+              38.77517,
+              -75.09911
+            ],
+            [
+              38.77468,
+              -75.09811
+            ],
+            [
+              38.77426,
+              -75.09781
+            ],
+            [
+              38.77408,
+              -75.09711
+            ],
+            [
+              38.77476,
+              -75.09508
+            ],
+            [
+              38.77564,
+              -75.09544
+            ],
+            [
+              38.77557,
+              -75.09374
+            ],
+            [
+              38.77675,
+              -75.0934
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rehoboth-beach-bandstand",
       "name": "Rehoboth Beach Bandstand",
-      "lat": 38.7195,
-      "lng": -75.0765,
+      "lat": 38.71663,
+      "lng": -75.07653,
       "radiusM": 100,
       "address": "Rehoboth Ave, Rehoboth Beach, DE",
       "howTo": "Visit the Rehoboth Beach Bandstand.",
-      "badge": "badges/rehoboth-beach-bandstand.png"
+      "badge": "badges/rehoboth-beach-bandstand.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.71668,
+              -75.07657
+            ],
+            [
+              38.71669,
+              -75.07651
+            ],
+            [
+              38.71666,
+              -75.07645
+            ],
+            [
+              38.71661,
+              -75.07645
+            ],
+            [
+              38.71657,
+              -75.07649
+            ],
+            [
+              38.71657,
+              -75.07655
+            ],
+            [
+              38.71659,
+              -75.0766
+            ],
+            [
+              38.71665,
+              -75.07661
+            ],
+            [
+              38.71668,
+              -75.07657
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

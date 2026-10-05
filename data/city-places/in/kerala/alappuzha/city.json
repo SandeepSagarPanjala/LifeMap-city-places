@@ -12,7 +12,7 @@
     "maxLat": 9.52,
     "maxLng": 76.35
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:29:51.000Z",
   "status": "complete",
   "places": [
     {
@@ -38,12 +38,39 @@
     {
       "id": "mullakkal-temple",
       "name": "Mullakkal Rajarajeswari Temple",
-      "lat": 9.4985,
-      "lng": 76.338,
+      "lat": 9.50022,
+      "lng": 76.33992,
       "radiusM": 100,
       "address": "Mullakkal, Alappuzha, KL",
       "howTo": "Visit Mullakkal Rajarajeswari Temple.",
-      "badge": "badges/mullakkal-temple.png"
+      "badge": "badges/mullakkal-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.50034,
+              76.33981
+            ],
+            [
+              9.50012,
+              76.3398
+            ],
+            [
+              9.5001,
+              76.34003
+            ],
+            [
+              9.50033,
+              76.34004
+            ],
+            [
+              9.50034,
+              76.33981
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "punnamada-lake",

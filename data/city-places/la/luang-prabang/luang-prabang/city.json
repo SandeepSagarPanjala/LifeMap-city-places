@@ -12,7 +12,7 @@
     "maxLat": 19.9,
     "maxLng": 102.146
   },
-  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "updatedAt": "2026-10-02T18:47:15.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 80,
       "address": "Luang Prabang",
       "howTo": "Visit Wat Xieng Thong.",
-      "badge": "badges/wat-xieng-thong.png"
+      "badge": "badges/wat-xieng-thong.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.89759,
+              102.14246
+            ],
+            [
+              19.89694,
+              102.14298
+            ],
+            [
+              19.89732,
+              102.14384
+            ],
+            [
+              19.89801,
+              102.1434
+            ],
+            [
+              19.89785,
+              102.14297
+            ],
+            [
+              19.89759,
+              102.14246
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-phousi",

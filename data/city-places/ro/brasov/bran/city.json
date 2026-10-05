@@ -12,28 +12,106 @@
     "maxLat": 45.595,
     "maxLng": 25.465
   },
-  "updatedAt": "2026-08-18T01:55:21.000Z",
+  "updatedAt": "2026-10-02T19:34:13.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bran-castle",
       "name": "Bran Castle",
-      "lat": 45.5156,
-      "lng": 25.3672,
+      "lat": 45.51503,
+      "lng": 25.36707,
       "radiusM": 120,
       "address": "Bran",
       "howTo": "Visit Bran Castle.",
-      "badge": "badges/bran-castle.png"
+      "badge": "badges/bran-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.51492,
+              25.36729
+            ],
+            [
+              45.51503,
+              25.36741
+            ],
+            [
+              45.51526,
+              25.36704
+            ],
+            [
+              45.51516,
+              25.36679
+            ],
+            [
+              45.5151,
+              25.3668
+            ],
+            [
+              45.51503,
+              25.3669
+            ],
+            [
+              45.51499,
+              25.36703
+            ],
+            [
+              45.51496,
+              25.36703
+            ],
+            [
+              45.5149,
+              25.36716
+            ],
+            [
+              45.51495,
+              25.36723
+            ],
+            [
+              45.51492,
+              25.36729
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rasnov-citadel",
       "name": "Rasnov Citadel",
-      "lat": 45.591,
-      "lng": 25.461,
+      "lat": 45.59218,
+      "lng": 25.45849,
       "radiusM": 150,
       "address": "Rasnov",
       "howTo": "Visit Rasnov Citadel.",
-      "badge": "badges/rasnov-citadel.png"
+      "badge": "badges/rasnov-citadel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.59235,
+              25.45838
+            ],
+            [
+              45.59202,
+              25.45837
+            ],
+            [
+              45.59202,
+              25.4586
+            ],
+            [
+              45.59234,
+              25.45862
+            ],
+            [
+              45.59235,
+              25.45838
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

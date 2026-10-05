@@ -12,28 +12,130 @@
     "maxLat": 32.66,
     "maxLng": -16.9
   },
-  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "updatedAt": "2026-10-02T23:30:11.000Z",
   "status": "complete",
   "places": [
     {
       "id": "funchal-cathedral",
       "name": "Funchal Cathedral",
-      "lat": 32.6495,
-      "lng": -16.9085,
+      "lat": 32.6492,
+      "lng": -16.90883,
       "radiusM": 80,
       "address": "S\u00e9 do Funchal",
       "howTo": "Visit Funchal Cathedral.",
-      "badge": "badges/funchal-cathedral.png"
+      "badge": "badges/funchal-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.64926,
+              -16.90882
+            ],
+            [
+              32.64921,
+              -16.90892
+            ],
+            [
+              32.64913,
+              -16.90886
+            ],
+            [
+              32.64917,
+              -16.90879
+            ],
+            [
+              32.64922,
+              -16.90882
+            ],
+            [
+              32.64923,
+              -16.90879
+            ],
+            [
+              32.64926,
+              -16.90882
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "monte-palace-garden",
       "name": "Monte Palace Tropical Garden",
-      "lat": 32.6765,
-      "lng": -16.9025,
+      "lat": 32.674,
+      "lng": -16.90256,
       "radiusM": 200,
       "address": "Monte Palace",
       "howTo": "Visit Monte Palace Tropical Garden.",
-      "badge": "badges/monte-palace-garden.png"
+      "badge": "badges/monte-palace-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.67238,
+              -16.90449
+            ],
+            [
+              32.67233,
+              -16.90437
+            ],
+            [
+              32.67299,
+              -16.90253
+            ],
+            [
+              32.67253,
+              -16.90222
+            ],
+            [
+              32.67254,
+              -16.9019
+            ],
+            [
+              32.67543,
+              -16.90052
+            ],
+            [
+              32.67558,
+              -16.90053
+            ],
+            [
+              32.67608,
+              -16.90105
+            ],
+            [
+              32.67525,
+              -16.90176
+            ],
+            [
+              32.67497,
+              -16.90242
+            ],
+            [
+              32.67463,
+              -16.90241
+            ],
+            [
+              32.67457,
+              -16.90375
+            ],
+            [
+              32.67367,
+              -16.90381
+            ],
+            [
+              32.67311,
+              -16.9041
+            ],
+            [
+              32.67238,
+              -16.90449
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cable-car-funchal",
@@ -48,12 +150,79 @@
     {
       "id": "mercado-dos-lavradores",
       "name": "Mercado dos Lavradores",
-      "lat": 32.6485,
-      "lng": -16.9065,
+      "lat": 32.64862,
+      "lng": -16.90391,
       "radiusM": 100,
       "address": "Farmers Market",
       "howTo": "Visit Mercado dos Lavradores.",
-      "badge": "badges/mercado-dos-lavradores.png"
+      "badge": "badges/mercado-dos-lavradores.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.64841,
+              -16.90412
+            ],
+            [
+              32.64843,
+              -16.90419
+            ],
+            [
+              32.64848,
+              -16.90421
+            ],
+            [
+              32.64853,
+              -16.90417
+            ],
+            [
+              32.64855,
+              -16.90405
+            ],
+            [
+              32.64861,
+              -16.90405
+            ],
+            [
+              32.64861,
+              -16.90411
+            ],
+            [
+              32.64866,
+              -16.90412
+            ],
+            [
+              32.64867,
+              -16.90406
+            ],
+            [
+              32.64878,
+              -16.90408
+            ],
+            [
+              32.64899,
+              -16.90341
+            ],
+            [
+              32.64896,
+              -16.90337
+            ],
+            [
+              32.64853,
+              -16.90336
+            ],
+            [
+              32.6485,
+              -16.9034
+            ],
+            [
+              32.64841,
+              -16.90412
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

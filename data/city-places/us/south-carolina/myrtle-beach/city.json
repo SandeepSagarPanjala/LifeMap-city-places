@@ -12,18 +12,61 @@
     "maxLat": 33.75,
     "maxLng": -78.82
   },
-  "updatedAt": "2026-08-11T13:49:28.000Z",
+  "updatedAt": "2026-10-02T21:30:53.000Z",
   "status": "complete",
   "places": [
     {
       "id": "myrtle-beach-boardwalk",
       "name": "Myrtle Beach Boardwalk",
-      "lat": 33.6905,
-      "lng": -78.8855,
+      "lat": 33.68798,
+      "lng": -78.88338,
       "radiusM": 300,
       "address": "Boardwalk, Myrtle Beach, SC",
       "howTo": "Walk the Myrtle Beach Boardwalk.",
-      "badge": "badges/myrtle-beach-boardwalk.png"
+      "badge": "badges/myrtle-beach-boardwalk.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.68821,
+              -78.88327
+            ],
+            [
+              33.6881,
+              -78.88337
+            ],
+            [
+              33.68806,
+              -78.88331
+            ],
+            [
+              33.6879,
+              -78.88346
+            ],
+            [
+              33.68797,
+              -78.88355
+            ],
+            [
+              33.68785,
+              -78.88367
+            ],
+            [
+              33.68767,
+              -78.88339
+            ],
+            [
+              33.68804,
+              -78.88303
+            ],
+            [
+              33.68821,
+              -78.88327
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "myrtle-beach-state-park",
@@ -33,17 +76,91 @@
       "radiusM": 300,
       "address": "4401 S Kings Hwy, Myrtle Beach, SC",
       "howTo": "Visit Myrtle Beach State Park.",
-      "badge": "badges/myrtle-beach-state-park.png"
+      "badge": "badges/myrtle-beach-state-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.64324,
+              -78.93516
+            ],
+            [
+              33.64754,
+              -78.94036
+            ],
+            [
+              33.65858,
+              -78.92734
+            ],
+            [
+              33.65864,
+              -78.92691
+            ],
+            [
+              33.65411,
+              -78.92142
+            ],
+            [
+              33.64917,
+              -78.92699
+            ],
+            [
+              33.64545,
+              -78.93165
+            ],
+            [
+              33.64284,
+              -78.93458
+            ],
+            [
+              33.64303,
+              -78.93493
+            ],
+            [
+              33.64324,
+              -78.93516
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "skywheel",
       "name": "SkyWheel Myrtle Beach",
-      "lat": 33.6925,
-      "lng": -78.8785,
+      "lat": 33.69385,
+      "lng": -78.87736,
       "radiusM": 120,
       "address": "1110 Celebrity Cir, Myrtle Beach, SC",
       "howTo": "Visit the SkyWheel.",
-      "badge": "badges/skywheel.png"
+      "badge": "badges/skywheel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.69414,
+              -78.87745
+            ],
+            [
+              33.69389,
+              -78.87773
+            ],
+            [
+              33.69356,
+              -78.87729
+            ],
+            [
+              33.69382,
+              -78.87698
+            ],
+            [
+              33.69414,
+              -78.87745
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "myrtle-beach-pier",

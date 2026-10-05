@@ -12,7 +12,7 @@
     "maxLat": 46.69,
     "maxLng": 7.88
   },
-  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "updatedAt": "2026-10-03T00:40:53.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,71 @@
     {
       "id": "hohenmatte",
       "name": "H\u00f6heweg / H\u00f6hematte",
-      "lat": 46.6865,
-      "lng": 7.8635,
+      "lat": 46.68581,
+      "lng": 7.85882,
       "radiusM": 200,
       "address": "H\u00f6heweg promenade",
       "howTo": "Visit H\u00f6heweg / H\u00f6hematte.",
-      "badge": "badges/hohenmatte.png"
+      "badge": "badges/hohenmatte.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.68586,
+              7.85685
+            ],
+            [
+              46.68581,
+              7.85675
+            ],
+            [
+              46.6854,
+              7.85698
+            ],
+            [
+              46.68534,
+              7.85686
+            ],
+            [
+              46.68491,
+              7.85712
+            ],
+            [
+              46.68475,
+              7.85694
+            ],
+            [
+              46.68421,
+              7.85771
+            ],
+            [
+              46.68471,
+              7.86122
+            ],
+            [
+              46.68638,
+              7.86316
+            ],
+            [
+              46.68785,
+              7.86221
+            ],
+            [
+              46.68801,
+              7.86189
+            ],
+            [
+              46.6865,
+              7.85812
+            ],
+            [
+              46.68586,
+              7.85685
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lake-brienz-view",

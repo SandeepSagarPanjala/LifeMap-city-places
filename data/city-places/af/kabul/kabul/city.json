@@ -12,7 +12,7 @@
     "maxLat": 34.5075,
     "maxLng": 69.163
   },
-  "updatedAt": "2026-08-20T11:35:43.000Z",
+  "updatedAt": "2026-09-30T23:26:52.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,108 @@
       "radiusM": 80,
       "address": "Kabul",
       "howTo": "Visit Bagh-e Babur.",
-      "badge": "badges/bagh-e-babur.png"
+      "badge": "badges/bagh-e-babur.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.50101,
+              69.1569
+            ],
+            [
+              34.50169,
+              69.16084
+            ],
+            [
+              34.50267,
+              69.16054
+            ],
+            [
+              34.50277,
+              69.16101
+            ],
+            [
+              34.50372,
+              69.16066
+            ],
+            [
+              34.50353,
+              69.15995
+            ],
+            [
+              34.50422,
+              69.15968
+            ],
+            [
+              34.50357,
+              69.15595
+            ],
+            [
+              34.50254,
+              69.15623
+            ],
+            [
+              34.50249,
+              69.15599
+            ],
+            [
+              34.50153,
+              69.15618
+            ],
+            [
+              34.50113,
+              69.15638
+            ],
+            [
+              34.501,
+              69.15674
+            ],
+            [
+              34.50101,
+              69.1569
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "babur-terraces",
       "name": "Babur Garden Terraces",
-      "lat": 34.5045,
-      "lng": 69.16,
+      "lat": 34.50315,
+      "lng": 69.16044,
       "radiusM": 80,
       "address": "Kabul",
       "howTo": "Visit the terraces of Bagh-e Babur.",
-      "badge": "badges/babur-terraces.png"
+      "badge": "badges/babur-terraces.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.50317,
+              69.1604
+            ],
+            [
+              34.50312,
+              69.16041
+            ],
+            [
+              34.50314,
+              69.16047
+            ],
+            [
+              34.50318,
+              69.16046
+            ],
+            [
+              34.50317,
+              69.1604
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     }
   ]
 }

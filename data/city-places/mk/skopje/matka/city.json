@@ -12,18 +12,45 @@
     "maxLat": 41.958,
     "maxLng": 21.305
   },
-  "updatedAt": "2026-08-18T03:21:43.000Z",
+  "updatedAt": "2026-10-03T00:48:58.000Z",
   "status": "complete",
   "places": [
     {
       "id": "matka-canyon",
       "name": "Matka Canyon",
-      "lat": 41.9525,
-      "lng": 21.2983,
+      "lat": 41.95028,
+      "lng": 21.29918,
       "radiusM": 250,
       "address": "Saraj",
       "howTo": "Visit Matka Canyon.",
-      "badge": "badges/matka-canyon.png"
+      "badge": "badges/matka-canyon.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.95038,
+              21.29911
+            ],
+            [
+              41.95017,
+              21.29913
+            ],
+            [
+              41.95018,
+              21.29925
+            ],
+            [
+              41.95038,
+              21.29923
+            ],
+            [
+              41.95038,
+              21.29911
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,142 @@
     "maxLat": 64.9,
     "maxLng": -147.65
   },
-  "updatedAt": "2026-08-10T09:44:53.000Z",
+  "updatedAt": "2026-10-02T20:15:08.000Z",
   "status": "complete",
   "places": [
     {
       "id": "museum-of-the-north",
       "name": "Museum of the North",
-      "lat": 64.85847,
-      "lng": -147.84243,
+      "lat": 64.85926,
+      "lng": -147.84196,
       "radiusM": 150,
       "address": "1962 Yukon Dr, Fairbanks, AK",
       "howTo": "Visit the University of Alaska Museum of the North.",
-      "badge": "badges/museum-of-the-north.png"
+      "badge": "badges/museum-of-the-north.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.85922,
+              -147.84358
+            ],
+            [
+              64.85882,
+              -147.84357
+            ],
+            [
+              64.85882,
+              -147.84071
+            ],
+            [
+              64.85957,
+              -147.84008
+            ],
+            [
+              64.85962,
+              -147.84065
+            ],
+            [
+              64.85962,
+              -147.84219
+            ],
+            [
+              64.85922,
+              -147.84219
+            ],
+            [
+              64.85922,
+              -147.84273
+            ],
+            [
+              64.85922,
+              -147.84358
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pioneer-park",
       "name": "Pioneer Park",
-      "lat": 64.83937,
-      "lng": -147.77425,
+      "lat": 64.83948,
+      "lng": -147.77511,
       "radiusM": 300,
       "address": "2300 Airport Way, Fairbanks, AK",
       "howTo": "Visit Pioneer Park.",
-      "badge": "badges/pioneer-park.png"
+      "badge": "badges/pioneer-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.83961,
+              -147.77543
+            ],
+            [
+              64.83966,
+              -147.77531
+            ],
+            [
+              64.83967,
+              -147.77504
+            ],
+            [
+              64.83964,
+              -147.77485
+            ],
+            [
+              64.83953,
+              -147.77468
+            ],
+            [
+              64.83944,
+              -147.77465
+            ],
+            [
+              64.83938,
+              -147.77471
+            ],
+            [
+              64.83939,
+              -147.77472
+            ],
+            [
+              64.83932,
+              -147.77489
+            ],
+            [
+              64.8393,
+              -147.77504
+            ],
+            [
+              64.83933,
+              -147.77535
+            ],
+            [
+              64.83937,
+              -147.77545
+            ],
+            [
+              64.83946,
+              -147.77555
+            ],
+            [
+              64.83955,
+              -147.77554
+            ],
+            [
+              64.83959,
+              -147.77548
+            ],
+            [
+              64.83961,
+              -147.77543
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "creamers-field",
@@ -53,7 +167,66 @@
       "radiusM": 200,
       "address": "117 W Tanana Dr, Fairbanks, AK",
       "howTo": "Visit the Georgeson Botanical Garden.",
-      "badge": "badges/georgeson-botanical-garden.png"
+      "badge": "badges/georgeson-botanical-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.85638,
+              -147.86127
+            ],
+            [
+              64.85666,
+              -147.86137
+            ],
+            [
+              64.85661,
+              -147.86013
+            ],
+            [
+              64.85689,
+              -147.86001
+            ],
+            [
+              64.85703,
+              -147.8595
+            ],
+            [
+              64.85713,
+              -147.85829
+            ],
+            [
+              64.85784,
+              -147.85499
+            ],
+            [
+              64.85711,
+              -147.85073
+            ],
+            [
+              64.85574,
+              -147.85072
+            ],
+            [
+              64.85589,
+              -147.86034
+            ],
+            [
+              64.85602,
+              -147.86096
+            ],
+            [
+              64.85625,
+              -147.86125
+            ],
+            [
+              64.85638,
+              -147.86127
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "morris-thompson-center",
@@ -63,7 +236,94 @@
       "radiusM": 150,
       "address": "101 Dunkel St, Fairbanks, AK",
       "howTo": "Visit the Morris Thompson Cultural & Visitors Center.",
-      "badge": "badges/morris-thompson-center.png"
+      "badge": "badges/morris-thompson-center.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.8461,
+              -147.71297
+            ],
+            [
+              64.84592,
+              -147.71294
+            ],
+            [
+              64.84587,
+              -147.71256
+            ],
+            [
+              64.84578,
+              -147.71255
+            ],
+            [
+              64.84567,
+              -147.71209
+            ],
+            [
+              64.84572,
+              -147.71162
+            ],
+            [
+              64.84581,
+              -147.71146
+            ],
+            [
+              64.84587,
+              -147.71146
+            ],
+            [
+              64.84584,
+              -147.71127
+            ],
+            [
+              64.84588,
+              -147.71121
+            ],
+            [
+              64.84588,
+              -147.71105
+            ],
+            [
+              64.84599,
+              -147.71104
+            ],
+            [
+              64.84599,
+              -147.71119
+            ],
+            [
+              64.84602,
+              -147.71119
+            ],
+            [
+              64.84604,
+              -147.71209
+            ],
+            [
+              64.8461,
+              -147.71209
+            ],
+            [
+              64.84612,
+              -147.71257
+            ],
+            [
+              64.84608,
+              -147.71257
+            ],
+            [
+              64.84609,
+              -147.71265
+            ],
+            [
+              64.8461,
+              -147.71297
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fountainhead-antique-auto-museum",
@@ -73,17 +333,79 @@
       "radiusM": 150,
       "address": "212 Wedgewood Dr, Fairbanks, AK",
       "howTo": "Visit the Fountainhead Antique Auto Museum.",
-      "badge": "badges/fountainhead-antique-auto-museum.png"
+      "badge": "badges/fountainhead-antique-auto-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.86082,
+              -147.71426
+            ],
+            [
+              64.86047,
+              -147.71421
+            ],
+            [
+              64.86049,
+              -147.71319
+            ],
+            [
+              64.86117,
+              -147.71329
+            ],
+            [
+              64.86116,
+              -147.71392
+            ],
+            [
+              64.86083,
+              -147.71387
+            ],
+            [
+              64.86082,
+              -147.71426
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "large-animal-research-station",
       "name": "Large Animal Research Station",
-      "lat": 64.88081,
-      "lng": -147.86882,
+      "lat": 64.87808,
+      "lng": -147.8674,
       "radiusM": 200,
       "address": "2220 Yankovich Rd, Fairbanks, AK",
       "howTo": "Visit the Large Animal Research Station.",
-      "badge": "badges/large-animal-research-station.png"
+      "badge": "badges/large-animal-research-station.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              64.87816,
+              -147.86862
+            ],
+            [
+              64.87816,
+              -147.8662
+            ],
+            [
+              64.878,
+              -147.86612
+            ],
+            [
+              64.878,
+              -147.86866
+            ],
+            [
+              64.87816,
+              -147.86862
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,114 @@
     "maxLat": 7.968,
     "maxLng": 80.765
   },
-  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "updatedAt": "2026-10-01T12:06:12.000Z",
   "status": "complete",
   "places": [
     {
       "id": "sigiriya",
       "name": "Sigiriya",
-      "lat": 7.957,
-      "lng": 80.7603,
+      "lat": 7.95702,
+      "lng": 80.75992,
       "radiusM": 200,
       "address": "Lion Rock",
       "howTo": "Visit Sigiriya.",
-      "badge": "badges/sigiriya.png"
+      "badge": "badges/sigiriya.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              7.95769,
+              80.76029
+            ],
+            [
+              7.9579,
+              80.76024
+            ],
+            [
+              7.95788,
+              80.76
+            ],
+            [
+              7.95753,
+              80.75988
+            ],
+            [
+              7.95727,
+              80.7595
+            ],
+            [
+              7.95706,
+              80.7594
+            ],
+            [
+              7.95601,
+              80.7594
+            ],
+            [
+              7.95574,
+              80.75962
+            ],
+            [
+              7.95603,
+              80.76022
+            ],
+            [
+              7.95674,
+              80.76033
+            ],
+            [
+              7.9574,
+              80.76023
+            ],
+            [
+              7.95769,
+              80.76029
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pidurangala",
       "name": "Pidurangala",
-      "lat": 7.9658,
-      "lng": 80.76,
+      "lat": 7.96979,
+      "lng": 80.76021,
       "radiusM": 150,
       "address": "Pidurangala Rock",
       "howTo": "Visit Pidurangala.",
-      "badge": "badges/pidurangala.png"
+      "badge": "badges/pidurangala.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              7.97013,
+              80.75974
+            ],
+            [
+              7.97039,
+              80.76092
+            ],
+            [
+              7.96924,
+              80.76104
+            ],
+            [
+              7.96907,
+              80.75975
+            ],
+            [
+              7.97012,
+              80.7596
+            ],
+            [
+              7.97013,
+              80.75974
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

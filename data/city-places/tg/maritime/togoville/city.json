@@ -12,7 +12,7 @@
     "maxLat": 6.239,
     "maxLng": 1.482
   },
-  "updatedAt": "2026-08-19T01:17:50.000Z",
+  "updatedAt": "2026-10-01T21:02:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "togo-shore",
       "name": "Lake Togo Shore",
-      "lat": 6.237,
-      "lng": 1.475,
+      "lat": 6.2323,
+      "lng": 1.47761,
       "radiusM": 120,
       "address": "Togoville",
       "howTo": "Visit Lake Togo Shore.",
-      "badge": "badges/togo-shore.png"
+      "badge": "badges/togo-shore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.2322,
+              1.47765
+            ],
+            [
+              6.23221,
+              1.47754
+            ],
+            [
+              6.2324,
+              1.47757
+            ],
+            [
+              6.23239,
+              1.47767
+            ],
+            [
+              6.2322,
+              1.47765
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,86 @@
     "maxLat": 34.78,
     "maxLng": 32.425
   },
-  "updatedAt": "2026-08-18T02:40:09.000Z",
+  "updatedAt": "2026-10-01T08:10:20.000Z",
   "status": "complete",
   "places": [
     {
       "id": "tombs-of-the-kings",
       "name": "Tombs of the Kings",
-      "lat": 34.775,
-      "lng": 32.40694,
+      "lat": 34.77479,
+      "lng": 32.407,
       "radiusM": 200,
       "address": "Kato Paphos",
       "howTo": "Visit Tombs of the Kings.",
-      "badge": "badges/tombs-of-the-kings.png"
+      "badge": "badges/tombs-of-the-kings.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.77481,
+              32.40707
+            ],
+            [
+              34.77475,
+              32.40705
+            ],
+            [
+              34.77477,
+              32.40694
+            ],
+            [
+              34.77484,
+              32.40696
+            ],
+            [
+              34.77481,
+              32.40707
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "paphos-castle",
       "name": "Paphos Castle",
-      "lat": 34.7536,
-      "lng": 32.4075,
+      "lat": 34.75366,
+      "lng": 32.40695,
       "radiusM": 80,
       "address": "Harbour",
       "howTo": "Visit Paphos Castle.",
-      "badge": "badges/paphos-castle.png"
+      "badge": "badges/paphos-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              34.75349,
+              32.40703
+            ],
+            [
+              34.75362,
+              32.40715
+            ],
+            [
+              34.75383,
+              32.40694
+            ],
+            [
+              34.75375,
+              32.40675
+            ],
+            [
+              34.75361,
+              32.40687
+            ],
+            [
+              34.75349,
+              32.40703
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "paphos-mosaics",

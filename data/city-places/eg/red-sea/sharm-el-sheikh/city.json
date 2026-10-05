@@ -12,7 +12,7 @@
     "maxLat": 27.92,
     "maxLng": 34.35
   },
-  "updatedAt": "2026-08-18T01:10:00.000Z",
+  "updatedAt": "2026-10-01T17:35:49.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,96 @@
     {
       "id": "naama-bay",
       "name": "Naama Bay",
-      "lat": 27.9135,
-      "lng": 34.3295,
+      "lat": 27.91509,
+      "lng": 34.33305,
       "radiusM": 200,
       "address": "Sharm el-Sheikh",
       "howTo": "Visit Naama Bay.",
-      "badge": "badges/naama-bay.png"
+      "badge": "badges/naama-bay.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.91489,
+              34.33367
+            ],
+            [
+              27.91512,
+              34.33357
+            ],
+            [
+              27.9154,
+              34.33354
+            ],
+            [
+              27.91533,
+              34.33322
+            ],
+            [
+              27.91522,
+              34.33306
+            ],
+            [
+              27.9152,
+              34.33241
+            ],
+            [
+              27.91512,
+              34.33212
+            ],
+            [
+              27.91467,
+              34.33238
+            ],
+            [
+              27.91488,
+              34.33351
+            ],
+            [
+              27.91489,
+              34.33367
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-sinai",
       "name": "Mount Sinai",
-      "lat": 28.5392,
-      "lng": 33.9753,
+      "lat": 28.5385,
+      "lng": 33.9751,
       "radiusM": 300,
       "address": "Sinai",
       "howTo": "Visit Mount Sinai.",
-      "badge": "badges/mount-sinai.png"
+      "badge": "badges/mount-sinai.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              28.53847,
+              33.97508
+            ],
+            [
+              28.53848,
+              33.97513
+            ],
+            [
+              28.53853,
+              33.97512
+            ],
+            [
+              28.53853,
+              33.97507
+            ],
+            [
+              28.53847,
+              33.97508
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

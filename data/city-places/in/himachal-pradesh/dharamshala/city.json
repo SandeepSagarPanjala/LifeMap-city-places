@@ -12,7 +12,7 @@
     "maxLat": 32.25,
     "maxLng": 76.35
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T10:23:47.000Z",
   "status": "complete",
   "places": [
     {
@@ -48,12 +48,59 @@
     {
       "id": "namgyal-monastery",
       "name": "Namgyal Monastery",
-      "lat": 32.236,
-      "lng": 76.324,
+      "lat": 32.23268,
+      "lng": 76.32451,
       "radiusM": 120,
       "address": "McLeod Ganj, Dharamshala, HP",
       "howTo": "Visit Namgyal Monastery.",
-      "badge": "badges/namgyal-monastery.png"
+      "badge": "badges/namgyal-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.23308,
+              76.32429
+            ],
+            [
+              32.23303,
+              76.3246
+            ],
+            [
+              32.23288,
+              76.3247
+            ],
+            [
+              32.23266,
+              76.32517
+            ],
+            [
+              32.23258,
+              76.32522
+            ],
+            [
+              32.23188,
+              76.32493
+            ],
+            [
+              32.23217,
+              76.32366
+            ],
+            [
+              32.23284,
+              76.32383
+            ],
+            [
+              32.23304,
+              76.3242
+            ],
+            [
+              32.23308,
+              76.32429
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,45 @@
     "maxLat": 31.5285,
     "maxLng": 35.1137
   },
-  "updatedAt": "2026-08-20T11:48:00.000Z",
+  "updatedAt": "2026-10-01T20:12:23.000Z",
   "status": "complete",
   "places": [
     {
       "id": "ibrahimi-mosque",
       "name": "Ibrahimi Mosque",
-      "lat": 31.5247,
-      "lng": 35.1107,
+      "lat": 31.52491,
+      "lng": 35.10986,
       "address": "Hebron",
       "howTo": "Visit the Ibrahimi Mosque (Cave of the Patriarchs).",
       "radiusM": 80,
-      "badge": "badges/ibrahimi-mosque.png"
+      "badge": "badges/ibrahimi-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              31.52501,
+              35.10984
+            ],
+            [
+              31.52489,
+              35.11
+            ],
+            [
+              31.5248,
+              35.10989
+            ],
+            [
+              31.52493,
+              35.10973
+            ],
+            [
+              31.52501,
+              35.10984
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "hebron-old-city",

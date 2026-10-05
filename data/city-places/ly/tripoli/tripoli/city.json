@@ -12,7 +12,7 @@
     "maxLat": 32.90293,
     "maxLng": 13.18028
   },
-  "updatedAt": "2026-08-20T11:03:35.000Z",
+  "updatedAt": "2026-10-02T23:13:55.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,35 @@
       "radiusM": 40,
       "address": "Tripoli Medina",
       "howTo": "Visit the Arch of Marcus Aurelius.",
-      "badge": "badges/marcus-aurelius.png"
+      "badge": "badges/marcus-aurelius.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.8999,
+              13.1759
+            ],
+            [
+              32.89999,
+              13.17584
+            ],
+            [
+              32.89996,
+              13.17575
+            ],
+            [
+              32.89986,
+              13.17581
+            ],
+            [
+              32.8999,
+              13.1759
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "medina",

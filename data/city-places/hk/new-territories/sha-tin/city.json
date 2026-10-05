@@ -12,7 +12,7 @@
     "maxLat": 22.39,
     "maxLng": 114.19
   },
-  "updatedAt": "2026-08-18T08:35:00.000Z",
+  "updatedAt": "2026-10-01T09:54:55.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,111 @@
       "radiusM": 150,
       "address": "Sha Tin",
       "howTo": "Visit Ten Thousand Buddhas Monastery.",
-      "badge": "badges/ten-thousand-buddhas.png"
+      "badge": "badges/ten-thousand-buddhas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.38699,
+              114.18472
+            ],
+            [
+              22.38694,
+              114.18488
+            ],
+            [
+              22.38704,
+              114.18515
+            ],
+            [
+              22.38716,
+              114.18524
+            ],
+            [
+              22.38768,
+              114.18504
+            ],
+            [
+              22.38813,
+              114.18523
+            ],
+            [
+              22.38872,
+              114.186
+            ],
+            [
+              22.38901,
+              114.18576
+            ],
+            [
+              22.38809,
+              114.18467
+            ],
+            [
+              22.38783,
+              114.18481
+            ],
+            [
+              22.3877,
+              114.18447
+            ],
+            [
+              22.38699,
+              114.18472
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "che-kung-temple",
       "name": "Che Kung Temple",
-      "lat": 22.373,
-      "lng": 114.1863,
+      "lat": 22.37336,
+      "lng": 114.18308,
       "radiusM": 100,
       "address": "Sha Tin",
       "howTo": "Visit Che Kung Temple.",
-      "badge": "badges/che-kung-temple.png"
+      "badge": "badges/che-kung-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.37346,
+              114.18245
+            ],
+            [
+              22.37297,
+              114.18284
+            ],
+            [
+              22.37316,
+              114.18326
+            ],
+            [
+              22.37326,
+              114.18332
+            ],
+            [
+              22.37339,
+              114.18331
+            ],
+            [
+              22.37344,
+              114.18335
+            ],
+            [
+              22.37385,
+              114.18303
+            ],
+            [
+              22.37346,
+              114.18245
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

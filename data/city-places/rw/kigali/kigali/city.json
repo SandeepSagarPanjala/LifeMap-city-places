@@ -12,7 +12,7 @@
     "maxLat": -1.943,
     "maxLng": 30.098
   },
-  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "updatedAt": "2026-10-01T20:27:36.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,38 @@
       "radiusM": 80,
       "address": "Kigali",
       "howTo": "Visit Kigali Convention Centre.",
-      "badge": "badges/kigali-convention-centre.png"
+      "badge": "badges/kigali-convention-centre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -1.95413,
+              30.09347
+            ],
+            [
+              -1.95454,
+              30.09519
+            ],
+            [
+              -1.95529,
+              30.09503
+            ],
+            [
+              -1.95489,
+              30.09332
+            ],
+            [
+              -1.95451,
+              30.09339
+            ],
+            [
+              -1.95413,
+              30.09347
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

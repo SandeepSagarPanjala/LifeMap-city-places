@@ -12,28 +12,122 @@
     "maxLat": 36.22,
     "maxLng": -86.72
   },
-  "updatedAt": "2026-08-11T13:50:11.000Z",
+  "updatedAt": "2026-10-02T21:34:48.000Z",
   "status": "complete",
   "places": [
     {
       "id": "country-music-hall-of-fame",
       "name": "Country Music Hall of Fame and Museum",
-      "lat": 36.1585,
-      "lng": -86.7765,
+      "lat": 36.1583,
+      "lng": -86.77615,
       "radiusM": 150,
       "address": "222 Rep. John Lewis Way S, Nashville, TN",
       "howTo": "Visit the Country Music Hall of Fame.",
-      "badge": "badges/country-music-hall-of-fame.png"
+      "badge": "badges/country-music-hall-of-fame.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.15835,
+              -86.77686
+            ],
+            [
+              36.15798,
+              -86.77661
+            ],
+            [
+              36.15802,
+              -86.77646
+            ],
+            [
+              36.15795,
+              -86.77663
+            ],
+            [
+              36.1576,
+              -86.7764
+            ],
+            [
+              36.15802,
+              -86.77534
+            ],
+            [
+              36.15834,
+              -86.77556
+            ],
+            [
+              36.15831,
+              -86.77562
+            ],
+            [
+              36.15852,
+              -86.77586
+            ],
+            [
+              36.15859,
+              -86.77581
+            ],
+            [
+              36.15877,
+              -86.77596
+            ],
+            [
+              36.15875,
+              -86.77612
+            ],
+            [
+              36.15859,
+              -86.77617
+            ],
+            [
+              36.15834,
+              -86.77676
+            ],
+            [
+              36.15835,
+              -86.77686
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ryman-auditorium",
       "name": "Ryman Auditorium",
-      "lat": 36.1612,
-      "lng": -86.7785,
+      "lat": 36.16434,
+      "lng": -86.78375,
       "radiusM": 120,
       "address": "116 5th Ave N, Nashville, TN",
       "howTo": "Visit the Ryman Auditorium.",
-      "badge": "badges/ryman-auditorium.png"
+      "badge": "badges/ryman-auditorium.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.16489,
+              -86.78388
+            ],
+            [
+              36.16395,
+              -86.78328
+            ],
+            [
+              36.1638,
+              -86.78362
+            ],
+            [
+              36.16474,
+              -86.78423
+            ],
+            [
+              36.16489,
+              -86.78388
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "the-parthenon",
@@ -43,17 +137,71 @@
       "radiusM": 150,
       "address": "2500 West End Ave, Nashville, TN",
       "howTo": "Visit The Parthenon in Centennial Park.",
-      "badge": "badges/the-parthenon.png"
+      "badge": "badges/the-parthenon.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.15004,
+              -86.8131
+            ],
+            [
+              36.1498,
+              -86.8129
+            ],
+            [
+              36.14939,
+              -86.81366
+            ],
+            [
+              36.14963,
+              -86.81387
+            ],
+            [
+              36.15004,
+              -86.8131
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tennessee-state-capitol",
       "name": "Tennessee State Capitol",
-      "lat": 36.1659,
-      "lng": -86.784,
+      "lat": 36.16827,
+      "lng": -86.78429,
       "radiusM": 150,
       "address": "600 Charlotte Ave, Nashville, TN",
       "howTo": "Visit the Tennessee State Capitol.",
-      "badge": "badges/tennessee-state-capitol.png"
+      "badge": "badges/tennessee-state-capitol.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.16829,
+              -86.78465
+            ],
+            [
+              36.16812,
+              -86.7846
+            ],
+            [
+              36.16825,
+              -86.78393
+            ],
+            [
+              36.16842,
+              -86.78398
+            ],
+            [
+              36.16829,
+              -86.78465
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "centennial-park",
@@ -63,17 +211,135 @@
       "radiusM": 250,
       "address": "2500 West End Ave, Nashville, TN",
       "howTo": "Visit Centennial Park.",
-      "badge": "badges/centennial-park.png"
+      "badge": "badges/centennial-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.15402,
+              -86.81257
+            ],
+            [
+              36.14991,
+              -86.81775
+            ],
+            [
+              36.14897,
+              -86.81645
+            ],
+            [
+              36.14819,
+              -86.81611
+            ],
+            [
+              36.14869,
+              -86.81508
+            ],
+            [
+              36.14634,
+              -86.81327
+            ],
+            [
+              36.14678,
+              -86.81236
+            ],
+            [
+              36.14566,
+              -86.81146
+            ],
+            [
+              36.14693,
+              -86.80884
+            ],
+            [
+              36.14727,
+              -86.80869
+            ],
+            [
+              36.14713,
+              -86.80889
+            ],
+            [
+              36.1473,
+              -86.80913
+            ],
+            [
+              36.14743,
+              -86.80918
+            ],
+            [
+              36.14774,
+              -86.80879
+            ],
+            [
+              36.15065,
+              -86.81104
+            ],
+            [
+              36.15289,
+              -86.81237
+            ],
+            [
+              36.15386,
+              -86.8123
+            ],
+            [
+              36.15402,
+              -86.81239
+            ],
+            [
+              36.15403,
+              -86.81255
+            ],
+            [
+              36.15402,
+              -86.81257
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "broadway-nashville",
       "name": "Broadway",
-      "lat": 36.1605,
-      "lng": -86.778,
+      "lat": 36.16106,
+      "lng": -86.77791,
       "radiusM": 200,
       "address": "Broadway, Nashville, TN",
       "howTo": "Walk Broadway in Nashville.",
-      "badge": "badges/broadway-nashville.png"
+      "badge": "badges/broadway-nashville.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.16125,
+              -86.77797
+            ],
+            [
+              36.1612,
+              -86.77809
+            ],
+            [
+              36.16089,
+              -86.77789
+            ],
+            [
+              36.16094,
+              -86.77777
+            ],
+            [
+              36.16101,
+              -86.77781
+            ],
+            [
+              36.16125,
+              -86.77797
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

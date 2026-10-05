@@ -12,18 +12,61 @@
     "maxLat": 41.658,
     "maxLng": 41.653
   },
-  "updatedAt": "2026-08-18T03:05:24.000Z",
+  "updatedAt": "2026-10-01T09:32:15.000Z",
   "status": "complete",
   "places": [
     {
       "id": "batumi-boulevard",
       "name": "Batumi Boulevard",
-      "lat": 41.6515,
-      "lng": 41.636,
+      "lat": 41.65181,
+      "lng": 41.63377,
       "radiusM": 250,
       "address": "Batumi",
       "howTo": "Visit Batumi Boulevard.",
-      "badge": "badges/batumi-boulevard.png"
+      "badge": "badges/batumi-boulevard.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.65174,
+              41.63402
+            ],
+            [
+              41.652,
+              41.63386
+            ],
+            [
+              41.65191,
+              41.63362
+            ],
+            [
+              41.65181,
+              41.63368
+            ],
+            [
+              41.65182,
+              41.63372
+            ],
+            [
+              41.65177,
+              41.63375
+            ],
+            [
+              41.65175,
+              41.63372
+            ],
+            [
+              41.65166,
+              41.63377
+            ],
+            [
+              41.65174,
+              41.63402
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "alphabet-tower",

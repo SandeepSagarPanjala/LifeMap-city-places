@@ -12,38 +12,139 @@
     "maxLat": 40.21,
     "maxLng": -8.41
   },
-  "updatedAt": "2026-08-15T09:05:00.000Z",
+  "updatedAt": "2026-10-01T20:14:35.000Z",
   "status": "complete",
   "places": [
     {
       "id": "university-of-coimbra",
       "name": "University of Coimbra",
-      "lat": 40.2075,
-      "lng": -8.4255,
+      "lat": 40.20754,
+      "lng": -8.4256,
       "radiusM": 200,
       "address": "Universidade de Coimbra",
       "howTo": "Visit University of Coimbra.",
-      "badge": "badges/university-of-coimbra.png"
+      "badge": "badges/university-of-coimbra.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.20781,
+              -8.42575
+            ],
+            [
+              40.20783,
+              -8.42562
+            ],
+            [
+              40.20776,
+              -8.42559
+            ],
+            [
+              40.20705,
+              -8.42538
+            ],
+            [
+              40.20703,
+              -8.4255
+            ],
+            [
+              40.20777,
+              -8.42574
+            ],
+            [
+              40.20781,
+              -8.42575
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "joanina-library",
       "name": "Joanina Library",
-      "lat": 40.2075,
-      "lng": -8.4265,
+      "lat": 40.20714,
+      "lng": -8.42651,
       "radiusM": 60,
       "address": "Biblioteca Joanina",
       "howTo": "Visit Joanina Library.",
-      "badge": "badges/joanina-library.png"
+      "badge": "badges/joanina-library.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.20717,
+              -8.42675
+            ],
+            [
+              40.20701,
+              -8.42671
+            ],
+            [
+              40.20708,
+              -8.4263
+            ],
+            [
+              40.20724,
+              -8.42634
+            ],
+            [
+              40.20722,
+              -8.42646
+            ],
+            [
+              40.20717,
+              -8.42675
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "santa-cruz-monastery",
       "name": "Santa Cruz Monastery",
-      "lat": 40.2095,
-      "lng": -8.4295,
+      "lat": 40.21082,
+      "lng": -8.42874,
       "radiusM": 100,
       "address": "Mosteiro de Santa Cruz",
       "howTo": "Visit Santa Cruz Monastery.",
-      "badge": "badges/santa-cruz-monastery.png"
+      "badge": "badges/santa-cruz-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.21074,
+              -8.42888
+            ],
+            [
+              40.21086,
+              -8.42891
+            ],
+            [
+              40.21089,
+              -8.42864
+            ],
+            [
+              40.21084,
+              -8.42863
+            ],
+            [
+              40.21083,
+              -8.42871
+            ],
+            [
+              40.21076,
+              -8.42869
+            ],
+            [
+              40.21074,
+              -8.42888
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

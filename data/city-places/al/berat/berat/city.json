@@ -12,7 +12,7 @@
     "maxLat": 40.712,
     "maxLng": 19.957
   },
-  "updatedAt": "2026-08-18T03:13:36.000Z",
+  "updatedAt": "2026-09-30T23:26:57.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "mangalem",
       "name": "Mangalem",
-      "lat": 40.705,
-      "lng": 19.9495,
+      "lat": 40.70472,
+      "lng": 19.94839,
       "radiusM": 150,
       "address": "Berat",
       "howTo": "Visit Mangalem.",
-      "badge": "badges/mangalem.png"
+      "badge": "badges/mangalem.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.70475,
+              19.94831
+            ],
+            [
+              40.70479,
+              19.94845
+            ],
+            [
+              40.70471,
+              19.9485
+            ],
+            [
+              40.70467,
+              19.94839
+            ],
+            [
+              40.7047,
+              19.94836
+            ],
+            [
+              40.70469,
+              19.94831
+            ],
+            [
+              40.70475,
+              19.94831
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

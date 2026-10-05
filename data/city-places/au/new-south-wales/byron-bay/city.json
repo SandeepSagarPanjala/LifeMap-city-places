@@ -12,38 +12,171 @@
     "maxLat": -28.63,
     "maxLng": 153.64
   },
-  "updatedAt": "2026-08-13T21:50:00.000Z",
+  "updatedAt": "2026-10-01T04:06:06.000Z",
   "status": "complete",
   "places": [
     {
       "id": "cape-byron-lighthouse",
       "name": "Cape Byron Lighthouse",
-      "lat": -28.6385,
-      "lng": 153.6385,
+      "lat": -28.63855,
+      "lng": 153.63634,
       "radiusM": 100,
       "address": "Cape Byron Lightstation",
       "howTo": "Visit Cape Byron Lighthouse.",
-      "badge": "badges/cape-byron-lighthouse.png"
+      "badge": "badges/cape-byron-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -28.63861,
+              153.63636
+            ],
+            [
+              -28.63861,
+              153.63629
+            ],
+            [
+              -28.63853,
+              153.63628
+            ],
+            [
+              -28.63853,
+              153.6363
+            ],
+            [
+              -28.63849,
+              153.63631
+            ],
+            [
+              -28.6385,
+              153.63638
+            ],
+            [
+              -28.63855,
+              153.63637
+            ],
+            [
+              -28.63858,
+              153.6364
+            ],
+            [
+              -28.63861,
+              153.63636
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "main-beach-byron",
       "name": "Main Beach",
-      "lat": -28.6425,
-      "lng": 153.6155,
+      "lat": -28.64261,
+      "lng": 153.61636,
       "radiusM": 200,
       "address": "Main Beach Byron Bay",
       "howTo": "Visit Main Beach.",
-      "badge": "badges/main-beach-byron.png"
+      "badge": "badges/main-beach-byron.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -28.64253,
+              153.61623
+            ],
+            [
+              -28.64249,
+              153.61636
+            ],
+            [
+              -28.64262,
+              153.61641
+            ],
+            [
+              -28.64261,
+              153.61644
+            ],
+            [
+              -28.64267,
+              153.61647
+            ],
+            [
+              -28.64271,
+              153.61631
+            ],
+            [
+              -28.64266,
+              153.61628
+            ],
+            [
+              -28.64253,
+              153.61623
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "wategos-beach",
       "name": "Wategos Beach",
-      "lat": -28.6355,
-      "lng": 153.6345,
+      "lat": -28.63585,
+      "lng": 153.6346,
       "radiusM": 150,
       "address": "Wategos Beach",
       "howTo": "Visit Wategos Beach.",
-      "badge": "badges/wategos-beach.png"
+      "badge": "badges/wategos-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -28.63568,
+              153.63503
+            ],
+            [
+              -28.63643,
+              153.63421
+            ],
+            [
+              -28.63682,
+              153.63337
+            ],
+            [
+              -28.63669,
+              153.63252
+            ],
+            [
+              -28.6363,
+              153.63199
+            ],
+            [
+              -28.63626,
+              153.63306
+            ],
+            [
+              -28.63585,
+              153.63436
+            ],
+            [
+              -28.6346,
+              153.63545
+            ],
+            [
+              -28.63427,
+              153.63587
+            ],
+            [
+              -28.63563,
+              153.63509
+            ],
+            [
+              -28.63568,
+              153.63503
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 43.3,
     "maxLng": 68.274
   },
-  "updatedAt": "2026-08-18T23:47:54.000Z",
+  "updatedAt": "2026-10-02T18:46:33.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,103 @@
       "radiusM": 80,
       "address": "Turkestan",
       "howTo": "Visit Yasawi Mausoleum.",
-      "badge": "badges/yasawi-mausoleum.png"
+      "badge": "badges/yasawi-mausoleum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.29805,
+              68.2708
+            ],
+            [
+              43.29772,
+              68.27144
+            ],
+            [
+              43.29742,
+              68.27113
+            ],
+            [
+              43.29738,
+              68.27113
+            ],
+            [
+              43.29738,
+              68.27108
+            ],
+            [
+              43.29771,
+              68.27047
+            ],
+            [
+              43.29793,
+              68.27065
+            ],
+            [
+              43.29792,
+              68.27067
+            ],
+            [
+              43.29805,
+              68.2708
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "azret-sultan",
       "name": "Azret Sultan",
-      "lat": 43.29485,
-      "lng": 68.26806,
+      "lat": 43.29538,
+      "lng": 68.27458,
       "radiusM": 80,
       "address": "Turkestan",
       "howTo": "Visit Azret Sultan.",
-      "badge": "badges/azret-sultan.png"
+      "badge": "badges/azret-sultan.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.29504,
+              68.27483
+            ],
+            [
+              43.2953,
+              68.27501
+            ],
+            [
+              43.29537,
+              68.27481
+            ],
+            [
+              43.29541,
+              68.27483
+            ],
+            [
+              43.2955,
+              68.27457
+            ],
+            [
+              43.29545,
+              68.27453
+            ],
+            [
+              43.2956,
+              68.27413
+            ],
+            [
+              43.29534,
+              68.27396
+            ],
+            [
+              43.29504,
+              68.27483
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

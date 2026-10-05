@@ -12,18 +12,81 @@
     "maxLat": 19.81,
     "maxLng": -70.69
   },
-  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "updatedAt": "2026-10-01T08:32:09.000Z",
   "status": "complete",
   "places": [
     {
       "id": "fortaleza-san-felipe",
       "name": "Fortaleza San Felipe",
-      "lat": 19.804,
-      "lng": -70.695,
+      "lat": 19.80411,
+      "lng": -70.69576,
       "radiusM": 100,
       "address": "Malecon",
       "howTo": "Visit Fortaleza San Felipe.",
-      "badge": "badges/fortaleza-san-felipe.png"
+      "badge": "badges/fortaleza-san-felipe.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.80422,
+              -70.69565
+            ],
+            [
+              19.80392,
+              -70.69576
+            ],
+            [
+              19.80388,
+              -70.69573
+            ],
+            [
+              19.80385,
+              -70.69576
+            ],
+            [
+              19.80385,
+              -70.6958
+            ],
+            [
+              19.8039,
+              -70.69582
+            ],
+            [
+              19.80399,
+              -70.69611
+            ],
+            [
+              19.80438,
+              -70.69603
+            ],
+            [
+              19.80428,
+              -70.69569
+            ],
+            [
+              19.8043,
+              -70.69567
+            ],
+            [
+              19.8043,
+              -70.69562
+            ],
+            [
+              19.80427,
+              -70.6956
+            ],
+            [
+              19.80423,
+              -70.69562
+            ],
+            [
+              19.80422,
+              -70.69565
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "damajagua-waterfalls",

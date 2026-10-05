@@ -12,7 +12,7 @@
     "maxLat": 20.92,
     "maxLng": -156.65
   },
-  "updatedAt": "2026-08-11T00:28:30.000Z",
+  "updatedAt": "2026-10-03T01:01:30.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 150,
       "address": "Banyan Court, Lahaina, HI",
       "howTo": "Visit Banyan Tree Park (check current access during recovery).",
-      "badge": "badges/banyan-tree-park.png"
+      "badge": "badges/banyan-tree-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.87123,
+              -156.67776
+            ],
+            [
+              20.87194,
+              -156.67819
+            ],
+            [
+              20.87231,
+              -156.67759
+            ],
+            [
+              20.87158,
+              -156.67712
+            ],
+            [
+              20.87129,
+              -156.67766
+            ],
+            [
+              20.87123,
+              -156.67776
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lahaina-harbor",
@@ -33,7 +64,50 @@
       "radiusM": 200,
       "address": "Lahaina Harbor, Lahaina, HI",
       "howTo": "Visit Lahaina Harbor.",
-      "badge": "badges/lahaina-harbor.png"
+      "badge": "badges/lahaina-harbor.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.8713,
+              -156.67883
+            ],
+            [
+              20.86989,
+              -156.67803
+            ],
+            [
+              20.86986,
+              -156.6779
+            ],
+            [
+              20.87004,
+              -156.67754
+            ],
+            [
+              20.87083,
+              -156.67804
+            ],
+            [
+              20.87104,
+              -156.67801
+            ],
+            [
+              20.87174,
+              -156.67844
+            ],
+            [
+              20.87149,
+              -156.67894
+            ],
+            [
+              20.8713,
+              -156.67883
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "baldwin-home-museum",
@@ -53,7 +127,58 @@
       "radiusM": 150,
       "address": "648 Wharf St, Lahaina, HI",
       "howTo": "Visit the Old Lahaina Courthouse site.",
-      "badge": "badges/old-lahaina-courthouse.png"
+      "badge": "badges/old-lahaina-courthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.87179,
+              -156.67787
+            ],
+            [
+              20.87174,
+              -156.67783
+            ],
+            [
+              20.87174,
+              -156.67784
+            ],
+            [
+              20.8716,
+              -156.67776
+            ],
+            [
+              20.87153,
+              -156.67789
+            ],
+            [
+              20.87158,
+              -156.67792
+            ],
+            [
+              20.87157,
+              -156.67794
+            ],
+            [
+              20.87166,
+              -156.67799
+            ],
+            [
+              20.87167,
+              -156.67797
+            ],
+            [
+              20.87171,
+              -156.678
+            ],
+            [
+              20.87179,
+              -156.67787
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "baby-beach-lahaina",
@@ -63,7 +188,74 @@
       "radiusM": 200,
       "address": "Baby Beach, Lahaina, HI",
       "howTo": "Visit Baby Beach in Lahaina.",
-      "badge": "badges/baby-beach-lahaina.png"
+      "badge": "badges/baby-beach-lahaina.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.88016,
+              -156.68489
+            ],
+            [
+              20.8814,
+              -156.6869
+            ],
+            [
+              20.88205,
+              -156.68754
+            ],
+            [
+              20.88275,
+              -156.68767
+            ],
+            [
+              20.88311,
+              -156.68757
+            ],
+            [
+              20.88426,
+              -156.68676
+            ],
+            [
+              20.88449,
+              -156.68667
+            ],
+            [
+              20.88452,
+              -156.68678
+            ],
+            [
+              20.88334,
+              -156.68759
+            ],
+            [
+              20.88217,
+              -156.68785
+            ],
+            [
+              20.88177,
+              -156.68764
+            ],
+            [
+              20.88118,
+              -156.68684
+            ],
+            [
+              20.88049,
+              -156.68584
+            ],
+            [
+              20.8802,
+              -156.68519
+            ],
+            [
+              20.88016,
+              -156.68489
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jodo-mission",

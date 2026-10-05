@@ -12,7 +12,7 @@
     "maxLat": 33.273,
     "maxLng": 35.215
   },
-  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "updatedAt": "2026-10-01T12:04:28.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,46 @@
       "radiusM": 100,
       "address": "Tyre",
       "howTo": "Visit the Tyre Hippodrome.",
-      "badge": "badges/tyre-hippodrome.png"
+      "badge": "badges/tyre-hippodrome.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.27043,
+              35.20911
+            ],
+            [
+              33.26653,
+              35.20944
+            ],
+            [
+              33.26634,
+              35.20952
+            ],
+            [
+              33.26618,
+              35.20979
+            ],
+            [
+              33.26623,
+              35.21017
+            ],
+            [
+              33.26649,
+              35.21035
+            ],
+            [
+              33.27041,
+              35.21
+            ],
+            [
+              33.27043,
+              35.20911
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tyre-ruins",

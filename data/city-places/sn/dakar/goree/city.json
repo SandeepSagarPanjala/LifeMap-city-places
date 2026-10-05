@@ -12,7 +12,7 @@
     "maxLat": 14.669,
     "maxLng": -17.396
   },
-  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "updatedAt": "2026-10-02T19:44:40.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "radiusM": 40,
       "address": "Goree",
       "howTo": "Visit Maison des Esclaves.",
-      "badge": "badges/maison-des-esclaves.png"
+      "badge": "badges/maison-des-esclaves.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.66767,
+              -17.39716
+            ],
+            [
+              14.66751,
+              -17.39732
+            ],
+            [
+              14.66755,
+              -17.39738
+            ],
+            [
+              14.66763,
+              -17.39744
+            ],
+            [
+              14.66779,
+              -17.39728
+            ],
+            [
+              14.6677,
+              -17.39718
+            ],
+            [
+              14.66767,
+              -17.39716
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "goree-island",

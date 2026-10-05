@@ -12,18 +12,57 @@
     "maxLat": -12.27897,
     "maxLng": 43.74483
   },
-  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "updatedAt": "2026-10-01T18:53:43.000Z",
   "status": "complete",
   "places": [
     {
       "id": "fomboni-mosque",
       "name": "Grande Mosqu\u00e9e de Fomboni",
-      "lat": -12.28197,
-      "lng": 43.74183,
+      "lat": -12.28266,
+      "lng": 43.74083,
       "radiusM": 50,
       "address": "Fomboni",
       "howTo": "Visit Grande Mosqu\u00e9e de Fomboni.",
-      "badge": "badges/fomboni-mosque.png"
+      "badge": "badges/fomboni-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.28257,
+              43.74077
+            ],
+            [
+              -12.28275,
+              43.74071
+            ],
+            [
+              -12.28276,
+              43.74087
+            ],
+            [
+              -12.28268,
+              43.74089
+            ],
+            [
+              -12.28266,
+              43.74086
+            ],
+            [
+              -12.28262,
+              43.74088
+            ],
+            [
+              -12.28259,
+              43.74083
+            ],
+            [
+              -12.28257,
+              43.74077
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fomboni-square",
@@ -33,7 +72,46 @@
       "radiusM": 50,
       "address": "Fomboni",
       "howTo": "Visit Place de la Mosqu\u00e9e.",
-      "badge": "badges/fomboni-square.png"
+      "badge": "badges/fomboni-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -12.28257,
+              43.74077
+            ],
+            [
+              -12.28275,
+              43.74071
+            ],
+            [
+              -12.28276,
+              43.74087
+            ],
+            [
+              -12.28268,
+              43.74089
+            ],
+            [
+              -12.28266,
+              43.74086
+            ],
+            [
+              -12.28262,
+              43.74088
+            ],
+            [
+              -12.28259,
+              43.74083
+            ],
+            [
+              -12.28257,
+              43.74077
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

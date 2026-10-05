@@ -12,7 +12,7 @@
     "maxLat": -1.698,
     "maxLng": 29.27
   },
-  "updatedAt": "2026-08-18T23:36:33.000Z",
+  "updatedAt": "2026-10-02T23:33:46.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "gisenyi-beach",
       "name": "Gisenyi Beach",
-      "lat": -1.7,
-      "lng": 29.26,
+      "lat": -1.70189,
+      "lng": 29.25977,
       "radiusM": 120,
       "address": "Rubavu",
       "howTo": "Visit Gisenyi Beach.",
-      "badge": "badges/gisenyi-beach.png"
+      "badge": "badges/gisenyi-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -1.70189,
+              29.25988
+            ],
+            [
+              -1.70211,
+              29.25966
+            ],
+            [
+              -1.702,
+              29.25955
+            ],
+            [
+              -1.70181,
+              29.25973
+            ],
+            [
+              -1.70183,
+              29.25975
+            ],
+            [
+              -1.70176,
+              29.25982
+            ],
+            [
+              -1.70185,
+              29.2599
+            ],
+            [
+              -1.70188,
+              29.25987
+            ],
+            [
+              -1.70189,
+              29.25988
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

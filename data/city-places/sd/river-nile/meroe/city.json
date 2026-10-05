@@ -12,7 +12,7 @@
     "maxLat": 16.9385,
     "maxLng": 33.7335
   },
-  "updatedAt": "2026-08-20T10:48:46.000Z",
+  "updatedAt": "2026-10-02T19:40:16.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,79 @@
       "radiusM": 200,
       "address": "Shendi",
       "howTo": "Visit the Meroe Pyramids.",
-      "badge": "badges/meroe-pyramids.png"
+      "badge": "badges/meroe-pyramids.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.93299,
+              33.72578
+            ],
+            [
+              16.93089,
+              33.72939
+            ],
+            [
+              16.93216,
+              33.72996
+            ],
+            [
+              16.93355,
+              33.73038
+            ],
+            [
+              16.93431,
+              33.72804
+            ],
+            [
+              16.93437,
+              33.72655
+            ],
+            [
+              16.93299,
+              33.72578
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "meroe-field",
       "name": "Meroe Pyramid Field",
-      "lat": 16.9355,
-      "lng": 33.7305,
+      "lat": 16.9337,
+      "lng": 33.72899,
       "radiusM": 180,
       "address": "Shendi",
       "howTo": "Explore the Meroe pyramid field.",
-      "badge": "badges/meroe-field.png"
+      "badge": "badges/meroe-field.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.93366,
+              33.72901
+            ],
+            [
+              16.93367,
+              33.72895
+            ],
+            [
+              16.93373,
+              33.72896
+            ],
+            [
+              16.93372,
+              33.72902
+            ],
+            [
+              16.93366,
+              33.72901
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

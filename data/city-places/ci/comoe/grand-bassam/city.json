@@ -12,7 +12,7 @@
     "maxLat": 5.1975,
     "maxLng": -3.7325
   },
-  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "updatedAt": "2026-10-01T07:55:53.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,34 @@
       "radiusM": 50,
       "address": "Grand-Bassam",
       "howTo": "Visit Sacre-Coeur Cathedral.",
-      "badge": "badges/sacre-coeur.png"
+      "badge": "badges/sacre-coeur.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              5.19563,
+              -3.73404
+            ],
+            [
+              5.19573,
+              -3.73444
+            ],
+            [
+              5.19586,
+              -3.73441
+            ],
+            [
+              5.19576,
+              -3.73401
+            ],
+            [
+              5.19563,
+              -3.73404
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

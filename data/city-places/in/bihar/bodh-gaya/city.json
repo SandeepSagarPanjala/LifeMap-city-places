@@ -12,7 +12,7 @@
     "maxLat": 24.72,
     "maxLng": 85.02
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-02T18:24:32.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "radiusM": 150,
       "address": "Bodh Gaya, BR",
       "howTo": "Visit the Mahabodhi Temple.",
-      "badge": "badges/mahabodhi-temple.png"
+      "badge": "badges/mahabodhi-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              24.69606,
+              84.99123
+            ],
+            [
+              24.69581,
+              84.99121
+            ],
+            [
+              24.69579,
+              84.99153
+            ],
+            [
+              24.69587,
+              84.99153
+            ],
+            [
+              24.69587,
+              84.99156
+            ],
+            [
+              24.69604,
+              84.99155
+            ],
+            [
+              24.69606,
+              84.99123
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "great-buddha-statue",
@@ -38,12 +73,43 @@
     {
       "id": "thai-monastery",
       "name": "Thai Monastery",
-      "lat": 24.6945,
-      "lng": 84.9885,
+      "lat": 24.69316,
+      "lng": 84.9867,
       "radiusM": 120,
       "address": "Bodh Gaya, BR",
       "howTo": "Visit the Thai Monastery.",
-      "badge": "badges/thai-monastery.png"
+      "badge": "badges/thai-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              24.69328,
+              84.98657
+            ],
+            [
+              24.69319,
+              84.98671
+            ],
+            [
+              24.69314,
+              84.98687
+            ],
+            [
+              24.69306,
+              84.98684
+            ],
+            [
+              24.69315,
+              84.98652
+            ],
+            [
+              24.69328,
+              84.98657
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bodhi-tree",

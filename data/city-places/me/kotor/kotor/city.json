@@ -12,7 +12,7 @@
     "maxLat": 42.43,
     "maxLng": 18.775
   },
-  "updatedAt": "2026-08-18T03:09:30.000Z",
+  "updatedAt": "2026-10-01T12:28:49.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,51 @@
     {
       "id": "st-tryphons-cathedral",
       "name": "St Tryphon's Cathedral",
-      "lat": 42.4244,
-      "lng": 18.7719,
+      "lat": 42.42414,
+      "lng": 18.77157,
       "radiusM": 50,
       "address": "Kotor",
       "howTo": "Visit St Tryphon's Cathedral.",
-      "badge": "badges/st-tryphons-cathedral.png"
+      "badge": "badges/st-tryphons-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.42413,
+              18.77133
+            ],
+            [
+              42.42428,
+              18.77139
+            ],
+            [
+              42.4242,
+              18.77175
+            ],
+            [
+              42.42413,
+              18.77176
+            ],
+            [
+              42.4241,
+              18.7717
+            ],
+            [
+              42.42406,
+              18.77169
+            ],
+            [
+              42.42411,
+              18.77139
+            ],
+            [
+              42.42413,
+              18.77133
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "san-giovanni",

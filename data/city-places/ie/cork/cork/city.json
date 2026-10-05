@@ -12,28 +12,138 @@
     "maxLat": 51.91,
     "maxLng": -8.45
   },
-  "updatedAt": "2026-08-18T05:15:00.000Z",
+  "updatedAt": "2026-10-02T18:22:34.000Z",
   "status": "complete",
   "places": [
     {
       "id": "english-market-cork",
       "name": "English Market",
-      "lat": 51.897,
-      "lng": -8.474,
+      "lat": 51.89778,
+      "lng": -8.47406,
       "radiusM": 120,
       "address": "Princes Street",
       "howTo": "Visit English Market.",
-      "badge": "badges/english-market-cork.png"
+      "badge": "badges/english-market-cork.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.89763,
+              -8.47395
+            ],
+            [
+              51.89777,
+              -8.47402
+            ],
+            [
+              51.89784,
+              -8.47368
+            ],
+            [
+              51.89788,
+              -8.47371
+            ],
+            [
+              51.89791,
+              -8.47358
+            ],
+            [
+              51.89793,
+              -8.47359
+            ],
+            [
+              51.8979,
+              -8.47372
+            ],
+            [
+              51.89795,
+              -8.47374
+            ],
+            [
+              51.89794,
+              -8.47383
+            ],
+            [
+              51.89797,
+              -8.47385
+            ],
+            [
+              51.89773,
+              -8.475
+            ],
+            [
+              51.89753,
+              -8.4749
+            ],
+            [
+              51.89758,
+              -8.47469
+            ],
+            [
+              51.89749,
+              -8.47464
+            ],
+            [
+              51.89762,
+              -8.47399
+            ],
+            [
+              51.89763,
+              -8.47395
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "blarney-castle",
       "name": "Blarney Castle",
-      "lat": 51.929,
-      "lng": -8.571,
+      "lat": 51.92905,
+      "lng": -8.57079,
       "radiusM": 200,
       "address": "Blarney",
       "howTo": "Visit Blarney Castle.",
-      "badge": "badges/blarney-castle.png"
+      "badge": "badges/blarney-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.92916,
+              -8.57082
+            ],
+            [
+              51.92903,
+              -8.57076
+            ],
+            [
+              51.92906,
+              -8.57067
+            ],
+            [
+              51.92902,
+              -8.57064
+            ],
+            [
+              51.92898,
+              -8.57073
+            ],
+            [
+              51.92895,
+              -8.57092
+            ],
+            [
+              51.92914,
+              -8.571
+            ],
+            [
+              51.92916,
+              -8.57082
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

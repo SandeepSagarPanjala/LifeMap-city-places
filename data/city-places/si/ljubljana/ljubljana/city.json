@@ -12,7 +12,7 @@
     "maxLat": 46.056,
     "maxLng": 14.515
   },
-  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "updatedAt": "2026-10-01T20:39:34.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,172 @@
       "radiusM": 120,
       "address": "Grajska planota",
       "howTo": "Visit Ljubljana Castle.",
-      "badge": "badges/ljubljana-castle.png"
+      "badge": "badges/ljubljana-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.04863,
+              14.50793
+            ],
+            [
+              46.04858,
+              14.50786
+            ],
+            [
+              46.04842,
+              14.50797
+            ],
+            [
+              46.04844,
+              14.50837
+            ],
+            [
+              46.0485,
+              14.50835
+            ],
+            [
+              46.04851,
+              14.50861
+            ],
+            [
+              46.04855,
+              14.50874
+            ],
+            [
+              46.0485,
+              14.50879
+            ],
+            [
+              46.04849,
+              14.50889
+            ],
+            [
+              46.0486,
+              14.50887
+            ],
+            [
+              46.049,
+              14.50927
+            ],
+            [
+              46.04902,
+              14.50915
+            ],
+            [
+              46.04928,
+              14.50877
+            ],
+            [
+              46.04925,
+              14.50867
+            ],
+            [
+              46.04925,
+              14.50837
+            ],
+            [
+              46.04905,
+              14.508
+            ],
+            [
+              46.04899,
+              14.50807
+            ],
+            [
+              46.04864,
+              14.50798
+            ],
+            [
+              46.04863,
+              14.50793
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "triple-bridge",
       "name": "Triple Bridge",
-      "lat": 46.0511,
-      "lng": 14.5061,
+      "lat": 46.05113,
+      "lng": 14.50623,
       "radiusM": 80,
       "address": "Preseren Square",
       "howTo": "Visit Triple Bridge.",
-      "badge": "badges/triple-bridge.png"
+      "badge": "badges/triple-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.05101,
+              14.50636
+            ],
+            [
+              46.05097,
+              14.50624
+            ],
+            [
+              46.05124,
+              14.50607
+            ],
+            [
+              46.05127,
+              14.50619
+            ],
+            [
+              46.05114,
+              14.50628
+            ],
+            [
+              46.05101,
+              14.50636
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dragon-bridge",
       "name": "Dragon Bridge",
-      "lat": 46.0522,
-      "lng": 14.5103,
+      "lat": 46.05192,
+      "lng": 14.5104,
       "radiusM": 60,
       "address": "Ljubljana",
       "howTo": "Visit Dragon Bridge.",
-      "badge": "badges/dragon-bridge.png"
+      "badge": "badges/dragon-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.05178,
+              14.51037
+            ],
+            [
+              46.05179,
+              14.51058
+            ],
+            [
+              46.05212,
+              14.51045
+            ],
+            [
+              46.0521,
+              14.51023
+            ],
+            [
+              46.05182,
+              14.51035
+            ],
+            [
+              46.05178,
+              14.51037
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

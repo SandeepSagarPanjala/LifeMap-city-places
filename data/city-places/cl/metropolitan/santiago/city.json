@@ -12,48 +12,216 @@
     "maxLat": -33.42,
     "maxLng": -70.62
   },
-  "updatedAt": "2026-08-18T05:00:00.000Z",
+  "updatedAt": "2026-10-01T15:26:11.000Z",
   "status": "complete",
   "places": [
     {
       "id": "plaza-de-armas-santiago",
       "name": "Plaza de Armas Santiago",
-      "lat": -33.4372,
-      "lng": -70.6506,
+      "lat": -33.43714,
+      "lng": -70.65155,
       "radiusM": 150,
       "address": "Centro",
       "howTo": "Visit Plaza de Armas Santiago.",
-      "badge": "badges/plaza-de-armas-santiago.png"
+      "badge": "badges/plaza-de-armas-santiago.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.43701,
+              -70.65142
+            ],
+            [
+              -33.43724,
+              -70.65138
+            ],
+            [
+              -33.43728,
+              -70.65142
+            ],
+            [
+              -33.43731,
+              -70.65166
+            ],
+            [
+              -33.43707,
+              -70.6517
+            ],
+            [
+              -33.43707,
+              -70.65162
+            ],
+            [
+              -33.43703,
+              -70.65163
+            ],
+            [
+              -33.43701,
+              -70.65142
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "san-cristobal-hill",
       "name": "San Cristobal Hill",
-      "lat": -33.425,
-      "lng": -70.634,
+      "lat": -33.4253,
+      "lng": -70.63316,
       "radiusM": 300,
       "address": "Providencia",
       "howTo": "Visit San Cristobal Hill.",
-      "badge": "badges/san-cristobal-hill.png"
+      "badge": "badges/san-cristobal-hill.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.42528,
+              -70.63314
+            ],
+            [
+              -33.42532,
+              -70.63314
+            ],
+            [
+              -33.42532,
+              -70.63318
+            ],
+            [
+              -33.42529,
+              -70.6332
+            ],
+            [
+              -33.42528,
+              -70.63315
+            ],
+            [
+              -33.42528,
+              -70.63314
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "la-moneda-palace",
       "name": "La Moneda Palace",
-      "lat": -33.442,
-      "lng": -70.653,
+      "lat": -33.44275,
+      "lng": -70.65398,
       "radiusM": 120,
       "address": "Centro",
       "howTo": "Visit La Moneda Palace.",
-      "badge": "badges/la-moneda-palace.png"
+      "badge": "badges/la-moneda-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.44241,
+              -70.65448
+            ],
+            [
+              -33.44226,
+              -70.65339
+            ],
+            [
+              -33.44325,
+              -70.65323
+            ],
+            [
+              -33.44337,
+              -70.65433
+            ],
+            [
+              -33.44245,
+              -70.65447
+            ],
+            [
+              -33.44241,
+              -70.65448
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bellavista-santiago",
       "name": "Bellavista Neighborhood",
-      "lat": -33.43,
-      "lng": -70.635,
+      "lat": -33.43142,
+      "lng": -70.63466,
       "radiusM": 200,
       "address": "Bellavista",
       "howTo": "Visit Bellavista Neighborhood.",
-      "badge": "badges/bellavista-santiago.png"
+      "badge": "badges/bellavista-santiago.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.43174,
+              -70.63494
+            ],
+            [
+              -33.4317,
+              -70.63463
+            ],
+            [
+              -33.43162,
+              -70.63465
+            ],
+            [
+              -33.43157,
+              -70.63436
+            ],
+            [
+              -33.43143,
+              -70.63428
+            ],
+            [
+              -33.43142,
+              -70.63431
+            ],
+            [
+              -33.43134,
+              -70.63427
+            ],
+            [
+              -33.4313,
+              -70.63449
+            ],
+            [
+              -33.43117,
+              -70.6348
+            ],
+            [
+              -33.43127,
+              -70.63478
+            ],
+            [
+              -33.43128,
+              -70.6349
+            ],
+            [
+              -33.43116,
+              -70.63492
+            ],
+            [
+              -33.43119,
+              -70.63503
+            ],
+            [
+              -33.43168,
+              -70.63495
+            ],
+            [
+              -33.43174,
+              -70.63494
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

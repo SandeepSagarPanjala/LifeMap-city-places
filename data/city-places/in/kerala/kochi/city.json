@@ -12,38 +12,183 @@
     "maxLat": 10.02,
     "maxLng": 76.32
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:30:07.000Z",
   "status": "complete",
   "places": [
     {
       "id": "chinese-fishing-nets",
       "name": "Chinese Fishing Nets",
-      "lat": 9.9682,
-      "lng": 76.2422,
+      "lat": 9.96779,
+      "lng": 76.24204,
       "radiusM": 150,
       "address": "Fort Kochi, KL",
       "howTo": "See the Chinese Fishing Nets.",
-      "badge": "badges/chinese-fishing-nets.png"
+      "badge": "badges/chinese-fishing-nets.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.96774,
+              76.24179
+            ],
+            [
+              9.96762,
+              76.24212
+            ],
+            [
+              9.96785,
+              76.24227
+            ],
+            [
+              9.96797,
+              76.24196
+            ],
+            [
+              9.96774,
+              76.24179
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mattancherry-palace",
       "name": "Mattancherry Palace",
-      "lat": 9.9575,
-      "lng": 76.2595,
+      "lat": 9.95822,
+      "lng": 76.25886,
       "radiusM": 120,
       "address": "Mattancherry, Kochi, KL",
       "howTo": "Visit Mattancherry Palace.",
-      "badge": "badges/mattancherry-palace.png"
+      "badge": "badges/mattancherry-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.95758,
+              76.25918
+            ],
+            [
+              9.9577,
+              76.25993
+            ],
+            [
+              9.95934,
+              76.2597
+            ],
+            [
+              9.95933,
+              76.25912
+            ],
+            [
+              9.95914,
+              76.25912
+            ],
+            [
+              9.95914,
+              76.25849
+            ],
+            [
+              9.95792,
+              76.25851
+            ],
+            [
+              9.95791,
+              76.25806
+            ],
+            [
+              9.95773,
+              76.25804
+            ],
+            [
+              9.95776,
+              76.25859
+            ],
+            [
+              9.95754,
+              76.2586
+            ],
+            [
+              9.9576,
+              76.25903
+            ],
+            [
+              9.95758,
+              76.25918
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "santa-cruz-basilica",
       "name": "Santa Cruz Basilica",
-      "lat": 9.9645,
-      "lng": 76.2435,
+      "lat": 9.96482,
+      "lng": 76.24278,
       "radiusM": 120,
       "address": "Fort Kochi, KL",
       "howTo": "Visit Santa Cruz Basilica.",
-      "badge": "badges/santa-cruz-basilica.png"
+      "badge": "badges/santa-cruz-basilica.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.96473,
+              76.24258
+            ],
+            [
+              9.96462,
+              76.24271
+            ],
+            [
+              9.96473,
+              76.24282
+            ],
+            [
+              9.96471,
+              76.24284
+            ],
+            [
+              9.96475,
+              76.24288
+            ],
+            [
+              9.96477,
+              76.24284
+            ],
+            [
+              9.96495,
+              76.24301
+            ],
+            [
+              9.96507,
+              76.24289
+            ],
+            [
+              9.96489,
+              76.24272
+            ],
+            [
+              9.96491,
+              76.2427
+            ],
+            [
+              9.96487,
+              76.24266
+            ],
+            [
+              9.96485,
+              76.24269
+            ],
+            [
+              9.96473,
+              76.24258
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jew-town",
@@ -58,22 +203,88 @@
     {
       "id": "marine-drive-kochi",
       "name": "Marine Drive",
-      "lat": 9.9815,
-      "lng": 76.2755,
+      "lat": 9.98163,
+      "lng": 76.27456,
       "radiusM": 250,
       "address": "Marine Drive, Kochi, KL",
       "howTo": "Visit Marine Drive.",
-      "badge": "badges/marine-drive-kochi.png"
+      "badge": "badges/marine-drive-kochi.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.9828,
+              76.27432
+            ],
+            [
+              9.98255,
+              76.27377
+            ],
+            [
+              9.98045,
+              76.27482
+            ],
+            [
+              9.98073,
+              76.27533
+            ],
+            [
+              9.9828,
+              76.27432
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "fort-kochi-beach",
       "name": "Fort Kochi Beach",
-      "lat": 9.9655,
-      "lng": 76.2405,
+      "lat": 9.96718,
+      "lng": 76.23988,
       "radiusM": 200,
       "address": "Fort Kochi, KL",
       "howTo": "Visit Fort Kochi Beach.",
-      "badge": "badges/fort-kochi-beach.png"
+      "badge": "badges/fort-kochi-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.96789,
+              76.24064
+            ],
+            [
+              9.96744,
+              76.23984
+            ],
+            [
+              9.96652,
+              76.23891
+            ],
+            [
+              9.96644,
+              76.23901
+            ],
+            [
+              9.96638,
+              76.23936
+            ],
+            [
+              9.96772,
+              76.24073
+            ],
+            [
+              9.96785,
+              76.24067
+            ],
+            [
+              9.96789,
+              76.24064
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

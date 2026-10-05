@@ -12,28 +12,110 @@
     "maxLat": -9.4255,
     "maxLng": 147.191
   },
-  "updatedAt": "2026-08-20T12:29:18.000Z",
+  "updatedAt": "2026-10-02T19:22:49.000Z",
   "status": "complete",
   "places": [
     {
       "id": "ela-beach",
       "name": "Ela Beach",
-      "lat": -9.4785,
-      "lng": 147.157,
+      "lat": -9.47825,
+      "lng": 147.15635,
       "address": "Port Moresby",
       "howTo": "Visit Ela Beach.",
       "radiusM": 80,
-      "badge": "badges/ela-beach.png"
+      "badge": "badges/ela-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -9.47816,
+              147.15617
+            ],
+            [
+              -9.4781,
+              147.15647
+            ],
+            [
+              -9.47826,
+              147.1565
+            ],
+            [
+              -9.47827,
+              147.15642
+            ],
+            [
+              -9.47829,
+              147.15642
+            ],
+            [
+              -9.47832,
+              147.15631
+            ],
+            [
+              -9.47829,
+              147.1563
+            ],
+            [
+              -9.47831,
+              147.1562
+            ],
+            [
+              -9.47816,
+              147.15617
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "parliament-haus",
       "name": "Parliament Haus",
-      "lat": -9.4285,
-      "lng": 147.188,
+      "lat": -9.42774,
+      "lng": 147.19196,
       "address": "Port Moresby",
       "howTo": "Visit Parliament Haus.",
       "radiusM": 80,
-      "badge": "badges/parliament-haus.png"
+      "badge": "badges/parliament-haus.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -9.4275,
+              147.19195
+            ],
+            [
+              -9.4275,
+              147.19214
+            ],
+            [
+              -9.42762,
+              147.19216
+            ],
+            [
+              -9.42811,
+              147.19248
+            ],
+            [
+              -9.42809,
+              147.19123
+            ],
+            [
+              -9.42777,
+              147.19183
+            ],
+            [
+              -9.42758,
+              147.19195
+            ],
+            [
+              -9.4275,
+              147.19195
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

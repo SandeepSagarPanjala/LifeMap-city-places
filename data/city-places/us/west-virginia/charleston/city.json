@@ -12,7 +12,7 @@
     "maxLat": 38.37,
     "maxLng": -81.6
   },
-  "updatedAt": "2026-08-11T21:49:02.000Z",
+  "updatedAt": "2026-10-02T21:48:19.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,127 @@
       "radiusM": 150,
       "address": "1900 Kanawha Blvd E, Charleston, WV",
       "howTo": "Visit the West Virginia State Capitol.",
-      "badge": "badges/west-virginia-state-capitol.png"
+      "badge": "badges/west-virginia-state-capitol.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.3361,
+              -81.61254
+            ],
+            [
+              38.33602,
+              -81.61224
+            ],
+            [
+              38.3361,
+              -81.61214
+            ],
+            [
+              38.3359,
+              -81.61152
+            ],
+            [
+              38.33595,
+              -81.6114
+            ],
+            [
+              38.33613,
+              -81.61132
+            ],
+            [
+              38.33623,
+              -81.61137
+            ],
+            [
+              38.3364,
+              -81.61201
+            ],
+            [
+              38.33651,
+              -81.61201
+            ],
+            [
+              38.3366,
+              -81.61231
+            ],
+            [
+              38.33651,
+              -81.61241
+            ],
+            [
+              38.33671,
+              -81.61303
+            ],
+            [
+              38.33666,
+              -81.61315
+            ],
+            [
+              38.33648,
+              -81.61324
+            ],
+            [
+              38.33638,
+              -81.61319
+            ],
+            [
+              38.33619,
+              -81.6125
+            ],
+            [
+              38.3361,
+              -81.61254
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "haddad-riverfront-park",
       "name": "Haddad Riverfront Park",
-      "lat": 38.3535,
-      "lng": -81.6375,
+      "lat": 38.34954,
+      "lng": -81.6387,
       "radiusM": 200,
       "address": "1 Laidley St, Charleston, WV",
       "howTo": "Visit Haddad Riverfront Park.",
-      "badge": "badges/haddad-riverfront-park.png"
+      "badge": "badges/haddad-riverfront-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.35073,
+              -81.6396
+            ],
+            [
+              38.35051,
+              -81.63988
+            ],
+            [
+              38.34969,
+              -81.63923
+            ],
+            [
+              38.34927,
+              -81.63876
+            ],
+            [
+              38.34836,
+              -81.6376
+            ],
+            [
+              38.34871,
+              -81.63713
+            ],
+            [
+              38.35073,
+              -81.6396
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "clay-center",
@@ -48,12 +158,87 @@
     {
       "id": "west-virginia-state-museum",
       "name": "West Virginia State Museum",
-      "lat": 38.336,
-      "lng": -81.6125,
+      "lat": 38.33775,
+      "lng": -81.61418,
       "radiusM": 120,
       "address": "1900 Kanawha Blvd E, Charleston, WV",
       "howTo": "Visit the West Virginia State Museum.",
-      "badge": "badges/west-virginia-state-museum.png"
+      "badge": "badges/west-virginia-state-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.33809,
+              -81.61429
+            ],
+            [
+              38.33798,
+              -81.61434
+            ],
+            [
+              38.338,
+              -81.6144
+            ],
+            [
+              38.33796,
+              -81.61442
+            ],
+            [
+              38.33794,
+              -81.61436
+            ],
+            [
+              38.3377,
+              -81.61447
+            ],
+            [
+              38.33771,
+              -81.61454
+            ],
+            [
+              38.33767,
+              -81.61456
+            ],
+            [
+              38.33765,
+              -81.6145
+            ],
+            [
+              38.33755,
+              -81.61455
+            ],
+            [
+              38.33735,
+              -81.61385
+            ],
+            [
+              38.33752,
+              -81.61378
+            ],
+            [
+              38.33753,
+              -81.61383
+            ],
+            [
+              38.33774,
+              -81.61373
+            ],
+            [
+              38.33772,
+              -81.61368
+            ],
+            [
+              38.33789,
+              -81.6136
+            ],
+            [
+              38.33809,
+              -81.61429
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

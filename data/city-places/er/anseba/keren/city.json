@@ -12,7 +12,7 @@
     "maxLat": 15.78699,
     "maxLng": 38.46847
   },
-  "updatedAt": "2026-08-20T10:34:47.000Z",
+  "updatedAt": "2026-10-01T17:36:02.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 50,
       "address": "Keren",
       "howTo": "Visit St Mariam Orthodox Church.",
-      "badge": "badges/st-mariam.png"
+      "badge": "badges/st-mariam.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.77933,
+              38.46533
+            ],
+            [
+              15.77915,
+              38.46534
+            ],
+            [
+              15.77915,
+              38.4656
+            ],
+            [
+              15.77934,
+              38.4656
+            ],
+            [
+              15.77933,
+              38.46533
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "al-sahada",
@@ -33,7 +60,42 @@
       "radiusM": 50,
       "address": "Keren",
       "howTo": "Visit Al-Sahada Mosque.",
-      "badge": "badges/al-sahada.png"
+      "badge": "badges/al-sahada.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              15.78387,
+              38.45786
+            ],
+            [
+              15.78376,
+              38.45816
+            ],
+            [
+              15.78401,
+              38.45828
+            ],
+            [
+              15.78415,
+              38.45831
+            ],
+            [
+              15.78426,
+              38.45802
+            ],
+            [
+              15.78395,
+              38.45788
+            ],
+            [
+              15.78387,
+              38.45786
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

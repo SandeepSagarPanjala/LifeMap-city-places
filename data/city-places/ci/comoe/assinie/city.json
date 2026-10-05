@@ -12,18 +12,45 @@
     "maxLat": 5.149,
     "maxLng": -3.273
   },
-  "updatedAt": "2026-08-19T00:08:18.000Z",
+  "updatedAt": "2026-10-01T14:13:59.000Z",
   "status": "complete",
   "places": [
     {
       "id": "assinie-mafia",
       "name": "Assinie-Mafia",
-      "lat": 5.13508,
-      "lng": -3.29166,
+      "lat": 5.13765,
+      "lng": -3.29093,
       "radiusM": 200,
       "address": "Assinie",
       "howTo": "Visit Assinie-Mafia.",
-      "badge": "badges/assinie-mafia.png"
+      "badge": "badges/assinie-mafia.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              5.13776,
+              -3.29113
+            ],
+            [
+              5.13776,
+              -3.29073
+            ],
+            [
+              5.13754,
+              -3.29073
+            ],
+            [
+              5.13754,
+              -3.29113
+            ],
+            [
+              5.13776,
+              -3.29113
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "assinie-lagoon",

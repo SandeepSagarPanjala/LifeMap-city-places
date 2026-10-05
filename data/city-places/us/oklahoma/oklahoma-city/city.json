@@ -12,7 +12,7 @@
     "maxLat": 35.55,
     "maxLng": -97.45
   },
-  "updatedAt": "2026-08-11T13:48:30.000Z",
+  "updatedAt": "2026-10-02T21:21:00.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,87 @@
       "radiusM": 200,
       "address": "620 N Harvey Ave, Oklahoma City, OK",
       "howTo": "Visit the Oklahoma City National Memorial.",
-      "badge": "badges/okc-national-memorial.png"
+      "badge": "badges/okc-national-memorial.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.47259,
+              -97.51737
+            ],
+            [
+              35.47242,
+              -97.51738
+            ],
+            [
+              35.47243,
+              -97.51765
+            ],
+            [
+              35.47229,
+              -97.51766
+            ],
+            [
+              35.47229,
+              -97.51761
+            ],
+            [
+              35.47222,
+              -97.51761
+            ],
+            [
+              35.47222,
+              -97.51766
+            ],
+            [
+              35.47213,
+              -97.51766
+            ],
+            [
+              35.47212,
+              -97.51759
+            ],
+            [
+              35.47207,
+              -97.5176
+            ],
+            [
+              35.47204,
+              -97.51659
+            ],
+            [
+              35.4721,
+              -97.51659
+            ],
+            [
+              35.4721,
+              -97.5165
+            ],
+            [
+              35.47253,
+              -97.51652
+            ],
+            [
+              35.47253,
+              -97.51656
+            ],
+            [
+              35.47258,
+              -97.51656
+            ],
+            [
+              35.47259,
+              -97.51735
+            ],
+            [
+              35.47259,
+              -97.51737
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "oklahoma-state-capitol",
@@ -33,37 +113,229 @@
       "radiusM": 150,
       "address": "2300 N Lincoln Blvd, Oklahoma City, OK",
       "howTo": "Visit the Oklahoma State Capitol.",
-      "badge": "badges/oklahoma-state-capitol.png"
+      "badge": "badges/oklahoma-state-capitol.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.49241,
+              -97.50401
+            ],
+            [
+              35.49242,
+              -97.50347
+            ],
+            [
+              35.49263,
+              -97.50347
+            ],
+            [
+              35.49263,
+              -97.50318
+            ],
+            [
+              35.49241,
+              -97.50318
+            ],
+            [
+              35.4924,
+              -97.50265
+            ],
+            [
+              35.49209,
+              -97.50262
+            ],
+            [
+              35.49201,
+              -97.50265
+            ],
+            [
+              35.492,
+              -97.50318
+            ],
+            [
+              35.49179,
+              -97.50318
+            ],
+            [
+              35.49179,
+              -97.50348
+            ],
+            [
+              35.49199,
+              -97.50348
+            ],
+            [
+              35.49201,
+              -97.50352
+            ],
+            [
+              35.49201,
+              -97.50401
+            ],
+            [
+              35.49209,
+              -97.50401
+            ],
+            [
+              35.49209,
+              -97.50405
+            ],
+            [
+              35.49233,
+              -97.50401
+            ],
+            [
+              35.49241,
+              -97.50401
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bricktown",
       "name": "Bricktown",
-      "lat": 35.4655,
-      "lng": -97.5105,
+      "lat": 35.46502,
+      "lng": -97.50993,
       "radiusM": 250,
       "address": "Bricktown, Oklahoma City, OK",
       "howTo": "Visit Bricktown.",
-      "badge": "badges/bricktown.png"
+      "badge": "badges/bricktown.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.46521,
+              -97.51014
+            ],
+            [
+              35.46481,
+              -97.51015
+            ],
+            [
+              35.46482,
+              -97.50971
+            ],
+            [
+              35.46522,
+              -97.50972
+            ],
+            [
+              35.46521,
+              -97.51014
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "myriad-botanical-gardens",
       "name": "Myriad Botanical Gardens",
-      "lat": 35.4665,
-      "lng": -97.5155,
+      "lat": 35.46556,
+      "lng": -97.51767,
       "radiusM": 200,
       "address": "301 W Reno Ave, Oklahoma City, OK",
       "howTo": "Visit Myriad Botanical Gardens.",
-      "badge": "badges/myriad-botanical-gardens.png"
+      "badge": "badges/myriad-botanical-gardens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.46637,
+              -97.51657
+            ],
+            [
+              35.46635,
+              -97.51938
+            ],
+            [
+              35.46436,
+              -97.51939
+            ],
+            [
+              35.46437,
+              -97.51649
+            ],
+            [
+              35.46637,
+              -97.51653
+            ],
+            [
+              35.46637,
+              -97.51657
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "scissortail-park",
       "name": "Scissortail Park",
-      "lat": 35.4605,
-      "lng": -97.5155,
+      "lat": 35.45839,
+      "lng": -97.5174,
       "radiusM": 250,
       "address": "Scissortail Park, Oklahoma City, OK",
       "howTo": "Visit Scissortail Park.",
-      "badge": "badges/scissortail-park.png"
+      "badge": "badges/scissortail-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.45698,
+              -97.51636
+            ],
+            [
+              35.45778,
+              -97.51633
+            ],
+            [
+              35.45804,
+              -97.51645
+            ],
+            [
+              35.45836,
+              -97.51627
+            ],
+            [
+              35.46215,
+              -97.51632
+            ],
+            [
+              35.46206,
+              -97.51922
+            ],
+            [
+              35.45785,
+              -97.51926
+            ],
+            [
+              35.45785,
+              -97.51799
+            ],
+            [
+              35.45714,
+              -97.51788
+            ],
+            [
+              35.45713,
+              -97.51761
+            ],
+            [
+              35.45698,
+              -97.5177
+            ],
+            [
+              35.45698,
+              -97.51636
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

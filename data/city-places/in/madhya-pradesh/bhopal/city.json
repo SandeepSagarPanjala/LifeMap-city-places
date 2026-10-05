@@ -12,7 +12,7 @@
     "maxLat": 23.28,
     "maxLng": 77.48
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T18:23:23.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "taj-ul-masajid",
       "name": "Taj-ul-Masajid",
-      "lat": 23.2635,
-      "lng": 77.3935,
+      "lat": 23.26285,
+      "lng": 77.39262,
       "radiusM": 150,
       "address": "Kohefiza, Bhopal, MP",
       "howTo": "Visit Taj-ul-Masajid.",
-      "badge": "badges/taj-ul-masajid.png"
+      "badge": "badges/taj-ul-masajid.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              23.26344,
+              77.3922
+            ],
+            [
+              23.2626,
+              77.39219
+            ],
+            [
+              23.2626,
+              77.39223
+            ],
+            [
+              23.26245,
+              77.39224
+            ],
+            [
+              23.2625,
+              77.39347
+            ],
+            [
+              23.2635,
+              77.39342
+            ],
+            [
+              23.26344,
+              77.3922
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "van-vihar",

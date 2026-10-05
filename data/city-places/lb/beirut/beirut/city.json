@@ -12,7 +12,7 @@
     "maxLat": 33.89831,
     "maxLng": 35.50904
   },
-  "updatedAt": "2026-08-20T11:19:21.000Z",
+  "updatedAt": "2026-10-01T12:03:31.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,46 @@
       "radiusM": 50,
       "address": "Beirut",
       "howTo": "Visit Mohammad Al-Amin Mosque.",
-      "badge": "badges/al-amin.png"
+      "badge": "badges/al-amin.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.89557,
+              35.50576
+            ],
+            [
+              33.89498,
+              35.50565
+            ],
+            [
+              33.89499,
+              35.50628
+            ],
+            [
+              33.89509,
+              35.50631
+            ],
+            [
+              33.89511,
+              35.50635
+            ],
+            [
+              33.89516,
+              35.50633
+            ],
+            [
+              33.89545,
+              35.5064
+            ],
+            [
+              33.89557,
+              35.50576
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pigeon-rocks",
@@ -33,7 +72,54 @@
       "radiusM": 60,
       "address": "Raouche",
       "howTo": "Visit the Pigeon Rocks at Raouche.",
-      "badge": "badges/pigeon-rocks.png"
+      "badge": "badges/pigeon-rocks.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              33.89032,
+              35.4698
+            ],
+            [
+              33.89026,
+              35.46973
+            ],
+            [
+              33.89018,
+              35.46971
+            ],
+            [
+              33.89012,
+              35.46978
+            ],
+            [
+              33.89015,
+              35.47001
+            ],
+            [
+              33.89012,
+              35.47037
+            ],
+            [
+              33.89019,
+              35.47045
+            ],
+            [
+              33.89025,
+              35.47029
+            ],
+            [
+              33.89032,
+              35.4699
+            ],
+            [
+              33.89032,
+              35.4698
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

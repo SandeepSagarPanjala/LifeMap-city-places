@@ -12,7 +12,7 @@
     "maxLat": 4.18106,
     "maxLng": 73.5155
   },
-  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "updatedAt": "2026-10-01T12:49:52.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,91 @@
       "address": "Mal\u00e9",
       "howTo": "Visit the Old Friday Mosque (Hukuru Miskiy).",
       "radiusM": 80,
-      "badge": "badges/male-friday-mosque.png"
+      "badge": "badges/male-friday-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.17811,
+              73.51227
+            ],
+            [
+              4.17798,
+              73.51226
+            ],
+            [
+              4.17795,
+              73.51248
+            ],
+            [
+              4.17797,
+              73.51248
+            ],
+            [
+              4.17797,
+              73.51251
+            ],
+            [
+              4.1781,
+              73.51251
+            ],
+            [
+              4.1781,
+              73.51232
+            ],
+            [
+              4.17811,
+              73.51227
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "islamic-centre",
       "name": "Islamic Centre",
-      "lat": 4.175,
-      "lng": 73.5092,
+      "lat": 4.17751,
+      "lng": 73.51295,
       "address": "Mal\u00e9",
       "howTo": "Visit the Islamic Centre and Grand Friday Mosque.",
       "radiusM": 80,
-      "badge": "badges/islamic-centre.png"
+      "badge": "badges/islamic-centre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              4.17758,
+              73.51288
+            ],
+            [
+              4.17737,
+              73.51285
+            ],
+            [
+              4.1773,
+              73.51306
+            ],
+            [
+              4.17759,
+              73.51313
+            ],
+            [
+              4.17762,
+              73.51293
+            ],
+            [
+              4.17759,
+              73.51288
+            ],
+            [
+              4.17758,
+              73.51288
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

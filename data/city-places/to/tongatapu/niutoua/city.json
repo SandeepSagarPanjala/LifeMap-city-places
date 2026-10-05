@@ -12,18 +12,45 @@
     "maxLat": -21.13367,
     "maxLng": -175.04506
   },
-  "updatedAt": "2026-08-20T12:44:29.000Z",
+  "updatedAt": "2026-10-03T00:54:23.000Z",
   "status": "complete",
   "places": [
     {
       "id": "haamonga-a-maui",
       "name": "Ha'amonga 'a Maui",
-      "lat": -21.136667,
-      "lng": -175.048056,
+      "lat": -21.13659,
+      "lng": -175.04808,
       "address": "Niutoua",
       "howTo": "Visit Ha'amonga 'a Maui trilithon.",
       "radiusM": 80,
-      "badge": "badges/haamonga-a-maui.png"
+      "badge": "badges/haamonga-a-maui.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -21.13654,
+              -175.0481
+            ],
+            [
+              -21.1366,
+              -175.04803
+            ],
+            [
+              -21.13664,
+              -175.04806
+            ],
+            [
+              -21.13658,
+              -175.04813
+            ],
+            [
+              -21.13654,
+              -175.0481
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "anahulu-cave",

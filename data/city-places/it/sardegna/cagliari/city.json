@@ -12,38 +12,179 @@
     "maxLat": 39.23,
     "maxLng": 9.12
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T11:12:36.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bastione-saint-remy",
       "name": "Bastione di Saint Remy",
-      "lat": 39.2165,
-      "lng": 9.1155,
+      "lat": 39.21618,
+      "lng": 9.11642,
       "radiusM": 120,
       "address": "Bastione Saint Remy",
       "howTo": "Visit Bastione di Saint Remy.",
-      "badge": "badges/bastione-saint-remy.png"
+      "badge": "badges/bastione-saint-remy.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.2163,
+              9.11597
+            ],
+            [
+              39.21663,
+              9.11621
+            ],
+            [
+              39.21648,
+              9.11663
+            ],
+            [
+              39.21677,
+              9.11672
+            ],
+            [
+              39.21671,
+              9.11703
+            ],
+            [
+              39.21594,
+              9.11674
+            ],
+            [
+              39.21582,
+              9.11661
+            ],
+            [
+              39.21583,
+              9.11655
+            ],
+            [
+              39.21578,
+              9.11651
+            ],
+            [
+              39.21578,
+              9.11642
+            ],
+            [
+              39.21574,
+              9.11636
+            ],
+            [
+              39.21627,
+              9.11576
+            ],
+            [
+              39.21624,
+              9.11591
+            ],
+            [
+              39.2163,
+              9.11597
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cagliari-cathedral",
       "name": "Cagliari Cathedral",
-      "lat": 39.2185,
-      "lng": 9.1165,
+      "lat": 39.21856,
+      "lng": 9.11678,
       "radiusM": 80,
       "address": "Cattedrale di Cagliari",
       "howTo": "Visit Cagliari Cathedral.",
-      "badge": "badges/cagliari-cathedral.png"
+      "badge": "badges/cagliari-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.21853,
+              9.1167
+            ],
+            [
+              39.21859,
+              9.11671
+            ],
+            [
+              39.21858,
+              9.11685
+            ],
+            [
+              39.21852,
+              9.11684
+            ],
+            [
+              39.21853,
+              9.1167
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "poetto-beach",
       "name": "Poetto Beach",
-      "lat": 39.2005,
-      "lng": 9.1555,
+      "lat": 39.20016,
+      "lng": 9.14506,
       "radiusM": 300,
       "address": "Spiaggia del Poetto",
       "howTo": "Visit Poetto Beach.",
-      "badge": "badges/poetto-beach.png"
+      "badge": "badges/poetto-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.20007,
+              9.14501
+            ],
+            [
+              39.20013,
+              9.14507
+            ],
+            [
+              39.2002,
+              9.14496
+            ],
+            [
+              39.20016,
+              9.14492
+            ],
+            [
+              39.20017,
+              9.1449
+            ],
+            [
+              39.20025,
+              9.14497
+            ],
+            [
+              39.20021,
+              9.14505
+            ],
+            [
+              39.20019,
+              9.14503
+            ],
+            [
+              39.20015,
+              9.14512
+            ],
+            [
+              39.20006,
+              9.14504
+            ],
+            [
+              39.20007,
+              9.14501
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

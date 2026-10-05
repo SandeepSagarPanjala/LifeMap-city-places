@@ -12,7 +12,7 @@
     "maxLat": 14.744,
     "maxLng": -17.488
   },
-  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "updatedAt": "2026-10-02T23:36:02.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,87 @@
       "radiusM": 80,
       "address": "Dakar",
       "howTo": "Visit Mosque of the Divinity.",
-      "badge": "badges/mosque-of-the-divinity.png"
+      "badge": "badges/mosque-of-the-divinity.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.71586,
+              -17.49033
+            ],
+            [
+              14.71581,
+              -17.4906
+            ],
+            [
+              14.71564,
+              -17.49057
+            ],
+            [
+              14.71569,
+              -17.4903
+            ],
+            [
+              14.71586,
+              -17.49033
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pointe-des-almadies",
       "name": "Pointe des Almadies",
-      "lat": 14.74106,
-      "lng": -17.52978,
+      "lat": 14.74489,
+      "lng": -17.5287,
       "radiusM": 100,
       "address": "Dakar",
       "howTo": "Visit Pointe des Almadies.",
-      "badge": "badges/pointe-des-almadies.png"
+      "badge": "badges/pointe-des-almadies.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.74441,
+              -17.52877
+            ],
+            [
+              14.74444,
+              -17.52887
+            ],
+            [
+              14.74474,
+              -17.52879
+            ],
+            [
+              14.74485,
+              -17.52881
+            ],
+            [
+              14.74511,
+              -17.52864
+            ],
+            [
+              14.74526,
+              -17.52861
+            ],
+            [
+              14.74534,
+              -17.52852
+            ],
+            [
+              14.74498,
+              -17.52858
+            ],
+            [
+              14.74441,
+              -17.52877
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

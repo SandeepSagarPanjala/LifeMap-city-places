@@ -12,7 +12,7 @@
     "maxLat": 16.889,
     "maxLng": -24.987
   },
-  "updatedAt": "2026-08-19T00:51:09.000Z",
+  "updatedAt": "2026-10-01T14:19:21.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,34 @@
       "radiusM": 40,
       "address": "Mindelo",
       "howTo": "Visit Torre de Belem.",
-      "badge": "badges/torre-belem.png"
+      "badge": "badges/torre-belem.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.88429,
+              -24.98997
+            ],
+            [
+              16.8844,
+              -24.98993
+            ],
+            [
+              16.88436,
+              -24.98982
+            ],
+            [
+              16.88426,
+              -24.98987
+            ],
+            [
+              16.88429,
+              -24.98997
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

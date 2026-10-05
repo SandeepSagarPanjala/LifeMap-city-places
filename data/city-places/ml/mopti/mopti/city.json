@@ -12,7 +12,7 @@
     "maxLat": 14.498,
     "maxLng": -4.192
   },
-  "updatedAt": "2026-08-19T02:00:51.000Z",
+  "updatedAt": "2026-10-01T12:36:18.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 40,
       "address": "Mopti",
       "howTo": "Visit Mosquee de Komoguel.",
-      "badge": "badges/komoguel.png"
+      "badge": "badges/komoguel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.49385,
+              -4.19684
+            ],
+            [
+              14.49391,
+              -4.19671
+            ],
+            [
+              14.49366,
+              -4.19659
+            ],
+            [
+              14.4936,
+              -4.19672
+            ],
+            [
+              14.49385,
+              -4.19684
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mopti-port",

@@ -12,7 +12,7 @@
     "maxLat": 44.66,
     "maxLng": -63.56
   },
-  "updatedAt": "2026-08-14T00:50:00.000Z",
+  "updatedAt": "2026-10-01T07:37:32.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,135 @@
       "radiusM": 150,
       "address": "Citadel Hill",
       "howTo": "Visit Halifax Citadel.",
-      "badge": "badges/halifax-citadel.png"
+      "badge": "badges/halifax-citadel.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.64707,
+              -63.57829
+            ],
+            [
+              44.64681,
+              -63.57873
+            ],
+            [
+              44.64628,
+              -63.5786
+            ],
+            [
+              44.64635,
+              -63.5793
+            ],
+            [
+              44.64603,
+              -63.57963
+            ],
+            [
+              44.64668,
+              -63.58052
+            ],
+            [
+              44.64656,
+              -63.58112
+            ],
+            [
+              44.647,
+              -63.58111
+            ],
+            [
+              44.64745,
+              -63.58226
+            ],
+            [
+              44.64773,
+              -63.58193
+            ],
+            [
+              44.64823,
+              -63.58218
+            ],
+            [
+              44.64823,
+              -63.58149
+            ],
+            [
+              44.64859,
+              -63.58125
+            ],
+            [
+              44.64801,
+              -63.58038
+            ],
+            [
+              44.6481,
+              -63.57946
+            ],
+            [
+              44.64747,
+              -63.57933
+            ],
+            [
+              44.64707,
+              -63.57829
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "halifax-waterfront",
       "name": "Halifax Waterfront",
-      "lat": 44.647,
-      "lng": -63.5705,
+      "lat": 44.64269,
+      "lng": -63.56924,
       "radiusM": 200,
       "address": "Boardwalk / Waterfront",
       "howTo": "Visit Halifax Waterfront.",
-      "badge": "badges/halifax-waterfront.png"
+      "badge": "badges/halifax-waterfront.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.64255,
+              -63.5693
+            ],
+            [
+              44.64283,
+              -63.56945
+            ],
+            [
+              44.64279,
+              -63.56963
+            ],
+            [
+              44.64299,
+              -63.56974
+            ],
+            [
+              44.64309,
+              -63.56934
+            ],
+            [
+              44.64244,
+              -63.56897
+            ],
+            [
+              44.64232,
+              -63.56941
+            ],
+            [
+              44.64249,
+              -63.5695
+            ],
+            [
+              44.64255,
+              -63.5693
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "public-gardens-halifax",
@@ -43,7 +161,42 @@
       "radiusM": 150,
       "address": "Public Gardens",
       "howTo": "Visit Halifax Public Gardens.",
-      "badge": "badges/public-gardens-halifax.png"
+      "badge": "badges/public-gardens-halifax.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.6443,
+              -63.58107
+            ],
+            [
+              44.64244,
+              -63.58006
+            ],
+            [
+              44.64232,
+              -63.58015
+            ],
+            [
+              44.64154,
+              -63.5831
+            ],
+            [
+              44.64154,
+              -63.58326
+            ],
+            [
+              44.64349,
+              -63.58431
+            ],
+            [
+              44.6443,
+              -63.58107
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

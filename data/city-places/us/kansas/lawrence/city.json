@@ -12,7 +12,7 @@
     "maxLat": 38.99,
     "maxLng": -95.2
   },
-  "updatedAt": "2026-08-10T23:30:00.000Z",
+  "updatedAt": "2026-10-03T00:05:37.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,35 @@
       "radiusM": 150,
       "address": "1450 Memorial Dr, Lawrence, KS",
       "howTo": "Visit the KU Memorial Campanile.",
-      "badge": "badges/ku-campanile.png"
+      "badge": "badges/ku-campanile.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.95999,
+              -95.24698
+            ],
+            [
+              38.96005,
+              -95.24695
+            ],
+            [
+              38.96002,
+              -95.24688
+            ],
+            [
+              38.95996,
+              -95.24691
+            ],
+            [
+              38.95999,
+              -95.24698
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "allen-fieldhouse",
@@ -43,7 +71,46 @@
       "radiusM": 150,
       "address": "1651 Naismith Dr, Lawrence, KS",
       "howTo": "Visit Allen Fieldhouse.",
-      "badge": "badges/allen-fieldhouse.png"
+      "badge": "badges/allen-fieldhouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.95384,
+              -95.25237
+            ],
+            [
+              38.95384,
+              -95.2526
+            ],
+            [
+              38.95378,
+              -95.2526
+            ],
+            [
+              38.95378,
+              -95.25327
+            ],
+            [
+              38.95479,
+              -95.25327
+            ],
+            [
+              38.95479,
+              -95.25237
+            ],
+            [
+              38.95393,
+              -95.25237
+            ],
+            [
+              38.95384,
+              -95.25237
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "spencer-museum-of-art",
@@ -53,7 +120,74 @@
       "radiusM": 150,
       "address": "1301 Mississippi St, Lawrence, KS",
       "howTo": "Visit the Spencer Museum of Art.",
-      "badge": "badges/spencer-museum-of-art.png"
+      "badge": "badges/spencer-museum-of-art.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.9599,
+              -95.24477
+            ],
+            [
+              38.95945,
+              -95.24477
+            ],
+            [
+              38.95945,
+              -95.24482
+            ],
+            [
+              38.95935,
+              -95.24482
+            ],
+            [
+              38.95936,
+              -95.2444
+            ],
+            [
+              38.95957,
+              -95.2444
+            ],
+            [
+              38.95957,
+              -95.24437
+            ],
+            [
+              38.95969,
+              -95.24437
+            ],
+            [
+              38.95969,
+              -95.24441
+            ],
+            [
+              38.95991,
+              -95.24441
+            ],
+            [
+              38.95991,
+              -95.24447
+            ],
+            [
+              38.95995,
+              -95.24447
+            ],
+            [
+              38.95995,
+              -95.24469
+            ],
+            [
+              38.9599,
+              -95.24469
+            ],
+            [
+              38.9599,
+              -95.24477
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ku-natural-history-museum",
@@ -63,7 +197,110 @@
       "radiusM": 150,
       "address": "1345 Jayhawk Blvd, Lawrence, KS",
       "howTo": "Visit the KU Natural History Museum in Dyche Hall.",
-      "badge": "badges/ku-natural-history-museum.png"
+      "badge": "badges/ku-natural-history-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.95858,
+              -95.24396
+            ],
+            [
+              38.95858,
+              -95.24383
+            ],
+            [
+              38.95863,
+              -95.24383
+            ],
+            [
+              38.95863,
+              -95.24391
+            ],
+            [
+              38.95868,
+              -95.24391
+            ],
+            [
+              38.9587,
+              -95.24403
+            ],
+            [
+              38.95882,
+              -95.24403
+            ],
+            [
+              38.95884,
+              -95.24401
+            ],
+            [
+              38.95886,
+              -95.24359
+            ],
+            [
+              38.95866,
+              -95.24359
+            ],
+            [
+              38.95866,
+              -95.24356
+            ],
+            [
+              38.95856,
+              -95.24356
+            ],
+            [
+              38.95856,
+              -95.24354
+            ],
+            [
+              38.95844,
+              -95.24355
+            ],
+            [
+              38.95843,
+              -95.24352
+            ],
+            [
+              38.9584,
+              -95.24352
+            ],
+            [
+              38.95839,
+              -95.24356
+            ],
+            [
+              38.95828,
+              -95.24356
+            ],
+            [
+              38.95828,
+              -95.24383
+            ],
+            [
+              38.95836,
+              -95.24383
+            ],
+            [
+              38.95836,
+              -95.24396
+            ],
+            [
+              38.95842,
+              -95.24403
+            ],
+            [
+              38.95852,
+              -95.24403
+            ],
+            [
+              38.95858,
+              -95.24396
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "watkins-museum-of-history",
@@ -73,7 +310,34 @@
       "radiusM": 150,
       "address": "1047 Massachusetts St, Lawrence, KS",
       "howTo": "Visit the Watkins Museum of History.",
-      "badge": "badges/watkins-museum-of-history.png"
+      "badge": "badges/watkins-museum-of-history.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.96391,
+              -95.23611
+            ],
+            [
+              38.96391,
+              -95.23648
+            ],
+            [
+              38.96406,
+              -95.23647
+            ],
+            [
+              38.96406,
+              -95.23611
+            ],
+            [
+              38.96391,
+              -95.23611
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "prairie-park-nature-center",
@@ -83,7 +347,42 @@
       "radiusM": 250,
       "address": "2730 Harper St, Lawrence, KS",
       "howTo": "Visit Prairie Park Nature Center.",
-      "badge": "badges/prairie-park-nature-center.png"
+      "badge": "badges/prairie-park-nature-center.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.93321,
+              -95.21562
+            ],
+            [
+              38.93321,
+              -95.21538
+            ],
+            [
+              38.93294,
+              -95.21538
+            ],
+            [
+              38.93294,
+              -95.21541
+            ],
+            [
+              38.93289,
+              -95.21542
+            ],
+            [
+              38.93289,
+              -95.21563
+            ],
+            [
+              38.93321,
+              -95.21562
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "south-park",
@@ -93,7 +392,84 @@
       "radiusM": 200,
       "address": "South Park, Lawrence, KS",
       "howTo": "Visit South Park in downtown Lawrence.",
-      "badge": "badges/south-park.png"
+      "badge": "badges/south-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.96315,
+              -95.23738
+            ],
+            [
+              38.9631,
+              -95.23732
+            ],
+            [
+              38.9631,
+              -95.2367
+            ],
+            [
+              38.96312,
+              -95.23663
+            ],
+            [
+              38.96322,
+              -95.23656
+            ],
+            [
+              38.96368,
+              -95.23655
+            ],
+            [
+              38.96372,
+              -95.23658
+            ],
+            [
+              38.96371,
+              -95.23733
+            ],
+            [
+              38.96368,
+              -95.23738
+            ],
+            [
+              38.96315,
+              -95.23738
+            ]
+          ],
+          [
+            [
+              38.96075,
+              -95.23726
+            ],
+            [
+              38.96082,
+              -95.23737
+            ],
+            [
+              38.96302,
+              -95.23735
+            ],
+            [
+              38.96299,
+              -95.2345
+            ],
+            [
+              38.96077,
+              -95.23444
+            ],
+            [
+              38.96075,
+              -95.23606
+            ],
+            [
+              38.96075,
+              -95.23726
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

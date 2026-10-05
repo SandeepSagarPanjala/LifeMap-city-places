@@ -12,28 +12,82 @@
     "maxLat": -43.99,
     "maxLng": 170.49
   },
-  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "updatedAt": "2026-10-01T19:49:45.000Z",
   "status": "complete",
   "places": [
     {
       "id": "church-of-the-good-shepherd",
       "name": "Church of the Good Shepherd",
-      "lat": -44.0045,
-      "lng": 170.4785,
+      "lat": -44.00335,
+      "lng": 170.48247,
       "radiusM": 80,
       "address": "Church of the Good Shepherd",
       "howTo": "Visit Church of the Good Shepherd.",
-      "badge": "badges/church-of-the-good-shepherd.png"
+      "badge": "badges/church-of-the-good-shepherd.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -44.00338,
+              170.48241
+            ],
+            [
+              -44.0034,
+              170.48249
+            ],
+            [
+              -44.00331,
+              170.48252
+            ],
+            [
+              -44.0033,
+              170.48245
+            ],
+            [
+              -44.00338,
+              170.48241
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "lake-tekapo-shore",
       "name": "Lake Tekapo Shore",
-      "lat": -44.0055,
-      "lng": 170.4805,
+      "lat": -44.00471,
+      "lng": 170.47497,
       "radiusM": 250,
       "address": "Lake Tekapo",
       "howTo": "Visit Lake Tekapo Shore.",
-      "badge": "badges/lake-tekapo-shore.png"
+      "badge": "badges/lake-tekapo-shore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -44.00556,
+              170.47501
+            ],
+            [
+              -44.00403,
+              170.47562
+            ],
+            [
+              -44.00388,
+              170.47502
+            ],
+            [
+              -44.00538,
+              170.47422
+            ],
+            [
+              -44.00556,
+              170.47501
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mount-john-observatory",

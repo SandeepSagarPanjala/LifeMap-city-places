@@ -12,18 +12,45 @@
     "maxLat": 45.532,
     "maxLng": 13.575
   },
-  "updatedAt": "2026-08-18T02:36:13.000Z",
+  "updatedAt": "2026-10-02T19:43:17.000Z",
   "status": "complete",
   "places": [
     {
       "id": "tartini-square",
       "name": "Tartini Square",
-      "lat": 45.5285,
-      "lng": 13.5684,
+      "lat": 45.52779,
+      "lng": 13.56705,
       "radiusM": 80,
       "address": "Piran",
       "howTo": "Visit Tartini Square.",
-      "badge": "badges/tartini-square.png"
+      "badge": "badges/tartini-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.52792,
+              13.56702
+            ],
+            [
+              45.52774,
+              13.56723
+            ],
+            [
+              45.52766,
+              13.5671
+            ],
+            [
+              45.52783,
+              13.56687
+            ],
+            [
+              45.52792,
+              13.56702
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "piran-walls",

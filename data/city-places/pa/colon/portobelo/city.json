@@ -12,7 +12,7 @@
     "maxLat": 9.56,
     "maxLng": -79.648
   },
-  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "updatedAt": "2026-10-02T23:26:05.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,103 @@
       "radiusM": 120,
       "address": "Portobelo",
       "howTo": "Visit Fuerte San Jeronimo.",
-      "badge": "badges/fuerte-san-jeronimo.png"
+      "badge": "badges/fuerte-san-jeronimo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.55445,
+              -79.65563
+            ],
+            [
+              9.55435,
+              -79.65565
+            ],
+            [
+              9.55433,
+              -79.65557
+            ],
+            [
+              9.55423,
+              -79.65554
+            ],
+            [
+              9.55433,
+              -79.6552
+            ],
+            [
+              9.55477,
+              -79.65527
+            ],
+            [
+              9.55476,
+              -79.65534
+            ],
+            [
+              9.55552,
+              -79.65517
+            ],
+            [
+              9.55578,
+              -79.65524
+            ],
+            [
+              9.55573,
+              -79.6555
+            ],
+            [
+              9.55538,
+              -79.65536
+            ],
+            [
+              9.55477,
+              -79.65548
+            ],
+            [
+              9.55445,
+              -79.65563
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "iglesia-san-felipe",
       "name": "Iglesia San Felipe",
-      "lat": 9.5536,
-      "lng": -79.6544,
+      "lat": 9.5541,
+      "lng": -79.65466,
       "radiusM": 80,
       "address": "Portobelo",
       "howTo": "Visit Iglesia San Felipe.",
-      "badge": "badges/iglesia-san-felipe.png"
+      "badge": "badges/iglesia-san-felipe.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.55388,
+              -79.65475
+            ],
+            [
+              9.55431,
+              -79.65477
+            ],
+            [
+              9.55432,
+              -79.65457
+            ],
+            [
+              9.55389,
+              -79.65455
+            ],
+            [
+              9.55388,
+              -79.65475
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

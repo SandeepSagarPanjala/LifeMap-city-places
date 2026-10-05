@@ -12,18 +12,65 @@
     "maxLat": 49.32,
     "maxLng": 20.0
   },
-  "updatedAt": "2026-08-18T06:45:00.000Z",
+  "updatedAt": "2026-10-02T19:28:41.000Z",
   "status": "complete",
   "places": [
     {
       "id": "krupowki-street",
       "name": "Krupowki Street",
-      "lat": 49.294,
-      "lng": 19.958,
+      "lat": 49.29276,
+      "lng": 19.95579,
       "radiusM": 200,
       "address": "Krupowki",
       "howTo": "Visit Krupowki Street.",
-      "badge": "badges/krupowki-street.png"
+      "badge": "badges/krupowki-street.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              49.29293,
+              19.95593
+            ],
+            [
+              49.29275,
+              19.95644
+            ],
+            [
+              49.2926,
+              19.95632
+            ],
+            [
+              49.29255,
+              19.95615
+            ],
+            [
+              49.29266,
+              19.95561
+            ],
+            [
+              49.29275,
+              19.95543
+            ],
+            [
+              49.29278,
+              19.95525
+            ],
+            [
+              49.29286,
+              19.9552
+            ],
+            [
+              49.29294,
+              19.95576
+            ],
+            [
+              49.29293,
+              19.95593
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "gubalowka",

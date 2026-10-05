@@ -12,7 +12,7 @@
     "maxLat": 32.35,
     "maxLng": -110.8
   },
-  "updatedAt": "2026-08-10T09:51:16.000Z",
+  "updatedAt": "2026-10-02T23:51:07.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,95 @@
       "radiusM": 300,
       "address": "2021 N Kinney Rd, Tucson, AZ",
       "howTo": "Visit the Arizona-Sonora Desert Museum.",
-      "badge": "badges/arizona-sonora-desert-museum.png"
+      "badge": "badges/arizona-sonora-desert-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.24652,
+              -111.16705
+            ],
+            [
+              32.24592,
+              -111.16592
+            ],
+            [
+              32.24444,
+              -111.16423
+            ],
+            [
+              32.24165,
+              -111.16632
+            ],
+            [
+              32.24172,
+              -111.16754
+            ],
+            [
+              32.24085,
+              -111.17014
+            ],
+            [
+              32.24203,
+              -111.17088
+            ],
+            [
+              32.24316,
+              -111.17038
+            ],
+            [
+              32.24425,
+              -111.16965
+            ],
+            [
+              32.24593,
+              -111.16774
+            ],
+            [
+              32.24652,
+              -111.16705
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "saguaro-national-park-west",
       "name": "Saguaro National Park (West)",
-      "lat": 32.25,
-      "lng": -111.1667,
+      "lat": 32.24408,
+      "lng": -111.16854,
       "radiusM": 400,
       "address": "2700 N Kinney Rd, Tucson, AZ",
       "howTo": "Visit Saguaro National Park West.",
-      "badge": "badges/saguaro-national-park-west.png"
+      "badge": "badges/saguaro-national-park-west.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.2441,
+              -111.16855
+            ],
+            [
+              32.24408,
+              -111.16851
+            ],
+            [
+              32.24405,
+              -111.16853
+            ],
+            [
+              32.24407,
+              -111.16858
+            ],
+            [
+              32.2441,
+              -111.16855
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mission-san-xavier-del-bac",
@@ -43,7 +121,114 @@
       "radiusM": 150,
       "address": "1950 W San Xavier Rd, Tucson, AZ",
       "howTo": "Visit Mission San Xavier del Bac.",
-      "badge": "badges/mission-san-xavier-del-bac.png"
+      "badge": "badges/mission-san-xavier-del-bac.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.10699,
+              -111.00809
+            ],
+            [
+              32.10702,
+              -111.00749
+            ],
+            [
+              32.10716,
+              -111.0075
+            ],
+            [
+              32.10717,
+              -111.00738
+            ],
+            [
+              32.10729,
+              -111.00738
+            ],
+            [
+              32.10729,
+              -111.00749
+            ],
+            [
+              32.10757,
+              -111.00748
+            ],
+            [
+              32.10756,
+              -111.0076
+            ],
+            [
+              32.1071,
+              -111.00761
+            ],
+            [
+              32.1071,
+              -111.00783
+            ],
+            [
+              32.10756,
+              -111.00785
+            ],
+            [
+              32.10755,
+              -111.00828
+            ],
+            [
+              32.10728,
+              -111.00826
+            ],
+            [
+              32.10728,
+              -111.00814
+            ],
+            [
+              32.10744,
+              -111.00815
+            ],
+            [
+              32.10745,
+              -111.00789
+            ],
+            [
+              32.1073,
+              -111.00788
+            ],
+            [
+              32.10729,
+              -111.00804
+            ],
+            [
+              32.10724,
+              -111.00804
+            ],
+            [
+              32.10721,
+              -111.00814
+            ],
+            [
+              32.10716,
+              -111.0081
+            ],
+            [
+              32.10716,
+              -111.00803
+            ],
+            [
+              32.10707,
+              -111.00803
+            ],
+            [
+              32.10706,
+              -111.0081
+            ],
+            [
+              32.10699,
+              -111.00809
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sabino-canyon",
@@ -63,7 +248,46 @@
       "radiusM": 300,
       "address": "6000 E Valencia Rd, Tucson, AZ",
       "howTo": "Visit the Pima Air & Space Museum.",
-      "badge": "badges/pima-air-and-space-museum.png"
+      "badge": "badges/pima-air-and-space-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.14132,
+              -110.86223
+            ],
+            [
+              32.1344,
+              -110.86223
+            ],
+            [
+              32.13439,
+              -110.86577
+            ],
+            [
+              32.13865,
+              -110.87334
+            ],
+            [
+              32.13865,
+              -110.87174
+            ],
+            [
+              32.14135,
+              -110.8718
+            ],
+            [
+              32.14133,
+              -110.86335
+            ],
+            [
+              32.14132,
+              -110.86223
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tucson-botanical-gardens",
@@ -73,7 +297,38 @@
       "radiusM": 150,
       "address": "2150 N Alvernon Way, Tucson, AZ",
       "howTo": "Visit the Tucson Botanical Gardens.",
-      "badge": "badges/tucson-botanical-gardens.png"
+      "badge": "badges/tucson-botanical-gardens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.24889,
+              -110.90959
+            ],
+            [
+              32.24889,
+              -110.90764
+            ],
+            [
+              32.2479,
+              -110.90763
+            ],
+            [
+              32.2479,
+              -110.9096
+            ],
+            [
+              32.24875,
+              -110.90959
+            ],
+            [
+              32.24889,
+              -110.90959
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "gates-pass",

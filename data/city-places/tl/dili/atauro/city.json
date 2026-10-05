@@ -12,18 +12,45 @@
     "maxLat": -8.219,
     "maxLng": 125.61
   },
-  "updatedAt": "2026-08-20T12:18:06.000Z",
+  "updatedAt": "2026-10-02T23:43:00.000Z",
   "status": "complete",
   "places": [
     {
       "id": "beloi-beach",
       "name": "Beloi Beach",
-      "lat": -8.222,
-      "lng": 125.607,
+      "lat": -8.22057,
+      "lng": 125.60571,
       "address": "Atauro",
       "howTo": "Visit Beloi Beach on Atauro Island.",
       "radiusM": 80,
-      "badge": "badges/beloi-beach.png"
+      "badge": "badges/beloi-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.22036,
+              125.60588
+            ],
+            [
+              -8.22083,
+              125.60575
+            ],
+            [
+              -8.22078,
+              125.60554
+            ],
+            [
+              -8.2203,
+              125.60567
+            ],
+            [
+              -8.22036,
+              125.60588
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "atauro-hills",

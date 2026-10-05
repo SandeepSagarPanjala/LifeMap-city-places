@@ -12,28 +12,118 @@
     "maxLat": 43.34,
     "maxLng": 17.818
   },
-  "updatedAt": "2026-08-18T03:17:25.000Z",
+  "updatedAt": "2026-10-01T04:55:12.000Z",
   "status": "complete",
   "places": [
     {
       "id": "stari-most",
       "name": "Stari Most",
-      "lat": 43.3371,
-      "lng": 17.81485,
+      "lat": 43.33726,
+      "lng": 17.81503,
       "radiusM": 50,
       "address": "Mostar",
       "howTo": "Visit Stari Most.",
-      "badge": "badges/stari-most.png"
+      "badge": "badges/stari-most.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.33725,
+              17.81487
+            ],
+            [
+              43.33725,
+              17.8152
+            ],
+            [
+              43.3373,
+              17.81539
+            ],
+            [
+              43.33733,
+              17.81536
+            ],
+            [
+              43.33728,
+              17.8152
+            ],
+            [
+              43.33728,
+              17.81483
+            ],
+            [
+              43.33724,
+              17.81478
+            ],
+            [
+              43.33721,
+              17.81482
+            ],
+            [
+              43.33722,
+              17.81484
+            ],
+            [
+              43.33725,
+              17.81487
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "koski-mehmed-pasha",
       "name": "Koski Mehmed Pasha Mosque",
-      "lat": 43.3378,
-      "lng": 17.8158,
+      "lat": 43.33868,
+      "lng": 17.81479,
       "radiusM": 40,
       "address": "Mostar",
       "howTo": "Visit Koski Mehmed Pasha Mosque.",
-      "badge": "badges/koski-mehmed-pasha.png"
+      "badge": "badges/koski-mehmed-pasha.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              43.3387,
+              17.81462
+            ],
+            [
+              43.33881,
+              17.81482
+            ],
+            [
+              43.33875,
+              17.81488
+            ],
+            [
+              43.33873,
+              17.81485
+            ],
+            [
+              43.33863,
+              17.81496
+            ],
+            [
+              43.33855,
+              17.81481
+            ],
+            [
+              43.33864,
+              17.81471
+            ],
+            [
+              43.33863,
+              17.81469
+            ],
+            [
+              43.3387,
+              17.81462
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

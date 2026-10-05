@@ -12,18 +12,45 @@
     "maxLat": 46.01,
     "maxLng": 8.96
   },
-  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "updatedAt": "2026-10-01T07:52:04.000Z",
   "status": "complete",
   "places": [
     {
       "id": "parco-civico-lugano",
       "name": "Parco Civico",
-      "lat": 46.0045,
-      "lng": 8.9515,
+      "lat": 46.00343,
+      "lng": 8.95132,
       "radiusM": 200,
       "address": "Parco Ciani",
       "howTo": "Visit Parco Civico.",
-      "badge": "badges/parco-civico-lugano.png"
+      "badge": "badges/parco-civico-lugano.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.00359,
+              8.951
+            ],
+            [
+              46.00369,
+              8.9514
+            ],
+            [
+              46.00327,
+              8.95164
+            ],
+            [
+              46.00316,
+              8.95124
+            ],
+            [
+              46.00359,
+              8.951
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "monte-bre",
@@ -38,12 +65,43 @@
     {
       "id": "piazza-della-riforma",
       "name": "Piazza della Riforma",
-      "lat": 46.0035,
-      "lng": 8.951,
+      "lat": 46.00513,
+      "lng": 8.9552,
       "radiusM": 80,
       "address": "Piazza della Riforma",
       "howTo": "Visit Piazza della Riforma.",
-      "badge": "badges/piazza-della-riforma.png"
+      "badge": "badges/piazza-della-riforma.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.00549,
+              8.95499
+            ],
+            [
+              46.00549,
+              8.95531
+            ],
+            [
+              46.00543,
+              8.95541
+            ],
+            [
+              46.00462,
+              8.95543
+            ],
+            [
+              46.00461,
+              8.95486
+            ],
+            [
+              46.00549,
+              8.95499
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

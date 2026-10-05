@@ -12,7 +12,7 @@
     "maxLat": 20.36,
     "maxLng": 85.88
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T10:40:16.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 150,
       "address": "Old Town, Bhubaneswar, OD",
       "howTo": "Visit Lingaraj Temple.",
-      "badge": "badges/lingaraj-temple.png"
+      "badge": "badges/lingaraj-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.23838,
+              85.83452
+            ],
+            [
+              20.23869,
+              85.83463
+            ],
+            [
+              20.23919,
+              85.83323
+            ],
+            [
+              20.23806,
+              85.83275
+            ],
+            [
+              20.23754,
+              85.8342
+            ],
+            [
+              20.23784,
+              85.83431
+            ],
+            [
+              20.23781,
+              85.83439
+            ],
+            [
+              20.23836,
+              85.8346
+            ],
+            [
+              20.23838,
+              85.83452
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mukteshwar-temple",
@@ -43,7 +86,62 @@
       "radiusM": 200,
       "address": "Khandagiri, Bhubaneswar, OD",
       "howTo": "Visit Udayagiri and Khandagiri Caves.",
-      "badge": "badges/udayagiri-khandagiri.png"
+      "badge": "badges/udayagiri-khandagiri.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.26219,
+              85.78569
+            ],
+            [
+              20.26306,
+              85.78508
+            ],
+            [
+              20.26323,
+              85.78508
+            ],
+            [
+              20.26355,
+              85.78523
+            ],
+            [
+              20.26356,
+              85.7857
+            ],
+            [
+              20.26336,
+              85.78612
+            ],
+            [
+              20.26341,
+              85.78655
+            ],
+            [
+              20.26321,
+              85.78686
+            ],
+            [
+              20.26294,
+              85.78679
+            ],
+            [
+              20.26223,
+              85.78628
+            ],
+            [
+              20.26229,
+              85.78585
+            ],
+            [
+              20.26219,
+              85.78569
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nandankanan",
@@ -63,7 +161,54 @@
       "radiusM": 150,
       "address": "Dhauli, Bhubaneswar, OD",
       "howTo": "Visit Dhauli Shanti Stupa.",
-      "badge": "badges/dhauli.png"
+      "badge": "badges/dhauli.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              20.19252,
+              85.83951
+            ],
+            [
+              20.19244,
+              85.83957
+            ],
+            [
+              20.19233,
+              85.83956
+            ],
+            [
+              20.19228,
+              85.83949
+            ],
+            [
+              20.19228,
+              85.83937
+            ],
+            [
+              20.19237,
+              85.8393
+            ],
+            [
+              20.19246,
+              85.8393
+            ],
+            [
+              20.19251,
+              85.83935
+            ],
+            [
+              20.19254,
+              85.83946
+            ],
+            [
+              20.19252,
+              85.83951
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

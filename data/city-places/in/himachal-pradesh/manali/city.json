@@ -12,18 +12,45 @@
     "maxLat": 32.28,
     "maxLng": 77.22
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T10:24:42.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hadimba-temple",
       "name": "Hadimba Temple",
-      "lat": 32.2485,
-      "lng": 77.1815,
+      "lat": 32.24844,
+      "lng": 77.18084,
       "radiusM": 120,
       "address": "Old Manali, HP",
       "howTo": "Visit Hadimba Temple.",
-      "badge": "badges/hadimba-temple.png"
+      "badge": "badges/hadimba-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.24847,
+              77.18078
+            ],
+            [
+              32.24849,
+              77.18086
+            ],
+            [
+              32.24842,
+              77.1809
+            ],
+            [
+              32.24839,
+              77.18082
+            ],
+            [
+              32.24847,
+              77.18078
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "solang-valley",
@@ -33,7 +60,82 @@
       "radiusM": 300,
       "address": "Solang, Manali, HP",
       "howTo": "Visit Solang Valley.",
-      "badge": "badges/solang-valley.png"
+      "badge": "badges/solang-valley.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.32012,
+              77.15374
+            ],
+            [
+              32.3203,
+              77.15407
+            ],
+            [
+              32.31976,
+              77.1548
+            ],
+            [
+              32.31842,
+              77.15545
+            ],
+            [
+              32.318,
+              77.15594
+            ],
+            [
+              32.31793,
+              77.1562
+            ],
+            [
+              32.31705,
+              77.15705
+            ],
+            [
+              32.31592,
+              77.15995
+            ],
+            [
+              32.31552,
+              77.16009
+            ],
+            [
+              32.31525,
+              77.1599
+            ],
+            [
+              32.31497,
+              77.1587
+            ],
+            [
+              32.31497,
+              77.1578
+            ],
+            [
+              32.31473,
+              77.15756
+            ],
+            [
+              32.31411,
+              77.15746
+            ],
+            [
+              32.31399,
+              77.15715
+            ],
+            [
+              32.31655,
+              77.15582
+            ],
+            [
+              32.32012,
+              77.15374
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mall-road-manali",
@@ -48,12 +150,43 @@
     {
       "id": "vashisht-temple",
       "name": "Vashisht Temple",
-      "lat": 32.2655,
-      "lng": 77.1885,
+      "lat": 32.26558,
+      "lng": 77.18789,
       "radiusM": 120,
       "address": "Vashisht, Manali, HP",
       "howTo": "Visit Vashisht Temple.",
-      "badge": "badges/vashisht-temple.png"
+      "badge": "badges/vashisht-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.26558,
+              77.18787
+            ],
+            [
+              32.26556,
+              77.18788
+            ],
+            [
+              32.26557,
+              77.18792
+            ],
+            [
+              32.26559,
+              77.18791
+            ],
+            [
+              32.26559,
+              77.18788
+            ],
+            [
+              32.26558,
+              77.18787
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": 27.675,
     "maxLng": 85.432
   },
-  "updatedAt": "2026-08-18T09:50:00.000Z",
+  "updatedAt": "2026-10-02T19:13:09.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,72 @@
       "radiusM": 150,
       "address": "Taumadhi",
       "howTo": "Visit Bhaktapur Durbar Square.",
-      "badge": "badges/bhaktapur-durbar.png"
+      "badge": "badges/bhaktapur-durbar.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.67221,
+              85.42792
+            ],
+            [
+              27.67201,
+              85.4279
+            ],
+            [
+              27.67193,
+              85.42833
+            ],
+            [
+              27.67215,
+              85.42836
+            ],
+            [
+              27.67221,
+              85.42792
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nyatapola",
       "name": "Nyatapola Temple",
-      "lat": 27.6712,
-      "lng": 85.4295,
+      "lat": 27.67141,
+      "lng": 85.42937,
       "radiusM": 80,
       "address": "Taumadhi Square",
       "howTo": "Visit Nyatapola Temple.",
-      "badge": "badges/nyatapola.png"
+      "badge": "badges/nyatapola.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.67156,
+              85.42932
+            ],
+            [
+              27.67133,
+              85.42922
+            ],
+            [
+              27.67126,
+              85.42943
+            ],
+            [
+              27.67149,
+              85.42952
+            ],
+            [
+              27.67156,
+              85.42932
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     }
   ]
 }

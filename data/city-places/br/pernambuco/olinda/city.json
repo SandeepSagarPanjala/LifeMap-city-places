@@ -12,7 +12,7 @@
     "maxLat": -7.99,
     "maxLng": -34.84
   },
-  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "updatedAt": "2026-10-01T14:04:44.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,104 @@
     {
       "id": "alto-da-se",
       "name": "Alto da S\u00e9",
-      "lat": -8.0138,
-      "lng": -34.8508,
+      "lat": -8.01365,
+      "lng": -34.85012,
       "radiusM": 100,
       "address": "Pra\u00e7a da S\u00e9, Olinda",
       "howTo": "Visit Alto da S\u00e9.",
-      "badge": "badges/alto-da-se.png"
+      "badge": "badges/alto-da-se.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.01312,
+              -34.8509
+            ],
+            [
+              -8.01334,
+              -34.85105
+            ],
+            [
+              -8.01391,
+              -34.84987
+            ],
+            [
+              -8.01399,
+              -34.84967
+            ],
+            [
+              -8.01393,
+              -34.84959
+            ],
+            [
+              -8.01375,
+              -34.84957
+            ],
+            [
+              -8.01353,
+              -34.85018
+            ],
+            [
+              -8.01312,
+              -34.8509
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "igreja-da-se-olinda",
       "name": "Igreja da S\u00e9 de Olinda",
-      "lat": -8.0139,
-      "lng": -34.8505,
+      "lat": -8.01299,
+      "lng": -34.85228,
       "radiusM": 80,
       "address": "Alto da S\u00e9",
       "howTo": "Visit Igreja da S\u00e9 de Olinda.",
-      "badge": "badges/igreja-da-se-olinda.png"
+      "badge": "badges/igreja-da-se-olinda.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.01301,
+              -34.85212
+            ],
+            [
+              -8.01294,
+              -34.85227
+            ],
+            [
+              -8.01295,
+              -34.85229
+            ],
+            [
+              -8.01294,
+              -34.85236
+            ],
+            [
+              -8.01296,
+              -34.85237
+            ],
+            [
+              -8.013,
+              -34.85232
+            ],
+            [
+              -8.01303,
+              -34.85233
+            ],
+            [
+              -8.0131,
+              -34.85217
+            ],
+            [
+              -8.01301,
+              -34.85212
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

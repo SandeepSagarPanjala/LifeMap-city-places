@@ -12,7 +12,7 @@
     "maxLat": 27.4945,
     "maxLng": 89.7545
   },
-  "updatedAt": "2026-08-20T11:52:11.000Z",
+  "updatedAt": "2026-10-01T07:30:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,67 @@
     {
       "id": "druk-wangyal-chortens",
       "name": "Druk Wangyal Chortens",
-      "lat": 27.4915,
-      "lng": 89.7515,
+      "lat": 27.49039,
+      "lng": 89.75039,
       "address": "Dochula",
       "howTo": "Visit the 108 Druk Wangyal chortens.",
       "radiusM": 80,
-      "badge": "badges/druk-wangyal-chortens.png"
+      "badge": "badges/druk-wangyal-chortens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              27.49043,
+              89.74986
+            ],
+            [
+              27.49064,
+              89.74995
+            ],
+            [
+              27.4907,
+              89.75014
+            ],
+            [
+              27.49051,
+              89.75095
+            ],
+            [
+              27.49046,
+              89.75103
+            ],
+            [
+              27.49035,
+              89.75107
+            ],
+            [
+              27.49017,
+              89.75087
+            ],
+            [
+              27.49014,
+              89.75055
+            ],
+            [
+              27.49022,
+              89.75006
+            ],
+            [
+              27.49029,
+              89.74994
+            ],
+            [
+              27.49041,
+              89.74986
+            ],
+            [
+              27.49043,
+              89.74986
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

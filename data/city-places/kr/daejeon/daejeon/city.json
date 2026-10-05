@@ -12,18 +12,81 @@
     "maxLat": 36.38,
     "maxLng": 127.4
   },
-  "updatedAt": "2026-08-15T06:45:00.000Z",
+  "updatedAt": "2026-10-01T18:54:31.000Z",
   "status": "complete",
   "places": [
     {
       "id": "expo-science-park",
       "name": "Expo Science Park",
-      "lat": 36.3755,
-      "lng": 127.3875,
+      "lat": 36.37625,
+      "lng": 127.38805,
       "radiusM": 200,
       "address": "Daejeon Expo / Hanbit Tower area",
       "howTo": "Visit Expo Science Park.",
-      "badge": "badges/expo-science-park.png"
+      "badge": "badges/expo-science-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              36.37447,
+              127.38846
+            ],
+            [
+              36.37608,
+              127.38846
+            ],
+            [
+              36.37608,
+              127.3891
+            ],
+            [
+              36.3772,
+              127.38911
+            ],
+            [
+              36.3772,
+              127.3885
+            ],
+            [
+              36.37762,
+              127.38849
+            ],
+            [
+              36.37762,
+              127.38761
+            ],
+            [
+              36.3775,
+              127.38761
+            ],
+            [
+              36.3774,
+              127.38691
+            ],
+            [
+              36.37559,
+              127.38691
+            ],
+            [
+              36.37559,
+              127.38773
+            ],
+            [
+              36.37447,
+              127.3877
+            ],
+            [
+              36.37447,
+              127.38805
+            ],
+            [
+              36.37447,
+              127.38846
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ppuri-park",

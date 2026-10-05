@@ -12,7 +12,7 @@
     "maxLat": 22.67744,
     "maxLng": 89.7942
   },
-  "updatedAt": "2026-08-20T11:42:17.000Z",
+  "updatedAt": "2026-10-01T05:01:02.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "address": "Bagerhat",
       "howTo": "Visit the Sixty Dome Mosque.",
       "radiusM": 80,
-      "badge": "badges/sixty-dome-mosque.png"
+      "badge": "badges/sixty-dome-mosque.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              22.67474,
+              89.74168
+            ],
+            [
+              22.67471,
+              89.74201
+            ],
+            [
+              22.67426,
+              89.74196
+            ],
+            [
+              22.67429,
+              89.74164
+            ],
+            [
+              22.67474,
+              89.74168
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "nine-dome-mosque",

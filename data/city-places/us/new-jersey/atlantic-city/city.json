@@ -12,28 +12,102 @@
     "maxLat": 39.39,
     "maxLng": -74.4
   },
-  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "updatedAt": "2026-10-02T21:07:33.000Z",
   "status": "complete",
   "places": [
     {
       "id": "atlantic-city-boardwalk",
       "name": "Atlantic City Boardwalk",
-      "lat": 39.3575,
-      "lng": -74.4255,
+      "lat": 39.35606,
+      "lng": -74.4305,
       "radiusM": 300,
       "address": "Boardwalk, Atlantic City, NJ",
       "howTo": "Walk the Atlantic City Boardwalk.",
-      "badge": "badges/atlantic-city-boardwalk.png"
+      "badge": "badges/atlantic-city-boardwalk.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.35612,
+              -74.43051
+            ],
+            [
+              39.35609,
+              -74.43058
+            ],
+            [
+              39.35603,
+              -74.43061
+            ],
+            [
+              39.356,
+              -74.43058
+            ],
+            [
+              39.35601,
+              -74.43046
+            ],
+            [
+              39.35606,
+              -74.43045
+            ],
+            [
+              39.35607,
+              -74.43041
+            ],
+            [
+              39.3561,
+              -74.43043
+            ],
+            [
+              39.35612,
+              -74.43051
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "absecon-lighthouse",
       "name": "Absecon Lighthouse",
-      "lat": 39.3665,
-      "lng": -74.4145,
+      "lat": 39.36633,
+      "lng": -74.41416,
       "radiusM": 120,
       "address": "31 S Rhode Island Ave, Atlantic City, NJ",
       "howTo": "Visit Absecon Lighthouse.",
-      "badge": "badges/absecon-lighthouse.png"
+      "badge": "badges/absecon-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.36634,
+              -74.41419
+            ],
+            [
+              39.36631,
+              -74.41417
+            ],
+            [
+              39.36631,
+              -74.41412
+            ],
+            [
+              39.36635,
+              -74.41413
+            ],
+            [
+              39.36635,
+              -74.41418
+            ],
+            [
+              39.36634,
+              -74.41419
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "atlantic-city-beach",
@@ -48,12 +122,43 @@
     {
       "id": "steel-pier",
       "name": "Steel Pier",
-      "lat": 39.3585,
-      "lng": -74.4185,
+      "lat": 39.35744,
+      "lng": -74.41908,
       "radiusM": 150,
       "address": "Steel Pier, Atlantic City, NJ",
       "howTo": "Visit Steel Pier.",
-      "badge": "badges/steel-pier.png"
+      "badge": "badges/steel-pier.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              39.35618,
+              -74.41848
+            ],
+            [
+              39.35637,
+              -74.418
+            ],
+            [
+              39.35857,
+              -74.4195
+            ],
+            [
+              39.35833,
+              -74.41992
+            ],
+            [
+              39.35774,
+              -74.41952
+            ],
+            [
+              39.35618,
+              -74.41848
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,86 @@
     "maxLat": 41.7,
     "maxLng": -91.48
   },
-  "updatedAt": "2026-08-10T23:54:09.000Z",
+  "updatedAt": "2026-10-03T01:02:20.000Z",
   "status": "complete",
   "places": [
     {
       "id": "old-capitol-museum",
       "name": "Old Capitol Museum",
-      "lat": 41.6614,
-      "lng": -91.5359,
+      "lat": 41.65931,
+      "lng": -91.53556,
       "radiusM": 150,
       "address": "20 E Market St, Iowa City, IA",
       "howTo": "Visit the Old Capitol Museum on the Pentacrest.",
-      "badge": "badges/old-capitol-museum.png"
+      "badge": "badges/old-capitol-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.66002,
+              -91.53605
+            ],
+            [
+              41.65996,
+              -91.53484
+            ],
+            [
+              41.65853,
+              -91.53483
+            ],
+            [
+              41.65851,
+              -91.53602
+            ],
+            [
+              41.65951,
+              -91.53606
+            ],
+            [
+              41.66002,
+              -91.53605
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "stanley-museum-of-art",
       "name": "Stanley Museum of Art",
-      "lat": 41.6628,
-      "lng": -91.5385,
+      "lat": 41.65843,
+      "lng": -91.53885,
       "radiusM": 150,
       "address": "160 W Burlington St, Iowa City, IA",
       "howTo": "Visit the University of Iowa Stanley Museum of Art.",
-      "badge": "badges/stanley-museum-of-art.png"
+      "badge": "badges/stanley-museum-of-art.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.65814,
+              -91.53908
+            ],
+            [
+              41.65872,
+              -91.53907
+            ],
+            [
+              41.65872,
+              -91.53863
+            ],
+            [
+              41.65814,
+              -91.53864
+            ],
+            [
+              41.65814,
+              -91.53908
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "museum-of-natural-history",
@@ -68,12 +126,99 @@
     {
       "id": "city-park",
       "name": "City Park",
-      "lat": 41.672,
-      "lng": -91.543,
+      "lat": 41.67458,
+      "lng": -91.53912,
       "radiusM": 300,
       "address": "200 Park Rd, Iowa City, IA",
       "howTo": "Visit City Park along the Iowa River.",
-      "badge": "badges/city-park.png"
+      "badge": "badges/city-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              41.67713,
+              -91.54486
+            ],
+            [
+              41.67761,
+              -91.54211
+            ],
+            [
+              41.67763,
+              -91.54055
+            ],
+            [
+              41.677,
+              -91.5385
+            ],
+            [
+              41.6767,
+              -91.53672
+            ],
+            [
+              41.67611,
+              -91.53517
+            ],
+            [
+              41.67555,
+              -91.53446
+            ],
+            [
+              41.67464,
+              -91.53395
+            ],
+            [
+              41.67388,
+              -91.53382
+            ],
+            [
+              41.67307,
+              -91.5339
+            ],
+            [
+              41.67139,
+              -91.53443
+            ],
+            [
+              41.6715,
+              -91.53634
+            ],
+            [
+              41.67147,
+              -91.54054
+            ],
+            [
+              41.67427,
+              -91.54056
+            ],
+            [
+              41.67425,
+              -91.54329
+            ],
+            [
+              41.67379,
+              -91.54328
+            ],
+            [
+              41.67379,
+              -91.54351
+            ],
+            [
+              41.67357,
+              -91.5435
+            ],
+            [
+              41.67367,
+              -91.5437
+            ],
+            [
+              41.67713,
+              -91.54486
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "iowa-childrens-museum",

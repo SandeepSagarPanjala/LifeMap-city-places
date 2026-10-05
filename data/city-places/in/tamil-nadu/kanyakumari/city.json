@@ -12,7 +12,7 @@
     "maxLat": 8.09,
     "maxLng": 77.56
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T18:28:14.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,40 @@
     {
       "id": "thiruvalluvar-statue",
       "name": "Thiruvalluvar Statue",
-      "lat": 8.0775,
+      "lat": 8.07775,
       "lng": 77.554,
       "radiusM": 120,
       "address": "Thiruvalluvar Statue, Kanyakumari, TN",
       "howTo": "Visit Thiruvalluvar Statue.",
-      "badge": "badges/thiruvalluvar-statue.png"
+      "badge": "badges/thiruvalluvar-statue.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              8.07776,
+              77.55389
+            ],
+            [
+              8.07786,
+              77.55403
+            ],
+            [
+              8.07773,
+              77.55412
+            ],
+            [
+              8.07763,
+              77.55398
+            ],
+            [
+              8.07776,
+              77.55389
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "kanyakumari-temple",

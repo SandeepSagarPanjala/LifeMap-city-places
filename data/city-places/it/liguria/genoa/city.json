@@ -12,18 +12,85 @@
     "maxLat": 44.42,
     "maxLng": 8.94
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T11:08:25.000Z",
   "status": "complete",
   "places": [
     {
       "id": "porto-antico-genoa",
       "name": "Porto Antico",
-      "lat": 44.4105,
-      "lng": 8.9265,
+      "lat": 44.41144,
+      "lng": 8.9254,
       "radiusM": 200,
       "address": "Old Port",
       "howTo": "Visit Porto Antico.",
-      "badge": "badges/porto-antico-genoa.png"
+      "badge": "badges/porto-antico-genoa.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.41219,
+              8.92505
+            ],
+            [
+              44.41229,
+              8.92553
+            ],
+            [
+              44.41276,
+              8.92647
+            ],
+            [
+              44.41219,
+              8.92711
+            ],
+            [
+              44.4114,
+              8.92772
+            ],
+            [
+              44.41129,
+              8.92743
+            ],
+            [
+              44.41115,
+              8.92739
+            ],
+            [
+              44.41091,
+              8.92663
+            ],
+            [
+              44.41077,
+              8.9267
+            ],
+            [
+              44.41063,
+              8.92598
+            ],
+            [
+              44.41048,
+              8.92186
+            ],
+            [
+              44.4109,
+              8.92196
+            ],
+            [
+              44.41144,
+              8.92252
+            ],
+            [
+              44.41173,
+              8.9233
+            ],
+            [
+              44.41219,
+              8.92505
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "palazzo-ducale-genoa",
@@ -33,17 +100,120 @@
       "radiusM": 100,
       "address": "Palazzo Ducale",
       "howTo": "Visit Palazzo Ducale.",
-      "badge": "badges/palazzo-ducale-genoa.png"
+      "badge": "badges/palazzo-ducale-genoa.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.40779,
+              8.93223
+            ],
+            [
+              44.40807,
+              8.93252
+            ],
+            [
+              44.40749,
+              8.93366
+            ],
+            [
+              44.40694,
+              8.93312
+            ],
+            [
+              44.40703,
+              8.93294
+            ],
+            [
+              44.40734,
+              8.93324
+            ],
+            [
+              44.40759,
+              8.93274
+            ],
+            [
+              44.40728,
+              8.93244
+            ],
+            [
+              44.40737,
+              8.93225
+            ],
+            [
+              44.40751,
+              8.93239
+            ],
+            [
+              44.40772,
+              8.93216
+            ],
+            [
+              44.40779,
+              8.93223
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "via-garibaldi-genoa",
       "name": "Via Garibaldi",
-      "lat": 44.4115,
-      "lng": 8.9325,
+      "lat": 44.40927,
+      "lng": 8.93435,
       "radiusM": 120,
       "address": "Strade Nuove",
       "howTo": "Visit Via Garibaldi.",
-      "badge": "badges/via-garibaldi-genoa.png"
+      "badge": "badges/via-garibaldi-genoa.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.4092,
+              8.93444
+            ],
+            [
+              44.40926,
+              8.93435
+            ],
+            [
+              44.40924,
+              8.93433
+            ],
+            [
+              44.40927,
+              8.9343
+            ],
+            [
+              44.40925,
+              8.93427
+            ],
+            [
+              44.40931,
+              8.93418
+            ],
+            [
+              44.40941,
+              8.93429
+            ],
+            [
+              44.40925,
+              8.9345
+            ],
+            [
+              44.40923,
+              8.93447
+            ],
+            [
+              44.4092,
+              8.93444
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

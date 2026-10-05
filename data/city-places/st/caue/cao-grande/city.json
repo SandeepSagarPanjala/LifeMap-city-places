@@ -12,7 +12,7 @@
     "maxLat": 0.124,
     "maxLng": 6.572
   },
-  "updatedAt": "2026-08-19T01:27:42.000Z",
+  "updatedAt": "2026-10-02T23:38:19.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,58 @@
       "radiusM": 150,
       "address": "Cau\u00e9",
       "howTo": "Visit Pico Cao Grande.",
-      "badge": "badges/pico-cao-grande.png"
+      "badge": "badges/pico-cao-grande.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.11817,
+              6.56717
+            ],
+            [
+              0.11863,
+              6.56702
+            ],
+            [
+              0.11878,
+              6.56679
+            ],
+            [
+              0.11889,
+              6.56595
+            ],
+            [
+              0.1187,
+              6.56549
+            ],
+            [
+              0.11851,
+              6.56529
+            ],
+            [
+              0.11818,
+              6.56517
+            ],
+            [
+              0.11797,
+              6.56518
+            ],
+            [
+              0.1177,
+              6.56525
+            ],
+            [
+              0.11696,
+              6.56574
+            ],
+            [
+              0.11817,
+              6.56717
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cao-grande-forest",

@@ -12,18 +12,65 @@
     "maxLat": 40.65,
     "maxLng": 22.97
   },
-  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "updatedAt": "2026-10-01T18:02:10.000Z",
   "status": "complete",
   "places": [
     {
       "id": "white-tower-thessaloniki",
       "name": "White Tower of Thessaloniki",
-      "lat": 40.6264,
-      "lng": 22.9485,
+      "lat": 40.62634,
+      "lng": 22.94839,
       "radiusM": 80,
       "address": "Thessaloniki",
       "howTo": "Visit White Tower of Thessaloniki.",
-      "badge": "badges/white-tower-thessaloniki.png"
+      "badge": "badges/white-tower-thessaloniki.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.62642,
+              22.94845
+            ],
+            [
+              40.62635,
+              22.94851
+            ],
+            [
+              40.62628,
+              22.9485
+            ],
+            [
+              40.62623,
+              22.94842
+            ],
+            [
+              40.62624,
+              22.94832
+            ],
+            [
+              40.62629,
+              22.94825
+            ],
+            [
+              40.62637,
+              22.94826
+            ],
+            [
+              40.62643,
+              22.94834
+            ],
+            [
+              40.62642,
+              22.94844
+            ],
+            [
+              40.62642,
+              22.94845
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rotunda-thessaloniki",
@@ -33,7 +80,90 @@
       "radiusM": 80,
       "address": "Thessaloniki",
       "howTo": "Visit Rotunda of Galerius.",
-      "badge": "badges/rotunda-thessaloniki.png"
+      "badge": "badges/rotunda-thessaloniki.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.63347,
+              22.95298
+            ],
+            [
+              40.6334,
+              22.95307
+            ],
+            [
+              40.63328,
+              22.95309
+            ],
+            [
+              40.6332,
+              22.9532
+            ],
+            [
+              40.63315,
+              22.95319
+            ],
+            [
+              40.63313,
+              22.95315
+            ],
+            [
+              40.63313,
+              22.95309
+            ],
+            [
+              40.63318,
+              22.95299
+            ],
+            [
+              40.63316,
+              22.95293
+            ],
+            [
+              40.63315,
+              22.95281
+            ],
+            [
+              40.6332,
+              22.95271
+            ],
+            [
+              40.63327,
+              22.95265
+            ],
+            [
+              40.63337,
+              22.95265
+            ],
+            [
+              40.63339,
+              22.95262
+            ],
+            [
+              40.63347,
+              22.9527
+            ],
+            [
+              40.63346,
+              22.95273
+            ],
+            [
+              40.6335,
+              22.95286
+            ],
+            [
+              40.63349,
+              22.95294
+            ],
+            [
+              40.63347,
+              22.95298
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "aristotelous-square",

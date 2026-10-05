@@ -12,18 +12,73 @@
     "maxLat": 40.97,
     "maxLng": -5.66
   },
-  "updatedAt": "2026-08-13T19:30:00.000Z",
+  "updatedAt": "2026-10-01T17:37:35.000Z",
   "status": "complete",
   "places": [
     {
       "id": "plaza-mayor-salamanca",
       "name": "Plaza Mayor",
-      "lat": 40.965,
-      "lng": -5.664,
+      "lat": 40.96454,
+      "lng": -5.66503,
       "radiusM": 100,
       "address": "Plaza Mayor de Salamanca",
       "howTo": "Visit Plaza Mayor.",
-      "badge": "badges/plaza-mayor-salamanca.png"
+      "badge": "badges/plaza-mayor-salamanca.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.9646,
+              -5.66509
+            ],
+            [
+              40.96457,
+              -5.66509
+            ],
+            [
+              40.96455,
+              -5.665
+            ],
+            [
+              40.96453,
+              -5.66501
+            ],
+            [
+              40.96447,
+              -5.66482
+            ],
+            [
+              40.96444,
+              -5.66484
+            ],
+            [
+              40.96451,
+              -5.665
+            ],
+            [
+              40.96452,
+              -5.66506
+            ],
+            [
+              40.96454,
+              -5.66505
+            ],
+            [
+              40.96456,
+              -5.66519
+            ],
+            [
+              40.96462,
+              -5.66515
+            ],
+            [
+              40.9646,
+              -5.66509
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "salamanca-cathedral",
@@ -33,17 +88,111 @@
       "radiusM": 120,
       "address": "Catedral Nueva",
       "howTo": "Visit New Cathedral of Salamanca.",
-      "badge": "badges/salamanca-cathedral.png"
+      "badge": "badges/salamanca-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.96038,
+              -5.666
+            ],
+            [
+              40.96026,
+              -5.66606
+            ],
+            [
+              40.96013,
+              -5.66555
+            ],
+            [
+              40.96028,
+              -5.66548
+            ],
+            [
+              40.96029,
+              -5.66553
+            ],
+            [
+              40.96077,
+              -5.66531
+            ],
+            [
+              40.96111,
+              -5.66658
+            ],
+            [
+              40.96063,
+              -5.66678
+            ],
+            [
+              40.96047,
+              -5.66617
+            ],
+            [
+              40.96044,
+              -5.66619
+            ],
+            [
+              40.96038,
+              -5.666
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "university-salamanca",
       "name": "University of Salamanca",
-      "lat": 40.9615,
-      "lng": -5.6675,
+      "lat": 40.96211,
+      "lng": -5.66898,
       "radiusM": 100,
       "address": "Universidad de Salamanca",
       "howTo": "Visit University of Salamanca.",
-      "badge": "badges/university-salamanca.png"
+      "badge": "badges/university-salamanca.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.96199,
+              -5.66846
+            ],
+            [
+              40.96207,
+              -5.66863
+            ],
+            [
+              40.96202,
+              -5.66889
+            ],
+            [
+              40.96244,
+              -5.669
+            ],
+            [
+              40.96242,
+              -5.66912
+            ],
+            [
+              40.96221,
+              -5.66937
+            ],
+            [
+              40.96184,
+              -5.66925
+            ],
+            [
+              40.96186,
+              -5.66914
+            ],
+            [
+              40.96199,
+              -5.66846
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

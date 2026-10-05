@@ -12,28 +12,119 @@
     "maxLat": 19.455,
     "maxLng": -70.688
   },
-  "updatedAt": "2026-08-18T10:35:00.000Z",
+  "updatedAt": "2026-10-01T08:33:25.000Z",
   "status": "complete",
   "places": [
     {
       "id": "monumento-heroes",
       "name": "Monumento a los Heroes",
-      "lat": 19.45,
-      "lng": -70.694,
+      "lat": 19.45091,
+      "lng": -70.69471,
       "radiusM": 120,
       "address": "Santiago",
       "howTo": "Visit Monumento a los Heroes.",
-      "badge": "badges/monumento-heroes.png"
+      "badge": "badges/monumento-heroes.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.45102,
+              -70.69478
+            ],
+            [
+              19.45101,
+              -70.69473
+            ],
+            [
+              19.45099,
+              -70.69473
+            ],
+            [
+              19.45099,
+              -70.69457
+            ],
+            [
+              19.45094,
+              -70.69459
+            ],
+            [
+              19.4508,
+              -70.6946
+            ],
+            [
+              19.45081,
+              -70.69465
+            ],
+            [
+              19.45082,
+              -70.69464
+            ],
+            [
+              19.45083,
+              -70.6948
+            ],
+            [
+              19.45087,
+              -70.6948
+            ],
+            [
+              19.45087,
+              -70.69478
+            ],
+            [
+              19.45097,
+              -70.69477
+            ],
+            [
+              19.45097,
+              -70.69478
+            ],
+            [
+              19.45102,
+              -70.69478
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "catedral-santiago",
       "name": "Santiago Cathedral",
-      "lat": 19.4515,
-      "lng": -70.697,
+      "lat": 19.45016,
+      "lng": -70.699,
       "radiusM": 80,
       "address": "Parque Duarte",
       "howTo": "Visit Santiago Cathedral.",
-      "badge": "badges/catedral-santiago.png"
+      "badge": "badges/catedral-santiago.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              19.45029,
+              -70.6992
+            ],
+            [
+              19.45024,
+              -70.69878
+            ],
+            [
+              19.45004,
+              -70.6988
+            ],
+            [
+              19.45008,
+              -70.69922
+            ],
+            [
+              19.45029,
+              -70.6992
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,61 @@
     "maxLat": 54.655,
     "maxLng": 24.945
   },
-  "updatedAt": "2026-08-18T03:25:42.000Z",
+  "updatedAt": "2026-10-01T12:15:18.000Z",
   "status": "complete",
   "places": [
     {
       "id": "trakai-island-castle",
       "name": "Trakai Island Castle",
-      "lat": 54.6522,
-      "lng": 24.9335,
+      "lat": 54.65269,
+      "lng": 24.93399,
       "radiusM": 100,
       "address": "Lake Galv\u0117",
       "howTo": "Visit Trakai Island Castle.",
-      "badge": "badges/trakai-island-castle.png"
+      "badge": "badges/trakai-island-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              54.65272,
+              24.93387
+            ],
+            [
+              54.65269,
+              24.93377
+            ],
+            [
+              54.6526,
+              24.93385
+            ],
+            [
+              54.65263,
+              24.93397
+            ],
+            [
+              54.65252,
+              24.93406
+            ],
+            [
+              54.65263,
+              24.93443
+            ],
+            [
+              54.65293,
+              24.93417
+            ],
+            [
+              54.65282,
+              24.93378
+            ],
+            [
+              54.65272,
+              24.93387
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "trakai-peninsula-castle",

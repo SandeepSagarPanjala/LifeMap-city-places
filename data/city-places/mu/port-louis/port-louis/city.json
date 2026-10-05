@@ -12,7 +12,7 @@
     "maxLat": -20.157,
     "maxLng": 57.505
   },
-  "updatedAt": "2026-08-19T00:29:52.000Z",
+  "updatedAt": "2026-10-02T19:03:15.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,91 @@
       "radiusM": 50,
       "address": "Port Louis",
       "howTo": "Visit Aapravasi Ghat.",
-      "badge": "badges/aapravasi-ghat.png"
+      "badge": "badges/aapravasi-ghat.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -20.15841,
+              57.50289
+            ],
+            [
+              -20.15844,
+              57.50315
+            ],
+            [
+              -20.15874,
+              57.50308
+            ],
+            [
+              -20.15867,
+              57.50281
+            ],
+            [
+              -20.15841,
+              57.50289
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "caudan-waterfront",
       "name": "Caudan Waterfront",
-      "lat": -20.16095,
-      "lng": 57.49854,
+      "lat": -20.16066,
+      "lng": 57.49832,
       "radiusM": 80,
       "address": "Port Louis",
       "howTo": "Visit Caudan Waterfront.",
-      "badge": "badges/caudan-waterfront.png"
+      "badge": "badges/caudan-waterfront.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -20.16058,
+              57.4983
+            ],
+            [
+              -20.16059,
+              57.49839
+            ],
+            [
+              -20.16064,
+              57.49842
+            ],
+            [
+              -20.1607,
+              57.49841
+            ],
+            [
+              -20.16074,
+              57.49837
+            ],
+            [
+              -20.16074,
+              57.49828
+            ],
+            [
+              -20.1607,
+              57.49823
+            ],
+            [
+              -20.16064,
+              57.49823
+            ],
+            [
+              -20.16059,
+              57.49827
+            ],
+            [
+              -20.16058,
+              57.4983
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

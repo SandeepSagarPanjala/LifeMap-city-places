@@ -12,7 +12,7 @@
     "maxLat": 45.6,
     "maxLng": -122.5
   },
-  "updatedAt": "2026-08-11T13:49:01.000Z",
+  "updatedAt": "2026-10-02T21:25:08.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,78 @@
       "radiusM": 200,
       "address": "611 SW Kingston Ave, Portland, OR",
       "howTo": "Visit the Portland Japanese Garden.",
-      "badge": "badges/japanese-garden.png"
+      "badge": "badges/japanese-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.51946,
+              -122.70731
+            ],
+            [
+              45.51972,
+              -122.70731
+            ],
+            [
+              45.5197,
+              -122.7077
+            ],
+            [
+              45.51958,
+              -122.70862
+            ],
+            [
+              45.5195,
+              -122.70895
+            ],
+            [
+              45.51931,
+              -122.70924
+            ],
+            [
+              45.51901,
+              -122.70923
+            ],
+            [
+              45.51832,
+              -122.70958
+            ],
+            [
+              45.5178,
+              -122.70907
+            ],
+            [
+              45.51777,
+              -122.70864
+            ],
+            [
+              45.51799,
+              -122.7084
+            ],
+            [
+              45.51804,
+              -122.70818
+            ],
+            [
+              45.51795,
+              -122.70751
+            ],
+            [
+              45.51809,
+              -122.70689
+            ],
+            [
+              45.51947,
+              -122.70684
+            ],
+            [
+              45.51946,
+              -122.70731
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "international-rose-test-garden",
@@ -33,7 +104,58 @@
       "radiusM": 200,
       "address": "400 SW Kingston Ave, Portland, OR",
       "howTo": "Visit the International Rose Test Garden.",
-      "badge": "badges/international-rose-test-garden.png"
+      "badge": "badges/international-rose-test-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.52023,
+              -122.70551
+            ],
+            [
+              45.52034,
+              -122.70579
+            ],
+            [
+              45.52034,
+              -122.70621
+            ],
+            [
+              45.51827,
+              -122.7062
+            ],
+            [
+              45.51829,
+              -122.70535
+            ],
+            [
+              45.51856,
+              -122.70447
+            ],
+            [
+              45.51952,
+              -122.70454
+            ],
+            [
+              45.52033,
+              -122.70488
+            ],
+            [
+              45.52036,
+              -122.70519
+            ],
+            [
+              45.52024,
+              -122.7054
+            ],
+            [
+              45.52023,
+              -122.70551
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pittock-mansion",
@@ -43,17 +165,119 @@
       "radiusM": 150,
       "address": "3229 NW Pittock Dr, Portland, OR",
       "howTo": "Visit Pittock Mansion.",
-      "badge": "badges/pittock-mansion.png"
+      "badge": "badges/pittock-mansion.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.52535,
+              -122.71643
+            ],
+            [
+              45.52525,
+              -122.71649
+            ],
+            [
+              45.52522,
+              -122.71638
+            ],
+            [
+              45.5252,
+              -122.71639
+            ],
+            [
+              45.52516,
+              -122.71633
+            ],
+            [
+              45.52508,
+              -122.71637
+            ],
+            [
+              45.52504,
+              -122.71628
+            ],
+            [
+              45.52505,
+              -122.71624
+            ],
+            [
+              45.5251,
+              -122.71621
+            ],
+            [
+              45.52509,
+              -122.71617
+            ],
+            [
+              45.52518,
+              -122.7161
+            ],
+            [
+              45.52523,
+              -122.71609
+            ],
+            [
+              45.5253,
+              -122.71614
+            ],
+            [
+              45.52529,
+              -122.7162
+            ],
+            [
+              45.52531,
+              -122.71622
+            ],
+            [
+              45.52534,
+              -122.71639
+            ],
+            [
+              45.52535,
+              -122.71643
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "waterfront-park-portland",
       "name": "Tom McCall Waterfront Park",
-      "lat": 45.5155,
-      "lng": -122.6735,
+      "lat": 45.51669,
+      "lng": -122.67343,
       "radiusM": 250,
       "address": "Waterfront Park, Portland, OR",
       "howTo": "Visit Tom McCall Waterfront Park.",
-      "badge": "badges/waterfront-park-portland.png"
+      "badge": "badges/waterfront-park-portland.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.51687,
+              -122.67355
+            ],
+            [
+              45.51661,
+              -122.67368
+            ],
+            [
+              45.51652,
+              -122.67332
+            ],
+            [
+              45.51677,
+              -122.67318
+            ],
+            [
+              45.51687,
+              -122.67355
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "pioneer-courthouse-square",
@@ -63,7 +287,38 @@
       "radiusM": 120,
       "address": "701 SW 6th Ave, Portland, OR",
       "howTo": "Visit Pioneer Courthouse Square.",
-      "badge": "badges/pioneer-courthouse-square.png"
+      "badge": "badges/pioneer-courthouse-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.51926,
+              -122.67956
+            ],
+            [
+              45.51871,
+              -122.67985
+            ],
+            [
+              45.5185,
+              -122.67906
+            ],
+            [
+              45.51905,
+              -122.67876
+            ],
+            [
+              45.51925,
+              -122.6795
+            ],
+            [
+              45.51926,
+              -122.67956
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "forest-park",

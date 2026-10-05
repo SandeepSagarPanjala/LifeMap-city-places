@@ -12,18 +12,45 @@
     "maxLat": 6.88,
     "maxLng": 81.07
   },
-  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "updatedAt": "2026-10-02T23:11:36.000Z",
   "status": "complete",
   "places": [
     {
       "id": "nine-arch-bridge",
       "name": "Nine Arch Bridge",
-      "lat": 6.8766,
-      "lng": 81.0611,
+      "lat": 6.87462,
+      "lng": 81.06229,
       "radiusM": 120,
       "address": "Demodara",
       "howTo": "Visit Nine Arch Bridge.",
-      "badge": "badges/nine-arch-bridge.png"
+      "badge": "badges/nine-arch-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.87454,
+              81.06226
+            ],
+            [
+              6.87469,
+              81.06223
+            ],
+            [
+              6.87471,
+              81.06232
+            ],
+            [
+              6.87456,
+              81.06235
+            ],
+            [
+              6.87454,
+              81.06226
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "little-adams-peak",

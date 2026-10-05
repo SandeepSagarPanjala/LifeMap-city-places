@@ -12,28 +12,130 @@
     "maxLat": 37.95,
     "maxLng": 27.36
   },
-  "updatedAt": "2026-08-18T00:10:00.000Z",
+  "updatedAt": "2026-10-03T01:09:01.000Z",
   "status": "complete",
   "places": [
     {
       "id": "library-of-celsus",
       "name": "Library of Celsus",
-      "lat": 37.9391,
-      "lng": 27.3409,
+      "lat": 37.93922,
+      "lng": 27.34083,
       "radiusM": 120,
       "address": "Ephesus",
       "howTo": "Visit Library of Celsus.",
-      "badge": "badges/library-of-celsus.png"
+      "badge": "badges/library-of-celsus.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.93933,
+              27.34077
+            ],
+            [
+              37.93914,
+              27.34071
+            ],
+            [
+              37.9391,
+              27.34089
+            ],
+            [
+              37.93929,
+              27.34095
+            ],
+            [
+              37.93933,
+              27.34077
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ephesus-theatre",
       "name": "Ephesus Great Theatre",
-      "lat": 37.9375,
-      "lng": 27.3418,
+      "lat": 37.94105,
+      "lng": 27.34249,
       "radiusM": 150,
       "address": "Ephesus",
       "howTo": "Visit Ephesus Great Theatre.",
-      "badge": "badges/ephesus-theatre.png"
+      "badge": "badges/ephesus-theatre.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.94051,
+              27.34185
+            ],
+            [
+              37.94041,
+              27.34218
+            ],
+            [
+              37.94041,
+              27.34249
+            ],
+            [
+              37.94051,
+              27.34279
+            ],
+            [
+              37.94069,
+              27.34303
+            ],
+            [
+              37.94094,
+              27.34316
+            ],
+            [
+              37.94117,
+              27.34316
+            ],
+            [
+              37.9414,
+              27.34306
+            ],
+            [
+              37.94161,
+              27.34282
+            ],
+            [
+              37.94173,
+              27.34235
+            ],
+            [
+              37.9414,
+              27.34234
+            ],
+            [
+              37.94143,
+              27.34222
+            ],
+            [
+              37.94137,
+              27.34219
+            ],
+            [
+              37.94139,
+              27.34211
+            ],
+            [
+              37.94093,
+              27.34195
+            ],
+            [
+              37.94088,
+              27.34216
+            ],
+            [
+              37.94051,
+              27.34185
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "temple-of-artemis",
@@ -43,7 +145,42 @@
       "radiusM": 100,
       "address": "Selcuk",
       "howTo": "Visit Temple of Artemis.",
-      "badge": "badges/temple-of-artemis.png"
+      "badge": "badges/temple-of-artemis.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.95013,
+              27.36298
+            ],
+            [
+              37.94997,
+              27.36371
+            ],
+            [
+              37.95002,
+              27.36389
+            ],
+            [
+              37.94989,
+              27.36444
+            ],
+            [
+              37.94938,
+              27.36426
+            ],
+            [
+              37.9497,
+              27.36283
+            ],
+            [
+              37.95013,
+              27.36298
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,28 +12,110 @@
     "maxLat": 42.558,
     "maxLng": 1.536
   },
-  "updatedAt": "2026-08-18T04:11:51.000Z",
+  "updatedAt": "2026-09-30T23:23:02.000Z",
   "status": "complete",
   "places": [
     {
       "id": "casa-areny-plandolit",
       "name": "Casa d'Areny-Plandolit",
-      "lat": 42.55528,
-      "lng": 1.53306,
+      "lat": 42.55665,
+      "lng": 1.53404,
       "radiusM": 50,
       "address": "Ordino",
       "howTo": "Visit Casa d'Areny-Plandolit.",
-      "badge": "badges/casa-areny-plandolit.png"
+      "badge": "badges/casa-areny-plandolit.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.55661,
+              1.53389
+            ],
+            [
+              42.5568,
+              1.53407
+            ],
+            [
+              42.55672,
+              1.53421
+            ],
+            [
+              42.55654,
+              1.53403
+            ],
+            [
+              42.55656,
+              1.53398
+            ],
+            [
+              42.55661,
+              1.53389
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "sant-corneli",
       "name": "Sant Corneli i Sant Cebri\u00e0",
-      "lat": 42.55583,
-      "lng": 1.5325,
+      "lat": 42.55689,
+      "lng": 1.53287,
       "radiusM": 50,
       "address": "Ordino",
       "howTo": "Visit Sant Corneli i Sant Cebri\u00e0.",
-      "badge": "badges/sant-corneli.png"
+      "badge": "badges/sant-corneli.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.55693,
+              1.53276
+            ],
+            [
+              42.55682,
+              1.53277
+            ],
+            [
+              42.55682,
+              1.53283
+            ],
+            [
+              42.55676,
+              1.53283
+            ],
+            [
+              42.55677,
+              1.53299
+            ],
+            [
+              42.55695,
+              1.53297
+            ],
+            [
+              42.55694,
+              1.53294
+            ],
+            [
+              42.55696,
+              1.53294
+            ],
+            [
+              42.55696,
+              1.53285
+            ],
+            [
+              42.55694,
+              1.53285
+            ],
+            [
+              42.55693,
+              1.53276
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

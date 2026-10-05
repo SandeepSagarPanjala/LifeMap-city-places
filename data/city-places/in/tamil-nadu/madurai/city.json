@@ -12,18 +12,45 @@
     "maxLat": 9.95,
     "maxLng": 78.15
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:48:29.000Z",
   "status": "complete",
   "places": [
     {
       "id": "meenakshi-temple",
       "name": "Meenakshi Amman Temple",
-      "lat": 9.9195,
-      "lng": 78.1193,
+      "lat": 9.91954,
+      "lng": 78.11883,
       "radiusM": 200,
       "address": "Meenakshi Temple, Madurai, TN",
       "howTo": "Visit Meenakshi Amman Temple.",
-      "badge": "badges/meenakshi-temple.png"
+      "badge": "badges/meenakshi-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.91958,
+              78.11878
+            ],
+            [
+              9.9196,
+              78.11887
+            ],
+            [
+              9.91951,
+              78.11889
+            ],
+            [
+              9.91949,
+              78.1188
+            ],
+            [
+              9.91958,
+              78.11878
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "thirumalai-nayakkar",
@@ -33,27 +60,132 @@
       "radiusM": 150,
       "address": "Thirumalai Nayakkar Palace, Madurai, TN",
       "howTo": "Visit Thirumalai Nayakkar Mahal.",
-      "badge": "badges/thirumalai-nayakkar.png"
+      "badge": "badges/thirumalai-nayakkar.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.91438,
+              78.12498
+            ],
+            [
+              9.91426,
+              78.12333
+            ],
+            [
+              9.91436,
+              78.12314
+            ],
+            [
+              9.91471,
+              78.12307
+            ],
+            [
+              9.9147,
+              78.12282
+            ],
+            [
+              9.91526,
+              78.12276
+            ],
+            [
+              9.91543,
+              78.12377
+            ],
+            [
+              9.91548,
+              78.12495
+            ],
+            [
+              9.9149,
+              78.12497
+            ],
+            [
+              9.91438,
+              78.12498
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "gandhi-museum-madurai",
       "name": "Gandhi Memorial Museum",
-      "lat": 9.9305,
-      "lng": 78.1385,
+      "lat": 9.9301,
+      "lng": 78.13869,
       "radiusM": 120,
       "address": "Gandhi Museum, Madurai, TN",
       "howTo": "Visit Gandhi Memorial Museum.",
-      "badge": "badges/gandhi-museum-madurai.png"
+      "badge": "badges/gandhi-museum-madurai.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.93015,
+              78.13863
+            ],
+            [
+              9.93013,
+              78.13875
+            ],
+            [
+              9.93006,
+              78.13874
+            ],
+            [
+              9.93008,
+              78.13862
+            ],
+            [
+              9.93015,
+              78.13863
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "vandiyur-mariamman-teppakulam",
       "name": "Vandiyur Mariamman Teppakulam",
-      "lat": 9.9155,
-      "lng": 78.1485,
+      "lat": 9.91195,
+      "lng": 78.14894,
       "radiusM": 150,
       "address": "Teppakulam, Madurai, TN",
       "howTo": "Visit Vandiyur Mariamman Teppakulam.",
-      "badge": "badges/vandiyur-mariamman-teppakulam.png"
+      "badge": "badges/vandiyur-mariamman-teppakulam.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.91187,
+              78.14849
+            ],
+            [
+              9.91211,
+              78.1485
+            ],
+            [
+              9.91209,
+              78.149
+            ],
+            [
+              9.91192,
+              78.14939
+            ],
+            [
+              9.91178,
+              78.14932
+            ],
+            [
+              9.91187,
+              78.14849
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,49 @@
     "maxLat": 17.228,
     "maxLng": -89.615
   },
-  "updatedAt": "2026-08-18T02:20:31.000Z",
+  "updatedAt": "2026-10-01T09:49:17.000Z",
   "status": "complete",
   "places": [
     {
       "id": "temple-i-tikal",
       "name": "Temple I",
-      "lat": 17.222,
-      "lng": -89.6236,
+      "lat": 17.22206,
+      "lng": -89.62309,
       "radiusM": 150,
       "address": "Tikal National Park",
       "howTo": "Visit Temple I.",
-      "badge": "badges/temple-i-tikal.png"
+      "badge": "badges/temple-i-tikal.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.22225,
+              -89.62322
+            ],
+            [
+              17.22221,
+              -89.62285
+            ],
+            [
+              17.22185,
+              -89.62289
+            ],
+            [
+              17.2219,
+              -89.62327
+            ],
+            [
+              17.22211,
+              -89.62324
+            ],
+            [
+              17.22225,
+              -89.62322
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "temple-iv-tikal",
@@ -33,7 +64,50 @@
       "radiusM": 150,
       "address": "Tikal National Park",
       "howTo": "Visit Temple IV.",
-      "badge": "badges/temple-iv-tikal.png"
+      "badge": "badges/temple-iv-tikal.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.22411,
+              -89.63011
+            ],
+            [
+              17.22401,
+              -89.62952
+            ],
+            [
+              17.22373,
+              -89.62957
+            ],
+            [
+              17.22372,
+              -89.62951
+            ],
+            [
+              17.22355,
+              -89.62954
+            ],
+            [
+              17.22356,
+              -89.6296
+            ],
+            [
+              17.2233,
+              -89.62965
+            ],
+            [
+              17.22341,
+              -89.63025
+            ],
+            [
+              17.22411,
+              -89.63011
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,7 +12,7 @@
     "maxLat": -4.621,
     "maxLng": 55.454
   },
-  "updatedAt": "2026-08-19T00:35:20.000Z",
+  "updatedAt": "2026-10-02T19:39:03.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,54 @@
       "radiusM": 40,
       "address": "Victoria",
       "howTo": "Visit St. Paul's Cathedral.",
-      "badge": "badges/st-pauls-cathedral.png"
+      "badge": "badges/st-pauls-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -4.62245,
+              55.45208
+            ],
+            [
+              -4.62246,
+              55.45217
+            ],
+            [
+              -4.62279,
+              55.45221
+            ],
+            [
+              -4.6228,
+              55.45207
+            ],
+            [
+              -4.62286,
+              55.45197
+            ],
+            [
+              -4.62285,
+              55.45172
+            ],
+            [
+              -4.62251,
+              55.45173
+            ],
+            [
+              -4.62246,
+              55.45177
+            ],
+            [
+              -4.62247,
+              55.45181
+            ],
+            [
+              -4.62245,
+              55.45208
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

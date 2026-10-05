@@ -12,7 +12,7 @@
     "maxLat": 6.38,
     "maxLng": 99.75
   },
-  "updatedAt": "2026-08-18T03:20:00.000Z",
+  "updatedAt": "2026-10-01T19:31:23.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,55 @@
     {
       "id": "cenang-beach",
       "name": "Cenang Beach",
-      "lat": 6.288,
-      "lng": 99.726,
+      "lat": 6.28838,
+      "lng": 99.72788,
       "radiusM": 300,
       "address": "Pantai Cenang",
       "howTo": "Visit Cenang Beach.",
-      "badge": "badges/cenang-beach.png"
+      "badge": "badges/cenang-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.28813,
+              99.72774
+            ],
+            [
+              6.2883,
+              99.72771
+            ],
+            [
+              6.28873,
+              99.72751
+            ],
+            [
+              6.28896,
+              99.72791
+            ],
+            [
+              6.289,
+              99.72823
+            ],
+            [
+              6.28813,
+              99.72835
+            ],
+            [
+              6.28788,
+              99.72786
+            ],
+            [
+              6.28789,
+              99.72773
+            ],
+            [
+              6.28813,
+              99.72774
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

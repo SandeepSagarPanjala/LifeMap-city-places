@@ -12,7 +12,7 @@
     "maxLat": 13.514,
     "maxLng": 2.11
   },
-  "updatedAt": "2026-08-19T02:27:56.000Z",
+  "updatedAt": "2026-10-02T23:21:28.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,34 @@
       "radiusM": 40,
       "address": "Niamey",
       "howTo": "Visit Pont Kennedy.",
-      "badge": "badges/pont-kennedy.png"
+      "badge": "badges/pont-kennedy.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              13.50291,
+              2.10219
+            ],
+            [
+              13.50759,
+              2.10711
+            ],
+            [
+              13.50765,
+              2.10703
+            ],
+            [
+              13.50296,
+              2.10213
+            ],
+            [
+              13.50291,
+              2.10219
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

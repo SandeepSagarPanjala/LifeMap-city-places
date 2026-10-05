@@ -12,7 +12,7 @@
     "maxLat": 47.81,
     "maxLng": 13.06
   },
-  "updatedAt": "2026-08-18T05:45:00.000Z",
+  "updatedAt": "2026-10-01T03:55:35.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,106 @@
       "radiusM": 200,
       "address": "Festungsberg",
       "howTo": "Visit Hohensalzburg Fortress.",
-      "badge": "badges/hohen-salzburg-fortress.png"
+      "badge": "badges/hohen-salzburg-fortress.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              47.7953,
+              13.04796
+            ],
+            [
+              47.79559,
+              13.0479
+            ],
+            [
+              47.79582,
+              13.04888
+            ],
+            [
+              47.79609,
+              13.04902
+            ],
+            [
+              47.79596,
+              13.04933
+            ],
+            [
+              47.79582,
+              13.04929
+            ],
+            [
+              47.79567,
+              13.04955
+            ],
+            [
+              47.79525,
+              13.04965
+            ],
+            [
+              47.79499,
+              13.04864
+            ],
+            [
+              47.79465,
+              13.04802
+            ],
+            [
+              47.79454,
+              13.0481
+            ],
+            [
+              47.79448,
+              13.04748
+            ],
+            [
+              47.79434,
+              13.04738
+            ],
+            [
+              47.79451,
+              13.047
+            ],
+            [
+              47.79444,
+              13.04663
+            ],
+            [
+              47.7948,
+              13.0462
+            ],
+            [
+              47.79485,
+              13.04631
+            ],
+            [
+              47.79509,
+              13.0461
+            ],
+            [
+              47.79521,
+              13.04659
+            ],
+            [
+              47.79535,
+              13.04678
+            ],
+            [
+              47.79525,
+              13.047
+            ],
+            [
+              47.79532,
+              13.0479
+            ],
+            [
+              47.7953,
+              13.04796
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mirabell-palace",
@@ -33,17 +132,83 @@
       "radiusM": 150,
       "address": "Mirabell",
       "howTo": "Visit Mirabell Palace Gardens.",
-      "badge": "badges/mirabell-palace.png"
+      "badge": "badges/mirabell-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              47.80565,
+              13.04259
+            ],
+            [
+              47.80539,
+              13.04274
+            ],
+            [
+              47.80512,
+              13.04169
+            ],
+            [
+              47.8057,
+              13.04136
+            ],
+            [
+              47.80597,
+              13.04241
+            ],
+            [
+              47.80566,
+              13.04263
+            ],
+            [
+              47.80565,
+              13.04259
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "mozart-birthplace",
       "name": "Mozart's Birthplace",
-      "lat": 47.8,
-      "lng": 13.0439,
+      "lat": 47.79991,
+      "lng": 13.04354,
       "radiusM": 80,
       "address": "Getreidegasse",
       "howTo": "Visit Mozart's Birthplace.",
-      "badge": "badges/mozart-birthplace.png"
+      "badge": "badges/mozart-birthplace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              47.80005,
+              13.04349
+            ],
+            [
+              47.80004,
+              13.04363
+            ],
+            [
+              47.79982,
+              13.04361
+            ],
+            [
+              47.79982,
+              13.04348
+            ],
+            [
+              47.79984,
+              13.04348
+            ],
+            [
+              47.80005,
+              13.04349
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

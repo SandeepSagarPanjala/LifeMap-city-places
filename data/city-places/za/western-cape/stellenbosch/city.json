@@ -12,18 +12,45 @@
     "maxLat": -33.92,
     "maxLng": 18.88
   },
-  "updatedAt": "2026-08-18T03:40:00.000Z",
+  "updatedAt": "2026-10-02T22:12:36.000Z",
   "status": "complete",
   "places": [
     {
       "id": "stellenbosch-winelands",
       "name": "Stellenbosch Winelands",
-      "lat": -33.932,
-      "lng": 18.86,
+      "lat": -33.93496,
+      "lng": 18.85821,
       "radiusM": 300,
       "address": "Stellenbosch",
       "howTo": "Visit Stellenbosch Winelands.",
-      "badge": "badges/stellenbosch-winelands.png"
+      "badge": "badges/stellenbosch-winelands.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -33.93479,
+              18.85797
+            ],
+            [
+              -33.93474,
+              18.85839
+            ],
+            [
+              -33.93513,
+              18.85845
+            ],
+            [
+              -33.93517,
+              18.85803
+            ],
+            [
+              -33.93479,
+              18.85797
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dorp-street-stellenbosch",

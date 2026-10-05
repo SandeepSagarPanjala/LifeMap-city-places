@@ -12,7 +12,7 @@
     "maxLat": 51.55,
     "maxLng": 0.02
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-04T21:40:59.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,38 @@
       "radiusM": 120,
       "address": "Westminster, London",
       "howTo": "Visit Big Ben / Elizabeth Tower.",
-      "badge": "badges/big-ben.png"
+      "badge": "badges/big-ben.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.50065,
+              -0.12466
+            ],
+            [
+              51.50063,
+              -0.12449
+            ],
+            [
+              51.50075,
+              -0.12447
+            ],
+            [
+              51.50077,
+              -0.12466
+            ],
+            [
+              51.50065,
+              -0.12468
+            ],
+            [
+              51.50065,
+              -0.12466
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tower-of-london",
@@ -38,82 +69,454 @@
     {
       "id": "tower-bridge",
       "name": "Tower Bridge",
-      "lat": 51.5055,
-      "lng": -0.0754,
+      "lat": 51.50364,
+      "lng": -0.07761,
       "radiusM": 150,
       "address": "Tower Bridge, London",
       "howTo": "Visit Tower Bridge.",
-      "badge": "badges/tower-bridge.png"
+      "badge": "badges/tower-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.50418,
+              -0.07669
+            ],
+            [
+              51.5041,
+              -0.07835
+            ],
+            [
+              51.50399,
+              -0.07849
+            ],
+            [
+              51.50361,
+              -0.07872
+            ],
+            [
+              51.50355,
+              -0.07848
+            ],
+            [
+              51.5035,
+              -0.07851
+            ],
+            [
+              51.50334,
+              -0.07778
+            ],
+            [
+              51.50304,
+              -0.07798
+            ],
+            [
+              51.50291,
+              -0.07744
+            ],
+            [
+              51.50297,
+              -0.07722
+            ],
+            [
+              51.50372,
+              -0.07672
+            ],
+            [
+              51.50377,
+              -0.07692
+            ],
+            [
+              51.50417,
+              -0.07652
+            ],
+            [
+              51.50418,
+              -0.07666
+            ],
+            [
+              51.50418,
+              -0.07669
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "buckingham-palace",
       "name": "Buckingham Palace",
-      "lat": 51.5014,
-      "lng": -0.1419,
+      "lat": 51.49768,
+      "lng": -0.13641,
       "radiusM": 200,
       "address": "Buckingham Palace",
       "howTo": "Visit Buckingham Palace.",
-      "badge": "badges/buckingham-palace.png"
+      "badge": "badges/buckingham-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.49776,
+              -0.13586
+            ],
+            [
+              51.49791,
+              -0.13599
+            ],
+            [
+              51.49779,
+              -0.13705
+            ],
+            [
+              51.49755,
+              -0.13694
+            ],
+            [
+              51.49746,
+              -0.13682
+            ],
+            [
+              51.49763,
+              -0.13581
+            ],
+            [
+              51.49776,
+              -0.13586
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "british-museum",
       "name": "British Museum",
-      "lat": 51.5194,
-      "lng": -0.127,
+      "lat": 51.51791,
+      "lng": -0.13283,
       "radiusM": 150,
       "address": "British Museum, Bloomsbury",
       "howTo": "Visit British Museum.",
-      "badge": "badges/british-museum.png"
+      "badge": "badges/british-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.51766,
+              -0.13303
+            ],
+            [
+              51.51791,
+              -0.13261
+            ],
+            [
+              51.51795,
+              -0.13259
+            ],
+            [
+              51.51802,
+              -0.13271
+            ],
+            [
+              51.51801,
+              -0.13277
+            ],
+            [
+              51.51804,
+              -0.13283
+            ],
+            [
+              51.51781,
+              -0.13326
+            ],
+            [
+              51.51766,
+              -0.13303
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "london-eye",
       "name": "London Eye",
-      "lat": 51.5033,
-      "lng": -0.1196,
+      "lat": 51.50335,
+      "lng": -0.11968,
       "radiusM": 120,
       "address": "South Bank, London",
       "howTo": "Visit London Eye.",
-      "badge": "badges/london-eye.png"
+      "badge": "badges/london-eye.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.50394,
+              -0.11949
+            ],
+            [
+              51.50395,
+              -0.11961
+            ],
+            [
+              51.50275,
+              -0.11986
+            ],
+            [
+              51.50274,
+              -0.11974
+            ],
+            [
+              51.50394,
+              -0.11949
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "westminster-abbey",
       "name": "Westminster Abbey",
-      "lat": 51.4994,
-      "lng": -0.1273,
+      "lat": 51.49989,
+      "lng": -0.12674,
       "radiusM": 120,
       "address": "Westminster Abbey",
       "howTo": "Visit Westminster Abbey.",
-      "badge": "badges/westminster-abbey.png"
+      "badge": "badges/westminster-abbey.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.49998,
+              -0.12693
+            ],
+            [
+              51.50005,
+              -0.12693
+            ],
+            [
+              51.50005,
+              -0.12705
+            ],
+            [
+              51.49992,
+              -0.12701
+            ],
+            [
+              51.49992,
+              -0.12707
+            ],
+            [
+              51.49984,
+              -0.12707
+            ],
+            [
+              51.49984,
+              -0.12701
+            ],
+            [
+              51.49979,
+              -0.12701
+            ],
+            [
+              51.49979,
+              -0.12659
+            ],
+            [
+              51.49974,
+              -0.12659
+            ],
+            [
+              51.49975,
+              -0.12645
+            ],
+            [
+              51.49985,
+              -0.12641
+            ],
+            [
+              51.49985,
+              -0.12637
+            ],
+            [
+              51.49992,
+              -0.12638
+            ],
+            [
+              51.49992,
+              -0.12642
+            ],
+            [
+              51.49998,
+              -0.12642
+            ],
+            [
+              51.49998,
+              -0.12692
+            ],
+            [
+              51.49998,
+              -0.12693
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "st-pauls-cathedral",
       "name": "St Paul's Cathedral",
-      "lat": 51.5138,
-      "lng": -0.0984,
+      "lat": 51.51431,
+      "lng": -0.09906,
       "radiusM": 120,
       "address": "St Paul's Cathedral",
       "howTo": "Visit St Paul's Cathedral.",
-      "badge": "badges/st-pauls-cathedral.png"
+      "badge": "badges/st-pauls-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.51435,
+              -0.0992
+            ],
+            [
+              51.51423,
+              -0.09918
+            ],
+            [
+              51.51425,
+              -0.09885
+            ],
+            [
+              51.51438,
+              -0.09886
+            ],
+            [
+              51.51436,
+              -0.0992
+            ],
+            [
+              51.51435,
+              -0.0992
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "hyde-park-london",
       "name": "Hyde Park",
-      "lat": 51.5073,
-      "lng": -0.1657,
+      "lat": 51.50311,
+      "lng": -0.16261,
       "radiusM": 300,
       "address": "Hyde Park, London",
       "howTo": "Visit Hyde Park.",
-      "badge": "badges/hyde-park-london.png"
+      "badge": "badges/hyde-park-london.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.50295,
+              -0.16293
+            ],
+            [
+              51.50325,
+              -0.16298
+            ],
+            [
+              51.50326,
+              -0.1625
+            ],
+            [
+              51.50321,
+              -0.16243
+            ],
+            [
+              51.50311,
+              -0.16241
+            ],
+            [
+              51.50303,
+              -0.16244
+            ],
+            [
+              51.50295,
+              -0.16257
+            ],
+            [
+              51.50295,
+              -0.16293
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "trafalgar-square",
       "name": "Trafalgar Square",
-      "lat": 51.508,
-      "lng": -0.1281,
+      "lat": 51.5066,
+      "lng": -0.12756,
       "radiusM": 120,
       "address": "Trafalgar Square",
       "howTo": "Visit Trafalgar Square.",
-      "badge": "badges/trafalgar-square.png"
+      "badge": "badges/trafalgar-square.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.50656,
+              -0.12742
+            ],
+            [
+              51.50659,
+              -0.12744
+            ],
+            [
+              51.5066,
+              -0.12739
+            ],
+            [
+              51.50668,
+              -0.12743
+            ],
+            [
+              51.50667,
+              -0.12748
+            ],
+            [
+              51.50669,
+              -0.12749
+            ],
+            [
+              51.50667,
+              -0.12763
+            ],
+            [
+              51.50659,
+              -0.12787
+            ],
+            [
+              51.50646,
+              -0.12781
+            ],
+            [
+              51.50651,
+              -0.12757
+            ],
+            [
+              51.50653,
+              -0.12758
+            ],
+            [
+              51.50656,
+              -0.12742
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

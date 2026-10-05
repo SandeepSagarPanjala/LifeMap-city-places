@@ -12,28 +12,134 @@
     "maxLat": 26.9,
     "maxLng": 81.0
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:53:39.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bara-imambara",
       "name": "Bara Imambara",
-      "lat": 26.869,
-      "lng": 80.9125,
+      "lat": 26.86866,
+      "lng": 80.91261,
       "radiusM": 200,
       "address": "Bara Imambara, Lucknow, UP",
       "howTo": "Visit Bara Imambara.",
-      "badge": "badges/bara-imambara.png"
+      "badge": "badges/bara-imambara.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.86914,
+              80.91241
+            ],
+            [
+              26.86834,
+              80.91212
+            ],
+            [
+              26.86806,
+              80.91307
+            ],
+            [
+              26.8685,
+              80.91322
+            ],
+            [
+              26.86876,
+              80.91235
+            ],
+            [
+              26.86915,
+              80.91249
+            ],
+            [
+              26.86914,
+              80.91241
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rumi-darwaza",
       "name": "Rumi Darwaza",
-      "lat": 26.8705,
-      "lng": 80.9135,
+      "lat": 26.87124,
+      "lng": 80.91221,
       "radiusM": 100,
       "address": "Rumi Darwaza, Lucknow, UP",
       "howTo": "Visit Rumi Darwaza.",
-      "badge": "badges/rumi-darwaza.png"
+      "badge": "badges/rumi-darwaza.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.87134,
+              80.91217
+            ],
+            [
+              26.87133,
+              80.91221
+            ],
+            [
+              26.8715,
+              80.91228
+            ],
+            [
+              26.87154,
+              80.91226
+            ],
+            [
+              26.87155,
+              80.91231
+            ],
+            [
+              26.87151,
+              80.91235
+            ],
+            [
+              26.87146,
+              80.91233
+            ],
+            [
+              26.87145,
+              80.91237
+            ],
+            [
+              26.87096,
+              80.9122
+            ],
+            [
+              26.87097,
+              80.91216
+            ],
+            [
+              26.87088,
+              80.91213
+            ],
+            [
+              26.8709,
+              80.91204
+            ],
+            [
+              26.87093,
+              80.91207
+            ],
+            [
+              26.87111,
+              80.91214
+            ],
+            [
+              26.87112,
+              80.91209
+            ],
+            [
+              26.87134,
+              80.91217
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "chota-imambara",
@@ -43,27 +149,157 @@
       "radiusM": 150,
       "address": "Chota Imambara, Lucknow, UP",
       "howTo": "Visit Chota Imambara.",
-      "badge": "badges/chota-imambara.png"
+      "badge": "badges/chota-imambara.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.87289,
+              80.90461
+            ],
+            [
+              26.87402,
+              80.9052
+            ],
+            [
+              26.874,
+              80.90526
+            ],
+            [
+              26.87409,
+              80.9053
+            ],
+            [
+              26.87458,
+              80.90412
+            ],
+            [
+              26.87335,
+              80.90348
+            ],
+            [
+              26.87289,
+              80.90461
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "hazratganj",
       "name": "Hazratganj",
-      "lat": 26.8505,
-      "lng": 80.9465,
+      "lat": 26.84732,
+      "lng": 80.94296,
       "radiusM": 150,
       "address": "Hazratganj, Lucknow, UP",
       "howTo": "Visit Hazratganj.",
-      "badge": "badges/hazratganj.png"
+      "badge": "badges/hazratganj.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.84545,
+              80.94481
+            ],
+            [
+              26.84662,
+              80.94602
+            ],
+            [
+              26.84689,
+              80.94582
+            ],
+            [
+              26.84967,
+              80.94177
+            ],
+            [
+              26.84801,
+              80.94026
+            ],
+            [
+              26.8479,
+              80.9403
+            ],
+            [
+              26.84745,
+              80.9417
+            ],
+            [
+              26.84659,
+              80.94297
+            ],
+            [
+              26.84545,
+              80.94481
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "ambedkar-memorial",
       "name": "Ambedkar Memorial Park",
-      "lat": 26.85,
-      "lng": 80.98,
+      "lat": 26.84804,
+      "lng": 80.97622,
       "radiusM": 200,
       "address": "Ambedkar Memorial Park, Lucknow, UP",
       "howTo": "Visit Ambedkar Memorial Park.",
-      "badge": "badges/ambedkar-memorial.png"
+      "badge": "badges/ambedkar-memorial.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.85032,
+              80.97283
+            ],
+            [
+              26.85037,
+              80.97479
+            ],
+            [
+              26.85029,
+              80.97593
+            ],
+            [
+              26.84953,
+              80.97877
+            ],
+            [
+              26.84924,
+              80.97894
+            ],
+            [
+              26.84787,
+              80.97888
+            ],
+            [
+              26.84414,
+              80.97976
+            ],
+            [
+              26.84395,
+              80.9777
+            ],
+            [
+              26.84489,
+              80.97198
+            ],
+            [
+              26.84978,
+              80.97266
+            ],
+            [
+              26.85032,
+              80.97283
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

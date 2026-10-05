@@ -12,7 +12,7 @@
     "maxLat": 40.143,
     "maxLng": 44.822
   },
-  "updatedAt": "2026-08-18T03:37:38.000Z",
+  "updatedAt": "2026-09-30T23:29:06.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "radiusM": 80,
       "address": "Azat Gorge",
       "howTo": "Visit Geghard Monastery.",
-      "badge": "badges/geghard-monastery.png"
+      "badge": "badges/geghard-monastery.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.13999,
+              44.81798
+            ],
+            [
+              40.14028,
+              44.819
+            ],
+            [
+              40.14069,
+              44.81898
+            ],
+            [
+              40.14076,
+              44.81815
+            ],
+            [
+              40.1406,
+              44.81777
+            ],
+            [
+              40.14038,
+              44.81775
+            ],
+            [
+              40.13999,
+              44.81798
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

@@ -12,18 +12,45 @@
     "maxLat": 18.928,
     "maxLng": 102.456
   },
-  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "updatedAt": "2026-10-01T12:01:50.000Z",
   "status": "complete",
   "places": [
     {
       "id": "nam-song",
       "name": "Nam Song",
-      "lat": 18.9236,
-      "lng": 102.448,
+      "lat": 18.92137,
+      "lng": 102.44526,
       "radiusM": 200,
       "address": "Vang Vieng",
       "howTo": "Visit Nam Song.",
-      "badge": "badges/nam-song.png"
+      "badge": "badges/nam-song.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              18.9212,
+              102.44526
+            ],
+            [
+              18.92149,
+              102.44538
+            ],
+            [
+              18.92153,
+              102.44526
+            ],
+            [
+              18.92124,
+              102.44515
+            ],
+            [
+              18.9212,
+              102.44526
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "tham-chang",

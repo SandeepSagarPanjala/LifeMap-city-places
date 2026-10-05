@@ -12,7 +12,7 @@
     "maxLat": 14.867,
     "maxLng": -15.873
   },
-  "updatedAt": "2026-08-19T00:02:59.000Z",
+  "updatedAt": "2026-10-02T23:36:31.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 100,
       "address": "Touba",
       "howTo": "Visit Grande Mosquee de Touba.",
-      "badge": "badges/grande-mosquee.png"
+      "badge": "badges/grande-mosquee.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              14.86335,
+              -15.87614
+            ],
+            [
+              14.86341,
+              -15.87596
+            ],
+            [
+              14.86336,
+              -15.87594
+            ],
+            [
+              14.86359,
+              -15.87526
+            ],
+            [
+              14.86324,
+              -15.87513
+            ],
+            [
+              14.86328,
+              -15.87503
+            ],
+            [
+              14.86313,
+              -15.87498
+            ],
+            [
+              14.86281,
+              -15.87594
+            ],
+            [
+              14.86308,
+              -15.87604
+            ],
+            [
+              14.86335,
+              -15.87614
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "touba-square",

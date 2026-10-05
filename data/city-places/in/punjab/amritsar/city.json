@@ -12,7 +12,7 @@
     "maxLat": 31.66,
     "maxLng": 74.9
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-01T18:25:22.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,42 @@
       "radiusM": 200,
       "address": "Golden Temple Rd, Amritsar, PB",
       "howTo": "Visit the Golden Temple.",
-      "badge": "badges/golden-temple.png"
+      "badge": "badges/golden-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              31.6199,
+              74.87662
+            ],
+            [
+              31.61989,
+              74.87655
+            ],
+            [
+              31.61997,
+              74.87641
+            ],
+            [
+              31.62007,
+              74.87649
+            ],
+            [
+              31.61999,
+              74.87663
+            ],
+            [
+              31.61993,
+              74.87664
+            ],
+            [
+              31.6199,
+              74.87662
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jallianwala-bagh",
@@ -33,17 +68,128 @@
       "radiusM": 150,
       "address": "Jallianwala Bagh, Amritsar, PB",
       "howTo": "Visit Jallianwala Bagh.",
-      "badge": "badges/jallianwala-bagh.png"
+      "badge": "badges/jallianwala-bagh.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              31.62121,
+              74.87921
+            ],
+            [
+              31.62134,
+              74.88027
+            ],
+            [
+              31.62124,
+              74.88036
+            ],
+            [
+              31.6213,
+              74.88056
+            ],
+            [
+              31.62002,
+              74.88141
+            ],
+            [
+              31.61973,
+              74.88035
+            ],
+            [
+              31.6199,
+              74.88025
+            ],
+            [
+              31.61984,
+              74.88004
+            ],
+            [
+              31.62049,
+              74.8796
+            ],
+            [
+              31.62121,
+              74.87921
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "wagah-border",
       "name": "Wagah Border",
-      "lat": 31.6047,
-      "lng": 74.5742,
+      "lat": 31.60469,
+      "lng": 74.57099,
       "radiusM": 200,
       "address": "Wagah Border, Amritsar, PB",
       "howTo": "Visit the Wagah Border.",
-      "badge": "badges/wagah-border.png"
+      "badge": "badges/wagah-border.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              31.6059,
+              74.57146
+            ],
+            [
+              31.60542,
+              74.57147
+            ],
+            [
+              31.60529,
+              74.56785
+            ],
+            [
+              31.60432,
+              74.56795
+            ],
+            [
+              31.60409,
+              74.56883
+            ],
+            [
+              31.6042,
+              74.56963
+            ],
+            [
+              31.60406,
+              74.56966
+            ],
+            [
+              31.60408,
+              74.5717
+            ],
+            [
+              31.60376,
+              74.57276
+            ],
+            [
+              31.60377,
+              74.57327
+            ],
+            [
+              31.60488,
+              74.57306
+            ],
+            [
+              31.60544,
+              74.57326
+            ],
+            [
+              31.60573,
+              74.57191
+            ],
+            [
+              31.6059,
+              74.57146
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "partition-museum",

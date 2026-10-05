@@ -12,18 +12,75 @@
     "maxLat": 17.979,
     "maxLng": 102.637
   },
-  "updatedAt": "2026-08-18T23:10:57.000Z",
+  "updatedAt": "2026-10-01T12:02:32.000Z",
   "status": "complete",
   "places": [
     {
       "id": "pha-that-luang",
       "name": "Pha That Luang",
-      "lat": 17.97617,
-      "lng": 102.63425,
+      "lat": 17.97664,
+      "lng": 102.63641,
       "radiusM": 80,
       "address": "Vientiane",
       "howTo": "Visit Pha That Luang.",
-      "badge": "badges/pha-that-luang.png"
+      "badge": "badges/pha-that-luang.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.97699,
+              102.63595
+            ],
+            [
+              17.9772,
+              102.63682
+            ],
+            [
+              17.97634,
+              102.63704
+            ],
+            [
+              17.97612,
+              102.63617
+            ],
+            [
+              17.97657,
+              102.63606
+            ],
+            [
+              17.97699,
+              102.63595
+            ]
+          ],
+          [
+            [
+              17.97697,
+              102.6367
+            ],
+            [
+              17.97647,
+              102.63683
+            ],
+            [
+              17.97635,
+              102.63628
+            ],
+            [
+              17.97685,
+              102.63616
+            ],
+            [
+              17.97691,
+              102.63643
+            ],
+            [
+              17.97697,
+              102.6367
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "patuxai",
@@ -33,17 +90,76 @@
       "radiusM": 80,
       "address": "Vientiane",
       "howTo": "Visit Patuxai.",
-      "badge": "badges/patuxai.png"
+      "badge": "badges/patuxai.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.97079,
+              102.61862
+            ],
+            [
+              17.97064,
+              102.61877
+            ],
+            [
+              17.97048,
+              102.61861
+            ],
+            [
+              17.97063,
+              102.61845
+            ],
+            [
+              17.9707,
+              102.61853
+            ],
+            [
+              17.97079,
+              102.61862
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "haw-phra-kaew",
       "name": "Haw Phra Kaew",
-      "lat": 17.96139,
-      "lng": 102.61139,
+      "lat": 17.96169,
+      "lng": 102.61149,
       "radiusM": 60,
       "address": "Vientiane",
       "howTo": "Visit Haw Phra Kaew.",
-      "badge": "badges/haw-phra-kaew.png"
+      "badge": "badges/haw-phra-kaew.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              17.96199,
+              102.61143
+            ],
+            [
+              17.9618,
+              102.61119
+            ],
+            [
+              17.9614,
+              102.61154
+            ],
+            [
+              17.96159,
+              102.61178
+            ],
+            [
+              17.96199,
+              102.61143
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

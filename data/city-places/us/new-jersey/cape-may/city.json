@@ -12,18 +12,53 @@
     "maxLat": 38.96,
     "maxLng": -74.9
   },
-  "updatedAt": "2026-08-11T06:18:53.000Z",
+  "updatedAt": "2026-10-03T00:15:41.000Z",
   "status": "complete",
   "places": [
     {
       "id": "cape-may-lighthouse",
       "name": "Cape May Lighthouse",
-      "lat": 38.933,
-      "lng": -74.9605,
+      "lat": 38.93299,
+      "lng": -74.96035,
       "radiusM": 150,
       "address": "215 Lighthouse Ave, Cape May, NJ",
       "howTo": "Visit the Cape May Lighthouse.",
-      "badge": "badges/cape-may-lighthouse.png"
+      "badge": "badges/cape-may-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.93301,
+              -74.96032
+            ],
+            [
+              38.93305,
+              -74.96038
+            ],
+            [
+              38.93301,
+              -74.96043
+            ],
+            [
+              38.93293,
+              -74.96036
+            ],
+            [
+              38.93295,
+              -74.96031
+            ],
+            [
+              38.93299,
+              -74.96032
+            ],
+            [
+              38.93301,
+              -74.96032
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "washington-street-mall",
@@ -33,7 +68,54 @@
       "radiusM": 150,
       "address": "Washington St, Cape May, NJ",
       "howTo": "Walk Washington Street Mall.",
-      "badge": "badges/washington-street-mall.png"
+      "badge": "badges/washington-street-mall.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.93234,
+              -74.92456
+            ],
+            [
+              38.93168,
+              -74.92406
+            ],
+            [
+              38.93292,
+              -74.92127
+            ],
+            [
+              38.9333,
+              -74.92149
+            ],
+            [
+              38.9331,
+              -74.92194
+            ],
+            [
+              38.93363,
+              -74.92234
+            ],
+            [
+              38.93336,
+              -74.92293
+            ],
+            [
+              38.93318,
+              -74.9228
+            ],
+            [
+              38.93274,
+              -74.92372
+            ],
+            [
+              38.93234,
+              -74.92456
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cape-may-promenade",

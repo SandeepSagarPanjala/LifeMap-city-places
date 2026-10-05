@@ -12,7 +12,7 @@
     "maxLat": -8.04,
     "maxLng": -34.86
   },
-  "updatedAt": "2026-08-17T21:40:00.000Z",
+  "updatedAt": "2026-10-01T07:27:41.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,22 +28,124 @@
     {
       "id": "parque-das-esculturas",
       "name": "Parque das Esculturas",
-      "lat": -8.0634,
-      "lng": -34.8685,
+      "lat": -8.06453,
+      "lng": -34.86944,
       "radiusM": 120,
       "address": "Francisco Brennand park, Recife",
       "howTo": "Visit Parque das Esculturas.",
-      "badge": "badges/parque-das-esculturas.png"
+      "badge": "badges/parque-das-esculturas.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.06585,
+              -34.87005
+            ],
+            [
+              -8.06534,
+              -34.86972
+            ],
+            [
+              -8.06352,
+              -34.86896
+            ],
+            [
+              -8.06349,
+              -34.86904
+            ],
+            [
+              -8.06367,
+              -34.86914
+            ],
+            [
+              -8.06529,
+              -34.86976
+            ],
+            [
+              -8.06585,
+              -34.87005
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "instituto-ricardo-brennand",
       "name": "Instituto Ricardo Brennand",
-      "lat": -8.0678,
-      "lng": -34.9628,
+      "lat": -8.06576,
+      "lng": -34.96414,
       "radiusM": 150,
       "address": "V\u00e1rzea",
       "howTo": "Visit Instituto Ricardo Brennand.",
-      "badge": "badges/instituto-ricardo-brennand.png"
+      "badge": "badges/instituto-ricardo-brennand.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -8.06577,
+              -34.96367
+            ],
+            [
+              -8.06578,
+              -34.96382
+            ],
+            [
+              -8.06562,
+              -34.96392
+            ],
+            [
+              -8.06556,
+              -34.96445
+            ],
+            [
+              -8.06555,
+              -34.96452
+            ],
+            [
+              -8.0656,
+              -34.96458
+            ],
+            [
+              -8.06567,
+              -34.96459
+            ],
+            [
+              -8.06573,
+              -34.96455
+            ],
+            [
+              -8.06579,
+              -34.96436
+            ],
+            [
+              -8.06587,
+              -34.96429
+            ],
+            [
+              -8.06591,
+              -34.96404
+            ],
+            [
+              -8.06587,
+              -34.96397
+            ],
+            [
+              -8.06597,
+              -34.9636
+            ],
+            [
+              -8.06592,
+              -34.96357
+            ],
+            [
+              -8.06577,
+              -34.96367
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

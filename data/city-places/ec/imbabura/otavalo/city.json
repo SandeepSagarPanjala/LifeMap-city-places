@@ -12,18 +12,49 @@
     "maxLat": 0.32,
     "maxLng": -78.23
   },
-  "updatedAt": "2026-08-18T02:11:01.000Z",
+  "updatedAt": "2026-10-01T08:34:55.000Z",
   "status": "complete",
   "places": [
     {
       "id": "otavalo-market",
       "name": "Otavalo Market",
-      "lat": 0.231,
-      "lng": -78.263,
+      "lat": 0.23003,
+      "lng": -78.26221,
       "radiusM": 150,
       "address": "Plaza de Ponchos",
       "howTo": "Visit Otavalo Market.",
-      "badge": "badges/otavalo-market.png"
+      "badge": "badges/otavalo-market.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              0.22991,
+              -78.26272
+            ],
+            [
+              0.22937,
+              -78.26207
+            ],
+            [
+              0.23003,
+              -78.26158
+            ],
+            [
+              0.23056,
+              -78.26222
+            ],
+            [
+              0.23027,
+              -78.26248
+            ],
+            [
+              0.22991,
+              -78.26272
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "peguche-waterfall",

@@ -12,18 +12,69 @@
     "maxLat": -19.095,
     "maxLng": 15.96
   },
-  "updatedAt": "2026-08-18T23:20:37.000Z",
+  "updatedAt": "2026-10-01T13:07:13.000Z",
   "status": "complete",
   "places": [
     {
       "id": "okaukuejo-tower",
       "name": "Okaukuejo Tower",
-      "lat": -19.1783,
-      "lng": 15.9189,
+      "lat": -19.1791,
+      "lng": 15.91882,
       "radiusM": 60,
       "address": "Etosha",
       "howTo": "Visit Okaukuejo Tower.",
-      "badge": "badges/okaukuejo-tower.png"
+      "badge": "badges/okaukuejo-tower.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -19.17889,
+              15.9187
+            ],
+            [
+              -19.17889,
+              15.91887
+            ],
+            [
+              -19.17902,
+              15.91887
+            ],
+            [
+              -19.17902,
+              15.91898
+            ],
+            [
+              -19.17927,
+              15.91898
+            ],
+            [
+              -19.17927,
+              15.91891
+            ],
+            [
+              -19.17932,
+              15.91891
+            ],
+            [
+              -19.17932,
+              15.91862
+            ],
+            [
+              -19.17901,
+              15.91862
+            ],
+            [
+              -19.17901,
+              15.91869
+            ],
+            [
+              -19.17889,
+              15.9187
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "etosha-pan",

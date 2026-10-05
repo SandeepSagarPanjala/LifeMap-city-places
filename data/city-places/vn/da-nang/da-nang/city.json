@@ -12,18 +12,57 @@
     "maxLat": 16.08,
     "maxLng": 108.25
   },
-  "updatedAt": "2026-08-18T02:45:00.000Z",
+  "updatedAt": "2026-10-02T21:57:09.000Z",
   "status": "complete",
   "places": [
     {
       "id": "marble-mountains",
       "name": "Marble Mountains",
-      "lat": 16.003,
-      "lng": 108.263,
+      "lat": 16.00293,
+      "lng": 108.26358,
       "radiusM": 200,
       "address": "Ngu Hanh Son",
       "howTo": "Visit Marble Mountains.",
-      "badge": "badges/marble-mountains.png"
+      "badge": "badges/marble-mountains.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.00314,
+              108.264
+            ],
+            [
+              16.003,
+              108.26408
+            ],
+            [
+              16.00256,
+              108.2632
+            ],
+            [
+              16.00281,
+              108.26306
+            ],
+            [
+              16.00295,
+              108.26334
+            ],
+            [
+              16.00287,
+              108.26338
+            ],
+            [
+              16.00317,
+              108.26398
+            ],
+            [
+              16.00314,
+              108.264
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dragon-bridge",
@@ -33,17 +72,75 @@
       "radiusM": 150,
       "address": "Han River",
       "howTo": "Visit Dragon Bridge.",
-      "badge": "badges/dragon-bridge.png"
+      "badge": "badges/dragon-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.06089,
+              108.22435
+            ],
+            [
+              16.06122,
+              108.22438
+            ],
+            [
+              16.06145,
+              108.23144
+            ],
+            [
+              16.06111,
+              108.23146
+            ],
+            [
+              16.06089,
+              108.22441
+            ],
+            [
+              16.06089,
+              108.22435
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "my-khe-beach",
       "name": "My Khe Beach",
-      "lat": 16.047,
-      "lng": 108.248,
+      "lat": 16.05061,
+      "lng": 108.24888,
       "radiusM": 300,
       "address": "Son Tra",
       "howTo": "Visit My Khe Beach.",
-      "badge": "badges/my-khe-beach.png"
+      "badge": "badges/my-khe-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.04891,
+              108.24956
+            ],
+            [
+              16.05239,
+              108.24854
+            ],
+            [
+              16.05233,
+              108.24824
+            ],
+            [
+              16.0488,
+              108.24917
+            ],
+            [
+              16.04891,
+              108.24956
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

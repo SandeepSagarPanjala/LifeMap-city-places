@@ -12,18 +12,57 @@
     "maxLat": 16.56,
     "maxLng": 80.72
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T10:11:00.000Z",
   "status": "complete",
   "places": [
     {
       "id": "kanaka-durga-temple",
       "name": "Kanaka Durga Temple",
-      "lat": 16.5155,
-      "lng": 80.6095,
+      "lat": 16.51542,
+      "lng": 80.60653,
       "radiusM": 150,
       "address": "Indrakeeladri, Vijayawada, AP",
       "howTo": "Visit Kanaka Durga Temple.",
-      "badge": "badges/kanaka-durga-temple.png"
+      "badge": "badges/kanaka-durga-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.51557,
+              80.60639
+            ],
+            [
+              16.51555,
+              80.60661
+            ],
+            [
+              16.51558,
+              80.60661
+            ],
+            [
+              16.51557,
+              80.60672
+            ],
+            [
+              16.51517,
+              80.60668
+            ],
+            [
+              16.51522,
+              80.60635
+            ],
+            [
+              16.51527,
+              80.60635
+            ],
+            [
+              16.51557,
+              80.60639
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "prakasam-barrage",
@@ -38,12 +77,47 @@
     {
       "id": "undavalli-caves",
       "name": "Undavalli Caves",
-      "lat": 16.4955,
-      "lng": 80.5805,
+      "lat": 16.49665,
+      "lng": 80.5819,
       "radiusM": 150,
       "address": "Undavalli, Vijayawada, AP",
       "howTo": "Visit the Undavalli Caves.",
-      "badge": "badges/undavalli-caves.png"
+      "badge": "badges/undavalli-caves.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              16.49677,
+              80.58136
+            ],
+            [
+              16.49718,
+              80.58203
+            ],
+            [
+              16.49695,
+              80.58218
+            ],
+            [
+              16.49656,
+              80.58231
+            ],
+            [
+              16.4963,
+              80.58209
+            ],
+            [
+              16.49616,
+              80.58144
+            ],
+            [
+              16.49677,
+              80.58136
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bhavani-island",

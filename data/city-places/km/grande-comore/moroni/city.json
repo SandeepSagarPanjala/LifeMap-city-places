@@ -12,7 +12,7 @@
     "maxLat": -11.70221,
     "maxLng": 43.25385
   },
-  "updatedAt": "2026-08-20T10:44:08.000Z",
+  "updatedAt": "2026-10-02T18:43:45.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,54 @@
       "radiusM": 50,
       "address": "Moroni",
       "howTo": "Visit Grande Mosqu\u00e9e de Moroni.",
-      "badge": "badges/grande-mosquee.png"
+      "badge": "badges/grande-mosquee.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -11.70587,
+              43.25078
+            ],
+            [
+              -11.70596,
+              43.25067
+            ],
+            [
+              -11.70635,
+              43.25064
+            ],
+            [
+              -11.70641,
+              43.25059
+            ],
+            [
+              -11.70637,
+              43.25087
+            ],
+            [
+              -11.70643,
+              43.25086
+            ],
+            [
+              -11.70638,
+              43.25103
+            ],
+            [
+              -11.70599,
+              43.25105
+            ],
+            [
+              -11.70586,
+              43.25096
+            ],
+            [
+              -11.70587,
+              43.25078
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "moroni-port",
@@ -33,7 +80,34 @@
       "radiusM": 60,
       "address": "Moroni",
       "howTo": "Visit the Moroni waterfront port.",
-      "badge": "badges/moroni-port.png"
+      "badge": "badges/moroni-port.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -11.70521,
+              43.25002
+            ],
+            [
+              -11.70529,
+              43.25006
+            ],
+            [
+              -11.70522,
+              43.25019
+            ],
+            [
+              -11.70514,
+              43.25014
+            ],
+            [
+              -11.70521,
+              43.25002
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

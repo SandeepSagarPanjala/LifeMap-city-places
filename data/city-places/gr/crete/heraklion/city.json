@@ -12,18 +12,53 @@
     "maxLat": 35.35,
     "maxLng": 25.16
   },
-  "updatedAt": "2026-08-18T00:40:00.000Z",
+  "updatedAt": "2026-10-01T09:45:37.000Z",
   "status": "complete",
   "places": [
     {
       "id": "knossos",
       "name": "Knossos Palace",
-      "lat": 35.298,
-      "lng": 25.1631,
+      "lat": 35.29793,
+      "lng": 25.16129,
       "radiusM": 250,
       "address": "Knossos",
       "howTo": "Visit Knossos Palace.",
-      "badge": "badges/knossos.png"
+      "badge": "badges/knossos.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.29815,
+              25.16106
+            ],
+            [
+              35.29767,
+              25.16115
+            ],
+            [
+              35.29765,
+              25.16136
+            ],
+            [
+              35.298,
+              25.16148
+            ],
+            [
+              35.29802,
+              25.16133
+            ],
+            [
+              35.29811,
+              25.16133
+            ],
+            [
+              35.29815,
+              25.16106
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "heraklion-archaeological-museum",
@@ -43,7 +78,58 @@
       "radiusM": 100,
       "address": "Heraklion Port",
       "howTo": "Visit Koules Fortress.",
-      "badge": "badges/koules-fortress.png"
+      "badge": "badges/koules-fortress.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.34428,
+              25.13659
+            ],
+            [
+              35.3446,
+              25.13642
+            ],
+            [
+              35.34487,
+              25.1371
+            ],
+            [
+              35.34482,
+              25.13726
+            ],
+            [
+              35.34472,
+              25.13721
+            ],
+            [
+              35.34452,
+              25.13743
+            ],
+            [
+              35.34443,
+              25.1374
+            ],
+            [
+              35.34441,
+              25.13731
+            ],
+            [
+              35.34446,
+              25.137
+            ],
+            [
+              35.34429,
+              25.13659
+            ],
+            [
+              35.34428,
+              25.13659
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

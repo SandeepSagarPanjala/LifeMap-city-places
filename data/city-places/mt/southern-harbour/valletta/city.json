@@ -12,7 +12,7 @@
     "maxLat": 35.902,
     "maxLng": 14.518
   },
-  "updatedAt": "2026-08-18T02:43:33.000Z",
+  "updatedAt": "2026-10-01T19:22:29.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,17 +23,80 @@
       "radiusM": 80,
       "address": "Valletta",
       "howTo": "Visit St John's Co-Cathedral.",
-      "badge": "badges/st-johns-co-cathedral.png"
+      "badge": "badges/st-johns-co-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.89738,
+              14.51252
+            ],
+            [
+              35.89767,
+              14.51219
+            ],
+            [
+              35.89802,
+              14.51277
+            ],
+            [
+              35.89772,
+              14.51306
+            ],
+            [
+              35.89742,
+              14.51259
+            ],
+            [
+              35.89738,
+              14.51252
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "upper-barrakka",
       "name": "Upper Barrakka Gardens",
-      "lat": 35.8956,
-      "lng": 14.5114,
+      "lat": 35.89495,
+      "lng": 14.51202,
       "radiusM": 80,
       "address": "Valletta",
       "howTo": "Visit Upper Barrakka Gardens.",
-      "badge": "badges/upper-barrakka.png"
+      "badge": "badges/upper-barrakka.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.89494,
+              14.51206
+            ],
+            [
+              35.89499,
+              14.51204
+            ],
+            [
+              35.89497,
+              14.51196
+            ],
+            [
+              35.89492,
+              14.51199
+            ],
+            [
+              35.89493,
+              14.51205
+            ],
+            [
+              35.89494,
+              14.51206
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "grandmasters-palace",
@@ -43,7 +106,42 @@
       "radiusM": 80,
       "address": "Valletta",
       "howTo": "Visit Grandmaster's Palace.",
-      "badge": "badges/grandmasters-palace.png"
+      "badge": "badges/grandmasters-palace.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              35.89903,
+              14.51388
+            ],
+            [
+              35.89917,
+              14.51412
+            ],
+            [
+              35.89847,
+              14.51481
+            ],
+            [
+              35.89804,
+              14.51409
+            ],
+            [
+              35.89874,
+              14.51341
+            ],
+            [
+              35.89897,
+              14.51379
+            ],
+            [
+              35.89903,
+              14.51388
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

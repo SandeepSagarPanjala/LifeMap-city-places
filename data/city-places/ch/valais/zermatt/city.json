@@ -12,18 +12,45 @@
     "maxLat": 46.03,
     "maxLng": 7.76
   },
-  "updatedAt": "2026-08-15T10:10:00.000Z",
+  "updatedAt": "2026-10-01T14:12:54.000Z",
   "status": "complete",
   "places": [
     {
       "id": "matterhorn-viewpoint",
       "name": "Matterhorn Viewpoint",
-      "lat": 46.0205,
-      "lng": 7.7485,
+      "lat": 46.01709,
+      "lng": 7.74522,
       "radiusM": 300,
       "address": "Matterhorn views / Gornergrat area",
       "howTo": "Visit Matterhorn Viewpoint.",
-      "badge": "badges/matterhorn-viewpoint.png"
+      "badge": "badges/matterhorn-viewpoint.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              46.01712,
+              7.74512
+            ],
+            [
+              46.01717,
+              7.74524
+            ],
+            [
+              46.01706,
+              7.74533
+            ],
+            [
+              46.01701,
+              7.74521
+            ],
+            [
+              46.01712,
+              7.74512
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "zermatt-village",
@@ -38,12 +65,47 @@
     {
       "id": "gornergrat",
       "name": "Gornergrat",
-      "lat": 45.9835,
-      "lng": 7.7855,
+      "lat": 45.98338,
+      "lng": 7.78365,
       "radiusM": 200,
       "address": "Gornergrat",
       "howTo": "Visit Gornergrat.",
-      "badge": "badges/gornergrat.png"
+      "badge": "badges/gornergrat.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              45.98353,
+              7.78372
+            ],
+            [
+              45.98336,
+              7.7837
+            ],
+            [
+              45.98335,
+              7.78381
+            ],
+            [
+              45.98324,
+              7.7838
+            ],
+            [
+              45.98325,
+              7.78343
+            ],
+            [
+              45.98354,
+              7.78345
+            ],
+            [
+              45.98353,
+              7.78372
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

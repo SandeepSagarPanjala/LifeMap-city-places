@@ -12,7 +12,7 @@
     "maxLat": 38.28,
     "maxLng": 140.9
   },
-  "updatedAt": "2026-08-13T09:00:00.000Z",
+  "updatedAt": "2026-10-01T11:35:18.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,27 +23,168 @@
       "radiusM": 200,
       "address": "Aoba Castle, Sendai",
       "howTo": "Visit Sendai Castle Ruins.",
-      "badge": "badges/sendai-castle.png"
+      "badge": "badges/sendai-castle.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.25149,
+              140.85661
+            ],
+            [
+              38.25166,
+              140.85641
+            ],
+            [
+              38.25168,
+              140.85537
+            ],
+            [
+              38.25224,
+              140.85529
+            ],
+            [
+              38.25229,
+              140.85485
+            ],
+            [
+              38.25274,
+              140.85481
+            ],
+            [
+              38.25366,
+              140.85534
+            ],
+            [
+              38.25382,
+              140.85593
+            ],
+            [
+              38.25381,
+              140.85669
+            ],
+            [
+              38.25391,
+              140.85696
+            ],
+            [
+              38.25351,
+              140.85698
+            ],
+            [
+              38.25312,
+              140.85715
+            ],
+            [
+              38.25244,
+              140.85696
+            ],
+            [
+              38.25162,
+              140.85706
+            ],
+            [
+              38.25147,
+              140.85699
+            ],
+            [
+              38.25145,
+              140.85668
+            ],
+            [
+              38.25149,
+              140.85661
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "osaki-hachimangu",
       "name": "Osaki Hachimangu",
-      "lat": 38.2725,
-      "lng": 140.8455,
+      "lat": 38.27253,
+      "lng": 140.84501,
       "radiusM": 120,
       "address": "Osaki Hachimangu, Sendai",
       "howTo": "Visit Osaki Hachimangu.",
-      "badge": "badges/osaki-hachimangu.png"
+      "badge": "badges/osaki-hachimangu.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.27267,
+              140.84491
+            ],
+            [
+              38.27267,
+              140.8451
+            ],
+            [
+              38.27246,
+              140.84512
+            ],
+            [
+              38.27246,
+              140.84508
+            ],
+            [
+              38.27244,
+              140.84508
+            ],
+            [
+              38.27246,
+              140.8449
+            ],
+            [
+              38.27256,
+              140.84491
+            ],
+            [
+              38.27267,
+              140.84491
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jozenji-dori",
       "name": "Jozenji-dori Avenue",
-      "lat": 38.2655,
-      "lng": 140.8705,
+      "lat": 38.26535,
+      "lng": 140.86878,
       "radiusM": 150,
       "address": "Jozenji-dori, Sendai",
       "howTo": "Visit Jozenji-dori Avenue.",
-      "badge": "badges/jozenji-dori.png"
+      "badge": "badges/jozenji-dori.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              38.26523,
+              140.86861
+            ],
+            [
+              38.26539,
+              140.86856
+            ],
+            [
+              38.26546,
+              140.86895
+            ],
+            [
+              38.26531,
+              140.869
+            ],
+            [
+              38.26523,
+              140.86861
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "rinnoji-sendai",

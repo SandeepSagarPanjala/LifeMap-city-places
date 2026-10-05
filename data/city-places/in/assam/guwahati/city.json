@@ -12,7 +12,7 @@
     "maxLat": 26.22,
     "maxLng": 91.82
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T10:13:10.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 150,
       "address": "Nilachal Hill, Guwahati, AS",
       "howTo": "Visit Kamakhya Temple.",
-      "badge": "badges/kamakhya-temple.png"
+      "badge": "badges/kamakhya-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.16639,
+              91.7047
+            ],
+            [
+              26.1674,
+              91.70503
+            ],
+            [
+              26.16697,
+              91.70606
+            ],
+            [
+              26.16617,
+              91.70565
+            ],
+            [
+              26.16639,
+              91.7047
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "umananda-temple",
@@ -33,7 +60,70 @@
       "radiusM": 120,
       "address": "Peacock Island, Guwahati, AS",
       "howTo": "Visit Umananda Temple.",
-      "badge": "badges/umananda-temple.png"
+      "badge": "badges/umananda-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              26.1959,
+              91.74454
+            ],
+            [
+              26.19597,
+              91.74518
+            ],
+            [
+              26.19617,
+              91.74562
+            ],
+            [
+              26.19658,
+              91.74599
+            ],
+            [
+              26.19685,
+              91.746
+            ],
+            [
+              26.19696,
+              91.7459
+            ],
+            [
+              26.19707,
+              91.74574
+            ],
+            [
+              26.19716,
+              91.74522
+            ],
+            [
+              26.19706,
+              91.74473
+            ],
+            [
+              26.19654,
+              91.74409
+            ],
+            [
+              26.19629,
+              91.74394
+            ],
+            [
+              26.19607,
+              91.74403
+            ],
+            [
+              26.19592,
+              91.74429
+            ],
+            [
+              26.1959,
+              91.74454
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "assam-state-zoo",

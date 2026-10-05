@@ -12,7 +12,7 @@
     "maxLat": 9.936,
     "maxLng": -84.072
   },
-  "updatedAt": "2026-08-18T10:20:00.000Z",
+  "updatedAt": "2026-10-01T14:19:08.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,47 @@
     {
       "id": "catedral-metropolitana-sj",
       "name": "Metropolitan Cathedral",
-      "lat": 9.9327,
-      "lng": -84.0778,
+      "lat": 9.93204,
+      "lng": -84.07829,
       "radiusM": 80,
       "address": "Calle Central",
       "howTo": "Visit Metropolitan Cathedral.",
-      "badge": "badges/catedral-metropolitana-sj.png"
+      "badge": "badges/catedral-metropolitana-sj.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.93219,
+              -84.07823
+            ],
+            [
+              9.93195,
+              -84.07825
+            ],
+            [
+              9.93195,
+              -84.07827
+            ],
+            [
+              9.93197,
+              -84.07827
+            ],
+            [
+              9.93198,
+              -84.07837
+            ],
+            [
+              9.9322,
+              -84.07835
+            ],
+            [
+              9.93219,
+              -84.07823
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "plaza-de-la-cultura",
@@ -43,7 +78,34 @@
       "radiusM": 100,
       "address": "Avenida Central",
       "howTo": "Visit Plaza de la Cultura.",
-      "badge": "badges/plaza-de-la-cultura.png"
+      "badge": "badges/plaza-de-la-cultura.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.93339,
+              -84.0774
+            ],
+            [
+              9.93332,
+              -84.07662
+            ],
+            [
+              9.93373,
+              -84.07656
+            ],
+            [
+              9.93381,
+              -84.07736
+            ],
+            [
+              9.93339,
+              -84.0774
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

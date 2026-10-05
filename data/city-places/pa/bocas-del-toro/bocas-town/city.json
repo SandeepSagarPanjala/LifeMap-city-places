@@ -12,7 +12,7 @@
     "maxLat": 9.36,
     "maxLng": -82.16
   },
-  "updatedAt": "2026-08-18T02:08:37.000Z",
+  "updatedAt": "2026-10-02T19:18:58.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,39 @@
     {
       "id": "red-frog-beach",
       "name": "Red Frog Beach",
-      "lat": 9.3406,
-      "lng": -82.1764,
+      "lat": 9.33803,
+      "lng": -82.17673,
       "radiusM": 250,
       "address": "Isla Bastimentos",
       "howTo": "Visit Red Frog Beach.",
-      "badge": "badges/red-frog-beach.png"
+      "badge": "badges/red-frog-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.33807,
+              -82.17678
+            ],
+            [
+              9.338,
+              -82.17678
+            ],
+            [
+              9.33799,
+              -82.17667
+            ],
+            [
+              9.33807,
+              -82.17667
+            ],
+            [
+              9.33807,
+              -82.17678
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

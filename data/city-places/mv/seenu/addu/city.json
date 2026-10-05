@@ -12,18 +12,69 @@
     "maxLat": -0.6383,
     "maxLng": 73.161
   },
-  "updatedAt": "2026-08-20T11:58:36.000Z",
+  "updatedAt": "2026-10-01T12:50:38.000Z",
   "status": "complete",
   "places": [
     {
       "id": "gan-beach",
       "name": "Gan Beach",
-      "lat": -0.6935,
-      "lng": 73.1555,
+      "lat": -0.69027,
+      "lng": 73.15624,
       "address": "Addu",
       "howTo": "Visit Gan Beach in Addu City.",
       "radiusM": 80,
-      "badge": "badges/gan-beach.png"
+      "badge": "badges/gan-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -0.69051,
+              73.15572
+            ],
+            [
+              -0.69054,
+              73.15594
+            ],
+            [
+              -0.69046,
+              73.15596
+            ],
+            [
+              -0.6906,
+              73.15684
+            ],
+            [
+              -0.69023,
+              73.1569
+            ],
+            [
+              -0.69019,
+              73.1567
+            ],
+            [
+              -0.6901,
+              73.15666
+            ],
+            [
+              -0.68998,
+              73.15594
+            ],
+            [
+              -0.69006,
+              73.15593
+            ],
+            [
+              -0.69004,
+              73.15579
+            ],
+            [
+              -0.69051,
+              73.15572
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "equatorial-monument",

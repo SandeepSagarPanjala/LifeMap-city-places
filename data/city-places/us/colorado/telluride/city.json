@@ -12,28 +12,86 @@
     "maxLat": 37.964240000000004,
     "maxLng": -107.74996
   },
-  "updatedAt": "2026-08-11T07:06:51.000Z",
+  "updatedAt": "2026-10-02T20:30:07.000Z",
   "status": "complete",
   "places": [
     {
       "id": "bridal-veil-falls",
       "name": "Bridal Veil Falls",
-      "lat": 37.9192,
-      "lng": -107.76996,
+      "lat": 37.91929,
+      "lng": -107.76948,
       "radiusM": 250,
       "address": "Bridal Veil Falls, Telluride, CO",
       "howTo": "Visit Bridal Veil Falls.",
-      "badge": "badges/bridal-veil-falls.png"
+      "badge": "badges/bridal-veil-falls.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.91937,
+              -107.76936
+            ],
+            [
+              37.9193,
+              -107.76964
+            ],
+            [
+              37.91919,
+              -107.7696
+            ],
+            [
+              37.9193,
+              -107.76932
+            ],
+            [
+              37.91937,
+              -107.76936
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "telluride-gondola",
       "name": "Telluride Gondola",
-      "lat": 37.937,
-      "lng": -107.812,
+      "lat": 37.93604,
+      "lng": -107.81386,
       "radiusM": 150,
       "address": "San Juan Ave, Telluride, CO",
       "howTo": "Ride the free Telluride Gondola.",
-      "badge": "badges/telluride-gondola.png"
+      "badge": "badges/telluride-gondola.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.93601,
+              -107.81375
+            ],
+            [
+              37.93615,
+              -107.8138
+            ],
+            [
+              37.9361,
+              -107.81399
+            ],
+            [
+              37.93596,
+              -107.81394
+            ],
+            [
+              37.93599,
+              -107.81384
+            ],
+            [
+              37.93601,
+              -107.81375
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "telluride-historical-museum",
@@ -43,7 +101,42 @@
       "radiusM": 120,
       "address": "201 W Gregory Ave, Telluride, CO",
       "howTo": "Visit the Telluride Historical Museum.",
-      "badge": "badges/telluride-historical-museum.png"
+      "badge": "badges/telluride-historical-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.93968,
+              -107.81072
+            ],
+            [
+              37.93964,
+              -107.81074
+            ],
+            [
+              37.93969,
+              -107.81091
+            ],
+            [
+              37.93984,
+              -107.81085
+            ],
+            [
+              37.93979,
+              -107.81069
+            ],
+            [
+              37.93969,
+              -107.81074
+            ],
+            [
+              37.93968,
+              -107.81072
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "town-park",
@@ -53,17 +146,135 @@
       "radiusM": 200,
       "address": "Town Park, Telluride, CO",
       "howTo": "Visit Telluride Town Park.",
-      "badge": "badges/town-park.png"
+      "badge": "badges/town-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.93578,
+              -107.80683
+            ],
+            [
+              37.93591,
+              -107.80777
+            ],
+            [
+              37.93584,
+              -107.80798
+            ],
+            [
+              37.93442,
+              -107.80877
+            ],
+            [
+              37.93431,
+              -107.80863
+            ],
+            [
+              37.93333,
+              -107.80846
+            ],
+            [
+              37.93284,
+              -107.80805
+            ],
+            [
+              37.93258,
+              -107.80752
+            ],
+            [
+              37.93313,
+              -107.80679
+            ],
+            [
+              37.93298,
+              -107.8059
+            ],
+            [
+              37.93277,
+              -107.80553
+            ],
+            [
+              37.93271,
+              -107.80477
+            ],
+            [
+              37.9334,
+              -107.80402
+            ],
+            [
+              37.93338,
+              -107.80347
+            ],
+            [
+              37.93456,
+              -107.803
+            ],
+            [
+              37.93453,
+              -107.80388
+            ],
+            [
+              37.93521,
+              -107.80512
+            ],
+            [
+              37.93562,
+              -107.80624
+            ],
+            [
+              37.93578,
+              -107.80683
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "telluride-historic-district",
       "name": "Telluride Historic District",
-      "lat": 37.9375,
-      "lng": -107.8123,
+      "lat": 37.93972,
+      "lng": -107.81077,
       "radiusM": 250,
       "address": "Colorado Ave, Telluride, CO",
       "howTo": "Walk the Telluride Historic District.",
-      "badge": "badges/telluride-historic-district.png"
+      "badge": "badges/telluride-historic-district.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              37.93968,
+              -107.81072
+            ],
+            [
+              37.93964,
+              -107.81074
+            ],
+            [
+              37.93969,
+              -107.81091
+            ],
+            [
+              37.93984,
+              -107.81085
+            ],
+            [
+              37.93979,
+              -107.81069
+            ],
+            [
+              37.93969,
+              -107.81074
+            ],
+            [
+              37.93968,
+              -107.81072
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bear-creek-falls",

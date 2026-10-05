@@ -12,18 +12,89 @@
     "maxLat": 44.5,
     "maxLng": 11.35
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T18:35:02.000Z",
   "status": "complete",
   "places": [
     {
       "id": "piazza-maggiore",
       "name": "Piazza Maggiore",
-      "lat": 44.4938,
-      "lng": 11.343,
+      "lat": 44.49085,
+      "lng": 11.33991,
       "radiusM": 120,
       "address": "Piazza Maggiore",
       "howTo": "Visit Piazza Maggiore.",
-      "badge": "badges/piazza-maggiore.png"
+      "badge": "badges/piazza-maggiore.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.49078,
+              11.33973
+            ],
+            [
+              44.49094,
+              11.33974
+            ],
+            [
+              44.49093,
+              11.33982
+            ],
+            [
+              44.4912,
+              11.33985
+            ],
+            [
+              44.49119,
+              11.34003
+            ],
+            [
+              44.49095,
+              11.34
+            ],
+            [
+              44.49094,
+              11.34005
+            ],
+            [
+              44.49092,
+              11.34007
+            ],
+            [
+              44.49076,
+              11.34005
+            ],
+            [
+              44.49077,
+              11.33999
+            ],
+            [
+              44.49067,
+              11.33998
+            ],
+            [
+              44.49062,
+              11.33993
+            ],
+            [
+              44.49062,
+              11.33985
+            ],
+            [
+              44.49065,
+              11.3398
+            ],
+            [
+              44.49078,
+              11.33979
+            ],
+            [
+              44.49078,
+              11.33973
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "towers-of-bologna",
@@ -39,11 +110,42 @@
       "id": "santo-stefano-bologna",
       "name": "Basilica di Santo Stefano",
       "lat": 44.492,
-      "lng": 11.3485,
+      "lng": 11.34875,
       "radiusM": 100,
       "address": "Santo Stefano",
       "howTo": "Visit Basilica di Santo Stefano.",
-      "badge": "badges/santo-stefano-bologna.png"
+      "badge": "badges/santo-stefano-bologna.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              44.49191,
+              11.34885
+            ],
+            [
+              44.49207,
+              11.34844
+            ],
+            [
+              44.49218,
+              11.34853
+            ],
+            [
+              44.49198,
+              11.34901
+            ],
+            [
+              44.49188,
+              11.34893
+            ],
+            [
+              44.49191,
+              11.34885
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

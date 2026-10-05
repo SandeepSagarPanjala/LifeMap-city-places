@@ -12,7 +12,7 @@
     "maxLat": -43.52,
     "maxLng": 172.65
   },
-  "updatedAt": "2026-08-15T10:25:00.000Z",
+  "updatedAt": "2026-10-01T19:48:19.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,37 +23,257 @@
       "radiusM": 250,
       "address": "Botanic Gardens",
       "howTo": "Visit Christchurch Botanic Gardens.",
-      "badge": "badges/christchurch-botanic-gardens.png"
+      "badge": "badges/christchurch-botanic-gardens.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -43.53056,
+              172.62735
+            ],
+            [
+              -43.53316,
+              172.62736
+            ],
+            [
+              -43.53194,
+              172.62557
+            ],
+            [
+              -43.53165,
+              172.62408
+            ],
+            [
+              -43.53162,
+              172.62332
+            ],
+            [
+              -43.53234,
+              172.62007
+            ],
+            [
+              -43.5324,
+              172.61901
+            ],
+            [
+              -43.53197,
+              172.61858
+            ],
+            [
+              -43.52993,
+              172.61798
+            ],
+            [
+              -43.52819,
+              172.61829
+            ],
+            [
+              -43.5277,
+              172.61869
+            ],
+            [
+              -43.5274,
+              172.61951
+            ],
+            [
+              -43.52776,
+              172.62005
+            ],
+            [
+              -43.52816,
+              172.62007
+            ],
+            [
+              -43.52843,
+              172.62028
+            ],
+            [
+              -43.52922,
+              172.6219
+            ],
+            [
+              -43.52953,
+              172.623
+            ],
+            [
+              -43.53057,
+              172.62301
+            ],
+            [
+              -43.53056,
+              172.62676
+            ],
+            [
+              -43.53056,
+              172.62735
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cardboard-cathedral",
       "name": "Cardboard Cathedral",
-      "lat": -43.5315,
-      "lng": 172.6455,
+      "lat": -43.53238,
+      "lng": 172.64303,
       "radiusM": 80,
       "address": "Transitional Cathedral",
       "howTo": "Visit Cardboard Cathedral.",
-      "badge": "badges/cardboard-cathedral.png"
+      "badge": "badges/cardboard-cathedral.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -43.5322,
+              172.6429
+            ],
+            [
+              -43.5322,
+              172.64321
+            ],
+            [
+              -43.53255,
+              172.64316
+            ],
+            [
+              -43.53255,
+              172.64296
+            ],
+            [
+              -43.5324,
+              172.64294
+            ],
+            [
+              -43.5322,
+              172.6429
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "canterbury-museum",
       "name": "Canterbury Museum",
-      "lat": -43.5305,
-      "lng": 172.6275,
+      "lat": -43.53092,
+      "lng": 172.62709,
       "radiusM": 100,
       "address": "Canterbury Museum",
       "howTo": "Visit Canterbury Museum.",
-      "badge": "badges/canterbury-museum.png"
+      "badge": "badges/canterbury-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -43.53079,
+              172.62734
+            ],
+            [
+              -43.53105,
+              172.62735
+            ],
+            [
+              -43.53105,
+              172.62732
+            ],
+            [
+              -43.53115,
+              172.62732
+            ],
+            [
+              -43.53116,
+              172.62728
+            ],
+            [
+              -43.53116,
+              172.62665
+            ],
+            [
+              -43.53104,
+              172.62665
+            ],
+            [
+              -43.53104,
+              172.6268
+            ],
+            [
+              -43.53084,
+              172.6268
+            ],
+            [
+              -43.53084,
+              172.62694
+            ],
+            [
+              -43.53079,
+              172.62694
+            ],
+            [
+              -43.53079,
+              172.6273
+            ],
+            [
+              -43.5306,
+              172.6273
+            ],
+            [
+              -43.5306,
+              172.62734
+            ],
+            [
+              -43.53079,
+              172.62734
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "new-regent-street",
       "name": "New Regent Street",
-      "lat": -43.5295,
-      "lng": 172.6355,
+      "lat": -43.53122,
+      "lng": 172.63509,
       "radiusM": 80,
       "address": "New Regent Street",
       "howTo": "Visit New Regent Street.",
-      "badge": "badges/new-regent-street.png"
+      "badge": "badges/new-regent-street.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              -43.53104,
+              172.63482
+            ],
+            [
+              -43.53104,
+              172.63524
+            ],
+            [
+              -43.5313,
+              172.63524
+            ],
+            [
+              -43.5313,
+              172.63522
+            ],
+            [
+              -43.53133,
+              172.63522
+            ],
+            [
+              -43.53133,
+              172.63482
+            ],
+            [
+              -43.53104,
+              172.63482
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

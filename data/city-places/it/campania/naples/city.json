@@ -12,7 +12,7 @@
     "maxLat": 40.86,
     "maxLng": 14.27
   },
-  "updatedAt": "2026-08-13T18:00:00.000Z",
+  "updatedAt": "2026-10-01T11:04:20.000Z",
   "status": "complete",
   "places": [
     {
@@ -33,7 +33,82 @@
       "radiusM": 120,
       "address": "Castel dell'Ovo",
       "howTo": "Visit Castel dell'Ovo.",
-      "badge": "badges/castel-dell-ovo.png"
+      "badge": "badges/castel-dell-ovo.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.8286,
+              14.2475
+            ],
+            [
+              40.82847,
+              14.24748
+            ],
+            [
+              40.82839,
+              14.24719
+            ],
+            [
+              40.82824,
+              14.24725
+            ],
+            [
+              40.82814,
+              14.24742
+            ],
+            [
+              40.8278,
+              14.2476
+            ],
+            [
+              40.82747,
+              14.24812
+            ],
+            [
+              40.8269,
+              14.24868
+            ],
+            [
+              40.827,
+              14.24891
+            ],
+            [
+              40.82719,
+              14.24877
+            ],
+            [
+              40.82714,
+              14.24863
+            ],
+            [
+              40.82783,
+              14.24832
+            ],
+            [
+              40.8284,
+              14.24783
+            ],
+            [
+              40.82843,
+              14.24765
+            ],
+            [
+              40.82859,
+              14.24767
+            ],
+            [
+              40.8286,
+              14.24758
+            ],
+            [
+              40.8286,
+              14.2475
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "vesuvius",
@@ -53,7 +128,38 @@
       "radiusM": 120,
       "address": "MANN",
       "howTo": "Visit National Archaeological Museum.",
-      "badge": "badges/national-archaeological-museum-naples.png"
+      "badge": "badges/national-archaeological-museum-naples.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              40.85371,
+              14.24948
+            ],
+            [
+              40.85308,
+              14.24976
+            ],
+            [
+              40.85349,
+              14.25144
+            ],
+            [
+              40.85413,
+              14.25119
+            ],
+            [
+              40.854,
+              14.25065
+            ],
+            [
+              40.85371,
+              14.24948
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

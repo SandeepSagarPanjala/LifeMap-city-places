@@ -12,7 +12,7 @@
     "maxLat": 8.55,
     "maxLng": 77.0
   },
-  "updatedAt": "2026-08-12T03:09:37.000Z",
+  "updatedAt": "2026-10-02T18:28:35.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,37 +23,257 @@
       "radiusM": 150,
       "address": "East Fort, Thiruvananthapuram, KL",
       "howTo": "Visit Padmanabhaswamy Temple.",
-      "badge": "badges/padmanabhaswamy-temple.png"
+      "badge": "badges/padmanabhaswamy-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              8.48346,
+              76.94445
+            ],
+            [
+              8.48294,
+              76.94445
+            ],
+            [
+              8.48286,
+              76.9445
+            ],
+            [
+              8.48286,
+              76.94485
+            ],
+            [
+              8.48276,
+              76.94486
+            ],
+            [
+              8.48264,
+              76.94486
+            ],
+            [
+              8.48262,
+              76.9445
+            ],
+            [
+              8.48208,
+              76.9445
+            ],
+            [
+              8.48205,
+              76.94292
+            ],
+            [
+              8.48343,
+              76.9429
+            ],
+            [
+              8.48346,
+              76.94445
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "kovalam-beach",
       "name": "Kovalam Beach",
-      "lat": 8.4,
-      "lng": 76.9785,
+      "lat": 8.40118,
+      "lng": 76.97378,
       "radiusM": 250,
       "address": "Kovalam, Thiruvananthapuram, KL",
       "howTo": "Visit Kovalam Beach.",
-      "badge": "badges/kovalam-beach.png"
+      "badge": "badges/kovalam-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              8.40129,
+              76.97352
+            ],
+            [
+              8.40093,
+              76.97371
+            ],
+            [
+              8.40106,
+              76.97402
+            ],
+            [
+              8.40142,
+              76.97387
+            ],
+            [
+              8.40129,
+              76.97352
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "napier-museum",
       "name": "Napier Museum",
-      "lat": 8.5085,
-      "lng": 76.9555,
+      "lat": 8.50894,
+      "lng": 76.95513,
       "radiusM": 120,
       "address": "LMS Vellayambalam Rd, Thiruvananthapuram, KL",
       "howTo": "Visit Napier Museum.",
-      "badge": "badges/napier-museum.png"
+      "badge": "badges/napier-museum.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              8.50884,
+              76.95487
+            ],
+            [
+              8.50896,
+              76.95503
+            ],
+            [
+              8.50899,
+              76.95501
+            ],
+            [
+              8.50906,
+              76.95511
+            ],
+            [
+              8.50904,
+              76.95513
+            ],
+            [
+              8.50918,
+              76.95532
+            ],
+            [
+              8.50914,
+              76.95535
+            ],
+            [
+              8.50917,
+              76.95538
+            ],
+            [
+              8.50911,
+              76.95543
+            ],
+            [
+              8.50908,
+              76.95539
+            ],
+            [
+              8.50904,
+              76.95543
+            ],
+            [
+              8.5088,
+              76.95516
+            ],
+            [
+              8.50882,
+              76.95515
+            ],
+            [
+              8.50869,
+              76.95498
+            ],
+            [
+              8.50871,
+              76.95495
+            ],
+            [
+              8.5087,
+              76.95493
+            ],
+            [
+              8.50877,
+              76.95488
+            ],
+            [
+              8.50878,
+              76.9549
+            ],
+            [
+              8.50884,
+              76.95487
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "shanghumukham-beach",
       "name": "Shanghumukham Beach",
-      "lat": 8.4785,
-      "lng": 76.9125,
+      "lat": 8.48084,
+      "lng": 76.91175,
       "radiusM": 250,
       "address": "Shanghumukham, Thiruvananthapuram, KL",
       "howTo": "Visit Shanghumukham Beach.",
-      "badge": "badges/shanghumukham-beach.png"
+      "badge": "badges/shanghumukham-beach.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              8.4803,
+              76.91119
+            ],
+            [
+              8.48081,
+              76.91118
+            ],
+            [
+              8.48081,
+              76.91187
+            ],
+            [
+              8.4803,
+              76.91187
+            ],
+            [
+              8.4803,
+              76.91206
+            ],
+            [
+              8.48111,
+              76.91268
+            ],
+            [
+              8.4812,
+              76.91268
+            ],
+            [
+              8.48145,
+              76.91245
+            ],
+            [
+              8.48103,
+              76.91178
+            ],
+            [
+              8.48152,
+              76.91145
+            ],
+            [
+              8.48097,
+              76.9107
+            ],
+            [
+              8.48028,
+              76.91107
+            ],
+            [
+              8.4803,
+              76.91119
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

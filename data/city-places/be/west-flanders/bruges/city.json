@@ -12,28 +12,110 @@
     "maxLat": 51.212,
     "maxLng": 3.23
   },
-  "updatedAt": "2026-08-18T08:15:00.000Z",
+  "updatedAt": "2026-10-01T05:13:21.000Z",
   "status": "complete",
   "places": [
     {
       "id": "brugge-belfry",
       "name": "Belfry of Bruges",
-      "lat": 51.2084,
-      "lng": 3.2249,
+      "lat": 51.20824,
+      "lng": 3.22477,
       "radiusM": 100,
       "address": "Markt 7",
       "howTo": "Visit Belfry of Bruges.",
-      "badge": "badges/brugge-belfry.png"
+      "badge": "badges/brugge-belfry.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.20824,
+              3.22464
+            ],
+            [
+              51.20814,
+              3.22477
+            ],
+            [
+              51.20822,
+              3.22493
+            ],
+            [
+              51.20832,
+              3.22481
+            ],
+            [
+              51.20828,
+              3.22472
+            ],
+            [
+              51.20824,
+              3.22464
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "minnewater",
       "name": "Minnewater",
-      "lat": 51.2014,
-      "lng": 3.2236,
+      "lat": 51.19932,
+      "lng": 3.22389,
       "radiusM": 150,
       "address": "Minnewaterpark",
       "howTo": "Visit Minnewater.",
-      "badge": "badges/minnewater.png"
+      "badge": "badges/minnewater.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              51.19839,
+              3.22377
+            ],
+            [
+              51.19858,
+              3.22379
+            ],
+            [
+              51.19859,
+              3.22365
+            ],
+            [
+              51.19874,
+              3.22358
+            ],
+            [
+              51.20045,
+              3.22367
+            ],
+            [
+              51.20045,
+              3.22387
+            ],
+            [
+              51.20032,
+              3.22388
+            ],
+            [
+              51.2005,
+              3.22425
+            ],
+            [
+              51.19881,
+              3.22435
+            ],
+            [
+              51.19835,
+              3.22407
+            ],
+            [
+              51.19839,
+              3.22377
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

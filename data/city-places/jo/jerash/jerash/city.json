@@ -12,18 +12,49 @@
     "maxLat": 32.283,
     "maxLng": 35.895
   },
-  "updatedAt": "2026-08-18T08:50:00.000Z",
+  "updatedAt": "2026-10-01T11:19:48.000Z",
   "status": "complete",
   "places": [
     {
       "id": "hadrians-arch",
       "name": "Hadrian's Arch",
-      "lat": 32.2724,
-      "lng": 35.891,
+      "lat": 32.27231,
+      "lng": 35.89127,
       "radiusM": 80,
       "address": "Jerash",
       "howTo": "Visit Hadrian's Arch.",
-      "badge": "badges/hadrians-arch.png"
+      "badge": "badges/hadrians-arch.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              32.27236,
+              35.89111
+            ],
+            [
+              32.27226,
+              35.89111
+            ],
+            [
+              32.27225,
+              35.89143
+            ],
+            [
+              32.27235,
+              35.89143
+            ],
+            [
+              32.27235,
+              35.89126
+            ],
+            [
+              32.27236,
+              35.89111
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jerash-oval-plaza",

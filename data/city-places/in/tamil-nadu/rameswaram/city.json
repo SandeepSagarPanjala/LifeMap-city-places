@@ -12,7 +12,7 @@
     "maxLat": 9.3,
     "maxLng": 79.33
   },
-  "updatedAt": "2026-08-12T05:30:00.000Z",
+  "updatedAt": "2026-10-01T10:50:15.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,58 @@
       "radiusM": 200,
       "address": "Ramanathaswamy Temple, Rameswaram, TN",
       "howTo": "Visit Ramanathaswamy Temple.",
-      "badge": "badges/ramanathaswamy-temple.png"
+      "badge": "badges/ramanathaswamy-temple.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.28829,
+              79.3176
+            ],
+            [
+              9.28816,
+              79.31762
+            ],
+            [
+              9.28816,
+              79.31765
+            ],
+            [
+              9.28803,
+              79.31766
+            ],
+            [
+              9.28803,
+              79.31763
+            ],
+            [
+              9.28795,
+              79.31764
+            ],
+            [
+              9.28795,
+              79.31762
+            ],
+            [
+              9.28792,
+              79.31763
+            ],
+            [
+              9.28786,
+              79.31713
+            ],
+            [
+              9.28822,
+              79.31708
+            ],
+            [
+              9.28829,
+              79.3176
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "dhanushkodi",
@@ -38,12 +89,39 @@
     {
       "id": "pamban-bridge",
       "name": "Pamban Bridge",
-      "lat": 9.282,
-      "lng": 79.2085,
+      "lat": 9.28349,
+      "lng": 79.20629,
       "radiusM": 200,
       "address": "Pamban Bridge, Rameswaram, TN",
       "howTo": "Visit Pamban Bridge.",
-      "badge": "badges/pamban-bridge.png"
+      "badge": "badges/pamban-bridge.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              9.28345,
+              79.20611
+            ],
+            [
+              9.28353,
+              79.20611
+            ],
+            [
+              9.28353,
+              79.20648
+            ],
+            [
+              9.28345,
+              79.20648
+            ],
+            [
+              9.28345,
+              79.20611
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "agni-theertham",

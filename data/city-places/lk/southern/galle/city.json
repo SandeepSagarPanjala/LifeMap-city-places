@@ -12,7 +12,7 @@
     "maxLat": 6.03,
     "maxLng": 80.222
   },
-  "updatedAt": "2026-08-18T09:35:00.000Z",
+  "updatedAt": "2026-10-01T19:01:14.000Z",
   "status": "complete",
   "places": [
     {
@@ -28,12 +28,43 @@
     {
       "id": "galle-lighthouse",
       "name": "Galle Lighthouse",
-      "lat": 6.0244,
-      "lng": 80.2194,
+      "lat": 6.02455,
+      "lng": 80.21937,
       "radiusM": 80,
       "address": "Fort Rampart",
       "howTo": "Visit Galle Lighthouse.",
-      "badge": "badges/galle-lighthouse.png"
+      "badge": "badges/galle-lighthouse.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.02457,
+              80.21937
+            ],
+            [
+              6.02455,
+              80.21935
+            ],
+            [
+              6.02453,
+              80.21937
+            ],
+            [
+              6.02455,
+              80.2194
+            ],
+            [
+              6.02457,
+              80.21938
+            ],
+            [
+              6.02457,
+              80.21937
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

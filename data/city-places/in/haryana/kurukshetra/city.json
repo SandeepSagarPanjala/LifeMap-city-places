@@ -12,7 +12,7 @@
     "maxLat": 29.99,
     "maxLng": 76.88
   },
-  "updatedAt": "2026-08-12T00:04:57.000Z",
+  "updatedAt": "2026-10-01T10:23:11.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,34 @@
       "radiusM": 250,
       "address": "Brahma Sarovar, Kurukshetra, HR",
       "howTo": "Visit Brahma Sarovar.",
-      "badge": "badges/brahma-sarovar.png"
+      "badge": "badges/brahma-sarovar.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              29.96429,
+              76.82232
+            ],
+            [
+              29.95977,
+              76.82149
+            ],
+            [
+              29.95826,
+              76.83248
+            ],
+            [
+              29.96279,
+              76.83331
+            ],
+            [
+              29.96429,
+              76.82232
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "jyotisar",

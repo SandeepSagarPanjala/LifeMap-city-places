@@ -12,7 +12,7 @@
     "maxLat": 6.359,
     "maxLng": 2.443
   },
-  "updatedAt": "2026-08-19T01:13:14.000Z",
+  "updatedAt": "2026-10-01T07:18:01.000Z",
   "status": "complete",
   "places": [
     {
@@ -23,7 +23,50 @@
       "radiusM": 50,
       "address": "Cotonou",
       "howTo": "Visit Notre-Dame de Misericorde.",
-      "badge": "badges/notre-dame.png"
+      "badge": "badges/notre-dame.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              6.35638,
+              2.43895
+            ],
+            [
+              6.35645,
+              2.43921
+            ],
+            [
+              6.35654,
+              2.43918
+            ],
+            [
+              6.35657,
+              2.43928
+            ],
+            [
+              6.35616,
+              2.43939
+            ],
+            [
+              6.35614,
+              2.43929
+            ],
+            [
+              6.3563,
+              2.43925
+            ],
+            [
+              6.35623,
+              2.43899
+            ],
+            [
+              6.35638,
+              2.43895
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "cotonou-nave",

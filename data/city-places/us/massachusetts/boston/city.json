@@ -12,18 +12,49 @@
     "maxLat": 42.4,
     "maxLng": -71.01
   },
-  "updatedAt": "2026-08-11T00:11:53.000Z",
+  "updatedAt": "2026-10-05T00:37:44.000Z",
   "status": "complete",
   "places": [
     {
       "id": "boston-common",
       "name": "Boston Common",
-      "lat": 42.35504,
-      "lng": -71.06607,
+      "lat": 42.35485,
+      "lng": -71.06697,
       "radiusM": 400,
       "address": "Boston Common, Boston, MA",
       "howTo": "Visit Boston Common.",
-      "badge": "badges/boston-common.png"
+      "badge": "badges/boston-common.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.35488,
+              -71.06693
+            ],
+            [
+              42.35481,
+              -71.06693
+            ],
+            [
+              42.35481,
+              -71.06701
+            ],
+            [
+              42.35484,
+              -71.06703
+            ],
+            [
+              42.35489,
+              -71.06697
+            ],
+            [
+              42.35488,
+              -71.06693
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "boston-public-garden",
@@ -33,7 +64,38 @@
       "radiusM": 300,
       "address": "Boston Public Garden, Boston, MA",
       "howTo": "Visit the Boston Public Garden.",
-      "badge": "badges/boston-public-garden.png"
+      "badge": "badges/boston-public-garden.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.3554,
+              -71.07223
+            ],
+            [
+              42.35213,
+              -71.07065
+            ],
+            [
+              42.35273,
+              -71.06778
+            ],
+            [
+              42.35596,
+              -71.06949
+            ],
+            [
+              42.35541,
+              -71.07221
+            ],
+            [
+              42.3554,
+              -71.07223
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "massachusetts-state-house",
@@ -43,7 +105,130 @@
       "radiusM": 150,
       "address": "24 Beacon St, Boston, MA",
       "howTo": "Visit the Massachusetts State House.",
-      "badge": "badges/massachusetts-state-house.png"
+      "badge": "badges/massachusetts-state-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.3586,
+              -71.06349
+            ],
+            [
+              42.35842,
+              -71.06344
+            ],
+            [
+              42.35855,
+              -71.06293
+            ],
+            [
+              42.35811,
+              -71.0628
+            ],
+            [
+              42.35807,
+              -71.06302
+            ],
+            [
+              42.35831,
+              -71.06308
+            ],
+            [
+              42.35827,
+              -71.06338
+            ],
+            [
+              42.35812,
+              -71.06334
+            ],
+            [
+              42.35806,
+              -71.06348
+            ],
+            [
+              42.35801,
+              -71.06384
+            ],
+            [
+              42.35802,
+              -71.064
+            ],
+            [
+              42.35818,
+              -71.06403
+            ],
+            [
+              42.35816,
+              -71.06418
+            ],
+            [
+              42.35813,
+              -71.06432
+            ],
+            [
+              42.35788,
+              -71.06426
+            ],
+            [
+              42.35785,
+              -71.06447
+            ],
+            [
+              42.35831,
+              -71.06459
+            ],
+            [
+              42.35833,
+              -71.06404
+            ],
+            [
+              42.35852,
+              -71.06409
+            ],
+            [
+              42.35851,
+              -71.06417
+            ],
+            [
+              42.35865,
+              -71.06428
+            ],
+            [
+              42.35878,
+              -71.06423
+            ],
+            [
+              42.35879,
+              -71.06416
+            ],
+            [
+              42.35923,
+              -71.06429
+            ],
+            [
+              42.35925,
+              -71.06415
+            ],
+            [
+              42.35931,
+              -71.06417
+            ],
+            [
+              42.35933,
+              -71.06367
+            ],
+            [
+              42.35862,
+              -71.06349
+            ],
+            [
+              42.3586,
+              -71.06349
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "faneuil-hall",
@@ -53,7 +238,34 @@
       "radiusM": 150,
       "address": "1 Faneuil Hall Square, Boston, MA",
       "howTo": "Visit Faneuil Hall.",
-      "badge": "badges/faneuil-hall.png"
+      "badge": "badges/faneuil-hall.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.3599,
+              -71.0564
+            ],
+            [
+              42.36012,
+              -71.05644
+            ],
+            [
+              42.36016,
+              -71.05607
+            ],
+            [
+              42.35994,
+              -71.05603
+            ],
+            [
+              42.3599,
+              -71.0564
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-state-house",
@@ -63,7 +275,42 @@
       "radiusM": 150,
       "address": "206 Washington St, Boston, MA",
       "howTo": "Visit the Old State House.",
-      "badge": "badges/old-state-house.png"
+      "badge": "badges/old-state-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.35868,
+              -71.05747
+            ],
+            [
+              42.35867,
+              -71.05767
+            ],
+            [
+              42.35878,
+              -71.05768
+            ],
+            [
+              42.35879,
+              -71.05727
+            ],
+            [
+              42.35868,
+              -71.05726
+            ],
+            [
+              42.35867,
+              -71.05746
+            ],
+            [
+              42.35868,
+              -71.05747
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "uss-constitution",
@@ -73,7 +320,42 @@
       "radiusM": 200,
       "address": "Building 22, Charlestown Navy Yard, Boston, MA",
       "howTo": "Visit the USS Constitution.",
-      "badge": "badges/uss-constitution.png"
+      "badge": "badges/uss-constitution.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37262,
+              -71.05683
+            ],
+            [
+              42.37255,
+              -71.05689
+            ],
+            [
+              42.37231,
+              -71.05642
+            ],
+            [
+              42.37227,
+              -71.05621
+            ],
+            [
+              42.37241,
+              -71.05635
+            ],
+            [
+              42.37256,
+              -71.05667
+            ],
+            [
+              42.37262,
+              -71.05683
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "bunker-hill-monument",
@@ -83,17 +365,72 @@
       "radiusM": 200,
       "address": "Monument Square, Charlestown, Boston, MA",
       "howTo": "Visit the Bunker Hill Monument.",
-      "badge": "badges/bunker-hill-monument.png"
+      "badge": "badges/bunker-hill-monument.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.37633,
+              -71.06083
+            ],
+            [
+              42.3764,
+              -71.0608
+            ],
+            [
+              42.37638,
+              -71.0607
+            ],
+            [
+              42.3763,
+              -71.06073
+            ],
+            [
+              42.37633,
+              -71.06083
+            ]
+          ]
+        ],
+        "padM": 30
+      }
     },
     {
       "id": "fenway-park",
       "name": "Fenway Park",
-      "lat": 42.34646,
-      "lng": -71.0971,
+      "lat": 42.34466,
+      "lng": -71.09868,
       "radiusM": 200,
       "address": "4 Jersey St, Boston, MA",
       "howTo": "Visit Fenway Park.",
-      "badge": "badges/fenway-park.png"
+      "badge": "badges/fenway-park.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.34448,
+              -71.09875
+            ],
+            [
+              42.34476,
+              -71.09889
+            ],
+            [
+              42.34484,
+              -71.09861
+            ],
+            [
+              42.34456,
+              -71.09847
+            ],
+            [
+              42.34448,
+              -71.09875
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "museum-of-fine-arts-boston",
@@ -103,7 +440,134 @@
       "radiusM": 200,
       "address": "465 Huntington Ave, Boston, MA",
       "howTo": "Visit the Museum of Fine Arts.",
-      "badge": "badges/museum-of-fine-arts-boston.png"
+      "badge": "badges/museum-of-fine-arts-boston.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.33854,
+              -71.09457
+            ],
+            [
+              42.33901,
+              -71.09492
+            ],
+            [
+              42.33895,
+              -71.09507
+            ],
+            [
+              42.33951,
+              -71.09546
+            ],
+            [
+              42.33969,
+              -71.095
+            ],
+            [
+              42.3398,
+              -71.09508
+            ],
+            [
+              42.34019,
+              -71.09406
+            ],
+            [
+              42.34008,
+              -71.09399
+            ],
+            [
+              42.3402,
+              -71.09368
+            ],
+            [
+              42.3403,
+              -71.09375
+            ],
+            [
+              42.34038,
+              -71.09352
+            ],
+            [
+              42.3402,
+              -71.09339
+            ],
+            [
+              42.34012,
+              -71.09345
+            ],
+            [
+              42.34016,
+              -71.09336
+            ],
+            [
+              42.33988,
+              -71.09317
+            ],
+            [
+              42.3398,
+              -71.09323
+            ],
+            [
+              42.33984,
+              -71.09314
+            ],
+            [
+              42.33966,
+              -71.09302
+            ],
+            [
+              42.33948,
+              -71.09351
+            ],
+            [
+              42.33929,
+              -71.09338
+            ],
+            [
+              42.3394,
+              -71.0931
+            ],
+            [
+              42.33918,
+              -71.09295
+            ],
+            [
+              42.33898,
+              -71.09337
+            ],
+            [
+              42.33924,
+              -71.09356
+            ],
+            [
+              42.33913,
+              -71.09383
+            ],
+            [
+              42.33905,
+              -71.09382
+            ],
+            [
+              42.33894,
+              -71.0943
+            ],
+            [
+              42.33868,
+              -71.09412
+            ],
+            [
+              42.33866,
+              -71.09426
+            ],
+            [
+              42.33854,
+              -71.09457
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "new-england-aquarium",
@@ -113,7 +577,82 @@
       "radiusM": 150,
       "address": "1 Central Wharf, Boston, MA",
       "howTo": "Visit the New England Aquarium.",
-      "badge": "badges/new-england-aquarium.png"
+      "badge": "badges/new-england-aquarium.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.35902,
+              -71.04891
+            ],
+            [
+              42.35895,
+              -71.04935
+            ],
+            [
+              42.359,
+              -71.04936
+            ],
+            [
+              42.35901,
+              -71.04953
+            ],
+            [
+              42.35898,
+              -71.0498
+            ],
+            [
+              42.35908,
+              -71.04979
+            ],
+            [
+              42.35912,
+              -71.04939
+            ],
+            [
+              42.35924,
+              -71.04942
+            ],
+            [
+              42.35921,
+              -71.04971
+            ],
+            [
+              42.35931,
+              -71.04991
+            ],
+            [
+              42.35944,
+              -71.04902
+            ],
+            [
+              42.35941,
+              -71.04901
+            ],
+            [
+              42.35943,
+              -71.04885
+            ],
+            [
+              42.35924,
+              -71.0488
+            ],
+            [
+              42.35922,
+              -71.04896
+            ],
+            [
+              42.35907,
+              -71.04892
+            ],
+            [
+              42.35902,
+              -71.04891
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "old-north-church",
@@ -123,7 +662,66 @@
       "radiusM": 150,
       "address": "193 Salem St, Boston, MA",
       "howTo": "Visit the Old North Church.",
-      "badge": "badges/old-north-church.png"
+      "badge": "badges/old-north-church.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.36624,
+              -71.05436
+            ],
+            [
+              42.36621,
+              -71.05439
+            ],
+            [
+              42.3663,
+              -71.0546
+            ],
+            [
+              42.36634,
+              -71.05458
+            ],
+            [
+              42.36636,
+              -71.05463
+            ],
+            [
+              42.36641,
+              -71.05459
+            ],
+            [
+              42.36639,
+              -71.05454
+            ],
+            [
+              42.36642,
+              -71.05451
+            ],
+            [
+              42.36633,
+              -71.05429
+            ],
+            [
+              42.36629,
+              -71.05432
+            ],
+            [
+              42.36626,
+              -71.05431
+            ],
+            [
+              42.36624,
+              -71.05435
+            ],
+            [
+              42.36624,
+              -71.05436
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "paul-revere-house",
@@ -133,7 +731,42 @@
       "radiusM": 150,
       "address": "19 North Square, Boston, MA",
       "howTo": "Visit the Paul Revere House.",
-      "badge": "badges/paul-revere-house.png"
+      "badge": "badges/paul-revere-house.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.36376,
+              -71.05361
+            ],
+            [
+              42.3638,
+              -71.05374
+            ],
+            [
+              42.36375,
+              -71.05376
+            ],
+            [
+              42.36372,
+              -71.05372
+            ],
+            [
+              42.36369,
+              -71.05373
+            ],
+            [
+              42.36367,
+              -71.05366
+            ],
+            [
+              42.36376,
+              -71.05361
+            ]
+          ]
+        ]
+      }
     },
     {
       "id": "boston-public-library",
@@ -148,12 +781,43 @@
     {
       "id": "trinity-church-boston",
       "name": "Trinity Church",
-      "lat": 42.35007,
-      "lng": -71.07543,
+      "lat": 42.35178,
+      "lng": -71.07556,
       "radiusM": 150,
       "address": "206 Clarendon St, Boston, MA",
       "howTo": "Visit Trinity Church at Copley Square.",
-      "badge": "badges/trinity-church-boston.png"
+      "badge": "badges/trinity-church-boston.png",
+      "outline": {
+        "type": "polygon",
+        "rings": [
+          [
+            [
+              42.35166,
+              -71.07546
+            ],
+            [
+              42.35164,
+              -71.07556
+            ],
+            [
+              42.35187,
+              -71.07567
+            ],
+            [
+              42.3519,
+              -71.07557
+            ],
+            [
+              42.35183,
+              -71.07553
+            ],
+            [
+              42.35166,
+              -71.07546
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
